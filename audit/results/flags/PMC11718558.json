@@ -1,0 +1,559 @@
+{
+  "paper": "PMC11718558",
+  "source_file": "pmcid:11718558",
+  "generated": "2026-07-01T13:29:22.677509+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "dry_run_skipped": 53,
+    "unresolved_reference": 4
+  },
+  "flagged": [
+    {
+      "sentence": "Ethnicity was stratified per UK census categories[22] into Black African, Black Caribbean, White, and other (eg, Asian, other Black ethnicity, and multiple ethnicities).",
+      "citation_number": 22,
+      "ref_text": "Office for National Statistics. Census 2021: population and household estimates for the United Kingdom. Accessed September 15, 2023. https://www.nomisweb.co.uk/sources/census_2021",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1101/2024.01.26.24301819",
+        "title": "Population estimates of the number of adults in the United Kingdom with a hearing loss updated using 2021 and 2022 census data",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.4,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Socioeconomic status was estimated by occupation, educational attainment (since 2004), and the Index of Multiple Deprivation (IMD),[25] a neighborhood deprivation measure widely used in the UK, linked to each participant by postcode (eMethods in Supplement 1).",
+      "citation_number": 25,
+      "ref_text": "Ministry of Housing. English indices of deprivation. Accessed June 26, 2023. https://www.gov.uk/government/collections/english-indices-of-deprivation",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.4324/9781315178523-6",
+        "title": "Access and Deprivation in Local Authority Housing",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.6,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Recent ONS data for England and Wales showed generally higher life expectancies in Black individuals, which likely extend to our study cohort (Black African individuals: 84 years for men and 89 years for women; Black Caribbean individuals: 81 years for men and 85 years for women; White individuals: 80 years for men and 83 years for women).[33] Our cohort’s Black participants were predominantly first-generation immigrants; therefore, the previously proposed healthy migrant effect[1] may play a role.",
+      "citation_number": 33,
+      "ref_text": "Office for National Statistics. Ethnic differences in life expectancy and mortality from selected causes in England and Wales: 2011 to 2014. Accessed June 26, 2023. https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/ethnicdifferencesinlifeexpectancyandmortalityfromselectedcausesinenglandandwales/2011to2014",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1057/hsq.2011.2",
+        "title": "Deriving trends in life expectancy by the National Statistics Socio‐economic Classification using the ONS Longitudinal Study",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.33,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "This might contribute to our finding that Black African participants, who on average immigrated to the UK more recently,[34] had better survival than Black Caribbean participants.",
+      "citation_number": 34,
+      "ref_text": "Owen D. African migration to the UK. Paper presented at: University of Warwick, Centre for Research in Ethnic Relations Conference on African Transnational and Return Migration. Coventry, UK; June 29-30, 2009. Accessed June 15, 2024. http://www2.warwick.ac.uk/fac/soc/crer/events/african/conference_paper",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/0899-5362(95)90016-0",
+        "title": "Applied Geoscience Conference Warwick University, UK 15–18 April 1996",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.43,
+        "confident": false
+      }
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 1,
+      "ref_text": "Wang Y, Rudd AG, Wolfe CD. Trends and survival between ethnic groups after stroke: the South London Stroke Register. Stroke. 2013;44(2):380-387. doi:10.1161/STROKEAHA.112.68084323321449",
+      "doi": "10.1161/STROKEAHA.112.680843",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 2,
+      "ref_text": "Mkoma GF, Johnsen SP, Agyemang C, . Processes of care and associated factors in patients with stroke by immigration status. Med Care. 2023;61(3):120-129. doi:10.1097/MLR.000000000000178736603146 PMC9924956",
+      "doi": "10.1097/MLR.0000000000001787",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 3,
+      "ref_text": "Thompson SG, Barber PA, Gommans JH, . The impact of ethnicity on stroke care access and patient outcomes: a New Zealand nationwide observational study. Lancet Reg Health West Pac. 2022;20:100358. doi:10.1016/j.lanwpc.2021.10035835036976 PMC8743211",
+      "doi": "10.1016/j.lanwpc.2021.100358",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 4,
+      "ref_text": "Kimball MM, Neal D, Waters MF, Hoh BL. Race and income disparity in ischemic stroke care: nationwide inpatient sample database, 2002 to 2008. J Stroke Cerebrovasc Dis. 2014;23(1):17-24. doi:10.1016/j.jstrokecerebrovasdis.2012.06.00422818388",
+      "doi": "10.1016/j.jstrokecerebrovasdis.2012.06.004",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 5,
+      "ref_text": "Gutierrez J, Williams OA. A decade of racial and ethnic stroke disparities in the United States. Neurology. 2014;82(12):1080-1082. doi:10.1212/WNL.000000000000023724663229 PMC3962991",
+      "doi": "10.1212/WNL.0000000000000237",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 6,
+      "ref_text": "Suolang D, Chen BJ, Wang NY, Gottesman RF, Faigle R. Temporal trends in stroke thrombolysis in the US by race and ethnicity, 2009-2018. JAMA. 2021;326(17):1741-1743. doi:10.1001/jama.2021.1296634633406 PMC8506301",
+      "doi": "10.1001/jama.2021.12966",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 7,
+      "ref_text": "de Havenon A, Sheth K, Johnston KC, . Acute ischemic stroke interventions in the United States and racial, socioeconomic, and geographic disparities. Neurology. 2021;97(23):e2292-e2303. doi:10.1212/WNL.000000000001294334649872 PMC8665433",
+      "doi": "10.1212/WNL.0000000000012943",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 8,
+      "ref_text": "Man S, Solomon N, Mac Grory B, . Trends in stroke thrombolysis care metrics and outcomes by race and ethnicity, 2003-2021. JAMA Netw Open. 2024;7(2):e2352927. doi:10.1001/jamanetworkopen.2023.5292738324315 PMC10851100",
+      "doi": "10.1001/jamanetworkopen.2023.52927",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 9,
+      "ref_text": "Coutinho JM, Klaver EC, Roos YB, Stam J, Nederkoorn PJ. Ethnicity and thrombolysis in ischemic stroke: a hospital based study in Amsterdam. BMC Neurol. 2011;11:81. doi:10.1186/1471-2377-11-8121714938 PMC3145566",
+      "doi": "10.1186/1471-2377-11-81",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 10,
+      "ref_text": "Sacco RL, Gardener H, Wang K, ; FL-PR CReSD Investigators and Collaborators. Racial-ethnic disparities in acute stroke care in the Florida-Puerto Rico Collaboration to Reduce Stroke Disparities Study. J Am Heart Assoc. 2017;6(2):e004073. doi:10.1161/JAHA.116.00407328196814 PMC5523741",
+      "doi": "10.1161/JAHA.116.004073",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 11,
+      "ref_text": "Samuels I, Wang MTM, Chong KP, Davis A, Ranta A, Barber PA; Northern Region Stroke Network. Ethnic differences in access to stroke reperfusion therapy in northern New Zealand. Neuroepidemiology. 2020;54(5):427-432. doi:10.1159/00051050532957111",
+      "doi": "10.1159/000510505",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 12,
+      "ref_text": "Howard G, Moy CS, Howard VJ, ; REGARDS Investigators. Where to focus efforts to reduce the Black-White disparity in stroke mortality: incidence versus case fatality? Stroke. 2016;47(7):1893-1898. doi:10.1161/STROKEAHA.115.01263127256672 PMC4927373",
+      "doi": "10.1161/STROKEAHA.115.012631",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 13,
+      "ref_text": "Gardener H, Sacco RL, Rundek T, Battistella V, Cheung YK, Elkind MSV. Race and ethnic disparities in stroke incidence in the Northern Manhattan Study. Stroke. 2020;51(4):1064-1069. doi:10.1161/STROKEAHA.119.02880632078475 PMC7093213",
+      "doi": "10.1161/STROKEAHA.119.028806",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 14,
+      "ref_text": "Hanchate AD, Schwamm LH, Huang W, Hylek EM. Comparison of ischemic stroke outcomes and patient and hospital characteristics by race/ethnicity and socioeconomic status. Stroke. 2013;44(2):469-476. doi:10.1161/STROKEAHA.112.66934123306327 PMC3595403",
+      "doi": "10.1161/STROKEAHA.112.669341",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 15,
+      "ref_text": "Kumar N, Khera R, Pandey A, Garg N. Racial differences in outcomes after acute ischemic stroke hospitalization in the United States. J Stroke Cerebrovasc Dis. 2016;25(8):1970-1977. doi:10.1016/j.jstrokecerebrovasdis.2016.03.04927212273",
+      "doi": "10.1016/j.jstrokecerebrovasdis.2016.03.049",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 16,
+      "ref_text": "Burke JF, Feng C, Skolarus LE. Divergent poststroke outcomes for Black patients: Lower mortality, but greater disability. Neurology. 2019;93(18):e1664-e1674. doi:10.1212/WNL.000000000000839131554649 PMC6946478",
+      "doi": "10.1212/WNL.0000000000008391",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 17,
+      "ref_text": "Yao J, Ghosh K, Perraillon MC, Cutler DM, Fang MC. Trends and racial differences in first hospitalization for stroke and 30-day mortality in the US Medicare population from 1988 to 2013. Med Care. 2019;57(4):262-269. doi:10.1097/MLR.000000000000107930870384 PMC6419736",
+      "doi": "10.1097/MLR.0000000000001079",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 18,
+      "ref_text": "Vyas MV, Austin PC, Fang J, Laupacis A, Silver FL, Kapral MK. Immigration status, ethnicity, and long-term outcomes following ischemic stroke. Neurology. 2021;96(8):e1145-e1155. doi:10.1212/WNL.000000000001145133472924",
+      "doi": "10.1212/WNL.0000000000011451",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 19,
+      "ref_text": "Byberg S, Agyemang C, Zwisler AD, Krasnik A, Norredam M. Cardiovascular disease incidence and survival: are migrants always worse off? Eur J Epidemiol. 2016;31(7):667-677. doi:10.1007/s10654-015-0024-725968173",
+      "doi": "10.1007/s10654-015-0024-7",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We previously reported higher stroke unit admission rates in Black patients,[1] while other studies reported ethnic minority patients (defined in the context of this study as individuals who are not White, including Black African, Black Caribbean, and individuals who identify as another ethnicity [eg, Asian, other Black ethnicity, or multiple ethnicities]) were less likely to be admitted to stroke units.[2],[3] Several studies reported lower thrombolysis or thrombectomy rates for racial and ethnic minority patients,[4],[5],[6],[7],[8],[9] while others found a higher or similar likelihood of evidence-based acute care.[3],[10],[11] Higher stroke-related mortality in racial and ethnic minority patients has been well documented, largely driven by higher stroke incidence.[12],[13] However, several US studies investigating hospitalized patients with stroke up to 30 days after the index event, and Canadian and Danish studies with long-term follow-up have indicated either similar[14] or better survival in racial and ethnic minority patients.[15],[16],[17],[18],[19] Few studies have investigated functional outcomes, again typically at discharge or over short follow-up periods, pointing toward greater disability in racial and ethnic minority groups.[3],[16],[20] Reports on temporal trends in inequalities, especially with regards to outcomes, are scarce,[8],[17],[20] and the impact of the major improvements in stroke care over the last decades on racial and ethnic inequalities remains unclear.",
+      "citation_number": 20,
+      "ref_text": "Sheriff F, Xu H, Maud A, . Temporal trends in racial and ethnic disparities in endovascular therapy in acute ischemic stroke. J Am Heart Assoc. 2022;11(6):e023212. doi:10.1161/JAHA.121.02321235229659 PMC9075329",
+      "doi": "10.1161/JAHA.121.023212",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The methods of the SLSR have been described previously.[21] Multiple overlapping notification sources were used to enhance index event ascertainment, including hospital admissions, outpatient clinics, radiology reports, accident and emergency department records, and general practitioners.",
+      "citation_number": 21,
+      "ref_text": "Marshall IJ, Wolfe C, Emmett E, . Cohort profile: the South London Stroke Register—a population-based register measuring the incidence and outcomes of stroke. J Stroke Cerebrovasc Dis. 2023;32(8):107210. doi:10.1016/j.jstrokecerebrovasdis.2023.10721037384980",
+      "doi": "10.1016/j.jstrokecerebrovasdis.2023.107210",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Ethnicity was stratified per UK census categories[22] into Black African, Black Caribbean, White, and other (eg, Asian, other Black ethnicity, and multiple ethnicities).",
+      "citation_number": 22,
+      "ref_text": "Office for National Statistics. Census 2021: population and household estimates for the United Kingdom. Accessed September 15, 2023. https://www.nomisweb.co.uk/sources/census_2021",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1101/2024.01.26.24301819",
+        "title": "Population estimates of the number of adults in the United Kingdom with a hearing loss updated using 2021 and 2022 census data",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.4,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Functional outcomes after stroke was assessed by the Barthel Index[23] (BI; range, 0-20; <15 categorized as moderate or severe disability) and Frenchay Activities Index[24] (FAI; range, 0-45; <16 categorized as inactive), collected at 3-month and 5-year follow-ups via face-to-face or telephone interview or postal questionnaire.",
+      "citation_number": 23,
+      "ref_text": "Wade DT, Collin C. The Barthel ADL Index: a standard measure of physical disability? Int Disabil Stud. 1988;10(2):64-67. doi:10.3109/096382888091641053042746",
+      "doi": "10.3109/09638288809164105",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Functional outcomes after stroke was assessed by the Barthel Index[23] (BI; range, 0-20; <15 categorized as moderate or severe disability) and Frenchay Activities Index[24] (FAI; range, 0-45; <16 categorized as inactive), collected at 3-month and 5-year follow-ups via face-to-face or telephone interview or postal questionnaire.",
+      "citation_number": 24,
+      "ref_text": "Holbrook M, Skilbeck CE. An activities index for use with stroke patients. Age Ageing. 1983;12(2):166-170. doi:10.1093/ageing/12.2.1666869117",
+      "doi": "10.1093/ageing/12.2.166",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Socioeconomic status was estimated by occupation, educational attainment (since 2004), and the Index of Multiple Deprivation (IMD),[25] a neighborhood deprivation measure widely used in the UK, linked to each participant by postcode (eMethods in Supplement 1).",
+      "citation_number": 25,
+      "ref_text": "Ministry of Housing. English indices of deprivation. Accessed June 26, 2023. https://www.gov.uk/government/collections/english-indices-of-deprivation",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.4324/9781315178523-6",
+        "title": "Access and Deprivation in Local Authority Housing",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.6,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Black participants, especially Black African participants, were significantly younger at first-time stroke than White participants (mean [SD] age: Black African participants, 59 [14] years; Black Caribbean participants, 68 [15] years; White participants, 72 [14] years), and with a higher proportion living in more deprived neighborhoods (Table).",
+      "citation_number": 14,
+      "ref_text": "Hanchate AD, Schwamm LH, Huang W, Hylek EM. Comparison of ischemic stroke outcomes and patient and hospital characteristics by race/ethnicity and socioeconomic status. Stroke. 2013;44(2):469-476. doi:10.1161/STROKEAHA.112.66934123306327 PMC3595403",
+      "doi": "10.1161/STROKEAHA.112.669341",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Black participants, especially Black African participants, were significantly younger at first-time stroke than White participants (mean [SD] age: Black African participants, 59 [14] years; Black Caribbean participants, 68 [15] years; White participants, 72 [14] years), and with a higher proportion living in more deprived neighborhoods (Table).",
+      "citation_number": 15,
+      "ref_text": "Kumar N, Khera R, Pandey A, Garg N. Racial differences in outcomes after acute ischemic stroke hospitalization in the United States. J Stroke Cerebrovasc Dis. 2016;25(8):1970-1977. doi:10.1016/j.jstrokecerebrovasdis.2016.03.04927212273",
+      "doi": "10.1016/j.jstrokecerebrovasdis.2016.03.049",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Most studies investigating inequalities between Black and White people with stroke were undertaken within the US health care setting and predominantly reported lower thrombolysis rates in African American individuals.[6],[7],[8] In our study, we observed persistently lower thrombolysis rates specifically in Black Caribbean but not Black African participants.",
+      "citation_number": 6,
+      "ref_text": "Suolang D, Chen BJ, Wang NY, Gottesman RF, Faigle R. Temporal trends in stroke thrombolysis in the US by race and ethnicity, 2009-2018. JAMA. 2021;326(17):1741-1743. doi:10.1001/jama.2021.1296634633406 PMC8506301",
+      "doi": "10.1001/jama.2021.12966",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Most studies investigating inequalities between Black and White people with stroke were undertaken within the US health care setting and predominantly reported lower thrombolysis rates in African American individuals.[6],[7],[8] In our study, we observed persistently lower thrombolysis rates specifically in Black Caribbean but not Black African participants.",
+      "citation_number": 7,
+      "ref_text": "de Havenon A, Sheth K, Johnston KC, . Acute ischemic stroke interventions in the United States and racial, socioeconomic, and geographic disparities. Neurology. 2021;97(23):e2292-e2303. doi:10.1212/WNL.000000000001294334649872 PMC8665433",
+      "doi": "10.1212/WNL.0000000000012943",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Most studies investigating inequalities between Black and White people with stroke were undertaken within the US health care setting and predominantly reported lower thrombolysis rates in African American individuals.[6],[7],[8] In our study, we observed persistently lower thrombolysis rates specifically in Black Caribbean but not Black African participants.",
+      "citation_number": 8,
+      "ref_text": "Man S, Solomon N, Mac Grory B, . Trends in stroke thrombolysis care metrics and outcomes by race and ethnicity, 2003-2021. JAMA Netw Open. 2024;7(2):e2352927. doi:10.1001/jamanetworkopen.2023.5292738324315 PMC10851100",
+      "doi": "10.1001/jamanetworkopen.2023.52927",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We also found a higher likelihood of delayed hospital presentation among Black Caribbean participants, as previous studies had for Black individuals.[26],[27] This might contribute to the observed lower thrombolysis rates, as indicated by the attenuated association when adjusting for arrival time.",
+      "citation_number": 26,
+      "ref_text": "Boehme AK, Siegler JE, Mullen MT, . Racial and gender differences in stroke severity, outcomes, and treatment in patients with acute ischemic stroke. J Stroke Cerebrovasc Dis. 2014;23(4):e255-e261. doi:10.1016/j.jstrokecerebrovasdis.2013.11.00324468069 PMC3989836",
+      "doi": "10.1016/j.jstrokecerebrovasdis.2013.11.003",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We also found a higher likelihood of delayed hospital presentation among Black Caribbean participants, as previous studies had for Black individuals.[26],[27] This might contribute to the observed lower thrombolysis rates, as indicated by the attenuated association when adjusting for arrival time.",
+      "citation_number": 27,
+      "ref_text": "Springer MV, Labovitz DL, Hochheiser EC. Race-ethnic disparities in hospital arrival time after ischemic stroke. Ethn Dis. 2017;27(2):125-132. doi:10.18865/ed.27.2.12528439183 PMC5398171",
+      "doi": "10.18865/ed.27.2.125",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "A nationwide US study additionally reported higher thrombolysis refusal rates in Black patients.[28] Further research is required, but late arrivals and higher refusal rates, combined with our study’s indication of lower educational attainment of Black Caribbean participants, might point toward ethnic differences in the awareness of stroke requiring urgent treatment and/or cultural barriers to accessing care.",
+      "citation_number": 28,
+      "ref_text": "Mendelson SJ, Zhang S, Matsouaka R, . Race-ethnic disparities in rates of declination of thrombolysis for stroke. Neurology. 2022;98(16):e1596-e1604. doi:10.1212/WNL.000000000020013835228335 PMC9052571",
+      "doi": "10.1212/WNL.0000000000200138",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Awareness campaigns could be beneficial but have been reported to disproportionally help individuals who are less disadvantaged, thereby potentially increasing health inequalities further.[29] Future campaigns should be tailored to identify and address race- and ethnicity-specific barriers, as well as detrimental perceptions and attitudes of patients and their communities, but also health professionals.",
+      "citation_number": 29,
+      "ref_text": "Lorenc T, Petticrew M, Welch V, Tugwell P. What types of interventions generate inequalities: evidence from systematic reviews. J Epidemiol Community Health. 2013;67(2):190-193. doi:10.1136/jech-2012-20125722875078",
+      "doi": "10.1136/jech-2012-201257",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The previously reported higher stroke unit admission rate for Black participants[1],[30] was observed only in the earliest cohort but not thereafter.",
+      "citation_number": 1,
+      "ref_text": "Wang Y, Rudd AG, Wolfe CD. Trends and survival between ethnic groups after stroke: the South London Stroke Register. Stroke. 2013;44(2):380-387. doi:10.1161/STROKEAHA.112.68084323321449",
+      "doi": "10.1161/STROKEAHA.112.680843",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The previously reported higher stroke unit admission rate for Black participants[1],[30] was observed only in the earliest cohort but not thereafter.",
+      "citation_number": 30,
+      "ref_text": "Aldridge RW, Nellums LB, Bartlett S, . Global patterns of mortality in international migrants: a systematic review and meta-analysis. Lancet. 2018;392(10164):2553-2566. doi:10.1016/S0140-6736(18)32781-830528484 PMC6294735",
+      "doi": "10.1016/S0140-6736(18)32781-8",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The finding of equal access to stroke unit care for ethnic minority patients since 2004 is at odds with some reports of poorer access from other countries with universal health care.[2],[3] Country-specific, structural, and race- and ethnicity-specific, or cultural factors might play a role, but the findings of this study suggest equitable stroke unit access in our setting.",
+      "citation_number": 2,
+      "ref_text": "Mkoma GF, Johnsen SP, Agyemang C, . Processes of care and associated factors in patients with stroke by immigration status. Med Care. 2023;61(3):120-129. doi:10.1097/MLR.000000000000178736603146 PMC9924956",
+      "doi": "10.1097/MLR.0000000000001787",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The finding of equal access to stroke unit care for ethnic minority patients since 2004 is at odds with some reports of poorer access from other countries with universal health care.[2],[3] Country-specific, structural, and race- and ethnicity-specific, or cultural factors might play a role, but the findings of this study suggest equitable stroke unit access in our setting.",
+      "citation_number": 3,
+      "ref_text": "Thompson SG, Barber PA, Gommans JH, . The impact of ethnicity on stroke care access and patient outcomes: a New Zealand nationwide observational study. Lancet Reg Health West Pac. 2022;20:100358. doi:10.1016/j.lanwpc.2021.10035835036976 PMC8743211",
+      "doi": "10.1016/j.lanwpc.2021.100358",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Like previous studies,[15],[16],[17] we found higher survival rates in Black participants compared with White participants in adjusted analyses.",
+      "citation_number": 15,
+      "ref_text": "Kumar N, Khera R, Pandey A, Garg N. Racial differences in outcomes after acute ischemic stroke hospitalization in the United States. J Stroke Cerebrovasc Dis. 2016;25(8):1970-1977. doi:10.1016/j.jstrokecerebrovasdis.2016.03.04927212273",
+      "doi": "10.1016/j.jstrokecerebrovasdis.2016.03.049",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Like previous studies,[15],[16],[17] we found higher survival rates in Black participants compared with White participants in adjusted analyses.",
+      "citation_number": 16,
+      "ref_text": "Burke JF, Feng C, Skolarus LE. Divergent poststroke outcomes for Black patients: Lower mortality, but greater disability. Neurology. 2019;93(18):e1664-e1674. doi:10.1212/WNL.000000000000839131554649 PMC6946478",
+      "doi": "10.1212/WNL.0000000000008391",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Like previous studies,[15],[16],[17] we found higher survival rates in Black participants compared with White participants in adjusted analyses.",
+      "citation_number": 17,
+      "ref_text": "Yao J, Ghosh K, Perraillon MC, Cutler DM, Fang MC. Trends and racial differences in first hospitalization for stroke and 30-day mortality in the US Medicare population from 1988 to 2013. Med Care. 2019;57(4):262-269. doi:10.1097/MLR.000000000000107930870384 PMC6419736",
+      "doi": "10.1097/MLR.0000000000001079",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This finding is unexplained, and to some extent counterintuitive, as racial and ethnic minority status has been linked to socioeconomic deprivation, which was in turn reported to be associated with poorer survival after stroke.[31] However, in this study, the link between deprivation and ethnic minority status was inconsistent among ethnic minority groups.",
+      "citation_number": 31,
+      "ref_text": "Marshall IJ, Wang Y, Crichton S, McKevitt C, Rudd AG, Wolfe CD. The effects of socioeconomic status on stroke risk and outcomes. Lancet Neurol. 2015;14(12):1206-1218. doi:10.1016/S1474-4422(15)00200-826581971",
+      "doi": "10.1016/S1474-4422(15)00200-8",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Higher rates of life-sustaining interventions in Black patients with stroke were suggested in 1 US study as a possible cause for lower mortality.[32] However, while we have no data on further acute or postacute interventions, differential rates of thrombolysis and stroke unit admission did not explain survival disparities in our study.",
+      "citation_number": 32,
+      "ref_text": "Xian Y, Holloway RG, Noyes K, Shah MN, Friedman B. Racial differences in mortality among patients with acute ischemic stroke: an observational study. Ann Intern Med. 2011;154(3):152-159. doi:10.7326/0003-4819-154-3-201102010-0000421282694 PMC3285233",
+      "doi": "10.7326/0003-4819-154-3-201102010-00004",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Recent ONS data for England and Wales showed generally higher life expectancies in Black individuals, which likely extend to our study cohort (Black African individuals: 84 years for men and 89 years for women; Black Caribbean individuals: 81 years for men and 85 years for women; White individuals: 80 years for men and 83 years for women).[33] Our cohort’s Black participants were predominantly first-generation immigrants; therefore, the previously proposed healthy migrant effect[1] may play a role.",
+      "citation_number": 1,
+      "ref_text": "Wang Y, Rudd AG, Wolfe CD. Trends and survival between ethnic groups after stroke: the South London Stroke Register. Stroke. 2013;44(2):380-387. doi:10.1161/STROKEAHA.112.68084323321449",
+      "doi": "10.1161/STROKEAHA.112.680843",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Recent ONS data for England and Wales showed generally higher life expectancies in Black individuals, which likely extend to our study cohort (Black African individuals: 84 years for men and 89 years for women; Black Caribbean individuals: 81 years for men and 85 years for women; White individuals: 80 years for men and 83 years for women).[33] Our cohort’s Black participants were predominantly first-generation immigrants; therefore, the previously proposed healthy migrant effect[1] may play a role.",
+      "citation_number": 33,
+      "ref_text": "Office for National Statistics. Ethnic differences in life expectancy and mortality from selected causes in England and Wales: 2011 to 2014. Accessed June 26, 2023. https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/articles/ethnicdifferencesinlifeexpectancyandmortalityfromselectedcausesinenglandandwales/2011to2014",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1057/hsq.2011.2",
+        "title": "Deriving trends in life expectancy by the National Statistics Socio‐economic Classification using the ONS Longitudinal Study",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.33,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "This might contribute to our finding that Black African participants, who on average immigrated to the UK more recently,[34] had better survival than Black Caribbean participants.",
+      "citation_number": 34,
+      "ref_text": "Owen D. African migration to the UK. Paper presented at: University of Warwick, Centre for Research in Ethnic Relations Conference on African Transnational and Return Migration. Coventry, UK; June 29-30, 2009. Accessed June 15, 2024. http://www2.warwick.ac.uk/fac/soc/crer/events/african/conference_paper",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/0899-5362(95)90016-0",
+        "title": "Applied Geoscience Conference Warwick University, UK 15–18 April 1996",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.43,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Like some earlier reports of short-term functional disparities,[16],[20],[35] we found an association of Black ethnicity with poorer short- and long-term functional outcomes.",
+      "citation_number": 16,
+      "ref_text": "Burke JF, Feng C, Skolarus LE. Divergent poststroke outcomes for Black patients: Lower mortality, but greater disability. Neurology. 2019;93(18):e1664-e1674. doi:10.1212/WNL.000000000000839131554649 PMC6946478",
+      "doi": "10.1212/WNL.0000000000008391",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Like some earlier reports of short-term functional disparities,[16],[20],[35] we found an association of Black ethnicity with poorer short- and long-term functional outcomes.",
+      "citation_number": 20,
+      "ref_text": "Sheriff F, Xu H, Maud A, . Temporal trends in racial and ethnic disparities in endovascular therapy in acute ischemic stroke. J Am Heart Assoc. 2022;11(6):e023212. doi:10.1161/JAHA.121.02321235229659 PMC9075329",
+      "doi": "10.1161/JAHA.121.023212",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Like some earlier reports of short-term functional disparities,[16],[20],[35] we found an association of Black ethnicity with poorer short- and long-term functional outcomes.",
+      "citation_number": 35,
+      "ref_text": "Roth DL, Haley WE, Clay OJ, . Race and gender differences in 1-year outcomes for community-dwelling stroke survivors with family caregivers. Stroke. 2011;42(3):626-631. doi:10.1161/STROKEAHA.110.59532221257820 PMC3139254",
+      "doi": "10.1161/STROKEAHA.110.595322",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The apparent paradox of worse functional outcome and better survival in Black patients with stroke has been described previously for short-term outcomes,[16] but was also reported more generally for immigrant populations.[36] Apart from lower thrombolysis rates in Black Caribbean patients, there was no persistent pattern of poorer care in ethnic minority groups.",
+      "citation_number": 16,
+      "ref_text": "Burke JF, Feng C, Skolarus LE. Divergent poststroke outcomes for Black patients: Lower mortality, but greater disability. Neurology. 2019;93(18):e1664-e1674. doi:10.1212/WNL.000000000000839131554649 PMC6946478",
+      "doi": "10.1212/WNL.0000000000008391",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The apparent paradox of worse functional outcome and better survival in Black patients with stroke has been described previously for short-term outcomes,[16] but was also reported more generally for immigrant populations.[36] Apart from lower thrombolysis rates in Black Caribbean patients, there was no persistent pattern of poorer care in ethnic minority groups.",
+      "citation_number": 36,
+      "ref_text": "Wallace M, Darlington-Pollock F. Poor health, low mortality: paradox found among immigrants in England and Wales. Popul Space Place. 2022;28:e2360. doi:10.1002/psp.2360",
+      "doi": "10.1002/psp.2360",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "Higher rates and poorer control of VRFs, as well as differential rates of underdiagnosis in certain racial and ethnic groups have been reported.[5],[37],[38] A specific comorbidity profile might also contribute to the divergence between survival and functional outcome by significantly affecting disability levels while having a weaker association with mortality.",
+      "citation_number": 5,
+      "ref_text": "Gutierrez J, Williams OA. A decade of racial and ethnic stroke disparities in the United States. Neurology. 2014;82(12):1080-1082. doi:10.1212/WNL.000000000000023724663229 PMC3962991",
+      "doi": "10.1212/WNL.0000000000000237",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Higher rates and poorer control of VRFs, as well as differential rates of underdiagnosis in certain racial and ethnic groups have been reported.[5],[37],[38] A specific comorbidity profile might also contribute to the divergence between survival and functional outcome by significantly affecting disability levels while having a weaker association with mortality.",
+      "citation_number": 37,
+      "ref_text": "Schwamm LH, Reeves MJ, Pan W, . Race/ethnicity, quality of care, and outcomes in ischemic stroke. Circulation. 2010;121(13):1492-1501. doi:10.1161/CIRCULATIONAHA.109.88149020308617",
+      "doi": "10.1161/CIRCULATIONAHA.109.881490",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Higher rates and poorer control of VRFs, as well as differential rates of underdiagnosis in certain racial and ethnic groups have been reported.[5],[37],[38] A specific comorbidity profile might also contribute to the divergence between survival and functional outcome by significantly affecting disability levels while having a weaker association with mortality.",
+      "citation_number": 38,
+      "ref_text": "Aggarwal R, Chiu N, Wadhera RK, . Racial/ethnic disparities in hypertension prevalence, awareness, treatment, and control in the United States, 2013 to 2018. Hypertension. 2021;78(6):1719-1726. doi:10.1161/HYPERTENSIONAHA.121.1757034365809 PMC10861176",
+      "doi": "10.1161/HYPERTENSIONAHA.121.17570",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Beyond comorbidities, other studies have reported poorer secondary prevention, higher recurrence rates,[39] unhealthy lifestyles,[5] and more cognitive impairments[40] in Black survivors of stroke, which could all contribute to poorer poststroke functioning.",
+      "citation_number": 5,
+      "ref_text": "Gutierrez J, Williams OA. A decade of racial and ethnic stroke disparities in the United States. Neurology. 2014;82(12):1080-1082. doi:10.1212/WNL.000000000000023724663229 PMC3962991",
+      "doi": "10.1212/WNL.0000000000000237",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Beyond comorbidities, other studies have reported poorer secondary prevention, higher recurrence rates,[39] unhealthy lifestyles,[5] and more cognitive impairments[40] in Black survivors of stroke, which could all contribute to poorer poststroke functioning.",
+      "citation_number": 39,
+      "ref_text": "Kamel H, Zhang C, Kleindorfer DO, . Association of Black race with early recurrence after minor ischemic stroke or transient ischemic attack: secondary analysis of the POINT randomized clinical trial. JAMA Neurol. 2020;77(5):601-605. doi:10.1001/jamaneurol.2020.001032091536 PMC7042873",
+      "doi": "10.1001/jamaneurol.2020.0010",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Beyond comorbidities, other studies have reported poorer secondary prevention, higher recurrence rates,[39] unhealthy lifestyles,[5] and more cognitive impairments[40] in Black survivors of stroke, which could all contribute to poorer poststroke functioning.",
+      "citation_number": 40,
+      "ref_text": "Johnson NX, Marquine MJ, Flores I, . Racial differences in neurocognitive outcomes post-stroke: the impact of healthcare variables. J Int Neuropsychol Soc. 2017;23(8):640-652. doi:10.1017/S135561771700048028660849 PMC5703208",
+      "doi": "10.1017/S1355617717000480",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    }
+  ]
+}

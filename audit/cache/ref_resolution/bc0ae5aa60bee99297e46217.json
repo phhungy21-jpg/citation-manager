@@ -1,0 +1,2192 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T03:57:23Z",
+      "timestamp": 1782878243179,
+      "version": "3.54.5"
+    },
+    "reference-count": 10,
+    "publisher": "Wiley",
+    "issue": "18",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2002,
+              9,
+              10
+            ]
+          ],
+          "date-time": "2002-09-10T00:00:00Z",
+          "timestamp": 1031616000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 4739,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100002915",
+        "name": "Fondation pour la Recherche Médicale",
+        "doi-asserted-by": "crossref",
+        "id": [
+          {
+            "id": "10.13039/501100002915",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100008393",
+        "name": "Banque Nationale de Paris",
+        "doi-asserted-by": "crossref",
+        "id": [
+          {
+            "id": "10.13039/501100008393",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "name": "Smithkline and Beecham"
+      },
+      {
+        "DOI": "10.13039/501100000780",
+        "name": "European Commission",
+        "doi-asserted-by": "crossref",
+        "award": [
+          "961321"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "961321"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000780",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      },
+      {
+        "name": "Programme Hospitalier de Recherche Clinique",
+        "award": [
+          "IDF 95013"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "IDF 95013"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Statistics in Medicine"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2002,
+          9,
+          30
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Heterogeneity can be a major component of meta‐analyses and by virtue of that fact warrants investigation. Classic analysis methods, such as meta‐regression, are used to explore the sources of heterogeneity. However, it may be difficult to apply such a method in complex cases or in the absence of an <jats:italic>a priori</jats:italic> hypothesis. This paper presents a graphical method to identify trials, groups of trials or groups of patients that are sources of heterogeneity. The contribution of these trials to the overall result can also be evaluated with this method. Each trial is represented by a dot on a 2D graph. The <jats:italic>X</jats:italic>‐axis represents the contribution of the trial to the overall Cochran <jats:italic>Q</jats:italic>‐test for heterogeneity. The <jats:italic>Y</jats:italic>‐axis represents the influence of the trial, defined as the standardized squared difference between the treatment effects estimated with and without the trial. This approach has been applied to data from the Meta‐Analysis of Chemotherapy in Head and Neck Cancer (MACH‐NC) comprising 10850 patients in 65 randomized trials. The graphical method allowed us to identify trials that contributed considerably to the overall heterogeneity and had a strong influence on the overall result. It also provided useful information for the interpretation of heterogeneity in this meta‐analysis. The proposed graphical method identifies trials that account for most of the heterogeneity without having to explore all possible sources of heterogeneity by subgroup analyses. This method can also be applied to identify types of patients that explain heterogeneity in the treatment effect. Copyright © 2002 John Wiley &amp; Sons, Ltd.</jats:p>",
+    "DOI": "10.1002/sim.1221",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          10,
+          8
+        ]
+      ],
+      "date-time": "2002-10-08T22:58:56Z",
+      "timestamp": 1034117936000
+    },
+    "page": "2641-2652",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 612,
+    "title": [
+      "A graphical method for exploring heterogeneity in meta‐analyses: application to a meta‐analysis of 65 trials"
+    ],
+    "prefix": "10.1002",
+    "volume": "21",
+    "author": [
+      {
+        "given": "Bertrand",
+        "family": "Baujat",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cédric",
+        "family": "Mahé",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jean‐Pierre",
+        "family": "Pignon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Catherine",
+        "family": "Hill",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2002,
+          9,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_1_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(00)90011-4"
+      },
+      {
+        "key": "e_1_2_1_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/3001666"
+      },
+      {
+        "key": "e_1_2_1_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.4780080202"
+      },
+      {
+        "key": "e_1_2_1_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19980430)17:8<841::AID-SIM781>3.0.CO;2-D"
+      },
+      {
+        "key": "e_1_2_1_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.4780070807"
+      },
+      {
+        "key": "e_1_2_1_7_2",
+        "volume-title": "Treatment of early breast cancer",
+        "author": "Early Breast Cancer Trialists Collaborative Group",
+        "year": "1990"
+      },
+      {
+        "key": "e_1_2_1_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0197-2456(86)90046-2"
+      },
+      {
+        "key": "e_1_2_1_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19960330)15:6<619::AID-SIM188>3.0.CO;2-A"
+      },
+      {
+        "key": "e_1_2_1_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19970415)16:7<753::AID-SIM494>3.0.CO;2-G"
+      },
+      {
+        "key": "e_1_2_1_11_2",
+        "first-page": "255",
+        "volume-title": "Meta‐Analysis in Medicine and Health Policy",
+        "author": "Sargent DJ",
+        "year": "2000"
+      }
+    ],
+    "container-title": [
+      "Statistics in Medicine"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fsim.1221",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/sim.1221",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2023-10-07T03:59:50Z",
+      "timestamp": 1696651190000
+    },
+    "score": 111.89221,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/sim.1221"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          9,
+          10
+        ]
+      ]
+    },
+    "references-count": 10,
+    "journal-issue": {
+      "issue": "18",
+      "published-print": {
+        "date-parts": [
+          [
+            2002,
+            9,
+            30
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/sim.1221"
+    ],
+    "URL": "https://doi.org/10.1002/sim.1221",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0277-6715",
+      "1097-0258"
+    ],
+    "issn-type": [
+      {
+        "value": "0277-6715",
+        "type": "print"
+      },
+      {
+        "value": "1097-0258",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2002,
+          9,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          4
+        ]
+      ],
+      "date-time": "2026-06-04T03:14:01Z",
+      "timestamp": 1780542841069,
+      "version": "3.54.1"
+    },
+    "reference-count": 46,
+    "publisher": "Elsevier BV",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2001,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2001-08-01T00:00:00Z",
+          "timestamp": 996624000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2001,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2001-08-01T00:00:00Z",
+          "timestamp": 996624000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "em-consulte.com",
+        "thelancet.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The Lancet Oncology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1470-2045(01)00453-3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2002-07-25T17:15:02Z",
+      "timestamp": 1027617302000
+    },
+    "page": "475-482",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 77,
+    "title": [
+      "Meta-analyses of randomised clinical trials in oncology"
+    ],
+    "prefix": "10.1016",
+    "volume": "2",
+    "author": [
+      {
+        "given": "Jean-Pierre",
+        "family": "Pignon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Catherine",
+        "family": "Hill",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1351",
+        "DOI": "10.1016/S0959-8049(00)00125-8",
+        "article-title": "The role of meta-analyses in assessing cancer treatments",
+        "volume": "36",
+        "author": "Sylvester",
+        "year": "2000",
+        "journal-title": "Eur J Cancer"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "2036",
+        "DOI": "10.1038/bjc.1998.339",
+        "article-title": "Individual patient data meta-analysis",
+        "volume": "77",
+        "author": "Clarke",
+        "year": "1998",
+        "journal-title": "Br J Cancer"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib3",
+        "first-page": "1",
+        "article-title": "Systemic treatment of early breast cancer by hormonal, cytotoxic or immune therapy: 133 randomised trials involving 31,000 recurrences and 24,000 deaths among 75,000 women",
+        "volume": "339",
+        "year": "1992",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1189",
+        "DOI": "10.1016/S0140-6736(96)05023-4",
+        "article-title": "Ovarian ablation in early breast cancer: overview of randomised trials",
+        "volume": "348",
+        "year": "1996",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1757",
+        "DOI": "10.1016/S0140-6736(00)02263-7",
+        "article-title": "Favourable and unfavourable effect on long-term survival of radiotherapy for early breast cancer: an overview of the randomised trials",
+        "volume": "355",
+        "year": "2000",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1093/jnci/89.7.497",
+        "article-title": "Portal vein chemotherapy for colorectal cancer: a meta-analysis of 4000 patients in 10 studies",
+        "volume": "89",
+        "year": "1997",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "949",
+        "DOI": "10.1016/S0140-6736(00)90011-4",
+        "article-title": "Chemotherapy added to locoregional treatment for head and neck squamous-cell carcinoma: three meta-analyses of updated individual data",
+        "volume": "255",
+        "author": "Pignon",
+        "year": "2000",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1016/S0140-6736(98)06341-7",
+        "article-title": "Postoperative radiotherapy in non-small cell lung cancer: systematic review and meta-analysis of individual patient data from nine randomised controlled trials",
+        "volume": "352",
+        "year": "1998",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "899",
+        "DOI": "10.1136/bmj.311.7010.899",
+        "article-title": "Chemotherapy in non-small cell lung cancer: a meta-analysis using updated individual patient data from 52 randomised clinical trials",
+        "volume": "311",
+        "year": "1995",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1618",
+        "DOI": "10.1056/NEJM199212033272302",
+        "article-title": "A meta-analysis of thoracic radiotherapy for small cell lung cancer",
+        "volume": "327",
+        "author": "Pignon",
+        "year": "1992",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "476",
+        "DOI": "10.1056/NEJM199908123410703",
+        "article-title": "Prophylactic cranial irradiation for patients with small-cell lung cancer in complete remission",
+        "volume": "341",
+        "author": "Aupérin",
+        "year": "1999",
+        "journal-title": "N J Engl Med"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "2057",
+        "DOI": "10.1002/sim.4780141902",
+        "article-title": "Practical methodology of meta-analyses (overviews) using updated individual patients data",
+        "volume": "14",
+        "author": "Stewart",
+        "year": "1995",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "374",
+        "DOI": "10.1001/jama.1992.03480030052036",
+        "article-title": "Factors influencing publication of research results. Follow-up of applications submitted to two institutional review boards",
+        "volume": "267",
+        "author": "Dickersin",
+        "year": "1992",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "867",
+        "DOI": "10.1016/0140-6736(91)90201-Y",
+        "article-title": "Publication bias in clinical research",
+        "volume": "337",
+        "author": "Easterbrook",
+        "year": "1991",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "640",
+        "DOI": "10.1136/bmj.315.7109.640",
+        "article-title": "Publication bias: evidence of delayed publication in a cohort study of clinical research projects",
+        "volume": "315",
+        "author": "Stern",
+        "year": "1997",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "326",
+        "DOI": "10.1016/S0140-6736(97)02419-7",
+        "article-title": "Language bias in randomised controlled trials published in English and German",
+        "volume": "350",
+        "author": "Egger",
+        "year": "1997",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "654",
+        "DOI": "10.1136/bmj.295.6599.654",
+        "article-title": "Reference bias in report of drug trials",
+        "volume": "295",
+        "author": "Gøtzsche",
+        "year": "1987",
+        "journal-title": "Br Med J"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1286",
+        "DOI": "10.1136/bmj.309.6964.1286",
+        "article-title": "Identifying relevant studies for systematic reviews",
+        "volume": "309",
+        "author": "Dickersin",
+        "year": "1994",
+        "journal-title": "Br Med J"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "617",
+        "DOI": "10.1016/S0360-3016(00)00577-0",
+        "article-title": "Predicting long-term survival, and the need for hormonal therapy: a meta-analysis of RTOG prostate cancer trials",
+        "volume": "47",
+        "author": "Roach III",
+        "year": "2000",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "566",
+        "DOI": "10.7326/0003-4819-132-7-200004040-00009",
+        "article-title": "Single-therapy androgen suppression in men with advanced prostate cancer: a systematic review and metaanalysis",
+        "volume": "132",
+        "author": "Seidenfeld",
+        "year": "2000",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib21",
+        "series-title": "Survival analysis. A self-learning text",
+        "author": "Kleinbaum",
+        "year": "1996"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib22",
+        "series-title": "Treatment of early breast cancer. Volume 1 Worldwide evidence 1985–1990",
+        "year": "1990"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "2815",
+        "DOI": "10.1002/(SICI)1097-0258(19981230)17:24<2815::AID-SIM110>3.0.CO;2-8",
+        "article-title": "Extracting summary statistics to perform meta-analyses of the published literature for survival endpoints",
+        "volume": "17",
+        "author": "Parmar",
+        "year": "1998",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "177",
+        "DOI": "10.1016/0197-2456(86)90046-2",
+        "article-title": "Meta-analysis in clinical trials. Controlled",
+        "volume": "7",
+        "author": "Der Simonian",
+        "year": "1986",
+        "journal-title": "Clin Trials"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1707",
+        "DOI": "10.1002/1097-0258(20000715)19:13<1707::AID-SIM491>3.0.CO;2-P",
+        "article-title": "Heterogeneity and statistical significance in meta-analysis: an empirical study of 125 meta-analyses",
+        "volume": "19",
+        "author": "Engels",
+        "year": "2000",
+        "journal-title": "Stat med"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1451",
+        "DOI": "10.1016/S0140-6736(97)11423-4",
+        "article-title": "Tamoxifen for early breast cancer: an overview of the randomised trials",
+        "volume": "351",
+        "year": "1998",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "916",
+        "DOI": "10.7326/0003-4819-117-11-916",
+        "article-title": "Measured enthusiasm: Does the method of reporting trial results alter perceptions of therapeutic effectiveness",
+        "volume": "117",
+        "author": "Naylor",
+        "year": "1992",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "121",
+        "DOI": "10.1016/0002-9343(92)90100-P",
+        "article-title": "Absolutely relative: How research results are summarized can affect treatment decisions",
+        "volume": "92",
+        "author": "Forrow",
+        "year": "1992",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1209",
+        "DOI": "10.1016/S0140-6736(94)92407-4",
+        "article-title": "Completeness of reporting trial results: effect on physician' willingness to prescribe",
+        "volume": "343",
+        "author": "Bobbio",
+        "year": "1994",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.1046/j.1365-2036.1997.131302000.x",
+        "article-title": "Critical review of meta-analyses of randomized clinical trials in hepatogastroenterology",
+        "volume": "11",
+        "author": "Aupérin",
+        "year": "1997",
+        "journal-title": "Aliment Pharmacol Therap"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "827",
+        "DOI": "10.1023/A:1008468705492",
+        "article-title": "Systematic review using individual patient data: A map for the mine fields?",
+        "volume": "9",
+        "author": "Clarke",
+        "year": "1998",
+        "journal-title": "Ann Oncol"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "886",
+        "DOI": "10.1111/j.0006-341X.2000.00886.x",
+        "article-title": "Estimating number of events from the Kaplan Meier curve for incorporation in a literature based meta-analysis: What you don't see you can't get!",
+        "volume": "56",
+        "author": "Duchateau",
+        "year": "2000",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1046/j.1365-2753.2000.00236.x",
+        "article-title": "Individual patient data meta-analysis of randomized anti-epileptic drug monotherapy trials",
+        "volume": "6",
+        "author": "Williamson",
+        "year": "2000",
+        "journal-title": "J Eval Clin Pract"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1016/S0140-6736(97)08461-4",
+        "article-title": "Overcoming the limitations of current metaanalysis of randomised controlled trials",
+        "volume": "351",
+        "author": "Pogue",
+        "year": "1998",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "248",
+        "DOI": "10.1056/NEJM199207233270406",
+        "article-title": "Cumulative meta-analysis of therapeutic trials for myocardial infarction",
+        "volume": "327",
+        "author": "Lau",
+        "year": "1992",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "suppl 5",
+        "key": "10.1016/S1470-2045(01)00453-3_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "S221",
+        "DOI": "10.1016/0959-8049(95)96303-U",
+        "article-title": "From the results of the meta-analysis evaluating the role of chemotherapy in non-small cell lung cancer (NSCLC) to the IALT project",
+        "volume": "31A",
+        "author": "Le Péchoux",
+        "year": "1995",
+        "journal-title": "Eur J Cancer"
+      },
+      {
+        "issue": "Suppl 1",
+        "key": "10.1016/S1470-2045(01)00453-3_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1016/S0169-5002(00)80537-1",
+        "article-title": "Why a new prophylactic cranial irradiation trial in small cell lung cancer (SCLC): from the meta-analysis on PCI in SCLC complete responders to an international trial on PCI dose",
+        "volume": "29",
+        "author": "Le Péchoux",
+        "year": "2000",
+        "journal-title": "Lung Cancer"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "1518",
+        "DOI": "10.1136/bmj.316.7143.1518",
+        "article-title": "Adjuvant tamoxifen: how long before we know how long?",
+        "volume": "316",
+        "author": "Rea",
+        "year": "1998",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "775",
+        "DOI": "10.1016/S0140-6736(95)90646-0",
+        "article-title": "Predictive ability of meta-analyses of randomised controlled trials",
+        "volume": "345",
+        "author": "Villar",
+        "year": "1995",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "1332",
+        "DOI": "10.1001/jama.1996.03540160054033",
+        "article-title": "Large trials vs meta-analysis of smaller trials",
+        "volume": "276",
+        "author": "Cappelleri",
+        "year": "1996",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "536",
+        "DOI": "10.1056/NEJM199708213370806",
+        "article-title": "Discrepancies between meta-analyses and subsequent large randomized controlled trials",
+        "volume": "337",
+        "author": "LeLorier",
+        "year": "1997",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "1921",
+        "DOI": "10.1016/0959-8049(95)00433-5",
+        "article-title": "A proposal for a new approach to Intergroup Cancer Trials",
+        "volume": "31A",
+        "author": "Pater",
+        "year": "1995",
+        "journal-title": "Eur J Cancer"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "939",
+        "DOI": "10.1016/S0140-6736(95)90696-7",
+        "article-title": "Efficacy of adjuvant fluorouracil and folinic acid in colon cancer",
+        "volume": "345",
+        "year": "1995",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib44",
+        "doi-asserted-by": "crossref",
+        "first-page": "1005",
+        "DOI": "10.1093/oxfordjournals.annonc.a010491",
+        "article-title": "A new challenge in clinical research in childhood ALL: The prospective meta-analysis strategy for intergroup collaboration",
+        "volume": "7",
+        "author": "Valsecchi",
+        "year": "1996",
+        "journal-title": "Ann Oncol"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib45",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.1016/S0140-6736(97)08468-7",
+        "article-title": "Summing up: one answer is not always enough",
+        "volume": "351",
+        "author": "Lau",
+        "year": "1998",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S1470-2045(01)00453-3_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "973",
+        "DOI": "10.1016/S0889-8588(05)70322-1",
+        "article-title": "Meta-analysis in hematology and oncology",
+        "volume": "14",
+        "author": "Ioannidis",
+        "year": "2000",
+        "journal-title": "Hematol Oncol Clin North Am"
+      }
+    ],
+    "container-title": [
+      "The Lancet Oncology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1470204501004533?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1470204501004533?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          26
+        ]
+      ],
+      "date-time": "2025-10-26T05:46:12Z",
+      "timestamp": 1761457572000
+    },
+    "score": 46.643948,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1470204501004533"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          8
+        ]
+      ]
+    },
+    "references-count": 46,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1470204501004533"
+    ],
+    "URL": "https://doi.org/10.1016/s1470-2045(01)00453-3",
+    "ISSN": [
+      "1470-2045"
+    ],
+    "issn-type": [
+      {
+        "value": "1470-2045",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Meta-analyses of randomised clinical trials in oncology",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "The Lancet Oncology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/S1470-2045(01)00453-3",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2001 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T13:06:10Z",
+      "timestamp": 1761743170084
+    },
+    "reference-count": 28,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2009-07-01T00:00:00Z",
+          "timestamp": 1246406400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Lung Cancer"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.lungcan.2008.10.017",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          7
+        ]
+      ],
+      "date-time": "2008-12-07T05:24:56Z",
+      "timestamp": 1228627496000
+    },
+    "page": "9-12",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Role of meta-analyses and of large randomized trials in the study of cancer treatments"
+    ],
+    "prefix": "10.1016",
+    "volume": "65",
+    "author": [
+      {
+        "given": "Jean-Pierre",
+        "family": "Pignon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anne",
+        "family": "Auperin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Isabelle",
+        "family": "Borget",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Catherine",
+        "family": "Hill",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "775",
+        "DOI": "10.1016/S0140-6736(95)90646-0",
+        "article-title": "Predictive ability of meta-analyses of randomised controlled trials",
+        "volume": "345",
+        "author": "Villar",
+        "year": "1995",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "536",
+        "DOI": "10.1056/NEJM199708213370806",
+        "article-title": "Discrepancies between meta-analyses and subsequent large randomized controlled trials",
+        "volume": "337",
+        "author": "LeLorier",
+        "year": "1997",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1332",
+        "DOI": "10.1001/jama.276.16.1332",
+        "article-title": "Large trials vs meta-analysis of smaller trials",
+        "volume": "276",
+        "author": "Cappelleri",
+        "year": "1996",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Stewart LA, Clarke MJ, on behalf of the Cochrane Working Group on meta-analyses using individual patient data. Practical methodology of meta-analyses (overviews) using updated individual patients data. Stat Med 1995;14:2057–79.",
+        "DOI": "10.1002/sim.4780141902"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib5",
+        "first-page": "1267",
+        "article-title": "Efficacy and safety of cholesterol-lowering treatment: prospective meta-analysis of data from 90,056 participants in 14 randomised trials of statins",
+        "volume": "8",
+        "author": "Baigent",
+        "year": "2005",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib6",
+        "first-page": "1955",
+        "article-title": "Effects of ACE inhibitors, calcium antagonists, and other blood-pressure-lowering drugs: results of prospectively designed overviews of randomised trials. Blood Pressure Lowering Treatment Trialists’ Collaboration",
+        "volume": "9",
+        "author": "Neal",
+        "year": "2000",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1005",
+        "DOI": "10.1093/oxfordjournals.annonc.a010491",
+        "article-title": "A new challenge in clinical research in childhood ALL: the prospective meta-analysis strategy for intergroup collaboration",
+        "volume": "7",
+        "author": "Valsecchi",
+        "year": "1996",
+        "journal-title": "Ann Oncol"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "475",
+        "DOI": "10.1016/S1470-2045(01)00453-3",
+        "article-title": "Meta-analysis of randomised clinical trials in oncology",
+        "volume": "2",
+        "author": "Pignon",
+        "year": "2001",
+        "journal-title": "Lancet Oncol"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "335",
+        "DOI": "10.1016/S0033-0620(85)80003-7",
+        "article-title": "Beta blockade during and after myocardial infarction: an overview of the randomized trials",
+        "volume": "27",
+        "author": "Yusuf",
+        "year": "1985",
+        "journal-title": "Prog Cardiovasc Dis"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "752",
+        "DOI": "10.1136/bmj.310.6982.752",
+        "article-title": "Misleading meta-analysis. Lessons from “an effective, safe, simple” intervention that wasn’t",
+        "volume": "310",
+        "author": "Egger",
+        "year": "1995",
+        "journal-title": "Br Med J"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/0140-6736(92)90997-H",
+        "article-title": "Systemic treatment of early breast cancer by hormonal, cytotoxic or immune therapy: 133 randomised trials involving 31,000 recurrences and 24,000 death among 75,000 women",
+        "volume": "339",
+        "author": "Early Breast Cancer Trialists’ Collaborative Group",
+        "year": "1992",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1618",
+        "DOI": "10.1056/NEJM199212033272302",
+        "article-title": "A meta-analysis of thoracic radiotherapy for small cell lung cancer",
+        "volume": "327",
+        "author": "Pignon",
+        "year": "1992",
+        "journal-title": "New Engl J Med"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib13",
+        "first-page": "60",
+        "article-title": "Meta-analyses and large randomized controlled trials",
+        "volume": "338",
+        "author": "Bent",
+        "year": "1998",
+        "journal-title": "New Engl J Med"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1682",
+        "DOI": "10.1200/JCO.2003.04.088",
+        "article-title": "Using the expected survival to explain differences between results of randomized trials: a case in advanced ovarian cancer",
+        "volume": "21",
+        "author": "Buyse",
+        "year": "2003",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "899",
+        "DOI": "10.1136/bmj.311.7010.899",
+        "article-title": "Chemotherapy in non-small cell lung cancer: a meta-analysis using updated individual patient data from 52 randomised clinical trials",
+        "volume": "311",
+        "author": "Non-Small Cell Lung Cancer Collaborative Group",
+        "year": "1995",
+        "journal-title": "Br Med J"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "351",
+        "DOI": "10.1056/NEJMoa031644",
+        "article-title": "Cisplatin-based adjuvant chemotherapy in patients with completely resected non-small-cell lung cancer",
+        "volume": "350",
+        "author": "The International Adjuvant Lung Cancer Trial Collaborative Group",
+        "year": "2004",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "Suppl. 1",
+        "key": "10.1016/j.lungcan.2008.10.017_bib17",
+        "first-page": "S16",
+        "article-title": "Individual patient data (IPD) meta-analyses in resectable non-small cell lung cancer (NSCLC)",
+        "volume": "3",
+        "author": "Pignon",
+        "year": "2008",
+        "journal-title": "J Thorax Oncol"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1016/S0140-6736(98)06341-7",
+        "article-title": "Postoperative radiotherapy in non-smal cell lung cancer: systematic review and meta-analysis of individual patient data from nine randomised controlled trials",
+        "volume": "352",
+        "author": "PORT Meta-Analysis Trialists Group",
+        "year": "1998",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "e10",
+        "DOI": "10.1200/JCO.2006.09.6263",
+        "article-title": "Need for a new trial to evaluate adjuvant postoperative radiotherapy in non-small-cell lung cancer patients with N2 mediastinal involvement (letter)",
+        "volume": "25",
+        "author": "Le Péchoux",
+        "year": "2007",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1470",
+        "DOI": "10.1016/S0140-6736(06)69615-3",
+        "article-title": "Indirect comparison: the mesh and mess of clinical trials",
+        "volume": "368",
+        "author": "Ioannidis",
+        "year": "2006",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1518",
+        "DOI": "10.1136/bmj.316.7143.1518",
+        "article-title": "Adjuvant tamoxifen: how long before we know how long?",
+        "volume": "316",
+        "author": "Rea",
+        "year": "1998",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1451",
+        "DOI": "10.1016/S0140-6736(97)11423-4",
+        "article-title": "Tamoxifen for early breast cancer: an overview of the randomised trials",
+        "volume": "351",
+        "author": "Early Breast Cancer Trialists’ Collaborative Group",
+        "year": "1998",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "476",
+        "DOI": "10.1056/NEJM199908123410703",
+        "article-title": "Prophylactic cranial irradiation for patients with small-cell lung cancer in complete remission",
+        "volume": "341",
+        "author": "Aupérin",
+        "year": "1999",
+        "journal-title": "New J Engl Med"
+      },
+      {
+        "issue": "Suppl. 1",
+        "key": "10.1016/j.lungcan.2008.10.017_bib24",
+        "first-page": "159",
+        "article-title": "Why a new prophylactic cranial irradiation trial in small cell lung cancer (SCLC): from the meta-analysis on PCI in SCLC complete responders to an international trial on PCI dose",
+        "volume": "29",
+        "author": "Le Péchoux C for the Prophylactic Cranial Irradiation (PCI99) Trial Group",
+        "year": "2000",
+        "journal-title": "Lung Cancer"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Le Pechoux C, Hatton M, Kobierska A, Guichard F, Dunant A, Senan S, et al., on behalf of PCI99 Intergroup investigators. Randomized trial of standard dose to a higher dose prophylactic cranial irradiation (PCI) in limited-stage small cell cancer (SCLC) complete responders (CR): primary endpoint analysis (PCI99-01, IFCT 99-01, EORTC 22003-08004, RTOG 0212). J Clin Oncol 2008;20 [abstr LBA7514].",
+        "DOI": "10.1200/jco.2008.26.15_suppl.lba7514"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1571",
+        "DOI": "10.1016/S0140-6736(98)04119-1",
+        "article-title": "ICON2: randomised trial of single-agent carboplatin against three-drug combination of CAP (cyclophosphamide, doxorubicin, and cisplatin) in women with ovarian cancer",
+        "volume": "352",
+        "author": "The ICON Collaborators",
+        "year": "1998",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1668",
+        "DOI": "10.1200/JCO.1991.9.9.1668",
+        "article-title": "Cyclophosphamide plus cisplatin versus cyclophophamide, doxorubicine, and cisplatin chemotherapy of ovarian carcinoma: a meta-analysis",
+        "volume": "9",
+        "author": "Ovarian Cancer Meta-Analysis Project",
+        "year": "1991",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.lungcan.2008.10.017_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "884",
+        "DOI": "10.1136/bmj.303.6807.884",
+        "article-title": "Chemotherapy in advanced ovarian cancer: an overview of randomised clinical trials",
+        "volume": "303",
+        "author": "Advanced Ovarian Cancer Trialists Group",
+        "year": "1991",
+        "journal-title": "Br Med J"
+      }
+    ],
+    "container-title": [
+      "Lung Cancer"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S016950020800559X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S016950020800559X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2019-05-15T21:46:18Z",
+      "timestamp": 1557956778000
+    },
+    "score": 46.17167,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S016950020800559X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          7
+        ]
+      ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S016950020800559X"
+    ],
+    "URL": "https://doi.org/10.1016/j.lungcan.2008.10.017",
+    "ISSN": [
+      "0169-5002"
+    ],
+    "issn-type": [
+      {
+        "value": "0169-5002",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2025-10-22T17:36:10Z",
+      "timestamp": 1761154570517
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2001,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2001-04-01T00:00:00Z",
+          "timestamp": 986083200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Journal of Cancer"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0959-8049(01)80987-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          12,
+          10
+        ]
+      ],
+      "date-time": "2003-12-10T12:24:32Z",
+      "timestamp": 1071059072000
+    },
+    "page": "S135",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "special_numbering": "S6",
+    "title": [
+      "Locally advanced head and neck cancer: meta-analysis of updated individual data"
+    ],
+    "prefix": "10.1016",
+    "volume": "37",
+    "author": [
+      {
+        "given": "J.P.",
+        "family": "Pignon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "B.",
+        "family": "Baujat",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "C.",
+        "family": "Hill",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Bourhis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Journal of Cancer"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0959804901809874?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0959804901809874?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          16
+        ]
+      ],
+      "date-time": "2019-02-16T09:52:47Z",
+      "timestamp": 1550310767000
+    },
+    "score": 45.078594,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0959804901809874"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S0959804901809874"
+    ],
+    "URL": "https://doi.org/10.1016/s0959-8049(01)80987-4",
+    "ISSN": [
+      "0959-8049"
+    ],
+    "issn-type": [
+      {
+        "value": "0959-8049",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2026-05-14T03:54:50Z",
+      "timestamp": 1778730890498,
+      "version": "3.51.4"
+    },
+    "reference-count": 21,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2005,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2005-03-01T00:00:00Z",
+          "timestamp": 1109635200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Clinical Epidemiology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jclinepi.2004.08.013",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2005-02-17T23:09:22Z",
+      "timestamp": 1108681762000
+    },
+    "page": "238-245",
+    "source": "Crossref",
+    "is-referenced-by-count": 29,
+    "title": [
+      "Random effects survival models gave a better understanding of heterogeneity in individual patient data meta-analyses"
+    ],
+    "prefix": "10.1016",
+    "volume": "58",
+    "author": [
+      {
+        "given": "S.",
+        "family": "Michiels",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "B.",
+        "family": "Baujat",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "C.",
+        "family": "Mahé",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.J.",
+        "family": "Sargent",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.P.",
+        "family": "Pignon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "177",
+        "DOI": "10.1016/0197-2456(86)90046-2",
+        "article-title": "Meta-analysis in clinical trials",
+        "volume": "7",
+        "author": "DerSimonian",
+        "year": "1986",
+        "journal-title": "Control Clin Trials"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "3417",
+        "DOI": "10.1002/1097-0258(20001230)19:24<3417::AID-SIM614>3.0.CO;2-L",
+        "article-title": "A multilevel model framework for meta-analysis of clinical trials with binary outcomes",
+        "volume": "19",
+        "author": "Turner",
+        "year": "2000",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.2307/2532138",
+        "article-title": "Regression with frailty in survival analysis",
+        "volume": "47",
+        "author": "McGilchrist",
+        "year": "1991",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.2307/2532615",
+        "article-title": "REML estimation for survival models with frailty",
+        "volume": "49",
+        "author": "McGilchrist",
+        "year": "1993",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1486",
+        "DOI": "10.2307/2533673",
+        "article-title": "A general framework for random effects survival analysis in the Cox proportional hazards setting",
+        "volume": "54",
+        "author": "Sargent",
+        "year": "1998",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1961",
+        "DOI": "10.1002/(SICI)1097-0258(19990815)18:15<1961::AID-SIM170>3.0.CO;2-3",
+        "article-title": "Investigating centre effects in a multi-centre clinical trial of superficial bladder cancer",
+        "volume": "18",
+        "author": "Yamaguchi",
+        "year": "1999",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "3309",
+        "DOI": "10.1002/1097-0258(20001230)19:24<3309::AID-SIM825>3.0.CO;2-9",
+        "article-title": "Proportional hazards model with random effects",
+        "volume": "19",
+        "author": "Vaida",
+        "year": "2000",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib8",
+        "series-title": "Meta-analysis in medicine and health policy",
+        "first-page": "255",
+        "article-title": "Meta-analysis of individual patient survival data using random effects models",
+        "author": "Sargent",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "949",
+        "DOI": "10.1016/S0140-6736(00)90011-0",
+        "article-title": "Chemotherapy added to locoregional treatment for head and neck squamous-cell carcinoma: three meta-analysis of updated individual data",
+        "volume": "355",
+        "author": "Pignon",
+        "year": "2000",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "335",
+        "DOI": "10.1016/S0033-0620(85)80003-7",
+        "article-title": "Beta blockade during and after myocardial infarction: an overview of the randomized trials",
+        "volume": "27",
+        "author": "Yusuf",
+        "year": "1985",
+        "journal-title": "Prog Cardiovasc Dis"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "2641",
+        "DOI": "10.1002/sim.1221",
+        "article-title": "A graphical method for exploring heterogeneity in meta-analyses: application to a meta-analysis of 65 trials",
+        "volume": "18",
+        "author": "Baujat",
+        "year": "2002",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1111/j.2517-6161.1972.tb00899.x",
+        "article-title": "Regression models and life tables",
+        "volume": "34",
+        "author": "Cox",
+        "year": "1972",
+        "journal-title": "J R Stat Soc B"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "244",
+        "DOI": "10.2307/2533216",
+        "article-title": "A Bayesian analysis of institutional effects in a multicenter cancer clinical trial",
+        "volume": "50",
+        "author": "Gray",
+        "year": "1994",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib14",
+        "series-title": "Modeling survival data: extending the Cox model",
+        "author": "Therneau",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "156",
+        "DOI": "10.1198/1061860031365",
+        "article-title": "Penalized survival models and frailty",
+        "volume": "12",
+        "author": "Therneau",
+        "year": "2003",
+        "journal-title": "J Comp Graph Stat"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1016",
+        "DOI": "10.1111/j.0006-341X.2000.01016.x",
+        "article-title": "Estimation of multivariate frailty models using penalized partial likelihood",
+        "volume": "56",
+        "author": "Ripatti",
+        "year": "2000",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1127",
+        "DOI": "10.1016/0140-6736(91)91975-Z",
+        "article-title": "Can meta-analyses be trusted?",
+        "volume": "338",
+        "author": "Thompson",
+        "year": "1991",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "2741",
+        "DOI": "10.1002/(SICI)1097-0258(19971215)16:23<2741::AID-SIM703>3.0.CO;2-0",
+        "article-title": "Investigating underlying risk as a source of heterogeneity in meta-analysis",
+        "volume": "16",
+        "author": "Thompson",
+        "year": "1997",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1016/S0895-4356(00)00311-5",
+        "article-title": "Predictive modeling and heterogeneity of baseline risk in meta-analysis of individual patient data",
+        "volume": "54",
+        "author": "Trikalinos",
+        "year": "2001",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "709",
+        "DOI": "10.1016/S0895-4356(98)00042-0",
+        "article-title": "Uncontrolled pearls, controlled evidence, meta-analysis and the individual patient",
+        "volume": "51",
+        "author": "Ioannidis",
+        "year": "1998",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jclinepi.2004.08.013_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "3219",
+        "DOI": "10.1002/sim.1259",
+        "article-title": "Proportional hazards with frailties and random effects",
+        "volume": "21",
+        "author": "O'Quigley",
+        "year": "2002",
+        "journal-title": "Stat Med"
+      }
+    ],
+    "container-title": [
+      "Journal of Clinical Epidemiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S089543560400294X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S089543560400294X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          23
+        ]
+      ],
+      "date-time": "2024-12-23T11:49:43Z",
+      "timestamp": 1734954583000
+    },
+    "score": 44.65418,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S089543560400294X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          3
+        ]
+      ]
+    },
+    "references-count": 21,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2005,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S089543560400294X"
+    ],
+    "URL": "https://doi.org/10.1016/j.jclinepi.2004.08.013",
+    "ISSN": [
+      "0895-4356"
+    ],
+    "issn-type": [
+      {
+        "value": "0895-4356",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2005,
+          3
+        ]
+      ]
+    }
+  }
+]

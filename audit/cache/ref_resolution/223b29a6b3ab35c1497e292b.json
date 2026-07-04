@@ -1,0 +1,1020 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          7
+        ]
+      ],
+      "date-time": "2025-07-07T08:26:22Z",
+      "timestamp": 1751876782767,
+      "version": "3.28.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "group-title": "SSRN",
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.2139/ssrn.5016936",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2024-11-11T17:36:53Z",
+      "timestamp": 1731346613000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Wcg-Vmamba:A Multi-Modal Classification Model for Corn Disease"
+    ],
+    "prefix": "10.2139",
+    "author": [
+      {
+        "given": "Haoyang",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mingfang",
+        "family": "He",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Minge",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Genhua",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2024-11-11T17:36:53Z",
+      "timestamp": 1731346613000
+    },
+    "score": 40.746758,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ssrn.com/abstract=5016936"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.2139/ssrn.5016936",
+    "published": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          30
+        ]
+      ],
+      "date-time": "2025-10-30T12:35:32Z",
+      "timestamp": 1761827732262,
+      "version": "build-2065373602"
+    },
+    "publisher-location": "Piscataway, NJ, USA",
+    "standards-body": {
+      "name": "32NF - Technology Committee on Network and Facilities Infrastructure",
+      "acronym": "IEEE"
+    },
+    "reference-count": 11,
+    "publisher": "IEEE",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781683031826"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.5594/smpte.st2108-2.2019",
+    "type": "standard",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2019-08-22T16:28:56Z",
+      "timestamp": 1566491336000
+    },
+    "approved": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          28
+        ]
+      ]
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Vertical Ancillary Data Mapping of KLV Formatted HDR/WCG Metadata"
+    ],
+    "prefix": "10.5594",
+    "member": "3548",
+    "reference": [
+      {
+        "journal-title": "A DTV Profile for Uncompressed High Speed Digital Interfaces",
+        "year": "2019",
+        "key": "ref-bib-11"
+      },
+      {
+        "journal-title": "HDR/WCG Metadata Packing and Signaling in the Vertical Ancillary Data Space",
+        "year": "2018",
+        "key": "ref-bib-10"
+      },
+      {
+        "journal-title": "Dynamic Metadata for Color Volume Transform ? Application #1",
+        "year": "2016",
+        "key": "ref-bib-8"
+      },
+      {
+        "journal-title": "Dynamic Metadata for Color Volume Transform - Application #4",
+        "year": "2016",
+        "key": "ref-bib-9"
+      },
+      {
+        "journal-title": "High Efficiency Video Coding",
+        "year": "2018",
+        "key": "ref-norm-1"
+      },
+      {
+        "journal-title": "Ancillary Data Packet and Space Formatting",
+        "year": "2011",
+        "key": "ref-norm-2"
+      },
+      {
+        "journal-title": "Data Encoding Protocol Using Key-Length-Value",
+        "year": "2017",
+        "key": "ref-norm-3"
+      },
+      {
+        "journal-title": "Interoperable Master Format - Application #2E",
+        "year": "2016",
+        "key": "ref-norm-4"
+      },
+      {
+        "journal-title": "Dynamic Metadata for Color Volume Transform ? KLV Encoding and MXF Mapping",
+        "year": "2017",
+        "key": "ref-norm-5"
+      },
+      {
+        "journal-title": "Payload Identification Codes for Serial Digital Interfaces",
+        "year": "2013",
+        "key": "ref-bib-6"
+      },
+      {
+        "journal-title": "Mastering Display Color Volume Metadata Supporting High Luminance and Wide Color Gamut Images",
+        "year": "2014",
+        "key": "ref-bib-7"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          30
+        ]
+      ],
+      "date-time": "2025-10-30T12:30:54Z",
+      "timestamp": 1761827454000
+    },
+    "score": 39.159676,
+    "resource": {
+      "primary": {
+        "URL": "https://pub.smpte.org/doc/st2108-2/20190528-pub/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781683031826"
+    ],
+    "references-count": 11,
+    "URL": "https://doi.org/10.5594/smpte.st2108-2.2019"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          30
+        ]
+      ],
+      "date-time": "2025-10-30T12:35:32Z",
+      "timestamp": 1761827732098,
+      "version": "build-2065373602"
+    },
+    "publisher-location": "Piscataway, NJ, USA",
+    "standards-body": {
+      "name": "32NF - Technology Committee on Network and Facilities Infrastructure",
+      "acronym": "IEEE"
+    },
+    "reference-count": 11,
+    "publisher": "IEEE",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781683031543"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.5594/smpte.st2108-1.2018",
+    "type": "standard",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          26
+        ]
+      ],
+      "date-time": "2018-09-26T15:38:35Z",
+      "timestamp": 1537976315000
+    },
+    "approved": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          30
+        ]
+      ]
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "HDR/WCG Metadata Packing and Signaling in the Vertical Ancillary Data Space"
+    ],
+    "prefix": "10.5594",
+    "member": "3548",
+    "reference": [
+      {
+        "journal-title": "HDR Static Metadata Extension",
+        "year": "2015",
+        "key": "ref-bib-1"
+      },
+      {
+        "journal-title": "Procedure for the Allocation of ITU-T Defined Codes for Non-Standard Facilities",
+        "year": "2000",
+        "key": "ref-bib-2"
+      },
+      {
+        "journal-title": "Payload Identification Codes for Serial Digital Interfaces",
+        "year": "2013",
+        "key": "ref-bib-3"
+      },
+      {
+        "journal-title": "Ancillary Data Packet and Space Formatting",
+        "year": "2011",
+        "key": "ref-norm-7"
+      },
+      {
+        "journal-title": "AVC Video Constraints for Cable Television Part 1 - Coding",
+        "year": "2013",
+        "key": "ref-norm-1"
+      },
+      {
+        "journal-title": "Video - HEVC",
+        "year": "2018",
+        "key": "ref-norm-2"
+      },
+      {
+        "journal-title": "Mastering Display Color Volume Metadata Supporting High Luminance and Wide Color Gamut Images",
+        "year": "2014",
+        "key": "ref-bib-4"
+      },
+      {
+        "journal-title": "High-Performance Single Layer High Dynamic Range (HDR) System for use in Consumer Electronics devices Part 1 Directly Standard Dynamic Range (SDR) Compatible HDR System (SL-HDR1)",
+        "year": "0",
+        "key": "ref-norm-3"
+      },
+      {
+        "journal-title": "High Efficiency Video Coding",
+        "year": "2016",
+        "key": "ref-norm-4"
+      },
+      {
+        "journal-title": "Definition of Vertical Interval Switching Point for Synchronous Video Switching",
+        "year": "2009",
+        "key": "ref-norm-5"
+      },
+      {
+        "journal-title": "Ancillary Data Space Use - 4 2 2 SDTV and HDTV Component Systems and 4 2 2 2048 � 1080 Production Image Formats",
+        "year": "2013",
+        "key": "ref-norm-6"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          30
+        ]
+      ],
+      "date-time": "2025-10-30T12:30:54Z",
+      "timestamp": 1761827454000
+    },
+    "score": 38.599503,
+    "resource": {
+      "primary": {
+        "URL": "https://pub.smpte.org/doc/st2108-1/20180830-pub/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781683031543"
+    ],
+    "references-count": 11,
+    "URL": "https://doi.org/10.5594/smpte.st2108-1.2018"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2025-05-01T04:18:43Z",
+      "timestamp": 1746073123871,
+      "version": "3.40.4"
+    },
+    "reference-count": 11,
+    "publisher": "Steklov Mathematical Institute",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Математические заметки",
+      "Matematicheskie Zametki",
+      "Матем. заметки",
+      "Mat. Zametki"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "DOI": "10.4213/mzm10331",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          11,
+          5
+        ]
+      ],
+      "date-time": "2013-11-05T08:54:16Z",
+      "timestamp": 1383641656000
+    },
+    "page": "643-647",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Примеры множеств с заданными аппроксимативными свойствами в $WCG$-пространстве",
+      "Examples of Sets with Given Approximation Properties in $WCG$-Space"
+    ],
+    "prefix": "10.4213",
+    "volume": "94",
+    "author": [
+      {
+        "given": "Петр Анатольевич",
+        "family": "Бородин",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Petr Anatol'evich",
+        "family": "Borodin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2731",
+    "reference": [
+      {
+        "issue": "1",
+        "key": "ref-10.4213-mzm10331-1-1-1",
+        "first-page": "17",
+        "article-title": "Некоторые свойства чебышевских множеств",
+        "volume": "118",
+        "author": "Н. В. Ефимов, С. Б. Стечкин",
+        "year": "1958",
+        "journal-title": "Докл. АН СССР"
+      },
+      {
+        "issue": "3",
+        "key": "ref-10.4213-mzm10331-1-2-1",
+        "first-page": "522",
+        "article-title": "Аппроксимативная компактность и чебышевские множества",
+        "volume": "140",
+        "author": "Н. В. Ефимов, С. Б. Стечкин",
+        "year": "1961",
+        "journal-title": "Докл. АН СССР"
+      },
+      {
+        "issue": "6",
+        "key": "ref-10.4213-mzm10331-1-3-1",
+        "first-page": "3",
+        "volume": "28",
+        "author": "Л. П. Власов paper Аппроксимативные свойства множеств в линейных нормированных пространствах",
+        "year": "1973",
+        "journal-title": "УМН"
+      },
+      {
+        "issue": "4",
+        "key": "ref-10.4213-mzm10331-1-4-1",
+        "first-page": "157",
+        "article-title": "Пример ограниченного аппроксимативно компактного множества, не являющегося компактным",
+        "volume": "49",
+        "author": "П. А. Бородин",
+        "year": "1994",
+        "journal-title": "УМН"
+      },
+      {
+        "key": "ref-10.4213-mzm10331-1-5-1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4213/rm7153"
+      },
+      {
+        "issue": "4",
+        "key": "ref-10.4213-mzm10331-1-6-1",
+        "first-page": "19",
+        "article-title": "О выпуклых аппроксимативно компактных множествах и пространствах Ефимова - Стечкина",
+        "author": "П. А. Бородин",
+        "year": "1999",
+        "journal-title": "Вестн. Моск. ун-та. Сер. 1 Матем., мех."
+      },
+      {
+        "key": "ref-10.4213-mzm10331-1-7-1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0022-1236(74)90044-5"
+      },
+      {
+        "volume-title": "Геометрия банаховых пространств. Избранные главы",
+        "year": "1980",
+        "author": "Дж. Дистель",
+        "key": "ref-10.4213-mzm10331-1-8-1"
+      },
+      {
+        "issue": "2",
+        "key": "ref-10.4213-mzm10331-1-9-1",
+        "doi-asserted-by": "crossref",
+        "first-page": "173",
+        "DOI": "10.4064/sm-37-2-173-180",
+        "article-title": "On locally uniformly convex and differentiable norms in certain non-separable Banach spaces",
+        "volume": "37",
+        "author": "S. Troyanski",
+        "year": "1971",
+        "journal-title": "Studia Math."
+      },
+      {
+        "volume-title": "Линейные операторы. Т. 1. Общая теория",
+        "year": "1962",
+        "author": "Н. Данфорд, Дж. Шварц",
+        "key": "ref-10.4213-mzm10331-1-10-1"
+      },
+      {
+        "issue": "3",
+        "key": "ref-10.4213-mzm10331-1-11-1",
+        "first-page": "57",
+        "article-title": "Пример выпуклого аппроксимативно компактного тела в пространстве $c_0$",
+        "author": "И. А. Пятышев",
+        "year": "2005",
+        "journal-title": "Вестн. Моск. ун-та. Сер. 1. Матем., мех."
+      }
+    ],
+    "container-title": [
+      "Математические заметки",
+      "Matematicheskie Zametki"
+    ],
+    "language": "ru",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2025-04-30T10:51:28Z",
+      "timestamp": 1746010288000
+    },
+    "score": 38.146057,
+    "resource": {
+      "primary": {
+        "URL": "http://mi.mathnet.ru/mzm10331"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "references-count": 11,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.4213/mzm10331",
+    "relation": {
+      "has-translation": [
+        {
+          "id-type": "doi",
+          "id": "10.1134/S0001434613110011",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "ISSN": [
+      "0025-567X",
+      "2305-2880"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0025-567X"
+      },
+      {
+        "type": "electronic",
+        "value": "2305-2880"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          18
+        ]
+      ],
+      "date-time": "2024-12-18T05:39:06Z",
+      "timestamp": 1734500346812,
+      "version": "3.30.2"
+    },
+    "reference-count": 32,
+    "publisher": "IEEE",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": "10.5594/m001882",
+    "type": "proceedings-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2020-10-21T18:29:58Z",
+      "timestamp": 1603304998000
+    },
+    "page": "1-22",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "HDR and WCG Image Quality Assessment Using Color Difference Metrics"
+    ],
+    "prefix": "10.5594",
+    "author": [
+      {
+        "given": "Anustup",
+        "family": "Choudhury",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Dolby Laboratories, Inc."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jaclyn",
+        "family": "Pytlarz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dolby Laboratories, Inc."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Scott",
+        "family": "Daly",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dolby Laboratories, Inc."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "3548",
+    "reference": [
+      {
+        "key": "ref-bib-1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2352/J.ImagingSci.Technol.2016.60.6.060406"
+      },
+      {
+        "key": "ref-bib-2",
+        "article-title": "Predicting Multivariate Image Quality from Individual Perceptual Attributes",
+        "author": "keelan",
+        "year": "2002",
+        "journal-title": "IS&T PICS Conference"
+      },
+      {
+        "key": "ref-bib-3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2352/J.ImagingSci.Technol.(2008)52:4(040904)"
+      },
+      {
+        "key": "ref-bib-8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2352/ISSN.2169-2629.2018.26.336"
+      },
+      {
+        "key": "ref-bib-19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/566654.566575"
+      },
+      {
+        "key": "ref-bib-9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5594/JMI.2018.2792758"
+      },
+      {
+        "key": "ref-bib-15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jimaging5010018"
+      },
+      {
+        "key": "ref-bib-4",
+        "article-title": "Review of objective video quality metrics and performance comparison using different databases",
+        "volume": "v28",
+        "author": "vranjes",
+        "year": "2017",
+        "journal-title": "Image Commun"
+      },
+      {
+        "key": "ref-bib-16",
+        "first-page": "7867",
+        "article-title": "Brightness, lightness, and specifying color in high-dynamic-range scenes and images",
+        "author": "fairchild",
+        "year": "2011",
+        "journal-title": "Proc SPIE"
+      },
+      {
+        "key": "ref-bib-5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1167/4.9.11"
+      },
+      {
+        "key": "ref-bib-17",
+        "first-page": "1",
+        "article-title": "Subjective quality assessment database of HDR images compressed with jpeg xt",
+        "author": "korshunov",
+        "year": "2015",
+        "journal-title": "QoMEX"
+      },
+      {
+        "key": "ref-bib-6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5594/j18290"
+      },
+      {
+        "key": "ref-bib-18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/1166087.1166095"
+      },
+      {
+        "key": "ref-bib-7",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1117/12.765095",
+        "article-title": "Extending Quality Metrics to Full Luminance Range Images",
+        "author": "aydin",
+        "year": "2008"
+      },
+      {
+        "key": "ref-bib-30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5594/JMI.2019.2901208"
+      },
+      {
+        "journal-title": "Objective Metric for the Assessment of the Potential Visibility of Colour Differences in Television",
+        "year": "0",
+        "key": "ref-bib-12"
+      },
+      {
+        "journal-title": "Colorimetry ? Part 4 CIE 1976 L*a*b* Colour space",
+        "year": "0",
+        "key": "ref-bib-11"
+      },
+      {
+        "year": "0",
+        "key": "ref-bib-32"
+      },
+      {
+        "key": "ref-bib-14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/col.5080140308"
+      },
+      {
+        "year": "2012",
+        "key": "ref-bib-31",
+        "article-title": "Methods, metrics and procedures for statistical evaluation, qualification and comparison of objective quality prediction models"
+      },
+      {
+        "key": "ref-bib-13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1364/OE.25.015131"
+      },
+      {
+        "journal-title": "Colorimetry ? Part 6 CIEDE2000 Colour-difference formula",
+        "year": "0",
+        "key": "ref-bib-10"
+      },
+      {
+        "key": "ref-bib-28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1364/JOSAA.28.001841"
+      },
+      {
+        "key": "ref-bib-29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5594/JMI.2019.2895795"
+      },
+      {
+        "journal-title": "Final report from the video quality experts group on the validation of objective models of video quality assessment",
+        "year": "2003",
+        "key": "ref-bib-26"
+      },
+      {
+        "key": "ref-bib-27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1364/JOSAA.24.001823"
+      },
+      {
+        "key": "ref-bib-21",
+        "article-title": "Performance evaluation of objective quality metrics for hdr image compression",
+        "author": "valenzise",
+        "year": "2014",
+        "journal-title": "SPIE Optical Engineering + Applications International Society for Optics and Photonics"
+      },
+      {
+        "key": "ref-bib-20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s41233-017-0007-4"
+      },
+      {
+        "key": "ref-bib-25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23919/EUSIPCO.2018.8553212"
+      },
+      {
+        "key": "ref-bib-24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jvcir.2007.06.003"
+      },
+      {
+        "key": "ref-bib-23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1117/1.OE.52.10.102008"
+      },
+      {
+        "key": "ref-bib-22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1558",
+        "DOI": "10.1109/TIP.2010.2095866",
+        "article-title": "Optimizing a tone curve for backward-compatible high dynamic range image and video compression",
+        "volume": "20",
+        "author": "mai",
+        "year": "2011",
+        "journal-title": "IEEE Transactions on Image Processing"
+      }
+    ],
+    "event": {
+      "name": "SMPTE 2019 Annual Technical Conference & Exhibition",
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            21
+          ]
+        ]
+      },
+      "location": "Los Angeles, CA, USA",
+      "end": {
+        "date-parts": [
+          [
+            2019,
+            10,
+            24
+          ]
+        ]
+      }
+    },
+    "container-title": [
+      "SMPTE 2019"
+    ],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx7/8977456/8977457/08977597.pdf?arnumber=8977597",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          17
+        ]
+      ],
+      "date-time": "2024-12-17T22:19:53Z",
+      "timestamp": 1734473993000
+    },
+    "score": 34.81019,
+    "resource": {
+      "primary": {
+        "URL": "https://journal.smpte.org/conferences/SMPTE%202019/20/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "references-count": 32,
+    "URL": "https://doi.org/10.5594/m001882",
+    "published": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
+  }
+]

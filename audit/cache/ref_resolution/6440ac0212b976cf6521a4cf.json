@@ -1,0 +1,1362 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          23
+        ]
+      ],
+      "date-time": "2026-04-23T03:59:24Z",
+      "timestamp": 1776916764007,
+      "version": "3.51.2"
+    },
+    "reference-count": 12,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2008-08-01T00:00:00Z",
+          "timestamp": 1217548800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2008-08-01T00:00:00Z",
+          "timestamp": 1217548800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "journalofinfection.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Infection"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jinf.2008.05.008",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          7,
+          2
+        ]
+      ],
+      "date-time": "2008-07-02T14:21:40Z",
+      "timestamp": 1215008500000
+    },
+    "page": "132-138",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 41,
+    "title": [
+      "Infective endocarditis in an urban medical center: Association of individual drugs with valvular involvement"
+    ],
+    "prefix": "10.1016",
+    "volume": "57",
+    "author": [
+      {
+        "given": "Vivek",
+        "family": "Jain",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Meei-Horng",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gabriela",
+        "family": "Kovacicova-Lezcano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Leah S.",
+        "family": "Juhle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ann F.",
+        "family": "Bolger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lisa G.",
+        "family": "Winston",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1001/jama.288.1.75",
+        "article-title": "Changing profile of infective endocarditis: results of a 1-year survey in France",
+        "volume": "288",
+        "author": "Hoen",
+        "year": "2002",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1016/S0140-6736(03)15266-X",
+        "article-title": "Infective endocarditis",
+        "volume": "363",
+        "author": "Moreillon",
+        "year": "2004",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "3022",
+        "DOI": "10.1001/jama.293.24.3022",
+        "article-title": "Temporal trends in infective endocarditis: a population-based study in Olmsted County, Minnesota",
+        "volume": "293",
+        "author": "Tleyjeh",
+        "year": "2005",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "933",
+        "DOI": "10.1016/S0002-9149(99)80264-1",
+        "article-title": "Incidence of infective endocarditis in the Delaware Valley, 1988–1990",
+        "volume": "76",
+        "author": "Berlin",
+        "year": "1995",
+        "journal-title": "Am J Cardiol"
+      },
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.7326/0003-4819-78-1-25",
+        "article-title": "Favorable experience with bacterial endocarditis in heroin addicts",
+        "volume": "78",
+        "author": "Menda",
+        "year": "1973",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1641",
+        "DOI": "10.1001/archinte.1995.00430150125013",
+        "article-title": "Clinical features, site of involvement, bacteriologic findings, and outcome of infective endocarditis in intravenous drug users",
+        "volume": "155",
+        "author": "Mathew",
+        "year": "1995",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "833",
+        "DOI": "10.7326/0003-4819-106-6-833",
+        "article-title": "Cocaine use and the risk for endocarditis in intravenous drug users",
+        "volume": "106",
+        "author": "Chambers",
+        "year": "1987",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1200",
+        "DOI": "10.1086/522176",
+        "article-title": "Nationwide increase in the number of hospitalizations for illicit injection drug use-related infective endocarditis",
+        "volume": "45",
+        "author": "Cooper",
+        "year": "2007",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "3012",
+        "DOI": "10.1001/jama.293.24.3012",
+        "article-title": "Staphylococcus aureus endocarditis: a consequence of medical progress",
+        "volume": "293",
+        "author": "Fowler",
+        "year": "2005",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "577",
+        "DOI": "10.1136/heart.89.5.577",
+        "article-title": "Injection drug use and right sided endocarditis",
+        "volume": "89",
+        "author": "Moss",
+        "year": "2003",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "665",
+        "DOI": "10.1016/S0733-8627(20)30266-2",
+        "article-title": "Endocarditis in intravenous drug abusers",
+        "volume": "8",
+        "author": "Roberts",
+        "year": "1990",
+        "journal-title": "Emerg Med Clin North Am"
+      },
+      {
+        "key": "10.1016/j.jinf.2008.05.008_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "677",
+        "DOI": "10.1161/01.ATV.18.5.677",
+        "article-title": "Laminar shear stress: mechanisms by which endothelial cells transduce an atheroprotective force",
+        "volume": "18",
+        "author": "Traub",
+        "year": "1998",
+        "journal-title": "Arterioscler Thromb Vasc Biol"
+      }
+    ],
+    "container-title": [
+      "Journal of Infection"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0163445308001837?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0163445308001837?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          27
+        ]
+      ],
+      "date-time": "2025-09-27T15:33:03Z",
+      "timestamp": 1758987183000
+    },
+    "score": 138.19841,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0163445308001837"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          8
+        ]
+      ]
+    },
+    "references-count": 12,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0163445308001837"
+    ],
+    "URL": "https://doi.org/10.1016/j.jinf.2008.05.008",
+    "ISSN": [
+      "0163-4453"
+    ],
+    "issn-type": [
+      {
+        "value": "0163-4453",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Infective endocarditis in an urban medical center: Association of individual drugs with valvular involvement",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of Infection",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jinf.2008.05.008",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2008 The British Infection Society. Published by Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          9
+        ]
+      ],
+      "date-time": "2026-03-09T19:32:19Z",
+      "timestamp": 1773084739536,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Medicine"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1978,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1097/00005792-197803000-00001",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          11,
+          10
+        ]
+      ],
+      "date-time": "2006-11-10T10:02:42Z",
+      "timestamp": 1163152962000
+    },
+    "page": "105-128",
+    "source": "Crossref",
+    "is-referenced-by-count": 212,
+    "title": [
+      "INFECTIVE ENDOCARDITIS—AN EVOLVING DISEASE"
+    ],
+    "prefix": "10.1097",
+    "volume": "57",
+    "author": [
+      {
+        "given": "GLENDA J.",
+        "family": "GARVEY",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "HAROLD C.",
+        "family": "NEU",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Medicine"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/00005792-197803000-00001",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          16
+        ]
+      ],
+      "date-time": "2021-06-16T00:44:25Z",
+      "timestamp": 1623804265000
+    },
+    "score": 35.817154,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.lww.com/00005792-197803000-00001"
+      }
+    },
+    "subtitle": [
+      "A Review of Endocarditis at The Columbia-Presbyterian Medical Center, 1968–1973"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1978,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2"
+    },
+    "URL": "https://doi.org/10.1097/00005792-197803000-00001",
+    "ISSN": [
+      "0025-7974"
+    ],
+    "issn-type": [
+      {
+        "value": "0025-7974",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1978,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T22:53:14Z",
+      "timestamp": 1648767194056
+    },
+    "reference-count": 0,
+    "publisher": "OMICS Publishing Group",
+    "issue": "06",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J Addict Res Ther"
+    ],
+    "DOI": "10.4172/2155-6105.1000352",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          4
+        ]
+      ],
+      "date-time": "2018-01-04T13:30:38Z",
+      "timestamp": 1515072638000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A Systematic Review of the Association between Individual Drugs Injected Intravenously and the Development of Infective Endocarditis"
+    ],
+    "prefix": "10.4172",
+    "volume": "08",
+    "author": [
+      {
+        "given": "Jad",
+        "family": "Serhan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michael S",
+        "family": "Silverman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2674",
+    "published-online": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Addiction Research &amp; Therapy"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          4
+        ]
+      ],
+      "date-time": "2018-01-04T13:30:45Z",
+      "timestamp": 1515072645000
+    },
+    "score": 33.233997,
+    "resource": {
+      "primary": {
+        "URL": "https://www.omicsonline.org/open-access/a-systematic-review-of-the-association-between-individual-drugs-injected-intravenously-and-the-development-of-infective-endocardit-2155-6105-1000352-96105.html"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "06",
+      "published-online": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.4172/2155-6105.1000352",
+    "ISSN": [
+      "2155-6105"
+    ],
+    "issn-type": [
+      {
+        "value": "2155-6105",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          9
+        ]
+      ],
+      "date-time": "2024-07-09T18:11:51Z",
+      "timestamp": 1720548711114
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2008-01-01T00:00:00Z",
+          "timestamp": 1199145600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.hlc.2008.05.203",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          7,
+          17
+        ]
+      ],
+      "date-time": "2008-07-17T00:56:20Z",
+      "timestamp": 1216256180000
+    },
+    "page": "S85-S86",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S3",
+    "title": [
+      "Outcome &amp; Prognostic Factors on 57 Cases Of Infective Endocarditis in a Single Center"
+    ],
+    "prefix": "10.1016",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Chi Wing",
+        "family": "Wong",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "Tisch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Graeme",
+        "family": "Porter",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Calum",
+        "family": "Young",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bryan",
+        "family": "Dwyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950608003910?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950608003910?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          27
+        ]
+      ],
+      "date-time": "2018-12-27T06:54:06Z",
+      "timestamp": 1545893646000
+    },
+    "score": 31.291622,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1443950608003910"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S1443950608003910"
+    ],
+    "URL": "https://doi.org/10.1016/j.hlc.2008.05.203",
+    "ISSN": [
+      "1443-9506"
+    ],
+    "issn-type": [
+      {
+        "value": "1443-9506",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          14
+        ]
+      ],
+      "date-time": "2026-01-14T20:31:01Z",
+      "timestamp": 1768422661563,
+      "version": "3.49.0"
+    },
+    "reference-count": 28,
+    "publisher": "Microbiology Society",
+    "issue": "10",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          10,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1099/jmm.0.2008/003343-0",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2008-09-22T05:52:42Z",
+      "timestamp": 1222062762000
+    },
+    "page": "1299-1302",
+    "source": "Crossref",
+    "is-referenced-by-count": 23,
+    "title": [
+      "Endocarditis due to Corynebacterium amycolatum"
+    ],
+    "prefix": "10.1099",
+    "volume": "57",
+    "author": [
+      {
+        "given": "Aman",
+        "family": "Dalal",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Infectious Diseases, New York Hospital Queens, Flushing, NY, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Carl",
+        "family": "Urban",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Microbiology, Weill Cornell Medical College, NY, USA"
+          },
+          {
+            "name": "Division of Infectious Diseases, New York Hospital Queens, Flushing, NY, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sorana",
+        "family": "Segal-Maurer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Medicine, Weill Cornell Medical College, NY, USA"
+          },
+          {
+            "name": "Division of Infectious Diseases, New York Hospital Queens, Flushing, NY, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "345",
+    "reference": [
+      {
+        "key": "R1",
+        "doi-asserted-by": "crossref",
+        "first-page": "136",
+        "DOI": "10.1097/INF.0b013e31814fab12",
+        "article-title": "Infections caused by coryneform bacteria in pediatric oncology patients",
+        "volume": "27",
+        "author": "Adderson",
+        "year": "2008",
+        "journal-title": "Pediatr Infect Dis J"
+      },
+      {
+        "key": "R2",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1186/1471-2334-7-4",
+        "article-title": "Corynebacterium endocarditis species-specific risk factors and outcomes",
+        "volume": "7",
+        "author": "Belmares",
+        "year": "2007",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "key": "R3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1011",
+        "DOI": "10.1128/JCM.35.4.1011-1012.1997",
+        "article-title": "Fatal sepsis caused by Corynebacterium amycolatum in a premature infant",
+        "volume": "35",
+        "author": "Berner",
+        "year": "1997",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "R4",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.5414/CNP63241",
+        "article-title": "Recurrent peritonitis caused by Corynebacterium amycolatum in a patient undergoing continuous ambulatory peritoneal dialysis",
+        "volume": "63",
+        "author": "Chiu",
+        "year": "2005",
+        "journal-title": "Clin Nephrol"
+      },
+      {
+        "key": "R5",
+        "doi-asserted-by": "crossref",
+        "first-page": "126",
+        "DOI": "10.1016/S0163-4453(99)90082-8",
+        "article-title": "Septic arthritis caused by Corynebacterium amycolatum following vascular graft sepsis",
+        "volume": "38",
+        "author": "Clarke",
+        "year": "1999",
+        "journal-title": "J Infect"
+      },
+      {
+        "key": "R6",
+        "volume-title": "Performance Standards for Antimicrobial Disk Susceptibility Tests",
+        "year": "2006a"
+      },
+      {
+        "key": "R7",
+        "volume-title": "Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically",
+        "year": "2006b"
+      },
+      {
+        "key": "R8",
+        "doi-asserted-by": "crossref",
+        "first-page": "349",
+        "DOI": "10.1111/j.1574-6968.1988.tb02755.x",
+        "article-title": "Corynebacterium amycolatum sp. nov, a new mycolic acid-less Corynebacterium species from human skin",
+        "volume": "49",
+        "author": "Collins",
+        "year": "1988",
+        "journal-title": "FEMS Microbiol Lett"
+      },
+      {
+        "key": "R9",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1053/euje.4.1.68",
+        "article-title": "Native valve endocarditis with aorta-to-left atrial fistula due to Corynebacterium amycolatum",
+        "volume": "4",
+        "author": "Daniëls",
+        "year": "2003",
+        "journal-title": "Eur J Echocardiogr"
+      },
+      {
+        "key": "R10",
+        "first-page": "340",
+        "article-title": "Corynebacterium amycolatum : sepsis in hematologic patients",
+        "volume": "17",
+        "author": "De Miguel",
+        "year": "1999",
+        "journal-title": "Enferm Infecc Microbiol Clin"
+      },
+      {
+        "key": "R11",
+        "doi-asserted-by": "crossref",
+        "first-page": "617",
+        "DOI": "10.1007/BF01709376",
+        "article-title": "Sepsis due to multiply resistant Corynebacterium amycolatum",
+        "volume": "15",
+        "author": "De Miguel-Martinez",
+        "year": "1996",
+        "journal-title": "Eur J Clin Microbiol Infect Dis"
+      },
+      {
+        "key": "R12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1124",
+        "DOI": "10.1128/JCM.34.5.1124-1128.1996",
+        "article-title": "Most Corynebacterium xerosis strains identified in the routine clinical laboratory correspond to Corynebacterium amycolatum",
+        "volume": "34",
+        "author": "Funke",
+        "year": "1996a",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "R13",
+        "doi-asserted-by": "crossref",
+        "first-page": "2874",
+        "DOI": "10.1128/AAC.40.12.2874",
+        "article-title": "Antimicrobial susceptibility patterns of some recently established coryneform bacteria",
+        "volume": "40",
+        "author": "Funke",
+        "year": "1996b",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "key": "R14",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1128/CMR.10.1.125",
+        "article-title": "Clinical microbiology of coryneform bacteria",
+        "volume": "10",
+        "author": "Funke",
+        "year": "1997",
+        "journal-title": "Clin Microbiol Rev"
+      },
+      {
+        "key": "R15",
+        "doi-asserted-by": "crossref",
+        "first-page": "337",
+        "DOI": "10.1128/AAC.47.1.337-341.2003",
+        "article-title": "In vitro activities of daptomycin, vancomycin, quinupristin-dalfopristin, linezolid, and five other antimicrobials against 307 Gram-positive anaerobic and 31 Corynebacterium clinical isolates",
+        "volume": "47",
+        "author": "Goldstein",
+        "year": "2003",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "key": "R16",
+        "doi-asserted-by": "crossref",
+        "first-page": "97",
+        "DOI": "10.3201/eid0801.010151",
+        "article-title": "Nosocomial endocarditis caused by Corynebacterium amycolatum and other nondiphtheriae corynebacteria",
+        "volume": "8",
+        "author": "Knox",
+        "year": "2002",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "R17",
+        "doi-asserted-by": "crossref",
+        "first-page": "256",
+        "DOI": "10.1111/j.1574-6968.2006.00492.x",
+        "article-title": "Identification of the emerging skin pathogen Corynebacterium amycolatum using PCR-amplification of the essential divIVA gene as a target",
+        "volume": "265",
+        "author": "Letek",
+        "year": "2006",
+        "journal-title": "FEMS Microbiol Lett"
+      },
+      {
+        "key": "R18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1220",
+        "DOI": "10.1093/clinids/4.6.1220",
+        "article-title": "Infections caused by non-diphtheriae corynebacteria",
+        "volume": "4",
+        "author": "Lipsky",
+        "year": "1982",
+        "journal-title": "Rev Infect Dis"
+      },
+      {
+        "key": "R19",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1016/S0213-005X(01)72578-5",
+        "article-title": "Significant bacteremias by Corynebacterium amycolatum : an emergent pathogen",
+        "volume": "19",
+        "author": "Oteo",
+        "year": "2001",
+        "journal-title": "Enferm Infecc Microbiol Clin"
+      },
+      {
+        "key": "R20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1434",
+        "DOI": "10.1086/344463",
+        "article-title": "Corynebacterium species isolated from patients with mastitis",
+        "volume": "35",
+        "author": "Paviour",
+        "year": "2002",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R21",
+        "doi-asserted-by": "crossref",
+        "first-page": "3698",
+        "DOI": "10.1128/JCM.36.12.3698-3702.1998",
+        "article-title": "Differentiation of Corynebacterium amycolatum , C. minutissimum and C. striatum by carbon assimilation tests",
+        "volume": "36",
+        "author": "Renaud",
+        "year": "1998",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "R22",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0924-8579(03)00121-3",
+        "article-title": "In vitro activity of newer antibiotics against Corynebacterium jeikeium , Corynebacterium amycolatum and Corynebacterium urealyticum",
+        "volume": "22",
+        "author": "Sánchez Hernández",
+        "year": "2003",
+        "journal-title": "Int J Antimicrob Agents"
+      },
+      {
+        "key": "R23",
+        "first-page": "216",
+        "article-title": "Coryneform bacterial endocarditis: difficulties in diagnosis and treatment, presentation of three cases, and review of literature",
+        "volume": "52",
+        "author": "van Scoy",
+        "year": "1977",
+        "journal-title": "Mayo Clin Proc"
+      },
+      {
+        "key": "R24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1553",
+        "DOI": "10.1086/517754",
+        "article-title": "Cardioverter-lead electrode infection due to Corynebacterium amycolatum",
+        "volume": "27",
+        "author": "Vaneechoutte",
+        "year": "1998",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R25",
+        "doi-asserted-by": "crossref",
+        "first-page": "36",
+        "DOI": "10.1007/BF02768750",
+        "article-title": "Diversity of coryneforms found in infections following prosthetic joint insertion and open fractures",
+        "volume": "26",
+        "author": "Von Graevenitz",
+        "year": "1998",
+        "journal-title": "Infection"
+      },
+      {
+        "key": "R26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1430",
+        "DOI": "10.1128/JCM.36.5.1430-1432.1998",
+        "article-title": "Identification of Corynebacterium amycolatum and other nonlipophilic fermentative corynebacteria of human origin",
+        "volume": "36",
+        "author": "Wauters",
+        "year": "1998",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "R27",
+        "doi-asserted-by": "crossref",
+        "first-page": "378",
+        "DOI": "10.1093/ajcp/106.3.378",
+        "article-title": "Heterogeneity within Corynebacterium minutissimum strains is explained by misidentified C. amycolatum strains",
+        "volume": "106",
+        "author": "Zinkernagel",
+        "year": "1996",
+        "journal-title": "Am J Clin Pathol"
+      },
+      {
+        "key": "R28",
+        "doi-asserted-by": "crossref",
+        "first-page": "490",
+        "DOI": "10.1086/598620",
+        "article-title": "Changing epidemiology of infections in patients with neutropenia and cancer: emphasis on Gram-positive and resistant bacteria",
+        "volume": "29",
+        "author": "Zinner",
+        "year": "1999",
+        "journal-title": "Clin Infect Dis"
+      }
+    ],
+    "container-title": [
+      "Journal of Medical Microbiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.2008/003343-0?crawler=true",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2021-09-16T23:33:12Z",
+      "timestamp": 1631835192000
+    },
+    "score": 31.231113,
+    "resource": {
+      "primary": {
+        "URL": "https://www.microbiologyresearch.org/content/journal/jmm/10.1099/jmm.0.2008/003343-0"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          10,
+          1
+        ]
+      ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+      "issue": "10",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            10,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1099/jmm.0.2008/003343-0",
+    "ISSN": [
+      "0022-2615",
+      "1473-5644"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-2615",
+        "type": "print"
+      },
+      {
+        "value": "1473-5644",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          10,
+          1
+        ]
+      ]
+    }
+  }
+]

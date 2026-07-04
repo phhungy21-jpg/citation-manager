@@ -1,0 +1,1444 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T04:34:21Z",
+      "timestamp": 1772253261776,
+      "version": "3.50.1"
+    },
+    "description": "Rescognito Funder Information Checklist: Agreement between pharmaceutical claims data and patient-reported medication use after stroke",
+    "reference-count": 0,
+    "publisher": "Rescognito, Inc.",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.37473/fic/10.1093/ijpp/riab032",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          12
+        ]
+      ],
+      "date-time": "2021-07-12T03:59:25Z",
+      "timestamp": 1626062365000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Agreement between pharmaceutical claims data and patient-reported medication use after stroke"
+    ],
+    "prefix": "10.37473",
+    "member": "23793",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          12
+        ]
+      ],
+      "date-time": "2021-07-12T03:59:25Z",
+      "timestamp": 1626062365000
+    },
+    "score": 43.049652,
+    "resource": {
+      "primary": {
+        "URL": "https://rescognito.com/fic/10.1093/ijpp/riab032"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.37473/fic/10.1093/ijpp/riab032",
+    "relation": {
+      "is-component-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1093/ijpp/riab032",
+          "asserted-by": "object"
+        }
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T15:47:15Z",
+      "timestamp": 1648914435203
+    },
+    "description": "Rescognito Data Availability Checklist: Agreement between pharmaceutical claims data and patient-reported medication use after stroke",
+    "reference-count": 0,
+    "publisher": "Rescognito, Inc.",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.37473/dac/10.1093/ijpp/riab032",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          12
+        ]
+      ],
+      "date-time": "2021-07-12T07:57:37Z",
+      "timestamp": 1626076657000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Agreement between pharmaceutical claims data and patient-reported medication use after stroke"
+    ],
+    "prefix": "10.37473",
+    "member": "23793",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          12
+        ]
+      ],
+      "date-time": "2021-07-12T07:57:37Z",
+      "timestamp": 1626076657000
+    },
+    "score": 43.002132,
+    "resource": {
+      "primary": {
+        "URL": "https://rescognito.com/dac/10.1093/ijpp/riab032"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.37473/dac/10.1093/ijpp/riab032"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          30
+        ]
+      ],
+      "date-time": "2026-01-30T13:28:22Z",
+      "timestamp": 1769779702468,
+      "version": "3.49.0"
+    },
+    "reference-count": 18,
+    "publisher": "CSIRO Publishing",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              18
+            ]
+          ],
+          "date-time": "2025-11-18T00:00:00Z",
+          "timestamp": 1763424000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 2960,
+        "URL": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background:</jats:title>\n                    <jats:p>Evidence on the comparative validity of self-reported medication use in large-scale studies is limited. This study compared self-reported medication use of prescription-only medications to gold standard pharmaceutical claims (i.e. dispensing) data.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>We selected a random sample of 500 participants from the 45 and Up Study, a large-scale Australian study, with complete ascertainment of Pharmaceutical Benefits Scheme dispensing records. Self-reported medication use was ascertained by questionnaire requesting data on medications used “for most of the last 4 weeks”. In the dispensing data, we determined exposure to specific medications in the same 4-week window as the survey response if we observed a dispensing record ≤90 days before the start of the window. We calculated sensitivity and positive predictive values (PPVs) at the Anatomical Therapeutic Chemical (ATC) classification 3‑ and 7-digit code levels.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results:</jats:title>\n                    <jats:p>PPVs were ≥75% for 79% of the medications examined at the 3-digit ATC level. The sensitivity/PPV of self-reported versus claims data at the 3-digit level were highest for chronic medications, including cardiovascular medications: 94.4%/96.9%, respectively, for lipid-lowering agents; 92.5%/97.5% for angiotensin agents; 88.8%/93.1% for beta-blockers; and 88.0%/96.9% for calcium-channel blockers. PPVs were ≥65% and sensitivity of self-reported data was 78.9% for psychoanaleptics, 42.1% for analgesics, 26.0% for psycholeptics and 4.8% for antibacterial agents. PPVs for individual medications were ≥75% for 81% of the individual medications examined at the 7-digit level. The sensitivity/PPV for self-reported versus claims data at the 7-digit level varied across individual medications, with highest values being 96.9%/96.9% for warfarin, 94.5%/92.0% for atorvastatin, 94.3%/84.6% for pantoprazole and 93.3%/95.5% for atenolol. The lowest sensitivity of self-reported versus claims data for individual medications was 16.7% for temazepam, 15.2% for perindopril, 11.5% for irbesartan, 11.1% for oxazepam and 3.3% for amoxicillin.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions:</jats:title>\n                    <jats:p>Self-reported data of the type reported here are useful for identifying exposure to prescription medications, particularly those for chronic use. However, they are likely to be of lesser validity for ascertaining short-term and/or intermittent medication exposure.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.17061/phrp27341702",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          1
+        ]
+      ],
+      "date-time": "2017-09-01T01:36:22Z",
+      "timestamp": 1504229782000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 32,
+    "title": [
+      "Ascertainment of self-reported prescription medication use compared with pharmaceutical claims data"
+    ],
+    "prefix": "10.1071",
+    "volume": "27",
+    "author": [
+      {
+        "given": "Danijela",
+        "family": "Gnjidic",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "A Faculty of Pharmacy, University of Sydney, NSW, Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Wei",
+        "family": "Du",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "B National Centre for Epidemiology and Population Health, Research School of Population Health, Australian National University, Canberra, ACT"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sallie-Anne",
+        "family": "Pearson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "A Faculty of Pharmacy, University of Sydney, NSW, Australia"
+          },
+          {
+            "name": "C Centre for Big Data Research in Health, Faculty of Medicine, UNSW Sydney, Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sarah",
+        "family": "Hilmer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "D Sydney Medical School, University of Sydney, NSW, Australia"
+          },
+          {
+            "name": "E Kolling Institute, Sydney, NSW, Australia"
+          },
+          {
+            "name": "F Royal North Shore Hospital, Sydney, NSW, Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Emily",
+        "family": "Banks",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "B National Centre for Epidemiology and Population Health, Research School of Population Health, Australian National University, Canberra, ACT"
+          },
+          {
+            "name": "G Sax Institute, Sydney, NSW, Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "67",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2026012917163972100_R1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Page E, Kemp-Casey A, Korda R, Banks E. Using Australian Pharmaceutical Benefits Scheme data for pharmacoepidemiological research: challenges and approaches. Public Health Res Pract. 2015;25(4):e2541546. CrossRef | PubMed",
+        "DOI": "10.17061/phrp2541546"
+      },
+      {
+        "key": "2026012917163972100_R2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lau HS, de Boer A, Beuning KS, Porsius A. Validation of pharmacy records in drug exposure assessment. J Clin Epidemiol. 1997;50(5):619–25. CrossRef | PubMed",
+        "DOI": "10.1016/S0895-4356(97)00040-1"
+      },
+      {
+        "key": "2026012917163972100_R3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Klungel OH, de Boer A, Paes AH, Herings RM, Seidell JC, Bakker A. Agreement between self-reported antihypertensive drug use and pharmacy records in a population-based study in The Netherlands. Pharm World Sci. 1999;21(5):217–20. CrossRef | PubMed",
+        "DOI": "10.1023/A:1008741321384"
+      },
+      {
+        "key": "2026012917163972100_R4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pit SW, Byles JE, Cockburn J. Accuracy of telephone self-report of drug use in older people and agreement with pharmaceutical claims data. Drugs Aging. 2008;25(1):71–80. CrossRef | PubMed",
+        "DOI": "10.2165/00002512-200825010-00008"
+      },
+      {
+        "key": "2026012917163972100_R5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nielsen MW, Sondergaard B, Kjoller M, Hansen EH. Agreement between self-reported data on medicine use and prescription records vary according to method of analysis and therapeutic group. J Clin Epidemiol. 2008;61(9):919–24. CrossRef | PubMed",
+        "DOI": "10.1016/j.jclinepi.2007.10.021"
+      },
+      {
+        "key": "2026012917163972100_R6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Banks E, Beral V, Cameron R, Hogg A, Langley N, Barnes I, et al. Agreement between general practice prescription data and self-reported use of hormone replacement therapy and treatment for various illnesses. J Epidemiol Biostat. 2001;6(4):357–63. PubMed",
+        "DOI": "10.1080/13595220152601837"
+      },
+      {
+        "key": "2026012917163972100_R7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "45 and Up Study Collaborators, Banks E, Redman S, Jorm L, Armstrong B, Bauman A, et al. Cohort profile: the 45 and up study. Int J Epidemiol. 2008;37(5):941–7. CrossRef | PubMed",
+        "DOI": "10.1093/ije/dym184"
+      },
+      {
+        "key": "2026012917163972100_R8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gnjidic D, Pearson SA, Hilmer SN, Basilakis J, Schaffer AL, Blyth FM, Banks E; High Risk Prescribing Investigators. Manual versus automated coding of free-text self-reported medication data in the 45 and Up Study: a validation study. Public Health Res Pract. 2015;25(2):e2521518. CrossRef | PubMed",
+        "DOI": "10.17061/phrp2521518"
+      },
+      {
+        "key": "2026012917163972100_R9",
+        "unstructured": "Donohoo E, Editor. MIMS Annual. Sydney: CMPMedica; 2015."
+      },
+      {
+        "key": "2026012917163972100_R10",
+        "unstructured": "WHO Collaborating Centre for Drug Statistics Methodology. The anatomical therapeutic chemical classification system. Oslo: WHO Collaborating Centre for Drug Statistics Methodology, Norwegian Institute of Public Health; 2015. Available from: www.whocc.no/atcddd"
+      },
+      {
+        "key": "2026012917163972100_R11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hallas J, Dall M, Andries A, Andersen BS, Aalykke C, Hansen JM, et al. Use of single and combined antithrombotic therapy and risk of serious upper gastrointestinal bleeding: population based case-control study. BMJ. 2006;333(7571):726. CrossRef | PubMed",
+        "DOI": "10.1136/bmj.38947.697558.AE"
+      },
+      {
+        "key": "2026012917163972100_R12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "King MA, Purdie DM, Roberts MS. Matching prescription claims with medication data for nursing home residents: implications for prescriber feedback, drug utilisation studies and selection of prescription claims database. J Clin Epidemiol. 2001;54(2):202–9. CrossRef | PubMed",
+        "DOI": "10.1016/S0895-4356(00)00282-1"
+      },
+      {
+        "key": "2026012917163972100_R13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Smith NL, Psaty BM, Heckbert SR, Tracy RP, Cornell ES. The reliability of medication inventory methods compared to serum levels of cardiovascular drugs in the elderly. J Clin Epidemiol. 1999;52(2):143–6. CrossRef | PubMed",
+        "DOI": "10.1016/S0895-4356(98)00141-3"
+      },
+      {
+        "key": "2026012917163972100_R14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Drieling RL, LaCroix AZ, Beresford SA, Boudreau DM, Kooperberg C, Heckbert SR. Validity of self-reported medication use compared with pharmacy records in a cohort of older women: findings from the Women’s Health Initiative. Am J Epidemiol. 2016;184(3):233–8. CrossRef | PubMed",
+        "DOI": "10.1093/aje/kwv446"
+      },
+      {
+        "key": "2026012917163972100_R15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sjahid SI, van der Linden PD, Stricker BH. Agreement between the pharmacy medication history and patient interview for cardiovascular drugs: the Rotterdam elderly study. Br J Clin Pharmacol. 1998;45(6):591–5. CrossRef | PubMed",
+        "DOI": "10.1046/j.1365-2125.1998.00716.x"
+      },
+      {
+        "key": "2026012917163972100_R16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gama H, Correia S, Lunet N. Questionnaire design and the recall of pharmacological treatments: a systematic review. Pharmacoepidemiol Drug Saf. 2009;18(3):175–87. CrossRef | PubMed",
+        "DOI": "10.1002/pds.1703"
+      },
+      {
+        "key": "2026012917163972100_R17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Metlay JP, Hardy C, Strom BL. Agreement between patient self-report and a Veterans Affairs national pharmacy database for identifying recent exposures to antibiotics. Pharmacoepidemiol Drug Saf. 2003;12(1):9–15. CrossRef | PubMed",
+        "DOI": "10.1002/pds.772"
+      },
+      {
+        "key": "2026012917163972100_R18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Knudsen P, Hansen EH, Traulsen JM. Perceptions of young women using SSRI antidepressants – a reclassification of stigma. Int J Pharm Pract. 2002;10:243–52. CrossRef",
+        "DOI": "10.1211/096176702776868415"
+      }
+    ],
+    "container-title": [
+      "Public Health Research and Practice"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://connectsci.au/pu/article-pdf/doi/10.17061/phrp27341702/1821356/pu19157.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://connectsci.au/pu/article-pdf/doi/10.17061/phrp27341702/1821356/pu19157.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          29
+        ]
+      ],
+      "date-time": "2026-01-29T22:16:44Z",
+      "timestamp": 1769725004000
+    },
+    "score": 40.375866,
+    "resource": {
+      "primary": {
+        "URL": "https://connectsci.au/pu/article/27/4/e27341702/265213/Ascertainment-of-self-reported-prescription"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          11
+        ]
+      ]
+    },
+    "references-count": 18,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            10,
+            11
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.17061/phrp27341702",
+    "ISSN": [
+      "2204-2091"
+    ],
+    "issn-type": [
+      {
+        "value": "2204-2091",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          11
+        ]
+      ]
+    },
+    "article-number": "e27341702"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          29
+        ]
+      ],
+      "date-time": "2025-09-29T20:37:40Z",
+      "timestamp": 1759178260144
+    },
+    "reference-count": 36,
+    "publisher": "Elsevier BV",
+    "issue": "2-3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2013-05-01T00:00:00Z",
+          "timestamp": 1367366400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "healthpolicyjrnl.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Health Policy"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.healthpol.2013.02.010",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2013-03-20T00:31:27Z",
+      "timestamp": 1363739487000
+    },
+    "page": "147-155",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "How does complementary private prescription drug insurance coverage affect seniors’ use of publicly funded medications?"
+    ],
+    "prefix": "10.1016",
+    "volume": "110",
+    "author": [
+      {
+        "given": "Sara",
+        "family": "Allin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michael R.",
+        "family": "Law",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Audrey",
+        "family": "Laporte",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/j.healthpol.2011.08.015",
+        "article-title": "Stitching the gaps in the Canadian public drug coverage patchwork?: a review of provincial pharmacare policy changes from 2000 to 2010",
+        "volume": "104",
+        "author": "Daw",
+        "year": "2012",
+        "journal-title": "Health Policy"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1136/bmj.c3759",
+        "article-title": "Can user charges make health care more efficient?",
+        "volume": "341",
+        "author": "Thomson",
+        "year": "2010",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1001/jama.298.1.61",
+        "article-title": "Prescription drug cost sharing: associations with medication and medical utilization and spending and health",
+        "volume": "298",
+        "author": "Goldman",
+        "year": "2007",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0020",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1186/1475-9276-7-12",
+        "article-title": "What impact do prescription drug charges have on efficiency and equity? Evidence from high-income countries",
+        "volume": "7",
+        "author": "Gemmill",
+        "year": "2008",
+        "journal-title": "International journal of Equity in Health"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0025",
+        "first-page": "539",
+        "article-title": "Prescription drug coverage and medicare spending among U.S. elderly",
+        "volume": "35",
+        "author": "Shang",
+        "year": "2010",
+        "journal-title": "The Geneva Papers"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1093/intqhc/mzm011",
+        "article-title": "Socioeconomic disadvantage and primary non-adherence with medication in Sweden",
+        "volume": "19",
+        "author": "Wamala",
+        "year": "2007",
+        "journal-title": "International Journal for Quality in Health Care"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1016/j.clinthera.2009.01.006",
+        "article-title": "Cost-related prescription nonadherence in the United States and Canada: a system-level comparison using the 2007 International Health Policy Survey in Seven Countries",
+        "volume": "31",
+        "author": "Kennedy",
+        "year": "2009",
+        "journal-title": "Clinical Therapeutics"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1503/cmaj.111270",
+        "article-title": "The effect of cost on adherence to prescription medications in Canada",
+        "volume": "184",
+        "author": "Law",
+        "year": "2012",
+        "journal-title": "CMAJ"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "1218",
+        "DOI": "10.1002/hec.1428",
+        "article-title": "Inequity in publicly funded physician care: what is the role of private prescription drug insurance?",
+        "volume": "18",
+        "author": "Allin",
+        "year": "2009",
+        "journal-title": "Health Economy"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "921",
+        "DOI": "10.1111/0008-4085.00106",
+        "article-title": "Private insurance subsidies and public health care markets: evidence from Canada",
+        "volume": "34",
+        "author": "Stabile",
+        "year": "2001",
+        "journal-title": "Canadian Journal of Economics"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/j.healthpol.2010.08.011",
+        "article-title": "The role of supplemental coverage in a universal health insurance system: some Canadian evidence",
+        "volume": "100",
+        "author": "Devlin",
+        "year": "2011",
+        "journal-title": "Health Policy"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0060",
+        "first-page": "79",
+        "article-title": "Beneficiary cost sharing under Canadian provincial prescription drug benefit programs: history and assessment",
+        "volume": "9",
+        "author": "Grootendorst",
+        "year": "2002",
+        "journal-title": "Canadian Journal of Clinical Pharmacology"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0065",
+        "series-title": "A Fairer Drug System For Seniors: McGuinty Government Taking Strong Action to Protect Health Care. News Release",
+        "author": "Ontario Ministry of Health and Long Term Care",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0070",
+        "series-title": "Private Health Insurance in the European Union",
+        "author": "Thomson",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0075",
+        "first-page": "e108",
+        "article-title": "How complete are drug history profiles that are based on public drug benefit claims?",
+        "volume": "15",
+        "author": "Paterson",
+        "year": "2008",
+        "journal-title": "Canadian Journal of Clinical Pharmacology"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0080",
+        "series-title": "The Economic Case for Universal Pharmacare: Costs and Benefits of Publicly Funded Drug Coverage for all Canadians",
+        "author": "Gagnon",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0085",
+        "unstructured": "Colombo F, Tapay N. Private Health Insurance in OECD Countries: The Benefits and Costs for Individuals and Health Systems. OECD Health Working Papers No. 15. Paris: Organisation for Economic Co-operation and Development; 2004."
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "496",
+        "DOI": "10.1016/j.ijlp.2005.08.003",
+        "article-title": "Prescription drug benefits and Canada's uninsured",
+        "volume": "28",
+        "author": "Dewa",
+        "year": "2005",
+        "journal-title": "International Journal of Law and Psychiatry"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.1086/587623",
+        "article-title": "Sources of advantageous selection: evidence from the Medigap insurance market",
+        "volume": "116",
+        "author": "Fang",
+        "year": "2008",
+        "journal-title": "Journal of Political Economy"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.2337/diacare.25.3.512",
+        "article-title": "Diabetes in Ontario: determination of prevalence and incidence using a validated administrative data algorithm",
+        "volume": "25",
+        "author": "Hux",
+        "year": "2002",
+        "journal-title": "Diabetes Care"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0105",
+        "series-title": "Diabetes in Ontario",
+        "author": "Hux",
+        "year": "2003"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "781",
+        "DOI": "10.1503/cmaj.091551",
+        "article-title": "Age- and sex-related prevalence of diabetes mellitus among immigrants to Ontario, Canada",
+        "volume": "182",
+        "author": "Creatore",
+        "year": "2010",
+        "journal-title": "CMAJ"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "750",
+        "DOI": "10.1016/S0140-6736(07)60361-4",
+        "article-title": "Trends in diabetes prevalence, incidence, and mortality in Ontario, Canada 1995–2005: a population-based study",
+        "volume": "369",
+        "author": "Lipscombe",
+        "year": "2007",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "41",
+        "DOI": "10.1186/1472-6963-9-41",
+        "article-title": "Trends in laboratory testing for diabetes in Ontario Canada 1995–2005: a population-based study",
+        "volume": "9",
+        "author": "Wilson",
+        "year": "2009",
+        "journal-title": "BMC Health Services Research"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0125",
+        "article-title": "Diabetes",
+        "volume": "vol. 2",
+        "author": "Booth",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "S11",
+        "DOI": "10.2337/dc10-S011",
+        "article-title": "Standards of medical care in diabetes – 2010",
+        "volume": "33",
+        "author": "American Diabetes Association",
+        "year": "2010",
+        "journal-title": "Diabetes Care"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0135",
+        "series-title": "Canadian Diabetes Association 2008. Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada",
+        "author": "Canadian Diabetes Association",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "2300",
+        "DOI": "10.2337/dc09-1297",
+        "article-title": "Aspirin for the primary prevention of cardiovascular events: a systematic review and meta-analysis comparing patients with and without diabetes",
+        "volume": "32",
+        "author": "Calvin",
+        "year": "2009",
+        "journal-title": "Diabetes Care"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "2878",
+        "DOI": "10.1016/j.jacc.2010.04.003",
+        "article-title": "Aspirin for primary prevention of cardiovascular events in people with diabetes",
+        "volume": "55",
+        "author": "Pignone",
+        "year": "2010",
+        "journal-title": "Journal of the American College of Cardiology"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "580",
+        "DOI": "10.1056/NEJMoa0706245",
+        "article-title": "Effect of a multifactorial intervention on mortality in type 2 diabetes",
+        "volume": "358",
+        "author": "Gaede",
+        "year": "2008",
+        "journal-title": "The New England Journal of Medicine"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0155",
+        "series-title": "Principles of Econometrics",
+        "author": "Carr Hill",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "1166",
+        "DOI": "10.2105/AJPH.81.9.1166",
+        "article-title": "Epidemiologic studies utilizing surveys: accounting for sampling design",
+        "volume": "81",
+        "author": "Korn",
+        "year": "1991",
+        "journal-title": "American Journal of Public Health"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0165",
+        "series-title": "Drug Use Among Seniors on Public Drug Programs in Canada",
+        "author": "Canadian Institute for Health Information",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "563",
+        "DOI": "10.3138/cpp.37.4.563",
+        "article-title": "Socioeconomic status and the use of medicines in the Ontario public drug program",
+        "volume": "37",
+        "author": "Allin",
+        "year": "2011",
+        "journal-title": "Canadian Public Policy"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0175",
+        "series-title": "The Ontario Drug Benefit Program Copayment: Its Impact on Access for Seniors and Charges to the Program. A Background Document",
+        "author": "Hux",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/j.healthpol.2013.02.010_bib0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "305",
+        "DOI": "10.1016/S0047-2727(00)00155-9",
+        "article-title": "The effect of tax subsidies to employer-provided supplementary health insurance: evidence from Canada",
+        "volume": "84",
+        "author": "Finkelstein",
+        "year": "2002",
+        "journal-title": "Journal of Public Economics"
+      }
+    ],
+    "container-title": [
+      "Health Policy"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0168851013000626?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0168851013000626?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          17
+        ]
+      ],
+      "date-time": "2018-10-17T22:24:23Z",
+      "timestamp": 1539815063000
+    },
+    "score": 40.13606,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0168851013000626"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+      "issue": "2-3",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0168851013000626"
+    ],
+    "URL": "https://doi.org/10.1016/j.healthpol.2013.02.010",
+    "ISSN": [
+      "0168-8510"
+    ],
+    "issn-type": [
+      {
+        "value": "0168-8510",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "How does complementary private prescription drug insurance coverage affect seniors’ use of publicly funded medications?",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Health Policy",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.healthpol.2013.02.010",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          29
+        ]
+      ],
+      "date-time": "2026-05-29T09:41:36Z",
+      "timestamp": 1780047696595,
+      "version": "3.53.1"
+    },
+    "reference-count": 22,
+    "publisher": "BMJ",
+    "issue": "11",
+    "content-domain": {
+      "domain": [
+        "bmj.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "BMJ Open"
+    ],
+    "accepted": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          16
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>In Japan, an annual health check-up and health promotion guidance programme was established in 2008 in accordance with the Act on Assurance of Medical Care for the Elderly. A self-reported questionnaire on medication use is a required item in this programme and has been used widely, but its validity has not been assessed. The aim of this study was to evaluate the validity of this questionnaire by comparing self-reported usage to pharmacy insurance claims.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Setting</jats:title>\n                    <jats:p>This is a population-based validation study. Self-reported medication use for hypertension, diabetes and dyslipidaemia is the evaluated measurement. Data on pharmacy insurance claims are used as a reference standard.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Participants</jats:title>\n                    <jats:p>Participants were 54 712 beneficiaries of the National Health Insurance of Chiba City.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Primary and secondary outcome measures</jats:title>\n                    <jats:p>Sensitivity, specificity and κ statistics of the self-reported medication-use questionnaire for predicting actual prescriptions during 1 month (that of the check-up) and 3 months (that of the check-up and the previous 2 months) were calculated.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Sensitivity and specificity scores of questionnaire data for predicting insurance claims covering 3 months were, respectively, 92.4% (95% CI 91.9 to 92.8) and 86.4% (95% CI 86.0 to 86.7) for hypertension, 82.6% (95% CI 81.1 to 84.0) and 98.5% (95% CI 98.4 to 98.6) for diabetes, and 86.2% (95% CI 85.5 to 86.8) and 91.0% (95% CI 90.8 to 91.3) for dyslipidaemia. Corresponding κ statistics were 70.9% (95% CI 70.1 to 71.7), 77.1% (95% CI 76.2 to 77.9) and 69.8% (95% CI 68.9 to 70.6). The specificity was significantly higher for questionnaire data covering 3 months compared with data covering 1 month for all 3 conditions.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Self-reported questionnaire data on medication use had sufficiently high validity for further analyses. Item responses showed close agreement with actual prescriptions, particularly those covering 3 months.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1136/bmjopen-2015-009490",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          11,
+          9
+        ]
+      ],
+      "date-time": "2015-11-09T21:48:47Z",
+      "timestamp": 1447105727000
+    },
+    "page": "e009490",
+    "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 31,
+    "title": [
+      "Validity assessment of self-reported medication use by comparing to pharmacy insurance claims"
+    ],
+    "prefix": "10.1136",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Misuzu",
+        "family": "Fujita",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Public Health, Chiba University, Chiba, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yasunori",
+        "family": "Sato",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Global Clinical Research, Chiba University, Chiba, Japan"
+          },
+          {
+            "name": "Chiba University Hospital, Clinical Research Center, Chiba, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4529-9045",
+        "authenticated-orcid": false,
+        "given": "Kengo",
+        "family": "Nagashima",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Global Clinical Research, Chiba University, Chiba, Japan"
+          },
+          {
+            "name": "Chiba University Hospital, Clinical Research Center, Chiba, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sho",
+        "family": "Takahashi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chiba University Hospital, Clinical Research Center, Chiba, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Akira",
+        "family": "Hata",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Public Health, Chiba University, Chiba, Japan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          11,
+          9
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2025121601103687000_5.11.e009490.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "e108044",
+        "DOI": "10.1371/journal.pone.0108044",
+        "article-title": "Prevalence, correlates, and description of self-reported diabetes in Brazilian capitals—results from a telephone survey",
+        "volume": "9",
+        "author": "Iser",
+        "year": "2014",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "422",
+        "DOI": "10.1111/bdi.12200",
+        "article-title": "Association of obesity and treated hypertension and diabetes with cognitive ability in bipolar disorder and schizophrenia",
+        "volume": "16",
+        "author": "Depp",
+        "year": "2014",
+        "journal-title": "Bipolar Disord"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M14-0737"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwh038"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(99)00138-9"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/jech.54.7.544"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2009.01.016"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurpub/ckt079"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2007.11.013"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.10",
+        "first-page": "e248",
+        "article-title": "Does concordance between survey responses and administrative records differ by ethnicity for prescription medication",
+        "volume": "19",
+        "author": "So",
+        "year": "2012",
+        "journal-title": "J Popul Ther Clin Pharmacol"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1472-6963-6-115"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(99)00167-5"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ije/30.6.1407"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.14",
+        "unstructured": "Gordis L . Epidemiology. 4th edn. Philadelphia: Saunders, 2008:85–108."
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.15",
+        "unstructured": "Ministry of Health, Labour and Welfare. Specific Health checkups and Specific Health Guidance. Secondary Specific Health checkups and Specific Health Guidance. 2010. http://www.mhlw.go.jp/english/wp/wp-hw3/dl/2–007.pdf (accessed 4 Jun 2015)."
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.2188/jea.JE20130075",
+        "article-title": "Linkage rate between data from health checks and health insurance claims in the Japan National Database",
+        "volume": "24",
+        "author": "Okamoto",
+        "year": "2014",
+        "journal-title": "J Epidemiol"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.17",
+        "unstructured": "Ministry of Health, Labour and Welfare. Annual Health, Labour and Welfare Report 2011–2012, Health and Medical Services. Secondary Annual Health, Labour and Welfare Report 2011–2012, Health and Medical Services. 2013. http://www.mhlw.go.jp/english/wp/wp-hw6/dl/02e.pdf (accessed 4 Jun 2015)."
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.18",
+        "unstructured": "Japan Pharmaceutical Association. Separation of medical practice and drug dispensing. Secondary separation of medical practice and drug dispensing. 2014. http://www.nichiyaku.or.jp/contents/bungyo/h24/uke24nendo.pdf (accessed 4 Jun 2015)."
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.19",
+        "unstructured": "Drugs in Japan. Tokyo: Jiho, Inc., 2015."
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.20",
+        "unstructured": "WHO. Guidelines for ATC classification and DDD assignment 2013. Secondary Guidelines for ATC classification and DDD assignment 2013. 2013. http://www.whocc.no/filearchive/publications/1_2013guidelines.pdf#search=%27Guidelines+for+ATC+classification%27 (accessed 4 Jun 2015)."
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2529310"
+      },
+      {
+        "key": "2025121601103687000_5.11.e009490.22",
+        "first-page": "5",
+        "article-title": "Impacts on the quality of medication service for outpatients and management of medical institutions by deregulation of drug prescription term",
+        "volume": "15",
+        "author": "Onda",
+        "year": "2004",
+        "journal-title": "Jpn J Health Econ Policy"
+      }
+    ],
+    "container-title": [
+      "BMJ Open"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmjopen-2015-009490",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2025-12-16T09:10:46Z",
+      "timestamp": 1765876246000
+    },
+    "score": 38.108284,
+    "resource": {
+      "primary": {
+        "URL": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2015-009490"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "11",
+      "published-online": {
+        "date-parts": [
+          [
+            2015,
+            11,
+            9
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/bmjopen-2015-009490"
+    ],
+    "URL": "https://doi.org/10.1136/bmjopen-2015-009490",
+    "ISSN": [
+      "2044-6055",
+      "2044-6055"
+    ],
+    "issn-type": [
+      {
+        "value": "2044-6055",
+        "type": "print"
+      },
+      {
+        "value": "2044-6055",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    }
+  }
+]

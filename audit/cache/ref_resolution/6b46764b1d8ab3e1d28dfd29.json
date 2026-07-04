@@ -1,0 +1,2325 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2026-02-11T15:45:08Z",
+      "timestamp": 1770824708458,
+      "version": "3.50.1"
+    },
+    "reference-count": 29,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              26
+            ]
+          ],
+          "date-time": "2020-02-26T00:00:00Z",
+          "timestamp": 1582675200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              26
+            ]
+          ],
+          "date-time": "2020-02-26T00:00:00Z",
+          "timestamp": 1582675200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Ann Surg Oncol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1245/s10434-020-08266-3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ],
+      "date-time": "2020-02-26T19:02:52Z",
+      "timestamp": 1582743772000
+    },
+    "page": "1560-1567",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 28,
+    "title": [
+      "Prolonged Length of Stay After Robotic Prostatectomy: Causes and Risk Factors"
+    ],
+    "prefix": "10.1245",
+    "volume": "27",
+    "author": [
+      {
+        "given": "Marshall C.",
+        "family": "Strother",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Katharine F.",
+        "family": "Michel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Leilei",
+        "family": "Xia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kellie",
+        "family": "McWilliams",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Thomas J.",
+        "family": "Guzzo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Daniel J.",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "David I.",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "2",
+        "key": "8266_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "192",
+        "DOI": "10.1001/jamasurg.2016.3987",
+        "volume": "152",
+        "author": "J Halpern",
+        "year": "2017",
+        "unstructured": "Halpern J, Shoag J, Artis A, Ballman K, Sedrakyan A, Hershman D, et al. National trends in prostate biopsy and radical prostatectomy volumes following the US preventive services task force guidelines against prostate-specific antigen screening. JAMA Surg. 2017;152(2):192. https://doi.org/10.1001/jamasurg.2016.3987",
+        "journal-title": "JAMA Surg"
+      },
+      {
+        "key": "8266_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "837",
+        "DOI": "10.1016/j.eururo.2016.01.044",
+        "volume": "70",
+        "author": "J Leow",
+        "year": "2016",
+        "unstructured": "Leow J, Chang S, Meyer C, Wang Y, Hanske J, Sammon J, et al. Robot-assisted versus open radical prostatectomy: a contemporary analysis of an all-payer discharge database. Europ Urol. 2016;70:837–45. https://doi.org/10.1016/j.eururo.2016.01.044.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "8266_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "929",
+        "DOI": "10.1016/j.juro.2006.10.070",
+        "volume": "177",
+        "author": "B Nelson",
+        "year": "2007",
+        "unstructured": "Nelson B, Kaufman M, Broughton G, et al. Comparison of length of hospital stay between radical retropubic prostatectomy and robotic assisted laparoscopic prostatectomy. J Urol. 2007;177(3):929–31. https://doi.org/10.1016/j.juro.2006.10.070.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "5",
+        "key": "8266_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "461",
+        "DOI": "10.1001/archsurg.142.5.461",
+        "volume": "142",
+        "author": "KJ Brasel",
+        "year": "2007",
+        "unstructured": "Brasel KJ, Lim HJ, Nirula R, Weigelt JA. Length of stay: an appropriate quality measure? Arch Surg. 2007;142(5):461. https://doi.org/10.1001/archsurg.142.5.461.",
+        "journal-title": "Arch Surg"
+      },
+      {
+        "issue": "3",
+        "key": "8266_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "881",
+        "DOI": "10.1016/j.athoracsur.2012.04.082",
+        "volume": "94",
+        "author": "F Farjah",
+        "year": "2012",
+        "unstructured": "Farjah F, Lou F, Rusch VW, Rizk NP. The quality metric prolonged length of stay misses clinically important adverse events. Ann Thorac Surg. 2012;94(3):881–88. https://doi.org/10.1016/j.athoracsur.2012.04.082.",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "issue": "3",
+        "key": "8266_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "914",
+        "DOI": "10.1016/S0003-4975(98)00662-6",
+        "volume": "66",
+        "author": "KJ Zehr",
+        "year": "1998",
+        "unstructured": "Zehr KJ, Dawson PB, Yang SC, Heitmiller RF. Standardized clinical care pathways for major thoracic cases reduce hospital costs. Ann Thorac Surg. 1998;66(3):914–19.",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "issue": "7",
+        "key": "8266_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1022",
+        "DOI": "10.1016/j.urolonc.2011.10.007",
+        "volume": "31",
+        "author": "Q-D Trinh",
+        "year": "2013",
+        "unstructured": "Trinh Q-D, Bianchi M, Sun M, et al. Discharge patterns after radical prostatectomy in the United States of America. Urol Oncol Semin Orig Investig. 2013;31(7):1022–32. https://doi.org/10.1016/j.urolonc.2011.10.007.",
+        "journal-title": "Urol Oncol Semin Orig Investig"
+      },
+      {
+        "issue": "22",
+        "key": "8266_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1950",
+        "DOI": "10.1093/jnci/91.22.1950",
+        "volume": "91",
+        "author": "S-L Yao",
+        "year": "1999",
+        "unstructured": "Yao S-L, Lu-Yao G. Population-based study of relationships between hospital volume of prostatectomies, patient outcomes, and length of hospital stay. JNCI J Natl Cancer Inst. 1999;91(22):1950–56. https://doi.org/10.1093/jnci/91.22.1950.",
+        "journal-title": "JNCI J Natl Cancer Inst"
+      },
+      {
+        "issue": "4",
+        "key": "8266_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "987",
+        "DOI": "10.1002/cncr.26373",
+        "volume": "118",
+        "author": "JL Gore",
+        "year": "2012",
+        "unstructured": "Gore JL, Wright JL, Daratha KB, et al. Hospital-level variation in the quality of urologic cancer surgery. Cancer. 2012;118(4):987–96. https://doi.org/10.1002/cncr.26373.",
+        "journal-title": "Cancer"
+      },
+      {
+        "issue": "1",
+        "key": "8266_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.7812/TPP/11-127",
+        "volume": "16",
+        "author": "PR Fuchshuber",
+        "year": "2012",
+        "unstructured": "Fuchshuber PR, Greif W, Tidwell CR, et al. The power of the National Surgical Quality Improvement Program: achieving a zero pneumonia rate in general surgery patients. Perm J. 2012;16(1):39–45.",
+        "journal-title": "Perm J"
+      },
+      {
+        "issue": "20",
+        "key": "8266_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "393",
+        "DOI": "10.21037/atm.2016.10.49",
+        "volume": "4",
+        "author": "RK Alluri",
+        "year": "2016",
+        "unstructured": "Alluri RK, Leland H, Heckmann N. Surgical research using national databases. Ann Transl Med. 2016;4(20):393. https://doi.org/10.21037/atm.2016.10.49.",
+        "journal-title": "Ann Transl Med"
+      },
+      {
+        "issue": "4",
+        "key": "8266_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "430",
+        "DOI": "10.1089/end.2013.0656",
+        "volume": "28",
+        "author": "MA Pilecki",
+        "year": "2014",
+        "unstructured": "Pilecki MA, McGuire BB, Jain U, Kim JYS, Nadler RB. National multi-institutional comparison of 30-day postoperative complication and readmission rates between open retropubic radical prostatectomy and robot-assisted laparoscopic prostatectomy using NSQIP. J Endourol. 2014;28(4):430–6. https://doi.org/10.1089/end.2013.0656.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "issue": "10",
+        "key": "8266_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0165315",
+        "DOI": "10.1371/journal.pone.0165315",
+        "volume": "11",
+        "author": "SB Bateni",
+        "year": "2016",
+        "unstructured": "Bateni SB, Meyers FJ, Bold RJ, Canter RJ. Increased rates of prolonged length of stay, readmissions, and discharge to care facilities among postoperative patients with disseminated malignancy: implications for clinical practice. PLoS One. 2016;11(10):e0165315. https://doi.org/10.1371/journal.pone.0165315.",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "2",
+        "key": "8266_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "251",
+        "DOI": "10.1097/00000658-199908000-00016",
+        "volume": "230",
+        "author": "TC Collins",
+        "year": "1999",
+        "unstructured": "Collins TC, Daley J, Henderson WH, Khuri SF. Risk factors for prolonged length of stay after major elective surgery. Ann Surg. 1999;230(2):251–9.",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "issue": "6",
+        "key": "8266_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "904",
+        "DOI": "10.1016/j.jamcollsurg.2008.08.015",
+        "volume": "207",
+        "author": "LP Wallner",
+        "year": "2008",
+        "unstructured": "Wallner LP, Dunn RL, Sarma AV, Campbell DA, Wei JT. Risk factors for prolonged length of stay after urologic surgery: the national surgical quality improvement program. J Am Coll Surg. 2008;207(6):904–13. https://doi.org/10.1016/j.jamcollsurg.2008.08.015.",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "key": "8266_CR16",
+        "unstructured": "User Guide for the 2014 ACS NSQIP Participant Use Data File (PUF). 2015. https://www.facs.org/~/media/files/quality programs/nsqip/nsqip_puf_userguide_2014.ashx. Accessed 20 Feb 2017."
+      },
+      {
+        "issue": "5",
+        "key": "8266_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1182",
+        "DOI": "10.1016/j.surg.2016.04.034",
+        "volume": "160",
+        "author": "CR Sheils",
+        "year": "2016",
+        "unstructured": "Sheils CR, Dahlke AR, Kreutzer L, Bilimoria KY, Yang AD. Evaluation of hospitals participating in the American College of Surgeons National Surgical Quality Improvement Program. Surgery. 2016;160(5):1182–8. https://doi.org/10.1016/j.surg.2016.04.034.",
+        "journal-title": "Surgery"
+      },
+      {
+        "issue": "8",
+        "key": "8266_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "815",
+        "DOI": "10.1001/jamasurg.2014.629",
+        "volume": "149",
+        "author": "RW Krell",
+        "year": "2014",
+        "unstructured": "Krell RW, Girotti ME, Dimick JB. Extended Length of Stay After Surgery. JAMA Surg. 2014;149(8):815. https://doi.org/10.1001/jamasurg.2014.629.",
+        "journal-title": "JAMA Surg"
+      },
+      {
+        "issue": "3",
+        "key": "8266_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "243",
+        "DOI": "10.1016/j.urolonc.2009.03.001",
+        "volume": "28",
+        "author": "DA Barocas",
+        "year": "2010",
+        "unstructured": "Barocas DA, Mitchell R, Chang SS, Cookson MS. Impact of surgeon and hospital volume on outcomes of radical prostatectomy. Urol Oncol Semin Orig Investig. 2010;28(3):243–50. https://doi.org/10.1016/j.urolonc.2009.03.001.",
+        "journal-title": "Urol Oncol Semin Orig Investig"
+      },
+      {
+        "issue": "1",
+        "key": "8266_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.1177/0163278711407313",
+        "volume": "35",
+        "author": "T Rotter",
+        "year": "2012",
+        "unstructured": "Rotter T, Kinsman L, James E, et al. The effects of clinical pathways on professional practice, patient outcomes, length of stay, and hospital costs. Eval Health Prof. 2012;35(1):3–27. https://doi.org/10.1177/0163278711407313.",
+        "journal-title": "Eval Health Prof"
+      },
+      {
+        "issue": "4",
+        "key": "8266_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "899",
+        "DOI": "10.1007/s00268-016-3807-4",
+        "volume": "41",
+        "author": "CSM Lau",
+        "year": "2017",
+        "unstructured": "Lau CSM, Chamberlain RS. Enhanced recovery after surgery programs improve patient outcomes and recovery: a meta-analysis. World J Surg. 2017;41(4):899–913. https://doi.org/10.1007/s00268-016-3807-4.",
+        "journal-title": "World J Surg"
+      },
+      {
+        "issue": "3",
+        "key": "8266_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "820",
+        "DOI": "10.1016/j.juro.2014.09.019",
+        "volume": "193",
+        "author": "EH Wang",
+        "year": "2015",
+        "unstructured": "Wang EH, Yu JB, Gross CP et al. Variation in pelvic lymph node dissection among patients undergoing radical prostatetomy by hospital characteristics and surgical approach: results from the National Cancer Database. J Urol. 2015;193(3):820–5. https://doi.org/10.1016/j.juro.2014.09.019.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "6",
+        "key": "8266_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "384",
+        "DOI": "10.4174/jkss.2011.80.6.384",
+        "volume": "80",
+        "author": "MJ Kim",
+        "year": "2011",
+        "unstructured": "Kim MJ, Min GE, Yoo KH, Chang S-G, Jeon SH. Risk factors for postoperative ileus after urologic laparoscopic surgery. J Korean Surg Soc. 2011;80(6):384. https://doi.org/10.4174/jkss.2011.80.6.384.",
+        "journal-title": "J Korean Surg Soc"
+      },
+      {
+        "issue": "2",
+        "key": "8266_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "603",
+        "DOI": "10.1007/s00464-015-4247-1",
+        "volume": "30",
+        "author": "Z Moghadamyeghaneh",
+        "year": "2016",
+        "unstructured": "Moghadamyeghaneh Z, Hwang GS, Hanna MH, et al. Risk factors for prolonged ileus following colon surgery. Surg Endosc. 2016;30(2):603–9. https://doi.org/10.1007/s00464-015-4247-1.",
+        "journal-title": "Surg Endosc"
+      },
+      {
+        "issue": "6",
+        "key": "8266_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "1323",
+        "DOI": "10.1097/PRS.0000000000000735",
+        "volume": "134",
+        "author": "AC Offodile",
+        "year": "2014",
+        "unstructured": "Offodile AC, Aherrera A, Guo L. Risk factors associated with prolonged postoperative stay following free tissue transfer: an analysis of 2425 patients from the American College of Surgeons National Surgical Quality Improvement Program database. Plast Reconstr Surg. 2014;134(6):1323–32. https://doi.org/10.1097/prs.0000000000000735.",
+        "journal-title": "Plast Reconstr Surg"
+      },
+      {
+        "issue": "1",
+        "key": "8266_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "179",
+        "DOI": "10.1007/s00268-011-1339-5",
+        "volume": "36",
+        "author": "M Millan",
+        "year": "2012",
+        "unstructured": "Millan M, Biondo S, Fraccalvieri D, Frago R, Golda T, Kreisler E. Risk Factors for Prolonged postoperative ileus after colorectal cancer surgery. World J Surg. 2012;36(1):179–85. https://doi.org/10.1007/s00268-011-1339-5.",
+        "journal-title": "World J Surg"
+      },
+      {
+        "issue": "7",
+        "key": "8266_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "1495",
+        "DOI": "10.1007/s00268-008-9491-2",
+        "volume": "32",
+        "author": "A Artinyan",
+        "year": "2008",
+        "unstructured": "Artinyan A, Nunoo-Mensah JW, Balasubramaniam S, et al. Prolonged postoperative ileus-definition, risk factors, and predictors after surgery. World J Surg. 2008;32(7):1495–500. https://doi.org/10.1007/s00268-008-9491-2.",
+        "journal-title": "World J Surg"
+      },
+      {
+        "issue": "1",
+        "key": "8266_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "DOI": "10.5173/ceju.2014.01.art4",
+        "volume": "67",
+        "author": "AT Ozdemir",
+        "year": "2014",
+        "unstructured": "Ozdemir AT, Altinova S, Koyuncu H, Serefoglu EC, Cimen IH, Balbay DM. The incidence of postoperative ileus in patients who underwent robotic assisted radical prostatectomy. Cent Eur J Urol. 2014;67(1):19–24. https://doi.org/10.5173/ceju.2014.01.art4.",
+        "journal-title": "Cent Eur J Urol"
+      },
+      {
+        "issue": "9",
+        "key": "8266_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "864",
+        "DOI": "10.1089/end.2017.0293",
+        "volume": "31",
+        "author": "L Xia",
+        "year": "2017",
+        "unstructured": "Xia L, Taylor BL, Pulido JE, Mucksavage P, Lee DI, Guzzo TJ. Predischarge predictors of readmissions and postdischarge complications in robot-assisted radical prostatectomy. J Endourol. 2017;31(9):864–71. https://doi.org/10.1089/end.2017.0293.",
+        "journal-title": "J Endourol"
+      }
+    ],
+    "container-title": [
+      "Annals of Surgical Oncology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1245/s10434-020-08266-3.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1245/s10434-020-08266-3/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1245/s10434-020-08266-3.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2021-02-25T00:09:27Z",
+      "timestamp": 1614211767000
+    },
+    "score": 126.693794,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1245/s10434-020-08266-3"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "8266"
+    ],
+    "URL": "https://doi.org/10.1245/s10434-020-08266-3",
+    "ISSN": [
+      "1068-9265",
+      "1534-4681"
+    ],
+    "issn-type": [
+      {
+        "value": "1068-9265",
+        "type": "print"
+      },
+      {
+        "value": "1534-4681",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "27 October 2019",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "26 February 2020",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "All the authors declare that they have no conflict of interest.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "DISCLOSURES"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          6
+        ]
+      ],
+      "date-time": "2022-04-06T00:22:25Z",
+      "timestamp": 1649204545225
+    },
+    "reference-count": 5,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              6
+            ]
+          ],
+          "date-time": "2020-03-06T00:00:00Z",
+          "timestamp": 1583452800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              6
+            ]
+          ],
+          "date-time": "2020-03-06T00:00:00Z",
+          "timestamp": 1583452800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Ann Surg Oncol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1245/s10434-020-08311-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2020-03-06T15:46:31Z",
+      "timestamp": 1583509591000
+    },
+    "page": "1568-1569",
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "ASO Author Reflections: Prolonged Length of Stay After Robotic-Assisted Radical Prostatectomy—A Separate Problem from Perioperative Complications"
+    ],
+    "prefix": "10.1245",
+    "volume": "27",
+    "author": [
+      {
+        "given": "Katharine F.",
+        "family": "Michel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Marshall C.",
+        "family": "Strother",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Daniel J.",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "David I.",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          6
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "8311_CR1",
+        "unstructured": "National Hospital Discharge Survey 2010 Table Procedures by Selected Patient Characteristics—Number by Procedure Category and Age. Hyattsville, MD; 2010. https://www.cdc.gov/nchs/data/nhds/4procedures/2010pro4_numberprocedureage.pdf."
+      },
+      {
+        "issue": "5",
+        "key": "8311_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "461",
+        "DOI": "10.1001/archsurg.142.5.461",
+        "volume": "142",
+        "author": "KJ Brasel",
+        "year": "2007",
+        "unstructured": "Brasel KJ, Lim HJ, Nirula R, Weigelt JA. Length of stay: an appropriate quality measure? Arch Surg. 2007;142(5):461. https://doi.org/10.1001/archsurg.142.5.461.",
+        "journal-title": "Arch Surg"
+      },
+      {
+        "issue": "5",
+        "key": "8311_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "700",
+        "DOI": "10.1016/s0090-4295(94)80211-4",
+        "volume": "44",
+        "author": "MR Licht",
+        "year": "1994",
+        "unstructured": "Licht MR, Klein EA. Early hospital discharge after radical retropubic prostatectomy: impact on cost and complication rate. Urology. 1994;44(5):700–4. https://doi.org/10.1016/s0090-4295(94)80211-4.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "7",
+        "key": "8311_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1022",
+        "DOI": "10.1016/j.urolonc.2011.10.007",
+        "volume": "31",
+        "author": "Q-D Trinh",
+        "year": "2013",
+        "unstructured": "Trinh Q-D, Bianchi M, Sun M, et al. Discharge patterns after radical prostatectomy in the United States of America. Urol Oncol-Semin Orig. 2013;31(7):1022–32. https://doi.org/10.1016/j.urolonc.2011.10.007.",
+        "journal-title": "Urol Oncol-Semin Orig"
+      },
+      {
+        "key": "8311_CR5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1245/s10434-020-08266-3",
+        "author": "MC Strother",
+        "year": "2020",
+        "unstructured": "Strother MC, Michel KF, Xia L, et al. Prolonged length of stay after robotic prostatectomy: causes and risk factors. Ann Surg Oncol. 2020. https://doi.org/10.1245/s10434-020-08266-3.",
+        "journal-title": "Ann Surg Oncol"
+      }
+    ],
+    "container-title": [
+      "Annals of Surgical Oncology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1245/s10434-020-08311-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1245/s10434-020-08311-1/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1245/s10434-020-08311-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2021-03-06T00:21:17Z",
+      "timestamp": 1614990077000
+    },
+    "score": 82.70232,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1245/s10434-020-08311-1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          6
+        ]
+      ]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "8311"
+    ],
+    "URL": "https://doi.org/10.1245/s10434-020-08311-1",
+    "ISSN": [
+      "1068-9265",
+      "1534-4681"
+    ],
+    "issn-type": [
+      {
+        "value": "1068-9265",
+        "type": "print"
+      },
+      {
+        "value": "1534-4681",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "19 February 2020",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "6 March 2020",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no conflicts of interest.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Disclosures"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          10
+        ]
+      ],
+      "date-time": "2026-01-10T00:35:21Z",
+      "timestamp": 1768005321490,
+      "version": "3.49.0"
+    },
+    "reference-count": 22,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "13",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              7,
+              22
+            ]
+          ],
+          "date-time": "2014-07-22T00:00:00Z",
+          "timestamp": 1405987200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Ann Surg Oncol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1245/s10434-014-3877-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          21
+        ]
+      ],
+      "date-time": "2014-07-21T15:58:38Z",
+      "timestamp": 1405958318000
+    },
+    "page": "4383-4389",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": [
+      "Factors Influencing the Length of Stay after Radical Cystectomy: Implications for Cancer Care and Perioperative Management"
+    ],
+    "prefix": "10.1245",
+    "volume": "21",
+    "author": [
+      {
+        "given": "Eugene J.",
+        "family": "Pietzak",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Wei-Ting",
+        "family": "Hwang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S. Bruce",
+        "family": "Malkowicz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Thomas J.",
+        "family": "Guzzo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          22
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "3877_CR1",
+        "doi-asserted-by": "crossref",
+        "first-page": "164",
+        "DOI": "10.1016/j.eururo.2008.07.031",
+        "volume": "55",
+        "author": "A Shabsigh",
+        "year": "2009",
+        "unstructured": "Shabsigh A, Korets R, Vora KC, Brooks CM, Cronin AM, Savage C, et al. Defining early morbidity of radical cystectomy for patients with bladder cancer using a standardized reporting methodology. Eur Urol. 2009;55:164–74.",
+        "journal-title": "Eur Urol."
+      },
+      {
+        "key": "3877_CR2",
+        "doi-asserted-by": "crossref",
+        "first-page": "208",
+        "DOI": "10.1016/S0022-5347(05)65414-6",
+        "volume": "167",
+        "author": "SS Chang",
+        "year": "2002",
+        "unstructured": "Chang SS, Baumgartner RG, Wells N, Cookson MS, Smith JA Jr. Causes of increased hospital stay after radical cystectomy in a clinical pathway setting. J Urol. 2002;167:208–11.",
+        "journal-title": "J Urol."
+      },
+      {
+        "issue": "6 Pt 1",
+        "key": "3877_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "2612",
+        "DOI": "10.1016/j.juro.2006.07.150",
+        "volume": "176",
+        "author": "DA Taub",
+        "year": "2006",
+        "unstructured": "Taub DA, Dunn RL, Miller DC, Wei JT, Hollenbeck BK. Discharge practice patterns following cystectomy for bladder cancer: evidence for the shifting of the burden of care. J Urol. 2006;176(6 Pt 1):2612–7.",
+        "journal-title": "J Urol."
+      },
+      {
+        "issue": "Suppl 6",
+        "key": "3877_CR4",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.1111/1469-0691.12046",
+        "volume": "18",
+        "author": "CP Kelly",
+        "year": "2012",
+        "unstructured": "Kelly CP. Can we identify patients at high risk of recurrent Clostridium difficile infection? Clin Microbiol Infect. 2012;18(Suppl 6):21–7.",
+        "journal-title": "Clin Microbiol Infect."
+      },
+      {
+        "key": "3877_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "2293",
+        "DOI": "10.1016/j.juro.2011.07.074",
+        "volume": "186",
+        "author": "C Clement",
+        "year": "2011",
+        "unstructured": "Clement C, Rossi P, Aissi K, Barthelemy P, Guibert N, Auquier P, et al. Incidence, risk profile and morphological pattern of lower extremity venous thromboembolism after urological cancer surgery. J Urol. 2011;186:2293–7.",
+        "journal-title": "J Urol."
+      },
+      {
+        "key": "3877_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1016/j.amjsurg.2012.04.006",
+        "volume": "205",
+        "author": "TA Oyetunji",
+        "year": "2013",
+        "unstructured": "Oyetunji TA, Turner PL, Onguti SK, Ehanire ID, Dorsett FO, Fullum TM, et al. Predictors of postdischarge complications: role of in-hospital length of stay. Am J Surg. 2013;205:71–6.",
+        "journal-title": "Am J Surg."
+      },
+      {
+        "key": "3877_CR7",
+        "first-page": "161",
+        "volume": "238",
+        "author": "PP Goodney",
+        "year": "2003",
+        "unstructured": "Goodney PP, Stukel TA, Lucas FL, Finlayson EV, Birkmeyer JD. Hospital volume, length of stay, and readmission rates in high-risk surgery. Ann Surg. 2003;238:161–7.",
+        "journal-title": "Ann Surg."
+      },
+      {
+        "key": "3877_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "893",
+        "DOI": "10.1007/s11255-008-9351-x",
+        "volume": "40",
+        "author": "M Cardenas-Turanzas",
+        "year": "2008",
+        "unstructured": "Cardenas-Turanzas M, Cooksley C, Kamat AM, Pettaway CA, Elting LS. Gender and age differences in blood utilization and length of stay in radical cystectomy: a population-based study. Int Urol Nephrol. 2008;40:893–9.",
+        "journal-title": "Int Urol Nephrol."
+      },
+      {
+        "key": "3877_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1097/SLA.0b013e31817f2c1a",
+        "volume": "248",
+        "author": "H Kehlet",
+        "year": "2008",
+        "unstructured": "Kehlet H, Wilmore DW. Evidence-based surgical care and the evolution of fast-track surgery. Ann Surg. 2008;248:189–98.",
+        "journal-title": "Ann Surg."
+      },
+      {
+        "key": "3877_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1016/j.eururo.2013.10.011",
+        "volume": "65",
+        "author": "HR Patel",
+        "year": "2014",
+        "unstructured": "Patel HR, Cerantola Y, Valerio M, Persson B, Jichlinski P, Ljungqvist O, et al. Enhanced recovery after surgery: are we ready, and can we afford not to implement these pathways for patients undergoing radical cystectomy? Eur Urol. 2014;65:263–6.",
+        "journal-title": "Eur Urol."
+      },
+      {
+        "key": "3877_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "829",
+        "DOI": "10.1016/j.juro.2011.04.089",
+        "volume": "186",
+        "author": "TM Morgan",
+        "year": "2011",
+        "unstructured": "Morgan TM, Keegan KA, Barocas DA, Ruhotina N, Phillips SE, Chang SS, et al. Predicting the probability of 90-day survival of elderly patients with bladder cancer treated with radical cystectomy. J Urol. 2011;186:829–34.",
+        "journal-title": "J Urol."
+      },
+      {
+        "key": "3877_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "59",
+        "DOI": "10.1016/j.juro.2012.08.182",
+        "volume": "189",
+        "author": "BL Jacobs",
+        "year": "2013",
+        "unstructured": "Jacobs BL, Zhang Y, Tan HJ, Ye Z, Skolarus TA, Hollenbeck BK. Hospitalization trends after prostate and bladder surgery: implications of potential payment reforms. J Urol. 2013;189:59–65.",
+        "journal-title": "J Urol."
+      },
+      {
+        "key": "3877_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1016/j.juro.2010.08.016",
+        "volume": "185",
+        "author": "MA Aghazadeh",
+        "year": "2011",
+        "unstructured": "Aghazadeh MA, Barocas DA, Salem S, Clark PE, Cookson MS, Davis R, et al. Determining factors for hospital discharge status after radical cystectomy in a large contemporary cohort. J Urol. 2011;185:85–9.",
+        "journal-title": "J Urol."
+      },
+      {
+        "key": "3877_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.1007/s00345-010-0613-8",
+        "volume": "29",
+        "author": "JL Gore",
+        "year": "2011",
+        "unstructured": "Gore JL, Lai J, Gilbert SM. Readmissions in the postoperative period following urinary diversion. World J Urol. 2011;29:79–84.",
+        "journal-title": "World J Urol."
+      },
+      {
+        "key": "3877_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1054",
+        "DOI": "10.1111/j.1464-410X.2012.11499.x",
+        "volume": "111",
+        "author": "WM Hilton",
+        "year": "2013",
+        "unstructured": "Hilton WM, Lotan Y, Parekh DJ, Basler JW, Svatek RS. Alvimopan for prevention of postoperative paralytic ileus in radical cystectomy patients: a cost-effectiveness analysis. BJU Int. 2013;111:1054–60.",
+        "journal-title": "BJU Int."
+      },
+      {
+        "key": "3877_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "590",
+        "DOI": "10.1213/00000539-200302000-00052",
+        "volume": "96",
+        "author": "K Manku",
+        "year": "2003",
+        "unstructured": "Manku K, Leung JM. Prognostic significance of postoperative in-hospital complications in elderly patients. II. Long-term quality of life. Anesth Analg. 2003;96:590–4.",
+        "journal-title": "Anesth Analg."
+      },
+      {
+        "key": "3877_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "914",
+        "DOI": "10.1016/j.juro.2009.05.032",
+        "volume": "182",
+        "author": "G Novara",
+        "year": "2009",
+        "unstructured": "Novara G, De Marco V, Aragona M, Boscolo-Berto R, Cavalleri S, Artibani W, et al. Complications and mortality after radical cystectomy for bladder transitional cell cancer. J Urol. 2009;182:914–21.",
+        "journal-title": "J Urol."
+      },
+      {
+        "key": "3877_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "309",
+        "DOI": "10.1245/s10434-011-1852-7",
+        "volume": "19",
+        "author": "F Abdollah",
+        "year": "2012",
+        "unstructured": "Abdollah F, Sun M, Schmitges J, Thuret R, Djahangirian O, Jeldres C, et al. Development and validation of a reference table for prediction of postoperative mortality rate in patients treated with radical cystectomy: a population-based study. Ann Surg Oncol. 2012;19:309–17.",
+        "journal-title": "Ann Surg Oncol."
+      },
+      {
+        "key": "3877_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "662",
+        "DOI": "10.1016/j.eururo.2012.03.057",
+        "volume": "62",
+        "author": "R Mayr",
+        "year": "2012",
+        "unstructured": "Mayr R, May M, Martini T, Lodde M, Comploj E, Pycha A, et al. Comorbidity and performance indices as predictors of cancer-independent mortality but not of cancer-specific mortality after radical cystectomy for urothelial carcinoma of the bladder. Eur Urol. 2012;62:662–70.",
+        "journal-title": "Eur Urol."
+      },
+      {
+        "key": "3877_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "901",
+        "DOI": "10.1016/j.jamcollsurg.2010.01.028",
+        "volume": "210",
+        "author": "MA Makary",
+        "year": "2010",
+        "unstructured": "Makary MA, Segev DL, Pronovost PJ, Syin D, Bandeen-Roche K, Patel P, et al. Frailty as a predictor of surgical outcomes in older patients. J Am Coll Surg. 2010;210:901–8.",
+        "journal-title": "J Am Coll Surg."
+      },
+      {
+        "key": "3877_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "300",
+        "DOI": "10.1111/j.1464-410X.2009.09076.x",
+        "volume": "105",
+        "author": "SF Shariat",
+        "year": "2010",
+        "unstructured": "Shariat SF, Sfakianos JP, Droller MJ, Karakiewicz PI, Meryn S, Bochner BH. The effect of age and gender on bladder cancer: a critical review of the literature. BJU Int. 2010;105:300–8.",
+        "journal-title": "BJU Int."
+      },
+      {
+        "key": "3877_CR22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1638",
+        "DOI": "10.1002/cncr.21354",
+        "volume": "104",
+        "author": "GR Prout Jr",
+        "year": "2005",
+        "unstructured": "Prout GR Jr, Wesley MN, Yancik R, Ries LA, Havlik RJ, Edwards BK. Age and comorbidity impact surgical therapy in older bladder carcinoma patients: a population-based study. Cancer. 2005;104:1638–47.",
+        "journal-title": "Cancer."
+      }
+    ],
+    "container-title": [
+      "Annals of Surgical Oncology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1245/s10434-014-3877-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1245/s10434-014-3877-1/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1245/s10434-014-3877-1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          11
+        ]
+      ],
+      "date-time": "2022-04-11T20:37:14Z",
+      "timestamp": 1649709434000
+    },
+    "score": 47.02613,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1245/s10434-014-3877-1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          22
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "13",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "3877"
+    ],
+    "URL": "https://doi.org/10.1245/s10434-014-3877-1",
+    "ISSN": [
+      "1068-9265",
+      "1534-4681"
+    ],
+    "issn-type": [
+      {
+        "value": "1068-9265",
+        "type": "print"
+      },
+      {
+        "value": "1534-4681",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2022-03-30T18:42:57Z",
+      "timestamp": 1648665777506
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "Supplement 4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1097/ju.0000000000000852.016",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          7
+        ]
+      ],
+      "date-time": "2020-05-07T20:42:06Z",
+      "timestamp": 1588884126000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "MP19-16 PROLONGED LENGTH OF STAY (LOS) AND READMISSION AFTER MINIMALLY-INVASIVE RADICAL PROSTATECTOMY: WHAT PREOPERATIVE FACTORS INFLUENCE LOS?"
+    ],
+    "prefix": "10.1097",
+    "volume": "203",
+    "author": [
+      {
+        "given": "Ethan",
+        "family": "Matz*",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ashok",
+        "family": "Hemal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tim",
+        "family": "Craven",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ram",
+        "family": "Pathak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://journals.lww.com/10.1097/JU.0000000000000852.016",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          25
+        ]
+      ],
+      "date-time": "2021-03-25T21:34:54Z",
+      "timestamp": 1616708094000
+    },
+    "score": 40.979397,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1097/JU.0000000000000852.016"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "Supplement 4",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1097/JU.0000000000000852.016"
+    ],
+    "URL": "https://doi.org/10.1097/ju.0000000000000852.016",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2025-10-11T01:11:44Z",
+      "timestamp": 1760145104275
+    },
+    "reference-count": 35,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              21
+            ]
+          ],
+          "date-time": "2020-01-21T00:00:00Z",
+          "timestamp": 1579564800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              21
+            ]
+          ],
+          "date-time": "2020-01-21T00:00:00Z",
+          "timestamp": 1579564800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Ann Surg Oncol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1245/s10434-019-08171-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2020-01-22T00:47:54Z",
+      "timestamp": 1579654074000
+    },
+    "page": "993-1001",
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Identifying Factors Predicting Prolonged Opioid Use After Mastectomy"
+    ],
+    "prefix": "10.1245",
+    "volume": "27",
+    "author": [
+      {
+        "given": "Matthew R.",
+        "family": "Woeste",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Neal",
+        "family": "Bhutiani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anne E.",
+        "family": "Geller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Harriet",
+        "family": "Eldridge-Hindy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kelly M.",
+        "family": "McMasters",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nicolás",
+        "family": "Ajkay",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          21
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "5",
+        "key": "8171_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "1733",
+        "DOI": "10.1213/ANE.0000000000002458",
+        "volume": "125",
+        "author": "JM Hah",
+        "year": "2017",
+        "unstructured": "Hah JM, Bateman BT, Ratliff J, Curtin C, Sun E. Chronic opioid use after surgery: implications for perioperative management in the face of the opioid epidemic. Anesth Analg. 2017;125(5):1733–40.",
+        "journal-title": "Anesth Analg."
+      },
+      {
+        "issue": "50–51",
+        "key": "8171_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "1378",
+        "DOI": "10.15585/mmwr.mm6450a3",
+        "volume": "64",
+        "author": "RA Rudd",
+        "year": "2016",
+        "unstructured": "Rudd RA, Aleshire N, Zibbell JE, Gladden RM. Increases in drug and opioid overdose deaths–United States, 2000–2014. MMWR Morb Mortal Wkly Rep. 2016;64(50–51):1378–82.",
+        "journal-title": "MMWR Morb Mortal Wkly Rep."
+      },
+      {
+        "issue": "31",
+        "key": "8171_CR3",
+        "first-page": "2",
+        "volume": "180",
+        "author": "P Uhrbrand",
+        "year": "2018",
+        "unstructured": "Uhrbrand P, Simoni AH, Olesen AE, Pedersen AB, Christiansen CF, Nikolajsen L. Opioid dependency as complication after surgery. Ugeskr Laeger. 2018;180(31):2–5.",
+        "journal-title": "Ugeskr Laeger."
+      },
+      {
+        "issue": "6",
+        "key": "8171_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "e170504",
+        "DOI": "10.1001/jamasurg.2017.0504",
+        "volume": "152",
+        "author": "CM Brummett",
+        "year": "2017",
+        "unstructured": "Brummett CM, Waljee JF, Goesling J, et al. New persistent opioid use after minor and major surgical procedures in US adults. JAMA Surg. 2017;152(6):e170504.",
+        "journal-title": "JAMA Surg."
+      },
+      {
+        "issue": "36",
+        "key": "8171_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "4042",
+        "DOI": "10.1200/JCO.2017.74.1363",
+        "volume": "35",
+        "author": "JS Lee",
+        "year": "2017",
+        "unstructured": "Lee JS, Hu HM, Edelman AL, et al. New persistent opioid use among patients with cancer after curative-intent surgery. J Clin Oncol. 2017;35(36):4042–49.",
+        "journal-title": "J Clin Oncol."
+      },
+      {
+        "issue": "1",
+        "key": "8171_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "17",
+        "DOI": "10.1245/s10434-018-6772-3",
+        "volume": "26",
+        "author": "JS Lee",
+        "year": "2019",
+        "unstructured": "Lee JS, Howard RA, Klueh MP, et al. The impact of education and prescribing guidelines on opioid prescribing for breast and melanoma procedures. Ann Surg Oncol. 2019;26(1):17–24.",
+        "journal-title": "Ann Surg Oncol."
+      },
+      {
+        "issue": "10",
+        "key": "8171_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "901",
+        "DOI": "10.1097/MLR.0000000000000625",
+        "volume": "54",
+        "author": "CS Florence",
+        "year": "2016",
+        "unstructured": "Florence CS, Zhou C, Luo F, Xu L. The economic burden of prescription opioid overdose, abuse, and dependence in the United States, 2013. Med Care. 2016;54(10):901–6.",
+        "journal-title": "Med Care."
+      },
+      {
+        "issue": "9",
+        "key": "8171_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1286",
+        "DOI": "10.1001/jamainternmed.2016.3298",
+        "volume": "176",
+        "author": "EC Sun",
+        "year": "2016",
+        "unstructured": "Sun EC, Darnall BD, Baker LC, Mackey S. Incidence of and risk factors for chronic opioid use among opioid-naive patients in the postoperative period. JAMA Intern Med. 2016;176(9):1286–93.",
+        "journal-title": "JAMA Intern Med."
+      },
+      {
+        "issue": "13",
+        "key": "8171_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "3903",
+        "DOI": "10.1245/s10434-017-6094-x",
+        "volume": "24",
+        "author": "RC Keskey",
+        "year": "2017",
+        "unstructured": "Keskey RC, LaJoie AS, Sutton BS, et al. Cost-effectiveness analysis of contralateral prophylactic mastectomy compared to unilateral mastectomy with routine surveillance for unilateral, sporadic breast cancer. Ann Surg Oncol. 2017;24(13):3903–10.",
+        "journal-title": "Ann Surg Oncol."
+      },
+      {
+        "key": "8171_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "213",
+        "DOI": "10.2147/IJWH.S82816",
+        "volume": "8",
+        "author": "K Yao",
+        "year": "2016",
+        "unstructured": "Yao K, Sisco M, Bedrosian I. Contralateral prophylactic mastectomy: current perspectives. Int J Womens Health. 2016;8:213–223.",
+        "journal-title": "Int J Womens Health."
+      },
+      {
+        "issue": "5",
+        "key": "8171_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "711",
+        "DOI": "10.1093/bja/aet213",
+        "volume": "111",
+        "author": "MH Andreae",
+        "year": "2013",
+        "unstructured": "Andreae MH, Andreae DA. Regional anaesthesia to prevent chronic pain after surgery: a Cochrane systematic review and meta-analysis. BJA. 2013;111(5):711–720.",
+        "journal-title": "BJA."
+      },
+      {
+        "issue": "1",
+        "key": "8171_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.4103/joacp.JOACP_143_17",
+        "volume": "34",
+        "author": "S Tripathy",
+        "year": "2018",
+        "unstructured": "Tripathy S, Rath S, Agrawal S, et al. Opioid-free anesthesia for breast cancer surgery: an observational study. J Anaesthesiol Clin Pharmacol. 2018;34(1):35–40.",
+        "journal-title": "J Anaesthesiol Clin Pharmacol."
+      },
+      {
+        "issue": "6",
+        "key": "8171_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1081",
+        "DOI": "10.1097/PRS.0000000000003832",
+        "volume": "140",
+        "author": "DP Marcusa",
+        "year": "2017",
+        "unstructured": "Marcusa DP, Mann RA, Cron DC, et al. Prescription opioid use among opioid-naive women undergoing immediate breast reconstruction. Plast Reconstr Surg. 2017;140(6):1081–90.",
+        "journal-title": "Plast Reconstr Surg."
+      },
+      {
+        "issue": "15",
+        "key": "8171_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "E691",
+        "DOI": "10.5435/JAAOS-D-18-00008",
+        "volume": "27",
+        "author": "DD Berglund",
+        "year": "2019",
+        "unstructured": "Berglund DD, Rosas S, Kurowicki J, Horn B, Mijic D, Levy JC. Preoperative opioid use among patients undergoing shoulder arthroplasty predicts prolonged postoperative opioid use. J Am Acad Orthop Surg. 2019;27(15):E691–5.",
+        "journal-title": "J Am Acad Orthop Surg."
+      },
+      {
+        "issue": "3",
+        "key": "8171_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "353.e318",
+        "DOI": "10.1016/j.ajog.2016.03.016",
+        "volume": "215",
+        "author": "BT Bateman",
+        "year": "2016",
+        "unstructured": "Bateman BT, Franklin JM, Bykov K, et al. Persistent opioid use following cesarean delivery: patterns and predictors among opioid-naïve women. Am J Obstet Gynecol. 2016;215(3):353.e318–51.",
+        "journal-title": "Am J Obstet Gynecol."
+      },
+      {
+        "issue": "2",
+        "key": "8171_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "89",
+        "DOI": "10.5055/jom.2007.0045",
+        "volume": "3",
+        "author": "L Manchikanti",
+        "year": "2007",
+        "unstructured": "Manchikanti L, Giordano J, Boswell MV, Fellows B, Manchukonda R, Pampati V. Psychological factors as predictors of opioid abuse and illicit drug use in chronic pain patients. J Opioid Manag. 2007;3(2):89–100.",
+        "journal-title": "J Opioid Manag."
+      },
+      {
+        "issue": "7493",
+        "key": "8171_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "702",
+        "DOI": "10.1136/bmj.38343.670868.D3",
+        "volume": "330",
+        "author": "C Burgess",
+        "year": "2005",
+        "unstructured": "Burgess C, Cornelius V, Love S, Graham J, Richards M, Ramirez A. Depression and anxiety in women with early breast cancer: five year observational cohort study. BMJ (Clin Res Ed). 2005;330(7493):702.",
+        "journal-title": "BMJ (Clin Res Ed)."
+      },
+      {
+        "issue": "5",
+        "key": "8171_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "425",
+        "DOI": "10.1001/archinternmed.2011.1827",
+        "volume": "172",
+        "author": "A Alam",
+        "year": "2012",
+        "unstructured": "Alam A, Gomes T, Zheng H, Mamdani MM, Juurlink DN, Bell CM. Long-term analgesic use after low-risk surgery: a retrospective cohort study. Arch Intern Med. 2012;172(5):425–30.",
+        "journal-title": "Arch Intern Med."
+      },
+      {
+        "issue": "1–2",
+        "key": "8171_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "10",
+        "DOI": "10.1016/j.pain.2005.09.014",
+        "volume": "118",
+        "author": "BF Jung",
+        "year": "2005",
+        "unstructured": "Jung BF, Herrmann D, Griggs J, Oaklander AL, Dworkin RH. Neuropathic pain associated with non-surgical treatment of breast cancer. Pain. 2005;118(1–2):10–14.",
+        "journal-title": "Pain."
+      },
+      {
+        "issue": "4",
+        "key": "8171_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "709",
+        "DOI": "10.1097/SLA.0000000000001993",
+        "volume": "265",
+        "author": "MV Hill",
+        "year": "2017",
+        "unstructured": "Hill MV, McMahon ML, Stucke RS, Barth RJ, Jr. Wide variation and excessive dosage of opioid prescriptions for common general surgical procedures. Ann Surg. 2017;265(4):709–14.",
+        "journal-title": "Ann Surg."
+      },
+      {
+        "issue": "7",
+        "key": "8171_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "2011",
+        "DOI": "10.1245/s10434-019-07321-y",
+        "volume": "26",
+        "author": "HA Lillemoe",
+        "year": "2019",
+        "unstructured": "Lillemoe HA, Newhook TE, Vreeland TJ, et al. Educating surgical oncology providers on perioperative opioid use: results of a departmental survey on perceptions of opioid needs and prescribing habits. Ann Surg Oncol. 2019;26(7):2011–18.",
+        "journal-title": "Ann Surg Oncol."
+      },
+      {
+        "issue": "6",
+        "key": "8171_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "996",
+        "DOI": "10.1016/j.jamcollsurg.2017.10.012",
+        "volume": "226",
+        "author": "MV Hill",
+        "year": "2018",
+        "unstructured": "Hill MV, Stucke RS, Billmeier SE, Kelly JL, Barth RJ, Jr. Guideline for discharge opioid prescriptions after inpatient general surgical procedures. J Am Coll Surg. 2018;226(6):996–1003.",
+        "journal-title": "J Am Coll Surg."
+      },
+      {
+        "issue": "7",
+        "key": "8171_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "1027",
+        "DOI": "10.1001/jamainternmed.2016.2543",
+        "volume": "176",
+        "author": "A Kennedy-Hendricks",
+        "year": "2016",
+        "unstructured": "Kennedy-Hendricks A, Gielen A, McDonald E, McGinty EE, Shields W, Barry CL. Medication sharing, storage, and disposal practices for opioid medications among US adultssharing, storage, and disposal practices for opioidsletters. JAMA Intern Med. 2016;176(7):1027–9.",
+        "journal-title": "JAMA Intern Med."
+      },
+      {
+        "issue": "3",
+        "key": "8171_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "235",
+        "DOI": "10.1016/j.jamcollsurg.2017.11.023",
+        "volume": "226",
+        "author": "JM Hasak",
+        "year": "2018",
+        "unstructured": "Hasak JM, Roth Bettlach CL, Santosa KB, Larson EL, Stroud J, Mackinnon SE. Empowering post-surgical patients to improve opioid disposal: a before and after quality improvement study. J Am Coll Surg. 2018;226(3):235–40.",
+        "journal-title": "J Am Coll Surg."
+      },
+      {
+        "issue": "3",
+        "key": "8171_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "316",
+        "DOI": "10.1016/j.jamcollsurg.2019.04.020",
+        "volume": "229",
+        "author": "A Hallway",
+        "year": "2019",
+        "unstructured": "Hallway A, Vu J, Lee J, et al. Patient satisfaction and pain control using an opioid-sparing postoperative pathway. J Am Coll Surg. 2019;229(3):316–22.",
+        "journal-title": "J Am Coll Surg."
+      },
+      {
+        "issue": "Suppl 4",
+        "key": "8171_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "S512",
+        "DOI": "10.21037/jtd.2017.12.87",
+        "volume": "10",
+        "author": "M Refai",
+        "year": "2018",
+        "unstructured": "Refai M, Andolfi M, Gentili P, Pelusi G, Manzotti F, Sabbatini A. Enhanced recovery after thoracic surgery: patient information and care-plans. J Thorac Dis. 2018;10(Suppl 4):S512–6.",
+        "journal-title": "J Thorac Dis."
+      },
+      {
+        "issue": "1118",
+        "key": "8171_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "678",
+        "DOI": "10.1136/postgradmedj-2018-136166",
+        "volume": "94",
+        "author": "QF Deng",
+        "year": "2018",
+        "unstructured": "Deng QF, Gu HY, Peng WY, et al. Impact of enhanced recovery after surgery on postoperative recovery after joint arthroplasty: results from a systematic review and meta-analysis. Postgrad Med J. 2018;94(1118):678–93.",
+        "journal-title": "Postgrad Med J."
+      },
+      {
+        "issue": "12",
+        "key": "8171_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "1775",
+        "DOI": "10.1016/j.jogc.2018.05.043",
+        "volume": "41",
+        "author": "J Huang",
+        "year": "2018",
+        "unstructured": "Huang J, Cao C, Nelson G, Wilson RD. Review of enhanced recovery after surgery principles used for scheduled CD: perioperative process evaluation. J Obstet Gynaecol Can. 2018;41(12):1775–88.",
+        "journal-title": "J Obstet Gynaecol Can."
+      },
+      {
+        "issue": "3",
+        "key": "8171_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "621",
+        "DOI": "10.1007/s10549-018-4859-y",
+        "volume": "171",
+        "author": "KE Rojas",
+        "year": "2018",
+        "unstructured": "Rojas KE, Manasseh DM, Flom PL, et al. A pilot study of a breast surgery enhanced recovery after surgery (ERAS) protocol to eliminate narcotic prescription at discharge. Breast Cancer Res Treat. 2018;171(3):621–26.",
+        "journal-title": "Breast Cancer Res Treat."
+      },
+      {
+        "issue": "3",
+        "key": "8171_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "310",
+        "DOI": "10.1016/j.jamcollsurg.2018.11.013",
+        "volume": "228",
+        "author": "JD Richardson",
+        "year": "2018",
+        "unstructured": "Richardson JD. Recovering from an operation. J Am Coll Surg. 2018;228(3):310–11.",
+        "journal-title": "J Am Coll Surg."
+      },
+      {
+        "issue": "3",
+        "key": "8171_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "155",
+        "DOI": "10.4055/cios.2009.1.3.155",
+        "volume": "1",
+        "author": "KJ Lee",
+        "year": "2009",
+        "unstructured": "Lee KJ, Min BW, Bae KC, Cho CH, Kwon DH. Efficacy of multimodal pain control protocol in the setting of total hip arthroplasty. Clin Orthop Surg. 2009;1(3):155–60.",
+        "journal-title": "Clin Orthop Surg."
+      },
+      {
+        "issue": "7",
+        "key": "8171_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "524",
+        "DOI": "10.1016/S0952-8180(01)00320-8",
+        "volume": "13",
+        "author": "F Jin",
+        "year": "2001",
+        "unstructured": "Jin F, Chung F. Multimodal analgesia for postoperative pain control. J Clin Anesth. 2001;13(7):524–39.",
+        "journal-title": "J Clin Anesth."
+      },
+      {
+        "issue": "10",
+        "key": "8171_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "1744",
+        "DOI": "10.1007/s00167-010-1294-y",
+        "volume": "19",
+        "author": "CH Cho",
+        "year": "2011",
+        "unstructured": "Cho CH, Song KS, Min BW, et al. Multimodal approach to postoperative pain control in patients undergoing rotator cuff repair. Knee Surg Sports Traumatol Arthrosc. 2011;19(10):1744–8.",
+        "journal-title": "Knee Surg Sports Traumatol Arthrosc."
+      },
+      {
+        "issue": "2",
+        "key": "8171_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "394",
+        "DOI": "10.1007/s11695-018-3526-z",
+        "volume": "29",
+        "author": "RD Horsley",
+        "year": "2019",
+        "unstructured": "Horsley RD, Vogels ED, McField DAP, et al. Multimodal postoperative pain control is effective and reduces opioid use after laparoscopic roux-en-Y gastric bypass. Obes Surg. 2019;29(2):394–400.",
+        "journal-title": "Obes Surg."
+      },
+      {
+        "issue": "2",
+        "key": "8171_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "153",
+        "DOI": "10.1037/a0035747",
+        "volume": "69",
+        "author": "DM Ehde",
+        "year": "2014",
+        "unstructured": "Ehde DM, Dillworth TM, Turner JA. Cognitive-behavioral therapy for individuals with chronic pain: efficacy, innovations, and directions for research. Am Psychol. 2014;69(2):153–66.",
+        "journal-title": "Am Psychol."
+      }
+    ],
+    "container-title": [
+      "Annals of Surgical Oncology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1245/s10434-019-08171-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1245/s10434-019-08171-4/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1245/s10434-019-08171-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2022-10-12T06:49:11Z",
+      "timestamp": 1665557351000
+    },
+    "score": 40.93967,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1245/s10434-019-08171-4"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          21
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "8171"
+    ],
+    "URL": "https://doi.org/10.1245/s10434-019-08171-4",
+    "ISSN": [
+      "1068-9265",
+      "1534-4681"
+    ],
+    "issn-type": [
+      {
+        "value": "1068-9265",
+        "type": "print"
+      },
+      {
+        "value": "1534-4681",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          21
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "30 March 2019",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "21 January 2020",
+        "order": 2,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors have no disclosures pertaining to the work presented.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Disclosures"
+        }
+      }
+    ]
+  }
+]

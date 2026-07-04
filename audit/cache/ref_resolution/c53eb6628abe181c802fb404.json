@@ -1,0 +1,2430 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2026-05-13T18:46:45Z",
+      "timestamp": 1778698005197,
+      "version": "3.51.4"
+    },
+    "reference-count": 60,
+    "publisher": "XMLink",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2020-01-01T00:00:00Z",
+          "timestamp": 1577836800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2020-01-01T00:00:00Z",
+          "timestamp": 1577836800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "synapse.koreamed.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Investig Clin Urol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.4111/icu.2020.61.1.1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          7
+        ]
+      ],
+      "date-time": "2020-01-07T02:00:56Z",
+      "timestamp": 1578362456000
+    },
+    "page": "1",
+    "update-policy": "https://doi.org/10.4111/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 26,
+    "title": [
+      "Lessons learned from 12,000 robotic radical prostatectomies: Is the journey as important as the outcome?"
+    ],
+    "prefix": "10.4111",
+    "volume": "61",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5791-5410",
+        "authenticated-orcid": false,
+        "given": "Sung Gu",
+        "family": "Kang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6745-1776",
+        "authenticated-orcid": false,
+        "given": "Ji Sung",
+        "family": "Shim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8369-7824",
+        "authenticated-orcid": false,
+        "given": "Fikret",
+        "family": "Onol",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital Celebration Health, University of Central Florida School of Medicine, Orlando, FL, USA."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1784-6331",
+        "authenticated-orcid": false,
+        "given": "K. R. Seetharam",
+        "family": "Bhat",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital Celebration Health, University of Central Florida School of Medicine, Orlando, FL, USA."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8802-9734",
+        "authenticated-orcid": false,
+        "given": "Vipul R.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital Celebration Health, University of Central Florida School of Medicine, Orlando, FL, USA."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "18617",
+    "reference": [
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1016/j.eururo.2006.06.017",
+        "volume": "51",
+        "author": "Ficarra",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1037",
+        "DOI": "10.1016/j.eururo.2009.01.036",
+        "volume": "55",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "606",
+        "DOI": "10.1016/j.eururo.2012.07.007",
+        "volume": "63",
+        "author": "Porpiglia",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "898",
+        "DOI": "10.1111/j.1464-410X.2011.10551.x",
+        "volume": "109",
+        "author": "Willis",
+        "year": "2012",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "2207",
+        "DOI": "10.1016/j.juro.2008.01.106",
+        "volume": "179",
+        "author": "Eastham",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "6 Pt 2",
+        "key": "10.4111/icu.2020.61.1.1_ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1007",
+        "DOI": "10.1111/j.1464-410X.2011.10521.x",
+        "volume": "108",
+        "author": "Patel",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "702",
+        "DOI": "10.1016/j.eururo.2011.01.032",
+        "volume": "59",
+        "author": "Patel",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "866",
+        "DOI": "10.1016/j.eururo.2006.02.054",
+        "volume": "49",
+        "author": "Atug",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1951",
+        "DOI": "10.1002/cncr.23027",
+        "volume": "110",
+        "author": "Badani",
+        "year": "2007",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "746",
+        "DOI": "10.1016/j.eururo.2007.02.029",
+        "volume": "52",
+        "author": "Mottrie",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "478",
+        "DOI": "10.1016/j.juro.2007.03.111",
+        "volume": "178",
+        "author": "Rozet",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1358",
+        "DOI": "10.1016/j.eururo.2008.12.035",
+        "volume": "55",
+        "author": "Murphy",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "991",
+        "DOI": "10.1111/j.1464-410X.2009.08532.x",
+        "volume": "104",
+        "author": "Rocco",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1057",
+        "DOI": "10.1016/S0140-6736(16)30592-X",
+        "volume": "388",
+        "author": "Yaxley",
+        "year": "2016",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "618",
+        "DOI": "10.1016/j.eururo.2017.08.015",
+        "volume": "73",
+        "author": "Sooriakumaran",
+        "year": "2018",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "353",
+        "DOI": "10.1016/j.euo.2018.04.012",
+        "volume": "1",
+        "author": "Nyberg",
+        "year": "2018",
+        "journal-title": "Eur Urol Oncol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.4103/1008-682X.148723",
+        "volume": "18",
+        "author": "Kang",
+        "year": "2016",
+        "journal-title": "Asian J Androl"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1022",
+        "DOI": "10.1016/j.eururo.2010.01.040",
+        "volume": "57",
+        "author": "Coelho",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1111/bju.14026",
+        "volume": "121",
+        "author": "Patel",
+        "year": "2018",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "596",
+        "DOI": "10.1016/j.urology.2011.11.029",
+        "volume": "79",
+        "author": "Schatloff",
+        "year": "2012",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1428",
+        "DOI": "10.1111/j.1464-410X.2009.08895.x",
+        "volume": "104",
+        "author": "Coelho",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref22",
+        "doi-asserted-by": "crossref",
+        "first-page": "996",
+        "DOI": "10.1016/j.eururo.2006.10.014",
+        "volume": "51",
+        "author": "Rocco",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3 Pt 1",
+        "key": "10.4111/icu.2020.61.1.1_ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "945",
+        "DOI": "10.1016/S0022-5347(05)00340-X",
+        "volume": "175",
+        "author": "Joseph",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "755",
+        "DOI": "10.1016/j.eururo.2006.10.019",
+        "volume": "51",
+        "author": "Zorn",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref25",
+        "doi-asserted-by": "crossref",
+        "first-page": "871",
+        "DOI": "10.1111/j.1464-410X.2008.07424.x",
+        "volume": "101",
+        "author": "Tewari",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref26",
+        "doi-asserted-by": "crossref",
+        "first-page": "619",
+        "DOI": "10.1016/j.urology.2009.02.082",
+        "volume": "74",
+        "author": "Shikanov",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref27",
+        "doi-asserted-by": "crossref",
+        "first-page": "696",
+        "DOI": "10.1111/j.1464-410X.2010.09541.x",
+        "volume": "106",
+        "author": "Patel",
+        "year": "2010",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref28",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1016/j.eururo.2015.02.029",
+        "volume": "68",
+        "author": "Haglind",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1051",
+        "DOI": "10.1016/S1470-2045(18)30357-7",
+        "volume": "19",
+        "author": "Coughlin",
+        "year": "2018",
+        "journal-title": "Lancet Oncol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref30",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref31",
+        "doi-asserted-by": "crossref",
+        "first-page": "928",
+        "DOI": "10.1016/j.juro.2008.05.029",
+        "volume": "180",
+        "author": "Link",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref32",
+        "doi-asserted-by": "crossref",
+        "first-page": "1028",
+        "DOI": "10.1016/j.juro.2010.04.069",
+        "volume": "184",
+        "author": "Novara",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref33",
+        "doi-asserted-by": "crossref",
+        "first-page": "1803",
+        "DOI": "10.1016/j.juro.2010.01.016",
+        "volume": "183",
+        "author": "Shikanov",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref34",
+        "doi-asserted-by": "crossref",
+        "first-page": "892",
+        "DOI": "10.1016/j.eururo.2009.01.021",
+        "volume": "55",
+        "author": "van der Poel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref35",
+        "doi-asserted-by": "crossref",
+        "first-page": "878",
+        "DOI": "10.1111/j.1464-410X.2009.08784.x",
+        "volume": "104",
+        "author": "Lin",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "6 Pt 2",
+        "key": "10.4111/icu.2020.61.1.1_ref36",
+        "first-page": "2418",
+        "volume": "160",
+        "author": "Walsh",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref37",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1016/j.eururo.2009.06.007",
+        "volume": "56",
+        "author": "Patel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref38",
+        "doi-asserted-by": "crossref",
+        "first-page": "814",
+        "DOI": "10.1016/j.eururo.2018.11.035",
+        "volume": "76",
+        "author": "Vis",
+        "year": "2019",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref39",
+        "doi-asserted-by": "crossref",
+        "first-page": "734",
+        "DOI": "10.1016/j.urology.2010.01.073",
+        "volume": "76",
+        "author": "Gautam",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref40",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1016/j.eururo.2010.03.028",
+        "volume": "58",
+        "author": "Joshi",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref41",
+        "doi-asserted-by": "crossref",
+        "first-page": "972",
+        "DOI": "10.1016/j.eururo.2009.09.017",
+        "volume": "56",
+        "author": "Freire",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref42",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.eururo.2010.08.025",
+        "volume": "59",
+        "author": "Coelho",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref43",
+        "author": "de Carvalho",
+        "year": "2018",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "2 Pt 2",
+        "key": "10.4111/icu.2020.61.1.1_ref44",
+        "doi-asserted-by": "crossref",
+        "first-page": "1005",
+        "DOI": "10.1016/S0022-5347(02)80325-1",
+        "volume": "167",
+        "author": "Walsh",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "2 Pt 1",
+        "key": "10.4111/icu.2020.61.1.1_ref45",
+        "doi-asserted-by": "crossref",
+        "first-page": "839",
+        "DOI": "10.1111/j.1743-6109.2009.01589.x",
+        "volume": "7",
+        "author": "Novara",
+        "year": "2010",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref46",
+        "doi-asserted-by": "crossref",
+        "first-page": "2521",
+        "DOI": "10.1111/j.1743-6109.2010.01845.x",
+        "volume": "7",
+        "author": "Briganti",
+        "year": "2010",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref47",
+        "doi-asserted-by": "crossref",
+        "first-page": "1817",
+        "DOI": "10.1016/j.juro.2008.11.105",
+        "volume": "181",
+        "author": "Marien",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref48",
+        "doi-asserted-by": "crossref",
+        "first-page": "255",
+        "DOI": "10.1111/j.1743-6109.2010.01972.x",
+        "volume": "8",
+        "author": "Moskovic",
+        "year": "2011",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref49",
+        "doi-asserted-by": "crossref",
+        "first-page": "1490",
+        "DOI": "10.1111/jsm.12844",
+        "volume": "12",
+        "author": "Kang",
+        "year": "2015",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref50",
+        "doi-asserted-by": "crossref",
+        "first-page": "648",
+        "DOI": "10.1016/j.eururo.2006.10.055",
+        "volume": "51",
+        "author": "Menon",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref51",
+        "doi-asserted-by": "crossref",
+        "first-page": "1484",
+        "DOI": "10.1111/j.1464-410X.2009.08546.x",
+        "volume": "104",
+        "author": "Finley",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref52",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1007/s11701-009-0127-9",
+        "volume": "3",
+        "author": "Coughlin",
+        "year": "2009",
+        "journal-title": "J Robot Surg"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref53",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1016/j.eururo.2010.08.043",
+        "volume": "59",
+        "author": "Lei",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref54",
+        "doi-asserted-by": "crossref",
+        "first-page": "136",
+        "DOI": "10.1007/s00345-006-0102-2",
+        "volume": "24",
+        "author": "Takenaka",
+        "year": "2006",
+        "journal-title": "World J Urol"
+      },
+      {
+        "issue": "Suppl 2",
+        "key": "10.4111/icu.2020.61.1.1_ref55",
+        "doi-asserted-by": "crossref",
+        "first-page": "S172",
+        "DOI": "10.4111/icu.2016.57.S2.S172",
+        "volume": "57",
+        "author": "Tavukçu",
+        "year": "2016",
+        "journal-title": "Investig Clin Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref56",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1016/j.eururo.2010.04.032",
+        "volume": "58",
+        "author": "Asimakopoulos",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref57",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.1016/j.eururo.2009.04.032",
+        "volume": "56",
+        "author": "Menon",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref58",
+        "doi-asserted-by": "crossref",
+        "first-page": "344",
+        "DOI": "10.1016/j.eururo.2005.11.029",
+        "volume": "49",
+        "author": "Curto",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref59",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1016/j.eururo.2012.09.051",
+        "volume": "63",
+        "author": "Ko",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.1_ref60",
+        "doi-asserted-by": "crossref",
+        "first-page": "1071",
+        "DOI": "10.1111/j.1464-410X.2004.05106.x",
+        "volume": "94",
+        "author": "Costello",
+        "year": "2004",
+        "journal-title": "BJU Int"
+      }
+    ],
+    "container-title": [
+      "Investigative and Clinical Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://icurology.org/pdf/10.4111/icu.2020.61.1.1",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.1.1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.1.1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          23
+        ]
+      ],
+      "date-time": "2020-12-23T04:39:05Z",
+      "timestamp": 1608698345000
+    },
+    "score": 118.58476,
+    "resource": {
+      "primary": {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.1.1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2020
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.4111/icu.2020.61.1.1",
+    "ISSN": [
+      "2466-0493",
+      "2466-054X"
+    ],
+    "issn-type": [
+      {
+        "value": "2466-0493",
+        "type": "print"
+      },
+      {
+        "value": "2466-054X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "https://synapse.koreamed.org/DOIx.php?id=10.4111/icu.2020.61.1.1",
+        "URL": "https://synapse.koreamed.org/DOIx.php?id=10.4111/icu.2020.61.1.1",
+        "name": "synapse",
+        "label": "Synapse",
+        "group": {
+          "name": "multiple_resolution",
+          "label": "Full text available at:"
+        }
+      },
+      {
+        "value": "https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.1.1",
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.1.1",
+        "name": "the_journal",
+        "label": "the Journal",
+        "group": {
+          "name": "multiple_resolution",
+          "label": "Full text available at:"
+        }
+      },
+      {
+        "value": "2019-10-03",
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2019-12-19",
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2019-01-02",
+        "name": "published_online",
+        "label": "Published online",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "© The Korean Urological Association, 2020",
+        "name": "copyright",
+        "label": "Copyright",
+        "group": {
+          "name": "Copyright_and_licensing",
+          "label": "Copyright and Licensing"
+        }
+      },
+      {
+        "value": "This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+        "name": "license",
+        "label": "License",
+        "explanation": {
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0"
+        },
+        "group": {
+          "name": "Copyright_and_licensing",
+          "label": "Copyright and Licensing"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T07:21:54Z",
+      "timestamp": 1648711314226
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2018-03-01T00:00:00Z",
+          "timestamp": 1519862400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(18)32354-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          16
+        ]
+      ],
+      "date-time": "2018-03-16T02:03:55Z",
+      "timestamp": 1521165835000
+    },
+    "page": "e1951",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Lessons learned from more than 10,000 robotic assisted laparoscopic radical prostatectomies: An evidence based approach"
+    ],
+    "prefix": "10.1016",
+    "volume": "17",
+    "author": [
+      {
+        "given": "H.",
+        "family": "Palayapalayam Ganapathi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "B.",
+        "family": "Rocco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Onol",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "T.",
+        "family": "Rogers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "V.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905618323546?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905618323546?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          23
+        ]
+      ],
+      "date-time": "2018-08-23T08:04:24Z",
+      "timestamp": 1535011464000
+    },
+    "score": 59.25054,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905618323546"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905618323546"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(18)32354-6",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          29
+        ]
+      ],
+      "date-time": "2026-05-29T19:49:54Z",
+      "timestamp": 1780084194292,
+      "version": "3.54.0"
+    },
+    "reference-count": 26,
+    "publisher": "XMLink",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2020-01-01T00:00:00Z",
+          "timestamp": 1577836800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2020-01-01T00:00:00Z",
+          "timestamp": 1577836800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Korea University Medical Center"
+      },
+      {
+        "name": "Korea University Anam Hospital"
+      },
+      {
+        "name": "Korean Endourological Society"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "synapse.koreamed.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Investig Clin Urol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.4111/icu.2020.61.1.11",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          7
+        ]
+      ],
+      "date-time": "2020-01-07T02:01:02Z",
+      "timestamp": 1578362462000
+    },
+    "page": "11",
+    "update-policy": "https://doi.org/10.4111/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Do patients benefit from total intracorporeal robotic radical cystectomy?: A comparative analysis with extracorporeal robotic radical cystectomy from a Korean multicenter study"
+    ],
+    "prefix": "10.4111",
+    "volume": "61",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6745-1776",
+        "authenticated-orcid": false,
+        "given": "Ji Sung",
+        "family": "Shim",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4390-0952",
+        "authenticated-orcid": false,
+        "given": "Tae Gyun",
+        "family": "Kwon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Kyungpook National University College of Medicine, Daegu, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8588-7584",
+        "authenticated-orcid": false,
+        "given": "Koon Ho",
+        "family": "Rha",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Yonsei University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0339-7763",
+        "authenticated-orcid": false,
+        "given": "Young Goo",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Hallym University Kangnam Sacred Heart Hospital, Hallym University School of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6775-1157",
+        "authenticated-orcid": false,
+        "given": "Ji Youl",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, The Catholic University of Korea College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5399-2184",
+        "authenticated-orcid": false,
+        "given": "Byong Chang",
+        "family": "Jeong",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Sungkyunkwan University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0265-6452",
+        "authenticated-orcid": false,
+        "given": "Jong Hyun",
+        "family": "Pyun",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Sungkyunkwan University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5791-5410",
+        "authenticated-orcid": false,
+        "given": "Sung Gu",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1524-5233",
+        "authenticated-orcid": false,
+        "given": "Seok Ho",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "18617",
+    "reference": [
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "402",
+        "DOI": "10.1016/j.eururo.2014.12.008",
+        "volume": "67",
+        "author": "Yuh",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "569",
+        "DOI": "10.1016/j.eururo.2014.01.029",
+        "volume": "66",
+        "author": "Leow",
+        "year": "2014",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1302",
+        "DOI": "10.1016/j.juro.2017.12.045",
+        "volume": "199",
+        "author": "Hussein",
+        "year": "2018",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "767",
+        "DOI": "10.1016/j.eururo.2011.05.012",
+        "volume": "60",
+        "author": "Challacombe",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1303",
+        "DOI": "10.1016/j.urology.2012.01.055",
+        "volume": "79",
+        "author": "Styn",
+        "year": "2012",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "100",
+        "DOI": "10.1111/bju.12347",
+        "volume": "113",
+        "author": "Collins",
+        "year": "2014",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1097/MOU.0b013e32835d4cda",
+        "volume": "23",
+        "author": "Collins",
+        "year": "2013",
+        "journal-title": "Curr Opin Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1320",
+        "DOI": "10.1089/end.2014.0284",
+        "volume": "28",
+        "author": "Desai",
+        "year": "2014",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.1007/s00345-015-1730-1",
+        "volume": "34",
+        "author": "Patel",
+        "year": "2016",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1097/MOU.0000000000000472",
+        "volume": "28",
+        "author": "Dason",
+        "year": "2018",
+        "journal-title": "Curr Opin Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.1016/j.eururo.2014.12.009",
+        "volume": "67",
+        "author": "Wilson",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1042",
+        "DOI": "10.1016/j.eururo.2014.11.043",
+        "volume": "67",
+        "author": "Bochner",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "493",
+        "DOI": "10.1016/j.eururo.2011.05.045",
+        "volume": "60",
+        "author": "van den Bosch",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1177/106689690501300203",
+        "volume": "13",
+        "author": "Montironi",
+        "year": "2005",
+        "journal-title": "Int J Surg Pathol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1996",
+        "DOI": "10.1007/s00464-003-8154-5",
+        "volume": "17",
+        "author": "Lee",
+        "year": "2003",
+        "journal-title": "Surg Endosc"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "28",
+        "DOI": "10.1016/j.jss.2010.05.046",
+        "volume": "164",
+        "author": "Sammour",
+        "year": "2010",
+        "journal-title": "J Surg Res"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1734",
+        "DOI": "10.1016/j.juro.2014.06.087",
+        "volume": "192",
+        "author": "Desai",
+        "year": "2014",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1016/j.euf.2016.06.002",
+        "volume": "3",
+        "author": "Tan",
+        "year": "2017",
+        "journal-title": "Eur Urol Focus"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "443",
+        "DOI": "10.1016/j.eururo.2009.05.008",
+        "volume": "56",
+        "author": "Froehner",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1089/end.2012.0168",
+        "volume": "27",
+        "author": "Knox",
+        "year": "2013",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1301",
+        "DOI": "10.1089/end.2012.0035",
+        "volume": "26",
+        "author": "Richards",
+        "year": "2012",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1183",
+        "DOI": "10.1097/01.ju.0000173102.16381.08",
+        "volume": "174",
+        "author": "Ost",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "891",
+        "DOI": "10.1016/j.eururo.2012.07.052",
+        "volume": "62",
+        "author": "Goh",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1066",
+        "DOI": "10.1016/j.eururo.2011.07.035",
+        "volume": "60",
+        "author": "Jonsson",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1317",
+        "DOI": "10.1111/j.1464-410X.2012.11133.x",
+        "volume": "110",
+        "author": "Yafi",
+        "year": "2012",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/icu.2020.61.1.11_ref26",
+        "doi-asserted-by": "crossref",
+        "first-page": "639",
+        "DOI": "10.1016/j.eururo.2013.06.003",
+        "volume": "64",
+        "author": "Babjuk",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "Investigative and Clinical Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://icurology.org/pdf/10.4111/icu.2020.61.1.11",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.1.11",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.1.11",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          23
+        ]
+      ],
+      "date-time": "2020-12-23T04:45:36Z",
+      "timestamp": 1608698736000
+    },
+    "score": 52.965965,
+    "resource": {
+      "primary": {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.1.11"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "references-count": 26,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2020
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.4111/icu.2020.61.1.11",
+    "ISSN": [
+      "2466-0493",
+      "2466-054X"
+    ],
+    "issn-type": [
+      {
+        "value": "2466-0493",
+        "type": "print"
+      },
+      {
+        "value": "2466-054X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "https://synapse.koreamed.org/DOIx.php?id=10.4111/icu.2020.61.1.11",
+        "URL": "https://synapse.koreamed.org/DOIx.php?id=10.4111/icu.2020.61.1.11",
+        "name": "synapse",
+        "label": "Synapse",
+        "group": {
+          "name": "multiple_resolution",
+          "label": "Full text available at:"
+        }
+      },
+      {
+        "value": "https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.1.11",
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/icu.2020.61.1.11",
+        "name": "the_journal",
+        "label": "the Journal",
+        "group": {
+          "name": "multiple_resolution",
+          "label": "Full text available at:"
+        }
+      },
+      {
+        "value": "2019-03-29",
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2019-08-06",
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2019-12-18",
+        "name": "published_online",
+        "label": "Published online",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "© The Korean Urological Association, 2020",
+        "name": "copyright",
+        "label": "Copyright",
+        "group": {
+          "name": "Copyright_and_licensing",
+          "label": "Copyright and Licensing"
+        }
+      },
+      {
+        "value": "This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+        "name": "license",
+        "label": "License",
+        "explanation": {
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0"
+        },
+        "group": {
+          "name": "Copyright_and_licensing",
+          "label": "Copyright and Licensing"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2026-04-25T18:22:31Z",
+      "timestamp": 1777141351554,
+      "version": "3.51.4"
+    },
+    "reference-count": 20,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              8,
+              2
+            ]
+          ],
+          "date-time": "2020-08-02T00:00:00Z",
+          "timestamp": 1596326400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "bjui-journals.onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "BJU International"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>To describe the crucial factors related to the implementation of the da Vinci single‐port (SP) system (Intuitive Surgical Inc., Sunnyvale, CA, USA), and the early outcomes after the introduction of this robot for robot‐assisted radical prostatectomy (RARP).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Patients and methods</jats:title>\n                    <jats:p>We prospectively collected data from 50 consecutive patients with prostate adenocarcinoma who underwent RARP using this robot. The median follow‐up was 53 days. We performed a transperitoneal technique. The robotic (multiport) trocar was placed on the supra‐umbilical midline 20 cm from the pubis and an assistant trocar placed in the right lower quadrant. We report our initial experience describing the intra‐ and postoperative outcomes associated with this new robot. Also, we report the early functional and oncological outcomes in the follow‐up period considered. Continuous variables were described as medians and interquartile ranges, while categorical variables as frequencies and proportions.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>The median total operative time was 118 min, median console time was 80 min, and median estimated blood loss was 50 mL. There were no intraoperative complications or blood transfusions. The final pathology reported 18% Grade Group (GrGp)1, 58% GrGp2, 18% GrGp3, 2% GrGp4, and 4% GrGp5. In all, 40 patients (80%) were pT2 and 20% were ≥pT3a. The overall positive surgical margin rate was 14%. In all, 39 patients (78%) achieved full continence at median of 21 days after RARP. The median pain scale (0–10) score at 8, 12 and 16 h after RARP was 2, 2, and 0, respectively.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>The use of the da Vinci SP robot with an additional assistant port for RARP is technically safe and feasible, with acceptable short‐term functional and oncological outcomes. However, there is a technical learning curve for this new platform due to the smaller scope of the operative field and the decreased flexibility and strength of the surgical instruments.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1111/bju.15158",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          5
+        ]
+      ],
+      "date-time": "2020-07-05T01:24:45Z",
+      "timestamp": 1593912285000
+    },
+    "page": "114-121",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 36,
+    "title": [
+      "Early outcomes of single‐port robot‐assisted radical prostatectomy: lessons learned from the learning‐curve experience"
+    ],
+    "prefix": "10.1111",
+    "volume": "127",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3290-7323",
+        "authenticated-orcid": false,
+        "given": "Marcio",
+        "family": "Covas Moschovas",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "AdventHealth Global Robotics Institute Celebration FL USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Seetharam",
+        "family": "Bhat",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "AdventHealth Global Robotics Institute Celebration FL USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8369-7824",
+        "authenticated-orcid": false,
+        "given": "Fikret",
+        "family": "Onol",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "AdventHealth Global Robotics Institute Celebration FL USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Travis",
+        "family": "Rogers",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "AdventHealth Global Robotics Institute Celebration FL USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Vipul",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "AdventHealth Global Robotics Institute Celebration FL USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          2
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_7_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0000000000015770"
+      },
+      {
+        "key": "e_1_2_7_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2020.01.005"
+      },
+      {
+        "key": "e_1_2_7_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/SLA.0b013e3181b13ca2"
+      },
+      {
+        "key": "e_1_2_7_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4111/icu.2020.61.1.1"
+      },
+      {
+        "key": "e_1_2_7_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11701-020-01064-9"
+      },
+      {
+        "key": "e_1_2_7_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2012.05.041"
+      },
+      {
+        "key": "e_1_2_7_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.acuro.2011.06.010"
+      },
+      {
+        "key": "e_1_2_7_9_1",
+        "first-page": "2565",
+        "volume-title": "Campbell’s Urology",
+        "author": "Walsh PC",
+        "year": "1997"
+      },
+      {
+        "key": "e_1_2_7_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4081/aiua.2017.3.178"
+      },
+      {
+        "key": "e_1_2_7_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11701-017-0724-y"
+      },
+      {
+        "key": "e_1_2_7_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2016.06.005"
+      },
+      {
+        "key": "e_1_2_7_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bju.13581"
+      },
+      {
+        "key": "e_1_2_7_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/iju.14044"
+      },
+      {
+        "key": "e_1_2_7_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bju.14194"
+      },
+      {
+        "key": "e_1_2_7_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2014.06.039"
+      },
+      {
+        "key": "e_1_2_7_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.euf.2018.06.004"
+      },
+      {
+        "key": "e_1_2_7_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urology.2018.10.025"
+      },
+      {
+        "key": "e_1_2_7_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bju.14885"
+      },
+      {
+        "key": "e_1_2_7_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2019.04.001"
+      },
+      {
+        "key": "e_1_2_7_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/JU.0000000000000700"
+      }
+    ],
+    "container-title": [
+      "BJU International"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fbju.15158",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/bju.15158",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/bju.15158",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/bju.15158",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T13:07:25Z",
+      "timestamp": 1761743245000
+    },
+    "score": 50.2089,
+    "resource": {
+      "primary": {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/bju.15158"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          2
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/bju.15158"
+    ],
+    "URL": "https://doi.org/10.1111/bju.15158",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "1464-4096",
+      "1464-410X"
+    ],
+    "issn-type": [
+      {
+        "value": "1464-4096",
+        "type": "print"
+      },
+      {
+        "value": "1464-410X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2020-08-02",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2022-04-04T20:51:26Z",
+      "timestamp": 1649105486757
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2018-03-01T00:00:00Z",
+          "timestamp": 1519862400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(18)31018-2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          16
+        ]
+      ],
+      "date-time": "2018-03-16T01:54:31Z",
+      "timestamp": 1521165271000
+    },
+    "page": "e247",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Perioperative outcomes of 10,000 robotic assisted radical prostatectomies: Single surgeon experience"
+    ],
+    "prefix": "10.1016",
+    "volume": "17",
+    "author": [
+      {
+        "given": "H.",
+        "family": "Palayapalayam Ganapathi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "B.",
+        "family": "Rocco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Onol",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Roof",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "T.",
+        "family": "Rogers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "V.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905618310182?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905618310182?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          23
+        ]
+      ],
+      "date-time": "2018-08-23T08:30:32Z",
+      "timestamp": 1535013032000
+    },
+    "score": 44.225742,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905618310182"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905618310182"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(18)31018-2",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    }
+  }
+]

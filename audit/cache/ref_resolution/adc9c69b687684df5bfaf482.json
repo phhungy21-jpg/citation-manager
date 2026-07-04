@@ -1,0 +1,718 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T07:38:21Z",
+      "timestamp": 1772264301867,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "Policy Press",
+    "isbn-type": [
+      {
+        "value": "9781447329794",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          25
+        ]
+      ]
+    },
+    "DOI": "10.56687/9781447329794-006",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2023-08-22T02:30:36Z",
+      "timestamp": 1692671436000
+    },
+    "page": "29-58",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "What does research tell us?"
+    ],
+    "prefix": "10.56687",
+    "member": "165",
+    "container-title": [
+      "Evaluating Outcomes in Health and Social Care"
+    ],
+    "link": [
+      {
+        "URL": "https://www.degruyter.com/document/doi/10.56687/9781447329794-006/xml",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.degruyter.com/document/doi/10.56687/9781447329794-006/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2023-08-22T02:30:40Z",
+      "timestamp": 1692671440000
+    },
+    "score": 55.03838,
+    "resource": {
+      "primary": {
+        "URL": "https://www.degruyter.com/document/doi/10.56687/9781447329794-006/html"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          25
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781447329794"
+    ],
+    "references-count": 0,
+    "alternative-id": [
+      "10.56687/9781447329794-006",
+      "10.56687/9781447329794"
+    ],
+    "URL": "https://doi.org/10.56687/9781447329794-006",
+    "relation": {
+      "is-identical-to": [
+        {
+          "id-type": "doi",
+          "id": "10.2307/j.ctt1t896dt.8",
+          "asserted-by": "subject"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.51952/9781447329794.ch002",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T00:46:02Z",
+      "timestamp": 1772239562730,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "Bristol University Press",
+    "isbn-type": [
+      {
+        "value": "9781447329794",
+        "type": "electronic"
+      },
+      {
+        "value": "1447329791",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.2307/j.ctt1t896dt.8",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          11
+        ]
+      ],
+      "date-time": "2017-08-11T16:13:16Z",
+      "timestamp": 1502467996000
+    },
+    "page": "29-58",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "What does research tell us?"
+    ],
+    "prefix": "10.2307",
+    "member": "1121",
+    "container-title": [
+      "Evaluating outcomes in health and social care 2e"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          30
+        ]
+      ],
+      "date-time": "2018-08-30T21:19:17Z",
+      "timestamp": 1535663957000
+    },
+    "score": 54.272945,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jstor.org/stable/10.2307/j.ctt1t896dt.8"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781447329794",
+      "1447329791"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.2307/j.ctt1t896dt.8",
+    "relation": {
+      "is-identical-to": [
+        {
+          "id-type": "doi",
+          "id": "10.56687/9781447329794-006",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.51952/9781447329794.ch002",
+          "asserted-by": "object"
+        }
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2023-06-29T12:27:38Z",
+      "timestamp": 1688041658430
+    },
+    "reference-count": 0,
+    "publisher": "The MIT Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          5,
+          23
+        ]
+      ]
+    },
+    "DOI": "10.7551/mitpress/9780262195775.003.0004",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2013-10-10T02:41:27Z",
+      "timestamp": 1381372887000
+    },
+    "page": "84-100",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "What We Know and Don’t Know about the Effects of Cost Sharing on the Demand for Medical Care—and So What?"
+    ],
+    "prefix": "10.7551",
+    "author": [
+      {
+        "given": "Joseph P.",
+        "family": "Newhouse",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anna D.",
+        "family": "Sinaiko",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "281",
+    "container-title": [
+      "Incentives and Choice in Health Care"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          28
+        ]
+      ],
+      "date-time": "2022-07-28T16:27:12Z",
+      "timestamp": 1659025632000
+    },
+    "score": 53.29873,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/mit-press-scholarship-online/book/17679/chapter/175360389"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          5,
+          23
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.7551/mitpress/9780262195775.003.0004",
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          5,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          30
+        ]
+      ],
+      "date-time": "2026-01-30T22:13:47Z",
+      "timestamp": 1769811227324,
+      "version": "3.49.0"
+    },
+    "reference-count": 11,
+    "publisher": "Health Affairs Publishing, LLC",
+    "issue": "6",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Health Affairs"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2004,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1377/hlthaff.23.6.107",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2004,
+          11,
+          9
+        ]
+      ],
+      "date-time": "2004-11-09T23:22:39Z",
+      "timestamp": 1100042559000
+    },
+    "page": "107-113",
+    "source": "Crossref",
+    "is-referenced-by-count": 101,
+    "title": [
+      "Consumer-Directed Health Plans And The RAND Health Insurance Experiment"
+    ],
+    "prefix": "10.1377",
+    "volume": "23",
+    "author": [
+      {
+        "given": "Joseph P.",
+        "family": "Newhouse",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "102",
+    "reference": [
+      {
+        "key": "R3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J.P. Newhouse , “Medical Care Price Indices: Problems and Opportunities,”\n                      Academia Economic Papers\n                      29\n                      , no. 1 ( 2001 ): 1 –65.",
+        "DOI": "10.3386/w8168"
+      },
+      {
+        "key": "R5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-138-4-200302180-00007"
+      },
+      {
+        "key": "R5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-138-4-200302180-00007"
+      },
+      {
+        "key": "R5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-138-4-200302180-00007"
+      },
+      {
+        "key": "R5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-138-4-200302180-00007"
+      },
+      {
+        "key": "R7",
+        "unstructured": "The percentage of insurance plans requiring a front-end deductible for hospital costs rose from 30 percent in 1982 to 63 percent in 1984. Data are from Hewitt Associates, cited in J. Goldsmith, “Death of a Paradigm: The Challenge of Competition,”\n                      Health Affairs\n                      3\n                      , no. 3 ( 1984 ): 5 –19. Between 1982 and 1988, admission rates excluding normal deliveries among those ages 15–44 fell 34 percent, and among those ages 45–64, 28 percent."
+      },
+      {
+        "key": "R9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1996.03530450056033"
+      },
+      {
+        "key": "R11",
+        "unstructured": "For the standard economic theory that changes in employer health care costs will be reflected in changes in other compensation, see L.H. Summers, “Some Simple Economics of Mandated Benefits,”\n                      American Economic Review\n                      79\n                      , no. 2 ( 1989 ): 177 –183; and"
+      },
+      {
+        "key": "R15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0167-6296(98)00055-1"
+      },
+      {
+        "key": "R15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0167-6296(98)00055-1"
+      },
+      {
+        "key": "R16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1257/jep.6.3.3"
+      }
+    ],
+    "container-title": [
+      "Health Affairs"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.healthaffairs.org/doi/10.1377/hlthaff.23.6.107",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          27
+        ]
+      ],
+      "date-time": "2022-09-27T14:55:39Z",
+      "timestamp": 1664290539000
+    },
+    "score": 49.531597,
+    "resource": {
+      "primary": {
+        "URL": "http://www.healthaffairs.org/doi/10.1377/hlthaff.23.6.107"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          11
+        ]
+      ]
+    },
+    "references-count": 11,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2004,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1377/hlthaff.23.6.107"
+    ],
+    "URL": "https://doi.org/10.1377/hlthaff.23.6.107",
+    "ISSN": [
+      "0278-2715",
+      "1544-5208"
+    ],
+    "issn-type": [
+      {
+        "value": "0278-2715",
+        "type": "print"
+      },
+      {
+        "value": "1544-5208",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2004,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2025-04-25T04:23:25Z",
+      "timestamp": 1745555005216,
+      "version": "3.40.4"
+    },
+    "reference-count": 0,
+    "publisher": "Policy Press",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781447329794"
+      },
+      {
+        "type": "print",
+        "value": "9781447329763"
+      },
+      {
+        "type": "electronic",
+        "value": "9781447329763"
+      },
+      {
+        "type": "electronic",
+        "value": "9781447329794"
+      },
+      {
+        "type": "electronic",
+        "value": "9781447329787"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          25
+        ]
+      ]
+    },
+    "DOI": "10.51952/9781447329794.ch002",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          18
+        ]
+      ],
+      "date-time": "2023-10-18T23:15:27Z",
+      "timestamp": 1697670927000
+    },
+    "page": "29-58",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "What does research tell us?"
+    ],
+    "prefix": "10.51952",
+    "author": [
+      {
+        "given": "Helen",
+        "family": "Dickinson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Janine",
+        "family": "O’Flynn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "165",
+    "container-title": [
+      "Evaluating Outcomes in Health and Social Care"
+    ],
+    "link": [
+      {
+        "URL": "https://bristoluniversitypressdigital.com/view/book/9781447329794/ch002.xml",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://bristoluniversitypressdigital.com/downloadpdf/book/9781447329794/9781447329794.xml",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2025-04-24T22:13:22Z",
+      "timestamp": 1745532802000
+    },
+    "score": 48.897194,
+    "resource": {
+      "primary": {
+        "URL": "https://bristoluniversitypressdigital.com/view/book/9781447329794/ch002.xml"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          25
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781447329794",
+      "9781447329763",
+      "9781447329763",
+      "9781447329794",
+      "9781447329787"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.51952/9781447329794.ch002",
+    "relation": {
+      "is-identical-to": [
+        {
+          "id-type": "doi",
+          "id": "10.2307/j.ctt1t896dt.8",
+          "asserted-by": "subject"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.56687/9781447329794-006",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          25
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "paper": "PMC11742521",
+  "args": {
+    "manuscript": null,
+    "pmcid": "11742521",
+    "limit": null,
+    "dry_run": true
+  },
+  "counts": {
+    "dry_run_skipped": 70,
+    "reference_not_in_list": 1,
+    "no_abstract_found": 1
+  },
+  "n_claims": 21,
+  "n_checks": 72,
+  "flags_output": "C:\\Users\\Hung\\Desktop\\citation-pipeline\\audit\\results\\flags\\PMC11742521.json"
+}

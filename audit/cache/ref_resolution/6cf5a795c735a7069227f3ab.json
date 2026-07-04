@@ -1,0 +1,886 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2023-10-13T09:57:33Z",
+      "timestamp": 1697191053715
+    },
+    "reference-count": 0,
+    "publisher": "Japanese Urological Association",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Jpn. j. urol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "DOI": "10.5980/jpnjurol1989.93.444",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          21
+        ]
+      ],
+      "date-time": "2014-11-21T08:56:02Z",
+      "timestamp": 1416560162000
+    },
+    "page": "444-449",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "RISK FACTORS FOR DURATION OF URINARY INCONTINENCE AFTER RADICAL PROSTATECTOMY"
+    ],
+    "prefix": "10.5980",
+    "volume": "93",
+    "author": [
+      {
+        "given": "Kimio",
+        "family": "Sugaya",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Masami",
+        "family": "Oda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Saori",
+        "family": "Nishijima",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shuichi",
+        "family": "Shimabukuro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Satoshi",
+        "family": "Ashimine",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tsuyoshi",
+        "family": "Sunabe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hiroichi",
+        "family": "Shimabukuro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Masato",
+        "family": "Goya",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Haruo",
+        "family": "Kagawa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hiroyuki",
+        "family": "Yonoh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kazuo",
+        "family": "Shiroma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tomonori",
+        "family": "Miyazato",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yuzo",
+        "family": "Koyama",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tadashi",
+        "family": "Hatano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yoshihide",
+        "family": "Ogawa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tomoko",
+        "family": "Owan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "4001",
+    "container-title": [
+      "The Japanese Journal of Urology"
+    ],
+    "original-title": [
+      "前立腺全摘除術後の尿失禁継続期間に関連する諸因子の検討"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          21
+        ]
+      ],
+      "date-time": "2014-11-21T09:36:54Z",
+      "timestamp": 1416562614000
+    },
+    "score": 51.27482,
+    "resource": {
+      "primary": {
+        "URL": "https://www.jstage.jst.go.jp/article/jpnjurol1989/93/3/93_3_444/_article"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2002
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.5980/jpnjurol1989.93.444",
+    "ISSN": [
+      "0021-5287",
+      "1884-7110"
+    ],
+    "issn-type": [
+      {
+        "value": "0021-5287",
+        "type": "print"
+      },
+      {
+        "value": "1884-7110",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2022-03-30T13:19:06Z",
+      "timestamp": 1648646346172
+    },
+    "reference-count": 0,
+    "publisher": "Japan Prosthodontic Society",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nihon Hotetsu Shika Gakkai Zasshi"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "DOI": "10.2186/jjps.46.639",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          7,
+          20
+        ]
+      ],
+      "date-time": "2011-07-20T04:04:19Z",
+      "timestamp": 1311134659000
+    },
+    "page": "639-643",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Potential of Alternative Alloys."
+    ],
+    "prefix": "10.2186",
+    "volume": "46",
+    "author": [
+      {
+        "given": "Yutaka",
+        "family": "Oda",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "996",
+    "container-title": [
+      "Nihon Hotetsu Shika Gakkai Zasshi"
+    ],
+    "original-title": [
+      "代用合金開発の可能性"
+    ],
+    "link": [
+      {
+        "URL": "http://www.jstage.jst.go.jp/article/jjps1957/46/5/46_5_639/_pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          20
+        ]
+      ],
+      "date-time": "2021-05-20T18:00:36Z",
+      "timestamp": 1621533636000
+    },
+    "score": 41.795074,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jstage.jst.go.jp/article/jjps1957/46/5/46_5_639/_article/-char/ja/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2002
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.2186/jjps.46.639",
+    "ISSN": [
+      "1883-177X",
+      "0389-5386"
+    ],
+    "issn-type": [
+      {
+        "value": "1883-177X",
+        "type": "electronic"
+      },
+      {
+        "value": "0389-5386",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T08:02:36Z",
+      "timestamp": 1648886556864
+    },
+    "reference-count": 8,
+    "publisher": "Japanese Society for Pediatric Nephrology",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nihon Shoni Jinzobyo Gakkai Zasshi"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "DOI": "10.3165/jjpn.10.113",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          6,
+          15
+        ]
+      ],
+      "date-time": "2009-06-15T05:59:20Z",
+      "timestamp": 1245045560000
+    },
+    "page": "113-115",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Management of risk factors for urinary tract infection."
+    ],
+    "prefix": "10.3165",
+    "volume": "10",
+    "author": [
+      {
+        "given": "Masahiro",
+        "family": "Hiraoka",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1740",
+    "reference": [
+      {
+        "key": "1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(94)91466-4"
+      },
+      {
+        "key": "2",
+        "first-page": "184",
+        "volume": "1997",
+        "author": "HIRAOKA MASAHIRO",
+        "year": "1997"
+      },
+      {
+        "key": "3",
+        "unstructured": "3) 平岡政弘: 膀胱のエコー検査。小児科診療特集号「小児の超音波検査」, 59(4): 697-702, 1996."
+      },
+      {
+        "key": "4",
+        "unstructured": "4) Hori, C., Hiraoka, M., Tsukahara, H., Tsuchida, S., Sudo, M.: Intermittent trimethoprim-sulfamethoxazole in children with vesicoureteral reflux. Pediatr. Nephrol. 11: 328-330, 1997."
+      },
+      {
+        "key": "5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/ki.1997.398"
+      },
+      {
+        "key": "6",
+        "unstructured": "6) Craig, J. C., Knight, J. E., Sureshkumar, P., Mantz, E., Roy, L. P.: Effect of circumcision on incidence of urinary tract infection in preschool boys. J. Pediatr. 128: 23-27, 1996."
+      },
+      {
+        "key": "7",
+        "unstructured": "7) 平岡政弘, 堀 親秀, 土田晋也, 塚原宏一, 小西行郎, 須藤正克: 強度の生理的包茎児は尿路感染症を発症しやすい。日腎誌 38: S167, 1996."
+      },
+      {
+        "key": "8",
+        "unstructured": "8) Hiraoka, M., Hida, Y., Tsuchida, S., Tsukahara, H., Yamashita, M., Kuroda, M., Sudo, M.: Diagnosis of urinary tract infection by urine microscopy using a disposable counting chamber. Scand. J. Clin. Lab. Invest. 53: 705-709, 1993."
+      }
+    ],
+    "container-title": [
+      "Nihon Shoni Jinzobyo Gakkai Zasshi"
+    ],
+    "original-title": [
+      "尿路感染症のリスクファクターとその対処法"
+    ],
+    "language": "ja",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          20
+        ]
+      ],
+      "date-time": "2021-05-20T16:24:05Z",
+      "timestamp": 1621527845000
+    },
+    "score": 41.677635,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jstage.jst.go.jp/article/jjpn/10/2/10_2_113/_article/-char/ja/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "references-count": 8,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            1997
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.3165/jjpn.10.113",
+    "ISSN": [
+      "1881-3933",
+      "0915-2245"
+    ],
+    "issn-type": [
+      {
+        "value": "1881-3933",
+        "type": "electronic"
+      },
+      {
+        "value": "0915-2245",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2022-04-05T07:05:28Z",
+      "timestamp": 1649142328639
+    },
+    "reference-count": 0,
+    "publisher": "Japan Surgical Association",
+    "issue": "8",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nihon Rinsho Geka Gakkai Zasshi (Journal of Japan Surgical Association)"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "DOI": "10.3919/jjsa.60.2016",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          8,
+          4
+        ]
+      ],
+      "date-time": "2011-08-04T11:20:56Z",
+      "timestamp": 1312456856000
+    },
+    "page": "2016-2021",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "RISK FACTORS OF LEAKAGE OF ESOPHAGOJEJUNOANASTOMOSIS AFTER TOTAL GASTRECTOMY"
+    ],
+    "prefix": "10.3919",
+    "volume": "60",
+    "author": [
+      {
+        "given": "Tadao",
+        "family": "FUKUSHIMA",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2291",
+    "container-title": [
+      "Nihon Rinsho Geka Gakkai Zasshi (Journal of Japan Surgical Association)"
+    ],
+    "link": [
+      {
+        "URL": "http://www.jstage.jst.go.jp/article/ringe1998/60/8/60_8_2016/_pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          19
+        ]
+      ],
+      "date-time": "2021-05-19T16:07:33Z",
+      "timestamp": 1621440453000
+    },
+    "score": 40.30225,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jstage.jst.go.jp/article/ringe1998/60/8/60_8_2016/_article"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            1999
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.3919/jjsa.60.2016",
+    "ISSN": [
+      "1882-5133",
+      "1345-2843"
+    ],
+    "issn-type": [
+      {
+        "value": "1882-5133",
+        "type": "electronic"
+      },
+      {
+        "value": "1345-2843",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T23:29:47Z",
+      "timestamp": 1648942187724
+    },
+    "reference-count": 0,
+    "publisher": "Japan Prosthodontic Society",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nihon Hotetsu Shika Gakkai Zasshi"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "DOI": "10.2186/jjps.46.281",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          7,
+          20
+        ]
+      ],
+      "date-time": "2011-07-20T04:04:19Z",
+      "timestamp": 1311134659000
+    },
+    "page": "281-282",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A Case of Prosthesis by using Implant after Bone Graft"
+    ],
+    "prefix": "10.2186",
+    "volume": "46",
+    "author": [
+      {
+        "given": "Tetsuo",
+        "family": "Fujita",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "996",
+    "container-title": [
+      "Nihon Hotetsu Shika Gakkai Zasshi"
+    ],
+    "link": [
+      {
+        "URL": "http://www.jstage.jst.go.jp/article/jjps1957/46/2/46_2_281/_pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          20
+        ]
+      ],
+      "date-time": "2021-05-20T18:00:23Z",
+      "timestamp": 1621533623000
+    },
+    "score": 39.980507,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jstage.jst.go.jp/article/jjps1957/46/2/46_2_281/_article/-char/ja/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2002
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.2186/jjps.46.281",
+    "ISSN": [
+      "1883-177X",
+      "0389-5386"
+    ],
+    "issn-type": [
+      {
+        "value": "1883-177X",
+        "type": "electronic"
+      },
+      {
+        "value": "0389-5386",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  }
+]

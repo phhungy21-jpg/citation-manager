@@ -1,0 +1,3446 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          1
+        ]
+      ],
+      "date-time": "2026-06-01T22:38:28Z",
+      "timestamp": 1780353508520,
+      "version": "3.54.1"
+    },
+    "reference-count": 103,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2009-05-01T00:00:00Z",
+          "timestamp": 1241136000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2009.01.036",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          1,
+          27
+        ]
+      ],
+      "date-time": "2009-01-27T10:04:22Z",
+      "timestamp": 1233050662000
+    },
+    "page": "1037-1063",
+    "source": "Crossref",
+    "is-referenced-by-count": 844,
+    "title": [
+      "Retropubic, Laparoscopic, and Robot-Assisted Radical Prostatectomy: A Systematic Review and Cumulative Analysis of Comparative Studies"
+    ],
+    "prefix": "10.1016",
+    "volume": "55",
+    "author": [
+      {
+        "given": "Vincenzo",
+        "family": "Ficarra",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giacomo",
+        "family": "Novara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Walter",
+        "family": "Artibani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Cestari",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antonio",
+        "family": "Galfano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Markus",
+        "family": "Graefen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giorgio",
+        "family": "Guazzoni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bertrand",
+        "family": "Guillonneau",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mani",
+        "family": "Menon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francesco",
+        "family": "Montorsi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vipul",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jens",
+        "family": "Rassweiler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hendrik",
+        "family": "Van Poppel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "468",
+        "DOI": "10.1016/j.eururo.2007.10.047",
+        "article-title": "Early detection of prostate cancer in 2007. Part 1: PSA and PSA kinetics",
+        "volume": "53",
+        "author": "Schröder",
+        "year": "2008",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1016/j.eururo.2007.09.002",
+        "article-title": "EAU guidelines on prostate cancer",
+        "volume": "53",
+        "author": "Heidenreich",
+        "year": "2008",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy: insight into etiology and prevention",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1282",
+        "DOI": "10.1016/S0022-5347(17)39057-2",
+        "article-title": "Improving the exposure of the prostate in radical retropubic prostatectomy: longitudinal bunching of the deep venous plexus",
+        "volume": "142",
+        "author": "Myers",
+        "year": "1989",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.1016/S0022-5347(17)38382-9",
+        "article-title": "Impact of anatomical radical prostatectomy on urinary continence",
+        "volume": "145",
+        "author": "Steiner",
+        "year": "1991",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "960",
+        "DOI": "10.1016/S0090-4295(98)00128-9",
+        "article-title": "Preservation of putative continence nerves during radical retropubic prostatectomy leads to more rapid return of urinary continence",
+        "volume": "51",
+        "author": "Hollabaugh",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "427",
+        "DOI": "10.1016/S0090-4295(99)00462-8",
+        "article-title": "Continence-preserving anatomic radical retropubic prostatectomy",
+        "volume": "55",
+        "author": "Steiner",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "934",
+        "DOI": "10.1016/S0090-4295(02)01596-0",
+        "article-title": "Intussusception of the reconstructed bladder neck leads to earlier continence after radical prostatectomy",
+        "volume": "59",
+        "author": "Walsh",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1802",
+        "DOI": "10.1016/S0022-5347(05)67547-7",
+        "article-title": "Radical prostatectomy for localized prostate cancer provides durable cancer control with excellent quality of life: a structured debate",
+        "volume": "163",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "938",
+        "DOI": "10.1016/j.eururo.2005.09.004",
+        "article-title": "Improving the preservation of the urethral sphincter and neurovascular bundles during open radical retropubic prostatectomy",
+        "volume": "48",
+        "author": "Montorsi",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1016/j.eururo.2005.10.008",
+        "article-title": "Open retropubic nerve-sparing radical prostatectomy",
+        "volume": "49",
+        "author": "Graefen",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "14",
+        "DOI": "10.1159/000019921",
+        "article-title": "Laparoscopic radical prostatectomy: technical and early oncological assessment of 40 operations",
+        "volume": "36",
+        "author": "Guillonneau",
+        "year": "1999",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "612",
+        "DOI": "10.1016/j.eururo.2005.12.054",
+        "article-title": "Laparoscopic and robotic assisted radical prostatectomy – critical analysis of the results",
+        "volume": "49",
+        "author": "Rassweiler",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1016/j.eururo.2005.10.003",
+        "article-title": "Laparoscopic radical prostatectomy – the experience of the German laparoscopic working group",
+        "volume": "49",
+        "author": "Rassweiler",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "945",
+        "DOI": "10.1016/S0022-5347(05)64548-X",
+        "article-title": "Laparoscopic and robot assisted radical prostatectomy: establishment of a structured program and preliminary analysis of outcomes",
+        "volume": "168",
+        "author": "Menon",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1016/j.eururo.2006.06.017",
+        "article-title": "Evidence from robot-assisted laparoscopic radical prostatectomy: a systematic review",
+        "volume": "51",
+        "author": "Ficarra",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1159/000127333",
+        "article-title": "Learning curve of an experienced open surgeon with da Vinci–assisted laparoscopic radical prostatectomy",
+        "volume": "80",
+        "author": "Artibani",
+        "year": "2008",
+        "journal-title": "Urol Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "408",
+        "DOI": "10.1046/j.1464-410x.2001.00115.x",
+        "article-title": "Robotically assisted laparoscopic radical prostatectomy",
+        "volume": "87",
+        "author": "Binder",
+        "year": "2001",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib19",
+        "first-page": "520",
+        "article-title": "Remote laparoscopic radical prostatectomy carried out with a robot. Report of a case [in French]",
+        "volume": "10",
+        "author": "Abbou",
+        "year": "2000",
+        "journal-title": "Prog Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "701",
+        "DOI": "10.1016/j.ucl.2004.06.011",
+        "article-title": "Vattikuti Institute prostatectomy, a technique of robotic radical prostatectomy for management of localized carcinoma of the prostate: experience of over 1100 cases",
+        "volume": "31",
+        "author": "Menon",
+        "year": "2004",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib21",
+        "unstructured": "Phillips B, Ball C, Sackett D, et al. Levels of evidence and grades of recommendation. Oxford Centre for Evidence-based Medicine Web site. http://www.cebm.net/index.aspx?o=1025."
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "98",
+        "DOI": "10.1016/j.eururo.2006.02.051",
+        "article-title": "Intra- and peri-operative outcomes comparing radical retropubic and laparoscopic radical prostatectomy: results from a prospective, randomised, single-surgeon study",
+        "volume": "50",
+        "author": "Guazzoni",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "292",
+        "DOI": "10.1016/S0090-4295(03)00352-2",
+        "article-title": "Radical retropubic versus laparoscopic prostatectomy: a prospective comparison of functional outcome",
+        "volume": "62",
+        "author": "Anastasiadis",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "612",
+        "DOI": "10.1016/S0090-4295(02)02416-0",
+        "article-title": "Prospective comparison of short-term convalescence: laparoscopic radical prostatectomy versus open radical retropubic prostatectomy",
+        "volume": "61",
+        "author": "Bhayani",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "2045",
+        "DOI": "10.1097/01.ju.0000063961.99940.6c",
+        "article-title": "Comparison of quality of life following laparoscopic and open prostatectomy for prostate cancer",
+        "volume": "169",
+        "author": "Hara",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "360",
+        "DOI": "10.1007/s00345-002-0306-z",
+        "article-title": "Radical prostatectomy: a prospective comparison of oncological and functional results between open and laparoscopic approaches",
+        "volume": "20",
+        "author": "Roumeguere",
+        "year": "2003",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "517",
+        "DOI": "10.1016/j.urology.2004.09.065",
+        "article-title": "Recovery of quality of life in year after laparoscopic or retropubic radical prostatectomy: a multi-institutional longitudinal study",
+        "volume": "65",
+        "author": "Namiki",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1016/j.eururo.2005.03.026",
+        "article-title": "Morbidity of laparoscopic extraperitoneal versus transperitoneal radical prostatectomy verus open retropubic radical prostatectomy",
+        "volume": "48",
+        "author": "Remzi",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1016/j.urology.2005.09.004",
+        "article-title": "Changes in quality of life in first year after radical prostatectomy by retropubic, laparoscopic, and perineal approach: multi-institutional longitudinal study in Japan",
+        "volume": "67",
+        "author": "Namiki",
+        "year": "2006",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "1461",
+        "DOI": "10.1111/j.1464-410X.2007.06849.x",
+        "article-title": "Prospective non-randomized evaluation of four mediators of the systemic response after extraperitoneal laparoscopic and open retropubic radical prostatectomy",
+        "volume": "99",
+        "author": "Jurczok",
+        "year": "2007",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1811",
+        "DOI": "10.1016/j.juro.2008.01.026",
+        "article-title": "Comprehensive prospective comparative analysis of outcomes between open and laparoscopic radical prostatectomy conducted in 2003 to 2005",
+        "volume": "179",
+        "author": "Touijer",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "329",
+        "DOI": "10.1046/j.1442-2042.2002.00473.x",
+        "article-title": "Comparison of surgical stress between laparoscopy and open surgery in the field of urology by measurement of humoral mediators",
+        "volume": "9",
+        "author": "Miyake",
+        "year": "2002",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "401",
+        "DOI": "10.1016/S0302-2838(03)00315-4",
+        "article-title": "Is laparoscopic radical prostatectomy better than traditional retropubic radical prostatectomy? An analysis of peri-operative morbidity in two contemporary series in Italy",
+        "volume": "44",
+        "author": "Artibani",
+        "year": "2003",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1046/j.0919-8172.2003.00606.x",
+        "article-title": "Delayed recovery of urinary continence after laparoscopic radical prostatectomy",
+        "volume": "10",
+        "author": "Egawa",
+        "year": "2003",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "1878",
+        "DOI": "10.1213/01.ANE.0000139734.23015.25",
+        "article-title": "Postoperative analgesia and recovery after open and laparoscopic prostatectomy",
+        "volume": "99",
+        "author": "Atallah",
+        "year": "2004",
+        "journal-title": "Anesth Analg"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "102",
+        "DOI": "10.1016/S1078-1439(03)00101-7",
+        "article-title": "Perioperative morbidity of laparoscopic radical prostatectomy compared with open radical retropubic prostatectomy",
+        "volume": "22",
+        "author": "Brown",
+        "year": "2004",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "1341",
+        "DOI": "10.1016/j.eururo.2006.12.013",
+        "article-title": "Laparoscopic radical prostatectomy in men older than 70 years of age with localized prostate cancer: comparison of morbidity, reconvalescence, and short-term clinical outcomes between younger and older men",
+        "volume": "51",
+        "author": "Poulakis",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "865",
+        "DOI": "10.1007/s11255-006-9128-z",
+        "article-title": "Surgical margins in radical prostatectomy: a comparison between retropubic and laparoscopic surgery",
+        "volume": "39",
+        "author": "Silva",
+        "year": "2007",
+        "journal-title": "Int Urol Nephrol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "704",
+        "DOI": "10.1111/j.1442-2042.2008.02057.x",
+        "article-title": "Surgical margin status of open versus laparoscopic radical prostatectomy specimens",
+        "volume": "15",
+        "author": "Terakawa",
+        "year": "2008",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "661",
+        "DOI": "10.1016/S0090-4295(02)01855-1",
+        "article-title": "Laparoscopic radical prostatectomy. preliminary pathologic evaluation",
+        "volume": "60",
+        "author": "Fromont",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "104",
+        "DOI": "10.1016/S0302-2838(02)00263-4",
+        "article-title": "Radical prostatectomy by the retropubic, perineal and laparoscopic approach: 12 years of experience in one center",
+        "volume": "42",
+        "author": "Salomon",
+        "year": "2002",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "1689",
+        "DOI": "10.1097/01.ju.0000062614.56629.41",
+        "article-title": "Laparoscopic versus open radical prostatectomy: a comparative study at a single institution",
+        "volume": "169",
+        "author": "Rassweiler",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "386",
+        "DOI": "10.1016/S0090-4295(02)02255-0",
+        "article-title": "Location of positive surgical margins after retropubic, perineal, and laparoscopic radical prostatectomy for organ-confined prostate cancer",
+        "volume": "61",
+        "author": "Salomon",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib44",
+        "first-page": "1",
+        "article-title": "Laparoscopic radical prostatectomy: oncological evaluation in the early phase of the learning curve comparing to retropubic approach",
+        "volume": "76",
+        "author": "Martorana",
+        "year": "2004",
+        "journal-title": "Arch Ital Urol Androl"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib45",
+        "doi-asserted-by": "crossref",
+        "first-page": "864",
+        "DOI": "10.1016/S0090-4295(02)01881-2",
+        "article-title": "Prospective comparison of radical retropubic prostatectomy and robot-assisted anatomic prostatectomy: the Vattikuti Urology Institute experience",
+        "volume": "60",
+        "author": "Menon",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1046/j.1464-410X.2003.04311.x",
+        "article-title": "A prospective comparison of radical retropubic and robot-assisted prostatectomy: experience in one institution",
+        "volume": "92",
+        "author": "Tewari",
+        "year": "2003",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib47",
+        "doi-asserted-by": "crossref",
+        "first-page": "912",
+        "DOI": "10.1097/01.ju.0000169455.25510.ff",
+        "article-title": "Robotic assisted laparoscopic radical prostatectomy versus retropubic radical prostatectomy: a prospective assessment of postoperative pain",
+        "volume": "174",
+        "author": "Webster",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib48",
+        "doi-asserted-by": "crossref",
+        "first-page": "360",
+        "DOI": "10.1016/j.urology.2005.08.029",
+        "article-title": "Intraoperative blood loss and transfusion requirements for robotic-assisted radical prostatectomy versus radical retropubic prostatectomy",
+        "volume": "67",
+        "author": "Farnham",
+        "year": "2006",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib49",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1016/j.juro.2007.05.051",
+        "article-title": "Prospective evaluation of short-term impact and recovery of health related quality of life in men undergoing robotic assisted laparoscopic radical prostatectomy versus open radical prostatectomy",
+        "volume": "178",
+        "author": "Miller",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib50",
+        "doi-asserted-by": "crossref",
+        "first-page": "929",
+        "DOI": "10.1016/j.juro.2006.10.070",
+        "article-title": "Comparison of length of hospital stay between radical retropubic prostatectomy and robotic assisted laparoscopic prostatectomy",
+        "volume": "177",
+        "author": "Nelson",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib51",
+        "doi-asserted-by": "crossref",
+        "first-page": "1145",
+        "DOI": "10.1111/j.1464-410X.2008.07513.x",
+        "article-title": "Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy? Results from a prospective, unrandomized, comparative study",
+        "volume": "101",
+        "author": "Fracalanza",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib52",
+        "doi-asserted-by": "crossref",
+        "first-page": "2385",
+        "DOI": "10.1016/j.juro.2007.08.008",
+        "article-title": "A comparison of the incidence and location of positive surgical margins in robotic assisted laparoscopic radical prostatectomy and open retropubic radical prostatectomy",
+        "volume": "178",
+        "author": "Smith",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib53",
+        "doi-asserted-by": "crossref",
+        "first-page": "448",
+        "DOI": "10.1111/j.1464-410X.2008.08012.x",
+        "article-title": "Radical prostatectomy for prostatic adenocarcinoma: a matched comparison of open retropubic and robot-assisted techniques",
+        "volume": "103",
+        "author": "Krambeck",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib54",
+        "doi-asserted-by": "crossref",
+        "first-page": "819",
+        "DOI": "10.1016/j.urology.2004.01.038",
+        "article-title": "Robot-assisted versus open radical prostatectomy: a comparison of one surgeon's outcomes",
+        "volume": "63",
+        "author": "Ahlering",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib55",
+        "doi-asserted-by": "crossref",
+        "first-page": "541",
+        "DOI": "10.1016/S0022-5347(05)00156-4",
+        "article-title": "Perioperative complications of laparoscopic and robotic assisted laparoscopic radical prostatectomy",
+        "volume": "175",
+        "author": "Hu",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib56",
+        "doi-asserted-by": "crossref",
+        "first-page": "478",
+        "DOI": "10.1016/j.juro.2007.03.111",
+        "article-title": "A direct comparison of robotic assisted versus pure laparoscopic radical prostatectomy: a single institution experience",
+        "volume": "178",
+        "author": "Rozet",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib57",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1111/j.1464-410X.2005.05563.x",
+        "article-title": "Robot-assisted versus pure laparoscopic radical prostatectomy: are there any differences?",
+        "volume": "96",
+        "author": "Joseph",
+        "year": "2005",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib58",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1055/s-2004-830081",
+        "article-title": "Minimal invasiveness of laparoscopic radical prostatectomy: reality or dream?",
+        "volume": "35",
+        "author": "Fornara",
+        "year": "2004",
+        "journal-title": "Aktuelle Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib59",
+        "doi-asserted-by": "crossref",
+        "first-page": "1729",
+        "DOI": "10.1016/S0022-5347(05)65662-5",
+        "article-title": "Intraoperative and postoperative complications of radical retropubic prostatectomy in a consecutive series of 1000 cases",
+        "volume": "166",
+        "author": "Lepor",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib60",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1016/S0302-2838(02)00495-5",
+        "article-title": "Intraoperative and perioperative morbidity of contemporary radical retropubic prostatectomy in a consecutive series of 1243 patients: results of a single center between 1999 and 2002",
+        "volume": "43",
+        "author": "Augustin",
+        "year": "2003",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib61",
+        "doi-asserted-by": "crossref",
+        "first-page": "2227",
+        "DOI": "10.1097/01.ju.0000145222.94455.73",
+        "article-title": "Potency, continence, and complications in 3477 consecutive radical retropubic prostatectomies",
+        "volume": "172",
+        "author": "Kundu",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib62",
+        "doi-asserted-by": "crossref",
+        "first-page": "1234",
+        "DOI": "10.1111/j.1464-410X.2006.06185.x",
+        "article-title": "Urinary incontinence after radical prostatectomy: incidence by definition, risk factors and temporal trend in a large series with a long-term follow-up",
+        "volume": "97",
+        "author": "Sacco",
+        "year": "2006",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib63",
+        "doi-asserted-by": "crossref",
+        "first-page": "887",
+        "DOI": "10.1016/j.urology.2007.12.016",
+        "article-title": "Complications of open radical retropubic prostatectomy in potential candidates for active monitoring",
+        "volume": "72",
+        "author": "Loeb",
+        "year": "2008",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib64",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1159/000049747",
+        "article-title": "Laparoscopic radical prostatectomy: the Créteil experience",
+        "volume": "40",
+        "author": "Hoznek",
+        "year": "2001",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib65",
+        "doi-asserted-by": "crossref",
+        "first-page": "876",
+        "DOI": "10.1046/j.1464-410X.2002.03049.x",
+        "article-title": "Laparoscopic radical prostatectomy: the initial UK series",
+        "volume": "90",
+        "author": "Eden",
+        "year": "2002",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib66",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.1016/S1040-8428(02)00024-0",
+        "article-title": "Laparoscopic radical prostatectomy: assessment after 550 procedures",
+        "volume": "43",
+        "author": "Guillonneau",
+        "year": "2002",
+        "journal-title": "Crit Rev Oncol Hematol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib67",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.1016/j.urology.2004.02.010",
+        "article-title": "Nerve-sparing laparoscopic radical prostatectomy: replicating the open surgical technique",
+        "volume": "64",
+        "author": "Su",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib68",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1097/01.ju.0000128773.99707.5b",
+        "article-title": "Making ends meet: a cost comparison of laparoscopic and open radical retropubic prostatectomy",
+        "volume": "172",
+        "author": "Link",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib69",
+        "doi-asserted-by": "crossref",
+        "first-page": "908",
+        "DOI": "10.1097/01.ju.0000169260.42845.c9",
+        "article-title": "Extraperitoneal laparoscopic radical prostatectomy: a prospective evaluation of 600 cases",
+        "volume": "174",
+        "author": "Rozet",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib70",
+        "doi-asserted-by": "crossref",
+        "first-page": "1271",
+        "DOI": "10.1097/01.ju.0000173940.49015.4a",
+        "article-title": "Endoscopic extraperitoneal radical prostatectomy: oncological and functional results after 700 procedures",
+        "volume": "174",
+        "author": "Stolzenburg",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib71",
+        "doi-asserted-by": "crossref",
+        "first-page": "344",
+        "DOI": "10.1016/j.eururo.2005.11.029",
+        "article-title": "Nerve sparing laparoscopic radical prostatectomy: our technique",
+        "volume": "49",
+        "author": "Curto",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib72",
+        "doi-asserted-by": "crossref",
+        "first-page": "859",
+        "DOI": "10.1016/j.eururo.2006.01.035",
+        "article-title": "Oncologic outcome and continence recovery after laparoscopic radical prostatectomy: 3 years’ follow-up in a “second generation center”",
+        "volume": "49",
+        "author": "Galli",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib73",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1007/s00345-006-0054-6",
+        "article-title": "Long-term functional and oncological results after retroperitoneal laparoscopic prostatectomy according to a prospective evaluation of 550 patients",
+        "volume": "24",
+        "author": "Goeman",
+        "year": "2006",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib74",
+        "doi-asserted-by": "crossref",
+        "first-page": "1278",
+        "DOI": "10.1016/j.eururo.2006.06.023",
+        "article-title": "Complications, urinary continence, and oncologic outcome of 1000 laparoscopic transperitoneal radical prostatectomies—experience at the Charité Hospital Berlin, Campus Mitte",
+        "volume": "50",
+        "author": "Lein",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib75",
+        "doi-asserted-by": "crossref",
+        "first-page": "34",
+        "DOI": "10.1111/j.1464-410X.2005.05562.x",
+        "article-title": "Installation of telerobotic surgery and initial experience with telerobotic radical prostatectomy",
+        "volume": "96",
+        "author": "Costello",
+        "year": "2005",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib76",
+        "doi-asserted-by": "crossref",
+        "first-page": "945",
+        "DOI": "10.1016/S0022-5347(05)00340-X",
+        "article-title": "Robotic extraperitoneal radical prostatectomy: an alternative approach",
+        "volume": "175",
+        "author": "Joseph",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib77",
+        "doi-asserted-by": "crossref",
+        "first-page": "364",
+        "DOI": "10.1016/j.urology.2005.08.035",
+        "article-title": "Robotic laparoscopic radical prostatectomy: setup and procedural techniques after 150 cases",
+        "volume": "67",
+        "author": "Van Appledorn",
+        "year": "2006",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib78",
+        "doi-asserted-by": "crossref",
+        "first-page": "173",
+        "DOI": "10.1016/j.urology.2007.03.050",
+        "article-title": "Impact of urethral stump length on continence and positive surgical margins in robot-assisted laparoscopic prostatectomy",
+        "volume": "70",
+        "author": "Borin",
+        "year": "2007",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib79",
+        "doi-asserted-by": "crossref",
+        "first-page": "648",
+        "DOI": "10.1016/j.eururo.2006.10.055",
+        "article-title": "Vattikuti Institute prostatectomy: contemporary technique and analysis of results",
+        "volume": "51",
+        "author": "Menon",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib80",
+        "doi-asserted-by": "crossref",
+        "first-page": "746",
+        "DOI": "10.1016/j.eururo.2007.02.029",
+        "article-title": "Robot-assisted laparoscopic radical prostatectomy: oncologic and functional results of 184 cases",
+        "volume": "2",
+        "author": "Mottrie",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib81",
+        "doi-asserted-by": "crossref",
+        "first-page": "1109",
+        "DOI": "10.1111/j.1464-410X.2007.06762.x",
+        "article-title": "Robotic radical prostatectomy: outcomes of 500 cases",
+        "volume": "99",
+        "author": "Patel",
+        "year": "2007",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib82",
+        "doi-asserted-by": "crossref",
+        "first-page": "755",
+        "DOI": "10.1016/j.eururo.2006.10.019",
+        "article-title": "Robotic-assisted laparoscopic prostatectomy: functional and pathologic outcomes with interfascial nerve preservation",
+        "volume": "51",
+        "author": "Zorn",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib83",
+        "doi-asserted-by": "crossref",
+        "first-page": "858",
+        "DOI": "10.1016/S0022-5347(05)67819-6",
+        "article-title": "Multicenter patient self-reporting questionnaire on impotence, incontinence and stricture after radical prostatectomy",
+        "volume": "163",
+        "author": "Kao",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib84",
+        "first-page": "354",
+        "volume": "283",
+        "author": "Stanford",
+        "year": "2000",
+        "journal-title": "Urinary and sexual function after radical prostatectomy for clinically localized prostate cancer: the Prostate Cancer Outcomes Study. JAMA"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib85",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/S0090-4295(99)00397-0",
+        "article-title": "Patient-reported urinary continence and sexual function after anatomic radical prostatectomy",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "Suppl 5",
+        "key": "10.1016/j.eururo.2009.01.036_bib86",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1016/j.urology.2005.06.116",
+        "article-title": "Radical prostatectomy: long-term cancer control and recovery of sexual and urinary function (“trifecta”)",
+        "volume": "66",
+        "author": "Bianco",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib87",
+        "doi-asserted-by": "crossref",
+        "first-page": "4146",
+        "DOI": "10.1200/JCO.2005.12.922",
+        "article-title": "Achieving optimal outcomes after radical prostatectomy",
+        "volume": "23",
+        "author": "Saranchuk",
+        "year": "2005",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib88",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/S0094-0143(05)70163-4",
+        "article-title": "Long-term biochemical disease-free and cancer-specific survival following anatomic radical retropubic prostatectomy. The 15-year Johns Hopkins experience",
+        "volume": "28",
+        "author": "Han",
+        "year": "2001",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib89",
+        "doi-asserted-by": "crossref",
+        "first-page": "910",
+        "DOI": "10.1097/01.ju.0000134888.22332.bb",
+        "article-title": "Cancer progression and survival rates following anatomical radical retropubic prostatectomy in 3478 consecutive patients: long-term results",
+        "volume": "172",
+        "author": "Roehl",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib90",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1007/s00345-006-0058-2",
+        "article-title": "Anatomic radical retropubic prostatectomy: long-term recurrence-free survival rates for localized prostate cancer",
+        "volume": "24",
+        "author": "Chun",
+        "year": "2006",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib91",
+        "doi-asserted-by": "crossref",
+        "first-page": "569",
+        "DOI": "10.1016/j.juro.2006.03.094",
+        "article-title": "Twenty-five-year prostate cancer control and survival outcomes: a 40-year radical prostatectomy single institution series",
+        "volume": "176",
+        "author": "Porter",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib92",
+        "doi-asserted-by": "crossref",
+        "first-page": "1261",
+        "DOI": "10.1097/01.ju.0000055141.36916.be",
+        "article-title": "Laparoscopic radical prostatectomy: oncological evaluation after 1000 cases at Montsouris Institute",
+        "volume": "169",
+        "author": "Guillonneau",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib93",
+        "doi-asserted-by": "crossref",
+        "first-page": "761",
+        "DOI": "10.1097/01.ju.0000153486.94741.e5",
+        "article-title": "Laparoscopic radical prostatectomy with the Heilbronn technique: oncological results in the first 500 patients",
+        "volume": "173",
+        "author": "Rassweiler",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib94",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1007/s00345-007-0164-9",
+        "article-title": "Oncological and functional results of open, robot-assisted and laparoscopic radical prostatectomy: does surgical approach and surgical experience matter?",
+        "volume": "25",
+        "author": "Herrmann",
+        "year": "2007",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib95",
+        "doi-asserted-by": "crossref",
+        "first-page": "866",
+        "DOI": "10.1016/j.eururo.2006.02.054",
+        "article-title": "Positive surgical margins in robotic-assisted radical prostatectomy: impact of learning curve on oncologic outcomes",
+        "volume": "49",
+        "author": "Atug",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib96",
+        "doi-asserted-by": "crossref",
+        "first-page": "2278",
+        "DOI": "10.1200/JCO.2007.13.4528",
+        "article-title": "Utilization and outcomes of minimally invasive radical prostatectomy",
+        "volume": "26",
+        "author": "Hu",
+        "year": "2008",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib97",
+        "doi-asserted-by": "crossref",
+        "first-page": "2248",
+        "DOI": "10.1200/JCO.2008.16.0796",
+        "article-title": "Radical prostatectomy by open or laparoscopic/robotic techniques: an issue of surgical device or surgical expertise?",
+        "volume": "26",
+        "author": "Blute",
+        "year": "2008",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib98",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1111/j.1464-410X.2007.07201.x",
+        "article-title": "Critical issues in current comparative and cost analyses between retropubic and robotic radical prostatectomy",
+        "volume": "101",
+        "author": "Gianino",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib99",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1097/01.ju.0000128773.99707.5b",
+        "article-title": "Making ends meet: a cost comparison of laparoscopic and open radical retropubic prostatectomy",
+        "volume": "172",
+        "author": "Link",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib100",
+        "doi-asserted-by": "crossref",
+        "first-page": "1431",
+        "DOI": "10.1097/01.ju.0000139714.09832.47",
+        "article-title": "The new economics of radical prostatectomy: cost comparison of open, laparoscopic and robot assisted techniques",
+        "volume": "172",
+        "author": "Lotan",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib101",
+        "doi-asserted-by": "crossref",
+        "first-page": "557",
+        "DOI": "10.1016/j.urology.2005.04.016",
+        "article-title": "Cost comparison of laparoscopic versus radical retropubic prostatectomy",
+        "volume": "66",
+        "author": "Anderson",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib102",
+        "doi-asserted-by": "crossref",
+        "first-page": "2323",
+        "DOI": "10.1097/01.ju.0000181830.43340.e7",
+        "article-title": "Local cost structures and the economics of robot assisted radical prostatectomy",
+        "volume": "174",
+        "author": "Scales",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.036_bib103",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1016/j.urology.2006.10.025",
+        "article-title": "Financial comparative analysis of minimally invasive surgery to open surgery for localized prostate cancer: a single-institution experience",
+        "volume": "69",
+        "author": "Mouraviev",
+        "year": "2007",
+        "journal-title": "Urology"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283809000499?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283809000499?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          9
+        ]
+      ],
+      "date-time": "2024-03-09T15:39:33Z",
+      "timestamp": 1709998773000
+    },
+    "score": 98.5867,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283809000499"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    },
+    "references-count": 103,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283809000499"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2009.01.036",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2022-04-05T15:57:10Z",
+      "timestamp": 1649174230242
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2008-03-01T00:00:00Z",
+          "timestamp": 1204329600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(08)60923-9",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          3,
+          14
+        ]
+      ],
+      "date-time": "2008-03-14T10:16:12Z",
+      "timestamp": 1205489772000
+    },
+    "page": "302",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "IS ROBOT-ASSISTED LAPAROSCOPIC RADICAL PROSTATECTOMY LESS INVASIVE THAN RETROPUBIC RADICAL PROSTATECTOMY? RESULTS FROM A PROSPECTIVE, NON RANDOMISED, COMPARATIVE STUDY"
+    ],
+    "prefix": "10.1016",
+    "volume": "7",
+    "author": [
+      {
+        "given": "S.",
+        "family": "Fracalanza",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Galfano",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Iafrate",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "G.",
+        "family": "Novara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Cavalleri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "W.",
+        "family": "Artibani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "V.",
+        "family": "Ficarra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905608609239?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905608609239?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          30
+        ]
+      ],
+      "date-time": "2018-12-30T21:00:29Z",
+      "timestamp": 1546203629000
+    },
+    "score": 76.3,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905608609239"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905608609239"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(08)60923-9",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2026-06-03T06:01:20Z",
+      "timestamp": 1780466480252,
+      "version": "3.54.1"
+    },
+    "reference-count": 65,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2007-01-01T00:00:00Z",
+          "timestamp": 1167609600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2006.06.017",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2006-07-04T20:27:15Z",
+      "timestamp": 1152044835000
+    },
+    "page": "45-56",
+    "source": "Crossref",
+    "is-referenced-by-count": 320,
+    "title": [
+      "Evidence from Robot-Assisted Laparoscopic Radical Prostatectomy: A Systematic Review"
+    ],
+    "prefix": "10.1016",
+    "volume": "51",
+    "author": [
+      {
+        "given": "Vincenzo",
+        "family": "Ficarra",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stefano",
+        "family": "Cavalleri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giacomo",
+        "family": "Novara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maurizio",
+        "family": "Aragona",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Walter",
+        "family": "Artibani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib1",
+        "first-page": "A246",
+        "article-title": "Laparoscopic radical prostatectomy: initial case report",
+        "volume": "147",
+        "author": "Schuessler",
+        "year": "1992",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "14",
+        "DOI": "10.1159/000019921",
+        "article-title": "Laparoscopic radical prostatectomy: technical and early oncological assessment of 40 operations",
+        "volume": "36",
+        "author": "Guillonneau",
+        "year": "1999",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1643",
+        "DOI": "10.1016/S0022-5347(05)67512-X",
+        "article-title": "Laparoscopic radical prostatectomy: the Montsouris technique",
+        "volume": "163",
+        "author": "Guillonneau",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "615",
+        "DOI": "10.1159/000020202",
+        "article-title": "Laparoscopic radical prostatectomy: preliminary results",
+        "volume": "37",
+        "author": "Jacob",
+        "year": "2000",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1159/000049749",
+        "article-title": "Heilbronn laparoscopic radical prostatectomy. Technique and results after 100 cases",
+        "volume": "40",
+        "author": "Rassweiler",
+        "year": "2001",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1159/000049748",
+        "article-title": "Laparoscopic radical prostatectomy. Technical aspects and experience with 125 cases",
+        "volume": "40",
+        "author": "Turk",
+        "year": "2001",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "612",
+        "DOI": "10.1016/j.eururo.2005.12.054",
+        "article-title": "Laparoscopic and robotic assisted radical prostatectomy—critical analysis of the results",
+        "volume": "49",
+        "author": "Rassweiler",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1738",
+        "DOI": "10.1097/01.ju.0000092881.24608.5e",
+        "article-title": "Successful transfer of open surgical skills to a laparoscopic environment using a robotic interface: initial experience with laparoscopic radical prostatectomy",
+        "volume": "170",
+        "author": "Ahlering",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib9",
+        "first-page": "39",
+        "article-title": "Laparoscopy, robot, telesurgery and urology: future perspective",
+        "volume": "48",
+        "author": "Hemal",
+        "year": "2002",
+        "journal-title": "J Postgrad Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib10",
+        "first-page": "192",
+        "article-title": "Telepresence: dexterous procedures in a virtual operating field",
+        "volume": "57",
+        "author": "Gree",
+        "year": "1991",
+        "journal-title": "Am Surg"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "653",
+        "DOI": "10.1016/j.ucl.2004.06.002",
+        "article-title": "The evolution of robotic urologic surgery",
+        "volume": "31",
+        "author": "Nguyen",
+        "year": "2004",
+        "journal-title": "Urol Clin N Am"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "408",
+        "DOI": "10.1046/j.1464-410x.2001.00115.x",
+        "article-title": "Robotically-assisted laparoscopic radical prostatectomy",
+        "volume": "87",
+        "author": "Binder",
+        "year": "2001",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1964",
+        "DOI": "10.1016/S0022-5347(05)66251-9",
+        "article-title": "Laparoscopic radical prostatectomy with a remote controlled robot",
+        "volume": "165",
+        "author": "Abbou",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "70",
+        "DOI": "10.1159/000049751",
+        "article-title": "Robotically assisted laparoscopic radical prostatectomy: feasibility study in men",
+        "volume": "40",
+        "author": "Pasticier",
+        "year": "2001",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1159/000049752",
+        "article-title": "Telesurgical laparoscopic radical prostatectomy. Initial experience",
+        "volume": "40",
+        "author": "Rassweiler",
+        "year": "2001",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "945",
+        "DOI": "10.1016/S0022-5347(05)64548-X",
+        "article-title": "Laparoscopic and robot assisted radical prostatectomy: establishment of a structured program and preliminary analysis of outcomes",
+        "volume": "168",
+        "author": "Menon",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "569",
+        "DOI": "10.1016/S0090-4295(02)01852-6",
+        "article-title": "Technique of da Vinci robot-assisted anatomic radical prostatectomy",
+        "volume": "60",
+        "author": "Tewari",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "701",
+        "DOI": "10.1016/j.ucl.2004.06.011",
+        "article-title": "Vattikuti Institute prostatectomy, a technique of robotic radical prostatectomy for management of localized carcinoma of the prostate: experience of over 1100 cases",
+        "volume": "31",
+        "author": "Menon",
+        "year": "2004",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib19",
+        "unstructured": "Phillips B, Ball C, Sackett D, et al. Levels of evidence and grades of recommendation. Oxford Centre for Evidence-based Medicine. Downloaded at http://www.cebm.net/levels_of_evidence.asp#levels. Accessed April 2006."
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1431",
+        "DOI": "10.1097/01.ju.0000139714.09832.47",
+        "article-title": "The new economics of radical prostatectomy: cost comparison of open, laparoscopic and robot assisted techniques",
+        "volume": "172",
+        "author": "Lotan",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "2323",
+        "DOI": "10.1097/01.ju.0000181830.43340.e7",
+        "article-title": "Local cost structures and the economics of robot assisted radical prostatectomy",
+        "volume": "174",
+        "author": "Scales",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1007/s11934-003-0038-7",
+        "article-title": "Vattikuti Institute prostatectomy: surgical technique and current results",
+        "volume": "4",
+        "author": "Tewari",
+        "year": "2003",
+        "journal-title": "Curr Urol Rep"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1172",
+        "DOI": "10.1016/j.urology.2004.01.043",
+        "article-title": "Robotic laparoscopic radical prostatectomy with a single assistant",
+        "volume": "63",
+        "author": "Lee",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "715",
+        "DOI": "10.1111/j.1464-410X.2003.04748.x",
+        "article-title": "The technique of apical dissection of the prostate and urethrovesical anastomosis in robotic radical prostatectomy",
+        "volume": "93",
+        "author": "Menon",
+        "year": "2004",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "611",
+        "DOI": "10.1089/end.2004.18.611",
+        "article-title": "Vattikuti Institute prostatectomy: a technique of robotic radical prostatectomy: experience in more than 1000 cases",
+        "volume": "18",
+        "author": "Menon",
+        "year": "2004",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "572",
+        "DOI": "10.1089/end.2004.18.572",
+        "article-title": "Anatomic guide for port placement for daVinci robotic radical prostatectomy",
+        "volume": "18",
+        "author": "Pick",
+        "year": "2004",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "994",
+        "DOI": "10.1016/j.urology.2004.11.023",
+        "article-title": "Feasibility study for robotic radical prostatectomy cautery-free neurovascular bundle preservation",
+        "volume": "65",
+        "author": "Ahlering",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1007/s11255-004-6088-z",
+        "article-title": "The window sign: an aid in laparoscopic and robotic radical prostatectomy",
+        "volume": "37",
+        "author": "Hemal",
+        "year": "2005",
+        "journal-title": "Int Urol Nephrol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "649",
+        "DOI": "10.1016/j.urology.2005.03.061",
+        "article-title": "Use of fourth arm in da Vinci robot-assisted extraperitoneal laparoscopic prostatectomy: novel technique",
+        "volume": "66",
+        "author": "Esposito",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "1261",
+        "DOI": "10.1016/j.urology.2005.06.107",
+        "article-title": "Robotic radical prostatectomy with preservation of the prostatic fascia: a feasibility study",
+        "volume": "66",
+        "author": "Kaul",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "416",
+        "DOI": "10.1097/01.ju.0000076015.88739.a2",
+        "article-title": "Laparoscopic radical prostatectomy: description of the extraperitoneal approach using the da Vinci robotic system",
+        "volume": "170",
+        "author": "Gettman",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "909",
+        "DOI": "10.1097/01.ju.0000073208.18059.62",
+        "article-title": "Robotic assisted laparoscopic sural nerve grafting during radical prostatectomy: initial experience",
+        "volume": "170",
+        "author": "Kaouk",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "693",
+        "DOI": "10.1016/S1072-7515(03)00723-3",
+        "article-title": "Robotic revelation: laparoscopic radical prostatectomy by a nonlaparoscopic surgeon",
+        "volume": "197",
+        "author": "Perer",
+        "year": "2003",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "864",
+        "DOI": "10.1016/S0090-4295(02)01881-2",
+        "article-title": "Prospective comparison of radical retropubic prostatectomy and robot-assisted anatomic prostatectomy: the Vattikuti Urology Institute experience",
+        "volume": "60",
+        "author": "Menon",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1046/j.1464-410X.2003.04311.x",
+        "article-title": "A prospective comparison of radical retropubic and robot-assisted prostatectomy: experience in one institution",
+        "volume": "92",
+        "author": "Tewari",
+        "year": "2003",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "819",
+        "DOI": "10.1016/j.urology.2004.01.038",
+        "article-title": "Robot-assisted versus open radical prostatectomy: a comparison of one surgeon’s outcomes",
+        "volume": "63",
+        "author": "Ahlering",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "912",
+        "DOI": "10.1097/01.ju.0000169455.25510.ff",
+        "article-title": "Robotic assisted laparoscopic radical prostatectomy versus retropubic radical prostatectomy: a prospective assessment of postoperative pain",
+        "volume": "174",
+        "author": "Webster",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "360",
+        "DOI": "10.1016/j.urology.2005.08.029",
+        "article-title": "Intraoperative blood loss and transfusion requirements for robotic-assisted radical prostatectomy versus radical retropubic prostatectomy",
+        "volume": "67",
+        "author": "Farnham",
+        "year": "2006",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1111/j.1464-410X.2005.05563.x",
+        "article-title": "Robot-assisted vs pure laparoscopic radical prostatectomy: are there any differences?",
+        "volume": "96",
+        "author": "Joseph",
+        "year": "2005",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "541",
+        "DOI": "10.1016/S0022-5347(05)00156-4",
+        "article-title": "Perioperative complications of laparoscopic and robotic assisted laparoscopic radical prostatectomy",
+        "volume": "175",
+        "author": "Hu",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy: insight into etiology and prevention",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "2289",
+        "DOI": "10.1097/01.ju.0000067464.53313.dd",
+        "article-title": "Vattikuti Institute prostatectomy: technique",
+        "volume": "169",
+        "author": "Menon",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "1224",
+        "DOI": "10.1016/j.urology.2004.08.021",
+        "article-title": "Robotic radical prostatectomy: a technique to reduce pT2 positive margins",
+        "volume": "64",
+        "author": "Ahlering",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib44",
+        "doi-asserted-by": "crossref",
+        "first-page": "419",
+        "DOI": "10.1016/j.urology.2005.03.015",
+        "article-title": "Modified clipless antegrade nerve preservation in robotic-assisted laparoscopic radical prostatectomy with validated sexual function evaluation",
+        "volume": "66",
+        "author": "Chien",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib45",
+        "doi-asserted-by": "crossref",
+        "first-page": "945",
+        "DOI": "10.1016/S0022-5347(05)00340-X",
+        "article-title": "Robotic extraperitoneal radical prostatectomy: an alternative approach",
+        "volume": "175",
+        "author": "Joseph",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/S0302-2838(03)00256-2",
+        "article-title": "Robotic technology and the translation of open radical prostatectomy to laparoscopy: the early Frankfurt experience with robotic radical prostatectomy and one year follow-up",
+        "volume": "44",
+        "author": "Bentas",
+        "year": "2003",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib47",
+        "doi-asserted-by": "crossref",
+        "first-page": "321",
+        "DOI": "10.1016/S1015-9584(09)60060-9",
+        "article-title": "Early experience with robot-assisted laparoscopic radical prostatectomy",
+        "volume": "27",
+        "author": "Sim",
+        "year": "2004",
+        "journal-title": "Asian J Surg"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib48",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1097/01.ju.0000162082.12962.40",
+        "article-title": "Robotic radical prostatectomy in the community setting—the learning curve and beyond: initial 200 cases",
+        "volume": "174",
+        "author": "Patel",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib49",
+        "doi-asserted-by": "crossref",
+        "first-page": "915",
+        "DOI": "10.1097/01.ju.0000169458.96014.f8",
+        "article-title": "Perioperative complications of robotic radical prostatectomy after the learning curve",
+        "volume": "174",
+        "author": "Bhandari",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib50",
+        "doi-asserted-by": "crossref",
+        "first-page": "714",
+        "DOI": "10.1097/01.ju.0000103885.71434.02",
+        "article-title": "Transperitoneal or extraperitoneal approach for laparoscopic radical prostatectomy: a false debate over a real challenge",
+        "volume": "171",
+        "author": "Cathelineau",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib51",
+        "doi-asserted-by": "crossref",
+        "first-page": "364",
+        "DOI": "10.1016/j.urology.2005.08.035",
+        "article-title": "Robotic laparoscopic radical prostatectomy: setup and procedural techniques after 150 cases",
+        "volume": "67",
+        "author": "Van Appledorn",
+        "year": "2006",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib52",
+        "doi-asserted-by": "crossref",
+        "first-page": "785",
+        "DOI": "10.1089/089277903770802380",
+        "article-title": "Vattikuti Institute prostatectomy: a single-team experience of 100 cases",
+        "volume": "17",
+        "author": "Menon",
+        "year": "2003",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib53",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1016/S0090-4295(03)00116-X",
+        "article-title": "Robotic radical prostatectomy and the Vattikuti Urology Institute technique: an interim analysis of results and technical points",
+        "volume": "61",
+        "author": "Menon",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib54",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1007/s00345-003-0346-z",
+        "article-title": "Robotic-assisted laparoscopic radical prostatectomy: the Frankfurt technique",
+        "volume": "21",
+        "author": "Wolfram",
+        "year": "2003",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib55",
+        "doi-asserted-by": "crossref",
+        "first-page": "34",
+        "DOI": "10.1111/j.1464-410X.2005.05562.x",
+        "article-title": "Installation of telerobotic surgery and initial experience with telerobotic radical prostatectomy",
+        "volume": "96",
+        "author": "Costello",
+        "year": "2005",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib56",
+        "doi-asserted-by": "crossref",
+        "first-page": "740",
+        "DOI": "10.1016/j.urology.2004.10.061",
+        "article-title": "Impact of obesity on clinical outcomes in robotic prostatectomy",
+        "volume": "65",
+        "author": "Ahlering",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib57",
+        "doi-asserted-by": "crossref",
+        "first-page": "2291",
+        "DOI": "10.1097/01.ju.0000181825.54480.eb",
+        "article-title": "Potency following robotic radical prostatectomy: a questionnaire based analysis of outcomes after conventional nerve sparing and prostatic fascia sparing techniques",
+        "volume": "174",
+        "author": "Menon",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib58",
+        "doi-asserted-by": "crossref",
+        "first-page": "715",
+        "DOI": "10.1089/end.2005.19.715",
+        "article-title": "Rapid communication: early potency outcomes with cautery-free neurovascular bundle preservation with robotic laparoscopic radical prostatectomy",
+        "volume": "19",
+        "author": "Ahlering",
+        "year": "2005",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib59",
+        "doi-asserted-by": "crossref",
+        "first-page": "1183",
+        "DOI": "10.1046/j.1464-410x.2004.05130.x",
+        "article-title": "Robotic surgery in urology: fact or fantasy?",
+        "volume": "94",
+        "author": "Binder",
+        "year": "2004",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib60",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1016/j.urology.2005.06.084",
+        "article-title": "Robotic-assisted laparoscopic prostatectomy: what is the learning curve?",
+        "volume": "66",
+        "author": "Herrell",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib61",
+        "doi-asserted-by": "crossref",
+        "first-page": "532",
+        "DOI": "10.1111/j.1743-6109.2005.00081_1.x",
+        "article-title": "The use of an erectogenic pharmacotherapy regimen following radical prostatectomy improves recovery of spontaneous erectile function",
+        "volume": "2",
+        "author": "Mulhall",
+        "year": "2005",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib62",
+        "doi-asserted-by": "crossref",
+        "first-page": "938",
+        "DOI": "10.1016/j.eururo.2005.09.004",
+        "article-title": "Improving the preservation of the urethral sphincter and neurovascular bundles during open radical retropubic prostatectomy",
+        "volume": "48",
+        "author": "Montorsi",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib63",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1016/j.eururo.2005.10.008",
+        "article-title": "Open retropubic nerve-sparing radical prostatectomy",
+        "volume": "49",
+        "author": "Graefen",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib64",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.1016/j.eursup.2006.01.003",
+        "article-title": "Open versus laparoscopic radical prostatectomy",
+        "volume": "5",
+        "author": "Janetschek",
+        "year": "2006",
+        "journal-title": "Eur Urol Suppl"
+      },
+      {
+        "key": "10.1016/j.eururo.2006.06.017_bib65",
+        "doi-asserted-by": "crossref",
+        "first-page": "8170",
+        "DOI": "10.1200/JCO.2005.03.1963",
+        "article-title": "Robotic-assisted laparoscopic prostatectomy: do minimally invasive approaches offer significant advantages?",
+        "volume": "23",
+        "author": "Smith",
+        "year": "2005",
+        "journal-title": "J Clin Oncol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283806007342?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283806007342?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          19
+        ]
+      ],
+      "date-time": "2019-04-19T19:59:39Z",
+      "timestamp": 1555703979000
+    },
+    "score": 74.13689,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283806007342"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          1
+        ]
+      ]
+    },
+    "references-count": 65,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283806007342"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2006.06.017",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          26
+        ]
+      ],
+      "date-time": "2026-02-26T16:19:31Z",
+      "timestamp": 1772122771857,
+      "version": "3.50.1"
+    },
+    "reference-count": 29,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2003-10-01T00:00:00Z",
+          "timestamp": 1064966400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0302-2838(03)00315-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          7,
+          16
+        ]
+      ],
+      "date-time": "2003-07-16T14:54:32Z",
+      "timestamp": 1058367272000
+    },
+    "page": "401-406",
+    "source": "Crossref",
+    "is-referenced-by-count": 68,
+    "title": [
+      "Is Laparoscopic Radical Prostatectomy Better Than Traditional Retropubic Radical Prostatectomy?"
+    ],
+    "prefix": "10.1016",
+    "volume": "44",
+    "author": [
+      {
+        "given": "Walter",
+        "family": "Artibani",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gaetano",
+        "family": "Grosso",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Giacomo",
+        "family": "Novara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Giuseppe",
+        "family": "Pecoraro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Onofrio",
+        "family": "Sidoti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alessandra",
+        "family": "Sarti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Vincenzo",
+        "family": "Ficarra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1002/pros.2990040506",
+        "article-title": "Radical prostatectomy with preservation of sexual function: anatomical and pathological considerations",
+        "volume": "4",
+        "author": "Walsh",
+        "year": "1983",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1138",
+        "DOI": "10.1056/NEJMsa011788",
+        "article-title": "Variations in morbidity after radical prostatectomy",
+        "volume": "346",
+        "author": "Begg",
+        "year": "2002",
+        "journal-title": "N. Engl. J. Med."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/S0302-2838(03)00315-4_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/S0094-0143(05)70163-4",
+        "article-title": "Long-term biochemical disease-free and cancer-specific survival following anatomic radical retropubic prostatectomy",
+        "volume": "28",
+        "author": "Han",
+        "year": "2001",
+        "journal-title": "Urol. Clin. North Am."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1729",
+        "DOI": "10.1016/S0022-5347(05)65662-5",
+        "article-title": "Intraoperative and postoperative complications of radical retropubic prostatectomy in a consecutive group of 1,000 cases",
+        "volume": "166",
+        "author": "Lepor",
+        "year": "2001",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "528",
+        "DOI": "10.1016/S0022-5347(01)69079-7",
+        "article-title": "Cancer control with radical prostatectomy alone in 1,000 consecutive patients",
+        "volume": "167",
+        "author": "Hull",
+        "year": "2002",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "849",
+        "DOI": "10.1016/S0090-4295(97)00485-8",
+        "article-title": "Initial experiene with extraperitoneal endoscopic radical retropubic prostatectomy",
+        "volume": "50",
+        "author": "Raboy",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1016/S0090-4295(97)00543-8",
+        "article-title": "Laparoscopic radical prostatectomy: initial short-term experience",
+        "volume": "50",
+        "author": "Schuessler",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "14",
+        "DOI": "10.1159/000019921",
+        "article-title": "Laparoscopic radical prostatectomy: technical and early oncological assessment of 40 operations",
+        "volume": "36",
+        "author": "Guillonneau",
+        "year": "1999",
+        "journal-title": "Eur. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1159/000049747",
+        "article-title": "Laparoscopic radical prostatectomy. The Créteil Experience",
+        "volume": "40",
+        "author": "Hozneck",
+        "year": "2001",
+        "journal-title": "Eur. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1159/000049748",
+        "article-title": "Laparoscopic radical prostatectomy. Technical aspects and experiene with 125 cases",
+        "volume": "40",
+        "author": "Turk",
+        "year": "2001",
+        "journal-title": "Eur. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1159/000049749",
+        "article-title": "Heilbronn Laparoscopic radical prostatectomy",
+        "volume": "40",
+        "author": "Rassweiler",
+        "year": "2001",
+        "journal-title": "Eur. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1159/000049750",
+        "article-title": "Extraperitoneal laparoscopic radical prostatectomy",
+        "volume": "40",
+        "author": "Bollens",
+        "year": "2001",
+        "journal-title": "Eur. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "104",
+        "DOI": "10.1016/S0302-2838(02)00263-4",
+        "article-title": "Radical prostatectomy by the retropubic, perineal and laparoscopic approach: 12 years of experience in one center",
+        "volume": "42",
+        "author": "Salomon",
+        "year": "2002",
+        "journal-title": "Eur. Urol."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/S0302-2838(03)00315-4_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1282",
+        "DOI": "10.1016/S0022-5347(17)39057-2",
+        "article-title": "Improving the exposure of the prostate in radical retropubic prostatectomy: longitudinal bunching of the deep venous plexus",
+        "volume": "142",
+        "author": "Myers",
+        "year": "1989",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "240",
+        "DOI": "10.1097/00000478-199003000-00005",
+        "article-title": "Capsular penetration in prostate cancer: significance for natural history and treatment",
+        "volume": "14",
+        "author": "McNeal",
+        "year": "1990",
+        "journal-title": "Am. J. Surg. Pathol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.1016/S0022-5347(17)38382-9",
+        "article-title": "Impact of anatomical radical prostatectomy on urinary continence",
+        "volume": "145",
+        "author": "Steiner",
+        "year": "1991",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "2101",
+        "DOI": "10.1016/S0022-5347(05)65514-0",
+        "article-title": "Laparoscopic radical prostatectomy with the Heilbronn technique: an analysis of the first 180 cases",
+        "volume": "166",
+        "author": "Rassweiler",
+        "year": "2001",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1016/S0022-5347(05)65381-5",
+        "article-title": "Perioperative complications of laparoscopic radical prostatectomy: the Montsouris 3-year experience",
+        "volume": "167",
+        "author": "Guillonneau",
+        "year": "2002",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "655",
+        "DOI": "10.1016/S0094-0143(05)70169-5",
+        "article-title": "Laparoscopic radical prostatectomy: is it feasible and reasonable?",
+        "volume": "3",
+        "author": "Cadeddu",
+        "year": "2001",
+        "journal-title": "Urol. Clin. North Am."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "639",
+        "DOI": "10.1016/S0094-0143(05)70168-3",
+        "article-title": "Intraoperative, perioperative and long-term complications of radical prostatectomy",
+        "volume": "3",
+        "author": "Shekarriz",
+        "year": "2001",
+        "journal-title": "Urol. Clin. North Am."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1016/S0022-5347(05)68578-3",
+        "article-title": "Potency, continence and complication rate in 1,870 consecutive radical retropubic prostatectomies",
+        "volume": "162",
+        "author": "Catalona",
+        "year": "1999",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "94",
+        "DOI": "10.1016/S0090-4295(98)00130-7",
+        "article-title": "Impact of a clinical pathaway for radical retropubic prostatectomy",
+        "volume": "52",
+        "author": "Leibman",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "661",
+        "DOI": "10.1016/S0090-4295(02)01855-1",
+        "article-title": "Laparoscopic radical prostatectomy: preliminary pathologic evaluation",
+        "volume": "60",
+        "author": "Fromont",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "3 Pt 2",
+        "key": "10.1016/S0302-2838(03)00315-4_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "888",
+        "DOI": "10.1016/S0022-5347(17)37413-X",
+        "article-title": "Radical prostatectomy: the pros and cons of the perineal versus retropubic approach",
+        "volume": "147",
+        "author": "Frazier",
+        "year": "1992",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB25",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/S0090-4295(99)00397-0",
+        "article-title": "Patient-reported urinary continence and sexual function after anatomic radical prostatectomy",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB26",
+        "doi-asserted-by": "crossref",
+        "first-page": "354",
+        "DOI": "10.1001/jama.283.3.354",
+        "article-title": "Urinary and sexual function after radical prostatectomy for clinically localized prostate cancer: The Prostate Cancer Outcomes Study",
+        "volume": "283",
+        "author": "Stanford",
+        "year": "2000",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/S0302-2838(03)00315-4_BIB27",
+        "doi-asserted-by": "crossref",
+        "first-page": "116",
+        "DOI": "10.1016/S0090-4295(00)00539-2",
+        "article-title": "Complication after radical retropubic prostatectomy in the Medicare population",
+        "volume": "56",
+        "author": "Benoit",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/S0302-2838(03)00315-4_BIB28",
+        "doi-asserted-by": "crossref",
+        "first-page": "441",
+        "DOI": "10.1089/089277901300189510",
+        "article-title": "Laparoscopic radical prostatectomy: the lessons lerned",
+        "volume": "15",
+        "author": "Guillonneau",
+        "year": "2001",
+        "journal-title": "J. Endourol."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/S0302-2838(03)00315-4_BIB29",
+        "doi-asserted-by": "crossref",
+        "first-page": "338",
+        "DOI": "10.1016/S0302-2838(02)00360-3",
+        "article-title": "Urinary continence and erectile function: a prospective evaluation of functional results after radical laparoscopic prostatectomy",
+        "volume": "42",
+        "author": "Salomon",
+        "year": "2002",
+        "journal-title": "Eur. Urol."
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283803003154?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283803003154?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          17
+        ]
+      ],
+      "date-time": "2019-03-17T13:26:28Z",
+      "timestamp": 1552829188000
+    },
+    "score": 72.9323,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283803003154"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          10
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283803003154"
+    ],
+    "URL": "https://doi.org/10.1016/s0302-2838(03)00315-4",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:40:26Z",
+      "timestamp": 1759585226467,
+      "version": "build-2065373602"
+    },
+    "reference-count": 6,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2013-02-01T00:00:00Z",
+          "timestamp": 1359676800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2013-02-01T00:00:00Z",
+          "timestamp": 1359676800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2012.11.026",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2012-11-19T16:00:46Z",
+      "timestamp": 1353340846000
+    },
+    "page": "e29-e31",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Reply to Stefano C.M. Picozzi, Cristian Ricci and Luca Carmignani's Letter to the Editor re: Giacomo Novara, Vincenzo Ficarra, Simone Mocellin, et al. Systematic Review and Meta-analysis of Studies Reporting Oncologic Outcome After Robot-assisted Radical Prostatectomy. Eur Urol 2012;62:382–404"
+    ],
+    "prefix": "10.1016",
+    "volume": "63",
+    "author": [
+      {
+        "given": "Giacomo",
+        "family": "Novara",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Vincenzo",
+        "family": "Ficarra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2012.11.026_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.eururo.2012.05.047",
+        "article-title": "Systematic review and meta-analysis of studies reporting oncologic outcome after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Novara",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.11.026_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.eururo.2012.02.029",
+        "article-title": "Positive surgical margin and perioperative complication rates of primary surgical treatments for prostate cancer: a systematic review and meta-analysis comparing retropubic, laparoscopic, and robotic prostatectomy",
+        "volume": "62",
+        "author": "Tewari",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.11.026_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "368",
+        "DOI": "10.1016/j.eururo.2012.05.057",
+        "article-title": "Best practices in robot-assisted radical prostatectomy: recommendations of the Pasadena Consensus Panel",
+        "volume": "62",
+        "author": "Montorsi",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.11.026_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "article-title": "Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.11.026_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/j.eururo.2012.05.046",
+        "article-title": "Systematic review and meta-analysis of studies reporting potency rates after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.11.026_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "431",
+        "DOI": "10.1016/j.eururo.2012.05.044",
+        "article-title": "Systematic review and meta-analysis of perioperative outcomes and complications after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Novara",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283812013577?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283812013577?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:05:11Z",
+      "timestamp": 1759583111000
+    },
+    "score": 70.125946,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283812013577"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    },
+    "references-count": 6,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283812013577"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2012.11.026",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-2838"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Reply to Stefano C.M. Picozzi, Cristian Ricci and Luca Carmignani's Letter to the Editor re: Giacomo Novara, Vincenzo Ficarra, Simone Mocellin, et al. Systematic Review and Meta-analysis of Studies Reporting Oncologic Outcome After Robot-assisted Radical Prostatectomy. Eur Urol 2012;62:382–404",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2012.11.026",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2012.05.047",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2012.11.028",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2012 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

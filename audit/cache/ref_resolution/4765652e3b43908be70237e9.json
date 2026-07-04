@@ -1,0 +1,918 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2026-06-29T11:57:49Z",
+      "timestamp": 1782734269012,
+      "version": "3.54.5"
+    },
+    "reference-count": 4,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2021-05-01T00:00:00Z",
+          "timestamp": 1619827200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2021-05-01T00:00:00Z",
+          "timestamp": 1619827200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2021.02.005",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2021-02-21T00:32:18Z",
+      "timestamp": 1613867538000
+    },
+    "page": "e138",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 32,
+    "title": [
+      "Re: Nicolas Mottet, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer—2020 Update. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2021;79:243–62"
+    ],
+    "prefix": "10.1016",
+    "volume": "79",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9410-880X",
+        "authenticated-orcid": false,
+        "given": "Michael",
+        "family": "Froehner",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rainer",
+        "family": "Koch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Markus",
+        "family": "Graefen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2021.02.005_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1016/j.eururo.2020.09.042",
+        "article-title": "EAU-EANM-ESTRO-ESUR-SIOG guidelines on prostate cancer—2020 update. Part 1: screening, diagnosis, and local treatment with curative intent",
+        "volume": "79",
+        "author": "Mottet",
+        "year": "2021",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.005_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1016/0021-9681(87)90171-8",
+        "article-title": "A new method of classifying prognostic comorbidity in longitudinal studies: development and validation",
+        "volume": "40",
+        "author": "Charlson",
+        "year": "1987",
+        "journal-title": "J Chron Dis"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.005_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "460",
+        "DOI": "10.1016/j.eururo.2014.08.075",
+        "article-title": "Defining a standard set of patient-centered outcomes for men with localized prostate cancer",
+        "volume": "67",
+        "author": "Martin",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.005_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "891",
+        "DOI": "10.1016/j.eururo.2015.06.007",
+        "article-title": "Development of a standardized set of patient-centered outcomes for advanced prostate cancer: an international effort for a unified approach",
+        "volume": "68",
+        "author": "Morgans",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283821000890?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283821000890?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:08:10Z",
+      "timestamp": 1759583290000
+    },
+    "score": 104.803795,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283821000890"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "references-count": 4,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283821000890"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2021.02.005",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Nicolas Mottet, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer—2020 Update. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2021;79:243–62",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2021.02.005",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 Published by Elsevier B.V. on behalf of European Association of Urology.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2026-02-21T08:15:38Z",
+      "timestamp": 1771661738587,
+      "version": "3.50.1"
+    },
+    "reference-count": 6,
+    "publisher": "Elsevier BV",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2025-06-01T00:00:00Z",
+          "timestamp": 1748736000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2025-06-01T00:00:00Z",
+          "timestamp": 1748736000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000002",
+        "name": "NIH",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2025.02.030",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          12
+        ]
+      ],
+      "date-time": "2025-04-12T21:06:42Z",
+      "timestamp": 1744492002000
+    },
+    "page": "e117-e118",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Re: Philip Cornford, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-ISUP-SIOG Guidelines on Prostate Cancer—2024 Update. Part I: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2024;86:148–63"
+    ],
+    "prefix": "10.1016",
+    "volume": "87",
+    "author": [
+      {
+        "given": "Andrew",
+        "family": "Vickers",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Karim",
+        "family": "Touijer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1016/j.eururo.2024.03.027",
+        "article-title": "EAU-EANM-ESTRO-ESUR-ISUP-SIOG guidelines on prostate cancer—2024 update. Part I: screening, diagnosis, and local treatment with curative intent",
+        "volume": "86",
+        "author": "Cornford",
+        "year": "2024",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1016/j.eururo.2016.12.003",
+        "article-title": "The benefits and harms of different extents of lymph node dissection during radical prostatectomy for prostate cancer: a systematic review",
+        "volume": "72",
+        "author": "Fossati",
+        "year": "2017",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1111/j.1464-410X.2012.11765.x",
+        "article-title": "Extended vs standard lymph node dissection in robot-assisted radical prostatectomy for intermediate- or high-risk prostate cancer: a propensity-score-matching analysis",
+        "volume": "112",
+        "author": "Kim",
+        "year": "2013",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/S0022-5347(05)64055-4",
+        "article-title": "Randomized prospective evaluation of extended versus limited lymph node dissection in patients with clinically localized prostate cancer",
+        "volume": "169",
+        "author": "Clark",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1016/j.eururo.2024.10.006",
+        "article-title": "Pelvic lymph node dissection in prostate cancer: update from a randomized clinical trial of limited versus extended dissection",
+        "volume": "87",
+        "author": "Touijer",
+        "year": "2025",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "372",
+        "DOI": "10.1111/j.1464-410X.2010.09877.x",
+        "article-title": "Extending the indications and anatomical limits of pelvic lymph node dissection for prostate cancer: improved staging or increased morbidity?",
+        "volume": "108",
+        "author": "Touijer",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283825002003?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283825002003?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          28
+        ]
+      ],
+      "date-time": "2025-05-28T14:40:43Z",
+      "timestamp": 1748443243000
+    },
+    "score": 95.72154,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283825002003"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "references-count": 6,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283825002003"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2025.02.030",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Philip Cornford, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-ISUP-SIOG Guidelines on Prostate Cancer—2024 Update. Part I: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2024;86:148–63",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2025.02.030",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 European Association of Urology. Published by Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2026-03-31T08:38:10Z",
+      "timestamp": 1774946290260,
+      "version": "3.50.1"
+    },
+    "reference-count": 5,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2021-05-01T00:00:00Z",
+          "timestamp": 1619827200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2021-05-01T00:00:00Z",
+          "timestamp": 1619827200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2021.02.006",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2021-02-17T06:35:35Z",
+      "timestamp": 1613543735000
+    },
+    "page": "e139-e140",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Reply to Michael Froehner, Rainer Koch, and Markus Graefen’s Letter to the Editor re: Nicolas Mottet, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer—2020 Update. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2021;79:243–62. Comorbidity Measurement in Patients with Prostate Cancer"
+    ],
+    "prefix": "10.1016",
+    "volume": "79",
+    "author": [
+      {
+        "given": "Roderick C.N.",
+        "family": "van den Bergh",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shane",
+        "family": "O’Hanlon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Philip",
+        "family": "Cornford",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nicolas",
+        "family": "Mottet",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2021.02.006_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1016/j.eururo.2020.09.042",
+        "article-title": "EAU-EANM-ESTRO-ESUR-SIOG guidelines on prostate cancer—2020 update. Part 1: screening, diagnosis, and local treatment with curative intent",
+        "volume": "79",
+        "author": "Mottet",
+        "year": "2021",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.006_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "1028",
+        "DOI": "10.1016/j.eururo.2014.09.032",
+        "article-title": "Survival with newly diagnosed metastatic prostate cancer in the “docetaxel era”: data from 917 patients in the control arm of the STAMPEDE trial (MRC PR08, CRUK/06/019)",
+        "volume": "67",
+        "author": "James",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.006_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "1245",
+        "DOI": "10.1016/0895-4356(94)90129-5",
+        "article-title": "Validation of a combined co-morbidity index",
+        "volume": "47",
+        "author": "Charlson",
+        "year": "1994",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.006_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "693",
+        "DOI": "10.1016/j.eururo.2012.08.054",
+        "article-title": "Impact of age and comorbidities on long-term survival of patients with high-risk prostate cancer treated with radical prostatectomy: a multi-institutional competing-risks analysis",
+        "volume": "63",
+        "author": "Briganti",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.006_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1001/jama.2010.1923",
+        "article-title": "Gait speed and survival in older adults",
+        "volume": "305",
+        "author": "Studenski",
+        "year": "2011",
+        "journal-title": "JAMA"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283821000907?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283821000907?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:08:10Z",
+      "timestamp": 1759583290000
+    },
+    "score": 90.69672,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283821000907"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283821000907"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2021.02.006",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Reply to Michael Froehner, Rainer Koch, and Markus Graefen’s Letter to the Editor re: Nicolas Mottet, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer—2020 Update. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2021;79:243–62. Comorbidity Measurement in Patients with Prostate Cancer",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2021.02.006",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

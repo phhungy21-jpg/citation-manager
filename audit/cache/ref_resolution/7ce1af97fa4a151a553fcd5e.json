@@ -1,0 +1,908 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          10
+        ]
+      ],
+      "date-time": "2026-01-10T07:58:56Z",
+      "timestamp": 1768031936005,
+      "version": "3.49.0"
+    },
+    "reference-count": 27,
+    "publisher": "Medknow",
+    "issue": "1",
+    "content-domain": {
+      "domain": [
+        "lww.com",
+        "ovid.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>Purpose:</jats:title>\n            <jats:p>Urinary incontinence (UI) is a common complication of radical prostatectomy (RP) affecting patient's quality of life (QoL). In the present study, we aimed to investigate the effects of single-session preoperative pelvic floor muscle training (PFMT) with biofeedback (BFB) on short- and mid-term postoperative UI and QoL.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Materials and Methods:</jats:title>\n            <jats:p>This study was performed between 2018 and 2020. The patients were randomized into two groups: the case group received a training session with BFB, supervised oral and written instructions on pelvic floor muscle exercises in a 1-h-long training session 1 month before the surgery. Patients were asked to regularly perform exercises immediately after the session until surgery. The controls received no instructions. We used the International Consultation on Incontinence Questionnaire-UI (ICIQ-UI) short-form and ICIQ-Lower Urinary Tract Symptoms QoL Module (ICIQ-LUTSqol) at 1, 3, and 6 months after removing the urinary catheter.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Results:</jats:title>\n            <jats:p>A total of 80 patients with a mean age of 63.83 ± 3.61 years were analyzed. Patient characteristics were similar between the groups. The mean ICIQ-UI score was significantly lower in the intervention group at 1 and 3 months after catheter removal (<jats:italic toggle=\"yes\">P</jats:italic> = 0.01 and <jats:italic toggle=\"yes\">P</jats:italic> = 0.029, respectively) but similar at 6 months (<jats:italic toggle=\"yes\">P</jats:italic> = 0.058). The mean ICIQ-LUTSqol score was significantly lower in the intervention group at 1, 3, and 6 months after catheter removal (<jats:italic toggle=\"yes\">P</jats:italic> &lt; 0.001, <jats:italic toggle=\"yes\">P</jats:italic> = 0.005, and <jats:italic toggle=\"yes\">P</jats:italic> = 0.011, respectively).</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusion:</jats:title>\n            <jats:p>A single session of preoperative PFMT with BFB has significant short-term effects on UI after RP but not at 6 months. However, this intervention can improve LUTS-related QoL even at 6 months after catheter removal.</jats:p>\n          </jats:sec>",
+    "DOI": "10.4103/uros.uros_12_22",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          9
+        ]
+      ],
+      "date-time": "2024-09-09T12:55:31Z",
+      "timestamp": 1725886531000
+    },
+    "page": "23-27",
+    "update-policy": "https://doi.org/10.1097/lww.0000000000001000",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Single Session Pre-Operative Pelvic Floor Muscle Training with Biofeedback on Urinary Incontinence and Quality of Life after Radical Prostatectomy"
+    ],
+    "prefix": "10.4103",
+    "volume": "34",
+    "author": [
+      {
+        "given": "Mohammad-Hatef",
+        "family": "Khorrami",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Amir",
+        "family": "Mohseni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Farshad",
+        "family": "Gholipour",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Farshid",
+        "family": "Alizadeh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mahtab",
+        "family": "Zargham",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mohammad-Hossein",
+        "family": "Izadpanahi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mehrdad Mohammadi",
+        "family": "Sichani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Farbod",
+        "family": "Khorrami",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2581",
+    "reference": [
+      {
+        "key": "R1-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.14740/wjon1191",
+        "article-title": "Epidemiology of prostate cancer",
+        "volume": "10",
+        "author": "Rawla",
+        "year": "2019",
+        "journal-title": "World J Oncol"
+      },
+      {
+        "key": "R2-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "801",
+        "DOI": "10.1111/bju.14369",
+        "article-title": "Postoperative complications of contemporary open and robot-assisted laparoscopic radical prostatectomy using standardised reporting systems",
+        "volume": "122",
+        "author": "Pompe",
+        "year": "2018",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "R3-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.1080/13685538.2017.1369944",
+        "article-title": "Prevalence analysis of urinary incontinence after radical prostatectomy and influential preoperative factors in a single institution",
+        "volume": "21",
+        "author": "Tienza",
+        "year": "2018",
+        "journal-title": "Aging Male"
+      },
+      {
+        "key": "R4-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "6",
+        "DOI": "10.1038/s41443-020-0253-5",
+        "article-title": "Synchronous surgery for the combined treatment of post-radical prostatectomy erectile dysfunction and stress urinary incontinence: A lucrative evolution or an unnecessary complexity?",
+        "volume": "33",
+        "author": "Mykoniatis",
+        "year": "2021",
+        "journal-title": "Int J Impot Res"
+      },
+      {
+        "key": "R5-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.3389/fonc.2018.00020",
+        "article-title": "Effects of biofeedback in preventing urinary incontinence and erectile dysfunction after radical prostatectomy",
+        "volume": "8",
+        "author": "Perez",
+        "year": "2018",
+        "journal-title": "Front Oncol"
+      },
+      {
+        "key": "R6-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.12701/yujm.2020.00276",
+        "article-title": "Pelvic floor muscle exercise with biofeedback helps regain urinary continence after robot-assisted radical prostatectomy",
+        "volume": "38",
+        "author": "Kim",
+        "year": "2021",
+        "journal-title": "Yeungnam Univ J Med"
+      },
+      {
+        "key": "R7-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1016/j.urology.2017.09.025",
+        "article-title": "Management of postradical prostatectomy urinary incontinence: A review",
+        "volume": "113",
+        "author": "Radadia",
+        "year": "2018",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "R8-5-20240909",
+        "first-page": "98",
+        "article-title": "Biofeedback training for the recovery of urinary continence after prostatectomy: A systematic review",
+        "volume": "2",
+        "author": "de Santana Santos",
+        "year": "2018",
+        "journal-title": "Eur J Med Nat Sci"
+      },
+      {
+        "key": "R9-5-20240909",
+        "first-page": "685",
+        "article-title": "Validity and reliability of the International Consultation on Incontinence Questionnaire-Urinary Incontinence Short Form and its correlation with urodynamic findings",
+        "volume": "9",
+        "author": "Hajebrahimi",
+        "year": "2012",
+        "journal-title": "Urol J"
+      },
+      {
+        "key": "R10-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "190",
+        "DOI": "10.1111/luts.12165",
+        "article-title": "Reliability and validity of the Persian language version of the International Consultation on Incontinence Questionnaire-Male Lower Urinary Tract Symptoms (ICIQ-MLUTS)",
+        "volume": "10",
+        "author": "Pourmomeny",
+        "year": "2018",
+        "journal-title": "Low Urin Tract Symptoms"
+      },
+      {
+        "key": "R11-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "1767",
+        "DOI": "10.1016/S0022-5347(05)67538-6",
+        "article-title": "The pathophysiology of post-radical prostatectomy incontinence: A clinical and video urodynamic study",
+        "volume": "163",
+        "author": "Groutz",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R12-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "982",
+        "DOI": "10.1016/j.juro.2011.04.088",
+        "article-title": "Post-prostatectomy incontinence during sexual activity: A single center prevalence study",
+        "volume": "186",
+        "author": "Mitchell",
+        "year": "2011",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R13-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "1572",
+        "DOI": "10.1111/j.1464-410X.2011.10231.x",
+        "article-title": "Age at surgery, educational level and long-term urinary incontinence after radical prostatectomy",
+        "volume": "108",
+        "author": "Nilsson",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "R14-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "325",
+        "DOI": "10.1007/s00345-006-0075-1",
+        "article-title": "Lower urinary tract symptoms, urinary incontinence, sexual function and quality of life after radical prostatectomy and external beam radiation therapy: Real life experience in Austria",
+        "volume": "24",
+        "author": "Ponholzer",
+        "year": "2006",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "R15-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1016/S0022-5347(05)67979-7",
+        "article-title": "Artificial urinary sphincter for post-prostatectomy incontinence: Impact of prior collagen injection on cost and clinical outcome",
+        "volume": "163",
+        "author": "Gomes",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R16-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "398",
+        "DOI": "10.1002/nau.23845",
+        "article-title": "Surgical treatment of post-prostatectomy stress urinary incontinence in adult men: Report from the 6th International Consultation on Incontinence",
+        "volume": "38",
+        "author": "Averbeck",
+        "year": "2019",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "R17-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "714",
+        "DOI": "10.1046/j.1464-410X.2002.02721.x",
+        "article-title": "Biofeedback vs. verbal feedback as learning tools for pelvic muscle exercises in the early management of urinary incontinence after radical prostatectomy",
+        "volume": "89",
+        "author": "Floratos",
+        "year": "2002",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "R18-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1016/j.urology.2015.06.022",
+        "article-title": "Using the Vibrance Kegel device with pelvic floor muscle exercise for stress urinary incontinence: A Randomized Controlled Pilot Study",
+        "volume": "86",
+        "author": "Ong",
+        "year": "2015",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "R20-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1155/2014/640262",
+        "article-title": "Effect of Kegel exercises on the management of female stress urinary incontinence: A systematic review of randomized controlled trials",
+        "volume": "2014",
+        "author": "Park",
+        "year": "2014",
+        "journal-title": "Adv Nurs"
+      },
+      {
+        "key": "R21-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "1007",
+        "DOI": "10.1177/1557988318757242",
+        "article-title": "The effect of pelvic floor muscle training on incontinence problems after radical prostatectomy",
+        "volume": "12",
+        "author": "Aydın Sayılan",
+        "year": "2018",
+        "journal-title": "Am J Men's Health"
+      },
+      {
+        "key": "R22-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1177/1557988319851618",
+        "article-title": "Improvement of urinary incontinence, life impact, and depression and anxiety with modified pelvic floor muscle training after radical prostatectomy",
+        "volume": "13",
+        "author": "Pan",
+        "year": "2019",
+        "journal-title": "Am J Mens Health"
+      },
+      {
+        "key": "R23-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "397",
+        "DOI": "10.1007/s11701-018-0803-8",
+        "article-title": "A systematic review of PFE pre-prostatectomy",
+        "volume": "12",
+        "author": "Goonewardene",
+        "year": "2018",
+        "journal-title": "J Robot Surg"
+      },
+      {
+        "key": "R24-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "144",
+        "DOI": "10.1002/nau.22523",
+        "article-title": "Effect of preoperative pelvic floor muscle therapy with biofeedback versus standard care on stress urinary incontinence and quality of life in men undergoing laparoscopic radical prostatectomy: A randomised control trial",
+        "volume": "34",
+        "author": "Dijkstra-Eshuis",
+        "year": "2015",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "R25-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "932",
+        "DOI": "10.1093/ptj/pzy101",
+        "article-title": "Effectiveness of pelvic floor muscle training alone and in combination with biofeedback, electrical stimulation, or both compared to control for urinary incontinence in men following prostatectomy: Systematic review and meta-analysis",
+        "volume": "98",
+        "author": "Kannan",
+        "year": "2018",
+        "journal-title": "Phys Ther"
+      },
+      {
+        "key": "R26-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "490",
+        "DOI": "10.1097/01.ju.0000076141.33973.75",
+        "article-title": "Pelvic floor exercises, electrical stimulation and biofeedback after radical prostatectomy: Results of a prospective randomized trial",
+        "volume": "170",
+        "author": "Wille",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R27-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "1496",
+        "DOI": "10.1016/j.jsxm.2017.09.020",
+        "article-title": "Penile rehabilitation therapy following radical prostatectomy: A meta-analysis",
+        "volume": "14",
+        "author": "Liu",
+        "year": "2017",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "R28-5-20240909",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1038/ijir.2015.24",
+        "article-title": "Pelvic floor muscle training for erectile dysfunction and climacturia 1 year after nerve sparing radical prostatectomy: A randomized controlled trial",
+        "volume": "28",
+        "author": "Geraerts",
+        "year": "2016",
+        "journal-title": "Int J Impot Res"
+      }
+    ],
+    "container-title": [
+      "Urological Science"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.4103/UROS.UROS_12_22",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          9
+        ]
+      ],
+      "date-time": "2024-09-09T12:55:47Z",
+      "timestamp": 1725886547000
+    },
+    "score": 70.31124,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/10.4103/UROS.UROS_12_22"
+      }
+    },
+    "subtitle": [
+      "A Randomized Controlled Trial"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2023
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.4103/uros.uros_12_22",
+    "ISSN": [
+      "1879-5226"
+    ],
+    "issn-type": [
+      {
+        "value": "1879-5226",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T18:13:33Z",
+      "timestamp": 1648750413283
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2015-11-01T00:00:00Z",
+          "timestamp": 1446336000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(15)30405-x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          12,
+          4
+        ]
+      ],
+      "date-time": "2015-12-04T11:01:21Z",
+      "timestamp": 1449226881000
+    },
+    "page": "e1361",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "27 Bladder neck preservation, reconstruction vs. sling: Effect of bladder neck management techniques during radical prostatectomy on post operation urinary function outcome"
+    ],
+    "prefix": "10.1016",
+    "volume": "14",
+    "author": [
+      {
+        "given": "S.",
+        "family": "Zeighami",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.R.",
+        "family": "Aminsharifi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.H.",
+        "family": "Khalili",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Ariafar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S156990561530405X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S156990561530405X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2018-09-17T06:24:44Z",
+      "timestamp": 1537165484000
+    },
+    "score": 66.95267,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S156990561530405X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S156990561530405X"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(15)30405-x",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T06:42:43Z",
+      "timestamp": 1651214563644
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "4S",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2018-04-01T00:00:00Z",
+          "timestamp": 1522540800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2018.02.546",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2018-04-03T12:29:09Z",
+      "timestamp": 1522758549000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "MP16-12 LATERAL BLADDER NECK DISSECTION OPTIMALLY PRESERVING INTRINSIC BLADDER NECK SPHINCTER WITH POSTERIOR BLADDER WALL RECONSTRUCTION LEAD TO EARLY URINARY CONTINENCE AFTER ROBOTIC-ASSISTED RADICAL PROSTATECTOMY"
+    ],
+    "prefix": "10.1097",
+    "volume": "199",
+    "author": [
+      {
+        "given": "GyungTak",
+        "family": "Sung",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Busan, Korea, Republic of"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Soodong",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Busan, Korea, Republic of"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534718398562?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534718398562?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2018.02.546",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T06:06:08Z",
+      "timestamp": 1651212368000
+    },
+    "score": 66.344246,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2018.02.546"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4S",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2018.02.546"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2018.02.546",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    }
+  }
+]

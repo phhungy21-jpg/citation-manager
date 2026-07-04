@@ -1,0 +1,611 @@
+{
+  "paper": "PMC11742536",
+  "source_file": "pmcid:11742536",
+  "generated": "2026-07-01T14:36:21.979908+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "dry_run_skipped": 46,
+    "unresolved_reference": 5,
+    "no_abstract_found": 1,
+    "reference_not_in_list": 6
+  },
+  "flagged": [
+    {
+      "sentence": "According to Tiro,[5] many patients are missing screening history data; therefore, management recommendations are made under conditions of uncertainty when clinicians, at the time of an abnormal result, may not have access to the information needed to assess risk of developing cervical intraepithelial neoplasia 3 or worse (CIN3+).",
+      "citation_number": 5,
+      "ref_text": "Tiro JA. Reflections on the shift from average to risk-based cancer screening. Paper presented at: 48th Annual Meeting of the American Society of Preventive Oncology; March 18, 2024; Chicago, Illinois.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/0091-7435(86)90075-7",
+        "title": "Abstract of Paper Presented at the 10th Annual Meeting of the American Society of Preventive Oncology",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.8,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 14,
+      "ref_text": "Raman SR, Brown JS, Curtis LH, . Cancer screening results and follow-up using routinely collected electronic health data: estimates for breast, colon, and cervical cancer screenings. J Gen Intern Med. 2019;34(3):341-343. doi:10.1007/s11606-018-4697-y30350029 PMC6420541",
+      "doi": "10.1007/s11606-018-4697-y",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "During round 1 surveillance, many patients were untested despite remaining enrolled (overall: 49.4% [6505]; across sites: 39.0% [1395] to 69.4% [2043]), and fewer patients exited the cohort without being tested (overall: 6.9% [908]; across sites: 0.2% [12] to 24.6% [879]).",
+      "citation_number": 879,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "During round 1 surveillance, many patients were untested despite remaining enrolled (overall: 49.4% [6505]; across sites: 39.0% [1395] to 69.4% [2043]), and fewer patients exited the cohort without being tested (overall: 6.9% [908]; across sites: 0.2% [12] to 24.6% [879]).",
+      "citation_number": 908,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "During round 1 surveillance, many patients were untested despite remaining enrolled (overall: 49.4% [6505]; across sites: 39.0% [1395] to 69.4% [2043]), and fewer patients exited the cohort without being tested (overall: 6.9% [908]; across sites: 0.2% [12] to 24.6% [879]).",
+      "citation_number": 1395,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "During round 1 surveillance, many patients were untested despite remaining enrolled (overall: 49.4% [6505]; across sites: 39.0% [1395] to 69.4% [2043]), and fewer patients exited the cohort without being tested (overall: 6.9% [908]; across sites: 0.2% [12] to 24.6% [879]).",
+      "citation_number": 2043,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "During round 1 surveillance, many patients were untested despite remaining enrolled (overall: 49.4% [6505]; across sites: 39.0% [1395] to 69.4% [2043]), and fewer patients exited the cohort without being tested (overall: 6.9% [908]; across sites: 0.2% [12] to 24.6% [879]).",
+      "citation_number": 6505,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "Across systems, the proportion of patients initially untested in round 1 surveillance, who remained untested through the end of the cohort period, was 40.4% (2629); across sites, PH had the highest proportion untested (50.6% [1034]).",
+      "citation_number": 1034,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "Qualitative data collected from the METRICS cohort sites reveal that EHRs are not built to easily document prior screening history, support tracking of patients under surveillance (eg, patient care registry functionality[22],[23]), or alert clinicians when patients are overdue for an annual surveillance cotest (unpublished data from interviews with clinicians and staff; personal email communication with R.",
+      "citation_number": 22,
+      "ref_text": "Miller RS, Mitchell K, Myslinski R, Rising J. Chapter 1: health information technology (IT) and patient registries. In: Gliklich RE, Leavy MB, Dreyer NA, eds. Tools and Technologies for Registry Interoperability, Registries for Evaluating Patient Outcomes: A User's Guide. 3rd Edition, Addendum 2. Agency for Healthcare Research and Quality; 2019.31891455",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.23970/ahrqepcregistries3addendum2",
+        "title": "Tools and Technologies for Registry Interoperability, 2nd addendum of Registries for Evaluating Patient Outcomes, A User's Guide, 3rd ed",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 1.0,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Qualitative data collected from the METRICS cohort sites reveal that EHRs are not built to easily document prior screening history, support tracking of patients under surveillance (eg, patient care registry functionality[22],[23]), or alert clinicians when patients are overdue for an annual surveillance cotest (unpublished data from interviews with clinicians and staff; personal email communication with R.",
+      "citation_number": 23,
+      "ref_text": "Ehrenstein V, Kharrazi H, Lehmann H, Taylor CO. Chapter 4: obtaining data from electronic health records. In: Gliklich RE, Leavy MB, Dreyer NA, . Tools and Technologies for Registry Interoperability, Registries for Evaluating Patient Outcomes: A User's Guide. 3rd Edition, Addendum 2. Agency for Healthcare Research and Quality; 2019.31891455",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.23970/ahrqepcregistries3addendum2",
+        "title": "Tools and Technologies for Registry Interoperability, 2nd addendum of Registries for Evaluating Patient Outcomes, A User's Guide, 3rd ed",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 1.0,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Churn in health insurance plays a role in the movement between health care systems, making access to and tracking of consistent care difficult.[27] Second, limited transportability of records across systems[28],[29],[30] and inconsistent availability of health information exchanges across regions[31],[32] rendered it difficult to fully identify who received timely care after an abnormal result.",
+      "citation_number": 27,
+      "ref_text": "Sugar S, Peters C, De Leew N, Sommers BD. Medicaid churning and continuity of care: evidence and policy considerations before and after the COVID-19 pandemic. Issue Brief No. HP-2021-10. Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services. April 12, 2021. Accessed November 1, 2024. https://aspe.hhs.gov/sites/default/files/private/pdf/265366/medicaid-churning-ib.pdf",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.3886/icpsr08683",
+        "title": "National Long Term Care Channeling Evaluation, 1982-1984",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.25,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Care delivery is further complicated when applying guidelines under conditions of uncertainty; 38% of individuals had unknown screening history prior to their index abnormal result.[5] Cervical outcome data over longer follow-up periods are needed to elucidate the consequences of low adherence to guidelines and barriers to surveillance, especially because fragmentation may increase cervical cancer disparities.",
+      "citation_number": 5,
+      "ref_text": "Tiro JA. Reflections on the shift from average to risk-based cancer screening. Paper presented at: 48th Annual Meeting of the American Society of Preventive Oncology; March 18, 2024; Chicago, Illinois.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/0091-7435(86)90075-7",
+        "title": "Abstract of Paper Presented at the 10th Annual Meeting of the American Society of Preventive Oncology",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.8,
+        "confident": false
+      }
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "Guidelines are intended to increase delivery of the best care to the most people.[1],[2] Achieving this goal requires both well-founded guidelines and feasible implementation.",
+      "citation_number": 1,
+      "ref_text": "Alonso-Coello P, Oxman AD, Moberg J, ; GRADE Working Group. GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 2: Clinical practice guidelines. BMJ. 2016;353:i2089. doi:10.1136/bmj.i208927365494",
+      "doi": "10.1136/bmj.i2089",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Guidelines are intended to increase delivery of the best care to the most people.[1],[2] Achieving this goal requires both well-founded guidelines and feasible implementation.",
+      "citation_number": 2,
+      "ref_text": "Alonso-Coello P, Schünemann HJ, Moberg J, ; GRADE Working Group. GRADE Evidence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed healthcare choices. 1: Introduction. BMJ. 2016;353:i2016. doi:10.1136/bmj.i201627353417",
+      "doi": "10.1136/bmj.i2016",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "The 2019 American Society for Colposcopy and Cervical Pathology (ASCCP) guidelines for managing abnormal cervical cancer screening results are designed to “ensure equal management for equal risks” and balance screening benefits with the harms of overtesting and treatment.[3](p103) A diverse set of stakeholders, including clinical specialty organizations and patient advocacy groups, was involved in the consensus process during guideline development.[4] While these guidelines were based on the best available evidence and have an admirable goal, the feasibility of implementation in routine care is unclear.",
+      "citation_number": 3,
+      "ref_text": "Perkins RB, Guido RS, Castle PE, ; 2019 ASCCP Risk-Based Management Consensus Guidelines Committee. 2019 ASCCP risk-based management consensus guidelines for abnormal cervical cancer screening tests and cancer precursors. J Low Genit Tract Dis. 2020;24(2):102-131. doi:10.1097/LGT.000000000000052532243307 PMC7147428",
+      "doi": "10.1097/LGT.0000000000000525",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "The 2019 American Society for Colposcopy and Cervical Pathology (ASCCP) guidelines for managing abnormal cervical cancer screening results are designed to “ensure equal management for equal risks” and balance screening benefits with the harms of overtesting and treatment.[3](p103) A diverse set of stakeholders, including clinical specialty organizations and patient advocacy groups, was involved in the consensus process during guideline development.[4] While these guidelines were based on the best available evidence and have an admirable goal, the feasibility of implementation in routine care is unclear.",
+      "citation_number": 4,
+      "ref_text": "Perkins RB, Fuzzell LN, Lake P, . Incorporating stakeholder feedback in guidelines development for the management of abnormal cervical cancer screening tests. J Low Genit Tract Dis. 2020;24(2):167-177. doi:10.1097/LGT.000000000000052432243312 PMC7147423",
+      "doi": "10.1097/LGT.0000000000000524",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "According to Tiro,[5] many patients are missing screening history data; therefore, management recommendations are made under conditions of uncertainty when clinicians, at the time of an abnormal result, may not have access to the information needed to assess risk of developing cervical intraepithelial neoplasia 3 or worse (CIN3+).",
+      "citation_number": 5,
+      "ref_text": "Tiro JA. Reflections on the shift from average to risk-based cancer screening. Paper presented at: 48th Annual Meeting of the American Society of Preventive Oncology; March 18, 2024; Chicago, Illinois.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/0091-7435(86)90075-7",
+        "title": "Abstract of Paper Presented at the 10th Annual Meeting of the American Society of Preventive Oncology",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.8,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 3,
+      "ref_text": "Perkins RB, Guido RS, Castle PE, ; 2019 ASCCP Risk-Based Management Consensus Guidelines Committee. 2019 ASCCP risk-based management consensus guidelines for abnormal cervical cancer screening tests and cancer precursors. J Low Genit Tract Dis. 2020;24(2):102-131. doi:10.1097/LGT.000000000000052532243307 PMC7147428",
+      "doi": "10.1097/LGT.0000000000000525",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 6,
+      "ref_text": "Haas JS, Cheng D, Yu L, . Variation in the receipt of human papilloma virus co-testing for cervical screening: individual, provider, facility and healthcare system characteristics. Prev Med. 2022;154:106871. doi:10.1016/j.ypmed.2021.10687134762966 PMC8724456",
+      "doi": "10.1016/j.ypmed.2021.106871",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 7,
+      "ref_text": "Wright TC Jr, Stoler MH, Sharma A, Zhang G, Behrens C, Wright TL; ATHENA (Addressing THE Need for Advanced HPV Diagnostics) Study Group. Evaluation of HPV-16 and HPV-18 genotyping for the triage of women with high-risk HPV+ cytology-negative results. Am J Clin Pathol. 2011;136(4):578-586. doi:10.1309/AJCPTUS5EXAS6DKZ21917680",
+      "doi": "10.1309/AJCPTUS5EXAS6DKZ",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 8,
+      "ref_text": "Tao X, Zhang H, Li J, . Prevalence of HPV-16/18 genotypes and immediate histopathologic correlation results in a Chinese population with negative cytology and positive high-risk HPV testing. Cancer Cytopathol. 2019;127(10):650-657. doi:10.1002/cncy.2218031532582",
+      "doi": "10.1002/cncy.22180",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 9,
+      "ref_text": "Song F, Du H, Xiao A, . Type-specific distribution of cervical hrHPV infection and the association with cytological and histological results in a large population-based cervical cancer screening program: baseline and 3-year longitudinal data. J Cancer. 2020;11(20):6157-6167. doi:10.7150/jca.4835732922555 PMC7477419",
+      "doi": "10.7150/jca.48357",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 10,
+      "ref_text": "Safaeian M, Schiffman M, Gage J, Solomon D, Wheeler CM, Castle PE. Detection of precancerous cervical lesions is differential by human papillomavirus type. Cancer Res. 2009;69(8):3262-3266. doi:10.1158/0008-5472.CAN-08-419219351830 PMC3155840",
+      "doi": "10.1158/0008-5472.CAN-08-4192",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 11,
+      "ref_text": "Feldman S, Lykken JM, Haas JS, . Factors associated with timely colposcopy following an abnormal cervical cancer test result. Prev Med. 2022;164:107307. doi:10.1016/j.ypmed.2022.10730736270434 PMC9808794",
+      "doi": "10.1016/j.ypmed.2022.107307",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 12,
+      "ref_text": "Tosteson AN, Beaber EF, Tiro J, ; PROSPR consortium. Variation in screening abnormality rates and follow-up of breast, cervical and colorectal cancer screening within the PROSPR consortium. J Gen Intern Med. 2016;31(4):372-379. doi:10.1007/s11606-015-3552-726658934 PMC4803707",
+      "doi": "10.1007/s11606-015-3552-7",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 13,
+      "ref_text": "Barlow WE, Beaber EF, Geller BM, . Evaluating screening participation, follow-up, and outcomes for breast, cervical, and colorectal cancer in the PROSPR consortium. J Natl Cancer Inst. 2020;112(3):238-246. doi:10.1093/jnci/djz13731292633 PMC7073922",
+      "doi": "10.1093/jnci/djz137",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 14,
+      "ref_text": "Raman SR, Brown JS, Curtis LH, . Cancer screening results and follow-up using routinely collected electronic health data: estimates for breast, colon, and cervical cancer screenings. J Gen Intern Med. 2019;34(3):341-343. doi:10.1007/s11606-018-4697-y30350029 PMC6420541",
+      "doi": "10.1007/s11606-018-4697-y",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "This group is of particular concern because US health care systems are shifting to primary HPV screening and cotesting,[6] making HPV-positive result and NILM cytologic finding a common screening abnormality (range, 6.7%-14.9%).[7],[8],[9],[10] Furthermore, most studies in the literature to date have monitored colposcopy receipt after a high-grade result[11],[12],[13],[14]; few have studied follow-up after an HPV-positive result and NILM cytologic finding.[15] Guideline-concordant practice for an HPV-positive result and NILM cytologic finding should include annual surveillance cotesting to monitor for HPV persistence and potential progression of cervical dysplasia.[3] If findings are negative over 2 subsequent evaluations, then a patient can exit management and return to average-risk screening (ie, cytologic test alone every 3 years; primary HPV or cotesting every 5 years).",
+      "citation_number": 15,
+      "ref_text": "Wu M, Ma X, Li H, . Which is the best management for women with normal cervical cytologic findings despite positivity for non-16/18 high risk human papillomaviruses? Front Public Health. 2022;10:950610. doi:10.3389/fpubh.2022.95061036438260 PMC9682294",
+      "doi": "10.3389/fpubh.2022.950610",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Evidence supporting these recommendations is based on data from a limited number of settings.[16],[17] To describe how well practice aligns with guidelines, we used longitudinal cohort data from the National Cancer Institute Population-based Research to Optimize the Screening Process (PROSPR) II Cervical Consortium.[6],[18] In 3 diverse health care settings, we aimed to quantify patterns of surveillance testing and associated outcomes for patients after an HPV-positive result and NILM cytologic finding.",
+      "citation_number": 6,
+      "ref_text": "Haas JS, Cheng D, Yu L, . Variation in the receipt of human papilloma virus co-testing for cervical screening: individual, provider, facility and healthcare system characteristics. Prev Med. 2022;154:106871. doi:10.1016/j.ypmed.2021.10687134762966 PMC8724456",
+      "doi": "10.1016/j.ypmed.2021.106871",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Evidence supporting these recommendations is based on data from a limited number of settings.[16],[17] To describe how well practice aligns with guidelines, we used longitudinal cohort data from the National Cancer Institute Population-based Research to Optimize the Screening Process (PROSPR) II Cervical Consortium.[6],[18] In 3 diverse health care settings, we aimed to quantify patterns of surveillance testing and associated outcomes for patients after an HPV-positive result and NILM cytologic finding.",
+      "citation_number": 16,
+      "ref_text": "Egemen D, Cheung LC, Chen X, . Risk estimates supporting the 2019 ASCCP risk-based management consensus guidelines. J Low Genit Tract Dis. 2020;24(2):132-143. doi:10.1097/LGT.000000000000052932243308 PMC7147417",
+      "doi": "10.1097/LGT.0000000000000529",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Evidence supporting these recommendations is based on data from a limited number of settings.[16],[17] To describe how well practice aligns with guidelines, we used longitudinal cohort data from the National Cancer Institute Population-based Research to Optimize the Screening Process (PROSPR) II Cervical Consortium.[6],[18] In 3 diverse health care settings, we aimed to quantify patterns of surveillance testing and associated outcomes for patients after an HPV-positive result and NILM cytologic finding.",
+      "citation_number": 17,
+      "ref_text": "Saraiya M, Cheung LC, Soman A, . Risk of cervical precancer and cancer among uninsured and underserved women from 2009 to 2017. Am J Obstet Gynecol. 2021;224(4):366.e1-366.e32. doi:10.1016/j.ajog.2020.10.00133035473 PMC8009811",
+      "doi": "10.1016/j.ajog.2020.10.001",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Evidence supporting these recommendations is based on data from a limited number of settings.[16],[17] To describe how well practice aligns with guidelines, we used longitudinal cohort data from the National Cancer Institute Population-based Research to Optimize the Screening Process (PROSPR) II Cervical Consortium.[6],[18] In 3 diverse health care settings, we aimed to quantify patterns of surveillance testing and associated outcomes for patients after an HPV-positive result and NILM cytologic finding.",
+      "citation_number": 18,
+      "ref_text": "Kamineni A, Tiro JA, Beaber EF, ; PROSPR consortium. Cervical cancer screening research in the PROSPR I consortium: rationale, methods and baseline findings from a US cohort. Int J Cancer. 2019;144(6):1460-1473. doi:10.1002/ijc.3194030353911 PMC6941787",
+      "doi": "10.1002/ijc.31940",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The PROSPR II Cervical Consortium evaluates cervical cancer screening processes by contributing data to the METRICS (Multi-level Optimization of the Cervical Cancer Screening Process in Diverse Settings and Populations) cohort.[6],[18] The PROSPR II consortium includes Kaiser Permanente Washington (KPWA), Mass General Brigham (MGB), and Parkland Health (PH).",
+      "citation_number": 6,
+      "ref_text": "Haas JS, Cheng D, Yu L, . Variation in the receipt of human papilloma virus co-testing for cervical screening: individual, provider, facility and healthcare system characteristics. Prev Med. 2022;154:106871. doi:10.1016/j.ypmed.2021.10687134762966 PMC8724456",
+      "doi": "10.1016/j.ypmed.2021.106871",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The PROSPR II Cervical Consortium evaluates cervical cancer screening processes by contributing data to the METRICS (Multi-level Optimization of the Cervical Cancer Screening Process in Diverse Settings and Populations) cohort.[6],[18] The PROSPR II consortium includes Kaiser Permanente Washington (KPWA), Mass General Brigham (MGB), and Parkland Health (PH).",
+      "citation_number": 18,
+      "ref_text": "Kamineni A, Tiro JA, Beaber EF, ; PROSPR consortium. Cervical cancer screening research in the PROSPR I consortium: rationale, methods and baseline findings from a US cohort. Int J Cancer. 2019;144(6):1460-1473. doi:10.1002/ijc.3194030353911 PMC6941787",
+      "doi": "10.1002/ijc.31940",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These 3 systems and their respective patient populations have been described previously.[6],[18] In terms of cervical screening practices, the systems differed in adoption of cotesting during the cohort period: 2013 for MGB, 2016 for KPWA, and Papanicolaou test alone was preferred for PH.[6] The systems had no specific programs to reach out to patients with HPV-positive results and NILM cytologic findings other than documenting recommendation for annual cotesting in the test result report and progress notes.",
+      "citation_number": 6,
+      "ref_text": "Haas JS, Cheng D, Yu L, . Variation in the receipt of human papilloma virus co-testing for cervical screening: individual, provider, facility and healthcare system characteristics. Prev Med. 2022;154:106871. doi:10.1016/j.ypmed.2021.10687134762966 PMC8724456",
+      "doi": "10.1016/j.ypmed.2021.106871",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These 3 systems and their respective patient populations have been described previously.[6],[18] In terms of cervical screening practices, the systems differed in adoption of cotesting during the cohort period: 2013 for MGB, 2016 for KPWA, and Papanicolaou test alone was preferred for PH.[6] The systems had no specific programs to reach out to patients with HPV-positive results and NILM cytologic findings other than documenting recommendation for annual cotesting in the test result report and progress notes.",
+      "citation_number": 18,
+      "ref_text": "Kamineni A, Tiro JA, Beaber EF, ; PROSPR consortium. Cervical cancer screening research in the PROSPR I consortium: rationale, methods and baseline findings from a US cohort. Int J Cancer. 2019;144(6):1460-1473. doi:10.1002/ijc.3194030353911 PMC6941787",
+      "doi": "10.1002/ijc.31940",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Electronic health record (EHR), administrative data, and state or regional cancer registries were used to identify sociodemographic information, health care use, cytologic and HPV test dates and results, procedure dates and results, pregnancy status, and cancer diagnoses prior to the index result, as reported by Feldman et al.[11] Screen-eligible patients aged 21 to 65 years entered the analytic cohort at the first qualifying abnormal result (index) from January 2010 to August 2018, with surveillance ascertained through December 2019 (ie, all analytic cohort members had 16 months to receive the first subsequent surveillance test).",
+      "citation_number": 11,
+      "ref_text": "Feldman S, Lykken JM, Haas JS, . Factors associated with timely colposcopy following an abnormal cervical cancer test result. Prev Med. 2022;164:107307. doi:10.1016/j.ypmed.2022.10730736270434 PMC9808794",
+      "doi": "10.1016/j.ypmed.2022.107307",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Qualifying abnormal results included NILM cytologic findings and positive results for a pool of 12 to 14 high-risk HPV genotypes (ie, assay may include 16/18 genotypes in the pool); if the assay specifically tested for HPV-16/18 and findings were positive, we excluded those patients because the guidelines recommend immediate colposcopy.[3] Race and ethnicity were obtained from documentation in the EHR (Hispanic or Latine; non-Hispanic African American or Black, Asian, White; multiple races and other [including Native Hawaiian or Pacific Islander, Native American or Alaska Native, other race, multiple non-Hispanic races]; and unknown) and were assessed in this study to examine variation in completion of recommended surveillance.",
+      "citation_number": 3,
+      "ref_text": "Perkins RB, Guido RS, Castle PE, ; 2019 ASCCP Risk-Based Management Consensus Guidelines Committee. 2019 ASCCP risk-based management consensus guidelines for abnormal cervical cancer screening tests and cancer precursors. J Low Genit Tract Dis. 2020;24(2):102-131. doi:10.1097/LGT.000000000000052532243307 PMC7147428",
+      "doi": "10.1097/LGT.0000000000000525",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Because ASCCP guidelines recommend annual surveillance, we noted if tests or procedures were received before month 11 (ie, early), and we allowed testing up to month 16 (ie, buffer or grace period).[19] At the end of round 1 surveillance, we classified cohort members as tested (whether HPV-negative result and NILM cytologic finding or abnormal result), untested (ie, no follow-up), or exited the cohort.",
+      "citation_number": 19,
+      "ref_text": "Perkins RB, Adcock R, Benard V, ; New Mexico HPV Pap Registry (NMHPVPR) Steering Committee. Clinical follow-up practices after cervical cancer screening by co-testing: a population-based study of adherence to U.S. guideline recommendations. Prev Med. 2021;153:106770. doi:10.1016/j.ypmed.2021.10677034416221 PMC8595756",
+      "doi": "10.1016/j.ypmed.2021.106770",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "During round 1 surveillance, many patients were untested despite remaining enrolled (overall: 49.4% [6505]; across sites: 39.0% [1395] to 69.4% [2043]), and fewer patients exited the cohort without being tested (overall: 6.9% [908]; across sites: 0.2% [12] to 24.6% [879]).",
+      "citation_number": 12,
+      "ref_text": "Tosteson AN, Beaber EF, Tiro J, ; PROSPR consortium. Variation in screening abnormality rates and follow-up of breast, cervical and colorectal cancer screening within the PROSPR consortium. J Gen Intern Med. 2016;31(4):372-379. doi:10.1007/s11606-015-3552-726658934 PMC4803707",
+      "doi": "10.1007/s11606-015-3552-7",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "During round 1 surveillance, many patients were untested despite remaining enrolled (overall: 49.4% [6505]; across sites: 39.0% [1395] to 69.4% [2043]), and fewer patients exited the cohort without being tested (overall: 6.9% [908]; across sites: 0.2% [12] to 24.6% [879]).",
+      "citation_number": 879,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "During round 1 surveillance, many patients were untested despite remaining enrolled (overall: 49.4% [6505]; across sites: 39.0% [1395] to 69.4% [2043]), and fewer patients exited the cohort without being tested (overall: 6.9% [908]; across sites: 0.2% [12] to 24.6% [879]).",
+      "citation_number": 908,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "During round 1 surveillance, many patients were untested despite remaining enrolled (overall: 49.4% [6505]; across sites: 39.0% [1395] to 69.4% [2043]), and fewer patients exited the cohort without being tested (overall: 6.9% [908]; across sites: 0.2% [12] to 24.6% [879]).",
+      "citation_number": 1395,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "During round 1 surveillance, many patients were untested despite remaining enrolled (overall: 49.4% [6505]; across sites: 39.0% [1395] to 69.4% [2043]), and fewer patients exited the cohort without being tested (overall: 6.9% [908]; across sites: 0.2% [12] to 24.6% [879]).",
+      "citation_number": 2043,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "During round 1 surveillance, many patients were untested despite remaining enrolled (overall: 49.4% [6505]; across sites: 39.0% [1395] to 69.4% [2043]), and fewer patients exited the cohort without being tested (overall: 6.9% [908]; across sites: 0.2% [12] to 24.6% [879]).",
+      "citation_number": 6505,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "Across systems, the proportion of patients initially untested in round 1 surveillance, who remained untested through the end of the cohort period, was 40.4% (2629); across sites, PH had the highest proportion untested (50.6% [1034]).",
+      "citation_number": 1034,
+      "status": "reference_not_in_list"
+    },
+    {
+      "sentence": "The distribution of HPV-positive results and NILM cytologic findings across calendar years reflects differences in adoption of cotesting.[6] The proportion tested varied substantially, with KPWA unable to track surveillance receipt for 25.5% due to patient disenrollment from the health plan, and PH showing 69.4% untested rate after 16 months, with no indication that patients exited the system.",
+      "citation_number": 6,
+      "ref_text": "Haas JS, Cheng D, Yu L, . Variation in the receipt of human papilloma virus co-testing for cervical screening: individual, provider, facility and healthcare system characteristics. Prev Med. 2022;154:106871. doi:10.1016/j.ypmed.2021.10687134762966 PMC8724456",
+      "doi": "10.1016/j.ypmed.2021.106871",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This challenge may have serious consequences given that these patients have a 0.55% to 3.99% 5-year risk of developing CIN3 or worse.[16] Our findings are similar to those of the New Mexico HPV Pap Registry[19] and other countries with organized cancer screening programs (eg, England and Australia),[20],[21] with differences that are potentially attributable to evaluation design.",
+      "citation_number": 16,
+      "ref_text": "Egemen D, Cheung LC, Chen X, . Risk estimates supporting the 2019 ASCCP risk-based management consensus guidelines. J Low Genit Tract Dis. 2020;24(2):132-143. doi:10.1097/LGT.000000000000052932243308 PMC7147417",
+      "doi": "10.1097/LGT.0000000000000529",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This challenge may have serious consequences given that these patients have a 0.55% to 3.99% 5-year risk of developing CIN3 or worse.[16] Our findings are similar to those of the New Mexico HPV Pap Registry[19] and other countries with organized cancer screening programs (eg, England and Australia),[20],[21] with differences that are potentially attributable to evaluation design.",
+      "citation_number": 19,
+      "ref_text": "Perkins RB, Adcock R, Benard V, ; New Mexico HPV Pap Registry (NMHPVPR) Steering Committee. Clinical follow-up practices after cervical cancer screening by co-testing: a population-based study of adherence to U.S. guideline recommendations. Prev Med. 2021;153:106770. doi:10.1016/j.ypmed.2021.10677034416221 PMC8595756",
+      "doi": "10.1016/j.ypmed.2021.106770",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This challenge may have serious consequences given that these patients have a 0.55% to 3.99% 5-year risk of developing CIN3 or worse.[16] Our findings are similar to those of the New Mexico HPV Pap Registry[19] and other countries with organized cancer screening programs (eg, England and Australia),[20],[21] with differences that are potentially attributable to evaluation design.",
+      "citation_number": 20,
+      "ref_text": "Rebolj M, Cuschieri K, Mathews CS, Pesola F, Denton K, Kitchener H; HPV Pilot Steering Group. Extension of cervical screening intervals with primary human papillomavirus testing: observational study of English screening pilot data. BMJ. 2022;377:e068776. doi:10.1136/bmj-2021-06877635640960 PMC9153243",
+      "doi": "10.1136/bmj-2021-068776",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This challenge may have serious consequences given that these patients have a 0.55% to 3.99% 5-year risk of developing CIN3 or worse.[16] Our findings are similar to those of the New Mexico HPV Pap Registry[19] and other countries with organized cancer screening programs (eg, England and Australia),[20],[21] with differences that are potentially attributable to evaluation design.",
+      "citation_number": 21,
+      "ref_text": "Smith MA, Sherrah M, Sultana F, . National experience in the first two years of primary human papillomavirus (HPV) cervical screening in an HPV vaccinated population in Australia: observational study. BMJ. 2022;376:e068582. doi:10.1136/bmj-2021-06858235354610 PMC8965648",
+      "doi": "10.1136/bmj-2021-068582",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The other studies[20],[21] reported that 29% to 36% of patients were retested.",
+      "citation_number": 20,
+      "ref_text": "Rebolj M, Cuschieri K, Mathews CS, Pesola F, Denton K, Kitchener H; HPV Pilot Steering Group. Extension of cervical screening intervals with primary human papillomavirus testing: observational study of English screening pilot data. BMJ. 2022;377:e068776. doi:10.1136/bmj-2021-06877635640960 PMC9153243",
+      "doi": "10.1136/bmj-2021-068776",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The other studies[20],[21] reported that 29% to 36% of patients were retested.",
+      "citation_number": 21,
+      "ref_text": "Smith MA, Sherrah M, Sultana F, . National experience in the first two years of primary human papillomavirus (HPV) cervical screening in an HPV vaccinated population in Australia: observational study. BMJ. 2022;376:e068582. doi:10.1136/bmj-2021-06858235354610 PMC8965648",
+      "doi": "10.1136/bmj-2021-068582",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Australian participants received these results at different times during the 2-year observation period; thus, the requisite retesting time of 12 months had not yet elapsed for many participants (ie, underestimate of program delivery).[21] Analysis of the English program[20] showed the proportion of patients retesting increased from 36% at 1 year to 45% at 2 years.",
+      "citation_number": 20,
+      "ref_text": "Rebolj M, Cuschieri K, Mathews CS, Pesola F, Denton K, Kitchener H; HPV Pilot Steering Group. Extension of cervical screening intervals with primary human papillomavirus testing: observational study of English screening pilot data. BMJ. 2022;377:e068776. doi:10.1136/bmj-2021-06877635640960 PMC9153243",
+      "doi": "10.1136/bmj-2021-068776",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Australian participants received these results at different times during the 2-year observation period; thus, the requisite retesting time of 12 months had not yet elapsed for many participants (ie, underestimate of program delivery).[21] Analysis of the English program[20] showed the proportion of patients retesting increased from 36% at 1 year to 45% at 2 years.",
+      "citation_number": 21,
+      "ref_text": "Smith MA, Sherrah M, Sultana F, . National experience in the first two years of primary human papillomavirus (HPV) cervical screening in an HPV vaccinated population in Australia: observational study. BMJ. 2022;376:e068582. doi:10.1136/bmj-2021-06858235354610 PMC8965648",
+      "doi": "10.1136/bmj-2021-068582",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In New Mexico, approximately 51% of patients were untested after 18 months.[19] In terms of outcomes, Smith et al[21] found that 60.9% of participants continued to have other high-risk HPV-positive results at retest and were subsequently recommended to receive a colposcopy.",
+      "citation_number": 19,
+      "ref_text": "Perkins RB, Adcock R, Benard V, ; New Mexico HPV Pap Registry (NMHPVPR) Steering Committee. Clinical follow-up practices after cervical cancer screening by co-testing: a population-based study of adherence to U.S. guideline recommendations. Prev Med. 2021;153:106770. doi:10.1016/j.ypmed.2021.10677034416221 PMC8595756",
+      "doi": "10.1016/j.ypmed.2021.106770",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In New Mexico, approximately 51% of patients were untested after 18 months.[19] In terms of outcomes, Smith et al[21] found that 60.9% of participants continued to have other high-risk HPV-positive results at retest and were subsequently recommended to receive a colposcopy.",
+      "citation_number": 21,
+      "ref_text": "Smith MA, Sherrah M, Sultana F, . National experience in the first two years of primary human papillomavirus (HPV) cervical screening in an HPV vaccinated population in Australia: observational study. BMJ. 2022;376:e068582. doi:10.1136/bmj-2021-06858235354610 PMC8965648",
+      "doi": "10.1136/bmj-2021-068582",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Qualitative data collected from the METRICS cohort sites reveal that EHRs are not built to easily document prior screening history, support tracking of patients under surveillance (eg, patient care registry functionality[22],[23]), or alert clinicians when patients are overdue for an annual surveillance cotest (unpublished data from interviews with clinicians and staff; personal email communication with R.",
+      "citation_number": 22,
+      "ref_text": "Miller RS, Mitchell K, Myslinski R, Rising J. Chapter 1: health information technology (IT) and patient registries. In: Gliklich RE, Leavy MB, Dreyer NA, eds. Tools and Technologies for Registry Interoperability, Registries for Evaluating Patient Outcomes: A User's Guide. 3rd Edition, Addendum 2. Agency for Healthcare Research and Quality; 2019.31891455",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.23970/ahrqepcregistries3addendum2",
+        "title": "Tools and Technologies for Registry Interoperability, 2nd addendum of Registries for Evaluating Patient Outcomes, A User's Guide, 3rd ed",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 1.0,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Qualitative data collected from the METRICS cohort sites reveal that EHRs are not built to easily document prior screening history, support tracking of patients under surveillance (eg, patient care registry functionality[22],[23]), or alert clinicians when patients are overdue for an annual surveillance cotest (unpublished data from interviews with clinicians and staff; personal email communication with R.",
+      "citation_number": 23,
+      "ref_text": "Ehrenstein V, Kharrazi H, Lehmann H, Taylor CO. Chapter 4: obtaining data from electronic health records. In: Gliklich RE, Leavy MB, Dreyer NA, . Tools and Technologies for Registry Interoperability, Registries for Evaluating Patient Outcomes: A User's Guide. 3rd Edition, Addendum 2. Agency for Healthcare Research and Quality; 2019.31891455",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.23970/ahrqepcregistries3addendum2",
+        "title": "Tools and Technologies for Registry Interoperability, 2nd addendum of Registries for Evaluating Patient Outcomes, A User's Guide, 3rd ed",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 1.0,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Analysis of the METRICS cohort suggests implementation of effective interventions similar to those in the studies by Atlas et al[24] and Paskett et al[25] are needed to track, remind, and engage patients with this particular abnormal test result.",
+      "citation_number": 24,
+      "ref_text": "Atlas SJ, Tosteson ANA, Wright A, . A multilevel primary care intervention to improve follow-up of overdue abnormal cancer screening test results: a cluster randomized clinical trial. JAMA. 2023;330(14):1348-1358. doi:10.1001/jama.2023.1875537815566 PMC10565610",
+      "doi": "10.1001/jama.2023.18755",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Analysis of the METRICS cohort suggests implementation of effective interventions similar to those in the studies by Atlas et al[24] and Paskett et al[25] are needed to track, remind, and engage patients with this particular abnormal test result.",
+      "citation_number": 25,
+      "ref_text": "Paskett ED, Dudley D, Young GS, ; PNRP Investigators. Impact of patient navigation interventions on timely diagnostic follow up for abnormal cervical screening. J Womens Health (Larchmt). 2016;25(1):15-21. doi:10.1089/jwh.2014.509426625131 PMC4741208",
+      "doi": "10.1089/jwh.2014.5094",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "First, health care delivery is fragmented.[26] We observed approximately 25% of cohort members disenrolled in 1 system.",
+      "citation_number": 26,
+      "ref_text": "Doty MM, Tikkanen R, Shah A, Schneider EC. Primary care physicians’ role in coordinating medical and health-related social needs in eleven countries. Health Aff (Millwood). 2020;39(1):115-123. doi:10.1377/hlthaff.2019.0108831821045",
+      "doi": "10.1377/hlthaff.2019.01088",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Churn in health insurance plays a role in the movement between health care systems, making access to and tracking of consistent care difficult.[27] Second, limited transportability of records across systems[28],[29],[30] and inconsistent availability of health information exchanges across regions[31],[32] rendered it difficult to fully identify who received timely care after an abnormal result.",
+      "citation_number": 27,
+      "ref_text": "Sugar S, Peters C, De Leew N, Sommers BD. Medicaid churning and continuity of care: evidence and policy considerations before and after the COVID-19 pandemic. Issue Brief No. HP-2021-10. Office of the Assistant Secretary for Planning and Evaluation, U.S. Department of Health and Human Services. April 12, 2021. Accessed November 1, 2024. https://aspe.hhs.gov/sites/default/files/private/pdf/265366/medicaid-churning-ib.pdf",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.3886/icpsr08683",
+        "title": "National Long Term Care Channeling Evaluation, 1982-1984",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.25,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Churn in health insurance plays a role in the movement between health care systems, making access to and tracking of consistent care difficult.[27] Second, limited transportability of records across systems[28],[29],[30] and inconsistent availability of health information exchanges across regions[31],[32] rendered it difficult to fully identify who received timely care after an abnormal result.",
+      "citation_number": 28,
+      "ref_text": "Conderino S, Bendik S, Richards TB, . The use of electronic health records to inform cancer surveillance efforts: a scoping review and test of indicators for public health surveillance of cancer prevention and control. BMC Med Inform Decis Mak. 2022;22(1):91. doi:10.1186/s12911-022-01831-835387655 PMC8985310",
+      "doi": "10.1186/s12911-022-01831-8",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Churn in health insurance plays a role in the movement between health care systems, making access to and tracking of consistent care difficult.[27] Second, limited transportability of records across systems[28],[29],[30] and inconsistent availability of health information exchanges across regions[31],[32] rendered it difficult to fully identify who received timely care after an abnormal result.",
+      "citation_number": 29,
+      "ref_text": "Kruse CS, Stein A, Thomas H, Kaur H. The use of electronic health records to support population health: a systematic review of the literature. J Med Syst. 2018;42(11):214. doi:10.1007/s10916-018-1075-630269237 PMC6182727",
+      "doi": "10.1007/s10916-018-1075-6",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Churn in health insurance plays a role in the movement between health care systems, making access to and tracking of consistent care difficult.[27] Second, limited transportability of records across systems[28],[29],[30] and inconsistent availability of health information exchanges across regions[31],[32] rendered it difficult to fully identify who received timely care after an abnormal result.",
+      "citation_number": 30,
+      "ref_text": "Ross MK, Sanz J, Tep B, Follett R, Soohoo SL, Bell DS. Accuracy of an electronic health record patient linkage module evaluated between neighboring academic health care centers. Appl Clin Inform. 2020;11(5):725-732. doi:10.1055/s-0040-171837433147645 PMC7641664",
+      "doi": "10.1055/s-0040-1718374",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Churn in health insurance plays a role in the movement between health care systems, making access to and tracking of consistent care difficult.[27] Second, limited transportability of records across systems[28],[29],[30] and inconsistent availability of health information exchanges across regions[31],[32] rendered it difficult to fully identify who received timely care after an abnormal result.",
+      "citation_number": 31,
+      "ref_text": "Devine EB, Totten AM, Gorman P, . Health information exchange use (1990-2015): a systematic review. EGEMS (Wash DC). 2017;5(1):27. doi:10.5334/egems.24929881743 PMC5983051",
+      "doi": "10.5334/egems.249",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Churn in health insurance plays a role in the movement between health care systems, making access to and tracking of consistent care difficult.[27] Second, limited transportability of records across systems[28],[29],[30] and inconsistent availability of health information exchanges across regions[31],[32] rendered it difficult to fully identify who received timely care after an abnormal result.",
+      "citation_number": 32,
+      "ref_text": "Payne TH, Lovis C, Gutteridge C, . Status of health information exchange: a comparison of six countries. J Glob Health. 2019;9(2):0204279. doi:10.7189/jogh.09.02042731673351 PMC6815656",
+      "doi": "10.7189/jogh.09.020427",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Care delivery is further complicated when applying guidelines under conditions of uncertainty; 38% of individuals had unknown screening history prior to their index abnormal result.[5] Cervical outcome data over longer follow-up periods are needed to elucidate the consequences of low adherence to guidelines and barriers to surveillance, especially because fragmentation may increase cervical cancer disparities.",
+      "citation_number": 5,
+      "ref_text": "Tiro JA. Reflections on the shift from average to risk-based cancer screening. Paper presented at: 48th Annual Meeting of the American Society of Preventive Oncology; March 18, 2024; Chicago, Illinois.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/0091-7435(86)90075-7",
+        "title": "Abstract of Paper Presented at the 10th Annual Meeting of the American Society of Preventive Oncology",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.8,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Regions with robust health information exchanges should explore the likelihood of receiving timely surveillance at another health care system and expand measurement beyond population-based screening.[33] Second, the index HPV-positive result and NILM cytologic finding may not have been a patient’s first sign of HPV infection.",
+      "citation_number": 33,
+      "ref_text": "Bhattacharyya O, Rawl SM, Dickinson SL, Haggstrom DA. Comparison of health information exchange data with self-report in measuring cancer screening. BMC Med Res Methodol. 2023;23(1):172. doi:10.1186/s12874-023-01907-737491208 PMC10367403",
+      "doi": "10.1186/s12874-023-01907-7",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "paper": "PMC11707635",
+  "source_file": "pmcid:11707635",
+  "generated": "2026-07-01T13:28:12.888675+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "unresolved_reference": 3,
+    "dry_run_skipped": 44,
+    "no_abstract_found": 3
+  },
+  "flagged": [
+    {
+      "sentence": "In 2020, 1 in 7 adolescents globally experienced mental health issues, accounting for 13% of the global burden of morbidity in this age group.[1] A study[2] involving 7 519 465 children and 5 338 496 adolescents from the TriNetX Research Network revealed significant mental health distress following SARS-CoV-2 infection in youth.",
+      "citation_number": 1,
+      "ref_text": "Mental health of adolescents. World Health Organization. Accessed March 16, 2024. https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.2471/b09131",
+        "title": "WHO advocacy strategy for mental health, brain health and substance use",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.43,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "The increase in social inequalities manifests in many factors, including decreased family-social cohesion, poverty, and altered dietary behavior, resulting not only in increased obesity but also in a deterioration of their mental health.[15],[16] The increasingly early and prolonged exposure to screens, and more specifically, social media,[17] increases the risk of isolation, addiction, cyberbullying, sedentariness, and impaired self-esteem.[18] The climate crisis inducing eco-anxiety[19] contributes to making young people more vulnerable to mental health issues with a decrease in confidence in their future.[20] However, there is a lack of national and recent data about the association of these combined factors on the mental health of young people.",
+      "citation_number": 15,
+      "ref_text": "Costello A, Clark H, Kobia M, Martinez J. Adolescents have not been well served by responses to the pandemic and the climate crisis. BMJ. 2021;375:n2649. doi:10.1136/bmj.n264934728465",
+      "doi": "10.1136/bmj.n2649",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "As done in previous works, data from the SNDS are anonymized and can be reused for research purposes.[22] According to the French law,[22] informed consent from its participants was waived, and the study was declared to the French National Data Protection Commission.",
+      "citation_number": 22,
+      "ref_text": "Boyer L, Fond G, Gauci MO, Boussat B. Regulation of medical research in France: striking the balance between requirements and complexity. Rev Epidemiol Sante Publique. 2023;71(4):102126. doi:10.1016/j.respe.2023.10212637451779",
+      "doi": "10.1016/j.respe.2023.102126",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "On the contrary, the disorganization of care and the sharp decrease in the number of mental health professionals[41] should have rather led to a decrease or stagnation in prescriptions.",
+      "citation_number": 41,
+      "ref_text": "La Pédopsychiatrie: un accès et une offre de soins à réorganiser. Cour des comptes. Accessed November 19, 2024. https://www.ccomptes.fr/system/files/2023-03/20230321-pedopsychiatrie.pdf",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.3917/jpe.026.0550",
+        "title": "Cour des comptes, La pédopsychiatrie. Un accès et une offre de soins à réorganiser , mars 2023, rapport accessible sur le site internet de la Cour des comptes : www.ccomptes.fr",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.67,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "However, the increase in prescriptions of clozapine from the age of 6 years suggests an early onset of first psychotic episodes, with suicidal ideation being the main indication for clozapine among youth, which otherwise is used not much due to adverse effect burden and monitoring requirements.[44] This finding may indicate a worsening in the severity of early schizophrenia among young people following the COVID-19 pandemic, which had not returned to previous baseline metrics yet.",
+      "citation_number": 44,
+      "ref_text": "Chapman CL, Large MM. Should clozapine be available to people with early schizophrenia and suicidal ideation? Aust N Z J Psychiatry. 2015;49(4):393. doi:10.1177/000486741456319325526942",
+      "doi": "10.1177/0004867414563193",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "However, the medical demographic crisis in France, with a 34% decrease in the number of child psychiatrists between 2010 and 2022,[41] making access to mental health care for children and adolescents increasingly difficult, tends to indicate an alarming deterioration in mental health of young women in France.",
+      "citation_number": 41,
+      "ref_text": "La Pédopsychiatrie: un accès et une offre de soins à réorganiser. Cour des comptes. Accessed November 19, 2024. https://www.ccomptes.fr/system/files/2023-03/20230321-pedopsychiatrie.pdf",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.3917/jpe.026.0550",
+        "title": "Cour des comptes, La pédopsychiatrie. Un accès et une offre de soins à réorganiser , mars 2023, rapport accessible sur le site internet de la Cour des comptes : www.ccomptes.fr",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.67,
+        "confident": false
+      }
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "In 2020, 1 in 7 adolescents globally experienced mental health issues, accounting for 13% of the global burden of morbidity in this age group.[1] A study[2] involving 7 519 465 children and 5 338 496 adolescents from the TriNetX Research Network revealed significant mental health distress following SARS-CoV-2 infection in youth.",
+      "citation_number": 1,
+      "ref_text": "Mental health of adolescents. World Health Organization. Accessed March 16, 2024. https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.2471/b09131",
+        "title": "WHO advocacy strategy for mental health, brain health and substance use",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.43,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "In 2020, 1 in 7 adolescents globally experienced mental health issues, accounting for 13% of the global burden of morbidity in this age group.[1] A study[2] involving 7 519 465 children and 5 338 496 adolescents from the TriNetX Research Network revealed significant mental health distress following SARS-CoV-2 infection in youth.",
+      "citation_number": 2,
+      "ref_text": "Zhang-James Y, Clay JWS, Aber RB, Gamble HM, Faraone SV. Post-COVID-19 mental health distress in 13 million youth: a retrospective cohort study of electronic health records. J Am Acad Child Adolesc Psychiatry. 2024;0:S0890-8567(24)00263-6. doi:10.1016/j.jaac.2024.03.02338815620",
+      "doi": "10.1016/j.jaac.2024.03.023",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This was compounded by the implementation of COVID-19 pandemic-associated measures, such as school closures, social distancing guidelines, and the state of emergency status.[3] Most of the findings have focused on the increase in anxiety and depression disorders.[4],[5] A 2020 systematic review[6] of the psychological impact of COVID-19–related quarantine indicated that individuals experience an array of adverse effects, including anger, confusion, and posttraumatic stress symptoms.",
+      "citation_number": 3,
+      "ref_text": "DeVylder J, Yamaguchi S, Hosozawa M, . Adolescent psychotic experiences before and during the COVID-19 pandemic: a prospective cohort study. J Child Psychol Psychiatry. 2023;65(6):776-784. doi:10.1111/jcpp.1390737953733",
+      "doi": "10.1111/jcpp.13907",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This was compounded by the implementation of COVID-19 pandemic-associated measures, such as school closures, social distancing guidelines, and the state of emergency status.[3] Most of the findings have focused on the increase in anxiety and depression disorders.[4],[5] A 2020 systematic review[6] of the psychological impact of COVID-19–related quarantine indicated that individuals experience an array of adverse effects, including anger, confusion, and posttraumatic stress symptoms.",
+      "citation_number": 4,
+      "ref_text": "Orban E, Li LY, Gilbert M, . Mental health and quality of life in children and adolescents during the COVID-19 pandemic: a systematic review of longitudinal studies. Front Public Health. 2024;11:1275917. doi:10.3389/fpubh.2023.127591738259801 PMC10800626",
+      "doi": "10.3389/fpubh.2023.1275917",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This was compounded by the implementation of COVID-19 pandemic-associated measures, such as school closures, social distancing guidelines, and the state of emergency status.[3] Most of the findings have focused on the increase in anxiety and depression disorders.[4],[5] A 2020 systematic review[6] of the psychological impact of COVID-19–related quarantine indicated that individuals experience an array of adverse effects, including anger, confusion, and posttraumatic stress symptoms.",
+      "citation_number": 5,
+      "ref_text": "Wu Z, Liu Z, Zou Z, . Changes of psychotic-like experiences and their association with anxiety/depression among young adolescents before COVID-19 and after the lockdown in China. Schizophr Res. 2021;237:40-46. doi:10.1016/j.schres.2021.08.02034481204 PMC8437585",
+      "doi": "10.1016/j.schres.2021.08.020",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This was compounded by the implementation of COVID-19 pandemic-associated measures, such as school closures, social distancing guidelines, and the state of emergency status.[3] Most of the findings have focused on the increase in anxiety and depression disorders.[4],[5] A 2020 systematic review[6] of the psychological impact of COVID-19–related quarantine indicated that individuals experience an array of adverse effects, including anger, confusion, and posttraumatic stress symptoms.",
+      "citation_number": 6,
+      "ref_text": "Brooks SK, Webster RK, Smith LE, . The psychological impact of quarantine and how to reduce it: rapid review of the evidence. Lancet. 2020;395(10227):912-920. doi:10.1016/S0140-6736(20)30460-832112714 PMC7158942",
+      "doi": "10.1016/S0140-6736(20)30460-8",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Danish youths experienced an increase in rates of psychotropic treatment and psychiatric disorder diagnoses during the COVID-19 pandemic, which was most pronounced among those aged 12 to 17 years.[7] In Spain, the increase of suicide attempts in girls was especially prominent from September 2020 to March 2021 during the early pandemic period, where the increase reached 195%.[8] Attentional and psychotic disorders also appear to be affected.",
+      "citation_number": 7,
+      "ref_text": "Bliddal M, Rasmussen L, Andersen JH, . Psychotropic medication use and psychiatric disorders during the COVID-19 pandemic among Danish children, adolescents, and young adults. JAMA Psychiatry. 2023;80(2):176-180. doi:10.1001/jamapsychiatry.2022.416536515919 PMC9856810",
+      "doi": "10.1001/jamapsychiatry.2022.4165",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Danish youths experienced an increase in rates of psychotropic treatment and psychiatric disorder diagnoses during the COVID-19 pandemic, which was most pronounced among those aged 12 to 17 years.[7] In Spain, the increase of suicide attempts in girls was especially prominent from September 2020 to March 2021 during the early pandemic period, where the increase reached 195%.[8] Attentional and psychotic disorders also appear to be affected.",
+      "citation_number": 8,
+      "ref_text": "Gracia R, Pamias M, Mortier P, Alonso J, Pérez V, Palao D. Is the COVID-19 pandemic a risk factor for suicide attempts in adolescent girls? J Affect Disord. 2021;292:139-141. doi:10.1016/j.jad.2021.05.04434119869 PMC8777066",
+      "doi": "10.1016/j.jad.2021.05.044",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Psychotic-like experiences, including hallucinations, delusions, disorganized thinking or speech, and social withdrawal, are experienced by 40% to 66% of community adolescents and have received increased attention as some studies have suggested continuity between these experiences and psychotic disorders.[9],[10],[11] In Japan[3] and China,[12] adolescents experienced a rapid increase in psychotic experiences at the onset of the COVID-19 pandemic.",
+      "citation_number": 3,
+      "ref_text": "DeVylder J, Yamaguchi S, Hosozawa M, . Adolescent psychotic experiences before and during the COVID-19 pandemic: a prospective cohort study. J Child Psychol Psychiatry. 2023;65(6):776-784. doi:10.1111/jcpp.1390737953733",
+      "doi": "10.1111/jcpp.13907",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Psychotic-like experiences, including hallucinations, delusions, disorganized thinking or speech, and social withdrawal, are experienced by 40% to 66% of community adolescents and have received increased attention as some studies have suggested continuity between these experiences and psychotic disorders.[9],[10],[11] In Japan[3] and China,[12] adolescents experienced a rapid increase in psychotic experiences at the onset of the COVID-19 pandemic.",
+      "citation_number": 9,
+      "ref_text": "Lee KW, Chan KW, Chang WC, Lee EHM, Hui CLM, Chen EYH. A systematic review on definitions and assessments of psychotic-like experiences. Early Interv Psychiatry. 2016;10(1):3-16. doi:10.1111/eip.1222825772746",
+      "doi": "10.1111/eip.12228",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Psychotic-like experiences, including hallucinations, delusions, disorganized thinking or speech, and social withdrawal, are experienced by 40% to 66% of community adolescents and have received increased attention as some studies have suggested continuity between these experiences and psychotic disorders.[9],[10],[11] In Japan[3] and China,[12] adolescents experienced a rapid increase in psychotic experiences at the onset of the COVID-19 pandemic.",
+      "citation_number": 10,
+      "ref_text": "Gregersen M, Møllegaard Jepsen JR, Rohd SB, . Developmental pathways and clinical outcomes of early childhood psychotic experiences in preadolescent children at familial high risk of schizophrenia or bipolar disorder: a prospective, longitudinal cohort study—The Danish High Risk and Resilience Study, VIA 11. Am J Psychiatry. 2022;179(9):628-639. doi:10.1176/appi.ajp.2110107636048497",
+      "doi": "10.1176/appi.ajp.21101076",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Psychotic-like experiences, including hallucinations, delusions, disorganized thinking or speech, and social withdrawal, are experienced by 40% to 66% of community adolescents and have received increased attention as some studies have suggested continuity between these experiences and psychotic disorders.[9],[10],[11] In Japan[3] and China,[12] adolescents experienced a rapid increase in psychotic experiences at the onset of the COVID-19 pandemic.",
+      "citation_number": 11,
+      "ref_text": "Ellersgaard D, Jessica Plessen K, Richardt Jepsen J, . Psychopathology in 7-year-old children with familial high risk of developing schizophrenia spectrum psychosis or bipolar disorder—The Danish High Risk and Resilience Study, VIA 7, a population-based cohort study. World Psychiatry. 2018;17(2):210-219. doi:10.1002/wps.2052729856544 PMC5980633",
+      "doi": "10.1002/wps.20527",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Psychotic-like experiences, including hallucinations, delusions, disorganized thinking or speech, and social withdrawal, are experienced by 40% to 66% of community adolescents and have received increased attention as some studies have suggested continuity between these experiences and psychotic disorders.[9],[10],[11] In Japan[3] and China,[12] adolescents experienced a rapid increase in psychotic experiences at the onset of the COVID-19 pandemic.",
+      "citation_number": 12,
+      "ref_text": "Wang D, Zhou L, Chen C, Sun M. Psychotic-like experiences during COVID-19 lockdown among adolescents: prevalence, risk and protective factors. Schizophr Res. 2023;252:309-316. doi:10.1016/j.schres.2023.01.02736706476 PMC9868397",
+      "doi": "10.1016/j.schres.2023.01.027",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Trends indicating a deterioration in mental health of the youth were already identified before the COVID-19 pandemic.[13] Beginning in the 2010s, these trends have primarily been concentrated among adolescents and youth.[14] Several factors may explain why young people are particularly exposed.",
+      "citation_number": 13,
+      "ref_text": "Barksdale CL, Hill LD, Jean-Francois B, A National Institutes of Health approach for advancing research to improve youth mental health and reduce disparities. J Am Acad Child Adolesc Psychiatry. 2024;63(5):490-499. doi:10.1016/j.jaac.2023.09.55338272351",
+      "doi": "10.1016/j.jaac.2023.09.553",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Trends indicating a deterioration in mental health of the youth were already identified before the COVID-19 pandemic.[13] Beginning in the 2010s, these trends have primarily been concentrated among adolescents and youth.[14] Several factors may explain why young people are particularly exposed.",
+      "citation_number": 14,
+      "ref_text": "Aftab A, Druss BG. Addressing the mental health crisis in youth-sick individuals or sick societies? JAMA Psychiatry. 2023;80(9):863-864. doi:10.1001/jamapsychiatry.2023.129837342020",
+      "doi": "10.1001/jamapsychiatry.2023.1298",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "The increase in social inequalities manifests in many factors, including decreased family-social cohesion, poverty, and altered dietary behavior, resulting not only in increased obesity but also in a deterioration of their mental health.[15],[16] The increasingly early and prolonged exposure to screens, and more specifically, social media,[17] increases the risk of isolation, addiction, cyberbullying, sedentariness, and impaired self-esteem.[18] The climate crisis inducing eco-anxiety[19] contributes to making young people more vulnerable to mental health issues with a decrease in confidence in their future.[20] However, there is a lack of national and recent data about the association of these combined factors on the mental health of young people.",
+      "citation_number": 15,
+      "ref_text": "Costello A, Clark H, Kobia M, Martinez J. Adolescents have not been well served by responses to the pandemic and the climate crisis. BMJ. 2021;375:n2649. doi:10.1136/bmj.n264934728465",
+      "doi": "10.1136/bmj.n2649",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "The increase in social inequalities manifests in many factors, including decreased family-social cohesion, poverty, and altered dietary behavior, resulting not only in increased obesity but also in a deterioration of their mental health.[15],[16] The increasingly early and prolonged exposure to screens, and more specifically, social media,[17] increases the risk of isolation, addiction, cyberbullying, sedentariness, and impaired self-esteem.[18] The climate crisis inducing eco-anxiety[19] contributes to making young people more vulnerable to mental health issues with a decrease in confidence in their future.[20] However, there is a lack of national and recent data about the association of these combined factors on the mental health of young people.",
+      "citation_number": 16,
+      "ref_text": "Petridi E, Karatzi K, Magriplis E, Charidemou E, Philippou E, Zampelas A. The impact of ultra-processed foods on obesity and cardiometabolic comorbidities in children and adolescents: a systematic review. Nutr Rev. 2023;82(7):913-928.37550263 10.1093/nutrit/nuad095",
+      "doi": "10.1093/nutrit/nuad095",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The increase in social inequalities manifests in many factors, including decreased family-social cohesion, poverty, and altered dietary behavior, resulting not only in increased obesity but also in a deterioration of their mental health.[15],[16] The increasingly early and prolonged exposure to screens, and more specifically, social media,[17] increases the risk of isolation, addiction, cyberbullying, sedentariness, and impaired self-esteem.[18] The climate crisis inducing eco-anxiety[19] contributes to making young people more vulnerable to mental health issues with a decrease in confidence in their future.[20] However, there is a lack of national and recent data about the association of these combined factors on the mental health of young people.",
+      "citation_number": 17,
+      "ref_text": "Bozzola E, Spina G, Agostiniani R, . The use of social media in children and adolescents: scoping review on the potential risks. Int J Environ Res Public Health. 2022;19(16):9960. doi:10.3390/ijerph1916996036011593 PMC9407706",
+      "doi": "10.3390/ijerph19169960",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The increase in social inequalities manifests in many factors, including decreased family-social cohesion, poverty, and altered dietary behavior, resulting not only in increased obesity but also in a deterioration of their mental health.[15],[16] The increasingly early and prolonged exposure to screens, and more specifically, social media,[17] increases the risk of isolation, addiction, cyberbullying, sedentariness, and impaired self-esteem.[18] The climate crisis inducing eco-anxiety[19] contributes to making young people more vulnerable to mental health issues with a decrease in confidence in their future.[20] However, there is a lack of national and recent data about the association of these combined factors on the mental health of young people.",
+      "citation_number": 18,
+      "ref_text": "Liu Y, Zhang E, Li H, . Physical activity, recreational screen time, and depressive symptoms among Chinese children and adolescents: a three-wave cross-lagged study during the COVID-19 pandemic. Child Adolesc Psychiatry Ment Health. 2024;18(1):11. doi:10.1186/s13034-024-00705-338243299 PMC10799442",
+      "doi": "10.1186/s13034-024-00705-3",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The increase in social inequalities manifests in many factors, including decreased family-social cohesion, poverty, and altered dietary behavior, resulting not only in increased obesity but also in a deterioration of their mental health.[15],[16] The increasingly early and prolonged exposure to screens, and more specifically, social media,[17] increases the risk of isolation, addiction, cyberbullying, sedentariness, and impaired self-esteem.[18] The climate crisis inducing eco-anxiety[19] contributes to making young people more vulnerable to mental health issues with a decrease in confidence in their future.[20] However, there is a lack of national and recent data about the association of these combined factors on the mental health of young people.",
+      "citation_number": 19,
+      "ref_text": "Hickman C, Marks E, Pihkala P, . Climate anxiety in children and young people and their beliefs about government responses to climate change: a global survey. Lancet Planet Health. 2021;5(12):e863-e873. doi:10.1016/S2542-5196(21)00278-334895496",
+      "doi": "10.1016/S2542-5196(21)00278-3",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The increase in social inequalities manifests in many factors, including decreased family-social cohesion, poverty, and altered dietary behavior, resulting not only in increased obesity but also in a deterioration of their mental health.[15],[16] The increasingly early and prolonged exposure to screens, and more specifically, social media,[17] increases the risk of isolation, addiction, cyberbullying, sedentariness, and impaired self-esteem.[18] The climate crisis inducing eco-anxiety[19] contributes to making young people more vulnerable to mental health issues with a decrease in confidence in their future.[20] However, there is a lack of national and recent data about the association of these combined factors on the mental health of young people.",
+      "citation_number": 20,
+      "ref_text": "Usher C. Eco-anxiety. J Am Acad Child Adolesc Psychiatry. 2022;61:341-342. doi:10.1016/j.jaac.2021.11.02034856339",
+      "doi": "10.1016/j.jaac.2021.11.020",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We conducted a population-based trend study using aggregated data from the French National Health Insurance Database (SNDS),[21] encompassing all individuals from birth to 25 years.",
+      "citation_number": 21,
+      "ref_text": "Tuppin P, Rudant J, Constantinou P, . Value of a national administrative database to guide public decisions: From the système national d’information interrégimes de l’Assurance Maladie (SNIIRAM) to the système national des données de santé (SNDS) in France. Rev Epidemiol Sante Publique. 2017;65(suppl 4):S149-S167. doi:10.1016/j.respe.2017.05.00428756037",
+      "doi": "10.1016/j.respe.2017.05.004",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "As done in previous works, data from the SNDS are anonymized and can be reused for research purposes.[22] According to the French law,[22] informed consent from its participants was waived, and the study was declared to the French National Data Protection Commission.",
+      "citation_number": 22,
+      "ref_text": "Boyer L, Fond G, Gauci MO, Boussat B. Regulation of medical research in France: striking the balance between requirements and complexity. Rev Epidemiol Sante Publique. 2023;71(4):102126. doi:10.1016/j.respe.2023.10212637451779",
+      "doi": "10.1016/j.respe.2023.102126",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "This study adheres to the Reporting of Studies Conducted Using Observational Routinely Collected Health Data (RECORD) Statement.[23] The study period, from January 1, 2016, to June 30, 2023, was divided into 2 distinct periods: (1) a pre–COVID-19 pandemic period from January 2016 to February 2020, and (2) the COVID-19 pandemic and the post–COVID-19 period from March 2020 to June 2023.",
+      "citation_number": 23,
+      "ref_text": "Benchimol EI, Smeeth L, Guttmann A, ; RECORD Working Committee. The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement. PLoS Med. 2015;12(10):e1001885. doi:10.1371/journal.pmed.100188526440803 PMC4595218",
+      "doi": "10.1371/journal.pmed.1001885",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Next, we used an ITS regression analyses, modeling the rate of patients per 1000 persons per month using Quasi-Poisson regression models to account for overdispersion.[24] These models used the number of patients per month as the dependent variable and the population log (overall or across age and sex strata according to the analysis) as the offset variable.",
+      "citation_number": 24,
+      "ref_text": "Bernal JL, Cummins S, Gasparrini A. Interrupted time series regression for the evaluation of public health interventions: a tutorial. Int J Epidemiol. 2017;46(1):348-355.27283160 10.1093/ije/dyw098PMC5407170",
+      "doi": "10.1093/ije/dyw098",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "To address residual autocorrelation, we used Newey–West standard errors for coefficients, which are robust to deviations from homoscedasticity and autocorrelation (with the lag length automatically computed from the method).[25] We estimated the relative risk (RR) and 95% CIs for the immediate change at the breakpoint (step change), and the slopes before and after the COVID-19 pandemic.",
+      "citation_number": 25,
+      "ref_text": "Zeileis A. Econometric computing with HC and HAC covariance matrix estimators. J Stat Softw. 2004;11. doi:10.18637/jss.v011.i10",
+      "doi": "10.18637/jss.v011.i10",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "This trend aligned with studies indicating that COVID-19 infection and lockdowns have had biological and societal impacts on the mental health of the youth[26],[27] with the outcomes of a recent meta-analysis, which identified female sex as a risk factor for experiencing mental health complications during epidemics, including the COVID-19 pandemic.[27] People with preexisting mental health symptoms were also identified as being at greater risk of developing post–COVID complications,[28] which can also explain in part our results for women.",
+      "citation_number": 26,
+      "ref_text": "Strawn JR, Mills JA, Schroeder HK, Neptune ZA, Specht A, Keeshin SW. The impact of COVID-19 infection and characterization of long COVID in adolescents with anxiety disorders: a prospective longitudinal study. J Am Acad Child Adolesc Psychiatry. 2023;62(7):707-709. doi:10.1016/j.jaac.2022.12.02736828133 PMC9943534",
+      "doi": "10.1016/j.jaac.2022.12.027",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This trend aligned with studies indicating that COVID-19 infection and lockdowns have had biological and societal impacts on the mental health of the youth[26],[27] with the outcomes of a recent meta-analysis, which identified female sex as a risk factor for experiencing mental health complications during epidemics, including the COVID-19 pandemic.[27] People with preexisting mental health symptoms were also identified as being at greater risk of developing post–COVID complications,[28] which can also explain in part our results for women.",
+      "citation_number": 27,
+      "ref_text": "Yuan K, Zheng YB, Wang YJ, . A systematic review and meta-analysis on prevalence of and risk factors associated with depression, anxiety and insomnia in infectious diseases, including COVID-19: a call to action. Mol Psychiatry. 2022;27(8):3214-3222. doi:10.1038/s41380-022-01638-z35668158 PMC9168354",
+      "doi": "10.1038/s41380-022-01638-z",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This trend aligned with studies indicating that COVID-19 infection and lockdowns have had biological and societal impacts on the mental health of the youth[26],[27] with the outcomes of a recent meta-analysis, which identified female sex as a risk factor for experiencing mental health complications during epidemics, including the COVID-19 pandemic.[27] People with preexisting mental health symptoms were also identified as being at greater risk of developing post–COVID complications,[28] which can also explain in part our results for women.",
+      "citation_number": 28,
+      "ref_text": "Wang S, Quan L, Chavarro JE, . Associations of depression, anxiety, worry, perceived stress, and loneliness prior to infection with risk of post-COVID-19 conditions. JAMA Psychiatry. 2022;79(11):1081-1091. doi:10.1001/jamapsychiatry.2022.264036069885 PMC9453634",
+      "doi": "10.1001/jamapsychiatry.2022.2640",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The role of social media in the increased suicidal behavior in young girls was currently questioned.[29],[30],[31] Social media has become a primary forum for interpersonal engagement in adolescence—a developmental period when social contact was rapidly rising and becoming increasingly important to well-being—making this an area of significant potential influence and importance.[32] Another key feature of social media was the amount of time adolescents spend engaged with it and the fact that it makes social contact available almost without limits.",
+      "citation_number": 29,
+      "ref_text": "Luby J, Kertz S. Increasing suicide rates in early adolescent girls in the United States and the equalization of sex disparity in suicide: the need to investigate the role of social media. JAMA Netw Open. 2019;2(5):e193916. doi:10.1001/jamanetworkopen.2019.391631099856",
+      "doi": "10.1001/jamanetworkopen.2019.3916",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "The role of social media in the increased suicidal behavior in young girls was currently questioned.[29],[30],[31] Social media has become a primary forum for interpersonal engagement in adolescence—a developmental period when social contact was rapidly rising and becoming increasingly important to well-being—making this an area of significant potential influence and importance.[32] Another key feature of social media was the amount of time adolescents spend engaged with it and the fact that it makes social contact available almost without limits.",
+      "citation_number": 30,
+      "ref_text": "Brailovskaia J, Krasavtseva Y, Kochetkov Y, Tour P, Margraf J. Social media use, mental health, and suicide-related outcomes in Russian women: a cross-sectional comparison between two age groups. Womens Health (Lond). Published online December 12, 2022. doi:10.1177/1745505722114129236510444 PMC9751176",
+      "doi": "10.1177/17455057221141292",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The role of social media in the increased suicidal behavior in young girls was currently questioned.[29],[30],[31] Social media has become a primary forum for interpersonal engagement in adolescence—a developmental period when social contact was rapidly rising and becoming increasingly important to well-being—making this an area of significant potential influence and importance.[32] Another key feature of social media was the amount of time adolescents spend engaged with it and the fact that it makes social contact available almost without limits.",
+      "citation_number": 31,
+      "ref_text": "Twenge JM, Joiner TE, Rogers ML, Martin GN. Increases in depressive symptoms, suicide-related outcomes, and suicide rates among US adolescents after 2010 and links to increased new media screen time. Clin Psychol Sci. 2018;6:3-17. doi:10.1177/2167702617723376",
+      "doi": "10.1177/2167702617723376",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "The role of social media in the increased suicidal behavior in young girls was currently questioned.[29],[30],[31] Social media has become a primary forum for interpersonal engagement in adolescence—a developmental period when social contact was rapidly rising and becoming increasingly important to well-being—making this an area of significant potential influence and importance.[32] Another key feature of social media was the amount of time adolescents spend engaged with it and the fact that it makes social contact available almost without limits.",
+      "citation_number": 32,
+      "ref_text": "Alho J, Gutvilig M, Niemi R, . Transmission of mental disorders in adolescent peer networks. JAMA Psychiatry. 2024;81(9):882-888. doi:10.1001/jamapsychiatry.2024.112638776092 PMC11112494",
+      "doi": "10.1001/jamapsychiatry.2024.1126",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These features and secular trends strongly suggest that social media should be a key target of interest for the trends reported in suicidality in youth.[31] Compared with boys, girls’ social media use may be more frequent[33] more exposed to cyberbullying[34] and likely to result in interpersonal stress, a common factor associated with suicide attempts[35] and depression.[33] Girls with depression elicit more negative responses from peers on social media compared with boys with depression.[36] Longitudinal latent profiles of aggressive and impulsive behaviors were associated with increased suicide attempts in females but not in males,[37] which may explain the sex differences in our results.",
+      "citation_number": 31,
+      "ref_text": "Twenge JM, Joiner TE, Rogers ML, Martin GN. Increases in depressive symptoms, suicide-related outcomes, and suicide rates among US adolescents after 2010 and links to increased new media screen time. Clin Psychol Sci. 2018;6:3-17. doi:10.1177/2167702617723376",
+      "doi": "10.1177/2167702617723376",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "These features and secular trends strongly suggest that social media should be a key target of interest for the trends reported in suicidality in youth.[31] Compared with boys, girls’ social media use may be more frequent[33] more exposed to cyberbullying[34] and likely to result in interpersonal stress, a common factor associated with suicide attempts[35] and depression.[33] Girls with depression elicit more negative responses from peers on social media compared with boys with depression.[36] Longitudinal latent profiles of aggressive and impulsive behaviors were associated with increased suicide attempts in females but not in males,[37] which may explain the sex differences in our results.",
+      "citation_number": 33,
+      "ref_text": "Kelly Y, Zilanawala A, Booker C, Sacker A. Social media use and adolescent mental health: findings from the UK millennium cohort study. EClinicalMedicine. 2019;6:59-68. doi:10.1016/j.eclinm.2018.12.00531193561 PMC6537508",
+      "doi": "10.1016/j.eclinm.2018.12.005",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These features and secular trends strongly suggest that social media should be a key target of interest for the trends reported in suicidality in youth.[31] Compared with boys, girls’ social media use may be more frequent[33] more exposed to cyberbullying[34] and likely to result in interpersonal stress, a common factor associated with suicide attempts[35] and depression.[33] Girls with depression elicit more negative responses from peers on social media compared with boys with depression.[36] Longitudinal latent profiles of aggressive and impulsive behaviors were associated with increased suicide attempts in females but not in males,[37] which may explain the sex differences in our results.",
+      "citation_number": 34,
+      "ref_text": "Kim S, Colwell SR, Kata A, Boyle MH, Georgiades K. Cyberbullying victimization and adolescent mental health: evidence of differential effects by sex and mental health problem type. J Youth Adolesc. 2018;47(3):661-672. doi:10.1007/s10964-017-0678-428434092",
+      "doi": "10.1007/s10964-017-0678-4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These features and secular trends strongly suggest that social media should be a key target of interest for the trends reported in suicidality in youth.[31] Compared with boys, girls’ social media use may be more frequent[33] more exposed to cyberbullying[34] and likely to result in interpersonal stress, a common factor associated with suicide attempts[35] and depression.[33] Girls with depression elicit more negative responses from peers on social media compared with boys with depression.[36] Longitudinal latent profiles of aggressive and impulsive behaviors were associated with increased suicide attempts in females but not in males,[37] which may explain the sex differences in our results.",
+      "citation_number": 35,
+      "ref_text": "Akkaya-Kalayci T, Kapusta ND, Winkler D, Kothgassner OD, Popow C, Özlü-Erkilic Z. Triggers for attempted suicide in Istanbul youth, with special reference to their socio-demographic background. Int J Psychiatry Clin Pract. 2018;22(2):95-100. doi:10.1080/13651501.2017.137610028899223",
+      "doi": "10.1080/13651501.2017.1376100",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These features and secular trends strongly suggest that social media should be a key target of interest for the trends reported in suicidality in youth.[31] Compared with boys, girls’ social media use may be more frequent[33] more exposed to cyberbullying[34] and likely to result in interpersonal stress, a common factor associated with suicide attempts[35] and depression.[33] Girls with depression elicit more negative responses from peers on social media compared with boys with depression.[36] Longitudinal latent profiles of aggressive and impulsive behaviors were associated with increased suicide attempts in females but not in males,[37] which may explain the sex differences in our results.",
+      "citation_number": 36,
+      "ref_text": "Ehrenreich SE, Underwood MK. Adolescents’ internalizing symptoms as predictors of the content of their Facebook communication and responses received from peers. Transl Issues Psychol Sci. 2016;2(3):227-237. doi:10.1037/tps000007728083544 PMC5222594",
+      "doi": "10.1037/tps0000077",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These features and secular trends strongly suggest that social media should be a key target of interest for the trends reported in suicidality in youth.[31] Compared with boys, girls’ social media use may be more frequent[33] more exposed to cyberbullying[34] and likely to result in interpersonal stress, a common factor associated with suicide attempts[35] and depression.[33] Girls with depression elicit more negative responses from peers on social media compared with boys with depression.[36] Longitudinal latent profiles of aggressive and impulsive behaviors were associated with increased suicide attempts in females but not in males,[37] which may explain the sex differences in our results.",
+      "citation_number": 37,
+      "ref_text": "Musci RJ, Ballard ED, Stapp EK, Adams L, Wilcox HC, Ialongo N. Suicide attempt endophenotypes: Latent profiles of child and adolescent aggression and impulsivity differentially predict suicide attempt in females. Prev Med Rep. 2022;28:101829. doi:10.1016/j.pmedr.2022.10182935620051 PMC9126944",
+      "doi": "10.1016/j.pmedr.2022.101829",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Suicide attempt admission was associated with the long-term risk of eating disorder hospitalization in adolescent girls.[38] Other factors, such as family cohesion, a parent’s loss of employment during the COVID-19 pandemic, poverty, and additional elements, may also be considered.",
+      "citation_number": 38,
+      "ref_text": "Soullane S, Israël M, Steiger H, . Association of hospitalization for suicide attempts in adolescent girls with subsequent hospitalization for eating disorders. Int J Eat Disord. 2023;56(12):2223-2231. doi:10.1002/eat.2405237646466",
+      "doi": "10.1002/eat.24052",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "For the specific case of methylphenidate (whose prescription was highly restricted in France and specific to attention deficit/hyperactivity disorder [ADHD] diagnosis, having been tightly regulated since 2002), the sharp increase in prescriptions among those aged 18 to 25 years after the pandemic may be explained by the increasing recognition of adult ADHD and through prolonged prescriptions of methylphenidate into adulthood.[39] The ADHD diagnosis among children and adolescents in France increased steadily by 96% between 2011 and 2019, and the number of children diagnosed with ADHD and hospitalized in France increased by 167% among those aged 12 to 17 years.[40] However, we cannot rule out the possibility that attention disorders were increasing across all population segments and that this phenomenon had been accelerated since the COVID-19 crisis.",
+      "citation_number": 39,
+      "ref_text": "Pauly V, Frauger E, Lepelley M, Mallaret M, Boucherie Q, Micallef J. Patterns and profiles of methylphenidate use both in children and adults. Br J Clin Pharmacol. 2018;84(6):1215-1227. doi:10.1111/bcp.1354429512177 PMC5980540",
+      "doi": "10.1111/bcp.13544",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "For the specific case of methylphenidate (whose prescription was highly restricted in France and specific to attention deficit/hyperactivity disorder [ADHD] diagnosis, having been tightly regulated since 2002), the sharp increase in prescriptions among those aged 18 to 25 years after the pandemic may be explained by the increasing recognition of adult ADHD and through prolonged prescriptions of methylphenidate into adulthood.[39] The ADHD diagnosis among children and adolescents in France increased steadily by 96% between 2011 and 2019, and the number of children diagnosed with ADHD and hospitalized in France increased by 167% among those aged 12 to 17 years.[40] However, we cannot rule out the possibility that attention disorders were increasing across all population segments and that this phenomenon had been accelerated since the COVID-19 crisis.",
+      "citation_number": 40,
+      "ref_text": "Ponnou S, Thomé B. ADHD diagnosis and methylphenidate consumption in children and adolescents: A systematic analysis of health databases in France over the period 2010-2019. Front Psychiatry. 2022;13:957242. doi:10.3389/fpsyt.2022.95724236299551 PMC9590284",
+      "doi": "10.3389/fpsyt.2022.957242",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "On the contrary, the disorganization of care and the sharp decrease in the number of mental health professionals[41] should have rather led to a decrease or stagnation in prescriptions.",
+      "citation_number": 41,
+      "ref_text": "La Pédopsychiatrie: un accès et une offre de soins à réorganiser. Cour des comptes. Accessed November 19, 2024. https://www.ccomptes.fr/system/files/2023-03/20230321-pedopsychiatrie.pdf",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.3917/jpe.026.0550",
+        "title": "Cour des comptes, La pédopsychiatrie. Un accès et une offre de soins à réorganiser , mars 2023, rapport accessible sur le site internet de la Cour des comptes : www.ccomptes.fr",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.67,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "This was consistent with the global increase in the incidence of bipolar disorder among adolescents and young adults.[42] Adverse stressful life events have been identified as the most prominent environmental risk factor for triggering bipolar disorder in adolescence.[43] Thus, the phenomenon existed before the COVID-19 pandemic but appeared to have been accelerated over the past 3 years.",
+      "citation_number": 42,
+      "ref_text": "Zhong Y, Chen Y, Su X, . Global, regional and national burdens of bipolar disorders in adolescents and young adults: a trend analysis from 1990 to 2019. Gen Psychiatr. 2024;37(1):e101255. doi:10.1136/gpsych-2023-10125538390238 PMC10882284",
+      "doi": "10.1136/gpsych-2023-101255",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This was consistent with the global increase in the incidence of bipolar disorder among adolescents and young adults.[42] Adverse stressful life events have been identified as the most prominent environmental risk factor for triggering bipolar disorder in adolescence.[43] Thus, the phenomenon existed before the COVID-19 pandemic but appeared to have been accelerated over the past 3 years.",
+      "citation_number": 43,
+      "ref_text": "Menculini G, Balducci PM, Attademo L, Bernardini F, Moretti P, Tortorella A. Environmental risk factors for bipolar disorders and high-risk states in adolescence: a systematic review. Medicina (Kaunas). 2020;56(12):689. doi:10.3390/medicina5612068933322430 PMC7763529",
+      "doi": "10.3390/medicina56120689",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "However, the increase in prescriptions of clozapine from the age of 6 years suggests an early onset of first psychotic episodes, with suicidal ideation being the main indication for clozapine among youth, which otherwise is used not much due to adverse effect burden and monitoring requirements.[44] This finding may indicate a worsening in the severity of early schizophrenia among young people following the COVID-19 pandemic, which had not returned to previous baseline metrics yet.",
+      "citation_number": 44,
+      "ref_text": "Chapman CL, Large MM. Should clozapine be available to people with early schizophrenia and suicidal ideation? Aust N Z J Psychiatry. 2015;49(4):393. doi:10.1177/000486741456319325526942",
+      "doi": "10.1177/0004867414563193",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "The increase in prescriptions observed for chlorpromazine (a first-generation antipsychotic) in all groups, but particularly noticeable from the age of 6 years, was likely explained by its potential benefits in protecting against severe COVID-19 infection.[45] This medication is also used for calming purposes, similar to loxapine and cyamemazine, which have also seen increased prescriptions in our results.",
+      "citation_number": 45,
+      "ref_text": "Stip E, Rizvi TA, Mustafa F, . The large action of chlorpromazine: translational and transdisciplinary considerations in the face of COVID-19. Front Pharmacol. 2020;11:577678. doi:10.3389/fphar.2020.57767833390948 PMC7772402",
+      "doi": "10.3389/fphar.2020.577678",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These medications may be more commonly used in children and adolescents because benzodiazepines were used more cautiously in this population due to the potential risk of disinhibition and voluntary medication overdose in the case of suicidal thoughts.[46] This is a possible explanation for the observed increase in the prescription of anxiolytics, particularly among children aged 6 to 12 years in our results.",
+      "citation_number": 46,
+      "ref_text": "Bushnell GA, Rynn MA, Gerhard T, . Drug overdose risk with benzodiazepine treatment in young adults: comparative analysis in privately and publicly insured individuals. Addiction. 2024;119(2):356-368. doi:10.1111/add.1635937816665 PMC10838605",
+      "doi": "10.1111/add.16359",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "However, the medical demographic crisis in France, with a 34% decrease in the number of child psychiatrists between 2010 and 2022,[41] making access to mental health care for children and adolescents increasingly difficult, tends to indicate an alarming deterioration in mental health of young women in France.",
+      "citation_number": 41,
+      "ref_text": "La Pédopsychiatrie: un accès et une offre de soins à réorganiser. Cour des comptes. Accessed November 19, 2024. https://www.ccomptes.fr/system/files/2023-03/20230321-pedopsychiatrie.pdf",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.3917/jpe.026.0550",
+        "title": "Cour des comptes, La pédopsychiatrie. Un accès et une offre de soins à réorganiser , mars 2023, rapport accessible sur le site internet de la Cour des comptes : www.ccomptes.fr",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.67,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Only a small proportion of mental disorders receive pharmacological treatment, especially among children and adolescents.[47] Similarly, the coding for suicide attempt may be underreported.",
+      "citation_number": 47,
+      "ref_text": "Khazanov GK, Cui L, Merikangas KR, Angst J. Treatment patterns of youth with bipolar disorder: results from the National Comorbidity Survey-Adolescent Supplement (NCS-A). J Abnorm Child Psychol. 2015;43(2):391-400. doi:10.1007/s10802-014-9885-624958307",
+      "doi": "10.1007/s10802-014-9885-6",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    }
+  ]
+}

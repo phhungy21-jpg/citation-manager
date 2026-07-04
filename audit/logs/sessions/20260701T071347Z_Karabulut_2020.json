@@ -1,0 +1,15 @@
+{
+  "paper": "Karabulut 2020.md",
+  "args": {
+    "manuscript": "..\\TEMP\\Karabulut 2020.md",
+    "limit": null,
+    "dry_run": true
+  },
+  "counts": {
+    "dry_run_skipped": 14,
+    "unresolved_reference": 8
+  },
+  "n_claims": 16,
+  "n_checks": 22,
+  "flags_output": "C:\\Users\\Hung\\Desktop\\citation-pipeline\\audit\\results\\flags\\Karabulut_2020.json"
+}

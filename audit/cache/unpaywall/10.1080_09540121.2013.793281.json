@@ -1,0 +1,145 @@
+{
+  "best_oa_location": {
+    "endpoint_id": "ac9de7698155b820de7",
+    "evidence": "deprecated",
+    "host_type": "repository",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2013-05-08",
+    "pmh_id": "oai:pubmedcentral.nih.gov:4279918",
+    "repository_institution": "National Institutes of Health",
+    "updated": "deprecated",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4279918",
+    "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/4279918",
+    "url_for_pdf": null,
+    "version": "submittedVersion"
+  },
+  "data_standard": 2,
+  "doi": "10.1080/09540121.2013.793281",
+  "doi_url": "https://doi.org/10.1080/09540121.2013.793281",
+  "first_oa_location": {
+    "endpoint_id": "ac9de7698155b820de7",
+    "evidence": "deprecated",
+    "host_type": "repository",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2013-05-08",
+    "pmh_id": "oai:pubmedcentral.nih.gov:4279918",
+    "repository_institution": "National Institutes of Health",
+    "updated": "deprecated",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4279918",
+    "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/4279918",
+    "url_for_pdf": null,
+    "version": "submittedVersion"
+  },
+  "genre": "journal-article",
+  "has_repository_copy": true,
+  "is_oa": true,
+  "is_paratext": false,
+  "journal_is_in_doaj": false,
+  "journal_is_oa": false,
+  "journal_issn_l": "0954-0121",
+  "journal_issns": "0954-0121,1360-0451",
+  "journal_name": "AIDS Care",
+  "oa_locations": [
+    {
+      "endpoint_id": "ac9de7698155b820de7",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": true,
+      "license": null,
+      "oa_date": "2013-05-08",
+      "pmh_id": "oai:pubmedcentral.nih.gov:4279918",
+      "repository_institution": "National Institutes of Health",
+      "updated": "deprecated",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4279918",
+      "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/4279918",
+      "url_for_pdf": null,
+      "version": "submittedVersion"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "oa_status": "green",
+  "published_date": "2013-05-08",
+  "publisher": "Informa UK Limited",
+  "title": "The impact of unstable housing on emergency department use in a cohort of HIV-positive people in a Canadian setting",
+  "updated": "2026-03-20T23:48:44Z",
+  "year": 2013,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "a BC Centre for Excellence in HIV/AIDS , St. Paul's Hospital , Vancouver , BC , Canada",
+        "Faculty of Health Sciences, Simon Fraser University, Burnaby, BC, Canada",
+        "BC Centre for Excellence in HIV/AIDS, St. Paul's Hospital, Vancouver, BC, Canada"
+      ],
+      "raw_author_name": "Surita Parashar"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "BC Centre for Excellence in HIV/AIDS, St. Paul's Hospital, Vancouver, BC, Canada"
+      ],
+      "raw_author_name": "Keith Chan"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "BC Centre for Excellence in HIV/AIDS, St. Paul's Hospital, Vancouver, BC, Canada"
+      ],
+      "raw_author_name": "David Milan"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Emergency Medicine, St. Paul's Hospital, Vancouver, BC, Canada; The Centre for Health Evaluation and Outcome Sciences, Providence Health Care, St. Paul's Hospital, Vancouver, BC, Canada; Department of Emergency Medicine, University of British Columbia, JPPN, Vancouver, BC, Canada",
+        "The Centre for Health Evaluation and Outcome Sciences, Providence Health Care, St. Paul's Hospital, Vancouver, BC, Canada",
+        "Department of Emergency Medicine, St. Paul's Hospital, Vancouver, BC, Canada",
+        "Department of Emergency Medicine, University of British Columbia, JPPN, Vancouver, BC, Canada"
+      ],
+      "raw_author_name": "Eric Grafstein"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "BC Centre for Excellence in HIV/AIDS, St. Paul's Hospital, Vancouver, BC, Canada; Faculty of Health Sciences, Simon Fraser University, Burnaby, BC, Canada",
+        "Faculty of Health Sciences, Simon Fraser University, Burnaby, BC, Canada",
+        "BC Centre for Excellence in HIV/AIDS, St. Paul's Hospital, Vancouver, BC, Canada"
+      ],
+      "raw_author_name": "Alexis K. Palmer"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "BC Centre for Excellence in HIV/AIDS, St. Paul's Hospital, Vancouver, BC, Canada"
+      ],
+      "raw_author_name": "Chelsey Rhodes"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "BC Centre for Excellence in HIV/AIDS, St. Paul's Hospital, Vancouver, BC, Canada; Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada",
+        "Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada",
+        "BC Centre for Excellence in HIV/AIDS, St. Paul's Hospital, Vancouver, BC, Canada"
+      ],
+      "raw_author_name": "Julio S.G. Montaner"
+    },
+    {
+      "author_position": "last",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "BC Centre for Excellence in HIV/AIDS, St. Paul's Hospital, Vancouver, BC, Canada; Faculty of Health Sciences, Simon Fraser University, Burnaby, BC, Canada",
+        "Faculty of Health Sciences, Simon Fraser University, Burnaby, BC, Canada",
+        "BC Centre for Excellence in HIV/AIDS, St. Paul's Hospital, Vancouver, BC, Canada"
+      ],
+      "raw_author_name": "Robert S. Hogg"
+    }
+  ]
+}

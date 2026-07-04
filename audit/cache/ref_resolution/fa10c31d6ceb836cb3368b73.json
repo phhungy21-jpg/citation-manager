@@ -1,0 +1,3034 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2026-06-29T06:37:11Z",
+      "timestamp": 1782715031985,
+      "version": "3.54.5"
+    },
+    "reference-count": 16,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1998,
+              12,
+              1
+            ]
+          ],
+          "date-time": "1998-12-01T00:00:00Z",
+          "timestamp": 912470400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "The Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1097/00005392-199812020-00010",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          11,
+          18
+        ]
+      ],
+      "date-time": "2003-11-18T19:02:31Z",
+      "timestamp": 1069182151000
+    },
+    "page": "2418-2424",
+    "source": "Crossref",
+    "is-referenced-by-count": 38,
+    "title": [
+      "ANATOMIC RADICAL PROSTATECTOMY"
+    ],
+    "prefix": "10.1097",
+    "author": [
+      {
+        "given": "PATRICK CRAIG",
+        "family": "WALSH",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "R1-10",
+        "first-page": "315",
+        "volume": "16",
+        "author": "Young",
+        "year": "1905",
+        "journal-title": "Johns Hopkins Hosp Bull"
+      },
+      {
+        "key": "R2-10",
+        "first-page": "ivingstone",
+        "volume": "L",
+        "author": "Millin",
+        "year": "1947",
+        "journal-title": "London"
+      },
+      {
+        "key": "R3-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "198",
+        "DOI": "10.1016/S0022-5347(17)56718-X",
+        "volume": "121",
+        "author": "Reiner",
+        "year": "1979",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R4-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R5-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1016/S0022-5347(17)48885-9",
+        "volume": "133",
+        "author": "Lepor",
+        "year": "1985",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R6-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1402",
+        "DOI": "10.1016/S0022-5347(17)43655-X",
+        "volume": "138",
+        "author": "Schlegel",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R8-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1002/aja.1001580211",
+        "volume": "158",
+        "author": "Oelrich",
+        "year": "1980",
+        "journal-title": "Amer J Anat"
+      },
+      {
+        "key": "R9-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "543",
+        "DOI": "10.1016/S0022-5347(17)43253-8",
+        "volume": "138",
+        "author": "Myers",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R10-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "679",
+        "DOI": "10.1016/S0094-0143(21)00980-0",
+        "volume": "17",
+        "author": "Walsh",
+        "year": "1990",
+        "journal-title": "Urol Clin N Amer"
+      },
+      {
+        "key": "R11-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1002/pros.2990040506",
+        "volume": "4",
+        "author": "Walsh",
+        "year": "1983",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "R13-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1016/S0094-0143(05)70386-4",
+        "volume": "24",
+        "author": "Pound",
+        "year": "1997",
+        "journal-title": "Urol Clin N Amer"
+      },
+      {
+        "key": "R14-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1016/S0022-5347(17)35410-1",
+        "volume": "150",
+        "author": "Partin",
+        "year": "1993",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R15-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "11733",
+        "DOI": "10.1073/pnas.91.24.11733",
+        "volume": "91",
+        "author": "Lee",
+        "year": "1994",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "R16-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "6319",
+        "DOI": "10.1073/pnas.89.14.6319",
+        "volume": "89",
+        "author": "Newmark",
+        "year": "1992",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "R17-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "8751",
+        "DOI": "10.1073/pnas.87.22.8751",
+        "volume": "87",
+        "author": "Carter",
+        "year": "1990",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "R18-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1371",
+        "DOI": "10.1126/science.274.5291.1371",
+        "volume": "274",
+        "author": "Smith",
+        "year": "1996",
+        "journal-title": "Science"
+      }
+    ],
+    "container-title": [
+      "The Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://journals.lww.com/00076734-199812020-00010",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          4
+        ]
+      ],
+      "date-time": "2022-03-04T19:05:29Z",
+      "timestamp": 1646420729000
+    },
+    "score": 58.34753,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.lww.com/00005392-199812020-00010"
+      }
+    },
+    "subtitle": [
+      "EVOLUTION OF THE SURGICAL TECHNIQUE"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    },
+    "references-count": 16,
+    "URL": "https://doi.org/10.1097/00005392-199812020-00010",
+    "ISSN": [
+      "0022-5347"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2023-09-13T16:29:33Z",
+      "timestamp": 1694622573245
+    },
+    "reference-count": 1,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1995,
+              12,
+              1
+            ]
+          ],
+          "date-time": "1995-12-01T00:00:00Z",
+          "timestamp": 817776000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "The Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1995,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1097/00005392-199512000-00040",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          11,
+          18
+        ]
+      ],
+      "date-time": "2003-11-18T20:31:12Z",
+      "timestamp": 1069187472000
+    },
+    "page": "2109",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Editorial Comment"
+    ],
+    "prefix": "10.1097",
+    "author": [
+      {
+        "given": "Patrick C.",
+        "family": "Walsh",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "R1-40",
+        "doi-asserted-by": "crossref",
+        "first-page": "226",
+        "DOI": "10.1046/j.1537-2995.1992.32392213805.x",
+        "volume": "32",
+        "author": "Ness",
+        "year": "1992",
+        "journal-title": "Transfusion"
+      }
+    ],
+    "container-title": [
+      "The Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://journals.lww.com/00076734-199512000-00040",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          4
+        ]
+      ],
+      "date-time": "2022-03-04T19:26:11Z",
+      "timestamp": 1646421971000
+    },
+    "score": 57.60062,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.lww.com/00005392-199512000-00040"
+      }
+    },
+    "subtitle": [
+      "Radical Retropubic Prostatectomy"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995,
+          12
+        ]
+      ]
+    },
+    "references-count": 1,
+    "URL": "https://doi.org/10.1097/00005392-199512000-00040",
+    "ISSN": [
+      "0022-5347"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1995,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          29
+        ]
+      ],
+      "date-time": "2026-01-29T22:41:31Z",
+      "timestamp": 1769726491238,
+      "version": "3.49.0"
+    },
+    "reference-count": 176,
+    "publisher": "Elsevier",
+    "isbn-type": [
+      {
+        "value": "9781416069119",
+        "type": "print"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "DOI": "10.1016/b978-1-4160-6911-9.00102-x",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2012-04-04T00:20:25Z",
+      "timestamp": 1333498825000
+    },
+    "page": "2801-2829.e4",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Radical Retropubic and Perineal Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "author": [
+      {
+        "given": "Edward M.",
+        "family": "Schaeffer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alan W.",
+        "family": "Partin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Herbert",
+        "family": "Lepor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Patrick C.",
+        "family": "Walsh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib156",
+        "doi-asserted-by": "crossref",
+        "first-page": "1840",
+        "DOI": "10.1097/01.ju.0000140912.45821.1d",
+        "article-title": "Anatomical extent of lymph node dissection: impact on men with clinically localized prostate cancer",
+        "volume": "172",
+        "author": "Allaf",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib157",
+        "doi-asserted-by": "crossref",
+        "first-page": "1071",
+        "DOI": "10.1111/j.1464-410X.2004.05106.x",
+        "article-title": "Anatomical studies of the neurovascular bundle and cavernosal nerves",
+        "volume": "94",
+        "author": "Costello",
+        "year": "2004",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib158",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1016/S0022-5347(17)48885-9",
+        "article-title": "Precise localization of the autonomic nerves from the pelvic plexus to the corpora cavernosa: a detailed anatomical study of the adult male pelvis",
+        "volume": "133",
+        "author": "Lepor",
+        "year": "1985",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib159",
+        "first-page": "1",
+        "article-title": "Radical prostatectomy. Pertinent surgical anatomy",
+        "volume": "2",
+        "author": "Myers",
+        "year": "1994",
+        "journal-title": "Atlas Urol Clin North Am"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib160",
+        "doi-asserted-by": "crossref",
+        "first-page": "2557",
+        "DOI": "10.1016/j.juro.2008.08.047",
+        "article-title": "High anterior release of the levator fascia improves sexual function following open radical retropubic prostatectomy",
+        "volume": "180",
+        "author": "Nielsen",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib161",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1016/j.urology.2004.02.035",
+        "article-title": "Preservation of accessory pudendal arteries during radical retropubic prostatectomy: surgical technique and results",
+        "volume": "64",
+        "author": "Rogers",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib162",
+        "doi-asserted-by": "crossref",
+        "first-page": "1032",
+        "DOI": "10.1097/01.ju.0000135648.33110.df",
+        "article-title": "Anatomical analysis of the neurovascular bundle supplying penile cavernous tissue to ensure a reliable nerve graft after radical prostatectomy",
+        "volume": "172",
+        "author": "Takenaka",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib163",
+        "doi-asserted-by": "crossref",
+        "first-page": "2418",
+        "DOI": "10.1016/S0022-5347(01)62202-X",
+        "article-title": "Anatomic radical prostatectomy: evolution of the surgical technique",
+        "volume": "160",
+        "author": "Walsh",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib164",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy: insight into etiology and prevention",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib165",
+        "author": "Walsh"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib166",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1002/pros.2990040506",
+        "article-title": "Radical prostatectomy with preservation of sexual function: anatomical and pathological considerations",
+        "volume": "4",
+        "author": "Walsh",
+        "year": "1983",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib167",
+        "doi-asserted-by": "crossref",
+        "first-page": "62",
+        "DOI": "10.1016/S0090-4295(99)00363-5",
+        "article-title": "Use of intraoperative video documentation to improve sexual function after radical retropubic prostatectomy",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib168",
+        "doi-asserted-by": "crossref",
+        "first-page": "163",
+        "DOI": "10.1016/S0022-5347(01)62088-3",
+        "article-title": "Radical perineal prostatectomy: oncological outcome during a 20-year period",
+        "volume": "161",
+        "author": "Iselin",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib169",
+        "doi-asserted-by": "crossref",
+        "first-page": "1445",
+        "DOI": "10.1001/jama.1997.03540420041027",
+        "article-title": "Combination of prostate-specific antigen, clinical stage, and Gleason score to predict pathological stage of localized prostate cancer",
+        "volume": "277",
+        "author": "Partin",
+        "year": "1997",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib170",
+        "doi-asserted-by": "crossref",
+        "first-page": "535",
+        "DOI": "10.1016/S0094-0143(05)70161-0",
+        "article-title": "Indications and contraindications for nerve-sparing radical prostatectomy",
+        "volume": "28",
+        "author": "Sokoloff",
+        "year": "2001",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib171",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/S0022-5347(17)41718-6",
+        "article-title": "Potency-sparing radical perineal prostatectomy: anatomy, surgical technique and initial results",
+        "volume": "140",
+        "author": "Weldon",
+        "year": "1988",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib172",
+        "doi-asserted-by": "crossref",
+        "first-page": "1470",
+        "DOI": "10.1016/S0022-5347(01)64245-9",
+        "article-title": "Continence, potency and morbidity after radical perineal prostatectomy",
+        "volume": "158",
+        "author": "Weldon",
+        "year": "1997",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1840",
+        "DOI": "10.1097/01.ju.0000140912.45821.1d",
+        "article-title": "Anatomical extent of lymph node dissection: impact on men with clinically localized prostate cancer",
+        "volume": "172",
+        "author": "Allaf",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/S0022-5347(17)36555-2",
+        "article-title": "Entubulization repair of severed cavernous nerves in the rat resulting in return of erectile function",
+        "volume": "148",
+        "author": "Ball",
+        "year": "1992",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "280",
+        "DOI": "10.1016/0022-4804(92)90048-5",
+        "article-title": "Microsurgical nerve graft repair of the ablated cavernosal nerves in the rat",
+        "volume": "53",
+        "author": "Ball",
+        "year": "1992",
+        "journal-title": "J Surg Res"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1144",
+        "DOI": "10.1093/jnci/djn255",
+        "article-title": "Scandinavian Prostate Cancer Group Study Number 4. Radical prostatectomy versus watchful waiting in localized prostate cancer: the Scandinavian prostate cancer group-4 randomized trial",
+        "volume": "20",
+        "author": "Bill-Axelson",
+        "year": "2008",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "905",
+        "DOI": "10.1016/S0022-5347(17)37418-9",
+        "article-title": "The management of rectal injury during radical retropubic prostatectomy",
+        "volume": "147",
+        "author": "Borland",
+        "year": "1992",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "202",
+        "DOI": "10.1159/000475052",
+        "article-title": "Bladder neck preservation following radical prostatectomy: continence and margins",
+        "volume": "28",
+        "author": "Braslis",
+        "year": "1995",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "437",
+        "DOI": "10.1016/S0022-5347(17)40789-0",
+        "article-title": "Detailed anatomy of penile neurovascular structures: surgical significance",
+        "volume": "41",
+        "author": "Breza",
+        "year": "1989",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1695",
+        "DOI": "10.1056/NEJMoa035451",
+        "article-title": "Subcutaneous fondaparinux versus intravenous unfractionated heparin in the initial treatment of pulmonary embolism",
+        "volume": "349",
+        "author": "Buller",
+        "year": "2003",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1016/S0022-5347(17)37825-4",
+        "article-title": "Nerve growth factor, nerve grafts and amniotic membrane grafts restore erectile function in rats",
+        "volume": "146",
+        "author": "Burgers",
+        "year": "1991",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1301",
+        "DOI": "10.1016/S0022-5347(01)62521-7",
+        "article-title": "In situ anatomical study of the male urethral sphincteric complex: relevance to continence preservation following major pelvic surgery",
+        "volume": "160",
+        "author": "Burnett",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "251",
+        "DOI": "10.1016/S0090-4295(97)00186-6",
+        "article-title": "Stage D1 (T1-3, N1-3, M0) prostate cancer: a case-controlled comparison of conservative treatment versus radical prostatectomy",
+        "volume": "50",
+        "author": "Cadeddu",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "839",
+        "DOI": "10.1016/S0094-0143(01)80039-2",
+        "article-title": "Cavermap-assisted sural nerve interposition graft during radical prostatectomy",
+        "volume": "28",
+        "author": "Canto",
+        "year": "2001",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1016/j.urology.2003.09.001",
+        "article-title": "Salvage prostatectomy in patients who have failed radiation therapy or cryotherapy as primary treatment for prostate cancer",
+        "volume": "62",
+        "author": "Chen",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "2164",
+        "DOI": "10.1002/(SICI)1097-0142(19981115)83:10<2164::AID-CNCR15>3.0.CO;2-I",
+        "article-title": "Predictors of survival for prostate carcinoma patients treated with salvage radical prostatectomy after radiation therapy",
+        "volume": "83",
+        "author": "Cheng",
+        "year": "1998",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1071",
+        "DOI": "10.1111/j.1464-410X.2004.05106.x",
+        "article-title": "Anatomical studies of the neurovascular bundle and cavernosal nerves",
+        "volume": "94",
+        "author": "Costello",
+        "year": "2004",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1967",
+        "DOI": "10.1161/01.CIR.103.15.1967",
+        "article-title": "Stent thrombosis in the modern era: a pooled analysis of multicenter coronary stent clinical trials",
+        "volume": "103",
+        "author": "Cutlip",
+        "year": "2001",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "712",
+        "DOI": "10.1016/j.urology.2004.05.006",
+        "article-title": "Delayed intraoperative hydration limits blood loss during radical retropubic prostatectomy",
+        "volume": "64",
+        "author": "Davies",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib9004",
+        "doi-asserted-by": "crossref",
+        "first-page": "1135",
+        "DOI": "10.1016/j.eururo.2008.08.051",
+        "article-title": "Randomized phase II trial evaluation of erectile function after attempted unilateral cavernous nerve-sparing retropubic radical prostatectomy with versus without unilateral sural nerve grafting for clinically localized prostate cancer",
+        "volume": "55",
+        "author": "Davis",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "855",
+        "DOI": "10.1016/S0090-4295(02)01956-8",
+        "article-title": "Radical prostatectomy: bladder neck preservation and puboprostatic ligament sparing—effects on continence and positive margins",
+        "volume": "60",
+        "author": "Deliveliotis",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "567",
+        "DOI": "10.1016/S0094-0143(05)70164-6",
+        "article-title": "Pathologic assessment of the surgical specimen",
+        "volume": "28",
+        "author": "Epstein",
+        "year": "2001",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "524",
+        "DOI": "10.1016/S0022-5347(17)72052-6",
+        "article-title": "Arterial distribution within prostate gland: its role in transurethral prostatic resection",
+        "volume": "37",
+        "author": "Flocks",
+        "year": "1937",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "950",
+        "DOI": "10.1016/S0022-5347(01)63778-9",
+        "article-title": "Androgen deprivation with salvage surgery for radiorecurrent prostate cancer: results at 5-year followup",
+        "volume": "159",
+        "author": "Garzotto",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "789",
+        "DOI": "10.1016/S0090-4295(98)00096-X",
+        "article-title": "Predictors for maximal outcome in patients undergoing salvage surgery for radio-recurrent prostate cancer",
+        "volume": "51",
+        "author": "Gheiler",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1016/S0090-4295(99)00534-8",
+        "article-title": "Blood use strategies in urologic surgery",
+        "volume": "55",
+        "author": "Gilbert",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "2103",
+        "DOI": "10.1016/S0022-5347(01)66706-5",
+        "article-title": "Radical retropubic prostatectomy: limited benefit of autologous blood donation",
+        "volume": "154",
+        "author": "Goad",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "734",
+        "DOI": "10.1016/j.jacc.2007.01.003",
+        "volume": "49",
+        "author": "Grines",
+        "year": "2007",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1767",
+        "DOI": "10.1016/S0022-5347(05)67538-6",
+        "article-title": "The pathophysiology of post-radical prostatectomy incontinence: a clinical and video urodynamic study",
+        "volume": "163",
+        "author": "Groutz",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1097/01.ju.0000098604.09395.27",
+        "article-title": "An evaluation of the decreasing incidence of positive surgical margins in a large retropubic prostatectomy series",
+        "volume": "171",
+        "author": "Han",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/S0094-0143(05)70163-4",
+        "article-title": "Long-term biochemical disease-free and cancer-specific survival following anatomic radical retropubic prostatectomy. The 15-year Johns Hopkins experience",
+        "volume": "28",
+        "author": "Han",
+        "year": "2001",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1181",
+        "DOI": "10.1016/S0022-5347(17)32534-X",
+        "article-title": "Postoperative bleeding following radical retropubic prostatectomy",
+        "volume": "152",
+        "author": "Hedican",
+        "year": "1994",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "446",
+        "DOI": "10.1097/01.ju.0000151135.80249.c9",
+        "article-title": "Radical retropubic prostatectomy. How often do experienced surgeons have positive surgical margins when there is extraprostatic extension in the region of the neurovascular bundle?",
+        "volume": "173",
+        "author": "Hernandez",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "781",
+        "DOI": "10.1056/NEJMoa012794",
+        "article-title": "A randomized trial comparing radical prostatectomy with watchful waiting in early prostate cancer",
+        "volume": "347",
+        "author": "Holmberg",
+        "year": "2002",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "561",
+        "DOI": "10.1016/S0090-4295(98)00541-X",
+        "article-title": "Urinary incontinence after non–nerve-sparing radical prostatectomy with neoadjuvant androgen deprivation",
+        "volume": "53",
+        "author": "Horie",
+        "year": "1999",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "911",
+        "DOI": "10.1111/j.1464-410X.2005.05437.x",
+        "article-title": "Radical retropubic prostatectomy: apical preparation and curtain dissection of the neurovascular bundle",
+        "volume": "95",
+        "author": "Horninger",
+        "year": "2005",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1034",
+        "DOI": "10.1016/S0022-5347(17)61201-1",
+        "article-title": "Radical prostatectomy in the management of carcinoma of the prostate: probable causes of some therapeutic failures",
+        "volume": "107",
+        "author": "Jewett",
+        "year": "1972",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "820",
+        "DOI": "10.1016/S0090-4295(00)00547-1",
+        "article-title": "Seminal vesicle-sparing radical prostatectomy: a novel concept to restore early urinary continence",
+        "volume": "55",
+        "author": "John",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/S0090-4295(00)00831-1",
+        "article-title": "Interposition sural nerve grafting during radical retropubic prostatectomy",
+        "volume": "57",
+        "author": "Kim",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "1950",
+        "DOI": "10.1016/S0022-5347(05)66248-9",
+        "article-title": "Bilateral nerve graft during radical retropubic prostatectomy: one-year followup",
+        "volume": "165",
+        "author": "Kim",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib9003",
+        "doi-asserted-by": "crossref",
+        "first-page": "983",
+        "DOI": "10.1016/S0090-4295(01)01403-0",
+        "article-title": "Bilateral nerve grafting during radical retropubic prostatectomy: extended follow-up",
+        "volume": "58",
+        "author": "Kim",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "188",
+        "DOI": "10.1016/S0022-5347(01)62093-7",
+        "article-title": "Interposition of sural nerve restores function of cavernous nerves resected during radical prostatectomy",
+        "volume": "161",
+        "author": "Kim",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "921",
+        "DOI": "10.1016/S0090-4295(01)00908-6",
+        "article-title": "Minimally invasive technique for sural nerve harvesting: technical description and follow-up",
+        "volume": "57",
+        "author": "Kim",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1016/S0022-5347(17)36519-9",
+        "article-title": "Early continence after radical prostatectomy",
+        "volume": "148",
+        "author": "Klein",
+        "year": "1992",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "1081",
+        "DOI": "10.1016/S0022-5347(01)65709-4",
+        "article-title": "Radical prostatectomy: is complete resection of the seminal vesicles really necessary?",
+        "volume": "156",
+        "author": "Korman",
+        "year": "1996",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1016/S0022-5347(17)48885-9",
+        "article-title": "Precise localization of the autonomic nerves from the pelvic plexus to the corpora cavernosa: a detailed anatomical study of the adult male pelvis",
+        "volume": "133",
+        "author": "Lepor",
+        "year": "1985",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "425",
+        "DOI": "10.1016/S0090-4295(01)01218-3",
+        "article-title": "Early removal of urinary catheter after radical retropubic prostatectomy is both feasible and desirable",
+        "volume": "58",
+        "author": "Lepor",
+        "year": "2001",
+        "journal-title": "Urol"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib44",
+        "doi-asserted-by": "crossref",
+        "first-page": "961",
+        "DOI": "10.1016/j.urology.2007.08.038",
+        "article-title": "Inguinal hernias in men undergoing open radical retropubic prostatectomy",
+        "volume": "70",
+        "author": "Lepor",
+        "year": "2007",
+        "journal-title": "Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib45",
+        "doi-asserted-by": "crossref",
+        "first-page": "883",
+        "DOI": "10.1016/S0090-4295(94)80175-4",
+        "article-title": "Impact of bladder neck preservation during radical prostatectomy on continence and cancer control",
+        "volume": "44",
+        "author": "Licht",
+        "year": "1994",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "964",
+        "DOI": "10.1016/S0022-5347(05)65874-0",
+        "article-title": "Inguinal hernia after radical retropubic prostatectomy for prostate cancer: a study of incidence and risk factors in comparison to no operation and lymphadenectomy",
+        "volume": "166",
+        "author": "Lodding",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib47",
+        "doi-asserted-by": "crossref",
+        "first-page": "889",
+        "DOI": "10.1016/S0090-4295(96)00324-X",
+        "article-title": "Comparison of bladder neck preservation to bladder neck resection in maintaining postprostatectomy urinary continence",
+        "volume": "48",
+        "author": "Lowe",
+        "year": "1996",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib48",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1016/S0022-5347(17)50344-4",
+        "article-title": "Neuroanatomy of penile erection: its relevance to iatrogenic impotence",
+        "volume": "131",
+        "author": "Lue",
+        "year": "1984",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib49",
+        "doi-asserted-by": "crossref",
+        "first-page": "904",
+        "DOI": "10.1016/S0090-4295(00)00451-9",
+        "article-title": "Bladder neck–sparing modification of radical prostatectomy adversely affects surgical margins in pathologic T3a prostate cancer",
+        "volume": "55",
+        "author": "Marcovich",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib50",
+        "doi-asserted-by": "crossref",
+        "first-page": "1217",
+        "DOI": "10.1111/j.1464-410X.2008.07511.x",
+        "article-title": "Modified technique for neurovascular bundle preservation during radical prostatectomy: association between technique and recovery of erectile function",
+        "volume": "101",
+        "author": "Masterson",
+        "year": "2008",
+        "journal-title": "BJU Int."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib51",
+        "doi-asserted-by": "crossref",
+        "first-page": "623",
+        "DOI": "10.1016/j.urology.2005.04.002",
+        "article-title": "Recovery of erectile function after salvage radical prostatectomy for locally recurrent prostate cancer after radiotherapy",
+        "volume": "66",
+        "author": "Masterson",
+        "year": "2005",
+        "journal-title": "Urology."
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib52",
+        "doi-asserted-by": "crossref",
+        "first-page": "270",
+        "DOI": "10.1016/S0022-5347(18)35155-3",
+        "article-title": "Prospective non-randomized comparison of standard nerve sparing and the “veil of Aphrodite”: analysis of postoperative potency using the international index of erectile function—5 questions",
+        "volume": "173",
+        "author": "Menon",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib53",
+        "doi-asserted-by": "crossref",
+        "first-page": "938",
+        "DOI": "10.1016/j.eururo.2005.09.004",
+        "article-title": "Improving the preservation of the urethral sphincter and neurovascular bundles during open radical retropubic prostatectomy",
+        "volume": "8",
+        "author": "Montorsi",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib54",
+        "doi-asserted-by": "crossref",
+        "first-page": "543",
+        "DOI": "10.1016/S0022-5347(17)43253-8",
+        "article-title": "Prostate shape, external striated urethral sphincter, and radical prostatectomy: the apical dissection",
+        "volume": "138",
+        "author": "Myers",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib55",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/S0094-0143(21)00989-7",
+        "article-title": "Male urethral sphincteric anatomy and radical prostatectomy",
+        "volume": "18",
+        "author": "Myers",
+        "year": "1991",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib56",
+        "first-page": "1",
+        "article-title": "Radical prostatectomy: pertinent surgical anatomy. Atlas",
+        "volume": "2",
+        "author": "Myers",
+        "year": "1994",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib57",
+        "doi-asserted-by": "crossref",
+        "first-page": "2225",
+        "DOI": "10.1097/01.ju.0000058213.15524.90",
+        "article-title": "Intraoperative nerve stimulation with measurement of urethral sphincter pressure changes during radical retropubic prostatectomy: a feasibility study",
+        "volume": "169",
+        "author": "Nelson",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib58",
+        "doi-asserted-by": "crossref",
+        "first-page": "2557",
+        "DOI": "10.1016/j.juro.2008.08.047",
+        "article-title": "High anterior release of the levator fascia improves sexual function following open radical retropubic prostatectomy",
+        "volume": "180",
+        "author": "Nielsen",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib59",
+        "doi-asserted-by": "crossref",
+        "first-page": "1034",
+        "DOI": "10.1016/j.urology.2005.05.028",
+        "article-title": "Systematic detection and repair of subclinical inguinal hernias at radical retropubic prostatectomy",
+        "volume": "66",
+        "author": "Nielsen",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib60",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1002/aja.1001580211",
+        "article-title": "The urethral sphincter muscle in the male",
+        "volume": "158",
+        "author": "Oelrich",
+        "year": "1980",
+        "journal-title": "Am J Anat"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib61",
+        "doi-asserted-by": "crossref",
+        "first-page": "1318",
+        "DOI": "10.1097/01.ju.0000139883.08934.86",
+        "article-title": "Nerve sparing radical prostatectomy: effects of hemostatic energy sources on the recovery of cavernous nerve function in a canine model",
+        "volume": "172",
+        "author": "Ong",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib9001",
+        "doi-asserted-by": "crossref",
+        "first-page": "479",
+        "DOI": "10.1038/ijir.2008.33",
+        "article-title": "Randomized, double-blind, placebo-controlled study of postoperative nightly sildenafil citrate for the prevention of erectile dysfunction after bilateral nerve-sparing radical prostatectomy",
+        "volume": "20",
+        "author": "Padma-Nathan",
+        "year": "2008",
+        "journal-title": "Int J Impot Res"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib62",
+        "doi-asserted-by": "crossref",
+        "first-page": "1860",
+        "DOI": "10.1097/01.ju.0000139886.25848.4a",
+        "article-title": "Prostate specific antigen progression in men with lymph node metastases following radical prostatectomy: results of long-term followup",
+        "volume": "172",
+        "author": "Palapattu",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib63",
+        "doi-asserted-by": "crossref",
+        "first-page": "404",
+        "DOI": "10.1016/j.eururo.2008.07.007",
+        "article-title": "Oncologic outcome and patterns of recurrence after salvage radical prostatectomy",
+        "volume": "55",
+        "author": "Paparel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib64",
+        "doi-asserted-by": "crossref",
+        "first-page": "987",
+        "DOI": "10.1016/j.urology.2004.06.048",
+        "article-title": "Effect of methylprednisolone on return of sexual function after nerve-sparing radical retropubic prostatectomy",
+        "volume": "64",
+        "author": "Parsons",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib65",
+        "doi-asserted-by": "crossref",
+        "first-page": "843",
+        "DOI": "10.1016/S0090-4295(01)01441-8",
+        "article-title": "Contemporary update of prostate cancer staging nomograms (Partin Tables) for the new millennium",
+        "volume": "58",
+        "author": "Partin",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib66",
+        "doi-asserted-by": "crossref",
+        "first-page": "156",
+        "DOI": "10.1016/S0090-4295(02)02105-2",
+        "article-title": "Removal of the urinary catheter on postoperative days 3 or 4 following radical retropubic prostatectomy",
+        "volume": "61",
+        "author": "Patel",
+        "year": "2003",
+        "journal-title": "Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib9002",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1016/S0022-5347(09)61375-6",
+        "article-title": "Nightly sildenafil is unnecessary after minimally-invasive nerve-sparing radical prostatectomy: on-demand sildenafil provides equivalent restoration of erectile function",
+        "volume": "181",
+        "author": "Pavlovich",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib67",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/S0022-5347(17)46991-6",
+        "article-title": "Blood transfusion and anesthetic practices in radical retropubic prostatectomy",
+        "volume": "134",
+        "author": "Peters",
+        "year": "1985",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib68",
+        "doi-asserted-by": "crossref",
+        "first-page": "150",
+        "DOI": "10.1016/S0022-5347(01)67252-5",
+        "article-title": "Radical retropubic prostatectomy: the influence of accessory pudendal arteries on the recovery of sexual function",
+        "volume": "153",
+        "author": "Polascik",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib69",
+        "doi-asserted-by": "crossref",
+        "first-page": "194",
+        "DOI": "10.1016/S0022-5347(05)68003-2",
+        "article-title": "Radical retropubic prostatectomy: bladder neck preservation versus reconstruction",
+        "volume": "163",
+        "author": "Poon",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib71",
+        "doi-asserted-by": "crossref",
+        "first-page": "998",
+        "DOI": "10.1016/S0022-5347(17)38512-9",
+        "article-title": "Sexual function following radical prostatectomy: influence of preservation of neurovascular bundles",
+        "volume": "145",
+        "author": "Quinlan",
+        "year": "1991",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib70",
+        "doi-asserted-by": "crossref",
+        "first-page": "380",
+        "DOI": "10.1016/S0022-5347(17)38348-9",
+        "article-title": "Cavernous nerve grafts restore erectile function in denervated rats",
+        "volume": "145",
+        "author": "Quinlan",
+        "year": "1991",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib72",
+        "doi-asserted-by": "crossref",
+        "first-page": "536",
+        "DOI": "10.1016/S0090-4295(99)80491-9",
+        "article-title": "Incidence of inguinal hernias following radical retropubic prostatectomy",
+        "volume": "47",
+        "author": "Regan",
+        "year": "1996",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib73",
+        "doi-asserted-by": "crossref",
+        "first-page": "198",
+        "DOI": "10.1016/S0022-5347(17)56718-X",
+        "article-title": "An anatomical approach to the surgical management of the dorsal vein and Santorini's plexus during radical retropubic surgery",
+        "volume": "121",
+        "author": "Reiner",
+        "year": "1979",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib74",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1016/j.urology.2004.02.035",
+        "article-title": "Preservation of accessory pudendal arteries during radical retropubic prostatectomy: surgical technique and results",
+        "volume": "64",
+        "author": "Rogers",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib75",
+        "doi-asserted-by": "crossref",
+        "first-page": "104",
+        "DOI": "10.1097/00005392-199501000-00037",
+        "article-title": "Salvage radical prostatectomy: outcome measured by serum prostate specific antigen levels",
+        "volume": "153",
+        "author": "Rogers",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib76",
+        "doi-asserted-by": "crossref",
+        "first-page": "829",
+        "DOI": "10.1016/S0022-5347(05)67814-7",
+        "article-title": "The role of preoperative epoetin alpha in men undergoing radical retropubic prostatectomy",
+        "volume": "163",
+        "author": "Rosenblum",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib77",
+        "doi-asserted-by": "crossref",
+        "first-page": "1016",
+        "DOI": "10.1016/S0090-4295(01)01008-1",
+        "article-title": "Rationale for and results of nerve grafting during radical prostatectomy",
+        "volume": "57",
+        "author": "Scardino",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib78",
+        "doi-asserted-by": "crossref",
+        "first-page": "1402",
+        "DOI": "10.1016/S0022-5347(17)43655-X",
+        "article-title": "Neuroanatomical approach to radical cystoprostatectomy with preservation of sexual function",
+        "volume": "138",
+        "author": "Schlegel",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib9005",
+        "doi-asserted-by": "crossref",
+        "first-page": "664",
+        "DOI": "10.1016/j.juro.2006.09.035",
+        "article-title": "Bilateral cavernous nerve interposition grafting during radical retropubic prostatectomy: Memorial Sloan-Kettering Cancer Center experience",
+        "volume": "177",
+        "author": "Secin",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib79",
+        "doi-asserted-by": "crossref",
+        "first-page": "1077",
+        "DOI": "10.1016/S0022-5347(17)32507-7",
+        "article-title": "Prognostic factors in men with stage D1 prostate cancer: identification of patients less likely to have prolonged survival after radical prostatectomy",
+        "volume": "152",
+        "author": "Sgrignoli",
+        "year": "1994",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib80",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1016/S0090-4295(97)00463-9",
+        "article-title": "Update on bladder neck preservation during radical retropubic prostatectomy: impact on pathologic outcome, anastomotic strictures, and continence",
+        "volume": "51",
+        "author": "Shelfo",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib81",
+        "doi-asserted-by": "crossref",
+        "first-page": "993",
+        "DOI": "10.1016/S0090-4295(99)80120-4",
+        "article-title": "Intraoperative blood loss during radical retropubic prostatectomy: epidural versus general anesthesia",
+        "volume": "45",
+        "author": "Shir",
+        "year": "1995",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib82",
+        "doi-asserted-by": "crossref",
+        "first-page": "1122",
+        "DOI": "10.1016/j.urology.2004.01.016",
+        "article-title": "Impact of unilateral interposition sural nerve grafting on recovery of urinary function after radical prostatectomy",
+        "volume": "63",
+        "author": "Singh",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib83",
+        "first-page": "51",
+        "article-title": "Bladder neck preservation during radical retropubic prostatectomy",
+        "volume": "18",
+        "author": "Soloway",
+        "year": "2000",
+        "journal-title": "Semin Urol Oncol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib84",
+        "doi-asserted-by": "crossref",
+        "first-page": "815",
+        "DOI": "10.1016/S0022-5347(05)66534-2",
+        "article-title": "Urinary continence and pathological outcome after bladder neck preservation during radical retropubic prostatectomy: a randomized prospective trial",
+        "volume": "165",
+        "author": "Srougi",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib85",
+        "doi-asserted-by": "crossref",
+        "first-page": "354",
+        "DOI": "10.1001/jama.283.3.354",
+        "article-title": "Urinary and sexual function after radical prostatectomy for clinically localized prostate cancer: the Prostate Cancer Outcomes Study",
+        "volume": "283",
+        "author": "Stanford",
+        "year": "2000",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib86",
+        "series-title": "Stedman's medical dictionary",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib87",
+        "doi-asserted-by": "crossref",
+        "first-page": "2239",
+        "DOI": "10.1097/01.ju.0000140960.63108.39",
+        "article-title": "Morbidity and functional outcomes of salvage radical prostatectomy for locally recurrent prostate cancer after radiation therapy",
+        "volume": "172",
+        "author": "Stephenson",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib88",
+        "doi-asserted-by": "crossref",
+        "first-page": "918",
+        "DOI": "10.1016/S0140-6736(99)02588-X",
+        "article-title": "Urinary incontinence in the elderly and age-dependent apoptosis of rhabdosphincter cells",
+        "volume": "354",
+        "author": "Strasser",
+        "year": "1999",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib89",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1016/S0022-5347(17)35494-0",
+        "article-title": "Tubularized neourethra following radical retropubic prostatectomy",
+        "volume": "150",
+        "author": "Steiner",
+        "year": "1993",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "4 Pt. 1",
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib90",
+        "doi-asserted-by": "crossref",
+        "first-page": "1420",
+        "DOI": "10.1016/j.juro.2006.06.011",
+        "article-title": "Time to return to work and physical activities following open radical retropubic prostatectomy",
+        "volume": "176",
+        "author": "Sultan",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib91",
+        "doi-asserted-by": "crossref",
+        "first-page": "1032",
+        "DOI": "10.1097/01.ju.0000135648.33110.df",
+        "article-title": "Anatomical analysis of the neurovascular bundle supplying penile cavernous tissue to ensure a reliable nerve graft after radical prostatectomy",
+        "volume": "172",
+        "author": "Takenaka",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib92",
+        "doi-asserted-by": "crossref",
+        "first-page": "136",
+        "DOI": "10.1016/j.urology.2004.08.028",
+        "article-title": "Variation in course of cavernous nerve with special reference to details of topographic relationships near prostatic apex: histologic study using male cadavers",
+        "volume": "65",
+        "author": "Takenaka",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib93",
+        "doi-asserted-by": "crossref",
+        "first-page": "766",
+        "DOI": "10.1111/j.1464-410X.2005.05397.x",
+        "article-title": "A novel technique for approaching the endopelvic fascia in retropubic radical prostatectomy, based on an anatomical study of fixed and fresh cadavers",
+        "volume": "95",
+        "author": "Takenaka",
+        "year": "2005",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib94",
+        "doi-asserted-by": "crossref",
+        "first-page": "224",
+        "DOI": "10.1016/S0090-4295(98)00151-4",
+        "article-title": "Salvage surgery or salvage radiotherapy for locally recurrent prostate cancer",
+        "volume": "52",
+        "author": "Tefilli",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib95",
+        "doi-asserted-by": "crossref",
+        "first-page": "156",
+        "DOI": "10.1002/(SICI)1096-9098(199811)69:3<156::AID-JSO7>3.0.CO;2-D",
+        "article-title": "Quality of life in patients undergoing salvage procedures for locally recurrent prostate cancer",
+        "volume": "69",
+        "author": "Tefilli",
+        "year": "1998",
+        "journal-title": "J Surg Oncol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib96",
+        "doi-asserted-by": "crossref",
+        "first-page": "277",
+        "DOI": "10.1016/S0090-4295(97)00495-0",
+        "article-title": "Early prostate-specific antigen failure following radical perineal versus retropubic prostatectomy: the importance of seminal vesicle excision",
+        "volume": "51",
+        "author": "Theodorescu",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib97",
+        "doi-asserted-by": "crossref",
+        "first-page": "450",
+        "DOI": "10.1097/01.ju.0000151370.82099.1a",
+        "article-title": "Prediction of extraprostatic extension in the neurovascular bundle based on prostate needle biopsy pathology, serum prostate specific antigen and digital rectal examination",
+        "volume": "173",
+        "author": "Tsuzuki",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib98",
+        "doi-asserted-by": "crossref",
+        "first-page": "2418",
+        "DOI": "10.1016/S0022-5347(01)62202-X",
+        "article-title": "Anatomic radical prostatectomy: evolution of the surgical technique",
+        "volume": "160",
+        "author": "Walsh",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib101",
+        "doi-asserted-by": "crossref",
+        "first-page": "1802",
+        "DOI": "10.1016/S0022-5347(05)67547-7",
+        "article-title": "Radical prostatectomy for localized prostate cancer provides durable cancer control with excellent quality of life: a structured debate",
+        "volume": "163",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib100",
+        "doi-asserted-by": "crossref",
+        "first-page": "1020",
+        "DOI": "10.1016/S0090-4295(01)00987-6",
+        "article-title": "Nerve grafts are rarely necessary and are unlikely to improve sexual function in men undergoing anatomic radical prostatectomy",
+        "volume": "57",
+        "author": "Walsh",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib99",
+        "doi-asserted-by": "crossref",
+        "first-page": "1632",
+        "DOI": "10.1016/j.juro.2007.01.012",
+        "article-title": "The discovery of the cavernous nerves and development of nerve sparing radical retropubic prostatectomy",
+        "volume": "177",
+        "author": "Walsh",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib102",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy: insight into etiology and prevention",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib103",
+        "author": "Walsh"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib104",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1002/pros.2990040506",
+        "article-title": "Radical prostatectomy with preservation of sexual function: anatomical and pathological considerations",
+        "volume": "4",
+        "author": "Walsh",
+        "year": "1983",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib108",
+        "doi-asserted-by": "crossref",
+        "first-page": "934",
+        "DOI": "10.1016/S0090-4295(02)01596-0",
+        "article-title": "Intussusception of the reconstructed bladder neck leads to earlier continence following radical prostatectomy",
+        "volume": "59",
+        "author": "Walsh",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib105",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/S0090-4295(99)00397-0",
+        "article-title": "Patient-reported urinary continence and sexual function after anatomic radical prostatectomy",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib106",
+        "doi-asserted-by": "crossref",
+        "first-page": "62",
+        "DOI": "10.1016/S0090-4295(99)00363-5",
+        "article-title": "Use of intraoperative video documentation to improve sexual function after radical retropubic prostatectomy",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib107",
+        "doi-asserted-by": "crossref",
+        "first-page": "679",
+        "DOI": "10.1016/S0094-0143(21)00980-0",
+        "article-title": "Radical retropubic prostatectomy. Improved anastomosis and urinary continence",
+        "volume": "17",
+        "author": "Walsh",
+        "year": "1990",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib110",
+        "series-title": "The prostate—a guide for men and the women who love them",
+        "first-page": "92",
+        "article-title": "Treating prostate cancer: radical prostatectomy",
+        "author": "Walsh",
+        "year": "1995"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib109",
+        "series-title": "Dr. Patrick Walsh's guide to surviving prostate cancer",
+        "author": "Walsh",
+        "year": "2001"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib111",
+        "doi-asserted-by": "crossref",
+        "first-page": "1156",
+        "DOI": "10.1097/01.ju.0000155534.54711.60",
+        "article-title": "Salvage surgery for radiorecurrent prostate cancer: contemporary outcomes",
+        "volume": "173",
+        "author": "Ward",
+        "year": "2005",
+        "journal-title": "J Urol."
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib112",
+        "doi-asserted-by": "crossref",
+        "first-page": "1328",
+        "DOI": "10.1097/01.ju.0000138681.64035.dc",
+        "article-title": "The impact of surgical approach (nerve bundle preservation versus wide local excision) on surgical margins and biochemical recurrence following radical prostatectomy",
+        "volume": "172",
+        "author": "Ward",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib114",
+        "doi-asserted-by": "crossref",
+        "first-page": "1379",
+        "DOI": "10.1016/j.juro.2008.01.068",
+        "article-title": "Best practice policy statement on urologic surgery antimicrobial prophylaxis",
+        "volume": "179",
+        "author": "Wolf",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib115",
+        "doi-asserted-by": "crossref",
+        "first-page": "42",
+        "DOI": "10.1016/j.eururo.2004.03.021",
+        "article-title": "European Society for Urological Oncology: Is seminal vesicle ablation mandatory for all patients undergoing radical prostatectomy? A multivariate analysis on 1283 patients",
+        "volume": "46",
+        "author": "Zlotta",
+        "year": "2004",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib116",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.1111/j.1464-410X.1994.tb16583.x",
+        "article-title": "The detailed neuroanatomy of the human striated urethral sphincter",
+        "volume": "74",
+        "author": "Zvara",
+        "year": "1994",
+        "journal-title": "Br J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib117",
+        "doi-asserted-by": "crossref",
+        "first-page": "482",
+        "DOI": "10.1016/S0022-5347(17)71683-7",
+        "article-title": "A new anatomic approach in perineal prostatectomy",
+        "volume": "41",
+        "author": "Belt",
+        "year": "1939",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib118",
+        "doi-asserted-by": "crossref",
+        "first-page": "454",
+        "DOI": "10.1016/S0022-5347(01)62924-0",
+        "article-title": "Incidence of fecal and urinary incontinence following radical perineal and retropubic prostatectomy in a national population",
+        "volume": "160",
+        "author": "Bishoff",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib119",
+        "doi-asserted-by": "crossref",
+        "first-page": "467",
+        "DOI": "10.1016/S0090-4295(03)00464-3",
+        "article-title": "Radical perineal prostatectomy in obese patients",
+        "volume": "62",
+        "author": "Boczko",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib120",
+        "doi-asserted-by": "crossref",
+        "first-page": "2220",
+        "DOI": "10.1097/01.ju.0000065116.20997.a3",
+        "article-title": "A longitudinal assessment of bowel related symptoms and fecal incontinence following radical perineal prostatectomy",
+        "volume": "169",
+        "author": "Dahm",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib121",
+        "doi-asserted-by": "crossref",
+        "first-page": "888",
+        "DOI": "10.1016/S0022-5347(17)37413-X",
+        "article-title": "Radical prostatectomy: the pros and cons of the perineal versus retropubic approach",
+        "volume": "147",
+        "author": "Frazier",
+        "year": "1992",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib122",
+        "doi-asserted-by": "crossref",
+        "first-page": "124",
+        "DOI": "10.1097/01.ju.0000128570.39667.5e",
+        "article-title": "Specific complications of radical perineal prostatectomy: a single institution study of more than 600 cases",
+        "volume": "172",
+        "author": "Gillitzer",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib123",
+        "doi-asserted-by": "crossref",
+        "first-page": "881",
+        "DOI": "10.1016/S0090-4295(99)00071-0",
+        "article-title": "Urinary function after radical prostatectomy: a comparison of the retropubic and perineal approaches",
+        "volume": "53",
+        "author": "Gray",
+        "year": "1999",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib124",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1016/S0022-5347(05)65381-5",
+        "article-title": "Perioperative complications of laparoscopic radical prostatectomy: the Montsouris 3-year experience",
+        "volume": "167",
+        "author": "Guillonneau",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib125",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.1016/S0302-2838(03)00298-7",
+        "article-title": "Radical perineal prostatectomy: cost efficient, outcome effective, minimally invasive prostate cancer management",
+        "volume": "44",
+        "author": "Harris",
+        "year": "2003",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib126",
+        "doi-asserted-by": "crossref",
+        "first-page": "762",
+        "DOI": "10.1016/S0090-4295(96)00252-X",
+        "article-title": "The anatomic radical perineal prostatectomy: a contemporary and anatomic approach",
+        "volume": "48",
+        "author": "Harris",
+        "year": "1996",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib127",
+        "doi-asserted-by": "crossref",
+        "first-page": "163",
+        "DOI": "10.1016/S0022-5347(01)62088-3",
+        "article-title": "Radical perineal prostatectomy: oncological outcome during a 20-year period",
+        "volume": "161",
+        "author": "Iselin",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib128",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1097/00005392-199907000-00060",
+        "article-title": "Comment: Re: Transient lower extremity neurapraxia associated with radical perineal prostatectomy: a complication of exaggerated lithotomy position",
+        "volume": "162",
+        "author": "Keller",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib129",
+        "doi-asserted-by": "crossref",
+        "first-page": "991",
+        "DOI": "10.1016/S0022-5347(05)64558-2",
+        "article-title": "A centralized comparison of radical perineal and retropubic prostatectomy specimens: is there a difference according to the surgical approach?",
+        "volume": "168",
+        "author": "Korman",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib130",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1046/j.1464-410x.2001.00023.x",
+        "article-title": "A comparison of radical retropubic with perineal prostatectomy for localized prostate cancer within the Uniformed Services Urology Research Group",
+        "volume": "87",
+        "author": "Lance",
+        "year": "2001",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib131",
+        "doi-asserted-by": "crossref",
+        "first-page": "266",
+        "DOI": "10.1016/0090-4295(95)80016-6",
+        "article-title": "Rectal injuries during radical perineal prostatectomy",
+        "volume": "45",
+        "author": "Lassen",
+        "year": "1995",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib132",
+        "doi-asserted-by": "crossref",
+        "first-page": "493",
+        "DOI": "10.1016/0090-4295(94)90238-0",
+        "article-title": "Combined laparoscopic lymph node dissection and modified Belt radical perineal prostatectomy for localized prostate adenocarcinoma",
+        "volume": "43",
+        "author": "Lerner",
+        "year": "1994",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib133",
+        "doi-asserted-by": "crossref",
+        "first-page": "905",
+        "DOI": "10.1016/S0022-5347(17)35119-4",
+        "article-title": "Laparoscopic pelvic lymphadenectomy and radical perineal prostatectomy: a viable alternative to radical retropubic prostatectomy",
+        "volume": "151",
+        "author": "Levy",
+        "year": "1994",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib134",
+        "doi-asserted-by": "crossref",
+        "first-page": "1431",
+        "DOI": "10.1097/01.ju.0000139714.09832.47",
+        "article-title": "The new economics of radical prostatectomy: cost comparison of open, laparoscopic and robot assisted techniques",
+        "volume": "172",
+        "author": "Lotan",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib135",
+        "doi-asserted-by": "crossref",
+        "first-page": "1599",
+        "DOI": "10.1016/S0022-5347(17)35312-0",
+        "article-title": "The value of laparoscopic lymphadenectomy in conjunction with radical perineal or retropubic prostatectomy",
+        "volume": "151",
+        "author": "Parra",
+        "year": "1994",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib136",
+        "doi-asserted-by": "crossref",
+        "first-page": "612",
+        "DOI": "10.1016/S0022-5347(01)66466-8",
+        "article-title": "Radical perineal prostatectomy without pelvic lymphadenectomy: selection criteria and early results",
+        "volume": "155",
+        "author": "Parra",
+        "year": "1996",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib137",
+        "doi-asserted-by": "crossref",
+        "first-page": "1445",
+        "DOI": "10.1001/jama.1997.03540420041027",
+        "article-title": "Combination of prostate-specific antigen, clinical stage, and Gleason score to predict pathological stage of localized prostate cancer",
+        "volume": "277",
+        "author": "Partin",
+        "year": "1997",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib138",
+        "doi-asserted-by": "crossref",
+        "first-page": "1929",
+        "DOI": "10.1016/S0022-5347(05)66921-2",
+        "article-title": "Factors predicting recovery of erections after radical prostatectomy",
+        "volume": "164",
+        "author": "Rabbani",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib139",
+        "doi-asserted-by": "crossref",
+        "first-page": "1689",
+        "DOI": "10.1097/01.ju.0000062614.56629.41",
+        "article-title": "Laparoscopic versus open radical prostatectomy: a comparative study at a single institution",
+        "volume": "169",
+        "author": "Rassweiler",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib140",
+        "doi-asserted-by": "crossref",
+        "first-page": "198",
+        "DOI": "10.1016/S0022-5347(17)56718-X",
+        "article-title": "An anatomic approach to the surgical management of the dorsal vein and Santorini's plexus during radical retropubic surgery",
+        "volume": "121",
+        "author": "Reiner",
+        "year": "1979",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib141",
+        "doi-asserted-by": "crossref",
+        "first-page": "581",
+        "DOI": "10.1016/S0022-5347(05)65988-5",
+        "article-title": "Outpatient radical prostatectomy: impact of standard perineal approach on patient outcome",
+        "volume": "166",
+        "author": "Ruiz-Deya",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib142",
+        "doi-asserted-by": "crossref",
+        "first-page": "746",
+        "DOI": "10.1016/j.urology.2003.11.007",
+        "article-title": "Cost comparison of radical retropubic and radical perineal prostatectomy: single institution experience",
+        "volume": "63",
+        "author": "Silverstein",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib143",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1046/j.1464-410x.2000.00405.x",
+        "article-title": "A comparison of the relative merits of radical perineal and radical retropubic prostatectomy",
+        "volume": "85",
+        "author": "Sullivan",
+        "year": "2000",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib144",
+        "doi-asserted-by": "crossref",
+        "first-page": "271",
+        "DOI": "10.1016/S0090-4295(97)00495-0",
+        "article-title": "Early prostate-specific antigen failure following radical perineal versus retropubic prostatectomy: the importance of seminal vesicle excision",
+        "volume": "51",
+        "author": "Theodorescu",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib145",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy: insight into etiology and prevention",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib146",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1002/pros.2990040506",
+        "article-title": "Radical prostatectomy with preservation of sexual function: anatomical and pathological considerations",
+        "volume": "4",
+        "author": "Walsh",
+        "year": "1983",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib147",
+        "doi-asserted-by": "crossref",
+        "first-page": "160",
+        "DOI": "10.1016/0090-4295(85)90051-2",
+        "article-title": "Preservation of periprostatic autonomic nerves during total perineal prostatectomy by infrafascial dissection",
+        "volume": "26",
+        "author": "Weiss",
+        "year": "1985",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib148",
+        "doi-asserted-by": "crossref",
+        "first-page": "693",
+        "DOI": "10.1016/S0090-4295(03)00561-2",
+        "article-title": "Prospective evaluation of pain medication requirements and recovery after radical perineal prostatectomy",
+        "volume": "62",
+        "author": "Weizer",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib149",
+        "first-page": "448",
+        "article-title": "Extended radical perineal prostatectomy: an anatomical and surgical study",
+        "volume": "139",
+        "author": "Weldon",
+        "year": "1988",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib150",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/S0022-5347(17)41718-6",
+        "article-title": "Potency-sparing radical perineal prostatectomy: anatomy, surgical technique and initial results",
+        "volume": "140",
+        "author": "Weldon",
+        "year": "1988",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib151",
+        "doi-asserted-by": "crossref",
+        "first-page": "1565",
+        "DOI": "10.1016/S0022-5347(01)67462-7",
+        "article-title": "Patterns of positive specimen margins and detectable prostate-specific antigen after radical perineal prostatectomy",
+        "volume": "153",
+        "author": "Weldon",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib152",
+        "doi-asserted-by": "crossref",
+        "first-page": "1470",
+        "DOI": "10.1016/S0022-5347(01)64245-9",
+        "article-title": "Continence, potency and morbidity after radical perineal prostatectomy",
+        "volume": "158",
+        "author": "Weldon",
+        "year": "1997",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib153",
+        "doi-asserted-by": "crossref",
+        "first-page": "264",
+        "DOI": "10.1097/01.ju.0000128775.27331.d7",
+        "article-title": "Prospective and longitudinal patient self-assessment of health-related quality of life following radical perineal prostatectomy",
+        "volume": "172",
+        "author": "Yang",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib154",
+        "doi-asserted-by": "crossref",
+        "first-page": "822",
+        "DOI": "10.1016/S0090-4295(98)00365-3",
+        "article-title": "Perineal approach to radical prostatectomy in kidney transplant recipients with localized prostate cancer",
+        "volume": "53",
+        "author": "Yiou",
+        "year": "1999",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/B978-1-4160-6911-9.00102-X_bib155",
+        "first-page": "315",
+        "article-title": "The early diagnosis and radical cure of carcinoma of the prostate: being a study of 40 cases and presentation of a radical operation which was carried out in 4 cases",
+        "volume": "16",
+        "author": "Young",
+        "year": "1905",
+        "journal-title": "Johns Hopkins Hosp Bull"
+      }
+    ],
+    "container-title": [
+      "Campbell-Walsh Urology"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          12
+        ]
+      ],
+      "date-time": "2022-01-12T02:19:36Z",
+      "timestamp": 1641953976000
+    },
+    "score": 57.31675,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/B978141606911900102X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781416069119"
+    ],
+    "references-count": 176,
+    "URL": "https://doi.org/10.1016/b978-1-4160-6911-9.00102-x",
+    "published": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2026-06-06T08:11:29Z",
+      "timestamp": 1780733489026,
+      "version": "3.54.1"
+    },
+    "reference-count": 15,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1996,
+              7,
+              1
+            ]
+          ],
+          "date-time": "1996-07-01T00:00:00Z",
+          "timestamp": 836179200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              1996,
+              7,
+              1
+            ]
+          ],
+          "date-time": "1996-07-01T00:00:00Z",
+          "timestamp": 836179200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2001,
+              10,
+              2
+            ]
+          ],
+          "date-time": "2001-10-02T00:00:00Z",
+          "timestamp": 1001980800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 1919,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "goldjournal.net",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1996,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0090-4295(96)00094-5",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2002-07-25T08:02:33Z",
+      "timestamp": 1027584153000
+    },
+    "page": "91-94",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Anatomic approach for placement of surgical drains after radical retropubic prostatectomy: long-term effects on postoperative pain"
+    ],
+    "prefix": "10.1016",
+    "volume": "48",
+    "author": [
+      {
+        "given": "Thomas",
+        "family": "Niesel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alan W.",
+        "family": "Partin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patrick C.",
+        "family": "Walsh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB1",
+        "author": "Gray",
+        "year": "1966"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB2",
+        "author": "Gray",
+        "year": "1967"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB3",
+        "unstructured": "Anderson JE: Grant's Atlas of Anatomy, 7th ed. Baltimore, Williams & Wilkins."
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1097/00006534-198401000-00001",
+        "article-title": "The vascular territories of the superior epigastric and deep epigastric systems",
+        "volume": "73",
+        "author": "Boyd",
+        "year": "1984",
+        "journal-title": "Plast Reconstr Surg"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "815",
+        "DOI": "10.1097/00006534-198811000-00014",
+        "article-title": "The vascular anatomy of rectus abdominis musculocutaneous flaps based on the deep superior epigastric system",
+        "volume": "82",
+        "author": "Moon",
+        "year": "1988",
+        "journal-title": "Plast Reconstr Surg"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "223",
+        "DOI": "10.1097/00006534-198808000-00001",
+        "article-title": "Innervation of the rectus abdominis muscle: implications for rectus flaps",
+        "volume": "82",
+        "author": "Duchateau",
+        "year": "1988",
+        "journal-title": "Plast Reconstr Surg"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1189",
+        "DOI": "10.1016/S0022-5347(17)44445-4",
+        "article-title": "Perioperative and postoperative complications from bilateral pelvic lymphadenectomy and radical retropubic prostatectomy",
+        "volume": "137",
+        "author": "Igel",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "883",
+        "DOI": "10.1016/S0022-5347(17)37412-8",
+        "article-title": "Radical retropubic prostectomy: morbidity and quality of life. Experience with 620 consecutive cases",
+        "volume": "147",
+        "author": "Leandri",
+        "year": "1992",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB9",
+        "first-page": "323",
+        "article-title": "The anatomy of the intercostal nerves",
+        "volume": "66",
+        "author": "Davies",
+        "year": "1931",
+        "journal-title": "J Anat"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB10",
+        "volume": "2",
+        "author": "Rouviere",
+        "year": "1970"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB11",
+        "volume": "3",
+        "author": "Poirer",
+        "year": "1899"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB12",
+        "author": "Woodborne",
+        "year": "1969"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB13",
+        "first-page": "61",
+        "article-title": "Variations in the composition of the human rectus sheath: a study of the anterior abdominal wall",
+        "volume": "145",
+        "author": "Monkhouse",
+        "year": "1986",
+        "journal-title": "J Anat"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB14",
+        "first-page": "101",
+        "article-title": "The anatomy of the abdominal wall with special reference to the nerves involved in the incision for kidney operations",
+        "volume": "41",
+        "author": "von Mihalik",
+        "year": "1967",
+        "journal-title": "S Afr Med J"
+      },
+      {
+        "key": "10.1016/S0090-4295(96)00094-5_BIB15",
+        "first-page": "181",
+        "article-title": "Internal and intervascular extension for increased exposure in midline incisions",
+        "volume": "163",
+        "author": "Rizzo",
+        "year": "1986",
+        "journal-title": "Surg Gynecol Obstet"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429596000945?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429596000945?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2025-09-25T01:36:39Z",
+      "timestamp": 1758764199000
+    },
+    "score": 57.242428,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429596000945"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          7
+        ]
+      ]
+    },
+    "references-count": 15,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            1996,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429596000945"
+    ],
+    "URL": "https://doi.org/10.1016/s0090-4295(96)00094-5",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1996,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Anatomic approach for placement of surgical drains after radical retropubic prostatectomy: long-term effects on postoperative pain",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/S0090-4295(96)00094-5",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "converted-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 1996 Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2022-04-03T03:01:51Z",
+      "timestamp": 1648954911399
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1996,
+              1,
+              1
+            ]
+          ],
+          "date-time": "1996-01-01T00:00:00Z",
+          "timestamp": 820454400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "The Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1996,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1097/00005392-199601000-00113",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          11,
+          18
+        ]
+      ],
+      "date-time": "2003-11-18T20:31:38Z",
+      "timestamp": 1069187498000
+    },
+    "page": "294",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Re"
+    ],
+    "prefix": "10.1097",
+    "author": [
+      {
+        "given": "Patrick C.",
+        "family": "Walsh",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "The Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/00005392-199601000-00113",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          15
+        ]
+      ],
+      "date-time": "2021-06-15T23:46:57Z",
+      "timestamp": 1623800817000
+    },
+    "score": 56.68407,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.lww.com/00005392-199601000-00113"
+      }
+    },
+    "subtitle": [
+      "Potency-Sparing Radical Retropubic Prostatectomy"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1097/00005392-199601000-00113",
+    "ISSN": [
+      "0022-5347"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1996,
+          1
+        ]
+      ]
+    }
+  }
+]

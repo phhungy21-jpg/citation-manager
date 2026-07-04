@@ -1,0 +1,2118 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          13
+        ]
+      ],
+      "date-time": "2026-06-13T05:22:34Z",
+      "timestamp": 1781328154278,
+      "version": "3.54.1"
+    },
+    "reference-count": 21,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "ajconline.org",
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The American Journal of Cardiology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.amjcard.2022.08.002",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          7
+        ]
+      ],
+      "date-time": "2022-09-07T00:43:47Z",
+      "timestamp": 1662511427000
+    },
+    "page": "137-142",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "special_numbering": "C",
+    "title": [
+      "Impact of Opioid Epidemic on Infective Endocarditis Outcomes in the United States: From the National Readmission Database"
+    ],
+    "prefix": "10.1016",
+    "volume": "183",
+    "author": [
+      {
+        "given": "Mohamed",
+        "family": "Khayata",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Noah",
+        "family": "Hackney",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Antoine",
+        "family": "Addoumieh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Saqer",
+        "family": "Aklkharabsheh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bibhu D.",
+        "family": "Mohanty",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patrick",
+        "family": "Collier",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Allan L.",
+        "family": "Klein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard A.",
+        "family": "Grimm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brian P.",
+        "family": "Griffin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2985-7468",
+        "authenticated-orcid": false,
+        "given": "Bo",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "858",
+        "DOI": "10.1016/j.mayocp.2019.08.023",
+        "article-title": "Clinical and economic burden of hospitalizations for infective endocarditis in the United States",
+        "volume": "95",
+        "author": "Alkhouli",
+        "year": "2020",
+        "journal-title": "Mayo Clin Proc"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "779",
+        "DOI": "10.1001/jamacardio.2018.1602",
+        "article-title": "Changes in the association of rising infective endocarditis with mortality in people who inject drugs",
+        "volume": "3",
+        "author": "Njoroge",
+        "year": "2018",
+        "journal-title": "JAMA Cardiol"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0003",
+        "unstructured": "SAMHSA. Key substance use and mental health indicators in the United States: results from the 2018 national survey on drug use and health. Available at: https://www.samhsa.gov/data/sites/default/files/cbhsq-reports/NSDUHNationalFindingsReport2018/NSDUHNationalFindingsReport2018.pdf. Accessed on March 5, 2022."
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0004",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1161/JAHA.119.012969",
+        "article-title": "Geographic trends, patient characteristics, and outcomes of infective endocarditis associated with drug abuse in the United States From 2002 to 2016",
+        "volume": "8",
+        "author": "Kadri",
+        "year": "2019",
+        "journal-title": "J Am Heart Assoc"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0005",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.diagmicrobio.2021.115453",
+        "article-title": "Impact of chronic hepatitis C virus co-infection on outcomes of infective endocarditis in people who inject drugs",
+        "volume": "101",
+        "author": "Tom",
+        "year": "2021",
+        "journal-title": "Diagn Microbiol Infect Dis"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1053/jinf.2001.0812",
+        "article-title": "Infective endocarditis in patients with human immunodeficiency virus infection",
+        "volume": "42",
+        "author": "Cicalini",
+        "year": "2001",
+        "journal-title": "J Infect"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0007",
+        "doi-asserted-by": "crossref",
+        "first-page": "141",
+        "DOI": "10.1016/j.ijcard.2021.02.076",
+        "article-title": "Cocaine and methamphetamine use and hospitalization for acute heart failure: epidemiological evidence from a nationwide dataset",
+        "volume": "333",
+        "author": "Barison",
+        "year": "2021",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0008",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1161/JAHA.118.011598",
+        "article-title": "Thirty-day readmission after infective endocarditis: analysis from a nationwide readmission database",
+        "volume": "8",
+        "author": "Morita",
+        "year": "2019",
+        "journal-title": "J Am Heart Assoc"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.31083/j.rcm.2020.01.552",
+        "article-title": "Predictors of 30-day re-admissions in patients with infective endocarditis: a national population based cohort study",
+        "volume": "21",
+        "author": "Agrawal",
+        "year": "2020",
+        "journal-title": "Rev Cardiovasc Med"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0010",
+        "first-page": "e4962",
+        "article-title": "Trends and predictors of 30-day readmission among patients hospitalized with infective endocarditis in the United States",
+        "volume": "11",
+        "author": "Pasupula",
+        "year": "2019",
+        "journal-title": "Cureus"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0011",
+        "doi-asserted-by": "crossref",
+        "first-page": "414",
+        "DOI": "10.12788/jhm.2746",
+        "article-title": "Quality of care of hospitalized infective endocarditis patients: report from a tertiary medical center",
+        "volume": "12",
+        "author": "Kashef",
+        "year": "2017",
+        "journal-title": "J Hosp Med"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0012",
+        "unstructured": "Agency for Healthcare Research and Quality. NRD description of data elements. Available at: https://www.hcup-us.ahrq.gov/db/nation/nrd/nrddde.jsp. Accessed on November 11, 2021."
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0013",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wurcel AG, Anderson JE, Chui KKH, Skinner S, Knox TA, Snydman DR, Stopka TJ. Increasing infectious endocarditis admissions among young people who inject drugs. Open Forum Infect Dis 2016;3:ofw157. https://doi.org/10.1093/ofid/ofw157.",
+        "DOI": "10.1093/ofid/ofw157"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0014",
+        "first-page": "1",
+        "article-title": "Drugs most frequently involved in drug overdose deaths: United states: 2011 to 2016",
+        "volume": "67",
+        "author": "Hedegaard",
+        "year": "2018",
+        "journal-title": "Natl Vital Stat Rep"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/j.jacc.2018.10.082",
+        "article-title": "Clinical outcomes of infective endocarditis in injection drug users",
+        "volume": "73",
+        "author": "Rudasill",
+        "year": "2019",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0016",
+        "article-title": "Surveillance of viral hepatitis – United States",
+        "volume": "2016",
+        "author": "Oakes",
+        "year": "2016",
+        "journal-title": "J Maine Med Assoc"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0017",
+        "doi-asserted-by": "crossref",
+        "first-page": "282",
+        "DOI": "10.1053/jinf.2000.0672",
+        "article-title": "Impact of highly active antiretroviral therapy in HIV-positive patients with cardiac involvement",
+        "volume": "40",
+        "author": "Pugliese",
+        "year": "2000",
+        "journal-title": "J Infect"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0018",
+        "first-page": "161",
+        "article-title": "A new face of cardiac emergencies: human immunodeficiency virus–related cardiac disease",
+        "volume": "36",
+        "author": "Tsabedze",
+        "year": "2018",
+        "journal-title": "Cardiol Clin"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1016/j.jacc.2017.05.014",
+        "article-title": "The cardiovascular effects of cocaine",
+        "volume": "70",
+        "author": "Havakuk",
+        "year": "2017",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0020",
+        "unstructured": "Agency for Healthcare Research and Quality. HCUP Fast Stats: Trends in inpatient stays. Available at: https://hcup-us.ahrq.gov/faststats/landing.jsp. Accessed on March 5, 2022."
+      },
+      {
+        "key": "10.1016/j.amjcard.2022.08.002_bib0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "S506",
+        "DOI": "10.1093/infdis/jiaa055",
+        "article-title": "Impact of a plan of care protocol on patient outcomes in people who inject drugs with infective endocarditis",
+        "volume": "222",
+        "author": "Cooksey",
+        "year": "2020",
+        "journal-title": "J Infect Dis"
+      }
+    ],
+    "container-title": [
+      "The American Journal of Cardiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0002914922008347?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0002914922008347?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          11
+        ]
+      ],
+      "date-time": "2025-09-11T06:44:20Z",
+      "timestamp": 1757573060000
+    },
+    "score": 103.318054,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0002914922008347"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "references-count": 21,
+    "alternative-id": [
+      "S0002914922008347"
+    ],
+    "URL": "https://doi.org/10.1016/j.amjcard.2022.08.002",
+    "ISSN": [
+      "0002-9149"
+    ],
+    "issn-type": [
+      {
+        "value": "0002-9149",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Impact of Opioid Epidemic on Infective Endocarditis Outcomes in the United States: From the National Readmission Database",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "The American Journal of Cardiology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.amjcard.2022.08.002",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2022 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          30
+        ]
+      ],
+      "date-time": "2025-07-30T11:48:45Z",
+      "timestamp": 1753876125343,
+      "version": "3.41.2"
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "Supplement_2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2020-11-01T00:00:00Z",
+          "timestamp": 1604188800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Background/Introduction</jats:title>\n                  <jats:p>Infective endocarditis (IE) remains a serious illness that is associated with remarkable morbidity and mortality in the United States (US). There are limited studies that investigated predictors of 30-day readmission risk in this population.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Purpose</jats:title>\n                  <jats:p>We aimed to perform a contemporary analysis to investigate predictors of 30-day readmission in IE patients in the US.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We used the 2017 national readmission database to identify index admissions among adults (age ≥18) with the diagnosis of IE. Appropriate International Statistical Classification (ICD-10) codes were used to identify patients with IE. Primary outcome of interest was 30-day readmission, and hospital cost was the secondary outcome.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Out of 49,692 admissions for IE, 5,743 (11.6%) patients were readmitted within 30 days. Patients who had 30-day readmission were younger (55±20 vs 61±19 years, P&amp;lt;0.001), 44.8% were females (P=0.08), 27.9% had diabetes mellitus (DM), 56.8% had hypertension, 37.9% had heart failure (HF), 31.3% had chronic kidney disease (CKD), 12.2% had end stage renal disease, and 47.8% had Medicare insurance. Patients who had readmissions within 30 days were more likely to have non-elective index admission (96.9% vs 93.4%, P&amp;lt;0.001), more likely to have hepatitis C (19.5% vs 12.2%, P&amp;lt;0.001), human immunodeficiency virus (HIV) (1.7% vs 1.2%, P&amp;lt;0.001), substance abuse (8.6% vs 5.4%, P&amp;lt;0.001), opioid abuse (24% vs 14.7%, P&amp;lt;0.001), and cocaine use (7.4% vs 4.3%, P&amp;lt;0.001). Overall, 5,393 (10.9%) patients died during index admission. Median cost for readmissions within 30 days was $83,217 [$41,457-$165,487], compared to the index admission cost of $90,257 [$41,945- $208,851] (P&amp;lt;0.001). After adjusting for age, DM, HF, and CKD, substance abuse (odds ratio (OR): 1.19 [1.07–1.33]; P 0.001), opioid abuse (OR: 1.37, [1.26- 1.48]; P&amp;lt;0.001), cocaine use (OR: 1.33 [1.18- 1.48]; P&amp;lt;0.001), HIV (OR: 1.25 [1.01–1.56]; P=0.04), and hepatitis C (OR: 1.34 [1.24–1.45]; P&amp;lt;0.001) correlated with higher odds of readmissions within 30 days (Figure 1).</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>Approximately 1 in 4 patients admitted for IE in the US had a history of opioid abuse and almost one fifth had hepatitis C. The 30-day readmission rate remains significant in IE with high financial burden on the health system. Both opioid abuse and hepatitis C were among the highest predictors of readmission within 30 days. Identifying modifiable predictors of readmission in this population may reduce readmission risk and healthcare cost.</jats:p>\n                  <jats:p>Figure 1</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Funding Acknowledgement</jats:title>\n                  <jats:p>Type of funding source: None</jats:p>\n               </jats:sec>",
+    "DOI": "10.1093/ehjci/ehaa946.3534",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2020-11-26T13:16:39Z",
+      "timestamp": 1606396599000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Contemporary predictors of readmission outcomes in patients with infective endocarditis: analysis from a national readmission database"
+    ],
+    "prefix": "10.1093",
+    "volume": "41",
+    "author": [
+      {
+        "given": "M",
+        "family": "Khayata",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Cleveland Clinic, Cleveland, United States of America"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A",
+        "family": "Addoumieh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cleveland Clinic, Cleveland, United States of America"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S",
+        "family": "Alkharabsheh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cleveland Clinic, Cleveland, United States of America"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P",
+        "family": "Collier",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cleveland Clinic, Cleveland, United States of America"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A",
+        "family": "Klein",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cleveland Clinic, Cleveland, United States of America"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "B",
+        "family": "Griffin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cleveland Clinic, Cleveland, United States of America"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "B",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cleveland Clinic, Cleveland, United States of America"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          25
+        ]
+      ]
+    },
+    "container-title": [
+      "European Heart Journal"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://academic.oup.com/eurheartj/article-pdf/41/Supplement_2/ehaa946.3534/34514607/ehaa946.3534.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://academic.oup.com/eurheartj/article-pdf/41/Supplement_2/ehaa946.3534/34514607/ehaa946.3534.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2020-11-26T13:16:40Z",
+      "timestamp": 1606396600000
+    },
+    "score": 73.30904,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/eurheartj/article/doi/10.1093/ehjci/ehaa946.3534/6002982"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "Supplement_2",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            25
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/ehjci/ehaa946.3534",
+    "ISSN": [
+      "0195-668X",
+      "1522-9645"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0195-668X"
+      },
+      {
+        "type": "electronic",
+        "value": "1522-9645"
+      }
+    ],
+    "published-other": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          1
+        ]
+      ]
+    },
+    "article-number": "ehaa946.3534"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          20
+        ]
+      ],
+      "date-time": "2023-12-20T00:34:59Z",
+      "timestamp": 1703032499912
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "Suppl_1",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          7
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n            <jats:bold>Introduction:</jats:bold>\n            Infective endocarditis (IE) is common in patients with liver disease. Data regarding IE in liver disease are limited.\n          </jats:p>\n          <jats:p>\n            <jats:bold>Hypothesis:</jats:bold>\n            We analyzed IE admissions to determine inpatient outcomes among patients with liver disease in the United States.\n          </jats:p>\n          <jats:p>\n            <jats:bold>Methods:</jats:bold>\n            We used the 2017 National Readmission Database to identify index admission of adults with IE, based on the International Classification of Disease, 10th revision codes. The primary outcome was 30-day readmission. Secondary outcomes were mortality and predictors of hospitalization readmission.\n          </jats:p>\n          <jats:p>\n            <jats:bold>Results:</jats:bold>\n            We identified 40,413 IE admissions. Figure 1 presents prevalence of variables associated with liver disease in this cohort. Patients who were readmitted were more likely to have a history of hepatitis C virus (19.4% vs 12.3%, p &lt; 0.001), hyponatremia (25% vs 21%, p &lt; 0.001), and thrombocytopenia (20.3% vs 16.3%, p &lt;0.001). After adjusting for age, hypertension, heart failure, diabetes mellitus, and end stage renal disease, hyponatremia (odds ratio (OR): 1.25; 95% confidence intervals [CI]: 1.17 to 1.35; p &lt; 0.001) and thrombocytopenia (OR: 1.16; 95% CI: 1.08 to 1.24; p &lt; 0.001) correlated with higher odds of 30-day readmission. Mortality was higher among patients with hyponatremia (29% vs 22%, p &lt; 0.001), thrombocytopenia (29% vs 17%, p &lt; 0.001), coagulopathy (12% vs 5%, p &lt; 0.001), cirrhosis (6% vs 4%, p &lt; 0.001), ascites (7% vs 3%, p &lt;0.001), liver failure (18% vs 3%, p &lt; 0.001), and portal hypertension (3% vs 1.5%, p &lt; 0.001) (Figure 2).\n          </jats:p>\n          <jats:p>\n            <jats:bold>Conclusions:</jats:bold>\n            Important liver disease related variables correlate with higher risks of hospital readmission and mortality in patients with IE. Targeting such variables may improve outcomes in this patient population.\n          </jats:p>\n          <jats:p>\n            <jats:graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" orientation=\"portrait\" position=\"float\" xlink:href=\"g12736.jpg\" />\n          </jats:p>",
+    "DOI": "10.1161/circ.148.suppl_1.12736",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          19
+        ]
+      ],
+      "date-time": "2023-12-19T07:50:21Z",
+      "timestamp": 1702972221000
+    },
+    "update-policy": "http://dx.doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Abstract 12736: Prevalence, Characteristics, and Outcomes of Infective Endocarditis in Patients With Liver Disease in the United States"
+    ],
+    "prefix": "10.1161",
+    "volume": "148",
+    "author": [
+      {
+        "given": "Mohamed",
+        "family": "Khayata",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Univ of South Florida Morsani College of Medicine, Tampa, FL"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Richard A",
+        "family": "Grimm",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cleveland Clinic, Cleveland, OH"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Brian P",
+        "family": "Griffin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cleveland Clinic, Cleveland, OH"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bo",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Cleveland, OH"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Circulation"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          19
+        ]
+      ],
+      "date-time": "2023-12-19T08:02:42Z",
+      "timestamp": 1702972962000
+    },
+    "score": 45.07267,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/circ.148.suppl_1.12736"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          7
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "Suppl_1",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/circ.148.suppl_1.12736"
+    ],
+    "URL": "https://doi.org/10.1161/circ.148.suppl_1.12736",
+    "ISSN": [
+      "0009-7322",
+      "1524-4539"
+    ],
+    "issn-type": [
+      {
+        "value": "0009-7322",
+        "type": "print"
+      },
+      {
+        "value": "1524-4539",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2023-11-06",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          26
+        ]
+      ],
+      "date-time": "2026-04-26T00:57:16Z",
+      "timestamp": 1777165036736,
+      "version": "3.51.4"
+    },
+    "reference-count": 29,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000133",
+        "name": "Agency for Healthcare Research and Quality",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000133",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "heartandlung.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Heart &amp; Lung"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.hrtlng.2025.07.021",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2025-07-25T03:57:52Z",
+      "timestamp": 1753415872000
+    },
+    "page": "206-210",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "special_numbering": "C",
+    "title": [
+      "Socioeconomic disparities in In-hospital outcomes and readmission rates among patients hospitalized with infective endocarditis: A national analysis from the United States"
+    ],
+    "prefix": "10.1016",
+    "volume": "74",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0003-7645-1924",
+        "authenticated-orcid": false,
+        "given": "Nadhem",
+        "family": "Abdallah",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mahmoud",
+        "family": "Ismayl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Abdilahi",
+        "family": "Mohamoud",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mohammed",
+        "family": "Samra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrew M.",
+        "family": "Goldsweig",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "7",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "950",
+        "DOI": "10.1016/j.cjco.2021.02.006",
+        "article-title": "Socioeconomic status, mortality, and access to cardiac services after acute myocardial infarction in Canada: a systematic review and meta-analysis",
+        "volume": "3",
+        "author": "Moledina",
+        "year": "2021",
+        "journal-title": "CJC Open"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "439",
+        "DOI": "10.1177/1358863X15592486",
+        "article-title": "Residential zip code influences outcomes following hospitalization for acute pulmonary embolism in the United States",
+        "volume": "20",
+        "author": "Agarwal",
+        "year": "2015",
+        "journal-title": "Vasc Med"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0003",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jacadv.2024.101034",
+        "article-title": "Economic disparities in utilization and outcomes of structural heart disease interventions in the United States",
+        "volume": "3",
+        "author": "Ismayl",
+        "year": "2024",
+        "journal-title": "JACC Adv"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0004",
+        "article-title": "Racial/ethnic, sex, and economic disparities in the utilization and outcomes of intracoronary imaging",
+        "volume": "3",
+        "author": "Ismayl",
+        "year": "2024",
+        "journal-title": "J Soc Cardiovasc Angiogr Interv"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0005",
+        "first-page": "A14",
+        "article-title": "The effects of social deprivation on clinical outcomes in infective endocarditis",
+        "volume": "108",
+        "author": "Watson",
+        "year": "2022",
+        "journal-title": "Heart"
+      },
+      {
+        "issue": "39",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "3948",
+        "DOI": "10.1093/eurheartj/ehad193",
+        "article-title": "2023 ESC guidelines for the management of endocarditis",
+        "volume": "44",
+        "author": "Delgado",
+        "year": "2023",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0007",
+        "unstructured": "Healthcare Cost and Utilization Project. Introduction to the HCUP National Inpatient Sample (NIS). [Dec; 2020]. Available from: [URL]. 2017."
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0008",
+        "author": "Elixhauser",
+        "year": "1996",
+        "journal-title": "Clinical Classifications for Health Policy Research, Version 2: Hospital Inpatient Statistics"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1177/003804070708000101",
+        "article-title": "The gender income gap and the role of education",
+        "volume": "80",
+        "author": "Bobbitt-Zeher",
+        "year": "2007",
+        "journal-title": "Sociol Educ"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0010",
+        "unstructured": "World Health Organization. Estimates of Unit Costs for Patient Services for Canada; 2011. Available at: [https://www.who.int/publications/m/item/estimation-of-unit-costs-for-general-health-services-updated-who-choice-estimates]. Accessed April 26, 2014."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0011",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1016/j.cjco.2020.06.001",
+        "article-title": "Sex disparities in the use and outcomes of temporary mechanical circulatory support for acute myocardial infarction-cardiogenic shock",
+        "volume": "2",
+        "author": "Vallabhajosyula",
+        "year": "2020",
+        "journal-title": "CJC Open"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0012",
+        "doi-asserted-by": "crossref",
+        "first-page": "1110",
+        "DOI": "10.3201/eid1006.030848",
+        "article-title": "Emerging issues in infective endocarditis",
+        "volume": "10",
+        "author": "Millar",
+        "year": "2004",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "issue": "Suppl 1",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0014",
+        "first-page": "A14",
+        "article-title": "The effects of social deprivation on clinical outcomes in infective endocarditis",
+        "volume": "108",
+        "author": "Watson",
+        "year": "2022",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0015",
+        "article-title": "Incidence rate of infective endocarditis by socioeconomic position: a Danish nationwide cohort study (2000–2022)",
+        "volume": "52",
+        "author": "Martiny",
+        "year": "2025",
+        "journal-title": "Lancet Reg Health Eur"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0016",
+        "doi-asserted-by": "crossref",
+        "first-page": "1115",
+        "DOI": "10.1186/s12889-025-22100-z",
+        "article-title": "Global, regional, and national burden of infective endocarditis from 2010 to 2021 and predictions for the next five years",
+        "volume": "25",
+        "author": "Lin",
+        "year": "2025",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0017",
+        "first-page": "153",
+        "article-title": "Infective endocarditis in low- and middle-income countries",
+        "volume": "35",
+        "author": "Njuguna",
+        "year": "2017",
+        "journal-title": "Cardiol Clin"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0018",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1053/j.semtcvs.2022.05.007",
+        "article-title": "Effect of socioeconomic distress on risk-adjusted mortality after valve surgery for infective endocarditis",
+        "volume": "35",
+        "author": "Strobel",
+        "year": "2023",
+        "journal-title": "Semin Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1186/s12967-015-0579-9",
+        "article-title": "The effect of socioeconomic status on health-care delay and treatment of esophageal cancer",
+        "volume": "13",
+        "author": "Wang",
+        "year": "2015",
+        "journal-title": "J Transl Med"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.1186/1471-2369-15-192",
+        "article-title": "Low income, community poverty and risk of end stage renal disease",
+        "volume": "15",
+        "author": "Crews",
+        "year": "2014",
+        "journal-title": "BMC Nephrol"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "287",
+        "DOI": "10.1186/s13054-023-04565-9",
+        "article-title": "Neighborhood socioeconomic deprivation and sepsis outcomes: findings from a nationwide study",
+        "volume": "27",
+        "author": "Lusk",
+        "year": "2023",
+        "journal-title": "Crit Care"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0022",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1161/JAHA.114.001057",
+        "article-title": "Outcomes and resource utilization in ST-elevation myocardial infarction in the United States: evidence for socioeconomic disparities",
+        "volume": "3",
+        "author": "Agarwal",
+        "year": "2014",
+        "journal-title": "J Am Heart Assoc"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0023",
+        "doi-asserted-by": "crossref",
+        "first-page": "778",
+        "DOI": "10.1377/hlthaff.2013.0816",
+        "article-title": "Socioeconomic status and readmissions: evidence from an urban teaching hospital",
+        "volume": "33",
+        "author": "Hu",
+        "year": "2014",
+        "journal-title": "Health Aff (Millwood)"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0024",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1097/ADM.0000000000000725",
+        "article-title": "Medications for opioid use disorder and AMA discharge in patients with injection drug use-associated infections",
+        "volume": "15",
+        "author": "Nolan",
+        "year": "2021",
+        "journal-title": "J Addict Med"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0025",
+        "first-page": "688",
+        "article-title": "Predictors of readmission in infective endocarditis: impact of homelessness and substance use",
+        "volume": "78",
+        "author": "Wang",
+        "year": "2024",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0026",
+        "article-title": "Socioeconomic disparities in use of mechanical circulatory support in cardiogenic shock",
+        "volume": "1",
+        "author": "Adelsheimer",
+        "year": "2022",
+        "journal-title": "J Soc Cardiovasc Angiogr Interv"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0027",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.1258/jhsrp.2011.010047",
+        "article-title": "Impact of socioeconomic factors on in-patient length of stay and their consequences in per case hospital payment systems",
+        "volume": "16",
+        "author": "Perelman",
+        "year": "2011",
+        "journal-title": "J Health v Res Policy"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0028",
+        "doi-asserted-by": "crossref",
+        "first-page": "1117",
+        "DOI": "10.1186/s12889-023-16048-1",
+        "article-title": "Reducing hospital readmissions among people experiencing homelessness: evaluation of a hospital in-reach programme",
+        "volume": "23",
+        "author": "Malden",
+        "year": "2023",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0029",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/jamahealthforum.2023.4463",
+        "article-title": "The pillars of health disparities science-race, ethnicity, and socioeconomic status",
+        "volume": "4",
+        "author": "Pérez-Stable",
+        "year": "2023",
+        "journal-title": "JAMA Health Forum"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0030",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1161/JAHA.114.001057",
+        "article-title": "Outcomes and resource utilization in ST-elevation myocardial infarction in the United States: evidence for socioeconomic disparities",
+        "volume": "3",
+        "author": "Agarwal",
+        "year": "2014",
+        "journal-title": "J Am Heart Assoc"
+      }
+    ],
+    "container-title": [
+      "Heart &amp; Lung"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0147956325001736?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0147956325001736?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2025-09-18T10:01:02Z",
+      "timestamp": 1758189662000
+    },
+    "score": 43.811523,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0147956325001736"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "references-count": 29,
+    "alternative-id": [
+      "S0147956325001736"
+    ],
+    "URL": "https://doi.org/10.1016/j.hrtlng.2025.07.021",
+    "ISSN": [
+      "0147-9563"
+    ],
+    "issn-type": [
+      {
+        "value": "0147-9563",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Socioeconomic disparities in In-hospital outcomes and readmission rates among patients hospitalized with infective endocarditis: A national analysis from the United States",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Heart & Lung",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.hrtlng.2025.07.021",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2026-04-28T18:37:16Z",
+      "timestamp": 1777401436672,
+      "version": "3.51.4"
+    },
+    "reference-count": 26,
+    "publisher": "SAGE Publications",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              12
+            ]
+          ],
+          "date-time": "2024-01-12T00:00:00Z",
+          "timestamp": 1705017600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Angiology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                    Infective endocarditis (IE) is common in patients with liver disease. Outcomes of IE in patients with liver disease are limited. We aimed to investigate IE outcomes in patients with variables associated with liver disease in the USA. We used the 2017 National Readmission Database to identify index admission of adults with IE, based on the International Classification of Disease, 10\n                    <jats:sup>th</jats:sup>\n                    revision codes. The primary outcome was 30-day readmission. Secondary outcomes were mortality and predictors of hospital readmission. We identified 40,413 IE admissions. Patients who were readmitted were more likely to have a history of HCV (19.4 vs 12.3%,\n                    <jats:italic>P</jats:italic>\n                    &lt; .001), hyponatremia (25 vs 21%,\n                    <jats:italic>P</jats:italic>\n                    &lt; .001), and thrombocytopenia (20.3 vs 16.3%,\n                    <jats:italic>P</jats:italic>\n                    &lt; .001). After adjusting for age, hypertension, heart failure, diabetes mellitus, and end stage renal disease, hyponatremia (odds ratio (OR) 1.25; 95% confidence intervals [CI]: 1.17–1.35;\n                    <jats:italic>P</jats:italic>\n                    &lt; .001) and thrombocytopenia (OR 1.16; 95% CI: 1.08–1.24;\n                    <jats:italic>P</jats:italic>\n                    &lt; .001) correlated with higher odds of 30-day readmission. Mortality was higher among patients with hyponatremia (29 vs 22%,\n                    <jats:italic>P</jats:italic>\n                    &lt; .001), thrombocytopenia (29 vs 17%,\n                    <jats:italic>P</jats:italic>\n                    &lt; .001), coagulopathy (12 vs 5%,\n                    <jats:italic>P</jats:italic>\n                    &lt; .001), cirrhosis (6 vs 4%,\n                    <jats:italic>P</jats:italic>\n                    &lt; .001), ascites (7 vs 3%,\n                    <jats:italic>P</jats:italic>\n                    &lt; .001), liver failure (18 vs 3%,\n                    <jats:italic>P</jats:italic>\n                    &lt; .001), and portal hypertension (3 vs 1.5%,\n                    <jats:italic>P</jats:italic>\n                    &lt; .001).\n                  </jats:p>",
+    "DOI": "10.1177/00033197241227502",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          12
+        ]
+      ],
+      "date-time": "2024-01-12T14:54:21Z",
+      "timestamp": 1705071261000
+    },
+    "page": "538-545",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Prevalence, Characteristics, and Outcomes of Infective Endocarditis Readmissions in Patients With Variables Associated With Liver Disease in the United States"
+    ],
+    "prefix": "10.1177",
+    "volume": "76",
+    "author": [
+      {
+        "given": "Mohamed",
+        "family": "Khayata",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Robert and Suzanne Tomsich, Department of Cardiovascular Medicine, Sydnell and Arnold Family Heart, Vascular, and Thoracic Institute, Cleveland Clinic Foundation, Cleveland, OH, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Richard A.",
+        "family": "Grimm",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Section of Cardiovascular Imaging, Robert and Suzanne Tomsich, Department of Cardiovascular Medicine, Sydnell and Arnold Family Heart, Vascular, and Thoracic Institute, Cleveland, OH, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Brian P.",
+        "family": "Griffin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Section of Cardiovascular Imaging, Robert and Suzanne Tomsich, Department of Cardiovascular Medicine, Sydnell and Arnold Family Heart, Vascular, and Thoracic Institute, Cleveland, OH, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2985-7468",
+        "authenticated-orcid": false,
+        "given": "Bo",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Section of Cardiovascular Imaging, Robert and Suzanne Tomsich, Department of Cardiovascular Medicine, Sydnell and Arnold Family Heart, Vascular, and Thoracic Institute, Cleveland, OH, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          12
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_3_4_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4330/wjc.v13.i8.254"
+      },
+      {
+        "key": "e_1_3_4_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mayocp.2019.08.023"
+      },
+      {
+        "key": "e_1_3_4_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4254/wjh.v14.i2.400"
+      },
+      {
+        "key": "e_1_3_4_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/1120009X.2021.1878332"
+      },
+      {
+        "key": "e_1_3_4_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jcm10122660"
+      },
+      {
+        "key": "e_1_3_4_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MEG.0000000000002177"
+      },
+      {
+        "key": "e_1_3_4_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhep.2022.03.003"
+      },
+      {
+        "key": "e_1_3_4_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/0972-5229.192051"
+      },
+      {
+        "key": "e_1_3_4_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3748/wjg.v28.i30.4061"
+      },
+      {
+        "key": "e_1_3_4_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjcard.2015.01.021"
+      },
+      {
+        "key": "e_1_3_4_12_2",
+        "unstructured": "Agency for Healthcare Research and Quality. NRD description of data elements. Available at: https://hcup-us.ahrq.gov/db/nation/nrd/nrddde.jsp (accessed on 24 December 2023)."
+      },
+      {
+        "key": "e_1_3_4_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjcard.2022.08.002"
+      },
+      {
+        "key": "e_1_3_4_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1590/0102-672020190001e1460"
+      },
+      {
+        "key": "e_1_3_4_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2468-1253(22)00386-7"
+      },
+      {
+        "key": "e_1_3_4_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hep.21412"
+      },
+      {
+        "key": "e_1_3_4_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jceh.2021.10.145"
+      },
+      {
+        "key": "e_1_3_4_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14309/ajg.0000000000000786"
+      },
+      {
+        "key": "e_1_3_4_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12325-012-0073-1"
+      },
+      {
+        "key": "e_1_3_4_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.0000134486.93030.E7"
+      },
+      {
+        "key": "e_1_3_4_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mayocp.2019.12.008"
+      },
+      {
+        "key": "e_1_3_4_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/myc.13398"
+      },
+      {
+        "key": "e_1_3_4_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrdp.2016.59"
+      },
+      {
+        "key": "e_1_3_4_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhep.2015.05.032"
+      },
+      {
+        "key": "e_1_3_4_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.118.011598"
+      },
+      {
+        "key": "e_1_3_4_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.31083/j.rcm.2020.01.552"
+      },
+      {
+        "key": "e_1_3_4_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjcard.2023.06.094"
+      }
+    ],
+    "container-title": [
+      "Angiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00033197241227502",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/00033197241227502",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00033197241227502",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2026-04-28T10:21:53Z",
+      "timestamp": 1777371713000
+    },
+    "score": 43.52753,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/00033197241227502"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          12
+        ]
+      ]
+    },
+    "references-count": 26,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/00033197241227502"
+    ],
+    "URL": "https://doi.org/10.1177/00033197241227502",
+    "ISSN": [
+      "0003-3197",
+      "1940-1574"
+    ],
+    "issn-type": [
+      {
+        "value": "0003-3197",
+        "type": "print"
+      },
+      {
+        "value": "1940-1574",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          12
+        ]
+      ]
+    }
+  }
+]

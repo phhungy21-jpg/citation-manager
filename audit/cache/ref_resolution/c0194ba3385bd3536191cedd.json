@@ -1,0 +1,2749 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          7
+        ]
+      ],
+      "date-time": "2026-05-07T16:06:54Z",
+      "timestamp": 1778170014005,
+      "version": "3.51.4"
+    },
+    "reference-count": 54,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "9",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              7,
+              17
+            ]
+          ],
+          "date-time": "2017-07-17T00:00:00Z",
+          "timestamp": 1500249600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000765",
+        "name": "University College London (UCL)",
+        "doi-asserted-by": "crossref",
+        "id": [
+          {
+            "id": "10.13039/501100000765",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Curr Urol Rep"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1007/s11934-017-0717-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          17
+        ]
+      ],
+      "date-time": "2017-07-17T07:35:59Z",
+      "timestamp": 1500276959000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 59,
+    "title": [
+      "Surgical Techniques to Optimize Early Urinary Continence Recovery Post Robot Assisted Radical Prostatectomy for Prostate Cancer"
+    ],
+    "prefix": "10.1007",
+    "volume": "18",
+    "author": [
+      {
+        "given": "Ashwin N.",
+        "family": "Sridhar",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mohammed",
+        "family": "Abozaid",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Prabhakar",
+        "family": "Rajan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Prasanna",
+        "family": "Sooriakumaran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Greg",
+        "family": "Shaw",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Senthil",
+        "family": "Nathan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "John D.",
+        "family": "Kelly",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tim P",
+        "family": "Briggs",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "717_CR1",
+        "unstructured": "CDC, “CDC - Cancer Statistics - Men.” [Online]. Available: https://www.cdc.gov/cancer/dcpc/data/men.htm . [Accessed: 29-Apr-2017]."
+      },
+      {
+        "issue": "15",
+        "key": "717_CR2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1415",
+        "DOI": "10.1056/NEJMoa1606220",
+        "volume": "375",
+        "author": "FC Hamdy",
+        "year": "2016",
+        "unstructured": "Hamdy FC, Donovan JL, Lane JA, Mason M, Metcalfe C, Holding P, et al. 10-year outcomes after monitoring, surgery, or radiotherapy for localized prostate cancer. N Engl J Med. Oct. 2016;375(15):1415–24.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "717_CR3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Donovan JL, Hamdy FC, Lane JA, Mason M, Metcalfe C, Walsh E, et al., ProtecT Study Group. Patient-Reported Outcomes after Monitoring, Surgery, or Radiotherapy for Prostate Cancer. N Engl J Med. 2016;375(15):1425–37.",
+        "DOI": "10.1056/NEJMoa1606221"
+      },
+      {
+        "issue": "3",
+        "key": "717_CR4",
+        "doi-asserted-by": "crossref",
+        "first-page": "354",
+        "DOI": "10.1001/jama.283.3.354",
+        "volume": "283",
+        "author": "JL Stanford",
+        "year": "2000",
+        "unstructured": "Stanford JL, Feng Z, Hamilton AS, Gilliland FD, Stephenson RA, Eley JW, et al. Urinary and sexual function after radical prostatectomy for clinically localized prostate cancer: the prostate cancer outcomes study. JAMA. 2000;283(3):354–60.",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "3",
+        "key": "717_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "volume": "62",
+        "author": "V Ficarra",
+        "year": "2012",
+        "unstructured": "Ficarra V, Novara G, Rosen RC, Artibani W, Carroll PR, Costello A, et al. Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol. 2012;62(3):405–17.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "5",
+        "key": "717_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1016/j.urology.2005.06.116",
+        "volume": "66",
+        "author": "FJ Bianco",
+        "year": "2005",
+        "unstructured": "Bianco FJ, Scardino PT, Eastham JA. Radical prostatectomy: long-term cancer control and recovery of sexual and urinary function (‘trifecta’). Urology. 2005;66(5):83–94.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "4",
+        "key": "717_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1038/nrurol.2012.2",
+        "volume": "9",
+        "author": "HS Dev",
+        "year": "2012",
+        "unstructured": "Dev HS, Sooriakumaran P, Srivastava A, Tewari AK. Optimizing radical prostatectomy for the early recovery of urinary continence. Nat Rev Urol. 2012;9(4):189–95.",
+        "journal-title": "Nat Rev Urol"
+      },
+      {
+        "issue": "6",
+        "key": "717_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "936",
+        "DOI": "10.1016/j.eururo.2016.09.031",
+        "volume": "71",
+        "author": "J Heesakkers",
+        "year": "2017",
+        "unstructured": "Heesakkers J, Farag F, Bauer RM, Sandhu J, De Ridder D, Stenzl A. Pathophysiology and contributing factors in postprostatectomy incontinence: a review. Eur Urol. 2017;71(6):936–44.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "717_CR9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lee S, Yoon CJ, Park HJ, Lee JZ, Ha HK. The surgical procedure is the most important factor affecting continence recovery after laparoscopic radical prostatectomy. World J Mens Health. 2013;31(2, 163)",
+        "DOI": "10.5534/wjmh.2013.31.2.163"
+      },
+      {
+        "issue": "2",
+        "key": "717_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1016/j.eururo.2016.01.026",
+        "volume": "70",
+        "author": "J Walz",
+        "year": "2016",
+        "unstructured": "Walz J, Epstein JI, Ganzer R, Graefen M, Guazzoni G, Kaouk J, et al. A critical analysis of the current knowledge of surgical anatomy of the prostate related to optimisation of cancer control and preservation of continence and erection in candidates for radical prostatectomy: an update. Eur Urol. 2016;70(2):301–11.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "4",
+        "key": "717_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "592",
+        "DOI": "10.1002/nau.20768",
+        "volume": "29",
+        "author": "L-J Song",
+        "year": "2010",
+        "unstructured": "Song L-J, Lu H-K, Wang J-P, Xu Y-M. Cadaveric study of nerves supplying the membranous urethra. Neurourol Urodyn. 2010;29(4):592–5.",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "issue": "4",
+        "key": "717_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "530",
+        "DOI": "10.1016/S0090-4295(94)80052-9",
+        "volume": "44",
+        "author": "MS Steiner",
+        "year": "1994",
+        "unstructured": "Steiner MS. The puboprostatic ligament and the male urethral suspensory mechanism: an anatomic study. Urology. 1994;44(4):530–4.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "6",
+        "key": "717_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1713",
+        "DOI": "10.1016/S0002-9378(94)70346-9",
+        "volume": "170",
+        "author": "JO DeLancey",
+        "year": "1994",
+        "unstructured": "DeLancey JO. Structural support of the urethra as it relates to stress urinary incontinence: the hammock hypothesis. Am J Obstet Gynecol. 1994;170(6):1713–20–3.",
+        "journal-title": "Am J Obstet Gynecol"
+      },
+      {
+        "issue": "4",
+        "key": "717_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "338",
+        "DOI": "10.4103/0970-1591.120118",
+        "volume": "29",
+        "author": "M Smolski",
+        "year": "2013",
+        "unstructured": "Smolski M, Esler R, Turo R, Collins G, Oakley N, Brough R. Bladder neck sparing in radical prostatectomy. Indian J Urol. 2013;29(4):338.",
+        "journal-title": "Indian J Urol"
+      },
+      {
+        "issue": "3",
+        "key": "717_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "59",
+        "DOI": "10.1016/S1569-9056(14)50150-9",
+        "volume": "13",
+        "author": "A Sridhar",
+        "year": "2014",
+        "unstructured": "Sridhar A, Goldstraw M, Basnett G, Nathan S, Hines J, Kelly J, et al. VE33: The effect of bladder neck sparing versus bladder neck reconstruction on early return of continence. Eur Urol Suppl. 2014;13(3):59.",
+        "journal-title": "Eur Urol Suppl"
+      },
+      {
+        "issue": "3",
+        "key": "717_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "891",
+        "DOI": "10.1016/j.juro.2012.09.082",
+        "volume": "189",
+        "author": "JN Nyarangi-Dix",
+        "year": "2013",
+        "unstructured": "Nyarangi-Dix JN, Radtke JP, Hadaschik B, Pahernik S, Hohenfellner M. Impact of complete bladder neck preservation on urinary continence, quality of life and surgical margins after radical prostatectomy: a randomized, controlled, single blind trial. J Urol. 2013;189(3):891–8.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "41",
+        "key": "717_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "67463",
+        "DOI": "10.18632/oncotarget.11997",
+        "volume": "7",
+        "author": "X Ma",
+        "year": "2014",
+        "unstructured": "Ma X, Tang K, Yang C, Wu G, Xu N, Wang M, et al. Bladder neck preservation improves time to continence after radical prostatectomy: a systematic review and meta-analysis. Oncotarget. 2014;7(41):67463–75.",
+        "journal-title": "Oncotarget"
+      },
+      {
+        "issue": "6",
+        "key": "717_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "2225",
+        "DOI": "10.1097/01.ju.0000058213.15524.90",
+        "volume": "169",
+        "author": "CP Nelson",
+        "year": "2003",
+        "unstructured": "Nelson CP, Montie JE, McGuire EJ, Wedemeyer G, Wei JT. Intraoperative nerve stimulation with measurement of urethral sphincter pressure changes during radical retropubic prostatectomy: a feasibility study. J Urol. 2003;169(6):2225–8.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "8",
+        "key": "717_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1034",
+        "DOI": "10.1002/nau.22877",
+        "volume": "35",
+        "author": "Y Kadono",
+        "year": "2016",
+        "unstructured": "Kadono Y, Ueno S, Kadomoto S, Iwamoto H, Takezawa Y, Nakashima K, et al. Use of preoperative factors including urodynamic evaluations and nerve-sparing status for predicting urinary continence recovery after robot-assisted radical prostatectomy: nerve-sparing technique contributes to the reduction of postprostatectomy incontin. Neurourol Urodyn. 2016;35(8):1034–9.",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "717_CR20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "F. Reeves, P. Preece, J. Kapoor, W. Everaerts, D. G. Murphy, N. M. Corcoran, and A. J. Costello. Preservation of the neurovascular bundles is associated with improved time to continence after radical prostatectomy but not long-term continence rates: results of a systematic review and meta-analysis. Eur Urol., 2014.",
+        "DOI": "10.1016/j.eururo.2014.10.020"
+      },
+      {
+        "issue": "1",
+        "key": "717_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.5213/inj.1630428.214",
+        "volume": "20",
+        "author": "YH Park",
+        "year": "2006",
+        "unstructured": "Park YH, Kwon OS, Hong S-H, Kim SW, Hwang T-K, Lee JY. Effect of nerve-sparing radical prostatectomy on urinary continence in patients with preoperative erectile dysfunction. Int Neurourol J. 2006;20(1):69–74.",
+        "journal-title": "Int Neurourol J"
+      },
+      {
+        "issue": "4",
+        "key": "717_CR22",
+        "doi-asserted-by": "crossref",
+        "first-page": "584",
+        "DOI": "10.1016/j.eururo.2015.07.037",
+        "volume": "69",
+        "author": "U Michl",
+        "year": "2016",
+        "unstructured": "Michl U, Tennstedt P, Feldmeier L, Mandel P, Oh SJ, Ahyai S, et al. Nerve-sparing surgery technique, not the preservation of the neurovascular bundles, leads to improved long-term continence rates after radical prostatectomy. Eur Urol. 2016;69(4):584–9.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "6 Pt 2",
+        "key": "717_CR23",
+        "doi-asserted-by": "crossref",
+        "first-page": "2418",
+        "DOI": "10.1016/S0022-5347(01)62202-X",
+        "volume": "160",
+        "author": "PC Walsh",
+        "year": "1998",
+        "unstructured": "Walsh PC. Anatomic radical prostatectomy: evolution of the surgical technique. J Urol. 1998;160(6 Pt 2):2418–24.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "2",
+        "key": "717_CR24",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1016/j.eururo.2010.08.043",
+        "volume": "59",
+        "author": "Y Lei",
+        "year": "2011",
+        "unstructured": "Lei Y, Alemozaffar M, Williams SB, Hevelone N, Lipsitz SR, Plaster BA, et al. Athermal division and selective suture ligation of the dorsal vein complex during robot-assisted laparoscopic radical prostatectomy: description of technique and outcomes. Eur Urol. 2011;59(2):235–43.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "6",
+        "key": "717_CR25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1375",
+        "DOI": "10.1007/s00345-014-1241-5",
+        "volume": "32",
+        "author": "I Soljanik",
+        "year": "2014",
+        "unstructured": "Soljanik I, Bauer RM, Becker AJ, Stief CG, Gozzi C, Solyanik O, et al. Is a wider angle of the membranous urethra associated with incontinence after radical prostatectomy? World J Urol. 2014;32(6):1375–83.",
+        "journal-title": "World J Urol"
+      },
+      {
+        "issue": "1",
+        "key": "717_CR26",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1016/j.eururo.2005.10.002",
+        "volume": "49",
+        "author": "J-U Stolzenburg",
+        "year": "2006",
+        "unstructured": "Stolzenburg J-U, Liatsikos EN, Rabenalt R, Do M, Sakelaropoulos G, Horn LC, et al. Nerve sparing endoscopic extraperitoneal radical prostatectomy—effect of puboprostatic ligament preservation on early continence and positive margins. Eur Urol. 2006;49(1):103–11–2.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "6",
+        "key": "717_CR27",
+        "doi-asserted-by": "crossref",
+        "first-page": "766",
+        "DOI": "10.1111/j.1464-410X.2005.05397.x",
+        "volume": "95",
+        "author": "A Takenaka",
+        "year": "2005",
+        "unstructured": "Takenaka A, Hara R, Soga H, Murakami G, Fujisawa M. A novel technique for approaching the endopelvic fascia in retropubic radical prostatectomy, based on an anatomical study of fixed and fresh cadavers. BJU Int. 2005;95(6):766–71.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "4",
+        "key": "717_CR28",
+        "doi-asserted-by": "crossref",
+        "first-page": "892",
+        "DOI": "10.1016/j.eururo.2009.01.021",
+        "volume": "55",
+        "author": "HG Poel van der",
+        "year": "2009",
+        "unstructured": "van der Poel HG, de Blok W, Joshi N, van Muilekom E. Preservation of lateral prostatic fascia is associated with urine continence after robotic-assisted prostatectomy. Eur Urol. 2009;55(4):892–901.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "2",
+        "key": "717_CR29",
+        "doi-asserted-by": "crossref",
+        "first-page": "236",
+        "DOI": "10.1111/bju.12705",
+        "volume": "114",
+        "author": "SK Lim",
+        "year": "2014",
+        "unstructured": "Lim SK, Kim KH, Shin T-Y, Han WK, Chung BH, Hong SJ, et al. Retzius-sparing robot-assisted laparoscopic radical prostatectomy: combining the best of retropubic and perineal approaches. BJU Int. 2014;114(2):236–44.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "3",
+        "key": "717_CR30",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1016/j.eururo.2010.04.032",
+        "volume": "58",
+        "author": "AD Asimakopoulos",
+        "year": "2010",
+        "unstructured": "Asimakopoulos AD, Annino F, D’Orazio A, Pereira CFT, Mugnier C, Hoepffner J-L, et al. Complete Periprostatic anatomy preservation during robot-assisted laparoscopic radical prostatectomy (RALP): the new pubovesical complex-sparing technique. Eur Urol. 2010;58(3):407–17.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "6",
+        "key": "717_CR31",
+        "doi-asserted-by": "crossref",
+        "first-page": "974",
+        "DOI": "10.1016/j.eururo.2013.06.046",
+        "volume": "64",
+        "author": "A Galfano",
+        "year": "2013",
+        "unstructured": "Galfano A, Di Trapani D, Sozzi F, Strada E, Petralia G, Bramerio M, et al. Beyond the learning curve of the Retzius-sparing approach for robot-assisted laparoscopic radical prostatectomy: oncologic and functional results of the first 200 patients with ≥1 year of follow-up. Eur Urol. 2013;64(6):974–80.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "717_CR32",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1016/j.eururo.2008.08.057",
+        "volume": "55",
+        "author": "P Paparel",
+        "year": "2009",
+        "unstructured": "Paparel P, Akin O, Sandhu JS, Otero JR, Serio AM, Scardino PT, et al. Recovery of urinary continence after radical prostatectomy: association with urethral length and urethral fibrosis measured by preoperative and postoperative endorectal magnetic resonance imaging. Eur Urol. 2009;55(3):629–37.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3–4",
+        "key": "717_CR33",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.5489/cuaj.4035",
+        "volume": "11",
+        "author": "W Song",
+        "year": "2017",
+        "unstructured": "Song W, Kim CK, Park BK, Jeon HG, Jeong BC, Il Seo S, et al. Impact of preoperative and postoperative membranous urethral length measured by 3 Tesla magnetic resonance imaging on urinary continence recovery after robotic-assisted radical prostatectomy. Can Urol Assoc J. 2017;11(3–4):93.",
+        "journal-title": "Can Urol Assoc J"
+      },
+      {
+        "issue": "6",
+        "key": "717_CR34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1025",
+        "DOI": "10.1089/end.2010.0692",
+        "volume": "25",
+        "author": "AA Hakimi",
+        "year": "2011",
+        "unstructured": "Hakimi AA, Faleck DM, Agalliu I, Rozenblit AM, Chernyak V, Ghavamian R. Preoperative and intraoperative measurements of urethral length as predictors of continence after robot-assisted radical prostatectomy. J Endourol. 2011;25(6):1025–30.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "issue": "2",
+        "key": "717_CR35",
+        "doi-asserted-by": "crossref",
+        "first-page": "320",
+        "DOI": "10.1016/j.eururo.2011.02.040",
+        "volume": "60",
+        "author": "T Schlomm",
+        "year": "2011",
+        "unstructured": "Schlomm T, Heinzer H, Steuber T, Salomon G, Engel O, Michl U, et al. Full functional-length urethral sphincter preservation during radical prostatectomy. Eur Urol. 2011;60(2):320–9.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "717_CR36",
+        "doi-asserted-by": "crossref",
+        "first-page": "368",
+        "DOI": "10.1016/j.eururo.2016.06.023",
+        "volume": "71",
+        "author": "SF Mungovan",
+        "year": "2017",
+        "unstructured": "Mungovan SF, Sandhu JS, Akin O, Smart NA, Graham PL, Patel MI. Preoperative membranous urethral length measurement and continence recovery following radical prostatectomy: a systematic review and meta-analysis. Eur Urol. 2017;71(3):368–78.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "717_CR37",
+        "first-page": "127",
+        "volume": "73",
+        "author": "F Rocco",
+        "year": "2001",
+        "unstructured": "Rocco F, Gadda F, Acquati P, Carmignani L, Favini P, Dell’Orto P, et al. Personal research: reconstruction of the urethral striated sphincter. Arch Ital di Urol Androl organo Uff [di] Soc Ital di Ecogr Urol e Nefrol. 2001;73(3):127–37.",
+        "journal-title": "Arch Ital di Urol Androl organo Uff [di] Soc Ital di Ecogr Urol e Nefrol"
+      },
+      {
+        "issue": "1",
+        "key": "717_CR38",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.eururo.2010.08.025",
+        "volume": "59",
+        "author": "RF Coelho",
+        "year": "2011",
+        "unstructured": "Coelho RF, Chauhan S, Orvieto MA, Sivaraman A, Palmer KJ, Coughlin G, et al. Influence of modified posterior reconstruction of the rhabdosphincter on early recovery of continence and anastomotic leakage rates after robot-assisted radical prostatectomy. Eur Urol. Jan. 2011;59(1):72–80.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "5",
+        "key": "717_CR39",
+        "doi-asserted-by": "crossref",
+        "first-page": "779",
+        "DOI": "10.1016/j.eururo.2012.05.041",
+        "volume": "62",
+        "author": "B Rocco",
+        "year": "2012",
+        "unstructured": "Rocco B, Cozzi G, Spinelli MG, Coelho RF, Patel VR, Tewari A, et al. Posterior musculofascial reconstruction after radical prostatectomy: a systematic review of the literature. Eur Urol. 2012;62(5):779–90.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "1",
+        "key": "717_CR40",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1111/bju.13480",
+        "volume": "118",
+        "author": "AAC Grasso",
+        "year": "2016",
+        "unstructured": "Grasso AAC, Mistretta FA, Sandri M, Cozzi G, De Lorenzis E, Rosso M, et al. Posterior musculofascial reconstruction after radical prostatectomy: an updated systematic review and a meta-analysis. BJU Int. 2016;118(1):20–34.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "7",
+        "key": "717_CR41",
+        "doi-asserted-by": "crossref",
+        "first-page": "871",
+        "DOI": "10.1111/j.1464-410X.2008.07424.x",
+        "volume": "101",
+        "author": "A Tewari",
+        "year": "2008",
+        "unstructured": "Tewari A, Jhaveri J, Rao S, Yadav R, Bartsch G, Te A, et al. Total reconstruction of the vesico-urethral junction. BJU Int. 2008;101(7):871–7.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "6",
+        "key": "717_CR42",
+        "doi-asserted-by": "crossref",
+        "first-page": "875",
+        "DOI": "10.1111/j.1464-410X.2011.10849.x",
+        "volume": "110",
+        "author": "X Hurtes",
+        "year": "2012",
+        "unstructured": "Hurtes X, Rouprêt M, Vaessen C, Pereira H, Faivre d’Arcier B, Cormier L, et al. Anterior suspension combined with posterior reconstruction during robot-assisted laparoscopic prostatectomy improves early return of urinary continence: a prospective randomized multicentre trial. BJU Int. 2012;110(6):875–83.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "5",
+        "key": "717_CR43",
+        "doi-asserted-by": "crossref",
+        "first-page": "822",
+        "DOI": "10.1016/j.eururo.2016.05.032",
+        "volume": "71",
+        "author": "V Student",
+        "year": "2017",
+        "unstructured": "Student V, Vidlar A, Grepl M, Hartmann I, Buresova E, Student V. Advanced reconstruction of vesicourethral support (ARVUS) during robot-assisted radical prostatectomy: one-year functional outcomes in a two-group randomised controlled trial. Eur Urol. 2017;71(5):822–30.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "11",
+        "key": "717_CR44",
+        "doi-asserted-by": "crossref",
+        "first-page": "1132",
+        "DOI": "10.1111/iju.12539",
+        "volume": "21",
+        "author": "A Hoshi",
+        "year": "2014",
+        "unstructured": "Hoshi A, Nitta M, Shimizu Y, Higure T, Kawakami M, Nakajima N, et al. Total pelvic floor reconstruction during non-nerve-sparing laparoscopic radical prostatectomy: impact on early recovery of urinary continence. Int J Urol. 2014;21(11):1132–7.",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "issue": "4",
+        "key": "717_CR45",
+        "doi-asserted-by": "crossref",
+        "first-page": "381",
+        "DOI": "10.1089/end.2010.0654",
+        "volume": "26",
+        "author": "F Atug",
+        "year": "2012",
+        "unstructured": "Atug F, Kural AR, Tufek I, Srivastav S, Akpinar H. Anterior and posterior reconstruction technique and its impact on early return of continence after robot-assisted radical prostatectomy. J Endourol. 2012;26(4):381–6.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "issue": "3",
+        "key": "717_CR46",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1007/s11701-009-0151-9",
+        "volume": "3",
+        "author": "JF Kalisvaart",
+        "year": "2009",
+        "unstructured": "Kalisvaart JF, Osann KE, Finley DS, Ornstein DK. Posterior reconstruction and anterior suspension with single anastomotic suture in robot-assisted laparoscopic radical prostatectomy: a simple method to improve early return of continence. J Robot Surg. 2009;3(3):149–53.",
+        "journal-title": "J Robot Surg"
+      },
+      {
+        "issue": "3",
+        "key": "717_CR47",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1016/j.eururo.2015.08.005",
+        "volume": "69",
+        "author": "F Porpiglia",
+        "year": "2016",
+        "unstructured": "Porpiglia F, Bertolo R, Manfredi M, De Luca S, Checcucci E, Morra I, et al. Total anatomical reconstruction during robot-assisted radical prostatectomy: implications on early recovery of urinary continence. Eur Urol. 2016;69(3):485–95.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "2",
+        "key": "717_CR48",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.5213/inj.2015.19.2.113",
+        "volume": "19",
+        "author": "SW Lee",
+        "year": "2015",
+        "unstructured": "Lee SW, Han DH, Lee K-S, Jeon SS. Effect of continuous urethro-vesical anastomosis technique in incontinence after radical retropubic prostatectomy, 1:1 matching study. Int Neurourol J. 2015;19(2):113–9.",
+        "journal-title": "Int Neurourol J"
+      },
+      {
+        "issue": "6",
+        "key": "717_CR49",
+        "doi-asserted-by": "crossref",
+        "first-page": "1308",
+        "DOI": "10.1016/j.urology.2006.08.1080",
+        "volume": "68",
+        "author": "C Tuygun",
+        "year": "2006",
+        "unstructured": "Tuygun C, Imamoglu A, Keyik B, Alisir I, Yorubulut M. Significance of fibrosis around and/or at external urinary sphincter on pelvic magnetic resonance imaging in patients with postprostatectomy incontinence. Urology. 2006;68(6):1308–12.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "6",
+        "key": "717_CR50",
+        "doi-asserted-by": "crossref",
+        "first-page": "977",
+        "DOI": "10.1016/j.eururo.2015.01.012",
+        "volume": "67",
+        "author": "VR Patel",
+        "year": "2015",
+        "unstructured": "Patel VR, Samavedi S, Bates AS, Kumar A, Coelho R, Rocco B, et al. Dehydrated human amnion/chorion membrane allograft nerve wrap around the prostatic neurovascular bundle accelerates early return to continence and potency following robot-assisted radical prostatectomy: propensity score–matched analysis. Eur Urol. 2015;67(6):977–80.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "717_CR51",
+        "first-page": "1",
+        "volume": "2016",
+        "author": "S Zhou",
+        "year": "2016",
+        "unstructured": "Zhou S, Zhang K, Atala A, Khoury O, Murphy SV, Zhao W, et al. Stem cell therapy for treatment of stress urinary incontinence: the current status and challenges. Stem Cells Int. 2016;2016:1–7.",
+        "journal-title": "Stem Cells Int"
+      },
+      {
+        "issue": "3",
+        "key": "717_CR52",
+        "doi-asserted-by": "crossref",
+        "first-page": "632",
+        "DOI": "10.1016/j.urology.2013.09.059",
+        "volume": "83",
+        "author": "Y Kojima",
+        "year": "2014",
+        "unstructured": "Kojima Y, Hamakawa T, Kubota Y, Ogawa S, Haga N, Tozawa K, et al. Bladder neck sling suspension during robot-assisted radical prostatectomy to improve early return of urinary continence: a comparative analysis. Urology. 2014;83(3):632–9.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "717_CR53",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cestari A, Ferrari M, Sangalli M, Zanoni M, Ghezzi M, Fabbri F, et al. Simple vs six-branches autologous suburethral sling during robot-assisted radical prostatectomy to improve early urinary continence recovery: prospective randomized study. J Robot Surg. 2017:1–7.",
+        "DOI": "10.1007/s11701-017-0672-6"
+      },
+      {
+        "issue": "2",
+        "key": "717_CR54",
+        "doi-asserted-by": "crossref",
+        "first-page": "369",
+        "DOI": "10.1016/j.juro.2016.08.122",
+        "volume": "197",
+        "author": "HG Nguyen",
+        "year": "2017",
+        "unstructured": "Nguyen HG, Punnen S, Cowan JE, Leapman M, Cary C, Welty C, et al. A randomized study of intraoperative autologous retropubic urethral sling on urinary control after robotic assisted radical prostatectomy. J Urol. 2017;197(2):369–75.",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Current Urology Reports"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/article/10.1007/s11934-017-0717-4/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11934-017-0717-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11934-017-0717-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2020-10-12T17:29:28Z",
+      "timestamp": 1602523768000
+    },
+    "score": 126.059685,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/s11934-017-0717-4"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          17
+        ]
+      ]
+    },
+    "references-count": 54,
+    "journal-issue": {
+      "issue": "9",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "717"
+    ],
+    "URL": "https://doi.org/10.1007/s11934-017-0717-4",
+    "ISSN": [
+      "1527-2737",
+      "1534-6285"
+    ],
+    "issn-type": [
+      {
+        "value": "1527-2737",
+        "type": "print"
+      },
+      {
+        "value": "1534-6285",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          17
+        ]
+      ]
+    },
+    "article-number": "71"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T13:53:15Z",
+      "timestamp": 1648821195522
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2017-09-01T00:00:00Z",
+          "timestamp": 1504224000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(17)31517-8",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2017-09-25T01:30:21Z",
+      "timestamp": 1506303021000
+    },
+    "page": "e2379",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Surgical techniques to optimise early urinary continence recovery post robot assisted radical prostatectomy for prostate cancer"
+    ],
+    "prefix": "10.1016",
+    "volume": "16",
+    "author": [
+      {
+        "given": "A.N.",
+        "family": "Sridhar",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Mohammed",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "G.",
+        "family": "Mazzon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "G.",
+        "family": "Busuttil",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Thompson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.D.",
+        "family": "Kelly",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Nathan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "G.",
+        "family": "Shaw",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Rajan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Sooriakumaran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "T.P.",
+        "family": "Briggs",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905617315178?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905617315178?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          27
+        ]
+      ],
+      "date-time": "2018-08-27T08:54:36Z",
+      "timestamp": 1535360076000
+    },
+    "score": 86.048836,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905617315178"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905617315178"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(17)31517-8",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          26
+        ]
+      ],
+      "date-time": "2025-03-26T06:47:19Z",
+      "timestamp": 1742971639484,
+      "version": "3.40.3"
+    },
+    "publisher-location": "Cham",
+    "reference-count": 124,
+    "publisher": "Springer International Publishing",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783031058547"
+      },
+      {
+        "type": "electronic",
+        "value": "9783031058554"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2022-01-01T00:00:00Z",
+          "timestamp": 1640995200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2022-01-01T00:00:00Z",
+          "timestamp": 1640995200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-031-05855-4_50",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          30
+        ]
+      ],
+      "date-time": "2022-11-30T21:30:04Z",
+      "timestamp": 1669843804000
+    },
+    "page": "397-409",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Functional Recovery POST-RALP: Continence"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Dahong",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yuchen",
+        "family": "Bai",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Qi",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "50_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "7",
+        "DOI": "10.3322/caac.21551",
+        "volume": "69",
+        "author": "RL Siegel",
+        "year": "2019",
+        "unstructured": "Siegel RL, Miller KD, Jemal A. Cancer statistics, 2019. CA Cancer J Clin. 2019;69:7–34. https://doi.org/10.3322/caac.21551.",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "key": "50_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "7",
+        "DOI": "10.1007/s00345-017-2102-9",
+        "volume": "36",
+        "author": "M Bandini",
+        "year": "2018",
+        "unstructured": "Bandini M, et al. Radical prostatectomy or radiotherapy reduce prostate cancer mortality in elderly patients: a population-based propensity score adjusted analysis. World J Urol. 2018;36:7–13. https://doi.org/10.1007/s00345-017-2102-9.",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "50_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "932",
+        "DOI": "10.1056/NEJMoa1311593",
+        "volume": "370",
+        "author": "A Bill-Axelson",
+        "year": "2014",
+        "unstructured": "Bill-Axelson A, et al. Radical prostatectomy or watchful waiting in early prostate cancer. N Engl J Med. 2014;370:932–42. https://doi.org/10.1056/NEJMoa1311593.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "50_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1415",
+        "DOI": "10.1056/NEJMoa1606220",
+        "volume": "375",
+        "author": "FC Hamdy",
+        "year": "2016",
+        "unstructured": "Hamdy FC, et al. 10-year outcomes after monitoring, surgery, or radiotherapy for localized prostate cancer. N Engl J Med. 2016;375:1415–24. https://doi.org/10.1056/NEJMoa1606220.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "50_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "72",
+        "DOI": "10.1016/j.clgc.2018.09.011",
+        "volume": "17",
+        "author": "M Bandini",
+        "year": "2019",
+        "unstructured": "Bandini M, et al. Increasing rate of noninterventional treatment Management in localized prostate cancer candidates for active surveillance: a North American population-based study. Clin Genitourin Cancer. 2019;17:72–78.e74. https://doi.org/10.1016/j.clgc.2018.09.011.",
+        "journal-title": "Clin Genitourin Cancer"
+      },
+      {
+        "key": "50_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1051",
+        "DOI": "10.1016/s1470-2045(18)30357-7",
+        "volume": "19",
+        "author": "GD Coughlin",
+        "year": "2018",
+        "unstructured": "Coughlin GD, et al. Robot-assisted laparoscopic prostatectomy versus open radical retropubic prostatectomy: 24-month outcomes from a randomised controlled study. Lancet Oncol. 2018;19:1051–60. https://doi.org/10.1016/s1470-2045(18)30357-7.",
+        "journal-title": "Lancet Oncol"
+      },
+      {
+        "key": "50_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1057",
+        "DOI": "10.1016/s0140-6736(16)30592-x",
+        "volume": "388",
+        "author": "JW Yaxley",
+        "year": "2016",
+        "unstructured": "Yaxley JW, et al. Robot-assisted laparoscopic prostatectomy versus open radical retropubic prostatectomy: early outcomes from a randomised controlled phase 3 study. Lancet. 2016;388:1057–66. https://doi.org/10.1016/s0140-6736(16)30592-x.",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "50_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "801",
+        "DOI": "10.1111/bju.14369",
+        "volume": "122",
+        "author": "RS Pompe",
+        "year": "2018",
+        "unstructured": "Pompe RS, et al. Postoperative complications of contemporary open and robot-assisted laparoscopic radical prostatectomy using standardised reporting systems. BJU Int. 2018;122:801–7. https://doi.org/10.1111/bju.14369.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "63",
+        "DOI": "10.23736/s0026-4733.18.07761-1",
+        "volume": "74",
+        "author": "M Manfredi",
+        "year": "2019",
+        "unstructured": "Manfredi M, Fiori C, Amparore D, Checcucci E, Porpiglia F. Technical details to achieve perfect early continence after radical prostatectomy. Minerva Chir. 2019;74:63–77. https://doi.org/10.23736/s0026-4733.18.07761-1.",
+        "journal-title": "Minerva Chir"
+      },
+      {
+        "key": "50_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "volume": "62",
+        "author": "V Ficarra",
+        "year": "2012",
+        "unstructured": "Ficarra V, et al. Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol. 2012;62:405–17. https://doi.org/10.1016/j.eururo.2012.05.045.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "936",
+        "DOI": "10.1111/bju.12258",
+        "volume": "112",
+        "author": "I Geraerts",
+        "year": "2013",
+        "unstructured": "Geraerts I, et al. Prospective evaluation of urinary incontinence, voiding symptoms and quality of life after open and robot-assisted radical prostatectomy. BJU Int. 2013;112:936–43. https://doi.org/10.1111/bju.12258.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "785",
+        "DOI": "10.1016/j.eururo.2008.06.063",
+        "volume": "54",
+        "author": "FR Schroeck",
+        "year": "2008",
+        "unstructured": "Schroeck FR, et al. Satisfaction and regret after open retropubic or robot-assisted laparoscopic radical prostatectomy. Eur Urol. 2008;54:785–93. https://doi.org/10.1016/j.eururo.2008.06.063.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "364",
+        "DOI": "10.1016/j.euf.2017.11.007",
+        "volume": "3",
+        "author": "A Kretschmer",
+        "year": "2017",
+        "unstructured": "Kretschmer A, Nitti V. Surgical treatment of male postprostatectomy incontinence: current concepts. Eur Urol Focus. 2017;3:364–76. https://doi.org/10.1016/j.euf.2017.11.007.",
+        "journal-title": "Eur Urol Focus"
+      },
+      {
+        "key": "50_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "535",
+        "DOI": "10.1007/s40266-016-0388-8",
+        "volume": "33",
+        "author": "A Løvvik",
+        "year": "2016",
+        "unstructured": "Løvvik A, Müller S, Patel HR. Pharmacological treatment of post-prostatectomy incontinence: what is the evidence? Drugs Aging. 2016;33:535–44. https://doi.org/10.1007/s40266-016-0388-8.",
+        "journal-title": "Drugs Aging"
+      },
+      {
+        "key": "50_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "324",
+        "DOI": "10.23736/s0393-2249.19.03395-2",
+        "volume": "71",
+        "author": "F Zattoni",
+        "year": "2019",
+        "unstructured": "Zattoni F, et al. Technical innovations to optimize continence recovery after robotic assisted radical prostatectomy. Minerva Urol Nefrol. 2019;71:324–38. https://doi.org/10.23736/s0393-2249.19.03395-2.",
+        "journal-title": "Minerva Urol Nefrol"
+      },
+      {
+        "key": "50_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "936",
+        "DOI": "10.1016/j.eururo.2016.09.031",
+        "volume": "71",
+        "author": "J Heesakkers",
+        "year": "2017",
+        "unstructured": "Heesakkers J, et al. Pathophysiology and contributing factors in postprostatectomy incontinence: a review. Eur Urol. 2017;71:936–44. https://doi.org/10.1016/j.eururo.2016.09.031.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "234",
+        "DOI": "10.23736/s0393-2249.16.02790-9",
+        "volume": "69",
+        "author": "AL Pastore",
+        "year": "2017",
+        "unstructured": "Pastore AL, et al. The role of detrusor overactivity in urinary incontinence after radical prostatectomy: a systematic review. Minerva Urol Nefrol. 2017;69:234–41. https://doi.org/10.23736/s0393-2249.16.02790-9.",
+        "journal-title": "Minerva Urol Nefrol"
+      },
+      {
+        "key": "50_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "38",
+        "DOI": "10.1016/j.eururo.2007.03.051",
+        "volume": "52",
+        "author": "M Porena",
+        "year": "2007",
+        "unstructured": "Porena M, Mearini E, Mearini L, Vianello A, Giannantoni A. Voiding dysfunction after radical retropubic prostatectomy: more than external urethral sphincter deficiency. Eur Urol. 2007;52:38–45. https://doi.org/10.1016/j.eururo.2007.03.051.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "1052",
+        "DOI": "10.1111/iju.12214",
+        "volume": "20",
+        "author": "Y Kojima",
+        "year": "2013",
+        "unstructured": "Kojima Y, et al. Urinary incontinence after robot-assisted radical prostatectomy: pathophysiology and intraoperative techniques to improve surgical outcome. Int J Urol. 2013;20:1052–63. https://doi.org/10.1111/iju.12214.",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "50_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "337",
+        "DOI": "10.1097/00005392-199502000-00012",
+        "volume": "153",
+        "author": "P Narayan",
+        "year": "1995",
+        "unstructured": "Narayan P, et al. Neuroanatomy of the external urethral sphincter: implications for urinary continence preservation during radical prostate surgery. J Urol. 1995;153:337–41. https://doi.org/10.1097/00005392-199502000-00012.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "892",
+        "DOI": "10.1016/j.eururo.2009.01.021",
+        "volume": "55",
+        "author": "HG van der Poel",
+        "year": "2009",
+        "unstructured": "van der Poel HG, de Blok W, Joshi N, van Muilekom E. Preservation of lateral prostatic fascia is associated with urine continence after robotic-assisted prostatectomy. Eur Urol. 2009;55:892–900. https://doi.org/10.1016/j.eururo.2009.01.021.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "203",
+        "key": "50_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "e211",
+        "DOI": "10.1016/j.urolonc.2015.01.015",
+        "volume": "33",
+        "author": "P Mandel",
+        "year": "2015",
+        "unstructured": "Mandel P, Graefen M, Michl U, Huland H, Tilki D. The effect of age on functional outcomes after radical prostatectomy. Urol Oncol. 2015;33(203):e211–08. https://doi.org/10.1016/j.urolonc.2015.01.015.",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "50_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "1028",
+        "DOI": "10.1016/j.juro.2010.04.069",
+        "volume": "184",
+        "author": "G Novara",
+        "year": "2010",
+        "unstructured": "Novara G, et al. Evaluating urinary continence and preoperative predictors of urinary continence after robot assisted laparoscopic radical prostatectomy. J Urol. 2010;184:1028–33. https://doi.org/10.1016/j.juro.2010.04.069.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "519",
+        "DOI": "10.1089/end.2006.9845",
+        "volume": "22",
+        "author": "FP Mendiola",
+        "year": "2008",
+        "unstructured": "Mendiola FP, et al. Urinary and sexual function outcomes among different age groups after robot-assisted laparoscopic prostatectomy. J Endourol. 2008;22:519–24. https://doi.org/10.1089/end.2006.9845.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "50_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "8279523",
+        "DOI": "10.1155/2018/8279523",
+        "volume": "2018",
+        "author": "Y Wei",
+        "year": "2018",
+        "unstructured": "Wei Y, et al. Impact of obesity on long-term urinary incontinence after radical prostatectomy: a meta-analysis. Biomed Res Int. 2018;2018:8279523. https://doi.org/10.1155/2018/8279523.",
+        "journal-title": "Biomed Res Int"
+      },
+      {
+        "key": "50_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "352",
+        "DOI": "10.1016/j.euf.2017.11.004",
+        "volume": "3",
+        "author": "C De Nunzio",
+        "year": "2017",
+        "unstructured": "De Nunzio C, Roehrborn CG, Andersson KE, McVary KT. Erectile dysfunction and lower urinary tract symptoms. Eur Urol Focus. 2017;3:352–63. https://doi.org/10.1016/j.euf.2017.11.004.",
+        "journal-title": "Eur Urol Focus"
+      },
+      {
+        "key": "50_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "577",
+        "DOI": "10.1111/bju.13087",
+        "volume": "116",
+        "author": "K Matsushita",
+        "year": "2015",
+        "unstructured": "Matsushita K, et al. Preoperative predictive model of recovery of urinary continence after radical prostatectomy. BJU Int. 2015;116:577–83. https://doi.org/10.1111/bju.13087.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "316",
+        "DOI": "10.1016/j.urology.2008.08.493",
+        "volume": "73",
+        "author": "AL Wiltz",
+        "year": "2009",
+        "unstructured": "Wiltz AL, et al. Robotic radical prostatectomy in overweight and obese patients: oncological and validated-functional outcomes. Urology. 2009;73:316–22. https://doi.org/10.1016/j.urology.2008.08.493.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "50_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "198",
+        "DOI": "10.1089/end.2014.0354",
+        "volume": "29",
+        "author": "T Xu",
+        "year": "2015",
+        "unstructured": "Xu T, et al. Robot-assisted prostatectomy in obese patients: how influential is obesity on operative outcomes? J Endourol. 2015;29:198–208. https://doi.org/10.1089/end.2014.0354.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "50_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "1087",
+        "DOI": "10.1016/j.juro.2009.11.033",
+        "volume": "183",
+        "author": "D Teber",
+        "year": "2010",
+        "unstructured": "Teber D, et al. Is type 2 diabetes mellitus a predictive factor for incontinence after laparoscopic radical prostatectomy? A matched pair and multivariate analysis. J Urol. 2010;183:1087–91. https://doi.org/10.1016/j.juro.2009.11.033.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "113",
+        "DOI": "10.1007/s00345-015-1594-4",
+        "volume": "34",
+        "author": "G Hatiboglu",
+        "year": "2016",
+        "unstructured": "Hatiboglu G, et al. Predictive factors for immediate continence after radical prostatectomy. World J Urol. 2016;34:113–20. https://doi.org/10.1007/s00345-015-1594-4.",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "50_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "1180",
+        "DOI": "10.1016/j.eururo.2007.07.027",
+        "volume": "53",
+        "author": "N Suardi",
+        "year": "2008",
+        "unstructured": "Suardi N, et al. Nerve-sparing radical retropubic prostatectomy in patients previously submitted to holmium laser enucleation of the prostate for bladder outlet obstruction due to benign prostatic enlargement. Eur Urol. 2008;53:1180–5. https://doi.org/10.1016/j.eururo.2007.07.027.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "24",
+        "DOI": "10.1080/13685538.2017.1369944",
+        "volume": "21",
+        "author": "A Tienza",
+        "year": "2018",
+        "unstructured": "Tienza A, et al. Prevalence analysis of urinary incontinence after radical prostatectomy and influential preoperative factors in a single institution. Aging Male. 2018;21:24–30. https://doi.org/10.1080/13685538.2017.1369944.",
+        "journal-title": "Aging Male"
+      },
+      {
+        "key": "50_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "1501",
+        "DOI": "10.1111/j.1464-410X.2011.10113.x",
+        "volume": "108",
+        "author": "NP Gupta",
+        "year": "2011",
+        "unstructured": "Gupta NP, Singh P, Nayyar R. Outcomes of robot-assisted radical prostatectomy in men with previous transurethral resection of prostate. BJU Int. 2011;108:1501–5. https://doi.org/10.1111/j.1464-410X.2011.10113.x.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "163",
+        "DOI": "10.1089/end.2019.0436",
+        "volume": "34",
+        "author": "ZA Abedali",
+        "year": "2020",
+        "unstructured": "Abedali ZA, et al. Robot-assisted radical prostatectomy in patients with a history of holmium laser enucleation of the prostate: the Indiana University experience. J Endourol. 2020;34:163–8. https://doi.org/10.1089/end.2019.0436.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "50_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "949",
+        "DOI": "10.1016/j.juro.2009.05.029",
+        "volume": "182",
+        "author": "JA Pettus",
+        "year": "2009",
+        "unstructured": "Pettus JA, et al. Prostate size is associated with surgical difficulty but not functional outcome at 1 year after radical prostatectomy. J Urol. 2009;182:949–55. https://doi.org/10.1016/j.juro.2009.05.029.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "320",
+        "DOI": "10.21037/tau.2019.06.24",
+        "volume": "8",
+        "author": "L Dommer",
+        "year": "2019",
+        "unstructured": "Dommer L, et al. Lower urinary tract symptoms (LUTS) before and after robotic-assisted laparoscopic prostatectomy: does improvement of LUTS mitigate worsened incontinence after robotic prostatectomy? Transl Androl Urol. 2019;8:320–8. https://doi.org/10.21037/tau.2019.06.24.",
+        "journal-title": "Transl Androl Urol"
+      },
+      {
+        "key": "50_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "54",
+        "DOI": "10.1016/j.prnil.2018.06.003",
+        "volume": "7",
+        "author": "K Kitamura",
+        "year": "2019",
+        "unstructured": "Kitamura K, et al. Significant association between urethral length measured by magnetic resonance imaging and urinary continence recovery after robot-assisted radical prostatectomy. Prostate Int. 2019;7:54–9. https://doi.org/10.1016/j.prnil.2018.06.003.",
+        "journal-title": "Prostate Int"
+      },
+      {
+        "key": "50_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "368",
+        "DOI": "10.1016/j.eururo.2016.06.023",
+        "volume": "71",
+        "author": "SF Mungovan",
+        "year": "2017",
+        "unstructured": "Mungovan SF, et al. Preoperative membranous urethral length measurement and continence recovery following radical prostatectomy: a systematic review and meta-analysis. Eur Urol. 2017;71:368–78. https://doi.org/10.1016/j.eururo.2016.06.023.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "1032",
+        "DOI": "10.1097/01.ju.0000025881.75827.a5",
+        "volume": "168",
+        "author": "FV Coakley",
+        "year": "2002",
+        "unstructured": "Coakley FV, et al. Urinary continence after radical retropubic prostatectomy: relationship with membranous urethral length on preoperative endorectal magnetic resonance imaging. J Urol. 2002;168:1032–5. https://doi.org/10.1097/01.ju.0000025881.75827.a5.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "137",
+        "DOI": "10.1016/j.urology.2006.01.021",
+        "volume": "68",
+        "author": "SE Lee",
+        "year": "2006",
+        "unstructured": "Lee SE, et al. Impact of variations in prostatic apex shape on early recovery of urinary continence after radical retropubic prostatectomy. Urology. 2006;68:137–41. https://doi.org/10.1016/j.urology.2006.01.021.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "50_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "1375",
+        "DOI": "10.1007/s00345-014-1241-5",
+        "volume": "32",
+        "author": "I Soljanik",
+        "year": "2014",
+        "unstructured": "Soljanik I, et al. Is a wider angle of the membranous urethra associated with incontinence after radical prostatectomy? World J Urol. 2014;32:1375–83. https://doi.org/10.1007/s00345-014-1241-5.",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "50_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "360",
+        "DOI": "10.1111/bju.14189",
+        "volume": "122",
+        "author": "P Chandak",
+        "year": "2018",
+        "unstructured": "Chandak P, et al. Three-dimensional printing in robot-assisted radical prostatectomy - an idea, development, exploration, assessment, long-term follow-up (IDEAL) phase 2a study. BJU Int. 2018;122:360–1. https://doi.org/10.1111/bju.14189.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "226",
+        "DOI": "10.23736/s0393-2249.18.03143-0",
+        "volume": "70",
+        "author": "F Porpiglia",
+        "year": "2018",
+        "unstructured": "Porpiglia F, et al. Augmented reality during robot-assisted radical prostatectomy: expert robotic surgeons’ on-the-spot insights after live surgery. Minerva Urol Nefrol. 2018;70:226–9. https://doi.org/10.23736/s0393-2249.18.03143-0.",
+        "journal-title": "Minerva Urol Nefrol"
+      },
+      {
+        "key": "50_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "92",
+        "DOI": "10.23736/s0393-2249.18.03250-2",
+        "volume": "71",
+        "author": "Z Kratiras",
+        "year": "2019",
+        "unstructured": "Kratiras Z, et al. Phase I study of a new tablet-based image guided surgical system in robot-assisted radical prostatectomy. Minerva Urol Nefrol. 2019;71:92–5. https://doi.org/10.23736/s0393-2249.18.03250-2.",
+        "journal-title": "Minerva Urol Nefrol"
+      },
+      {
+        "key": "50_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "834",
+        "DOI": "10.1111/bju.14549",
+        "volume": "123",
+        "author": "F Porpiglia",
+        "year": "2019",
+        "unstructured": "Porpiglia F, et al. Augmented-reality robot-assisted radical prostatectomy using hyper-accuracy three-dimensional reconstruction (HA3D™) technology: a radiological and pathological study. BJU Int. 2019;123:834–45. https://doi.org/10.1111/bju.14549.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "331",
+        "DOI": "10.1007/s11701-016-0602-z",
+        "volume": "10",
+        "author": "L Manley",
+        "year": "2016",
+        "unstructured": "Manley L, et al. Evaluation of pelvic floor muscle strength before and after robotic-assisted radical prostatectomy and early outcomes on urinary continence. J Robot Surg. 2016;10:331–5. https://doi.org/10.1007/s11701-016-0602-z.",
+        "journal-title": "J Robot Surg"
+      },
+      {
+        "key": "50_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "460",
+        "DOI": "10.1016/j.eururo.2015.11.004",
+        "volume": "69",
+        "author": "JI Chang",
+        "year": "2016",
+        "unstructured": "Chang JI, Lam V, Patel MI. Preoperative pelvic floor muscle exercise and postprostatectomy incontinence: a systematic review and meta-analysis. Eur Urol. 2016;69:460–7. https://doi.org/10.1016/j.eururo.2015.11.004.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "158",
+        "DOI": "10.1002/nau.23811",
+        "volume": "38",
+        "author": "M Yoshida",
+        "year": "2019",
+        "unstructured": "Yoshida M, et al. May perioperative ultrasound-guided pelvic floor muscle training promote early recovery of urinary continence after robot-assisted radical prostatectomy? Neurourol Urodyn. 2019;38:158–64. https://doi.org/10.1002/nau.23811.",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "50_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "555",
+        "DOI": "10.23736/s0393-2249.20.03782-0",
+        "volume": "72",
+        "author": "M Marchioni",
+        "year": "2020",
+        "unstructured": "Marchioni M, et al. Conservative management of urinary incontinence following robot-assisted radical prostatectomy. Minerva Urol Nefrol. 2020;72:555–62. https://doi.org/10.23736/s0393-2249.20.03782-0.",
+        "journal-title": "Minerva Urol Nefrol"
+      },
+      {
+        "key": "50_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "1039",
+        "DOI": "10.1080/14737140.2016.1233818",
+        "volume": "16",
+        "author": "P Capogrosso",
+        "year": "2016",
+        "unstructured": "Capogrosso P, et al. Recovery of urinary continence after radical prostatectomy. Expert Rev Anticancer Ther. 2016;16:1039–52. https://doi.org/10.1080/14737140.2016.1233818.",
+        "journal-title": "Expert Rev Anticancer Ther"
+      },
+      {
+        "key": "50_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "1566",
+        "DOI": "10.1111/j.1464-410X.2012.11604.x",
+        "volume": "110",
+        "author": "AD Asimakopoulos",
+        "year": "2012",
+        "unstructured": "Asimakopoulos AD, Mugnier C, Hoepffner JL, Piechaud T, Gaston R. Bladder neck preservation during minimally invasive radical prostatectomy: a standardised technique using a lateral approach. BJU Int. 2012;110:1566–71. https://doi.org/10.1111/j.1464-410X.2012.11604.x.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "891",
+        "DOI": "10.1016/j.juro.2012.09.082",
+        "volume": "189",
+        "author": "JN Nyarangi-Dix",
+        "year": "2013",
+        "unstructured": "Nyarangi-Dix JN, Radtke JP, Hadaschik B, Pahernik S, Hohenfellner M. Impact of complete bladder neck preservation on urinary continence, quality of life and surgical margins after radical prostatectomy: a randomized, controlled, single blind trial. J Urol. 2013;189:891–8. https://doi.org/10.1016/j.juro.2012.09.082.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "349",
+        "DOI": "10.1007/s00345-017-2134-1",
+        "volume": "36",
+        "author": "JN Nyarangi-Dix",
+        "year": "2018",
+        "unstructured": "Nyarangi-Dix JN, et al. Complete bladder neck preservation promotes long-term post-prostatectomy continence without compromising midterm oncological outcome: analysis of a randomised controlled cohort. World J Urol. 2018;36:349–55. https://doi.org/10.1007/s00345-017-2134-1.",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "50_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "1754",
+        "DOI": "10.1016/j.juro.2012.07.045",
+        "volume": "188",
+        "author": "DF Friedlander",
+        "year": "2012",
+        "unstructured": "Friedlander DF, Alemozaffar M, Hevelone ND, Lipsitz SR, Hu JC. Stepwise description and outcomes of bladder neck sparing during robot-assisted laparoscopic radical prostatectomy. J Urol. 2012;188:1754–60. https://doi.org/10.1016/j.juro.2012.07.045.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "67463",
+        "DOI": "10.18632/oncotarget.11997",
+        "volume": "7",
+        "author": "X Ma",
+        "year": "2016",
+        "unstructured": "Ma X, et al. Bladder neck preservation improves time to continence after radical prostatectomy: a systematic review and meta-analysis. Oncotarget. 2016;7:67463–75. https://doi.org/10.18632/oncotarget.11997.",
+        "journal-title": "Oncotarget"
+      },
+      {
+        "key": "50_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "444",
+        "DOI": "10.1111/j.1442-2042.2011.02760.x",
+        "volume": "18",
+        "author": "SJ Jeong",
+        "year": "2011",
+        "unstructured": "Jeong SJ, et al. Early recovery of urinary continence after radical prostatectomy: correlation with vesico-urethral anastomosis location in the pelvic cavity measured by postoperative cystography. Int J Urol. 2011;18:444–51. https://doi.org/10.1111/j.1442-2042.2011.02760.x.",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "50_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "1460",
+        "DOI": "10.1089/end.2014.0236",
+        "volume": "28",
+        "author": "G Olgin",
+        "year": "2014",
+        "unstructured": "Olgin G, et al. Postoperative cystogram findings predict incontinence following robot-assisted radical prostatectomy. J Endourol. 2014;28:1460–3. https://doi.org/10.1089/end.2014.0236.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "50_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "878",
+        "DOI": "10.1111/j.1464-410X.2009.08784.x",
+        "volume": "104",
+        "author": "VC Lin",
+        "year": "2009",
+        "unstructured": "Lin VC, et al. Modified transverse plication for bladder neck reconstruction during robotic-assisted laparoscopic prostatectomy. BJU Int. 2009;104:878–81. https://doi.org/10.1111/j.1464-410X.2009.08784.x.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "1873",
+        "DOI": "10.1089/end.2011.0279",
+        "volume": "25",
+        "author": "DI Lee",
+        "year": "2011",
+        "unstructured": "Lee DI, et al. Bladder neck plication stitch: a novel technique during robot-assisted radical prostatectomy to improve recovery of urinary continence. J Endourol. 2011;25:1873–7. https://doi.org/10.1089/end.2011.0279.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "50_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "301",
+        "DOI": "10.1016/j.eururo.2016.01.026",
+        "volume": "70",
+        "author": "J Walz",
+        "year": "2016",
+        "unstructured": "Walz J, et al. A critical analysis of the current knowledge of surgical anatomy of the prostate related to optimisation of cancer control and preservation of continence and erection in candidates for radical prostatectomy: an update. Eur Urol. 2016;70:301–11. https://doi.org/10.1016/j.eururo.2016.01.026.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "692",
+        "DOI": "10.1016/j.eururo.2014.10.020",
+        "volume": "68",
+        "author": "F Reeves",
+        "year": "2015",
+        "unstructured": "Reeves F, et al. Preservation of the neurovascular bundles is associated with improved time to continence after radical prostatectomy but not long-term continence rates: results of a systematic review and meta-analysis. Eur Urol. 2015;68:692–704. https://doi.org/10.1016/j.eururo.2014.10.020.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/md.0000000000011297",
+        "volume": "97",
+        "author": "X Wang",
+        "year": "2018",
+        "unstructured": "Wang X, et al. Intrafascial nerve-sparing radical prostatectomy improves patients’ postoperative continence recovery and erectile function: a pooled analysis based on available literatures. Medicine (Baltimore). 2018;97:e11297. https://doi.org/10.1097/md.0000000000011297.",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "key": "50_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "584",
+        "DOI": "10.1016/j.eururo.2015.07.037",
+        "volume": "69",
+        "author": "U Michl",
+        "year": "2016",
+        "unstructured": "Michl U, et al. Nerve-sparing surgery technique, not the preservation of the neurovascular bundles, leads to improved long-term continence rates after radical prostatectomy. Eur Urol. 2016;69:584–9. https://doi.org/10.1016/j.eururo.2015.07.037.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR65",
+        "doi-asserted-by": "publisher",
+        "first-page": "320",
+        "DOI": "10.1016/j.eururo.2011.02.040",
+        "volume": "60",
+        "author": "T Schlomm",
+        "year": "2011",
+        "unstructured": "Schlomm T, et al. Full functional-length urethral sphincter preservation during radical prostatectomy. Eur Urol. 2011;60:320–9. https://doi.org/10.1016/j.eururo.2011.02.040.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "930",
+        "DOI": "10.1089/end.2013.0794",
+        "volume": "28",
+        "author": "A Hamada",
+        "year": "2014",
+        "unstructured": "Hamada A, Razdan S, Etafy MH, Fagin R, Razdan S. Early return of continence in patients undergoing robot-assisted laparoscopic prostatectomy using modified maximal urethral length preservation technique. J Endourol. 2014;28:930–8. https://doi.org/10.1089/end.2013.0794.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "50_CR67",
+        "doi-asserted-by": "publisher",
+        "first-page": "1025",
+        "DOI": "10.1089/end.2010.0692",
+        "volume": "25",
+        "author": "AA Hakimi",
+        "year": "2011",
+        "unstructured": "Hakimi AA, et al. Preoperative and intraoperative measurements of urethral length as predictors of continence after robot-assisted radical prostatectomy. J Endourol. 2011;25:1025–30. https://doi.org/10.1089/end.2010.0692.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "50_CR68",
+        "doi-asserted-by": "publisher",
+        "first-page": "456",
+        "DOI": "10.1111/bju.14181",
+        "volume": "122",
+        "author": "Y Kadono",
+        "year": "2018",
+        "unstructured": "Kadono Y, et al. Investigating the mechanism underlying urinary continence recovery after radical prostatectomy: effectiveness of a longer urethral stump to prevent urinary incontinence. BJU Int. 2018;122:456–62. https://doi.org/10.1111/bju.14181.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "766",
+        "DOI": "10.1111/j.1464-410X.2005.05397.x",
+        "volume": "95",
+        "author": "A Takenaka",
+        "year": "2005",
+        "unstructured": "Takenaka A, Hara R, Soga H, Murakami G, Fujisawa M. A novel technique for approaching the endopelvic fascia in retropubic radical prostatectomy, based on an anatomical study of fixed and fresh cadavers. BJU Int. 2005;95:766–71. https://doi.org/10.1111/j.1464-410X.2005.05397.x.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR70",
+        "doi-asserted-by": "publisher",
+        "first-page": "1244",
+        "DOI": "10.1089/end.2017.0490",
+        "volume": "31",
+        "author": "RK Sayyid",
+        "year": "2017",
+        "unstructured": "Sayyid RK, et al. Retzius-sparing robotic-assisted laparoscopic radical prostatectomy: a safe surgical technique with superior continence outcomes. J Endourol. 2017;31:1244–50. https://doi.org/10.1089/end.2017.0490.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "50_CR71",
+        "doi-asserted-by": "publisher",
+        "first-page": "677",
+        "DOI": "10.1016/j.eururo.2017.04.029",
+        "volume": "72",
+        "author": "D Dalela",
+        "year": "2017",
+        "unstructured": "Dalela D, et al. A pragmatic randomized controlled trial examining the impact of the Retzius-sparing approach on early urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol. 2017;72:677–85. https://doi.org/10.1016/j.eururo.2017.04.029.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR72",
+        "doi-asserted-by": "publisher",
+        "first-page": "1123",
+        "DOI": "10.1007/s00345-019-02798-4",
+        "volume": "38",
+        "author": "C Phukan",
+        "year": "2020",
+        "unstructured": "Phukan C, et al. Retzius sparing robotic assisted radical prostatectomy vs. conventional robotic assisted radical prostatectomy: a systematic review and meta-analysis. World J Urol. 2020;38:1123–34. https://doi.org/10.1007/s00345-019-02798-4.",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "50_CR73",
+        "doi-asserted-by": "publisher",
+        "first-page": "930",
+        "DOI": "10.1111/j.1464-410X.2011.10586.x",
+        "volume": "108",
+        "author": "NE Power",
+        "year": "2011",
+        "unstructured": "Power NE, Silberstein JL, Kulkarni GS, Laudone VP. The dorsal venous complex (DVC): dorsal venous or dorsal vasculature complex? Santorini’s plexus revisited. BJU Int. 2011;108:930–2. https://doi.org/10.1111/j.1464-410X.2011.10586.x.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR74",
+        "doi-asserted-by": "publisher",
+        "first-page": "1377",
+        "DOI": "10.1016/j.eururo.2009.02.009",
+        "volume": "55",
+        "author": "F Porpiglia",
+        "year": "2009",
+        "unstructured": "Porpiglia F, Fiori C, Grande S, Morra I, Scarpa RM. Selective versus standard ligature of the deep venous complex during laparoscopic radical prostatectomy: effects on continence, blood loss, and margin status. Eur Urol. 2009;55:1377–83. https://doi.org/10.1016/j.eururo.2009.02.009.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR75",
+        "doi-asserted-by": "publisher",
+        "first-page": "235",
+        "DOI": "10.1016/j.eururo.2010.08.043",
+        "volume": "59",
+        "author": "Y Lei",
+        "year": "2011",
+        "unstructured": "Lei Y, et al. Athermal division and selective suture ligation of the dorsal vein complex during robot-assisted laparoscopic radical prostatectomy: description of technique and outcomes. Eur Urol. 2011;59:235–43. https://doi.org/10.1016/j.eururo.2010.08.043.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR76",
+        "doi-asserted-by": "publisher",
+        "first-page": "681",
+        "DOI": "10.1046/j.1464-410x.2003.04489.x",
+        "volume": "92",
+        "author": "TF Wimpissinger",
+        "year": "2003",
+        "unstructured": "Wimpissinger TF, Tschabitscher M, Feichtinger H, Stackl W. Surgical anatomy of the puboprostatic complex with special reference to radical perineal prostatectomy. BJU Int. 2003;92:681–4. https://doi.org/10.1046/j.1464-410x.2003.04489.x.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR77",
+        "doi-asserted-by": "publisher",
+        "first-page": "103",
+        "DOI": "10.1016/j.eururo.2005.10.002",
+        "volume": "49",
+        "author": "JU Stolzenburg",
+        "year": "2006",
+        "unstructured": "Stolzenburg JU, et al. Nerve sparing endoscopic extraperitoneal radical prostatectomy--effect of puboprostatic ligament preservation on early continence and positive margins. Eur Urol. 2006;49:103–11; discussion 111–102. https://doi.org/10.1016/j.eururo.2005.10.002.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR78",
+        "doi-asserted-by": "publisher",
+        "first-page": "407",
+        "DOI": "10.1016/j.eururo.2010.04.032",
+        "volume": "58",
+        "author": "AD Asimakopoulos",
+        "year": "2010",
+        "unstructured": "Asimakopoulos AD, et al. Complete periprostatic anatomy preservation during robot-assisted laparoscopic radical prostatectomy (RALP): the new pubovesical complex-sparing technique. Eur Urol. 2010;58:407–17. https://doi.org/10.1016/j.eururo.2010.04.032.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR79",
+        "doi-asserted-by": "publisher",
+        "first-page": "2418",
+        "DOI": "10.1097/00005392-199812020-00010",
+        "volume": "160",
+        "author": "PC Walsh",
+        "year": "1998",
+        "unstructured": "Walsh PC. Anatomic radical prostatectomy: evolution of the surgical technique. J Urol. 1998;160:2418–24. https://doi.org/10.1097/00005392-199812020-00010.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR80",
+        "doi-asserted-by": "publisher",
+        "first-page": "875",
+        "DOI": "10.1111/j.1464-410X.2011.10849.x",
+        "volume": "110",
+        "author": "X Hurtes",
+        "year": "2012",
+        "unstructured": "Hurtes X, et al. Anterior suspension combined with posterior reconstruction during robot-assisted laparoscopic prostatectomy improves early return of urinary continence: a prospective randomized multicentre trial. BJU Int. 2012;110:875–83. https://doi.org/10.1111/j.1464-410X.2011.10849.x.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR81",
+        "doi-asserted-by": "publisher",
+        "first-page": "472",
+        "DOI": "10.1016/j.eururo.2009.06.007",
+        "volume": "56",
+        "author": "VR Patel",
+        "year": "2009",
+        "unstructured": "Patel VR, Coelho RF, Palmer KJ, Rocco B. Periurethral suspension stitch during robot-assisted laparoscopic radical prostatectomy: description of the technique and continence outcomes. Eur Urol. 2009;56:472–8. https://doi.org/10.1016/j.eururo.2009.06.007.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR82",
+        "first-page": "127",
+        "volume": "73",
+        "author": "F Rocco",
+        "year": "2001",
+        "unstructured": "Rocco F, et al. Personal research: reconstruction of the urethral striated sphincter. Arch Ital Urol Androl. 2001;73:127–37.",
+        "journal-title": "Arch Ital Urol Androl"
+      },
+      {
+        "key": "50_CR83",
+        "doi-asserted-by": "publisher",
+        "first-page": "2737",
+        "DOI": "10.1038/s41598-017-02991-8",
+        "volume": "7",
+        "author": "J Cui",
+        "year": "2017",
+        "unstructured": "Cui J, et al. Pelvic floor reconstruction after radical prostatectomy: a systematic review and meta-analysis of different surgical techniques. Sci Rep. 2017;7:2737. https://doi.org/10.1038/s41598-017-02991-8.",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "key": "50_CR84",
+        "doi-asserted-by": "publisher",
+        "first-page": "1251",
+        "DOI": "10.1089/end.2017.0410",
+        "volume": "31",
+        "author": "S Ogawa",
+        "year": "2017",
+        "unstructured": "Ogawa S, et al. Three-layer two-step posterior reconstruction using peritoneum during robot-assisted radical prostatectomy to improve recovery of urinary continence: a prospective comparative study. J Endourol. 2017;31:1251–7. https://doi.org/10.1089/end.2017.0410.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "50_CR85",
+        "doi-asserted-by": "publisher",
+        "first-page": "935",
+        "DOI": "10.1016/j.juro.2014.10.023",
+        "volume": "193",
+        "author": "CW Jeong",
+        "year": "2015",
+        "unstructured": "Jeong CW, et al. Effects of new 1-step posterior reconstruction method on recovery of continence after robot-assisted laparoscopic prostatectomy: results of a prospective, single-blind, parallel group, randomized, controlled trial. J Urol. 2015;193:935–42. https://doi.org/10.1016/j.juro.2014.10.023.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR86",
+        "doi-asserted-by": "publisher",
+        "first-page": "1262",
+        "DOI": "10.1016/j.juro.2010.11.085",
+        "volume": "185",
+        "author": "DE Sutherland",
+        "year": "2011",
+        "unstructured": "Sutherland DE, et al. Posterior rhabdosphincter reconstruction during robotic assisted radical prostatectomy: results from a phase II randomized clinical trial. J Urol. 2011;185:1262–7. https://doi.org/10.1016/j.juro.2010.11.085.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR87",
+        "doi-asserted-by": "publisher",
+        "first-page": "5",
+        "DOI": "10.3109/00365590903413627",
+        "volume": "44",
+        "author": "N Koliakos",
+        "year": "2010",
+        "unstructured": "Koliakos N, et al. Posterior and anterior fixation of the urethra during robotic prostatectomy improves early continence rates. Scand J Urol Nephrol. 2010;44:5–10. https://doi.org/10.3109/00365590903413627.",
+        "journal-title": "Scand J Urol Nephrol"
+      },
+      {
+        "key": "50_CR88",
+        "doi-asserted-by": "publisher",
+        "first-page": "1018",
+        "DOI": "10.1016/j.juro.2008.05.046",
+        "volume": "180",
+        "author": "M Menon",
+        "year": "2008",
+        "unstructured": "Menon M, Muhletaler F, Campos M, Peabody JO. Assessment of early continence after reconstruction of the periprostatic tissues in patients undergoing computer assisted (robotic) prostatectomy: results of a 2 group parallel randomized controlled trial. J Urol. 2008;180:1018–23. https://doi.org/10.1016/j.juro.2008.05.046.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR89",
+        "doi-asserted-by": "publisher",
+        "first-page": "1102",
+        "DOI": "10.1016/j.urology.2010.05.052",
+        "volume": "76",
+        "author": "JD Sammon",
+        "year": "2010",
+        "unstructured": "Sammon JD, et al. Long-term functional urinary outcomes comparing single- vs double-layer urethrovesical anastomosis: two-year follow-up of a two-group parallel randomized controlled trial. Urology. 2010;76:1102–7. https://doi.org/10.1016/j.urology.2010.05.052.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "50_CR90",
+        "doi-asserted-by": "publisher",
+        "first-page": "72",
+        "DOI": "10.1016/j.eururo.2010.08.025",
+        "volume": "59",
+        "author": "RF Coelho",
+        "year": "2011",
+        "unstructured": "Coelho RF, et al. Influence of modified posterior reconstruction of the rhabdosphincter on early recovery of continence and anastomotic leakage rates after robot-assisted radical prostatectomy. Eur Urol. 2011;59:72–80. https://doi.org/10.1016/j.eururo.2010.08.025.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR91",
+        "doi-asserted-by": "publisher",
+        "first-page": "457",
+        "DOI": "10.1016/j.eururo.2010.06.008",
+        "volume": "58",
+        "author": "A Galfano",
+        "year": "2010",
+        "unstructured": "Galfano A, et al. A new anatomic approach for robot-assisted laparoscopic prostatectomy: a feasibility study for completely intrafascial surgery. Eur Urol. 2010;58:457–61. https://doi.org/10.1016/j.eururo.2010.06.008.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR92",
+        "doi-asserted-by": "publisher",
+        "first-page": "20",
+        "DOI": "10.1111/bju.13480",
+        "volume": "118",
+        "author": "AA Grasso",
+        "year": "2016",
+        "unstructured": "Grasso AA, et al. Posterior musculofascial reconstruction after radical prostatectomy: an updated systematic review and a meta-analysis. BJU Int. 2016;118:20–34. https://doi.org/10.1111/bju.13480.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "50_CR93",
+        "doi-asserted-by": "publisher",
+        "first-page": "779",
+        "DOI": "10.1016/j.eururo.2012.05.041",
+        "volume": "62",
+        "author": "B Rocco",
+        "year": "2012",
+        "unstructured": "Rocco B, et al. Posterior musculofascial reconstruction after radical prostatectomy: a systematic review of the literature. Eur Urol. 2012;62:779–90. https://doi.org/10.1016/j.eururo.2012.05.041.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR94",
+        "doi-asserted-by": "publisher",
+        "first-page": "1975",
+        "DOI": "10.1089/end.2009.0630",
+        "volume": "24",
+        "author": "G Tan",
+        "year": "2010",
+        "unstructured": "Tan G, et al. Optimizing vesicourethral anastomosis healing after robot-assisted laparoscopic radical prostatectomy: lessons learned from three techniques in 1900 patients. J Endourol. 2010;24:1975–83. https://doi.org/10.1089/end.2009.0630.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "50_CR95",
+        "doi-asserted-by": "publisher",
+        "first-page": "485",
+        "DOI": "10.1016/j.eururo.2015.08.005",
+        "volume": "69",
+        "author": "F Porpiglia",
+        "year": "2016",
+        "unstructured": "Porpiglia F, et al. Total anatomical reconstruction during robot-assisted radical prostatectomy: implications on early recovery of urinary continence. Eur Urol. 2016;69:485–95. https://doi.org/10.1016/j.eururo.2015.08.005.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR96",
+        "doi-asserted-by": "publisher",
+        "first-page": "1247",
+        "DOI": "10.1007/s00345-018-2274-y",
+        "volume": "36",
+        "author": "D Tilki",
+        "year": "2018",
+        "unstructured": "Tilki D, et al. The impact of time to catheter removal on short-, intermediate- and long-term urinary continence after radical prostatectomy. World J Urol. 2018;36:1247–53. https://doi.org/10.1007/s00345-018-2274-y.",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "50_CR97",
+        "doi-asserted-by": "publisher",
+        "first-page": "771",
+        "DOI": "10.1007/s00345-014-1340-3",
+        "volume": "33",
+        "author": "JR Palisaar",
+        "year": "2015",
+        "unstructured": "Palisaar JR, et al. Predictors of short-term recovery of urinary continence after radical prostatectomy. World J Urol. 2015;33:771–9. https://doi.org/10.1007/s00345-014-1340-3.",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "50_CR98",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/md.0000000000003475",
+        "volume": "95",
+        "author": "L Cormio",
+        "year": "2016",
+        "unstructured": "Cormio L, et al. Prognostic factors for anastomotic urinary leakage following retropubic radical prostatectomy and correlation with voiding outcomes. Medicine (Baltimore). 2016;95:e3475. https://doi.org/10.1097/md.0000000000003475.",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "key": "50_CR99",
+        "doi-asserted-by": "publisher",
+        "first-page": "513",
+        "DOI": "10.1016/j.urology.2003.10.042",
+        "volume": "63",
+        "author": "R Tiguert",
+        "year": "2004",
+        "unstructured": "Tiguert R, Rigaud J, Fradet Y. Safety and outcome of early catheter removal after radical retropubic prostatectomy. Urology. 2004;63:513–7. https://doi.org/10.1016/j.urology.2003.10.042.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "50_CR100",
+        "doi-asserted-by": "publisher",
+        "first-page": "623",
+        "DOI": "10.1002/nau.20067",
+        "volume": "23",
+        "author": "K Moore",
+        "year": "2004",
+        "unstructured": "Moore K, Allen M, Voaklander DC. Pad tests and self-reports of continence in men awaiting radical prostatectomy: establishing baseline norms for males. Neurourol Urodyn. 2004;23:623–6. https://doi.org/10.1002/nau.20067.",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "50_CR101",
+        "doi-asserted-by": "publisher",
+        "first-page": "111",
+        "DOI": "10.1007/s00192-004-1123-2",
+        "volume": "15",
+        "author": "E Karantanis",
+        "year": "2004",
+        "unstructured": "Karantanis E, Fynes M, Moore KH, Stanton SL. Comparison of the ICIQ-SF and 24-hour pad test with other measures for evaluating the severity of urodynamic stress incontinence. Int Urogynecol J Pelvic Floor Dysfunct. 2004;15:111–6; discussion 116. https://doi.org/10.1007/s00192-004-1123-2.",
+        "journal-title": "Int Urogynecol J Pelvic Floor Dysfunct"
+      },
+      {
+        "key": "50_CR102",
+        "doi-asserted-by": "publisher",
+        "first-page": "21",
+        "DOI": "10.1007/s11934-018-0770-7",
+        "volume": "19",
+        "author": "M Arcila-Ruiz",
+        "year": "2018",
+        "unstructured": "Arcila-Ruiz M, Brucker BM. The role of urodynamics in post-prostatectomy incontinence. Curr Urol Rep. 2018;19:21. https://doi.org/10.1007/s11934-018-0770-7.",
+        "journal-title": "Curr Urol Rep"
+      },
+      {
+        "key": "50_CR103",
+        "doi-asserted-by": "publisher",
+        "first-page": "626",
+        "DOI": "10.1016/j.juro.2018.05.005",
+        "volume": "200",
+        "author": "AJ Xu",
+        "year": "2018",
+        "unstructured": "Xu AJ, Taksler GB, Llukani E, Lepor H. Long-term continence outcomes in men undergoing radical prostatectomy: a prospective 15-year longitudinal study. J Urol. 2018;200:626–32. https://doi.org/10.1016/j.juro.2018.05.005.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR104",
+        "doi-asserted-by": "publisher",
+        "first-page": "151",
+        "DOI": "10.1001/jama.2010.1972",
+        "volume": "305",
+        "author": "PS Goode",
+        "year": "2011",
+        "unstructured": "Goode PS, et al. Behavioral therapy with or without biofeedback and pelvic floor electrical stimulation for persistent postprostatectomy incontinence: a randomized controlled trial. JAMA. 2011;305:151–9. https://doi.org/10.1001/jama.2010.1972.",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "50_CR105",
+        "doi-asserted-by": "publisher",
+        "first-page": "533",
+        "DOI": "10.1002/nau.24291",
+        "volume": "39",
+        "author": "LM Hall",
+        "year": "2020",
+        "unstructured": "Hall LM, Neumann P, Hodges PW. Do features of randomized controlled trials of pelvic floor muscle training for postprostatectomy urinary incontinence differentiate successful from unsuccessful patient outcomes? A systematic review with a series of meta-analyses. Neurourol Urodyn. 2020;39:533–46. https://doi.org/10.1002/nau.24291.",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "50_CR106",
+        "doi-asserted-by": "publisher",
+        "first-page": "Cd001843",
+        "DOI": "10.1002/14651858.CD001843.pub5",
+        "volume": "1",
+        "author": "CA Anderson",
+        "year": "2015",
+        "unstructured": "Anderson CA, et al. Conservative management for postprostatectomy urinary incontinence. Cochrane Database Syst Rev. 2015;1:Cd001843. https://doi.org/10.1002/14651858.CD001843.pub5.",
+        "journal-title": "Cochrane Database Syst Rev"
+      },
+      {
+        "key": "50_CR107",
+        "doi-asserted-by": "publisher",
+        "first-page": "114",
+        "DOI": "10.5213/inj.1836026.013",
+        "volume": "22",
+        "author": "PB Neumann",
+        "year": "2018",
+        "unstructured": "Neumann PB, O'Callaghan M. The role of preoperative puborectal muscle function assessed by transperineal ultrasound in urinary continence outcomes at 3, 6, and 12 months after robotic-assisted radical prostatectomy. Int Neurourol J. 2018;22:114–22. https://doi.org/10.5213/inj.1836026.013.",
+        "journal-title": "Int Neurourol J"
+      },
+      {
+        "key": "50_CR108",
+        "doi-asserted-by": "publisher",
+        "first-page": "674",
+        "DOI": "10.1002/nau.24247",
+        "volume": "39",
+        "author": "JJ Oh",
+        "year": "2020",
+        "unstructured": "Oh JJ, et al. Effect of personalized extracorporeal biofeedback device for pelvic floor muscle training on urinary incontinence after robot-assisted radical prostatectomy: a randomized controlled trial. Neurourol Urodyn. 2020;39:674–81. https://doi.org/10.1002/nau.24247.",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "50_CR109",
+        "doi-asserted-by": "publisher",
+        "first-page": "391",
+        "DOI": "10.17219/acem/79935",
+        "volume": "28",
+        "author": "K Juszczak",
+        "year": "2019",
+        "unstructured": "Juszczak K, Ostrowski A, Bryczkowski M, Adamczyk P, Drewa T. A hypothesis for the mechanism of urine incontinence in patients after radical prostatectomy due to urinary bladder hypertrophy. Adv Clin Exp Med. 2019;28:391–5. https://doi.org/10.17219/acem/79935.",
+        "journal-title": "Adv Clin Exp Med"
+      },
+      {
+        "key": "50_CR110",
+        "doi-asserted-by": "publisher",
+        "first-page": "263",
+        "DOI": "10.1007/s11255-005-4031-6",
+        "volume": "38",
+        "author": "D Mitropoulos",
+        "year": "2006",
+        "unstructured": "Mitropoulos D, Papadoukakis S, Zervas A, Alamanis C, Giannopoulos A. Efficacy of tolterodine in preventing urge incontinence immediately after prostatectomy. Int Urol Nephrol. 2006;38:263–8. https://doi.org/10.1007/s11255-005-4031-6.",
+        "journal-title": "Int Urol Nephrol"
+      },
+      {
+        "key": "50_CR111",
+        "doi-asserted-by": "publisher",
+        "first-page": "148",
+        "DOI": "10.1016/j.eururo.2010.10.031",
+        "volume": "59",
+        "author": "JN Cornu",
+        "year": "2011",
+        "unstructured": "Cornu JN, et al. Duloxetine for mild to moderate postprostatectomy incontinence: preliminary results of a randomised, placebo-controlled trial. Eur Urol. 2011;59:148–54. https://doi.org/10.1016/j.eururo.2010.10.031.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR112",
+        "doi-asserted-by": "publisher",
+        "first-page": "1559",
+        "DOI": "10.1016/j.eururo.2006.08.005",
+        "volume": "51",
+        "author": "MT Filocamo",
+        "year": "2007",
+        "unstructured": "Filocamo MT, et al. Pharmacologic treatment in postprostatectomy stress urinary incontinence. Eur Urol. 2007;51:1559–64. https://doi.org/10.1016/j.eururo.2006.08.005.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR113",
+        "doi-asserted-by": "publisher",
+        "first-page": "1241",
+        "DOI": "10.1089/end.2014.0342",
+        "volume": "28",
+        "author": "MA Liss",
+        "year": "2014",
+        "unstructured": "Liss MA, Morales B, Skarecky D, Ahlering TE. Phase 1 clinical trial of Vesicare™ (solifenacin) in the treatment of urinary incontinence after radical prostatectomy. J Endourol. 2014;28:1241–5. https://doi.org/10.1089/end.2014.0342.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "50_CR114",
+        "doi-asserted-by": "publisher",
+        "first-page": "1305",
+        "DOI": "10.1016/j.juro.2014.09.106",
+        "volume": "193",
+        "author": "FJ Bianco",
+        "year": "2015",
+        "unstructured": "Bianco FJ, et al. A randomized, double-blind, solifenacin succinate versus placebo control, phase 4, multicenter study evaluating urinary continence after robotic assisted radical prostatectomy. J Urol. 2015;193:1305–10. https://doi.org/10.1016/j.juro.2014.09.106.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR115",
+        "doi-asserted-by": "publisher",
+        "first-page": "413",
+        "DOI": "10.1111/j.1442-2042.2012.03149.x",
+        "volume": "20",
+        "author": "G Gandaglia",
+        "year": "2013",
+        "unstructured": "Gandaglia G, et al. Postoperative phosphodiesterase type 5 inhibitor administration increases the rate of urinary continence recovery after bilateral nerve-sparing radical prostatectomy. Int J Urol. 2013;20:413–9. https://doi.org/10.1111/j.1442-2042.2012.03149.x.",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "50_CR116",
+        "doi-asserted-by": "publisher",
+        "first-page": "33",
+        "DOI": "10.1080/21681805.2016.1250810",
+        "volume": "51",
+        "author": "M Honda",
+        "year": "2017",
+        "unstructured": "Honda M, et al. Impact of postoperative phosphodiesterase type 5 inhibitor treatment on lower urinary tract symptoms after robot-assisted radical prostatectomy: a longitudinal study. Scand J Urol. 2017;51:33–7. https://doi.org/10.1080/21681805.2016.1250810.",
+        "journal-title": "Scand J Urol"
+      },
+      {
+        "key": "50_CR117",
+        "doi-asserted-by": "publisher",
+        "first-page": "13",
+        "DOI": "10.1016/j.urology.2017.09.025",
+        "volume": "113",
+        "author": "KD Radadia",
+        "year": "2018",
+        "unstructured": "Radadia KD, et al. Management of postradical prostatectomy urinary incontinence: a review. Urology. 2018;113:13–9. https://doi.org/10.1016/j.urology.2017.09.025.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "50_CR118",
+        "doi-asserted-by": "publisher",
+        "first-page": "875",
+        "DOI": "10.1002/nau.22873",
+        "volume": "35",
+        "author": "S Crivellaro",
+        "year": "2016",
+        "unstructured": "Crivellaro S, et al. Systematic review of surgical treatment of post radical prostatectomy stress urinary incontinence. Neurourol Urodyn. 2016;35:875–81. https://doi.org/10.1002/nau.22873.",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "50_CR119",
+        "doi-asserted-by": "publisher",
+        "first-page": "2204",
+        "DOI": "10.1016/j.juro.2009.01.022",
+        "volume": "181",
+        "author": "C Giberti",
+        "year": "2009",
+        "unstructured": "Giberti C, Gallo F, Schenone M, Cortese P, Ninotta G. The bone anchor suburethral synthetic sling for iatrogenic male incontinence: critical evaluation at a mean 3-year followup. J Urol. 2009;181:2204–8. https://doi.org/10.1016/j.juro.2009.01.022.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "50_CR120",
+        "doi-asserted-by": "publisher",
+        "first-page": "860",
+        "DOI": "10.1016/j.eururo.2007.01.110",
+        "volume": "52",
+        "author": "P Rehder",
+        "year": "2007",
+        "unstructured": "Rehder P, Gozzi C. Transobturator sling suspension for male urinary incontinence including post-radical prostatectomy. Eur Urol. 2007;52:860–6. https://doi.org/10.1016/j.eururo.2007.01.110.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR121",
+        "doi-asserted-by": "publisher",
+        "first-page": "923",
+        "DOI": "10.1016/j.eururo.2009.09.015",
+        "volume": "56",
+        "author": "JN Cornu",
+        "year": "2009",
+        "unstructured": "Cornu JN, et al. The AdVance transobturator male sling for postprostatectomy incontinence: clinical results of a prospective evaluation after a minimum follow-up of 6 months. Eur Urol. 2009;56:923–7. https://doi.org/10.1016/j.eururo.2009.09.015.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "50_CR122",
+        "doi-asserted-by": "publisher",
+        "first-page": "710",
+        "DOI": "10.1002/nau.23901",
+        "volume": "38",
+        "author": "M Tutolo",
+        "year": "2019",
+        "unstructured": "Tutolo M, et al. Efficacy and safety of artificial urinary sphincter (AUS): results of a large multi-institutional cohort of patients with mid-term follow-up. Neurourol Urodyn. 2019;38:710–8. https://doi.org/10.1002/nau.23901.",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "50_CR123",
+        "doi-asserted-by": "publisher",
+        "first-page": "1419",
+        "DOI": "10.1002/nau.23463",
+        "volume": "37",
+        "author": "TC Noordhoff",
+        "year": "2018",
+        "unstructured": "Noordhoff TC, Scheepe JR, Blok BFM. Outcome and complications of adjustable continence therapy (ProACT™) after radical prostatectomy: 10 years’ experience in 143 patients. Neurourol Urodyn. 2018;37:1419–25. https://doi.org/10.1002/nau.23463.",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "issue": "Suppl 3",
+        "key": "50_CR124",
+        "doi-asserted-by": "publisher",
+        "first-page": "61",
+        "DOI": "10.1111/bju.13110",
+        "volume": "116",
+        "author": "D Habashy",
+        "year": "2015",
+        "unstructured": "Habashy D, Losco G, Tse V, Collins R, Chan L. Botulinum toxin (OnabotulinumtoxinA) in the male non-neurogenic overactive bladder: clinical and quality of life outcomes. BJU Int. 2015;116(Suppl 3):61–5. https://doi.org/10.1111/bju.13110.",
+        "journal-title": "BJU Int"
+      }
+    ],
+    "container-title": [
+      "Robot-Assisted Radical Prostatectomy"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-05855-4_50",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          30
+        ]
+      ],
+      "date-time": "2022-11-30T21:37:35Z",
+      "timestamp": 1669844255000
+    },
+    "score": 66.475044,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/978-3-031-05855-4_50"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783031058547",
+      "9783031058554"
+    ],
+    "references-count": 124,
+    "URL": "https://doi.org/10.1007/978-3-031-05855-4_50",
+    "published": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "1 December 2022",
+        "order": 1,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ChapterHistory",
+          "label": "Chapter History"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "paper": "PMC11774089",
+  "args": {
+    "manuscript": null,
+    "pmcid": "11774089",
+    "limit": null,
+    "dry_run": true
+  },
+  "counts": {
+    "dry_run_skipped": 25,
+    "unresolved_reference": 14,
+    "no_abstract_found": 1
+  },
+  "n_claims": 17,
+  "n_checks": 40,
+  "flags_output": "C:\\Users\\Hung\\Desktop\\citation-pipeline\\audit\\results\\flags\\PMC11774089.json"
+}

@@ -1,0 +1,2228 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T21:53:48Z",
+      "timestamp": 1782942828399,
+      "version": "3.54.5"
+    },
+    "reference-count": 47,
+    "publisher": "BMJ",
+    "issue": "7109",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1997,
+              9,
+              13
+            ]
+          ],
+          "date-time": "1997-09-13T00:00:00Z",
+          "timestamp": 874108800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.bmj.com/company/legal-information/terms-conditions/legal-information/tdm-licencepolicy"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "accepted": {
+      "date-parts": [
+        [
+          1997,
+          8,
+          26
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1997,
+          9,
+          13
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    <jats:bold>Objective:</jats:bold>\n                    Funnel plots (plots of effect estimates against sample size) may be useful to detect bias in meta-analyses that were later contradicted by large trials. We examined whether a simple test of asymmetry of funnel plots predicts discordance of results when meta-analyses are compared to large trials, and we assessed the prevalence of bias in published meta-analyses.\n                  </jats:p>\n                  <jats:p>\n                    <jats:bold>Design:</jats:bold>\n                    Medline search to identify pairs consisting of a meta-analysis and a single large trial (concordance of results was assumed if effects were in the same direction and the meta-analytic estimate was within 30% of the trial); analysis of funnel plots from 37 meta-analyses identified from a hand search of four leading general medicine journals 1993-6 and 38 meta-analyses from the second 1996 issue of the\n                    <jats:italic>Cochrane Database of Systematic Reviews</jats:italic>\n                    .\n                  </jats:p>\n                  <jats:p>\n                    <jats:bold>Main outcome measure:</jats:bold>\n                    Degree of funnel plot asymmetry as measured by the intercept from regression of standard normal deviates against precision.\n                  </jats:p>\n                  <jats:p>\n                    <jats:bold>Results:</jats:bold>\n                    In the eight pairs of meta-analysis and large trial that were identified (five from cardiovascular medicine, one from diabetic medicine, one from geriatric medicine, one from perinatal medicine) there were four concordant and four discordant pairs. In all cases discordance was due to meta-analyses showing larger effects. Funnel plot asymmetry was present in three out of four discordant pairs but in none of concordant pairs. In 14 (38%) journal meta-analyses and 5 (13%) Cochrane reviews, funnel plot asymmetry indicated that there was bias.\n                  </jats:p>\n                  <jats:p>\n                    <jats:bold>Conclusions:</jats:bold>\n                    A simple analysis of funnel plots provides a useful test for the likely presence of bias in meta-analyses, but as the capacity to detect bias will be limited when meta-analyses are based on a limited number of small trials the results from such analyses should be treated with considerable caution.\n                  </jats:p>\n                  <jats:p>\n                    <jats:boxed-text position=\"float\">\n                      <jats:sec>\n                        <jats:title>Key messages</jats:title>\n                        <jats:list list-type=\"bullet\">\n                          <jats:list-item>\n                            <jats:p>Systematic reviews of randomised trials are the best strategy for appraising evidence; however, the findings of some meta-analyses were later contradicted by large trials</jats:p>\n                          </jats:list-item>\n                          <jats:list-item>\n                            <jats:p>Funnel plots, plots of the trials' effect estimates against sample size, are skewed and asymmetrical in the presence of publication bias and other biases</jats:p>\n                          </jats:list-item>\n                          <jats:list-item>\n                            <jats:p>Funnel plot asymmetry, measured by regression analysis, predicts discordance of results when meta-analyses are compared with single large trials</jats:p>\n                          </jats:list-item>\n                          <jats:list-item>\n                            <jats:p>\n                              Funnel plot asymmetry was found in 38% of meta-analyses published in leading general medicine journals and in 13% of reviews from the\n                              <jats:italic>Cochrane Database of Systematic Reviews</jats:italic>\n                            </jats:p>\n                          </jats:list-item>\n                          <jats:list-item>\n                            <jats:p>Critical examination of systematic reviews for publication and related biases should be considered a routine procedure</jats:p>\n                          </jats:list-item>\n                        </jats:list>\n                      </jats:sec>\n                    </jats:boxed-text>\n                  </jats:p>",
+    "DOI": "10.1136/bmj.315.7109.629",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2011-10-27T19:48:33Z",
+      "timestamp": 1319744913000
+    },
+    "page": "629-634",
+    "source": "Crossref",
+    "is-referenced-by-count": 48126,
+    "title": [
+      "Bias in meta-analysis detected by a simple, graphical test"
+    ],
+    "prefix": "10.1136",
+    "volume": "315",
+    "author": [
+      {
+        "given": "Matthias",
+        "family": "Egger",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "George Davey",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Martin",
+        "family": "Schneider",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christoph",
+        "family": "Minder",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          1997,
+          9,
+          13
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2025122315170062000_315.7109.629.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "786",
+        "DOI": "10.1136/bmj.305.6857.786",
+        "article-title": "Getting to grips with Archie Cochrane's agenda.",
+        "volume": "305",
+        "author": "Chalmers",
+        "year": "1992",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.309.6954.597"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.3",
+        "first-page": "28",
+        "article-title": "Experiences with meta-analysis in NDA submissions.",
+        "volume": "2",
+        "author": "Huque",
+        "year": "1988",
+        "journal-title": "Proc Biopharmaceutical Section Am Statist Assoc"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.310.6982.752"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "517",
+        "DOI": "10.1037/0003-066X.33.5.517.a",
+        "article-title": "An exercise in mega-silliness.",
+        "volume": "33",
+        "author": "Eysenck",
+        "year": "1978",
+        "journal-title": "Am Psychol"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "867",
+        "DOI": "10.1016/0140-6736(91)90201-Y",
+        "article-title": "Publication bias in clinical research.",
+        "volume": "337",
+        "author": "Easterbrook",
+        "year": "1991",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "654",
+        "DOI": "10.1136/bmj.295.6599.654",
+        "article-title": "Reference bias in reports of drug trials.",
+        "volume": "295",
+        "author": "G⊘tzsche",
+        "year": "1987",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(97)02419-7"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.9",
+        "unstructured": "Egger M Davey Smith G .Meta-analysis: bias in location and selection of studies. BMJ (in press)."
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Light RJ Pillemer DB .Summing up. The science of reviewing research. Cambridge, MA: Harvard University Press, 1984.",
+        "DOI": "10.4159/9780674040243"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(97)00148-0"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.12",
+        "doi-asserted-by": "crossref",
+        "first-page": "889",
+        "DOI": "10.1002/sim.4780070807",
+        "article-title": "A note on graphical presentation of estimated odds ratios from several clinical trials.",
+        "volume": "7",
+        "author": "Galbraith",
+        "year": "1988",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.13",
+        "first-page": "1332",
+        "article-title": "Large trials vs meta-analysis of smaller trials.",
+        "volume": "276",
+        "author": "Cappelleri",
+        "year": "1996",
+        "journal-title": "How do their results compare? JAMA"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0140-6736(93)92884-V"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM199108013250501"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.16",
+        "unstructured": "The Cochrane Database of Systematic Reviews. Oxford: Cochrane Collaboration, 1996."
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "556",
+        "DOI": "10.1093/oxfordjournals.eurheartj.a061905",
+        "article-title": "Intravenous and intracoronary fibrinolytic therapy in acute myocardial infarction: overview of results on mortality, reinfarction and side-effects from 33 randomized controlled trials.",
+        "volume": "6",
+        "author": "Yusuf",
+        "year": "1985",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.18",
+        "first-page": "397",
+        "article-title": "Effectiveness of intravenous thrombolytic treatment in acute myocardial infarction.",
+        "volume": "i",
+        "year": "1986",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "335",
+        "DOI": "10.1016/S0033-0620(85)80003-7",
+        "article-title": "Beta blockade during and after myocardial infarction: an overview of the randomized trials.",
+        "volume": "17",
+        "author": "Yusuf",
+        "year": "1985",
+        "journal-title": "Progr Cardiovasc Dis"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.20",
+        "first-page": "57",
+        "article-title": "Randomised trial of intravenous atenolol among 16 027 cases of suspected acute myocardial infarction: ISIS-1.",
+        "volume": "ii",
+        "year": "1986",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0140-6736(93)90816-Y"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.22",
+        "doi-asserted-by": "crossref",
+        "first-page": "977",
+        "DOI": "10.1056/NEJM199309303291401",
+        "article-title": "The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus.",
+        "volume": "329",
+        "year": "1993",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1345",
+        "DOI": "10.1056/NEJM199505183322007",
+        "article-title": "Randomized trial of comprehensive geriatric assessment in the care of hospitalized patients.",
+        "volume": "332",
+        "author": "Reuben",
+        "year": "1995",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1088",
+        "DOI": "10.1016/S0140-6736(88)91906-X",
+        "article-title": "Effect of intravenous nitrates on mortality in acute myocardial infarction: an overview of the randomised trials.",
+        "volume": "i",
+        "author": "Yusuf",
+        "year": "1988",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.25",
+        "first-page": "1115",
+        "article-title": "GISSI-3: effects of lisinopril and transdermal glyceryl trinitrate singly and together on 6-week mortality and ventricular function after acute myocardial infarction.",
+        "volume": "343",
+        "year": "1994",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1988.03720230032026"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.27",
+        "doi-asserted-by": "crossref",
+        "first-page": "347",
+        "DOI": "10.2165/00003495-199346030-00002",
+        "article-title": "Role of magnesium in reducing mortality in acute myocardial infarction. A review of the evidence.",
+        "volume": "46",
+        "author": "Teo",
+        "year": "1993",
+        "journal-title": "Drugs"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(95)90865-X"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.29",
+        "first-page": "261",
+        "article-title": "Ameta-analysis of low-dose aspirin for the prevention of pregnancy-inducedhypertensive disease.",
+        "volume": "266",
+        "author": "Imperiale",
+        "year": "1991",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.30",
+        "doi-asserted-by": "crossref",
+        "first-page": "619",
+        "DOI": "10.1016/S0140-6736(94)92633-6",
+        "article-title": "CLASP: a randomized trial of low-dose aspirin for the prevention and treatment of pre-eclampsia among9364 pregnant women.",
+        "volume": "343",
+        "year": "1994",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1450",
+        "DOI": "10.1001/jama.1995.03520420066040",
+        "article-title": "Overview of randomised trials of angiotensin-convertingenzyme inhibitors on mortality and morbidity in patients with heart failure.",
+        "volume": "273",
+        "author": "Garg",
+        "year": "1995",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.32",
+        "unstructured": "Collins R .Antiplatelet agents for IUGR and pre-eclampsia. In: Enkin MW Keirse MJNC Renfrew MJ Neilson JP , eds. Pregnancy and childbirth module, Cochrane Database of SystematicReviews. Oxford: Update Software, 1994. (Review No 04000, 12 March 1994.Cochrane Updates on Disk, disk issue 3.)"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1990.03440100121018"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.34",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1038/clpt.1992.119",
+        "article-title": "Publication bias: its implications for clinical pharmacology.",
+        "volume": "52",
+        "author": "Levy",
+        "year": "1992",
+        "journal-title": "Clin Pharmacol Ther"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.35",
+        "doi-asserted-by": "crossref",
+        "first-page": "1390",
+        "DOI": "10.1136/bmj.313.7069.1390",
+        "article-title": "Are research ethics committees behaving unethically? Some suggestions for improving performances and accountability.",
+        "volume": "313",
+        "author": "Savulescu",
+        "year": "1996",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.36",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1136/bmj.305.6844.15",
+        "article-title": "Cholesterol lowering trials in coronary heart disease: frequency of citation and outcome.",
+        "volume": "305",
+        "author": "Ravnskov",
+        "year": "1992",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.37",
+        "doi-asserted-by": "crossref",
+        "first-page": "1024",
+        "DOI": "10.1016/S0140-6736(96)90153-1",
+        "article-title": "Redundancy, disaggregation, and the integrity of medical research.",
+        "volume": "347",
+        "author": "Huston",
+        "year": "1996",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.38",
+        "doi-asserted-by": "crossref",
+        "first-page": "1358",
+        "DOI": "10.1056/NEJM198312013092204",
+        "article-title": "Bias in treatment assignment in controlled clinical trials.",
+        "volume": "309",
+        "author": "Chalmers",
+        "year": "1983",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.39",
+        "doi-asserted-by": "crossref",
+        "first-page": "408",
+        "DOI": "10.1001/jama.1995.03520290060030",
+        "article-title": "Empiricalevidence of bias. Dimensions of methodological quality associated with estimates of treatment effects in controlled trials.",
+        "volume": "273",
+        "author": "Schulz",
+        "year": "1995",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.308.6924.283"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.41",
+        "unstructured": "Egger M Davey Smith G Phillips AN .Meta-analysis: principles and procedures. BMJ (in press)."
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.42",
+        "first-page": "72",
+        "article-title": "Who benefits from medical interventions? Treating low risk patients can be a high risk strategy.",
+        "volume": "308",
+        "author": "Davey Smith",
+        "year": "1994",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(96)07281-9"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.44",
+        "doi-asserted-by": "crossref",
+        "first-page": "282",
+        "DOI": "10.1016/S0140-6736(97)26004-6",
+        "article-title": "Magnesium in acute myocardial infarction.",
+        "volume": "349",
+        "author": "Collins",
+        "year": "1997",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.45",
+        "doi-asserted-by": "crossref",
+        "first-page": "772",
+        "DOI": "10.1016/S0140-6736(95)90646-0",
+        "article-title": "Predictive ability of meta-analyses of randomised controlled trials.",
+        "volume": "345",
+        "author": "Villar",
+        "year": "1995",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(95)90632-0"
+      },
+      {
+        "key": "2025122315170062000_315.7109.629.47",
+        "doi-asserted-by": "crossref",
+        "first-page": "1088",
+        "DOI": "10.2307/2533446",
+        "article-title": "Operating characteristics of a rank correlation test for publication bias.",
+        "volume": "50",
+        "author": "Begg",
+        "year": "1994",
+        "journal-title": "Biometrics"
+      }
+    ],
+    "container-title": [
+      "BMJ"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://data.bmj.org/tdm/10.1136/bmj.315.7109.629",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.315.7109.629",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          23
+        ]
+      ],
+      "date-time": "2025-12-23T23:17:11Z",
+      "timestamp": 1766531831000
+    },
+    "score": 117.28927,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.315.7109.629"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          9,
+          13
+        ]
+      ]
+    },
+    "references-count": 47,
+    "journal-issue": {
+      "issue": "7109",
+      "published-online": {
+        "date-parts": [
+          [
+            1997,
+            9,
+            13
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            1997,
+            9,
+            13
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/bmj.315.7109.629"
+    ],
+    "URL": "https://doi.org/10.1136/bmj.315.7109.629",
+    "ISSN": [
+      "0959-8138",
+      "1468-5833"
+    ],
+    "issn-type": [
+      {
+        "value": "0959-8138",
+        "type": "print"
+      },
+      {
+        "value": "1468-5833",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1997,
+          9,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          23
+        ]
+      ],
+      "date-time": "2025-12-23T23:17:30Z",
+      "timestamp": 1766531850257,
+      "version": "3.48.0"
+    },
+    "reference-count": 0,
+    "publisher": "BMJ",
+    "issue": "7109",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1997,
+              9,
+              13
+            ]
+          ],
+          "date-time": "1997-09-13T00:00:00Z",
+          "timestamp": 874108800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.bmj.com/company/legal-information/terms-conditions/legal-information/tdm-licencepolicy"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1997,
+          9,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.1136/bmj.315.7109.0a",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2011-10-27T19:48:33Z",
+      "timestamp": 1319744913000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "A graphical test detects bias in meta-analysis"
+    ],
+    "prefix": "10.1136",
+    "volume": "315",
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          1997,
+          9,
+          13
+        ]
+      ]
+    },
+    "container-title": [
+      "BMJ"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://data.bmj.org/tdm/10.1136/bmj.315.7109.0a",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.315.7109.0a",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          23
+        ]
+      ],
+      "date-time": "2025-12-23T23:15:16Z",
+      "timestamp": 1766531716000
+    },
+    "score": 72.06115,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.315.7109.0a"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          9,
+          13
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "7109",
+      "published-online": {
+        "date-parts": [
+          [
+            1997,
+            9,
+            13
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            1997,
+            9,
+            13
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/bmj.315.7109.0a"
+    ],
+    "URL": "https://doi.org/10.1136/bmj.315.7109.0a",
+    "ISSN": [
+      "0959-8138",
+      "1468-5833"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0959-8138"
+      },
+      {
+        "type": "electronic",
+        "value": "1468-5833"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1997,
+          9,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ],
+      "date-time": "2026-06-30T02:15:22Z",
+      "timestamp": 1782785722313,
+      "version": "3.54.5"
+    },
+    "reference-count": 0,
+    "publisher": "BMJ",
+    "issue": "7129",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1998,
+          2,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1136/bmj.316.7129.469",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2011-10-27T23:50:58Z",
+      "timestamp": 1319759458000
+    },
+    "page": "469-469",
+    "source": "Crossref",
+    "is-referenced-by-count": 500,
+    "title": [
+      "Bias in meta-analysis detected by a simple, graphical"
+    ],
+    "prefix": "10.1136",
+    "volume": "316",
+    "author": [
+      {
+        "given": "A. E",
+        "family": "Stuck",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L. Z",
+        "family": "Rubenstein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Wieland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J. P",
+        "family": "Vandenbroucke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L.",
+        "family": "Irwig",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Macaskill",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "G.",
+        "family": "Berry",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Glasziou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "V.",
+        "family": "Seagroatt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "I.",
+        "family": "Stratton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Egger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "G. D.",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C.",
+        "family": "Minder",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Langhorne",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Song",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Gilbody",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "container-title": [
+      "BMJ"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.316.7129.469",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2020-09-25T19:52:43Z",
+      "timestamp": 1601063563000
+    },
+    "score": 57.42592,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.316.7129.469"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          2,
+          7
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "7129",
+      "published-print": {
+        "date-parts": [
+          [
+            1998,
+            2,
+            7
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1136/bmj.316.7129.469",
+    "ISSN": [
+      "0959-8138",
+      "1468-5833"
+    ],
+    "issn-type": [
+      {
+        "value": "0959-8138",
+        "type": "print"
+      },
+      {
+        "value": "1468-5833",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1998,
+          2,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          27
+        ]
+      ],
+      "date-time": "2026-06-27T23:19:35Z",
+      "timestamp": 1782602375225,
+      "version": "3.54.5"
+    },
+    "reference-count": 47,
+    "publisher": "BMJ",
+    "issue": "7119",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1997,
+              11,
+              22
+            ]
+          ],
+          "date-time": "1997-11-22T00:00:00Z",
+          "timestamp": 880156800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.bmj.com/company/legal-information/terms-conditions/legal-information/tdm-licencepolicy"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1997,
+          11,
+          22
+        ]
+      ]
+    },
+    "DOI": "10.1136/bmj.315.7119.1371",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2011-10-27T19:49:46Z",
+      "timestamp": 1319744986000
+    },
+    "page": "1371-1374",
+    "source": "Crossref",
+    "is-referenced-by-count": 455,
+    "title": [
+      "<i>Meta-analysis:</i>\n                    Potentials and promise"
+    ],
+    "prefix": "10.1136",
+    "volume": "315",
+    "author": [
+      {
+        "given": "Matthias",
+        "family": "Egger",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "George Davey",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          1997,
+          11,
+          22
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2025122509071125000_315.7119.1371.1",
+        "doi-asserted-by": "crossref",
+        "first-page": "617",
+        "DOI": "10.1136/bmj.315.7109.617",
+        "article-title": "Meta-analysis and the meta-epidemiology of clinical research.",
+        "volume": "315",
+        "author": "Naylor",
+        "year": "1997",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1056/NEJM199708213370810",
+        "article-title": "The promise and problems of meta-analysis [editorial].",
+        "volume": "337",
+        "author": "Bailar",
+        "year": "1997",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(97)21036-6"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.4",
+        "first-page": "28",
+        "article-title": "Experiences with meta-analysis in NDA submissions.",
+        "volume": "2",
+        "author": "Huque",
+        "year": "1988",
+        "journal-title": "Proceedings of the Biopharmaceutical Section of the American Statistical Association"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "154",
+        "DOI": "10.1093/oxfordjournals.epirev.a036084",
+        "article-title": "Meta-analysis: state-of-the-science.",
+        "volume": "14",
+        "author": "Dickersin",
+        "year": "1992",
+        "journal-title": "Epidemiol Rev"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.6",
+        "unstructured": "Chalmers I Altman DG .Foreword. In: Chalmers I Altman DG , eds. Systematic reviews. London: BMJ Publishing,1995."
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Egger M Davey Smith G Phillips AN .Meta-analysis: principles and procedures. BMJ 1997 (in press).",
+        "DOI": "10.1136/bmj.315.7121.1533"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Davey Smith G Egger M Phillips AN .Meta-analysis: beyond the grand mean? BMJ 1997 (in press).",
+        "DOI": "10.1136/bmj.315.7122.1610"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.9",
+        "unstructured": "Egger M Davey Smith G .Meta-analysis: bias in location and selection of studies. BMJ 1997 (in press)."
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Egger M Schneider M Davey Smith G .Meta-analysis: spurious precision? Meta-analysis of observational studies. BMJ 1997 (in press).",
+        "DOI": "10.1136/bmj.316.7125.140"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Davey Smith G Egger M .Meta-analysis: unresolved issues and future developments. BMJ 1997 (in press).",
+        "DOI": "10.1136/bmj.316.7126.221"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.12",
+        "first-page": "1243",
+        "article-title": "Report on certain enteric fever inoculation statistics.",
+        "volume": "3",
+        "author": "Pearson",
+        "year": "1904",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1602",
+        "DOI": "10.1001/jama.1955.02960340022006",
+        "article-title": "The powerful placebo.",
+        "volume": "159",
+        "author": "Beecher",
+        "year": "1955",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.3102/0013189X005010003",
+        "article-title": "Primary, secondary and meta-analysis of research.",
+        "volume": "5",
+        "author": "Glass",
+        "year": "1976",
+        "journal-title": "Educ Res"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.15",
+        "doi-asserted-by": "crossref",
+        "first-page": "335",
+        "DOI": "10.1016/S0033-0620(85)80003-7",
+        "article-title": "Beta blockade during and after myocardial infarction: an overview of the randomized trials.",
+        "volume": "17",
+        "author": "Yusuf",
+        "year": "1985",
+        "journal-title": "Progr Cardiovasc Dis"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1681",
+        "DOI": "10.1056/NEJM198812293192601",
+        "article-title": "Effects of adjuvant tamoxifen and of cytotoxic therapy on mortality in early breast cancer. An overview of 61 randomized trials among 28,896 women.",
+        "volume": "319",
+        "year": "1988",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.17",
+        "unstructured": "Chalmers I Enkin M Keirse M .Effective care during pregnancy and childbirth. Oxford: Oxford University Press,1989."
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1093/oxfordjournals.epirev.a036298",
+        "article-title": "Quantitative methods in the review of epidemiologic literature.",
+        "volume": "9",
+        "author": "Greenland",
+        "year": "1987",
+        "journal-title": "Epidemiologic Reviews"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.19",
+        "unstructured": "General Accounting Office .Cross design synthesis: a new strategy for medical effectiveness research. Washington D.C.: G.O.A. 1992."
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.20",
+        "doi-asserted-by": "crossref",
+        "first-page": "944",
+        "DOI": "10.1016/0140-6736(92)92822-W",
+        "article-title": "Cross design synthesis: a new strategy for studying medical outcomes [editorial]?",
+        "volume": "340",
+        "year": "1992",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "786",
+        "DOI": "10.1136/bmj.305.6857.786",
+        "article-title": "Getting to grips with Archie Cochrane's agenda.",
+        "volume": "305",
+        "author": "Chalmers",
+        "year": "1992",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1995.03530240045039"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1392",
+        "DOI": "10.1001/jama.1990.03440100104016",
+        "article-title": "Minimizing the three stages of publication bias.",
+        "volume": "263",
+        "author": "Chalmers",
+        "year": "1990",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.24",
+        "unstructured": "Oakes M .Statistical inference: a commmentary for the social and behavioural sciences. Chichester: Wiley,1986."
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0140-6736(92)93223-A"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.26",
+        "doi-asserted-by": "crossref",
+        "first-page": "913",
+        "DOI": "10.1136/bmj.305.6859.913",
+        "article-title": "Low molecular weight heparin in prevention of perioperative thrombosis.",
+        "volume": "305",
+        "author": "Leizorovicz",
+        "year": "1992",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/art.1780331001"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.28",
+        "doi-asserted-by": "crossref",
+        "first-page": "587",
+        "DOI": "10.1016/0895-4356(92)90130-F",
+        "article-title": "Meta-analysis of second-line antirheumatic drugs: sample size bias and uncertain benefit.",
+        "volume": "45",
+        "author": "Götzsche",
+        "year": "1992",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.29",
+        "doi-asserted-by": "crossref",
+        "first-page": "274",
+        "DOI": "10.1002/j.1875-9114.1989.tb04139.x",
+        "article-title": "Meta-analysis: whither narrative review?",
+        "volume": "9",
+        "author": "Teagarden",
+        "year": "1989",
+        "journal-title": "Pharmacotherapy"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.30",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1136/bmj.305.6844.15",
+        "article-title": "Cholesterol lowering trials in coronary heart disease: frequency of citation and outcome.",
+        "volume": "305",
+        "author": "Ravnskov",
+        "year": "1992",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.31",
+        "doi-asserted-by": "crossref",
+        "first-page": "654",
+        "DOI": "10.1136/bmj.295.6599.654",
+        "article-title": "Reference bias in reports of drug trials.",
+        "volume": "295",
+        "author": "Götzsche",
+        "year": "1987",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.32",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.7326/0003-4819-106-3-485",
+        "article-title": "The medical review article: state of the science.",
+        "volume": "106",
+        "author": "Mulrow",
+        "year": "1987",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.33",
+        "doi-asserted-by": "crossref",
+        "first-page": "442",
+        "DOI": "10.1037/0033-2909.87.3.442",
+        "article-title": "Statistical versus traditional procedures for summarising research findings.",
+        "volume": "87",
+        "author": "Cooper",
+        "year": "1980",
+        "journal-title": "Psychol Bull"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Freiman JA Chalmers TC Smith H Kuebler RR .The importance of beta, the type II error, and sample size in the design and interpretation of the randomized controlled trial. In: Bailar JC Mosteller F , eds. Medical uses of statistics. Boston, MA: NEJM Books,1992:357.",
+        "DOI": "10.1201/9780429187445-19"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.35",
+        "doi-asserted-by": "crossref",
+        "first-page": "1689",
+        "DOI": "10.1136/bmj.304.6843.1689",
+        "article-title": "Cholesterol and total mortality: need for larger trials.",
+        "volume": "304",
+        "author": "Collins",
+        "year": "1992",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.36",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1016/0895-4356(89)90023-1",
+        "article-title": "Meta-analysis in medicine. Where we are and where we want to go.",
+        "volume": "42",
+        "author": "Jenicek",
+        "year": "1989",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.37",
+        "doi-asserted-by": "crossref",
+        "first-page": "371",
+        "DOI": "10.1002/sim.4780060331",
+        "article-title": "Interpretation of results from subset analyses within overviews of randomized clinical trials.",
+        "volume": "6",
+        "author": "Gelber",
+        "year": "1987",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.38",
+        "unstructured": "Chalmers I .Randomised controlled trials of fetal monitoring 1973-1977. In: Thalhammer O Baumgarten K Pollak A , eds. Perinatal medicine. Stuttgart: Thieme,1979:260."
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.39",
+        "doi-asserted-by": "crossref",
+        "first-page": "524",
+        "DOI": "10.1016/0002-9378(85)90619-2",
+        "article-title": "The Dublin randomised controlled trial of intrapartum fetal heart rate monitoring.",
+        "volume": "152",
+        "author": "MacDonald",
+        "year": "1985",
+        "journal-title": "Am J Obstet Gynecol"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.40",
+        "unstructured": "Rosenthal R .An evaluation of procedures and results. In: Wachter KW Straf ML , eds. The future of meta-analysis. New York: Russel Sage Foundation, 1990:123."
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.41",
+        "doi-asserted-by": "crossref",
+        "first-page": "248",
+        "DOI": "10.1056/NEJM199207233270406",
+        "article-title": "Cumulative meta-analysis of therapeutic trials for myocardial infarction.",
+        "volume": "327",
+        "author": "Lau",
+        "year": "1992",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.42",
+        "unstructured": "Gruppo Italiano per lo Studio della Streptochinasi nell'Infarto Miocardico (GISSI) .Effectiveness of intravenous thrombolytic treatment in acute myocardial infarction. Lancet 1986;397–402."
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.43",
+        "first-page": "349",
+        "article-title": "Randomised trial of intravenous streptokinase, oral aspirin, both, or neither among 17,187 cases of suspected acute myocardial infarction: ISIS-2.",
+        "volume": "ii",
+        "year": "1988",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.44",
+        "doi-asserted-by": "crossref",
+        "first-page": "1565",
+        "DOI": "10.1136/bmj.282.6276.1565",
+        "article-title": "Timolol after myocardial infarction: an answer or a new set of questions?",
+        "volume": "282",
+        "author": "Mitchell",
+        "year": "1981",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.45",
+        "doi-asserted-by": "crossref",
+        "first-page": "240",
+        "DOI": "10.1001/jama.1992.03490020088036",
+        "article-title": "A comparison of results of meta-analyses of randomized control trials and recommendations of clinical experts.",
+        "volume": "268",
+        "author": "Antman",
+        "year": "1992",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.46",
+        "doi-asserted-by": "crossref",
+        "first-page": "505",
+        "DOI": "10.1001/archinte.1994.00420050045005",
+        "article-title": "Setting limits in clinical medicine.",
+        "volume": "154",
+        "author": "Murphy",
+        "year": "1994",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "2025122509071125000_315.7119.1371.47",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1136/bmj.315.7109.629",
+        "article-title": "Bias in meta-analysis detected by a simple, graphical test.",
+        "volume": "315",
+        "author": "Egger",
+        "year": "1997",
+        "journal-title": "BMJ"
+      }
+    ],
+    "container-title": [
+      "BMJ"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://data.bmj.org/tdm/10.1136/bmj.315.7119.1371",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.315.7119.1371",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          25
+        ]
+      ],
+      "date-time": "2025-12-25T17:07:23Z",
+      "timestamp": 1766682443000
+    },
+    "score": 49.41459,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.315.7119.1371"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          11,
+          22
+        ]
+      ]
+    },
+    "references-count": 47,
+    "journal-issue": {
+      "issue": "7119",
+      "published-online": {
+        "date-parts": [
+          [
+            1997,
+            11,
+            22
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            1997,
+            11,
+            22
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/bmj.315.7119.1371"
+    ],
+    "URL": "https://doi.org/10.1136/bmj.315.7119.1371",
+    "ISSN": [
+      "0959-8138",
+      "1468-5833"
+    ],
+    "issn-type": [
+      {
+        "value": "0959-8138",
+        "type": "print"
+      },
+      {
+        "value": "1468-5833",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1997,
+          11,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          11
+        ]
+      ],
+      "date-time": "2026-06-11T10:05:36Z",
+      "timestamp": 1781172336776,
+      "version": "3.54.1"
+    },
+    "reference-count": 30,
+    "publisher": "BMJ",
+    "issue": "7121",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1997,
+              12,
+              6
+            ]
+          ],
+          "date-time": "1997-12-06T00:00:00Z",
+          "timestamp": 881366400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.bmj.com/company/legal-information/terms-conditions/legal-information/tdm-licencepolicy"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1997,
+          12,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1136/bmj.315.7121.1533",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2011-10-27T19:50:02Z",
+      "timestamp": 1319745002000
+    },
+    "page": "1533-1537",
+    "source": "Crossref",
+    "is-referenced-by-count": 1753,
+    "title": [
+      "Meta-analysis: Principles and procedures"
+    ],
+    "prefix": "10.1136",
+    "volume": "315",
+    "author": [
+      {
+        "given": "Matthias",
+        "family": "Egger",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "George Davey",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew N",
+        "family": "Phillips",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          1997,
+          12,
+          6
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2025122509241123000_315.7121.1533.1",
+        "first-page": "28",
+        "article-title": "Experiences with meta-analysis in NDA submissions.",
+        "volume": "2",
+        "author": "Huque",
+        "year": "1988",
+        "journal-title": "Proceedings of the Biopharmaceutical Section of the American Statistical Association"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1371",
+        "DOI": "10.1136/bmj.315.7119.1371",
+        "article-title": "Meta-analysis: potentials and promise.",
+        "volume": "315",
+        "author": "Egger",
+        "year": "1997",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1136/bmj.315.7109.629",
+        "article-title": "Bias in meta-analysis detected by a simple, graphical test.",
+        "volume": "315",
+        "author": "Egger",
+        "year": "1997",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.4",
+        "doi-asserted-by": "crossref",
+        "first-page": "233",
+        "DOI": "10.1016/0002-9343(82)90815-4",
+        "article-title": "Randomized versus historical controls for clinical trials.",
+        "volume": "72",
+        "author": "Sacks",
+        "year": "1982",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.5",
+        "doi-asserted-by": "crossref",
+        "first-page": "408",
+        "DOI": "10.1001/jama.1995.03520290060030",
+        "article-title": "Empirical evidence of bias. Dimensions of methodological quality associated with estimates of treatment effects in controlled trials.",
+        "volume": "273",
+        "author": "Schulz",
+        "year": "1995",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1111/j.1471-0528.1988.tb06475.x",
+        "article-title": "The effects of routine oxytocic administration in the management of the third stage of labour: an overview of the evidence from controlled trials.",
+        "volume": "95",
+        "author": "Prendiville",
+        "year": "1988",
+        "journal-title": "Br J Obstet Gynaecol"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1996.03540080059030"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.8",
+        "doi-asserted-by": "crossref",
+        "first-page": "180",
+        "DOI": "10.1136/bmj.315.7101.180",
+        "article-title": "The Medline database.",
+        "volume": "315",
+        "author": "Greenhalgh",
+        "year": "1997",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "306",
+        "DOI": "10.1016/0197-2456(85)90106-0",
+        "article-title": "Perusing the literature: comparison of Medline searching with a perinatal clinical trial data base.",
+        "volume": "6",
+        "author": "Dickersin",
+        "year": "1985",
+        "journal-title": "Controlled Clinical Trials"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1286",
+        "DOI": "10.1136/bmj.309.6964.1286",
+        "article-title": "Identifying relevant studies for systematic reviews.",
+        "volume": "309",
+        "author": "Dickersin",
+        "year": "1994",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "786",
+        "DOI": "10.1136/bmj.305.6857.786",
+        "article-title": "Getting to grips with Archie Cochrane's agenda.",
+        "volume": "305",
+        "author": "Chalmers",
+        "year": "1992",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.12",
+        "unstructured": "The Cochrane Controlled Trials Register. In: Cochrane Library. CD ROM and online. Cochrane Collaboration (issue 1). Oxford: Update Software,1997."
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "62",
+        "DOI": "10.1016/0197-2456(94)00031-W",
+        "article-title": "Assessing the quality of randomized controlled trials: an annotated bibliography of scales and checklists.",
+        "volume": "16",
+        "author": "Moher",
+        "year": "1995",
+        "journal-title": "Controlled Clinical Trials"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/0197-2456(95)00134-4",
+        "article-title": "Assessing the quality of reports of randomized clinical trials: is blinding necessary?",
+        "volume": "17",
+        "author": "Jadad",
+        "year": "1996",
+        "journal-title": "Controlled Clinical Trials"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.4780100618"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(96)90538-3"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1728",
+        "DOI": "10.1056/NEJM198806303182605",
+        "article-title": "An assessment of clinically useful measures of the consequences of treatment.",
+        "volume": "318",
+        "author": "Laupacis",
+        "year": "1988",
+        "journal-title": "New Engl J Med"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.4780080202"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "335",
+        "DOI": "10.1016/S0033-0620(85)80003-7",
+        "article-title": "Beta blockade during and after myocardial infarction: an overview of the randomized trials.",
+        "volume": "17",
+        "author": "Yusuf",
+        "year": "1985",
+        "journal-title": "Prog Cardiovasc Dis"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.20",
+        "doi-asserted-by": "crossref",
+        "first-page": "177",
+        "DOI": "10.1016/0197-2456(86)90046-2",
+        "article-title": "Meta-analysis in clinical trials.",
+        "volume": "7",
+        "author": "DerSimonian",
+        "year": "1986",
+        "journal-title": "Controlled Clinical Trials"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.21",
+        "doi-asserted-by": "crossref",
+        "first-page": "141",
+        "DOI": "10.1002/sim.4780110202",
+        "article-title": "Meta-analysis for 2x2 tables: a bayesian approach.",
+        "volume": "11",
+        "author": "Carlin",
+        "year": "1992",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.22",
+        "doi-asserted-by": "crossref",
+        "first-page": "603",
+        "DOI": "10.1136/bmj.313.7057.603",
+        "article-title": "The statistical basis of public policy: a paradigm shift is overdue.",
+        "volume": "313",
+        "author": "Lilford",
+        "year": "1996",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.23",
+        "unstructured": "Eddy DM Hasselblad V Shachter R .Meta-analysis by the confidence profile method. The statistical synthesis of evidence. Boston: Academic Press,1992."
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.24",
+        "doi-asserted-by": "crossref",
+        "first-page": "351",
+        "DOI": "10.1002/sim.4780060327",
+        "article-title": "Inter-study differences: how should they influence the interpretation and analysis of results?",
+        "volume": "6",
+        "author": "Bailey",
+        "year": "1987",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.25",
+        "doi-asserted-by": "crossref",
+        "first-page": "889",
+        "DOI": "10.1002/sim.4780070807",
+        "article-title": "A note on graphical presentation of estimated odds ratios from several clinical trials.",
+        "volume": "7",
+        "author": "Galbraith",
+        "year": "1988",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.26",
+        "doi-asserted-by": "crossref",
+        "first-page": "331",
+        "DOI": "10.1056/NEJM198308113090602",
+        "article-title": "Risk stratification and survival after myocardial infarction.",
+        "volume": "309",
+        "year": "1983",
+        "journal-title": "New Engl J Med"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.27",
+        "doi-asserted-by": "crossref",
+        "first-page": "426",
+        "DOI": "10.1136/bmj.312.7028.426",
+        "article-title": "The number needed to treat: a clinically useful nomogram in its proper context.",
+        "volume": "312",
+        "author": "Chatellier",
+        "year": "1996",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.28",
+        "doi-asserted-by": "crossref",
+        "first-page": "867",
+        "DOI": "10.1016/0140-6736(91)90201-Y",
+        "article-title": "Publication bias in clinical research.",
+        "volume": "337",
+        "author": "Easterbrook",
+        "year": "1991",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.29",
+        "doi-asserted-by": "crossref",
+        "first-page": "361",
+        "DOI": "10.1002/sim.4780060329",
+        "article-title": "Effects on overviews of early stopping rules for clinical trials.",
+        "volume": "6",
+        "author": "Green",
+        "year": "1987",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "2025122509241123000_315.7121.1533.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.309.6955.648"
+      }
+    ],
+    "container-title": [
+      "BMJ"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://data.bmj.org/tdm/10.1136/bmj.315.7121.1533",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.315.7121.1533",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          25
+        ]
+      ],
+      "date-time": "2025-12-25T17:24:22Z",
+      "timestamp": 1766683462000
+    },
+    "score": 48.976208,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.315.7121.1533"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          12,
+          6
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "7121",
+      "published-online": {
+        "date-parts": [
+          [
+            1997,
+            12,
+            6
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            1997,
+            12,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/bmj.315.7121.1533"
+    ],
+    "URL": "https://doi.org/10.1136/bmj.315.7121.1533",
+    "ISSN": [
+      "0959-8138",
+      "1468-5833"
+    ],
+    "issn-type": [
+      {
+        "value": "0959-8138",
+        "type": "print"
+      },
+      {
+        "value": "1468-5833",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1997,
+          12,
+          6
+        ]
+      ]
+    }
+  }
+]

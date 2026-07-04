@@ -1,0 +1,1069 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2026-04-30T02:42:34Z",
+      "timestamp": 1777516954482,
+      "version": "3.51.4"
+    },
+    "reference-count": 0,
+    "publisher": "AVES Publishing Co.",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Turkish Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          9,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.5152/tud.2010.025",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          9,
+          29
+        ]
+      ],
+      "date-time": "2010-09-29T07:52:04Z",
+      "timestamp": 1285746724000
+    },
+    "page": "248-257",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "The applications of robotic surgery in urology"
+    ],
+    "prefix": "10.5152",
+    "volume": "36",
+    "author": [
+      {
+        "given": "Ali Riza",
+        "family": "Kural",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Fatih",
+        "family": "Atug",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "3111",
+    "container-title": [
+      "Türk Üroloji Dergisi/Turkish Journal of Urology"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2010,
+          9,
+          29
+        ]
+      ],
+      "date-time": "2010-09-29T07:52:13Z",
+      "timestamp": 1285746733000
+    },
+    "score": 53.379017,
+    "resource": {
+      "primary": {
+        "URL": "http://www.turkurolojidergisi.com/eng/yazilar.asp?yaziid=1206&sayiid=61"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          9,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            9,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.5152/tud.2010.025",
+    "ISSN": [
+      "1300-5804",
+      "1308-4631"
+    ],
+    "issn-type": [
+      {
+        "value": "1300-5804",
+        "type": "print"
+      },
+      {
+        "value": "1308-4631",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          9,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2022-04-05T17:32:32Z",
+      "timestamp": 1649179952216
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2010-09-01T00:00:00Z",
+          "timestamp": 1283299200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(10)61187-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          8,
+          19
+        ]
+      ],
+      "date-time": "2010-08-19T09:27:39Z",
+      "timestamp": 1282210059000
+    },
+    "page": "527",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "96 A novel loop knot for fixation of running sutures during robotic surgery"
+    ],
+    "prefix": "10.1016",
+    "volume": "9",
+    "author": [
+      {
+        "given": "A.R.",
+        "family": "Kural",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Atuğ",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "I.",
+        "family": "Tüfek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "H.",
+        "family": "Akpinar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905610611876?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905610611876?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          8
+        ]
+      ],
+      "date-time": "2018-12-08T18:51:02Z",
+      "timestamp": 1544295062000
+    },
+    "score": 36.248558,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905610611876"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905610611876"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(10)61187-6",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2025-10-22T10:27:34Z",
+      "timestamp": 1761128854240
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2010-09-01T00:00:00Z",
+          "timestamp": 1283299200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(10)61125-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          8,
+          19
+        ]
+      ],
+      "date-time": "2010-08-19T09:27:39Z",
+      "timestamp": 1282210059000
+    },
+    "page": "507",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "34 Initiating a robotic urology program with optimal oncologic efficacy; Impact of mentorship on positive surgical margins in robotic radical prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "9",
+    "author": [
+      {
+        "given": "A.R.",
+        "family": "Kural",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Atuğ",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "I.",
+        "family": "Tüfek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "H.",
+        "family": "Akpnar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905610611256?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905610611256?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          8
+        ]
+      ],
+      "date-time": "2018-12-08T18:51:47Z",
+      "timestamp": 1544295107000
+    },
+    "score": 33.916332,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905610611256"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905610611256"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(10)61125-6",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          29
+        ]
+      ],
+      "date-time": "2026-05-29T10:15:33Z",
+      "timestamp": 1780049733159,
+      "version": "3.53.1"
+    },
+    "reference-count": 36,
+    "publisher": "Medknow",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Indian J Urol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "DOI": "10.4103/0970-1591.70580",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2010-10-07T14:17:46Z",
+      "timestamp": 1286461066000
+    },
+    "page": "395",
+    "source": "Crossref",
+    "is-referenced-by-count": 35,
+    "title": [
+      "Robotic instrumentation: Evolution and microsurgical applications"
+    ],
+    "prefix": "10.4103",
+    "volume": "26",
+    "author": [
+      {
+        "given": "SijoJ",
+        "family": "Parekattil",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "MichaelE",
+        "family": "Moran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "2581",
+    "reference": [
+      {
+        "key": "key-10.4103/0970-1591.70580-1",
+        "first-page": "147",
+        "volume-title": "The Early History of Urology",
+        "author": "Neuburger",
+        "year": "1937",
+        "journal-title": "Bull Med Libr Assoc"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-2",
+        "unstructured": "RRG. History of Robotics. Robotic Research Group: University of Texas, Austin."
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-3",
+        "first-page": "375",
+        "volume-title": "Technology: law of accelerating returns",
+        "author": "Moran",
+        "year": "2006",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-4",
+        "first-page": "1",
+        "volume-title": "Virtual environmental display system.Proceedings of the Workshop on Interactive 3-D Graphics",
+        "author": "Fisher",
+        "year": "1986",
+        "journal-title": ""
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-5",
+        "first-page": "192",
+        "volume-title": "Telepresence: dexterous procedures in a virtual operating field",
+        "author": "Green",
+        "year": "1991",
+        "journal-title": "Surg Endosc"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-6",
+        "unstructured": "Satava R. History of robotic surgery. The early chronicles: a personal historical perspective. http://www.websurg.com/robotics/history.php. Accessed September 7th 2010."
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-7",
+        "first-page": "273",
+        "volume-title": "A surgeon robot prostatectomy--a laboratory evaluation",
+        "author": "Davies",
+        "year": "1989",
+        "journal-title": "J Med Eng Technol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-8",
+        "first-page": "317",
+        "volume-title": "The Probot--an active robot for prostate resection",
+        "author": "Harris",
+        "year": "1997",
+        "journal-title": "Proc Inst Mech Eng H"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schurr MO, Buess G, Neisius B, Voges U. Robotics and telemanipulation technologies for endoscopic surgery. A review of the ARTEMIS project. Advanced Robotic Telemanipulator for Minimally Invasive Surgery. Surg Endosc 2000;14:375-81.",
+        "DOI": "10.1007/s004640020067"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-10",
+        "first-page": "63",
+        "volume-title": "Robotically enhanced surgery: from concept to development",
+        "author": "Wang",
+        "year": "1996",
+        "journal-title": "Surg Endosc"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-11",
+        "first-page": "244",
+        "volume-title": "Experimental study of transurethral robotic laser resection of the prostate using the LaserTrode lightguide",
+        "author": "Ho",
+        "year": "2001",
+        "journal-title": "J Biomed Opt"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-12",
+        "unstructured": "Ng WS. Computer Integrated Medical Intervention Laboratory."
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-13",
+        "first-page": "1589",
+        "volume-title": "A robotic system for percutaneous renal access",
+        "author": "Cadeddu",
+        "year": "1997",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-14",
+        "first-page": "121",
+        "volume-title": "Stereotactic mechanical percutaneous renal access",
+        "author": "Cadeddu",
+        "year": "1998",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-15",
+        "first-page": "471",
+        "volume-title": "Robotic percutaneous access to the kidney: comparison with standard manual access",
+        "author": "Su",
+        "year": "2002",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-16",
+        "first-page": "986",
+        "volume-title": "The da Vinci robot",
+        "author": "Moran",
+        "year": "2006",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-17",
+        "first-page": "1091",
+        "volume-title": "Telesurgical laparoscopic cholecystectomy",
+        "author": "Himpens",
+        "year": "1998",
+        "journal-title": "Surg Endosc"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-18",
+        "first-page": "365",
+        "volume-title": "A Robotic System for Transrectal Needle Insertion into the Prostate with Integrated Ultrasound",
+        "author": "Schneider",
+        "year": "2004",
+        "journal-title": "Proceedings of the"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-19",
+        "first-page": "14",
+        "volume-title": "Robotically assisted prostate brachytherapy with transrectal ultrasound guidance--Phantom experiments",
+        "author": "Fichtinger",
+        "year": "2006",
+        "journal-title": "Brachytherapy"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-20",
+        "first-page": "2396",
+        "volume-title": "The systematic use of intraoperative vascular Doppler ultrasound during microsurgical subinguinal varicocelectomy improves precise identification and preservation of testicular blood supply",
+        "author": "Cocuzza",
+        "year": "2009",
+        "journal-title": "Fertil Steril"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-21",
+        "first-page": "300",
+        "volume-title": "Initial evaluation of robotic technology for microsurgical vasovasostomy",
+        "author": "Kuang",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-22",
+        "first-page": "811",
+        "volume-title": "Robotic-assisted vasovasostomy: a two-layer technique in an animal model",
+        "author": "Kuang",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-23",
+        "first-page": "1720",
+        "volume-title": "Robotic microsurgical vasovasostomy and vasoepididymostomy: a prospective randomized study in a rat model",
+        "author": "Schiff",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-24",
+        "first-page": "122",
+        "volume-title": "Robotic microsurgical vasovasostomy and vasoepididymostomy in rats",
+        "author": "Schiff",
+        "year": "2005",
+        "journal-title": "Int J Med Robot"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-25",
+        "first-page": "48",
+        "volume-title": "Robotic assisted microsurgical vasal reconstruction in a model system",
+        "author": "Schoor",
+        "year": "2003",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-26",
+        "first-page": "769",
+        "volume-title": "Robot-assisted vasovasostomy.The Urologic clinics of North America",
+        "author": "Fleming",
+        "year": "2004",
+        "journal-title": ""
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-27",
+        "first-page": "71611",
+        "volume-title": "Human robotic assisted bilateral vasoepididymostomy and vasovasostomy procedures: initial safety and efficacy trial",
+        "author": "Parekattil",
+        "year": "2009",
+        "journal-title": "Proceedings SPIE"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Parekattil S, Atalah, H, Cohen M. Video technique for human robotic assisted microsurgical vasovasostomy. J Endou 2009.",
+        "DOI": "10.1089/vid.2010.0013"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-29",
+        "first-page": "117",
+        "volume-title": "Advantages and limits of robot-assisted laparoscopic surgery: preliminary experience",
+        "author": "Corcione",
+        "year": "2005",
+        "journal-title": "Surg Endosc"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-30",
+        "first-page": "413",
+        "volume-title": "Comparative analysis of three different surgical approaches to varicocelectomy",
+        "author": "Chen",
+        "year": "2009",
+        "journal-title": "Zhonghua Nan Ke Xue"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-31",
+        "first-page": "33",
+        "volume-title": "Treatment of palpable varicocele in infertile men: a meta-analysis to define the best technique",
+        "author": "Cayan",
+        "year": "2009",
+        "journal-title": "J Androl"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-32",
+        "first-page": "266",
+        "volume-title": "Varicocelectomy for male infertility: a comparative study of open, laparoscopic and microsurgical approaches",
+        "author": "Al-Said",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-33",
+        "first-page": "417",
+        "volume-title": "Comparison of outcomes of different varicocelectomy techniques: open inguinal, laparoscopic, and subinguinal microscopic varicocelectomy: a randomized clinical trial",
+        "author": "Al-Kandari",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-34",
+        "first-page": "146",
+        "volume-title": "Initial experience with robot-assisted varicocelectomy",
+        "author": "Shu",
+        "year": "2008",
+        "journal-title": "Asian J Androl"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-35",
+        "first-page": "526",
+        "volume-title": "Microsurgical denervation of the spermatic cord",
+        "author": "Levine",
+        "year": "2008",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "key-10.4103/0970-1591.70580-36",
+        "first-page": "393",
+        "volume-title": "Microsurgical testicular denervation for the treatment of chronic testicular pain initial results",
+        "author": "Oliveira",
+        "year": "2009",
+        "journal-title": "Clinics"
+      }
+    ],
+    "container-title": [
+      "Indian Journal of Urology"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2024-05-16T11:57:08Z",
+      "timestamp": 1715860628000
+    },
+    "score": 33.724293,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/10.4103/0970-1591.70580"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2010
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "70580"
+    ],
+    "URL": "https://doi.org/10.4103/0970-1591.70580",
+    "ISSN": [
+      "0970-1591"
+    ],
+    "issn-type": [
+      {
+        "value": "0970-1591",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          21
+        ]
+      ],
+      "date-time": "2024-04-21T00:31:16Z",
+      "timestamp": 1713659476469
+    },
+    "reference-count": 0,
+    "publisher": "Gavin Publishers",
+    "issue": "4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J Urol Ren Dis"
+    ],
+    "DOI": "10.29011/2575-7903.001377",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          20
+        ]
+      ],
+      "date-time": "2024-04-20T06:56:05Z",
+      "timestamp": 1713596165000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Robotic Surgery in Urology"
+    ],
+    "prefix": "10.29011",
+    "volume": "9",
+    "member": "11549",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          4
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Urology and Renal Diseases"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          20
+        ]
+      ],
+      "date-time": "2024-04-20T06:56:07Z",
+      "timestamp": 1713596167000
+    },
+    "score": 32.5388,
+    "resource": {
+      "primary": {
+        "URL": "https://www.gavinpublishers.com/article/view/robotic-surgery-in-urology"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            4
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.29011/2575-7903.001377",
+    "ISSN": [
+      "2575-7903"
+    ],
+    "issn-type": [
+      {
+        "value": "2575-7903",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          4
+        ]
+      ]
+    }
+  }
+]

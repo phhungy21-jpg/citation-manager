@@ -1,0 +1,3092 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          28
+        ]
+      ],
+      "date-time": "2026-01-28T11:47:47Z",
+      "timestamp": 1769600867662,
+      "version": "3.49.0"
+    },
+    "reference-count": 36,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "49",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1097/md.0000000000005617",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          8
+        ]
+      ],
+      "date-time": "2016-12-08T15:19:07Z",
+      "timestamp": 1481210347000
+    },
+    "page": "e5617",
+    "source": "Crossref",
+    "is-referenced-by-count": 30,
+    "title": [
+      "Low mortality but increasing incidence of Staphylococcus aureus endocarditis in people who inject drugs"
+    ],
+    "prefix": "10.1097",
+    "volume": "95",
+    "author": [
+      {
+        "given": "Hilmir",
+        "family": "Asgeirsson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anders",
+        "family": "Thalme",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ola",
+        "family": "Weiland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "R1-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "1017",
+        "DOI": "10.7326/0003-4819-119-10-199311150-00009",
+        "article-title": "The medical complications of drug addiction and the medical assessment of the intravenous drug user: 25 years later",
+        "volume": "119",
+        "author": "Cherubin",
+        "year": "1993",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R2-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1001/archinternmed.2008.603",
+        "article-title": "Clinical presentation, etiology, and outcome of infective endocarditis in the 21st century: the International Collaboration on Endocarditis-Prospective Cohort Study",
+        "volume": "169",
+        "author": "Murdoch",
+        "year": "2009",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "R3-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "507",
+        "DOI": "10.1086/431979",
+        "article-title": "Staphylococcus aureus native valve infective endocarditis: report of 566 episodes from the International Collaboration on Endocarditis Merged Database",
+        "volume": "41",
+        "author": "Miro",
+        "year": "2005",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R4-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.1080/00365540600978856",
+        "article-title": "In-hospital and long-term mortality in infective endocarditis in injecting drug users compared to non-drug users: a retrospective study of 192 episodes",
+        "volume": "39",
+        "author": "Thalme",
+        "year": "2007",
+        "journal-title": "Scand J Infect Dis"
+      },
+      {
+        "key": "R5-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1097/MD.0b013e318194da65",
+        "article-title": "Endocarditis caused by Staphylococcus aureus: a reappraisal of the epidemiologic, clinical, and pathologic manifestations with analysis of factors determining outcome",
+        "volume": "88",
+        "author": "Fernández Guerrero",
+        "year": "2009",
+        "journal-title": "Medicine (Baltimore"
+      },
+      {
+        "key": "R6-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "3012",
+        "DOI": "10.1001/jama.293.24.3012",
+        "article-title": "Staphylococcus aureus endocarditis: a consequence of medical progress",
+        "volume": "293",
+        "author": "Fowler",
+        "year": "2005",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "R7-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "3075",
+        "DOI": "10.1093/eurheartj/ehv319",
+        "article-title": "2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC). Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM)",
+        "volume": "36",
+        "author": "Habib",
+        "year": "2015",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "R8-87-20210226",
+        "first-page": "e394",
+        "article-title": "Infective endocarditis: diagnosis, antimicrobial therapy, and management of complications: a statement for healthcare professionals from the Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease, Council on Cardiovascular Disease in the Young, and the Councils on Clinical Cardiology, Stroke, and Cardiovascular Surgery and Anesthesia, American Heart Association: endorsed by the Infectious Diseases Society of America",
+        "volume": "111",
+        "author": "Baddour",
+        "year": "2005",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "R9-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "137",
+        "DOI": "10.1186/1471-2334-6-137",
+        "article-title": "Clinical manifestations and outcome in Staphylococcus aureus endocarditis among injection drug users and nonaddicts: a prospective study of 74 patients",
+        "volume": "6",
+        "author": "Ruotsalainen",
+        "year": "2006",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "key": "R10-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "483",
+        "DOI": "10.3109/00365549509047050",
+        "article-title": "Staphylococcus aureus endocarditis in Danish intravenous drug users: high proportion of left-sided endocarditis",
+        "volume": "27",
+        "author": "Faber",
+        "year": "1995",
+        "journal-title": "Scand J Infect Dis"
+      },
+      {
+        "key": "R11-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "374",
+        "DOI": "10.1093/clinids/8.3.374",
+        "article-title": "Bacteremia in narcotic addicts at the Detroit Medical Center. II. Infectious endocarditis: a prospective comparative study",
+        "volume": "8",
+        "author": "Levine",
+        "year": "1986",
+        "journal-title": "Rev Infect Dis"
+      },
+      {
+        "key": "R12-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.3109/inf.1985.17.issue-2.09",
+        "article-title": "Unfavourable prognostic factors in Staphylococcus aureus septicemia and endocarditis",
+        "volume": "17",
+        "author": "Julander",
+        "year": "1985",
+        "journal-title": "Scand J Infect Dis"
+      },
+      {
+        "key": "R13-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "170",
+        "DOI": "10.1097/00005792-198305000-00004",
+        "article-title": "Staphylococcus aureus endocarditis: clinical manifestations in addicts and nonaddicts",
+        "volume": "62",
+        "author": "Chambers",
+        "year": "1983",
+        "journal-title": "Medicine (Baltimore"
+      },
+      {
+        "key": "R14-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "1555",
+        "DOI": "10.1001/archinte.1975.00330120033005",
+        "article-title": "Staphylococcal endocarditis in drug users. Clinical and microbiologic aspects",
+        "volume": "135",
+        "author": "Tuazon",
+        "year": "1975",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "R15-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.1016/S0733-8651(03)00025-0",
+        "article-title": "Infective endocarditis and cardiac surgery in intravenous drug abusers and HIV-1 infected patients",
+        "volume": "21",
+        "author": "Miró",
+        "year": "2003",
+        "journal-title": "Cardiol Clin"
+      },
+      {
+        "key": "R18-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1086/313753",
+        "article-title": "Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis",
+        "volume": "30",
+        "author": "Li",
+        "year": "2000",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R19-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "772",
+        "DOI": "10.1016/j.cmi.2015.04.014",
+        "article-title": "Incidence and outcome of Staphylococcus aureus endocarditis-a 10-year single-centre northern European experience",
+        "volume": "21",
+        "author": "Asgeirsson",
+        "year": "2015",
+        "journal-title": "Clin Microbiol Infect"
+      },
+      {
+        "key": "R20-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "412",
+        "DOI": "10.1111/dar.12228",
+        "article-title": "Evolving epidemiology of injecting drug use-associated infective endocarditis: a regional centre experience",
+        "volume": "34",
+        "author": "Tung",
+        "year": "2015",
+        "journal-title": "Drug Alcohol Rev"
+      },
+      {
+        "key": "R21-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "1025",
+        "DOI": "10.1378/chest.06-2048",
+        "article-title": "A systematic review of population-based studies of infective endocarditis",
+        "volume": "132",
+        "author": "Tleyjeh",
+        "year": "2007",
+        "journal-title": "Chest"
+      },
+      {
+        "key": "R22-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "1720",
+        "DOI": "10.1001/archinternmed.2009.307",
+        "article-title": "Population-based surveillance of infectious endocarditis in an Italian region",
+        "volume": "169",
+        "author": "Scudeller",
+        "year": "2009",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "R23-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "1230",
+        "DOI": "10.1093/cid/cis199",
+        "article-title": "Preeminence of Staphylococcus aureus in infective endocarditis: a 1-year population-based survey",
+        "volume": "54",
+        "author": "Selton-Suty",
+        "year": "2012",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R24-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "324",
+        "DOI": "10.1097/00005792-199511000-00003",
+        "article-title": "Epidemiologic aspects of infective endocarditis in an urban population. A 5-year prospective study",
+        "volume": "74",
+        "author": "Hogevik",
+        "year": "1995",
+        "journal-title": "Medicine (Baltimore"
+      },
+      {
+        "key": "R25-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "1200",
+        "DOI": "10.1086/522176",
+        "article-title": "Nationwide increase in the number of hospitalizations for illicit injection drug use-related infective endocarditis",
+        "volume": "45",
+        "author": "Cooper",
+        "year": "2007",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R26-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "953",
+        "DOI": "10.1086/528869",
+        "article-title": "Buprenorphine diversion: a possible reason for increased incidence of infective endocarditis among injection drug users? The Singapore experience",
+        "volume": "46",
+        "author": "Chai",
+        "year": "2008",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R27-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "1761",
+        "DOI": "10.1086/340827",
+        "article-title": "Prospective study of infective endocarditis among injection drug users",
+        "volume": "185",
+        "author": "Wilson",
+        "year": "2002",
+        "journal-title": "J Infect Dis"
+      },
+      {
+        "key": "R28-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "1149",
+        "DOI": "10.1016/0895-4356(96)00180-1",
+        "article-title": "Human immunodeficiency virus infection and other risk factors for skin abscesses and endocarditis among injection drug users",
+        "volume": "49",
+        "author": "Spijkerman",
+        "year": "1996",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "R29-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "1091",
+        "DOI": "10.7326/0003-4819-69-6-1091",
+        "article-title": "Infective endocarditis in narcotic addicts",
+        "volume": "69",
+        "author": "Cherubin",
+        "year": "1968",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R30-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "444",
+        "DOI": "10.1016/0002-9343(73)90201-5",
+        "article-title": "Infective endocarditis in heroin addicts",
+        "volume": "55",
+        "author": "Banks",
+        "year": "1973",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "R32-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1086/345476",
+        "article-title": "Comparison of mortality associated with methicillin-resistant and methicillin-susceptible Staphylococcus aureus bacteremia: a meta-analysis",
+        "volume": "36",
+        "author": "Cosgrove",
+        "year": "2003",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R33-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "3111",
+        "DOI": "10.1128/JCM.01352-12",
+        "article-title": "Genotyping of 353 Staphylococcus aureus bloodstream isolates collected between 2004 and 2009 at a Norwegian university hospital and potential associations with clinical parameters",
+        "volume": "50",
+        "author": "Aamot",
+        "year": "2012",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "R34-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "459",
+        "DOI": "10.1111/1469-0691.12370",
+        "article-title": "Impact of haplotypes of TNF in the natural course of infective endocarditis",
+        "volume": "20",
+        "author": "Giannitsioti",
+        "year": "2014",
+        "journal-title": "Clin Microbiol Infect"
+      },
+      {
+        "key": "R35-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1128/CVI.00329-10",
+        "article-title": "Characterization of infecting strains and superantigen-neutralizing antibodies in Staphylococcus aureus bacteremia",
+        "volume": "18",
+        "author": "Grumann",
+        "year": "2011",
+        "journal-title": "Clin Vaccine Immunol"
+      },
+      {
+        "key": "R36-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "671",
+        "DOI": "10.1086/342196",
+        "article-title": "Strains of Staphylococcus aureus obtained from drug-use networks are closely linked",
+        "volume": "35",
+        "author": "Quagliarello",
+        "year": "2002",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R37-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1016/j.jinf.2008.01.009",
+        "article-title": "Methicillin-sensitive Staphylococcus aureus bacteraemia and endocarditis among injection drug users and nonaddicts: host factors, microbiological and serological characteristics",
+        "volume": "56",
+        "author": "Ruotsalainen",
+        "year": "2008",
+        "journal-title": "J Infect"
+      },
+      {
+        "key": "R38-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "969",
+        "DOI": "10.7326/0003-4819-125-12-199612150-00005",
+        "article-title": "Effectiveness of cloxacillin with and without gentamicin in short-term therapy for right-sided Staphylococcus aureus endocarditis. A randomized, controlled trial",
+        "volume": "125",
+        "author": "Ribera",
+        "year": "1996",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R39-87-20210226",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1016/j.athoracsur.2011.08.016",
+        "article-title": "Long-term outcome for the surgical treatment of infective endocarditis with a focus on intravenous drug users",
+        "volume": "93",
+        "author": "Rabkin",
+        "year": "2012",
+        "journal-title": "Ann Thorac Surg"
+      }
+    ],
+    "container-title": [
+      "Medicine"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.1097/MD.0000000000005617",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2021-05-14T02:39:34Z",
+      "timestamp": 1620959974000
+    },
+    "score": 175.90886,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/00005792-201612060-00087"
+      }
+    },
+    "subtitle": [
+      "Experience from a Swedish referral hospital"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          12
+        ]
+      ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+      "issue": "49",
+      "published-print": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1097/md.0000000000005617",
+    "ISSN": [
+      "0025-7974"
+    ],
+    "issn-type": [
+      {
+        "value": "0025-7974",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          18
+        ]
+      ],
+      "date-time": "2025-12-18T09:02:49Z",
+      "timestamp": 1766048569733
+    },
+    "reference-count": 30,
+    "publisher": "Elsevier BV",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2015-08-01T00:00:00Z",
+          "timestamp": 1438387200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2016-08-01T00:00:00Z",
+          "timestamp": 1470009600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 366,
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Karolinska University Hospital"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Clinical Microbiology and Infection"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cmi.2015.04.014",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2015-04-28T06:19:55Z",
+      "timestamp": 1430201995000
+    },
+    "page": "772-778",
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Incidence and outcome of Staphylococcus aureus endocarditis—a 10-year single-centre northern European experience"
+    ],
+    "prefix": "10.1016",
+    "volume": "21",
+    "author": [
+      {
+        "given": "H.",
+        "family": "Asgeirsson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Thalme",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Kristjansson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "O.",
+        "family": "Weiland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.1001/archinternmed.2011.1027",
+        "article-title": "Increasing US rates of endocarditis with Staphylococcus aureus: 1999–2008",
+        "volume": "172",
+        "author": "Federspiel",
+        "year": "2012",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1230",
+        "DOI": "10.1093/cid/cis199",
+        "article-title": "Preeminence of Staphylococcus aureus in infective endocarditis: a 1-year population-based survey",
+        "volume": "54",
+        "author": "Selton-Suty",
+        "year": "2012",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1001/archinternmed.2008.603",
+        "article-title": "Clinical presentation, etiology, and outcome of infective endocarditis in the 21st century: the International Collaboration on Endocarditis—Prospective Cohort Study",
+        "volume": "169",
+        "author": "Murdoch",
+        "year": "2009",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1025",
+        "DOI": "10.1378/chest.06-2048",
+        "article-title": "A systematic review of population-based studies of infective endocarditis",
+        "volume": "132",
+        "author": "Tleyjeh",
+        "year": "2007",
+        "journal-title": "Chest"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "507",
+        "DOI": "10.1086/431979",
+        "article-title": "Staphylococcus aureus native valve infective endocarditis: report of 566 episodes from the International Collaboration on Endocarditis Merged Database",
+        "volume": "41",
+        "author": "Miro",
+        "year": "2005",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "3012",
+        "DOI": "10.1001/jama.293.24.3012",
+        "article-title": "Staphylococcus aureus endocarditis: a consequence of medical progress",
+        "volume": "293",
+        "author": "Fowler",
+        "year": "2005",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1097/MD.0b013e318194da65",
+        "article-title": "Endocarditis caused by Staphylococcus aureus: a reappraisal of the epidemiologic, clinical, and pathologic manifestations with analysis of factors determining outcome",
+        "volume": "88",
+        "author": "Fernández Guerrero",
+        "year": "2009",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "2330",
+        "DOI": "10.1001/archinte.1994.00420200086009",
+        "article-title": "Staphylococcus aureus endocarditis at a community teaching hospital, 1980 to 1991. An analysis of 106 cases",
+        "volume": "154",
+        "author": "Watanakunakorn",
+        "year": "1994",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1295",
+        "DOI": "10.1016/j.athoracsur.2006.09.093",
+        "article-title": "Predictors of death and impact of surgery in Staphylococcus aureus infective endocarditis",
+        "volume": "83",
+        "author": "Remadi",
+        "year": "2007",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "456",
+        "DOI": "10.1080/00365540902896061",
+        "article-title": "One-year mortality in coagulase-negative Staphylococcus and Staphylococcus aureus infective endocarditis",
+        "volume": "41",
+        "author": "Rasmussen",
+        "year": "2009",
+        "journal-title": "Scand J Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1001/archinte.159.5.462",
+        "article-title": "Clinical features of Staphylococcus aureus endocarditis: a 10-year experience in Denmark",
+        "volume": "159",
+        "author": "Røder",
+        "year": "1999",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "860",
+        "DOI": "10.1086/518727",
+        "article-title": "Methicillin resistance and risk factors for embolism in Staphylococcus aureus infective endocarditis",
+        "volume": "28",
+        "author": "Hsu",
+        "year": "2007",
+        "journal-title": "Infect Control Hosp Epidemiol"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1086/313753",
+        "article-title": "Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis",
+        "volume": "30",
+        "author": "Li",
+        "year": "2000",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "791",
+        "DOI": "10.7326/0003-4819-137-10-200211190-00007",
+        "article-title": "Health care-associated bloodstream infections in adults: a reason to change the accepted definition of community-acquired infections",
+        "volume": "137",
+        "author": "Friedman",
+        "year": "2002",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "513",
+        "DOI": "10.1111/j.1469-0691.2010.03265.x",
+        "article-title": "Staphylococcus aureus bacteraemia in Iceland, 1995–2008: changing incidence and mortality",
+        "volume": "17",
+        "author": "Asgeirsson",
+        "year": "2011",
+        "journal-title": "Clin Microbiol Infect"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "362",
+        "DOI": "10.1128/CMR.05022-11",
+        "article-title": "Predictors of mortality in Staphylococcus aureus bacteremia",
+        "volume": "25",
+        "author": "van Hal",
+        "year": "2012",
+        "journal-title": "Clin Microbiol Rev"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "90",
+        "DOI": "10.1001/archinte.162.1.90",
+        "article-title": "Changing patient characteristics and the effect on mortality in endocarditis",
+        "volume": "162",
+        "author": "Cabell",
+        "year": "2002",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "2239",
+        "DOI": "10.1001/jama.2011.1701",
+        "article-title": "Association between valvular surgery and mortality among patients with infective endocarditis complicated by heart failure",
+        "volume": "306",
+        "author": "Kiefer",
+        "year": "2011",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "586",
+        "DOI": "10.7326/0003-4819-150-9-200905050-00004",
+        "article-title": "Health care-associated native valve endocarditis: importance of non-nosocomial acquisition",
+        "volume": "150",
+        "author": "Benito",
+        "year": "2009",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1086/345476",
+        "article-title": "Comparison of mortality associated with methicillin-resistant and methicillin-susceptible Staphylococcus aureus bacteremia: a meta-analysis",
+        "volume": "36",
+        "author": "Cosgrove",
+        "year": "2003",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "421",
+        "DOI": "10.1111/j.1469-0691.2008.01965.x",
+        "article-title": "Secular changes in incidence and mortality associated with Staphylococcus aureus bacteraemia in Quebec, Canada, 1991–2005",
+        "volume": "14",
+        "author": "Allard",
+        "year": "2008",
+        "journal-title": "Clin Microbiol Infect"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "2272",
+        "DOI": "10.1161/CIRCULATIONAHA.112.000813",
+        "article-title": "Neurological complications of infective endocarditis: risk factors, outcome, and impact of cardiac surgery: a multicenter observational study",
+        "volume": "127",
+        "author": "García-Cabrera",
+        "year": "2013",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1067/mhj.2001.115790",
+        "article-title": "The risk of stroke and death in patients with aortic and mitral valve endocarditis",
+        "volume": "142",
+        "author": "Cabell",
+        "year": "2001",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1016/S0002-8703(02)94802-7",
+        "article-title": "Risk factors for “major” embolic events in hospitalized patients with infective endocarditis",
+        "volume": "146",
+        "author": "Durante Mangoni",
+        "year": "2003",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "2095",
+        "DOI": "10.1001/archinte.168.19.2095",
+        "article-title": "Current features of infective endocarditis in elderly patients: results of the International Collaboration on Endocarditis Prospective Cohort Study",
+        "volume": "168",
+        "author": "Durante-Mangoni",
+        "year": "2008",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "2369",
+        "DOI": "10.1093/eurheartj/ehp285",
+        "volume": "30",
+        "author": "Habib",
+        "year": "2009",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "e394",
+        "DOI": "10.1161/01.CIR.0000153812.64956.EF",
+        "volume": "111",
+        "author": "Baddour",
+        "year": "2005",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "1163",
+        "DOI": "10.1093/clinids/10.6.1163",
+        "article-title": "Twelve-year review of recurrent native-valve infective endocarditis: a disease of the modern antibiotic era",
+        "volume": "10",
+        "author": "Baddour",
+        "year": "1988",
+        "journal-title": "Rev Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1016/j.athoracsur.2011.08.016",
+        "article-title": "Long-term outcome for the surgical treatment of infective endocarditis with a focus on intravenous drug users",
+        "volume": "93",
+        "author": "Rabkin",
+        "year": "2012",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.cmi.2015.04.014_bib30",
+        "series-title": "Bättre insatser vid missbruk och beroende",
+        "author": "Statens offentliga utredningar (SOU) 2011:35",
+        "year": "2011"
+      }
+    ],
+    "container-title": [
+      "Clinical Microbiology and Infection"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1198743X15004255?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1198743X15004255?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          10
+        ]
+      ],
+      "date-time": "2022-07-10T06:01:48Z",
+      "timestamp": 1657432908000
+    },
+    "score": 68.298744,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1198743X15004255"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          8
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1198743X15004255"
+    ],
+    "URL": "https://doi.org/10.1016/j.cmi.2015.04.014",
+    "ISSN": [
+      "1198-743X"
+    ],
+    "issn-type": [
+      {
+        "value": "1198-743X",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          26
+        ]
+      ],
+      "date-time": "2026-06-26T02:28:37Z",
+      "timestamp": 1782440917488,
+      "version": "3.54.5"
+    },
+    "reference-count": 224,
+    "publisher": "Informa UK Limited",
+    "issue": "3",
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Infectious Diseases"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1080/23744235.2017.1392039",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          6
+        ]
+      ],
+      "date-time": "2017-11-06T12:54:05Z",
+      "timestamp": 1509972845000
+    },
+    "page": "175-192",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 124,
+    "title": [
+      "<i>Staphylococcus aureus</i>bacteraemia and endocarditis – epidemiology and outcome: a review"
+    ],
+    "prefix": "10.1080",
+    "volume": "50",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3869-8021",
+        "authenticated-orcid": false,
+        "given": "Hilmir",
+        "family": "Asgeirsson",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Infectious Diseases, Karolinska University Hospital, Stockholm, Sweden;"
+          },
+          {
+            "name": "Unit of Infectious Diseases, Department of Medicine Huddinge, Karolinska Institutet, Stockholm, Sweden"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anders",
+        "family": "Thalme",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Infectious Diseases, Karolinska University Hospital, Stockholm, Sweden;"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ola",
+        "family": "Weiland",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Infectious Diseases, Karolinska University Hospital, Stockholm, Sweden;"
+          },
+          {
+            "name": "Unit of Infectious Diseases, Department of Medicine Huddinge, Karolinska Institutet, Stockholm, Sweden"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          6
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "CIT0001",
+        "first-page": "24",
+        "volume": "17",
+        "author": "Ogston A.",
+        "year": "1882",
+        "journal-title": "J Anat Physiol"
+      },
+      {
+        "key": "CIT0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "122",
+        "DOI": "10.1093/clinids/6.1.122",
+        "volume": "6",
+        "author": "Classics in infectious diseases. “On abscesses”",
+        "year": "1984",
+        "journal-title": "Rev Infect Dis"
+      },
+      {
+        "key": "CIT0003",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1941.00200110003001"
+      },
+      {
+        "key": "CIT0004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.167.8.834"
+      },
+      {
+        "key": "CIT0005",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinternmed.2011.1027"
+      },
+      {
+        "key": "CIT0006",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cis199"
+      },
+      {
+        "key": "CIT0007",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinternmed.2008.603"
+      },
+      {
+        "key": "CIT0008",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.06-2048"
+      },
+      {
+        "key": "CIT0009",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/431979"
+      },
+      {
+        "key": "CIT0010",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.idc.2008.10.003"
+      },
+      {
+        "key": "CIT0011",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/598189"
+      },
+      {
+        "key": "CIT0012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/520289"
+      },
+      {
+        "key": "CIT0013",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cit613"
+      },
+      {
+        "key": "CIT0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM199808203390806"
+      },
+      {
+        "key": "CIT0015",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(10)70285-1"
+      },
+      {
+        "key": "CIT0016",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2014.9743"
+      },
+      {
+        "key": "CIT0017",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cis033"
+      },
+      {
+        "key": "CIT0018",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/421946"
+      },
+      {
+        "key": "CIT0019",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1469-0691.12144"
+      },
+      {
+        "key": "CIT0020",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/INF.0b013e318187ad5a"
+      },
+      {
+        "key": "CIT0021",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/jmm.0.015271-0"
+      },
+      {
+        "key": "CIT0022",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(90)90521-E"
+      },
+      {
+        "key": "CIT0023",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/cc2947"
+      },
+      {
+        "key": "CIT0024",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0950268812002725"
+      },
+      {
+        "key": "CIT0025",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10096-005-1345-3"
+      },
+      {
+        "key": "CIT0026",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1445-5994.2009.01910.x"
+      },
+      {
+        "key": "CIT0027",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/589717"
+      },
+      {
+        "key": "CIT0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-12-260"
+      },
+      {
+        "key": "CIT0029",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-0691.2012.03903.x"
+      },
+      {
+        "key": "CIT0030",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-0691.2006.01589.x"
+      },
+      {
+        "key": "CIT0031",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1444-0903.2001.00029.x"
+      },
+      {
+        "key": "CIT0032",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-0691.2008.01965.x"
+      },
+      {
+        "key": "CIT0033",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/648442"
+      },
+      {
+        "key": "CIT0034",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-0691.2010.03265.x"
+      },
+      {
+        "key": "CIT0035",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10096-016-2601-4"
+      },
+      {
+        "key": "CIT0036",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.inf.0000261112.53035.4c"
+      },
+      {
+        "key": "CIT0037",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00006454-200109000-00009"
+      },
+      {
+        "key": "CIT0038",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/pch/16.5.276"
+      },
+      {
+        "key": "CIT0039",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/INF.0000000000000485"
+      },
+      {
+        "key": "CIT0040",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-0691.1997.tb00617.x"
+      },
+      {
+        "key": "CIT0041",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0195-6701(99)90014-2"
+      },
+      {
+        "key": "CIT0042",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/323459"
+      },
+      {
+        "key": "CIT0043",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1053/jhin.2002.1274"
+      },
+      {
+        "key": "CIT0044",
+        "first-page": "15",
+        "volume": "21",
+        "author": "Griffiths C",
+        "year": "2004",
+        "journal-title": "Health Stat Q"
+      },
+      {
+        "key": "CIT0045",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00365540600810026"
+      },
+      {
+        "key": "CIT0046",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2014.01.014"
+      },
+      {
+        "key": "CIT0047",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12879-017-2291-2"
+      },
+      {
+        "key": "CIT0048",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamapediatrics.2016.1477"
+      },
+      {
+        "key": "CIT0049",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/INF.0000000000000907"
+      },
+      {
+        "key": "CIT0050",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/CMR.00134-14"
+      },
+      {
+        "key": "CIT0051",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1099/jmm.0.000489"
+      },
+      {
+        "key": "CIT0052",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhin.2011.06.015"
+      },
+      {
+        "key": "CIT0053",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2169/internalmedicine.51.7111"
+      },
+      {
+        "key": "CIT0054",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/374621"
+      },
+      {
+        "key": "CIT0055",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1530/EJE-16-0023"
+      },
+      {
+        "key": "CIT0056",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/23744235.2017.1331463"
+      },
+      {
+        "key": "CIT0057",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1111/j.1468-1293.2011.00937.x",
+        "volume": "13",
+        "author": "Larsen MV",
+        "year": "2012",
+        "journal-title": "HIV Med"
+      },
+      {
+        "key": "CIT0058",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0895-4356(96)00180-1"
+      },
+      {
+        "key": "CIT0059",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/129.6.725"
+      },
+      {
+        "key": "CIT0060",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(86)90614-5"
+      },
+      {
+        "key": "CIT0061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/671724"
+      },
+      {
+        "key": "CIT0062",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2009.153"
+      },
+      {
+        "key": "CIT0063",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.297.12.1354"
+      },
+      {
+        "key": "CIT0064",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhin.2008.04.027"
+      },
+      {
+        "key": "CIT0065",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cmi.2015.04.014"
+      },
+      {
+        "key": "CIT0066",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2011.03.003"
+      },
+      {
+        "key": "CIT0067",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhin.2017.06.008"
+      },
+      {
+        "key": "CIT0068",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.162.1.25"
+      },
+      {
+        "key": "CIT0069",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10096-003-1083-3"
+      },
+      {
+        "key": "CIT0070",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/597521"
+      },
+      {
+        "key": "CIT0071",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhin.2011.03.010"
+      },
+      {
+        "key": "CIT0072",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0127385"
+      },
+      {
+        "key": "CIT0073",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1440-1754.2002.00787.x"
+      },
+      {
+        "key": "CIT0074",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2013.10.001"
+      },
+      {
+        "key": "CIT0075",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhin.2017.06.017"
+      },
+      {
+        "key": "CIT0076",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-137-10-200211190-00007"
+      },
+      {
+        "key": "CIT0077",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.CCM.0000239121.09533.09"
+      },
+      {
+        "key": "CIT0078",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-12-85"
+      },
+      {
+        "key": "CIT0079",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12879-015-0849-4"
+      },
+      {
+        "key": "CIT0080",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0078396"
+      },
+      {
+        "key": "CIT0081",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.md.0000091185.93122.40"
+      },
+      {
+        "key": "CIT0082",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.163.17.2066"
+      },
+      {
+        "key": "CIT0083",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dku082"
+      },
+      {
+        "key": "CIT0084",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2013.10.015"
+      },
+      {
+        "key": "CIT0085",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0735-1097(97)00250-7"
+      },
+      {
+        "key": "CIT0086",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejechocard/jer023"
+      },
+      {
+        "key": "CIT0087",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10096-013-1838-4"
+      },
+      {
+        "key": "CIT0088",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2005.01.011"
+      },
+      {
+        "key": "CIT0089",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dks408"
+      },
+      {
+        "key": "CIT0090",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cir320"
+      },
+      {
+        "key": "CIT0091",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cmi.2017.04.025"
+      },
+      {
+        "key": "CIT0092",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/CMR.05022-11"
+      },
+      {
+        "key": "CIT0093",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jpc.13329"
+      },
+      {
+        "key": "CIT0094",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0950268817001571"
+      },
+      {
+        "key": "CIT0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "e15",
+        "DOI": "10.1542/peds.2004-1152",
+        "volume": "115",
+        "author": "Valente AM",
+        "year": "2005",
+        "journal-title": "Pediatrics"
+      },
+      {
+        "key": "CIT0096",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313753"
+      },
+      {
+        "key": "CIT0097",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(94)90143-0"
+      },
+      {
+        "key": "CIT0098",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/hrt.2003.029868"
+      },
+      {
+        "key": "CIT0099",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(11)60755-1"
+      },
+      {
+        "key": "CIT0100",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/ehv319"
+      },
+      {
+        "key": "CIT0101",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00365540600978856"
+      },
+      {
+        "key": "CIT0102",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0082665"
+      },
+      {
+        "key": "CIT0103",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0000000000001816"
+      },
+      {
+        "key": "CIT0104",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1995.00430150125013"
+      },
+      {
+        "key": "CIT0105",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00005792-199511000-00003"
+      },
+      {
+        "key": "CIT0106",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinternmed.2009.307"
+      },
+      {
+        "key": "CIT0107",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.293.24.3012"
+      },
+      {
+        "key": "CIT0108",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0b013e318194da65"
+      },
+      {
+        "key": "CIT0109",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/518727"
+      },
+      {
+        "key": "CIT0110",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2006.09.093"
+      },
+      {
+        "key": "CIT0111",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0000000000005617"
+      },
+      {
+        "key": "CIT0112",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.159.5.462"
+      },
+      {
+        "key": "CIT0113",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciu183"
+      },
+      {
+        "key": "CIT0114",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.acvd.2015.11.012"
+      },
+      {
+        "key": "CIT0115",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-119-10-199311150-00009"
+      },
+      {
+        "key": "CIT0116",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/11.3.486"
+      },
+      {
+        "key": "CIT0117",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-82-6-788"
+      },
+      {
+        "key": "CIT0118",
+        "doi-asserted-by": "crossref",
+        "first-page": "56",
+        "DOI": "10.1128/MMBR.27.1.56-71.1963",
+        "volume": "27",
+        "author": "Williams RE.",
+        "year": "1963",
+        "journal-title": "Bacteriol Rev"
+      },
+      {
+        "key": "CIT0119",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S002217240004609X"
+      },
+      {
+        "key": "CIT0120",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.00880-06"
+      },
+      {
+        "key": "CIT0121",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(05)70295-4"
+      },
+      {
+        "key": "CIT0122",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(02)00395-X"
+      },
+      {
+        "key": "CIT0123",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/342196"
+      },
+      {
+        "key": "CIT0124",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(03)15266-X"
+      },
+      {
+        "key": "CIT0125",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.idc.2009.04.013"
+      },
+      {
+        "key": "CIT0126",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMcp1206782"
+      },
+      {
+        "key": "CIT0127",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/00365549509047050"
+      },
+      {
+        "key": "CIT0128",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-6-137"
+      },
+      {
+        "key": "CIT0129",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/340827"
+      },
+      {
+        "key": "CIT0130",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-69-6-1091"
+      },
+      {
+        "key": "CIT0131",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(73)90201-5"
+      },
+      {
+        "key": "CIT0132",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/dar.12228"
+      },
+      {
+        "key": "CIT0133",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/522176"
+      },
+      {
+        "key": "CIT0134",
+        "unstructured": "Statens offentliga utredningar (SOU) 2011:35. Bättre insatser vid missbruk och beroende. Stockholm: Statens offentliga utredningar; 2011."
+      },
+      {
+        "key": "CIT0135",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/528869"
+      },
+      {
+        "key": "CIT0136",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-0691.2005.01359.x"
+      },
+      {
+        "key": "CIT0137",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.38834.421713.2F"
+      },
+      {
+        "key": "CIT0138",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/30141354"
+      },
+      {
+        "key": "CIT0139",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/605555"
+      },
+      {
+        "key": "CIT0140",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s15010-016-0919-6"
+      },
+      {
+        "key": "CIT0141",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00431-004-1489-7"
+      },
+      {
+        "key": "CIT0142",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12941-016-0122-8"
+      },
+      {
+        "key": "CIT0143",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cmi.2016.08.026"
+      },
+      {
+        "key": "CIT0144",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10096-016-2598-8"
+      },
+      {
+        "key": "CIT0145",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.00700-07"
+      },
+      {
+        "key": "CIT0146",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0170236"
+      },
+      {
+        "key": "CIT0147",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cmi.2016.06.002"
+      },
+      {
+        "key": "CIT0148",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313650"
+      },
+      {
+        "key": "CIT0149",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.genm.2012.10.009"
+      },
+      {
+        "key": "CIT0150",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jir270"
+      },
+      {
+        "key": "CIT0151",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2009.07.015"
+      },
+      {
+        "key": "CIT0152",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5694/j.1326-5377.2009.tb02841.x"
+      },
+      {
+        "key": "CIT0153",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jhm.623"
+      },
+      {
+        "key": "CIT0154",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2011.10.009"
+      },
+      {
+        "key": "CIT0155",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2334-10-225"
+      },
+      {
+        "key": "CIT0156",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/375057"
+      },
+      {
+        "key": "CIT0157",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10096-008-0632-1"
+      },
+      {
+        "key": "CIT0158",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dkq373"
+      },
+      {
+        "key": "CIT0159",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/345476"
+      },
+      {
+        "key": "CIT0160",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/512627"
+      },
+      {
+        "key": "CIT0161",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/23744235.2017.1292046"
+      },
+      {
+        "key": "CIT0162",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/00365548.2014.931596"
+      },
+      {
+        "key": "CIT0163",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cmi.2016.01.018"
+      },
+      {
+        "key": "CIT0164",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2010.09.021"
+      },
+      {
+        "key": "CIT0165",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1469-0691.12370"
+      },
+      {
+        "key": "CIT0166",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(78)90824-0"
+      },
+      {
+        "key": "CIT0167",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2009.08.001"
+      },
+      {
+        "key": "CIT0168",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1995.03530100047033"
+      },
+      {
+        "key": "CIT0169",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s15010-010-0059-3"
+      },
+      {
+        "key": "CIT0170",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2016.07.005"
+      },
+      {
+        "key": "CIT0171",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s15010-011-0104-x"
+      },
+      {
+        "key": "CIT0172",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/CCM.0b013e3181d8cc1d"
+      },
+      {
+        "key": "CIT0173",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2014.08.012"
+      },
+      {
+        "key": "CIT0174",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/00365548.2013.786836"
+      },
+      {
+        "key": "CIT0175",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s15010-011-0149-x"
+      },
+      {
+        "key": "CIT0176",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1986.00360180110018"
+      },
+      {
+        "key": "CIT0177",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1994.00420200086009"
+      },
+      {
+        "key": "CIT0178",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00365540902896061"
+      },
+      {
+        "key": "CIT0179",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCIMAGING.114.003397"
+      },
+      {
+        "key": "CIT0180",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/inf.1985.17.issue-2.09"
+      },
+      {
+        "key": "CIT0181",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.162.1.90"
+      },
+      {
+        "key": "CIT0182",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2011.1701"
+      },
+      {
+        "key": "CIT0183",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0733-8651(03)00025-0"
+      },
+      {
+        "key": "CIT0184",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1975.00330120033005"
+      },
+      {
+        "key": "CIT0185",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/8.3.374"
+      },
+      {
+        "key": "CIT0186",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00005792-198305000-00004"
+      },
+      {
+        "key": "CIT0187",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/CVI.00329-10"
+      },
+      {
+        "key": "CIT0188",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Baddour LM, Wilson WR, Bayer AS, et al. Infective endocarditis: diagnosis, antimicrobial therapy, and management of complications: a statement for healthcare professionals from the Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease, Council on Cardiovascular Disease in the Young, and the Councils on Clinical Cardiology, Stroke, and Cardiovascular Surgery and Anesthesia, American Heart Association: endorsed by the Infectious Diseases Society of America. Circulation. 2005;111:e394–e434.",
+        "DOI": "10.1161/CIRCULATIONAHA.105.165563"
+      },
+      {
+        "key": "CIT0189",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.112.000813"
+      },
+      {
+        "key": "CIT0190",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/588663"
+      },
+      {
+        "key": "CIT0191",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.108.834432"
+      },
+      {
+        "key": "CIT0192",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-152-8-201004200-00006"
+      },
+      {
+        "key": "CIT0193",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/STROKEAHA.113.001470"
+      },
+      {
+        "key": "CIT0194",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1067/mhj.2001.115790"
+      },
+      {
+        "key": "CIT0195",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-8703(02)94802-7"
+      },
+      {
+        "key": "CIT0196",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0735-1097(00)01206-7"
+      },
+      {
+        "key": "CIT0197",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0894-7317(97)70011-7"
+      },
+      {
+        "key": "CIT0198",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.168.19.2095"
+      },
+      {
+        "key": "CIT0199",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/514686"
+      },
+      {
+        "key": "CIT0200",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00365540310016682"
+      },
+      {
+        "key": "CIT0201",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijantimicag.2009.02.003"
+      },
+      {
+        "key": "CIT0202",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.diagmicrobio.2009.10.001"
+      },
+      {
+        "key": "CIT0203",
+        "first-page": "217",
+        "volume": "21",
+        "author": "Sabater S",
+        "year": "2008",
+        "journal-title": "Rev Esp Quimioter"
+      },
+      {
+        "key": "CIT0204",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/320869"
+      },
+      {
+        "key": "CIT0205",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/155.2.187"
+      },
+      {
+        "key": "CIT0206",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.md.0000091184.93122.09"
+      },
+      {
+        "key": "CIT0207",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00365540802441711"
+      },
+      {
+        "key": "CIT0208",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/653518"
+      },
+      {
+        "key": "CIT0209",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.02187-13"
+      },
+      {
+        "key": "CIT0210",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jhin.2004.01.026"
+      },
+      {
+        "key": "CIT0211",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00365540701864658"
+      },
+      {
+        "key": "CIT0212",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/23744235.2015.1063158"
+      },
+      {
+        "key": "CIT0213",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.0954-6820.1987.tb10656.x"
+      },
+      {
+        "key": "CIT0214",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1445-5994.2001.00205.x"
+      },
+      {
+        "key": "CIT0215",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1444-0903.2005.00977.x"
+      },
+      {
+        "key": "CIT0216",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/ehp285"
+      },
+      {
+        "key": "CIT0217",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/598186"
+      },
+      {
+        "key": "CIT0218",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.01021-12"
+      },
+      {
+        "key": "CIT0219",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.279.19.1537"
+      },
+      {
+        "key": "CIT0220",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.125.2.607"
+      },
+      {
+        "key": "CIT0221",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00365540310012389"
+      },
+      {
+        "key": "CIT0222",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13063-015-0973-x"
+      },
+      {
+        "key": "CIT0223",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciu871"
+      },
+      {
+        "key": "CIT0224",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2011.08.016"
+      }
+    ],
+    "container-title": [
+      "Infectious Diseases"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/23744235.2017.1392039",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          28
+        ]
+      ],
+      "date-time": "2024-06-28T10:00:56Z",
+      "timestamp": 1719568856000
+    },
+    "score": 60.625725,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/23744235.2017.1392039"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          6
+        ]
+      ]
+    },
+    "references-count": 224,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            3,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/23744235.2017.1392039"
+    ],
+    "URL": "https://doi.org/10.1080/23744235.2017.1392039",
+    "ISSN": [
+      "2374-4235",
+      "2374-4243"
+    ],
+    "issn-type": [
+      {
+        "value": "2374-4235",
+        "type": "print"
+      },
+      {
+        "value": "2374-4243",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=infd20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=infd20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2017-10-04",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2017-10-07",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2017-11-06",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "institution": [
+      {
+        "name": "Karolinska Institutet"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          6
+        ]
+      ],
+      "date-time": "2025-11-06T11:12:05Z",
+      "timestamp": 1762427525508,
+      "version": "build-2065373602"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          6
+        ]
+      ]
+    },
+    "reference-count": 0,
+    "publisher": "Karolinska Institutet",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              6
+            ]
+          ],
+          "date-time": "2025-11-06T00:00:00Z",
+          "timestamp": 1762387200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://rightsstatements.org/page/InC/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>&lt;p dir=\"ltr\"&gt;Hepatitis C virus (HCV) infection can progress to liver cirrhosis and hepatocellular carcinoma (HCC) and was in 2022 estimated to cause 240,000 deaths worldwide. The virus is bloodborne, and a main transmission route is injection drug use through sharing of unsterile needles and syringes. The prevalence of HCV infection is consequently high in people who inject drugs (PWID). The World Health Organization (WHO) has set a goal to eliminate HCV as a public health threat, by the year 2030, which includes a 90% reduction in new chronic infections, a 65% reduction in mortality, and a target of &gt;80% treated. To achieve this goal a deeper understanding of the epidemiology of HCV in PWID, the main drivers of the epidemic, is essential. The aims of this thesis were to study the prevalence and incidence of HCV infection, liver-related mortality, and HCV treatment uptake in PWID.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;&lt;b&gt;In Study I&lt;/b&gt;, we demonstrated a high prevalence of HCV infection (11%) in detainees in Stockholm County, which highlights that prisons could constitute a target facility for testing and treatment of HCV infection.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;&lt;b&gt;In Study II&lt;/b&gt;, we reported a high liver-related mortality in PWID with HCV infection. Amphetamine users had an even higher liver-related mortality than opioid users, probably as they lived longer and were less likely to die from drug-related causes at younger ages, which enabled late consequences of HCV infection to emerge. In addition, amphetamine users had a higher alcohol-consumption, which was a risk factor for liver-related death.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;&lt;b&gt;In Study III&lt;/b&gt;, we noted a great decline in HCV prevalence in PWID in Stockholm (from 62% to 30%) in recent years, following the introduction of direct-acting antiviral (DAA) treatment and the startup of a needle syringe program (NSP) in Stockholm. However, no significant reduction in incidence was observed, indicating that treatment efforts to date have primarily reached individuals with lower injection-related risk behaviors, while those at highest risk of onward transmission may remain untreated.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;&lt;b&gt;In study IV&lt;/b&gt;, we reported that &gt;80% of individuals notified with HCV infection in Sweden have initiated treatment, indicating that Sweden has reached the WHO HCV treatment target. Median time to treatment initiation was only a few months in recent years. The odds of receiving treatment were, however, lower among people with drug use diagnoses.&lt;/p&gt;&lt;p dir=\"ltr\"&gt;&lt;b&gt;In conclusion&lt;/b&gt;, this thesis demonstrates high HCV prevalence and incidence rates in PWID, as well as elevated liver-related mortality. Along with an increasing treatment uptake in recent years, the HCV prevalence has decreased, suggesting that a scale up of HCV treatment is effective. However, the lack of reduction in incidence among PWID highlights the importance of further expanded testing and treatment efforts. To achieve the WHO elimination goal, PWID need to remain a key focus, especially those with the highest risk behaviors for viral transmission, and high-prevalence settings such as prisons, NSPs, and addiction treatment centers should be targeted.&lt;/p&gt;&lt;h3&gt;List of scientific papers&lt;/h3&gt;&lt;p dir=\"ltr\"&gt;I. &lt;b&gt;Gahrton C,&lt;/b&gt; Westman G, Lindahl K, Öhrn F, Dalgard O, Lidman C, Nilsson LH, Said K, Duberg AS, Aleman S. Prevalence of Viremic hepatitis C, hepatitis B, and HIV infection, and vaccination status among prisoners in Stockholm County. BMC Infect Dis. 2019;19(1):955. &lt;a href=\"https://doi.org/10.1186/s12879-019-4581-3\" rel=\"noreferrer\" target=\"_blank\"&gt;https://doi.org/10.1186/s12879-019-4581-3&lt;/a&gt;&lt;/p&gt;&lt;p dir=\"ltr\"&gt;II. &lt;b&gt;Gahrton C,&lt;/b&gt; Håkansson A, Kåberg M, Jerkeman A, Häbel H, Dalgard O, Duberg AS*, Aleman S*. Mortality among amphetamine users with hepatitis C virus infection: A nationwide study. PLoS One.2021;16(6):e0253710. &lt;a href=\"https://doi.org/10.1371/journal.pone.0253710\" rel=\"noreferrer\" target=\"_blank\"&gt;https://doi.org/10.1371/journal.pone.0253710&lt;/a&gt;&lt;/p&gt;&lt;p dir=\"ltr\"&gt;III. &lt;b&gt;Gahrton C,&lt;/b&gt; Navér G, Warnqvist A, Dalgart O, Aleman S, Kåberg M. Changes in hepatitis C virus prevalence and incidence among people who inject drugs in the direct acting antiviral era. International Journal on Drug Policy, 2024;128:104433. &lt;a href=\"https://doi.org/10.1016/j.drugpo.2024.104433\" rel=\"noreferrer\" target=\"_blank\"&gt;https://doi.org/10.1016/j.drugpo.2024.104433&lt;/a&gt;&lt;/p&gt;&lt;p dir=\"ltr\"&gt;IV. &lt;b&gt;Gahrton C,&lt;/b&gt; Kåberg M, Lybeck C, Lindahl K, Patil S, Dalgard O, Aleman S*, Duberg AS*. Treatment uptake among individuals notified with HCV infection 1990- 2022 in Sweden. Infectious diseases. 2025:1-11. &lt;a href=\"https://doi.org/10.1080/23744235.2025.2569504\" rel=\"noreferrer\" target=\"_blank\"&gt;https://doi.org/10.1080/23744235.2025.2569504&lt;/a&gt;&lt;/p&gt;&lt;p dir=\"ltr\"&gt;*shared last authorship&lt;/p&gt;</jats:p>",
+    "DOI": "10.69622/30103732",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          6
+        ]
+      ],
+      "date-time": "2025-11-06T11:08:56Z",
+      "timestamp": 1762427336000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Hepatitis C in people who inject drugs : prevalence, incidence, mortality, and treatment uptake"
+    ],
+    "prefix": "10.69622",
+    "author": [
+      {
+        "given": "Caroline",
+        "family": "Gahrton",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "12730",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          6
+        ]
+      ],
+      "date-time": "2025-11-06T11:08:56Z",
+      "timestamp": 1762427336000
+    },
+    "score": 52.418545,
+    "resource": {
+      "primary": {
+        "URL": "https://openarchive.ki.se/articles/thesis/Hepatitis_C_in_people_who_inject_drugs_prevalence_incidence_mortality_and_treatment_uptake/30103732"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          6
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.69622/30103732",
+    "relation": {
+      "has-part": [
+        {
+          "id-type": "pmid",
+          "id": "31706284",
+          "asserted-by": "subject"
+        },
+        {
+          "id-type": "pmid",
+          "id": "34166475",
+          "asserted-by": "subject"
+        },
+        {
+          "id-type": "pmid",
+          "id": "38703622",
+          "asserted-by": "subject"
+        },
+        {
+          "id-type": "pmid",
+          "id": "41060293",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          6
+        ]
+      ]
+    },
+    "subtype": "dissertation"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          10
+        ]
+      ],
+      "date-time": "2024-02-10T00:19:39Z",
+      "timestamp": 1707524379031
+    },
+    "reference-count": 25,
+    "publisher": "Springer Science and Business Media LLC",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.7759/cureus.19372",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          8
+        ]
+      ],
+      "date-time": "2021-11-08T19:02:43Z",
+      "timestamp": 1636398163000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Comparing Echocardiographic Modalities in Native-Valve Infective Endocarditis Due to Methicillin-Resistant Staphylococcus Aureus in People Who Inject Drugs"
+    ],
+    "prefix": "10.7759",
+    "author": [
+      {
+        "given": "James",
+        "family": "Livesay",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tyler",
+        "family": "Coombes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jared",
+        "family": "Spoons",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Steven",
+        "family": "Dolacky",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mahmoud",
+        "family": "Shorman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofw157",
+        "article-title": "Increasing infectious endocarditis admissions among young people who inject drugs",
+        "volume": "3",
+        "author": "Wurcel AG",
+        "year": "2016",
+        "unstructured": "Wurcel AG, Anderson JE, Chui KK, Skinner S, Knox TA, Snydman DR, Stopka TJ. Increasing infectious endocarditis admissions among young people who inject drugs. Open Forum Infect Dis. 2016, 3:ofw157. 10.1093/ofid/ofw157",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0060033",
+        "article-title": "Infective endocarditis in the U.S., 1998-2009: a nationwide study",
+        "volume": "8",
+        "author": "Bor DH",
+        "year": "2013",
+        "unstructured": "Bor DH, Woolhandler S, Nardin R, Brusch J, Himmelstein DU. Infective endocarditis in the U.S., 1998-2009: a nationwide study. PLoS One. 2013, 8:e60033. 10.1371/journal.pone.0060033",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIR.0000000000000296",
+        "article-title": "Infective endocarditis in adults: diagnosis, antimicrobial therapy, and management of complications: a scientific statement for healthcare professionals from the American Heart Association",
+        "volume": "132",
+        "author": "Baddour LM",
+        "year": "2015",
+        "unstructured": "Baddour LM, Wilson WR, Bayer AS, et al.. Infective endocarditis in adults: diagnosis, antimicrobial therapy, and management of complications: a scientific statement for healthcare professionals from the American Heart Association. Circulation. 2015, 132:1435-86. 10.1161/CIR.0000000000000296",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(15)00067-7",
+        "article-title": "Infective endocarditis",
+        "volume": "387",
+        "author": "Cahill TJ",
+        "year": "2016",
+        "unstructured": "Cahill TJ, Prendergast BD. Infective endocarditis. Lancet. 2016, 387:882-893. 10.1016/S0140-6736(15)00067-7",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0b013e318294a710",
+        "article-title": "Echocardiography is dispensable in uncomplicated Staphylococcus aureus bacteremia",
+        "volume": "92",
+        "author": "Khatib R",
+        "year": "2013",
+        "unstructured": "Khatib R, Sharma M. Echocardiography is dispensable in uncomplicated Staphylococcus aureus bacteremia. Medicine (Baltimore). 2013, 92:182-8. 10.1097/MD.0b013e318294a710",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.cir.93.4.730",
+        "article-title": "Diagnostic value of echocardiography in suspected endocarditis. An evaluation based on the pretest probability of disease",
+        "volume": "93",
+        "author": "Lindner JR",
+        "year": "1996",
+        "unstructured": "Lindner JR, Case RA, Dent JM, Abbott RD, Scheld WM, Kaul S. Diagnostic value of echocardiography in suspected endocarditis. An evaluation based on the pretest probability of disease. Circulation. 1996, 93:730-6. 10.1161/01.cir.93.4.730",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejechocard/jeq004",
+        "article-title": "Recommendations for the practice of echocardiography in infective endocarditis",
+        "volume": "11",
+        "author": "Habib G",
+        "year": "2010",
+        "unstructured": "Habib G, Badano L, Tribouilloy C, et al.. Recommendations for the practice of echocardiography in infective endocarditis. Eur J Echocardiogr. 2010, 11:202-19. 10.1093/ejechocard/jeq004",
+        "journal-title": "Eur J Echocardiogr"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dks408",
+        "article-title": "Prioritizing echocardiography in Staphylococcus aureus bacteraemia",
+        "volume": "68",
+        "author": "Joseph JP",
+        "year": "2013",
+        "unstructured": "Joseph JP, Meddows TR, Webster DP, et al.. Prioritizing echocardiography in Staphylococcus aureus bacteraemia. J Antimicrob Chemother. 2013, 68:444-9. 10.1093/jac/dks408",
+        "journal-title": "J Antimicrob Chemother"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cir034",
+        "article-title": "Clinical practice guidelines by the infectious diseases society of america for the treatment of methicillin-resistant Staphylococcus aureus infections in adults and children: executive summary",
+        "volume": "52",
+        "author": "Liu C",
+        "year": "2011",
+        "unstructured": "Liu C, Bayer A, Cosgrove SE, et al.. Clinical practice guidelines by the infectious diseases society of america for the treatment of methicillin-resistant Staphylococcus aureus infections in adults and children: executive summary. Clin Infect Dis. 2011, 52:285-92. 10.1093/cid/cir034",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1053/j.semtcvs.2018.07.016",
+        "article-title": "Recidivism is the leading cause of death among intravenous drug users who underwent cardiac surgery for infective endocarditis",
+        "volume": "31",
+        "author": "Tiako MJN",
+        "year": "2019",
+        "unstructured": "Tiako MJN, Mori M, Mahmood SUB, Shioda K, Mangi A, Yun J, Geirsson A. Recidivism is the leading cause of death among intravenous drug users who underwent cardiac surgery for infective endocarditis. Semin Thorac Cardiovasc Surg. 2019, 31:40-5. 10.1053/j.semtcvs.2018.07.016",
+        "journal-title": "Semin Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40121-019-0232-7",
+        "article-title": "Microbial epidemiology of infectious endocarditis in the intravenous drug abuse population: a retrospective study",
+        "volume": "8",
+        "author": "Lorson WC",
+        "year": "2019",
+        "unstructured": "Lorson WC, Heidel RE, Shorman MA. Microbial epidemiology of infectious endocarditis in the intravenous drug abuse population: a retrospective study. Infect Dis Ther. 2019, 8:113-8. 10.1007/s40121-019-0232-7",
+        "journal-title": "Infect Dis Ther"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/echo.14525",
+        "article-title": "An assessment of transesophageal echocardiography studies rated as rarely appropriate tests for infective endocarditis at an academic medical center",
+        "volume": "36",
+        "author": "Amuchastegui T",
+        "year": "2019",
+        "unstructured": "Amuchastegui T, Hur DJ, Lynn Fillipon NM, et al.. An assessment of transesophageal echocardiography studies rated as rarely appropriate tests for infective endocarditis at an academic medical center. Echocardiography. 2019, 36:2070-7. 10.1111/echo.14525",
+        "journal-title": "Echocardiography"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3949/ccjm.85a.18061",
+        "article-title": "S aureus bacteremia: TEE and infectious disease consultation",
+        "volume": "85",
+        "author": "Rehm SJ",
+        "year": "2018",
+        "unstructured": "Rehm SJ. S aureus bacteremia: TEE and infectious disease consultation. Cleve Clin J Med. 2018, 85:521-2. 10.3949/ccjm.85a.18061",
+        "journal-title": "Cleve Clin J Med"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/hrt.2003.029868",
+        "article-title": "Echocardiography in infective endocarditis",
+        "volume": "90",
+        "author": "Evangelista A",
+        "year": "2004",
+        "unstructured": "Evangelista A, Gonzalez-Alujas MT. Echocardiography in infective endocarditis. Heart. 2004, 90:614-7. 10.1136/hrt.2003.029868",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4103/2229-5151.158429",
+        "article-title": "Comparison between transthoracic and transesophageal echocardiogram in the diagnosis of endocarditis: a retrospective analysis",
+        "volume": "5",
+        "author": "Biswas A",
+        "year": "2015",
+        "unstructured": "Biswas A, Yassin MH. Comparison between transthoracic and transesophageal echocardiogram in the diagnosis of endocarditis: a retrospective analysis. Int J Crit Illn Inj Sci. 2015, 5:130-1. 10.4103/2229-5151.158429",
+        "journal-title": "Int J Crit Illn Inj Sci"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313753",
+        "article-title": "Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis",
+        "volume": "30",
+        "author": "Li JS",
+        "year": "2000",
+        "unstructured": "Li JS, Sexton DJ, Mick N, et al.. Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis. Clin Infect Dis. 2000, 30:633-8. 10.1086/313753",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3949/ccjm.85a.16095",
+        "article-title": "When does S aureus bacteremia require transesophageal echocardiography?",
+        "volume": "85",
+        "author": "Mirrakhimov AE",
+        "year": "2018",
+        "unstructured": "Mirrakhimov AE, Jesinger ME, Ayach T, Gray A. When does S aureus bacteremia require transesophageal echocardiography?. Cleve Clin J Med. 2018, 85:517-20. 10.3949/ccjm.85a.16095",
+        "journal-title": "Cleve Clin J Med"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.echo.2012.05.016",
+        "article-title": "Role of transthoracic and transesophageal echocardiography in right-sided endocarditis: one echocardiographic modality does not fit all",
+        "volume": "25",
+        "author": "San Román JA",
+        "year": "2012",
+        "unstructured": "San Román JA, Vilacosta I, López J, Revilla A, Arnold R, Sevilla T, Rollán MJ. Role of transthoracic and transesophageal echocardiography in right-sided endocarditis: one echocardiographic modality does not fit all. J Am Soc Echocardiogr. 2012, 25:807-14. 10.1016/j.echo.2012.05.016",
+        "journal-title": "J Am Soc Echocardiogr"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1055/s-0037-1618578",
+        "article-title": "Treatment outcomes for right-sided endocarditis in intravenous drug users: a systematic review and analysis of outcomes in a tertiary centre",
+        "volume": "66",
+        "author": "Magsino K",
+        "year": "2018",
+        "unstructured": "Magsino K, Sanjanwala R, Hiebert B, Rothney J, Manji R, Arora R, Shah P. Treatment outcomes for right-sided endocarditis in intravenous drug users: a systematic review and analysis of outcomes in a tertiary centre. Thorac Cardiovasc Surg. 2018, 66:552-62. 10.1055/s-0037-1618578",
+        "journal-title": "Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciy1144",
+        "article-title": "Clinical practice variation among adult infectious disease physicians in the management of Staphylococcus aureus bacteremia",
+        "volume": "69",
+        "author": "Liu C",
+        "year": "2019",
+        "unstructured": "Liu C, Strnad L, Beekmann SE, Polgreen PM, Chambers HF. Clinical practice variation among adult infectious disease physicians in the management of Staphylococcus aureus bacteremia. Clin Infect Dis. 2019, 69:530-3. 10.1093/cid/ciy1144",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciz869",
+        "article-title": "Long-term outcomes are poor in intravenous drug users following infective endocarditis, even after surgery",
+        "volume": "71",
+        "author": "Straw S",
+        "year": "2020",
+        "unstructured": "Straw S, Baig MW, Gillott R, Wu J, Witte KK, O'regan DJ, Sandoe JA. Long-term outcomes are poor in intravenous drug users following infective endocarditis, even after surgery. Clin Infect Dis. 2020, 71:564-71. 10.1093/cid/ciz869",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2016.10.066",
+        "article-title": "Challenges in infective endocarditis",
+        "volume": "69",
+        "author": "Cahill TJ",
+        "year": "2017",
+        "unstructured": "Cahill TJ, Baddour LM, Habib G, et al.. Challenges in infective endocarditis. J Am Coll Cardiol. 2017, 69:325-44. 10.1016/j.jacc.2016.10.066",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jiaa055",
+        "article-title": "Impact of a plan of care protocol on patient outcomes in people who inject drugs with infective endocarditis",
+        "volume": "222",
+        "author": "Cooksey GE",
+        "year": "2020",
+        "unstructured": "Cooksey GE, Epps JL, Moye RA, Patel N, Shorman MA, Veve MP. Impact of a plan of care protocol on patient outcomes in people who inject drugs with infective endocarditis. J Infect Dis. 2020, 222:S506-12. 10.1093/infdis/jiaa055",
+        "journal-title": "J Infect Dis"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11886-017-0928-9",
+        "article-title": "Echocardiography in infective endocarditis: state of the art",
+        "volume": "19",
+        "author": "Afonso L",
+        "year": "2017",
+        "unstructured": "Afonso L, Kottam A, Reddy V, Penumetcha A. Echocardiography in infective endocarditis: state of the art. Curr Cardiol Rep. 2017, 19:127. 10.1007/s11886-017-0928-9",
+        "journal-title": "Curr Cardiol Rep"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofw204",
+        "article-title": "Clinical reasoning of infectious diseases physicians behind the use or nonuse of transesophageal echocardiography in Staphylococcus aureus bacteremia",
+        "volume": "3",
+        "author": "Young H",
+        "year": "2016",
+        "unstructured": "Young H, Knepper BC, Price CS, Heard S, Jenkins TC. Clinical reasoning of infectious diseases physicians behind the use or nonuse of transesophageal echocardiography in Staphylococcus aureus bacteremia. Open Forum Infect Dis. 2016, 3:ofw204. 10.1093/ofid/ofw204",
+        "journal-title": "Open Forum Infect Dis"
+      }
+    ],
+    "container-title": [
+      "Cureus"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.cureus.com/articles/74230-comparing-echocardiographic-modalities-in-native-valve-infective-endocarditis-due-to-methicillin-resistant-staphylococcus-aureus-in-people-who-inject-drugs",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          9
+        ]
+      ],
+      "date-time": "2024-02-09T19:33:24Z",
+      "timestamp": 1707507204000
+    },
+    "score": 52.0941,
+    "resource": {
+      "primary": {
+        "URL": "https://www.cureus.com/articles/74230-comparing-echocardiographic-modalities-in-native-valve-infective-endocarditis-due-to-methicillin-resistant-staphylococcus-aureus-in-people-who-inject-drugs"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          8
+        ]
+      ]
+    },
+    "references-count": 25,
+    "URL": "https://doi.org/10.7759/cureus.19372",
+    "ISSN": [
+      "2168-8184"
+    ],
+    "issn-type": [
+      {
+        "value": "2168-8184",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          8
+        ]
+      ]
+    }
+  }
+]

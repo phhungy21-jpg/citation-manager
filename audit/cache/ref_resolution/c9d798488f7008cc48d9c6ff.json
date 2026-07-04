@@ -1,0 +1,1327 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          4
+        ]
+      ],
+      "date-time": "2026-05-04T11:24:35Z",
+      "timestamp": 1777893875757,
+      "version": "3.51.4"
+    },
+    "reference-count": 19,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1994,
+              10,
+              1
+            ]
+          ],
+          "date-time": "1994-10-01T00:00:00Z",
+          "timestamp": 780969600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1994,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0090-4295(94)80052-9",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2005-01-05T12:28:33Z",
+      "timestamp": 1104928113000
+    },
+    "page": "530-534",
+    "source": "Crossref",
+    "is-referenced-by-count": 108,
+    "title": [
+      "The puboprostatic ligament and the maleurethral suspensory mechanism: An anatomic study"
+    ],
+    "prefix": "10.1016",
+    "volume": "44",
+    "author": [
+      {
+        "given": "Mitchell S.",
+        "family": "Steiner",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib1",
+        "first-page": "423",
+        "article-title": "The suspensory mechanism of the female urethra",
+        "volume": "97",
+        "author": "Zacharin",
+        "year": "1963",
+        "journal-title": "J Anat"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1002/ar.1091700304",
+        "article-title": "The relationship between the pubourethral ligaments and the urogenital diaphragm in the human female",
+        "volume": "170",
+        "author": "Milley",
+        "year": "1971",
+        "journal-title": "Anat Rec"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "388",
+        "DOI": "10.1016/S0022-5347(17)60432-4",
+        "article-title": "Surgical anatomy of the pubovesical puboprostatic) ligaments",
+        "volume": "109",
+        "author": "Albers",
+        "year": "1973",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib4",
+        "series-title": "Observationes Anatomicae",
+        "first-page": "173",
+        "article-title": "De virorum naturalibus",
+        "author": "Santorini",
+        "year": "1724"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/S0094-0143(21)00989-7",
+        "article-title": "Male urethral sphincteric anatomy and radical prostatectomy",
+        "volume": "18",
+        "author": "Myers",
+        "year": "1991",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib6",
+        "first-page": "575",
+        "article-title": "Continuity of the fasciae lining the abdomen, pelvis, and spermatic cord",
+        "volume": "83",
+        "author": "Tobin",
+        "year": "1946",
+        "journal-title": "Surg Gynecol Obstet"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "234",
+        "DOI": "10.1016/S0022-5347(17)63439-6",
+        "article-title": "The striated muscle of the prostate",
+        "volume": "95",
+        "author": "Manley",
+        "year": "1966",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1002/aja.1001580211",
+        "article-title": "The urethral sphincter muscle in the male",
+        "volume": "158",
+        "author": "Oelrich",
+        "year": "1980",
+        "journal-title": "Am J Anat"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib9",
+        "first-page": "373",
+        "article-title": "Anatomical and surgical restudy of Denonvilliers' fascia",
+        "volume": "80",
+        "author": "Tobin",
+        "year": "1945",
+        "journal-title": "Surg Gynecol Obstet"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib10",
+        "first-page": "252",
+        "article-title": "Studies in the anatomy of the pelvis, with special reference to the fascial and visceral supports",
+        "volume": "42",
+        "author": "Smith",
+        "year": "1908",
+        "journal-title": "J Anal"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib11",
+        "first-page": "183",
+        "article-title": "The gross anatomy of the human prostate gland and contiguous structures",
+        "volume": "2",
+        "author": "Lowsley",
+        "year": "1915",
+        "journal-title": "Surg Gynecol Obstet"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib12",
+        "first-page": "383",
+        "article-title": "The human prostate gland in youth",
+        "volume": "88",
+        "author": "Lowsley",
+        "year": "1915",
+        "journal-title": "Med Rec"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "802",
+        "DOI": "10.1016/S0022-5347(17)51469-X",
+        "article-title": "Posterior pubo-urethral ligaments in normal and genuine stress incontinent women",
+        "volume": "130",
+        "author": "Wilson",
+        "year": "1983",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "838",
+        "DOI": "10.1016/S0022-5347(17)66353-5",
+        "article-title": "Vesico-urethroplasty for congenital vesical neck obstruction in children",
+        "volume": "79",
+        "author": "Young",
+        "year": "1958",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "188",
+        "DOI": "10.1016/S0022-5347(17)70130-9",
+        "article-title": "The cure of cancer of the prostate by radical perineal prostatectomy (prostato-seminal vesiculectomy) history, literature and statistics of Young'soperation",
+        "volume": "53",
+        "author": "Young",
+        "year": "1945",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib16",
+        "article-title": "Practical pelvic anatomy pertinent to radical retropubic prostatectomy",
+        "volume": "volume XIII",
+        "author": "Myers",
+        "year": "1994",
+        "journal-title": "AUA Update Series, lesson 4"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/S0022-5347(17)39869-5",
+        "article-title": "Transpubic approach for lower urinary tract surgery: a 15-year experiencence",
+        "volume": "143",
+        "author": "Golimbu",
+        "year": "1990",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "679",
+        "DOI": "10.1016/S0094-0143(21)00980-0",
+        "article-title": "Radical retropubic prostatectomy. Improved anastomosis and urinary continence",
+        "volume": "17",
+        "author": "Walsh",
+        "year": "1990",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80052-9_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1016/S0022-5347(17)35494-0",
+        "article-title": "Tubularized neourethra followinging radical retropubic prostatectomy",
+        "volume": "150",
+        "author": "Steiner",
+        "year": "1993",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429594800529?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429594800529?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          3
+        ]
+      ],
+      "date-time": "2021-07-03T17:04:55Z",
+      "timestamp": 1625331895000
+    },
+    "score": 81.76802,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429594800529"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          10
+        ]
+      ]
+    },
+    "references-count": 19,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            1994,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429594800529"
+    ],
+    "URL": "https://doi.org/10.1016/s0090-4295(94)80052-9",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1994,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2026-04-08T16:10:47Z",
+      "timestamp": 1775664647782,
+      "version": "3.50.1"
+    },
+    "reference-count": 3,
+    "publisher": "Wiley",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              11,
+              26
+            ]
+          ],
+          "date-time": "2008-11-26T00:00:00Z",
+          "timestamp": 1227657600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 5170,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "British Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1994,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1111/j.1464-410x.1994.tb00435.x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2008-11-26T09:21:44Z",
+      "timestamp": 1227691304000
+    },
+    "page": "516-516",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "Repair of the suspensory ligament of the penis: an important step in the transpubic approach"
+    ],
+    "prefix": "10.1111",
+    "volume": "74",
+    "author": [
+      {
+        "given": "A.K.",
+        "family": "HEMAL",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.N.",
+        "family": "WADHWAM",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          11,
+          26
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_1_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000282161"
+      },
+      {
+        "key": "e_1_2_1_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.1979.tb02896.x"
+      },
+      {
+        "key": "e_1_2_1_4_2",
+        "first-page": "195",
+        "volume-title": "Erektile Impotenz: Aetiologie, Diagnostick and Therapie.",
+        "author": "Porst H.",
+        "year": "1987"
+      }
+    ],
+    "container-title": [
+      "British Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1464-410X.1994.tb00435.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1464-410X.1994.tb00435.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T13:18:31Z",
+      "timestamp": 1761743911000
+    },
+    "score": 35.04638,
+    "resource": {
+      "primary": {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/j.1464-410X.1994.tb00435.x"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          10
+        ]
+      ]
+    },
+    "references-count": 3,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            1994,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/j.1464-410X.1994.tb00435.x"
+    ],
+    "URL": "https://doi.org/10.1111/j.1464-410x.1994.tb00435.x",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0007-1331"
+    ],
+    "issn-type": [
+      {
+        "value": "0007-1331",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1994,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          26
+        ]
+      ],
+      "date-time": "2025-03-26T12:00:42Z",
+      "timestamp": 1742990442418,
+      "version": "3.40.3"
+    },
+    "publisher-location": "Cham",
+    "reference-count": 0,
+    "publisher": "Springer International Publishing",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783319048932"
+      },
+      {
+        "type": "electronic",
+        "value": "9783319048949"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2014-01-01T00:00:00Z",
+          "timestamp": 1388534400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2014-01-01T00:00:00Z",
+          "timestamp": 1388534400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-319-04894-9_12",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          27
+        ]
+      ],
+      "date-time": "2014-05-27T08:36:40Z",
+      "timestamp": 1401179800000
+    },
+    "page": "107-111",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Suspensory Ligament of the Clitoris"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Vincent",
+        "family": "Di Marino",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hubert",
+        "family": "Lepidi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          14
+        ]
+      ]
+    },
+    "container-title": [
+      "Anatomic Study of the Clitoris and the Bulbo-Clitoral Organ"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/978-3-319-04894-9_12",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          10
+        ]
+      ],
+      "date-time": "2023-02-10T00:28:45Z",
+      "timestamp": 1675988925000
+    },
+    "score": 34.95562,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/978-3-319-04894-9_12"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783319048932",
+      "9783319048949"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1007/978-3-319-04894-9_12",
+    "published": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "14 March 2014",
+        "order": 1,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ChapterHistory",
+          "label": "Chapter History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          26
+        ]
+      ],
+      "date-time": "2023-08-26T05:52:23Z",
+      "timestamp": 1693029143885
+    },
+    "reference-count": 8,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1994,
+              8,
+              1
+            ]
+          ],
+          "date-time": "1994-08-01T00:00:00Z",
+          "timestamp": 775699200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1994,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0090-4295(94)80142-8",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2005-01-05T12:28:33Z",
+      "timestamp": 1104928113000
+    },
+    "page": "250-253",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Correlation of the cystoscopic appearance and functional integrity of the female urethral sphincteric mechanism"
+    ],
+    "prefix": "10.1016",
+    "volume": "44",
+    "author": [
+      {
+        "given": "Fred E.",
+        "family": "Govier",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Thomas R.",
+        "family": "Pritchett",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Judith D.",
+        "family": "Kornman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0090-4295(94)80142-8_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1016/S0022-5347(17)40581-7",
+        "article-title": "Vaginal wall sling",
+        "volume": "141",
+        "author": "Raz",
+        "year": "1989",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80142-8_bib2",
+        "series-title": "Controversies in Neuro-Urology",
+        "first-page": "287",
+        "article-title": "Evaluation of female incontinence: definiand treatment",
+        "author": "Stanton",
+        "year": "1984"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80142-8_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "305",
+        "DOI": "10.1016/S0094-0143(21)01643-8",
+        "article-title": "The use of the artificial sphincter in the treatment of urinary incontinence in the female patient",
+        "volume": "12",
+        "author": "Scott",
+        "year": "1985",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80142-8_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "106",
+        "DOI": "10.1016/S0022-5347(17)39382-5",
+        "article-title": "The outcome of transvaginal cystourethropexy in patients with anatomical stress urinary incontinence and outlet weakness",
+        "volume": "144",
+        "author": "Ramon",
+        "year": "1990",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80142-8_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "597",
+        "DOI": "10.1016/S0022-5347(17)43269-1",
+        "article-title": "A modest proposal for the diagnosis and treatment of urinary incontinence in women",
+        "volume": "138",
+        "author": "Editorial",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80142-8_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "514",
+        "DOI": "10.1016/S0022-5347(17)41706-X",
+        "article-title": "The significance of prior anti-incontinence surgery in women who present with urinary incontinence",
+        "volume": "140",
+        "author": "Awad",
+        "year": "1988",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80142-8_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "476",
+        "DOI": "10.1016/S0022-5347(17)47245-4",
+        "article-title": "Management of urinary incontiin women with the artificial urinary sphincter",
+        "volume": "134",
+        "author": "Light",
+        "year": "1985",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80142-8_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "538",
+        "DOI": "10.1016/S0022-5347(17)40885-8",
+        "article-title": "Treatment of urinary incontinence by the periurethral implantation of glutaraldehyde cross-linked collagen",
+        "volume": "141",
+        "author": "Shortliffe",
+        "year": "1989",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429594801428?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429594801428?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          3
+        ]
+      ],
+      "date-time": "2021-07-03T17:04:06Z",
+      "timestamp": 1625331846000
+    },
+    "score": 34.56581,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429594801428"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          8
+        ]
+      ]
+    },
+    "references-count": 8,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            1994,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429594801428"
+    ],
+    "URL": "https://doi.org/10.1016/s0090-4295(94)80142-8",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1994,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          1
+        ]
+      ],
+      "date-time": "2025-11-01T13:29:14Z",
+      "timestamp": 1762003754961
+    },
+    "reference-count": 13,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1994,
+              11,
+              1
+            ]
+          ],
+          "date-time": "1994-11-01T00:00:00Z",
+          "timestamp": 783648000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1994,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0090-4295(94)80222-x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2005-01-05T07:28:33Z",
+      "timestamp": 1104910113000
+    },
+    "page": "753-755",
+    "source": "Crossref",
+    "is-referenced-by-count": 28,
+    "title": [
+      "Autologous buccal mucosal graftfor urethral reconstruction"
+    ],
+    "prefix": "10.1016",
+    "volume": "44",
+    "author": [
+      {
+        "suffix": "III",
+        "given": "John W.",
+        "family": "Brock",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1074",
+        "DOI": "10.1016/S0022-5347(17)43506-3",
+        "article-title": "Outpatient catheterless modified Mathieu hypospadias repair",
+        "volume": "138",
+        "author": "Rabinowitz",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1081",
+        "DOI": "10.1016/S0022-5347(17)37478-5",
+        "article-title": "Autologous buccal mucosa graft for hypospadias repair: an initial report",
+        "volume": "147",
+        "author": "Dessanti",
+        "year": "1992",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1016/S0022-3468(86)80828-4",
+        "article-title": "Bladder mucosa graft for construction of male urethra",
+        "volume": "21",
+        "author": "Hendren",
+        "year": "1986",
+        "journal-title": "J Pediatr Surg"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "626",
+        "DOI": "10.1016/S0022-5347(17)38837-7",
+        "article-title": "Complications of bladder mucosal graft",
+        "volume": "142",
+        "author": "Ehrlich",
+        "year": "1989",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "858",
+        "DOI": "10.1016/S0022-5347(17)56163-7",
+        "article-title": "Tubed free skin graft for construction of male urethra",
+        "volume": "123",
+        "author": "Hendren",
+        "year": "1980",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "471",
+        "DOI": "10.1016/S0022-5347(17)44071-7",
+        "article-title": "Experience with free grafts in urethral reconstruction",
+        "volume": "137",
+        "author": "Vyas",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1082",
+        "DOI": "10.1016/S0022-5347(17)50820-4",
+        "article-title": "Suboptimal results in full thickness skin graft urethroplasty using an extrapenile skin donor site",
+        "volume": "131",
+        "author": "Webster",
+        "year": "1984",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1282",
+        "DOI": "10.1016/S0022-5347(17)42893-X",
+        "article-title": "Urethral replacement with ureter",
+        "volume": "139",
+        "author": "Mitchell",
+        "year": "1988",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "442",
+        "DOI": "10.1016/0090-4295(92)90460-E",
+        "article-title": "Tunica vaginalis urethroplasty",
+        "volume": "40",
+        "author": "Snow",
+        "year": "1992",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1204",
+        "DOI": "10.1016/S0022-5347(17)35728-2",
+        "article-title": "One-step treatment of proximal hypospadias by the autologous graft of cultured urethral epithelium",
+        "volume": "150",
+        "author": "Romagnoli",
+        "year": "1993",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib11",
+        "first-page": "450",
+        "article-title": "The graft of buccal mucous membrane in reconstructive cervico-facial surgery",
+        "volume": "29",
+        "author": "Meyer",
+        "year": "1971",
+        "journal-title": "Med Hyg"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "662",
+        "DOI": "10.1016/S0022-5347(17)37340-8",
+        "article-title": "The buccal mucosal graft for urethral reconstruction: a preliminary report",
+        "volume": "147",
+        "author": "Bürger",
+        "year": "1992",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(94)80222-X_bib13",
+        "series-title": "Presented at the American Academy of Pediatrics Meeting",
+        "article-title": "Buccal mucosa graft urethroplasty in hypospadias reconstruction",
+        "author": "Borzi",
+        "year": "1992"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S009042959480222X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S009042959480222X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          30
+        ]
+      ],
+      "date-time": "2019-01-30T06:53:48Z",
+      "timestamp": 1548831228000
+    },
+    "score": 33.748226,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S009042959480222X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          11
+        ]
+      ]
+    },
+    "references-count": 13,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            1994,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S009042959480222X"
+    ],
+    "URL": "https://doi.org/10.1016/s0090-4295(94)80222-x",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1994,
+          11
+        ]
+      ]
+    }
+  }
+]

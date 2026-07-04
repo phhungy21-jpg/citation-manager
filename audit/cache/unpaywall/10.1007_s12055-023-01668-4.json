@@ -1,0 +1,97 @@
+{
+  "best_oa_location": {
+    "endpoint_id": "ac9de7698155b820de7",
+    "evidence": "deprecated",
+    "host_type": "repository",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2024-01-03",
+    "pmh_id": "oai:pubmedcentral.nih.gov:11139831",
+    "repository_institution": "National Institutes of Health",
+    "updated": "deprecated",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11139831/pdf/12055_2023_Article_1668.pdf",
+    "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/11139831",
+    "url_for_pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11139831/pdf/12055_2023_Article_1668.pdf",
+    "version": "submittedVersion"
+  },
+  "data_standard": 2,
+  "doi": "10.1007/s12055-023-01668-4",
+  "doi_url": "https://doi.org/10.1007/s12055-023-01668-4",
+  "first_oa_location": {
+    "endpoint_id": "ac9de7698155b820de7",
+    "evidence": "deprecated",
+    "host_type": "repository",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2024-01-03",
+    "pmh_id": "oai:pubmedcentral.nih.gov:11139831",
+    "repository_institution": "National Institutes of Health",
+    "updated": "deprecated",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11139831/pdf/12055_2023_Article_1668.pdf",
+    "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/11139831",
+    "url_for_pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11139831/pdf/12055_2023_Article_1668.pdf",
+    "version": "submittedVersion"
+  },
+  "genre": "journal-article",
+  "has_repository_copy": true,
+  "is_oa": true,
+  "is_paratext": false,
+  "journal_is_in_doaj": false,
+  "journal_is_oa": false,
+  "journal_issn_l": "0970-9134",
+  "journal_issns": "0970-9134,0973-7723",
+  "journal_name": "Indian Journal of Thoracic and Cardiovascular Surgery",
+  "oa_locations": [
+    {
+      "endpoint_id": "ac9de7698155b820de7",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": true,
+      "license": null,
+      "oa_date": "2024-01-03",
+      "pmh_id": "oai:pubmedcentral.nih.gov:11139831",
+      "repository_institution": "National Institutes of Health",
+      "updated": "deprecated",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11139831/pdf/12055_2023_Article_1668.pdf",
+      "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/11139831",
+      "url_for_pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11139831/pdf/12055_2023_Article_1668.pdf",
+      "version": "submittedVersion"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "oa_status": "green",
+  "published_date": "2024-01-03",
+  "publisher": "Springer Science and Business Media LLC",
+  "title": "Role of echocardiography in the diagnosis and clinical management of infective endocarditis",
+  "updated": "2026-03-11T15:58:29Z",
+  "year": 2024,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "Department of Cardiology, Rigshospitalet, Copenhagen University Hospital, Blegdamsvej 9, 2100 Copenhagen Ø, Denmark",
+        "Department of Cardiology, Rigshospitalet, Copenhagen University Hospital, Blegdamsvej 9, 2100, Copenhagen Ø, Denmark"
+      ],
+      "raw_author_name": "Jeppe Kofoed Petersen"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Cardiology, Rigshospitalet, Copenhagen University Hospital, Blegdamsvej 9, 2100 Copenhagen Ø, Denmark",
+        "Department of Cardiology, Rigshospitalet, Copenhagen University Hospital, Blegdamsvej 9, 2100, Copenhagen Ø, Denmark"
+      ],
+      "raw_author_name": "Lauge Østergaard"
+    },
+    {
+      "author_position": "last",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Cardiology, Rigshospitalet, Copenhagen University Hospital, Blegdamsvej 9, 2100 Copenhagen Ø, Denmark",
+        "Department of Cardiology, Rigshospitalet, Copenhagen University Hospital, Blegdamsvej 9, 2100, Copenhagen Ø, Denmark"
+      ],
+      "raw_author_name": "Emil Loldrup Fosbøl"
+    }
+  ]
+}

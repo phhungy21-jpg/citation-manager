@@ -1,0 +1,1215 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          5
+        ]
+      ],
+      "date-time": "2024-09-05T09:25:39Z",
+      "timestamp": 1725528339567
+    },
+    "publisher-location": "Berlin, Heidelberg",
+    "reference-count": 61,
+    "publisher": "Springer Berlin Heidelberg",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783540772125"
+      },
+      {
+        "type": "electronic",
+        "value": "9783540772132"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-540-77213-2_1",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          4
+        ]
+      ],
+      "date-time": "2009-03-04T10:37:42Z",
+      "timestamp": 1236163062000
+    },
+    "page": "1-29",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Success in the Consumer Products Market – Understanding Direct Store Delivery"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Andreas",
+        "family": "Otto",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Franz Josef",
+        "family": "Schoppengerd",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ramin",
+        "family": "Shariatmadari",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2009,
+          1,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1_CR1_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ahlert, D.; Borchert, S. (2000): Prozessmanagement im vertikalen Marketing – Efficient Consumer Response (ECR) in Konsumgüternetzen, Berlin.",
+        "DOI": "10.1007/978-3-642-57271-5"
+      },
+      {
+        "key": "1_CR2_1",
+        "unstructured": "AMR (2006): Three Supply Chain Actions You Can Take Today To Improve New Product Launch."
+      },
+      {
+        "key": "1_CR3_1",
+        "unstructured": "Baker, E.; Golden, B. (1985): Future Directions in Logistics Research, in: Transportation Research, (Vol. 19) 1985, No. 5/6, pp. 405–409."
+      },
+      {
+        "key": "1_CR4_1",
+        "unstructured": "Bleicher, K.: Organisation (1991): Strategien – Strukturen – Kulturen, 2nd ed., Wiesbaden 1991."
+      },
+      {
+        "key": "1_CR5_1",
+        "unstructured": "Business Wire (2004): Solid Innovation Expands Mobile Route Accounting Solutions to Include Third-Party Billing Capabilities, June 14."
+      },
+      {
+        "key": "1_CR6_1",
+        "unstructured": "Cannon, J.P.; Homburg, C. (2001): Buyer – Supplier Relationships and Customer Firm Costs, in: Journal of Marketing, (Vol. 65) 2001, No. 1, pp. 29–44."
+      },
+      {
+        "key": "1_CR7_1",
+        "unstructured": "Coca-Cola Retailing Research Council Latin America; Booz Allen Hamilton (2003): Creating value for emerging consumers in retailing."
+      },
+      {
+        "key": "1_CR8_1",
+        "unstructured": "Forrester Research (2006): Understanding Hispanics and Technology Adoption, Cambridge."
+      },
+      {
+        "key": "1_CR9_1",
+        "unstructured": "Galler (1997): Vom Geschäftsprozeßmodell zum Workflow-Modell, Wiesbaden 1997, pp. 52–58."
+      },
+      {
+        "key": "1_CR10_1",
+        "unstructured": "GfK ConsumerScan (2006): Gesellschaft für Konsumforschung: Näher am Kunden, erfolgreicher im Markt, Nürnberg."
+      },
+      {
+        "key": "1_CR11_1",
+        "unstructured": "Gjaja, M.; Vogel, H.M. (2000): The Power of Direct Store Delivery, in: Silverstein, M.J.; Stalk, G. Jr.: Breaking Compromises – Opportunities for Action in Consumer Markets from the Boston Consulting Group, New York."
+      },
+      {
+        "key": "1_CR12_1",
+        "unstructured": "Grocery Manufacturers Association (GMA) (1999): The Power of Direct Store Delivery (DSD), Washington DC."
+      },
+      {
+        "key": "1_CR13_1",
+        "unstructured": "Grocery Manufacturers Association (GMA); Roland Berger Strategy Consultants (2002): Reducing Out-Of-Stocks in the Grocery Channel – An In-Depth Look at DSD Categories, Washington DC."
+      },
+      {
+        "key": "1_CR14_1",
+        "unstructured": "Grocery Manufacturers Association (GMA) (2002a): E-Commerce Opportunities in Direct Store Delivery, Washington DC."
+      },
+      {
+        "key": "1_CR15_1",
+        "unstructured": "Grocery Manufacturers Association (GMA) (2002b): Reducing Out-Of-Stocks Will Put $6 Billion in Retail Sales into Play Annually, Washington DC."
+      },
+      {
+        "key": "1_CR16_1",
+        "unstructured": "Grocery Manufacturers Association (GMA) (2005): Unleash the Power of DSD: Driving DSD Supply Chain Efficiencies and Profitability, Washington DC."
+      },
+      {
+        "key": "1_CR17_1",
+        "unstructured": "Grocery Manufacturers Association (GMA) Forum (2006): Direct Store Delivery – Time for Retailers and Suppliers to Unleash the Power."
+      },
+      {
+        "key": "1_CR18_1",
+        "unstructured": "Gonzalez, O. (2002): Industry Analysis – Latin America’s Beverage Market – Branding vs. Distribution, in: Info Americas, (Vol. 34)."
+      },
+      {
+        "key": "1_CR19_1",
+        "unstructured": "Griffin, A. et al. (1995): Griffin, A.; Gleason, G.; Preiss, R.. et al.: Die besten Methoden zu mehr Kundenzufriedenheit, in: Harvard Business Manager, 1995, No. 3, pp. 65–76."
+      },
+      {
+        "key": "1_CR20_1",
+        "unstructured": "Günther, T.; Mattmüller, R. (1993): Möglichkeiten und Grenzen der Regaloptimierung, in: Marketing Zeitschrift für Forschung und Praxis, (Vol. 15) 1993, No. 2, pp. 77–86."
+      },
+      {
+        "key": "1_CR21_1",
+        "unstructured": "Hammann, P.; Erichson, B. (1994): Marktforschung, 3rd ed., Stuttgart."
+      },
+      {
+        "key": "1_CR22_1",
+        "unstructured": "Heidack, C. (1983): Betriebspsychologie, Wiesbaden."
+      },
+      {
+        "key": "1_CR23_1",
+        "unstructured": "Hennessy, T. (1994): Reaping the rewards of DSD, in: Progressive Grocer, June 1."
+      },
+      {
+        "key": "1_CR24_1",
+        "unstructured": "Hertel, J. et al. (2005): Supply-Chain-Management und Warenwirtschaftssysteme im Handel, Berlin."
+      },
+      {
+        "key": "1_CR25_1",
+        "unstructured": "Heskett, J.L. et al. (1995): Heskett, J. L.; Jones, T.O.; Loveman, G.W. et al.: Dienstleister müssen die ganze Service-Gewinn Kette nutzen, in: Harvard Business Manager, 1995, No. 4, pp. 50–61."
+      },
+      {
+        "key": "1_CR26_1",
+        "unstructured": "Homburg, C.; Rudolph, B. (1995): Wie zufrieden sind ihre Kunden eigentlich?, in: Harvard Business Manager, 1995, No. 1, pp. 43–50."
+      },
+      {
+        "key": "1_CR27_1",
+        "unstructured": "Homburg, C. et al. (2006): Homburg, C.; Schäfer, H.; Schneider, J.: Sales Excellence – Vertriebsmanagement mit System, 4th ed., Wiesbaden."
+      },
+      {
+        "key": "1_CR28_1",
+        "unstructured": "IBM (2005): Trade Promotion Management, New York."
+      },
+      {
+        "key": "1_CR29_1",
+        "unstructured": "IRI Information Resources, Inc. (IRI) (2006): Times & Trends: 2005 New Product Pacesetters – Leading New CPG Brands, Chicago."
+      },
+      {
+        "key": "1_CR30_1",
+        "unstructured": "Jarvenpaa, S.; Staples, D. (2000): The use of collaborative electronic media for information sharing: An exploratory study of determinant, in: Journal of Strategic Information Systems, (Vol. 9) 2000, No. 2–3, pp. 129–154."
+      },
+      {
+        "key": "1_CR31_1",
+        "unstructured": "Kaipia, R.; Tanskanen, K. (2003): Vendor Managed Category Management – an Outsourcing Solution in Retailing, in: Journal of Purchasing & Supply Chain Management, (Vol. 9) 2003, pp. 165–175."
+      },
+      {
+        "key": "1_CR32_1",
+        "unstructured": "Kamen, J. (1989): Price Filtering: restricting price deals to those least likely to buy without them, in: The Journal of Consumer Marketing, (Vol. 6) 1989, No. 3, pp. 37–43."
+      },
+      {
+        "key": "1_CR33_1",
+        "unstructured": "Kinnear, T.; Taylor, J.R. (1991): Marketing Research, 4th ed., New York."
+      },
+      {
+        "key": "1_CR34_1",
+        "unstructured": "Kotler, P.; Bliemel, F (1999).: Marketing-Management – Analyse, Planung, Umsetzung und Steuerung, 9th ed., Stuttgart."
+      },
+      {
+        "key": "1_CR35_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Krause, M. (2000): Computer Aided Selling in der onsumgüterindustrie: Konzeption der ußendienstunterstützung, Wiesbaden.",
+        "DOI": "10.1007/978-3-322-85235-9"
+      },
+      {
+        "key": "1_CR36_1",
+        "unstructured": "Mathews, R. (1995): Understanding DSD, in: Progressive Grocer, November 1st."
+      },
+      {
+        "key": "1_CR37_1",
+        "unstructured": "Meffert, H. (1998): Marketing: Grundlagen marktorientierter Unternehmensführung: Konzepte – Instrumente – Praxisbeispiele; 8th ed., Wiesbaden."
+      },
+      {
+        "key": "1_CR38_1",
+        "unstructured": "Merkel, H. (1997): Konsumgüterdistribution – Kundenorientiertes Nachfragemanagement. Sparzwänge für Hersteller und Handel, in: Handelsblatt, September 4."
+      },
+      {
+        "key": "1_CR39_1",
+        "unstructured": "Neff, J. (2001): DSD delivers, in: Food Processing, January 18."
+      },
+      {
+        "key": "1_CR40_1",
+        "unstructured": "Nieschlag, R. et al. (1997): Nieschlag, R.; Dichtl, E.; Höschgen, H.: Marketing, 18th ed., Berlin."
+      },
+      {
+        "key": "1_CR41_1",
+        "unstructured": "O’Neill, B.F.; Bommer, M.R.W. (1988): Analysis of Alternative Distribution Strategies, in: The Logistics and Transportation Review, (Vol. 24) 1988, No. 3, pp. 237–247."
+      },
+      {
+        "key": "#cr-split#-1_CR42_1.1",
+        "unstructured": "Otto, A. (2000): Auftragsabwicklung, in: Klaus, P."
+      },
+      {
+        "key": "#cr-split#-1_CR42_1.2",
+        "unstructured": "Krieger, W.: Gabler Lexikon Logistik, 2nd ed., Wiesbaden 2000, pp. 14-20."
+      },
+      {
+        "key": "#cr-split#-1_CR43_1.1",
+        "unstructured": "Otto, A. (2004): Auftragsabwicklung, in: Klaus, P."
+      },
+      {
+        "key": "#cr-split#-1_CR43_1.2",
+        "unstructured": "Krieger, W.: Gabler Lexikon Logistik, 3rd ed., Wiesbaden 2004, pp. 14-20."
+      },
+      {
+        "key": "1_CR44_1",
+        "unstructured": "Otto, A.; Shariatmadari, R. (2008): Direct Store Delivery: Understanding DSD in Sales and Logistics, Results of the “Global DSD Analysis”, Regensburg."
+      },
+      {
+        "key": "1_CR45_1",
+        "unstructured": "Pamplin, C. (2001): The Cold, Hard Facts – selling packaged ice, in: Convenience Store News, September 25."
+      },
+      {
+        "key": "1_CR46_1",
+        "unstructured": "Parlin, S. (2002): Providing personalized service: with direct store delivery, dairies get fresh with consumers, in: Dairy Field, October 1."
+      },
+      {
+        "key": "1_CR47_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Peppers, D.; Rogers, M. (1997): Enterprise One to One, New York.",
+        "DOI": "10.1002/pf.41219971807"
+      },
+      {
+        "key": "1_CR48_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pfohl, H.-C. (1996): Logistiksysteme, Berlin/Heidelberg.",
+        "DOI": "10.1007/978-3-662-08415-1"
+      },
+      {
+        "key": "1_CR49_1",
+        "unstructured": "Progressive Grocer (1995): How DSD fits into category management, Aug 1."
+      },
+      {
+        "key": "1_CR50_1",
+        "unstructured": "Rupietta, W. (1992): Organisationsmodellierung zur Unterstützung kooperativer Vorgangsbearbeitung, in: Wirtschaftsinformatik (Vol. 34) 1992, No. 1, pp. 26–37."
+      },
+      {
+        "key": "1_CR51_1",
+        "unstructured": "Saltzmann, H. et al. (1999): Transformation and Continuity: The U.S. Carbonated Soft Drink Bottling Industry and Antitrust Policy since 1980, Washington DC."
+      },
+      {
+        "key": "1_CR52_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schäfer, H. (2002): Die Erschließung von Kundenpotentialen durch Cross-Selling – Erfolgsfaktoren für ein Produktübergreifendes Beziehungsmanagement, Wiesbaden.",
+        "DOI": "10.1007/978-3-663-09693-1"
+      },
+      {
+        "key": "1_CR53_1",
+        "unstructured": "Stahl, H.K (1998): Modernes Kundenmanagement – wenn der Kunde im Mittelpunkt steht, Renningen."
+      },
+      {
+        "key": "1_CR54_1",
+        "unstructured": "Stock, J.R.; Lambert, D.M. (2001): Strategic Logistics Management, 4th ed., Boston et al."
+      },
+      {
+        "key": "1_CR55_1",
+        "unstructured": "US Federal Trade Commission (2003): Slotting Allowances in the Retail Grocery Industry: Selected Case Studies in Five Product Categories, Washington DC."
+      },
+      {
+        "key": "1_CR56_1",
+        "unstructured": "USA Today (2005): Molson Coors eyes options for Brazil unit."
+      },
+      {
+        "key": "1_CR57_1",
+        "unstructured": "Vinod, B. (2004): Retail revenue management and the new paradigm of merchandise optimization, in: Journal of Revenue & Pricing Management, (Vol. 3) 2005, No. 4, pp. 358–368."
+      },
+      {
+        "key": "1_CR58_1",
+        "unstructured": "Waller, M. et al. (1999): Waller, M.; Johnson M.E.; Davis, T.: Vendor-Managed Inventory in the Retail Supply Chain, in: Journal of Business Logistics, (Vol. 20) 1999, No 1."
+      },
+      {
+        "key": "1_CR59_1",
+        "unstructured": "Willerding, T. (1987): Gestaltungsmöglichkeiten der Kooperation im technischen Kundendienst zwischen Hersteller und Handel, Bochum 1987."
+      }
+    ],
+    "container-title": [
+      "Direct Store Delivery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-540-77213-2_1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          23
+        ]
+      ],
+      "date-time": "2019-05-23T01:45:57Z",
+      "timestamp": 1558575957000
+    },
+    "score": 62.376892,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-3-540-77213-2_1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783540772125",
+      "9783540772132"
+    ],
+    "references-count": 61,
+    "URL": "https://doi.org/10.1007/978-3-540-77213-2_1",
+    "published": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T08:50:01Z",
+      "timestamp": 1648716601933
+    },
+    "reference-count": 19,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1994,
+              7,
+              1
+            ]
+          ],
+          "date-time": "1994-07-01T00:00:00Z",
+          "timestamp": 773020800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Retailing and Consumer Services"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1994,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/0969-6989(94)90028-0",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2002-10-11T16:01:33Z",
+      "timestamp": 1034352093000
+    },
+    "page": "48-52",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Curtailment planning of catalogue delivery in direct mail"
+    ],
+    "prefix": "10.1016",
+    "volume": "1",
+    "author": [
+      {
+        "given": "Hiroaki",
+        "family": "Sandoh",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Katsunao",
+        "family": "Kondo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "231",
+        "DOI": "10.1016/0305-0548(87)90026-8",
+        "article-title": "A stochastic model of optimal advertising pulsing policy",
+        "volume": "14",
+        "author": "Arsham",
+        "year": "1987",
+        "journal-title": "Computers and Operations Research"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1016/0305-0548(93)90094-Y",
+        "article-title": "A Markovian method of consumer buying behavior and optimal advertising pulsing policy",
+        "volume": "20",
+        "author": "Arsham",
+        "year": "1993",
+        "journal-title": "Computers and Operations Research"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1016/0305-0548(88)90014-7",
+        "article-title": "Consumer buying behaviour and optimal advertising strategy; the quadratic profit function case",
+        "volume": "15",
+        "author": "Arsham",
+        "year": "1988",
+        "journal-title": "Computers and Operations Research"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1287/mnsc.37.2.157",
+        "article-title": "Advertising cost interaction and the optimality of pulsing",
+        "volume": "37",
+        "author": "Hahn",
+        "year": "1991",
+        "journal-title": "Management Science"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB5",
+        "first-page": "39",
+        "article-title": "A sliding schedule of advertising weight",
+        "volume": "20",
+        "author": "Katz",
+        "year": "1980",
+        "journal-title": "Journal of Advertising Research"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/0969-6989(94)90028-0_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "348",
+        "DOI": "10.1109/24.44179",
+        "article-title": "On estimating parameters in a discrete Weibull distribution",
+        "volume": "R-38",
+        "author": "Khan",
+        "year": "1989",
+        "journal-title": "IEEE Transactions on Reliability"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB7",
+        "first-page": "259",
+        "article-title": "A mathematical model of consumer behaviour",
+        "volume": "7",
+        "author": "Lipstein",
+        "year": "1965",
+        "journal-title": "Journal of Marketing Science"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "627",
+        "DOI": "10.1287/opre.27.4.629",
+        "article-title": "Aggregate advertising models",
+        "volume": "27",
+        "author": "Little",
+        "year": "1979",
+        "journal-title": "Operations Research"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "421",
+        "DOI": "10.1016/0305-0548(85)90015-2",
+        "article-title": "On optimal advertising pulsing decision in a non-stationary market",
+        "volume": "12",
+        "author": "Mesak",
+        "year": "1985",
+        "journal-title": "Computers and Operations Research"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/0969-6989(94)90028-0_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "300",
+        "DOI": "10.1109/TR.1975.5214915",
+        "article-title": "The discrete Weibull distribution",
+        "volume": "R-24",
+        "author": "Nakagawa",
+        "year": "1975",
+        "journal-title": "IEEE Transactions on Reliability"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB11",
+        "series-title": "Applied Probability Models with Optimization Applications",
+        "author": "Ross",
+        "year": "1970"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "358",
+        "DOI": "10.1287/mksc.8.4.358",
+        "article-title": "Optimal advertising strategies",
+        "volume": "8",
+        "author": "Sasieni",
+        "year": "1989",
+        "journal-title": "Marketing Science"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "998",
+        "DOI": "10.1287/opre.21.4.998",
+        "article-title": "Optimal control of the Vidale-Wolfe advertising model",
+        "volume": "21",
+        "author": "Sethi",
+        "year": "1973",
+        "journal-title": "Operations Research"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "685",
+        "DOI": "10.1137/1019106",
+        "article-title": "Dynamic optimal control models in advertising",
+        "volume": "19",
+        "author": "Sethi",
+        "year": "1977",
+        "journal-title": "SIAM Review"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB15",
+        "first-page": "11",
+        "article-title": "The shape of the advertising response function",
+        "volume": "20",
+        "author": "Simon",
+        "year": "1980",
+        "journal-title": "Journal of Advertising Research"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/0969-6989(94)90028-0_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "196",
+        "DOI": "10.1109/TR.1984.5221777",
+        "article-title": "A new discrete Weibull distribution",
+        "volume": "R-33",
+        "author": "Stein",
+        "year": "1984",
+        "journal-title": "IEEE Transactions on Reliability"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1054",
+        "DOI": "10.1287/mnsc.28.9.1054",
+        "article-title": "A stochastic model of consumer behavior and optimal advertising",
+        "volume": "28",
+        "author": "Tapero",
+        "year": "1982",
+        "journal-title": "Management Science"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "570",
+        "DOI": "10.1287/opre.5.3.370",
+        "article-title": "An operations research study of sales response to advertising",
+        "volume": "5",
+        "author": "Vidale",
+        "year": "1957",
+        "journal-title": "Operations Research"
+      },
+      {
+        "key": "10.1016/0969-6989(94)90028-0_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1253",
+        "DOI": "10.1287/mnsc.33.10.1253",
+        "article-title": "A model for relating advertising incidence behavior patterns",
+        "volume": "33",
+        "author": "Zurfryden",
+        "year": "1987",
+        "journal-title": "Management Science"
+      }
+    ],
+    "container-title": [
+      "Journal of Retailing and Consumer Services"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0969698994900280?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0969698994900280?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          10
+        ]
+      ],
+      "date-time": "2019-04-10T23:23:59Z",
+      "timestamp": 1554938639000
+    },
+    "score": 60.9095,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/0969698994900280"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          7
+        ]
+      ]
+    },
+    "references-count": 19,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            1994,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0969698994900280"
+    ],
+    "URL": "https://doi.org/10.1016/0969-6989(94)90028-0",
+    "ISSN": [
+      "0969-6989"
+    ],
+    "issn-type": [
+      {
+        "value": "0969-6989",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1994,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          6
+        ]
+      ],
+      "date-time": "2024-09-06T06:51:39Z",
+      "timestamp": 1725605499010
+    },
+    "publisher-location": "Boston, MA",
+    "reference-count": 5,
+    "publisher": "Springer US",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9781461379027"
+      },
+      {
+        "type": "electronic",
+        "value": "9781461563211"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-1-4615-6321-1_22",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          9,
+          7
+        ]
+      ],
+      "date-time": "2011-09-07T18:39:18Z",
+      "timestamp": 1315420758000
+    },
+    "page": "399-416",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Competition in Postal Markets: The German Direct Mail Market"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Susanne",
+        "family": "Meier",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Baldry",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "22_CR1",
+        "volume-title": "“Entwurf eines Postgesetzes”",
+        "author": "Bundesminister für Post und Telekommunikation, BMPT",
+        "year": "1996",
+        "unstructured": "Bundesminister für Post und Telekommunikation, BMPT, 1996. “Entwurf eines Postgesetzes” (Draft Postal Law). May 8, 1996, Bonn."
+      },
+      {
+        "key": "22_CR2",
+        "volume-title": "DMM: Direkt Marketing Monitor, Part III",
+        "author": "Deutsche Post AG",
+        "year": "1995",
+        "unstructured": "Deutsche Post AG, 1995. DMM: Direkt Marketing Monitor, Part III. Wirtschaftsfaktor Direktmarketing, Bonn."
+      },
+      {
+        "key": "22_CR3",
+        "unstructured": "European Commission, “Proposals for a European Parliament and Council Directive on Common Rules for the Development of Community Postal Services and the Improvement of Quality of Service.” December 2, 1995, Brussels."
+      },
+      {
+        "key": "22_CR4",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-1-349-11336-1",
+        "volume-title": "Competitive Advantage of Nations",
+        "author": "ME Porter",
+        "year": "1990",
+        "unstructured": "Porter, M. E. 1990. Competitive Advantage of Nations New York: Free Press."
+      },
+      {
+        "key": "22_CR5",
+        "volume-title": "Werbung in Deutschland, Bonn",
+        "author": "Zentralverband der Deutschen Werbewirtschaft—ZAW",
+        "year": "1996",
+        "unstructured": "Zentralverband der Deutschen Werbewirtschaft—ZAW (eds) 1996. Werbung in Deutschland, Bonn."
+      }
+    ],
+    "container-title": [
+      "Managing Change in the Postal and Delivery Industries"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-1-4615-6321-1_22.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2021-05-01T07:45:08Z",
+      "timestamp": 1619855108000
+    },
+    "score": 58.322136,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-1-4615-6321-1_22"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781461379027",
+      "9781461563211"
+    ],
+    "references-count": 5,
+    "URL": "https://doi.org/10.1007/978-1-4615-6321-1_22",
+    "published": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2024-05-15T13:11:04Z",
+      "timestamp": 1715778664564
+    },
+    "publisher-location": "London",
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Routledge India",
+    "isbn-type": [
+      {
+        "value": "9781032685083",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          18
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781032685083-8",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          18
+        ]
+      ],
+      "date-time": "2023-12-18T10:46:25Z",
+      "timestamp": 1702896385000
+    },
+    "page": "89-98",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Service Creation and Delivery in Fragmented Rural Market"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "given": "Sanal Kumar",
+        "family": "Velayudhan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "container-title": [
+      "Rural Marketing"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          18
+        ]
+      ],
+      "date-time": "2023-12-18T10:47:28Z",
+      "timestamp": 1702896448000
+    },
+    "score": 55.86037,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781032685083/chapters/10.4324/9781032685083-8"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          18
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781032685083"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.4324/9781032685083-8",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          25
+        ]
+      ],
+      "date-time": "2025-03-25T23:23:15Z",
+      "timestamp": 1742944995547,
+      "version": "3.40.3"
+    },
+    "publisher-location": "London",
+    "reference-count": 0,
+    "publisher": "Palgrave Macmillan UK",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9781349676408"
+      },
+      {
+        "type": "electronic",
+        "value": "9781137367105"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2015-01-01T00:00:00Z",
+          "timestamp": 1420070400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "DOI": "10.1057/9781137367105_9",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          22
+        ]
+      ],
+      "date-time": "2016-05-22T02:21:36Z",
+      "timestamp": 1463883696000
+    },
+    "page": "119-135",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Spruce Up the Service"
+    ],
+    "prefix": "10.1057",
+    "author": [
+      {
+        "given": "Dheeraj",
+        "family": "Sinha",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "container-title": [
+      "India Reloaded"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1057/9781137367105_9",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          8
+        ]
+      ],
+      "date-time": "2020-01-08T10:06:01Z",
+      "timestamp": 1578477961000
+    },
+    "score": 55.85546,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1057/9781137367105_9"
+      }
+    },
+    "subtitle": [
+      "Why Jugaad is an Enemy of Good Service"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781349676408",
+      "9781137367105"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1057/9781137367105_9",
+    "published": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    }
+  }
+]

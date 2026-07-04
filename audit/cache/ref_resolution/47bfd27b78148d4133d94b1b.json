@@ -1,0 +1,2164 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2026-05-15T01:54:47Z",
+      "timestamp": 1778810087967,
+      "version": "3.51.4"
+    },
+    "reference-count": 30,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2020-05-01T00:00:00Z",
+          "timestamp": 1588291200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2020-05-01T00:00:00Z",
+          "timestamp": 1588291200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2018.07.003",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          21
+        ]
+      ],
+      "date-time": "2018-07-21T07:49:55Z",
+      "timestamp": 1532159395000
+    },
+    "page": "628-635",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 66,
+    "title": [
+      "Retrograde Release of the Neurovascular Bundle with Preservation of Dorsal Venous Complex During Robot-assisted Radical Prostatectomy: Optimizing Functional Outcomes"
+    ],
+    "prefix": "10.1016",
+    "volume": "77",
+    "author": [
+      {
+        "given": "Paulo Afonso",
+        "family": "de Carvalho",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "João A.B.A.",
+        "family": "Barbosa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Giuliano B.",
+        "family": "Guglielmetti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maurício Dener",
+        "family": "Cordeiro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bernardo",
+        "family": "Rocco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "William C.",
+        "family": "Nahas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Vipul",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rafael Ferreira",
+        "family": "Coelho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "660",
+        "DOI": "10.1016/j.eururo.2014.09.036",
+        "article-title": "Short-term results after robot-assisted laparoscopic radical prostatectomy compared to open radical prostatectomy",
+        "volume": "67",
+        "author": "Wallerstedt",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "606",
+        "DOI": "10.1016/j.eururo.2012.07.007",
+        "article-title": "Randomised controlled trial comparing laparoscopic and robot-assisted radical prostatectomy",
+        "volume": "63",
+        "author": "Porpiglia",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "747",
+        "DOI": "10.1586/era.10.16",
+        "article-title": "Erectile dysfunction after robot-assisted radical prostatectomy",
+        "volume": "10",
+        "author": "Orvieto",
+        "year": "2010",
+        "journal-title": "Expert Rev Anticancer Ther"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "991",
+        "DOI": "10.1111/j.1464-410X.2009.08532.x",
+        "article-title": "Robotic vs open prostatectomy in a laparoscopically naive centre: a matched-pair analysis",
+        "volume": "104",
+        "author": "Rocco",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "1028",
+        "DOI": "10.1016/j.juro.2010.04.069",
+        "article-title": "Evaluating urinary continence and preoperative predictors of urinary continence after robot assisted laparoscopic radical prostatectomy",
+        "volume": "184",
+        "author": "Novara",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "928",
+        "DOI": "10.1016/j.juro.2008.05.029",
+        "article-title": "The impact of prostate gland weight in robot assisted laparoscopic radical prostatectomy",
+        "volume": "180",
+        "author": "Link",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy: insight into etiology and prevention",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1016/j.eururo.2009.11.009",
+        "article-title": "A critical analysis of the current knowledge of surgical anatomy related to optimization of cancer control and preservation of continence and erection in candidates for radical prostatectomy",
+        "volume": "57",
+        "author": "Walz",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1016/j.eururo.2006.05.038",
+        "article-title": "Nerve distribution along the prostatic capsule",
+        "volume": "51",
+        "author": "Eichelberg",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1016/j.eururo.2008.09.022",
+        "article-title": "Nerves at the ventral prostatic capsule contribute to erectile function: initial electrophysiological assessment in humans",
+        "volume": "55",
+        "author": "Kaiho",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "899",
+        "DOI": "10.1016/S0090-4295(00)00858-X",
+        "article-title": "Development and validation of the Expanded Prostate Cancer Index Composite (EPIC) for comprehensive assessment of health-related quality of life in men with prostate cancer",
+        "volume": "56",
+        "author": "Wei",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1707",
+        "DOI": "10.1016/S0149-2918(01)80138-7",
+        "article-title": "Relationship between patient self-assessment of erectile function and the Sexual Health Inventory for Men",
+        "volume": "23",
+        "author": "Cappelleri",
+        "year": "2001",
+        "journal-title": "Clin Ther"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "782",
+        "DOI": "10.1590/s1677-5538.ibju.2015.0349",
+        "article-title": "Robot-assisted laparoscopic radical prostatectomy with early retrograde release of the neurovascular bundle and endopelvic fascia sparing",
+        "volume": "43",
+        "author": "Albuquerque",
+        "year": "2017",
+        "journal-title": "Int Braz J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "2299",
+        "DOI": "10.1089/end.2008.9711",
+        "article-title": "Robot-assisted laparoscopic radical prostatectomy: perioperative outcomes of 1500 cases",
+        "volume": "22",
+        "author": "Patel",
+        "year": "2008",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "571",
+        "DOI": "10.1016/j.eururo.2011.12.047",
+        "article-title": "The role of the prostatic vasculature as a landmark for nerve sparing during robot-assisted radical prostatectomy",
+        "volume": "61",
+        "author": "Patel",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1111/bju.14026",
+        "article-title": "A novel tool for predicting extracapsular extension during graded partial nerve sparing in radical prostatectomy",
+        "volume": "121",
+        "author": "Patel",
+        "year": "2018",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1016/j.eururo.2009.06.007",
+        "article-title": "Periurethral suspension stitch during robotic-assisted laparoscopic radical prostatectomy. Description of the technique and continence outcomes",
+        "volume": "56",
+        "author": "Patel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "480",
+        "DOI": "10.1016/j.eururo.2011.10.044",
+        "article-title": "Updated nomogram predicting lymph node invasion in patients with prostate cancer undergoing extended pelvic lymph node dissection: the essential importance of percentage of positive cores",
+        "volume": "61",
+        "author": "Briganti",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "572",
+        "DOI": "10.1093/ajcp/102.5.572",
+        "article-title": "Surgical pathology examination of the prostate gland: practice survey by American Society of Clinical Pathologists",
+        "volume": "102",
+        "author": "True",
+        "year": "1994",
+        "journal-title": "Am J Clin Pathol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1016/j.eururo.2007.09.002",
+        "article-title": "EAU guidelines on prostate cancer",
+        "volume": "53",
+        "author": "Heidenreich",
+        "year": "2008",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "702",
+        "DOI": "10.1016/j.eururo.2011.01.032",
+        "article-title": "Pentafecta: a new concept for reporting outcomes of robot-assisted laparoscopic radical prostatectomy",
+        "volume": "59",
+        "author": "Patel",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "314",
+        "DOI": "10.1111/j.1464-410X.2006.06266.x",
+        "article-title": "The proximal neurovascular plate and the trizonal neural architecture around the prostate gland: importance in the athermal robotic technique of nerve sparing prostatectomy",
+        "volume": "98",
+        "author": "Tewari",
+        "year": "2006",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1016/j.eururo.2005.02.010",
+        "article-title": "Interindividual variation in distribution of extramural ganglion cells in the male pelvis: a semi-quantitative and immunohistochemical study concerning nerve-sparing pelvic surgery",
+        "volume": "48",
+        "author": "Takenaka",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "444",
+        "DOI": "10.1016/S0302-2838(03)00093-9",
+        "article-title": "An operative and anatomic study to help in nerve sparing during laparoscopic and robotic radical prostatectomy",
+        "volume": "43",
+        "author": "Tewari",
+        "year": "2003",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "1065",
+        "DOI": "10.1016/j.eururo.2006.02.050",
+        "article-title": "Robotic radical prostatectomy with the “veil of Aphrodite” technique: histologic evidence of enhanced nerve sparing",
+        "volume": "49",
+        "author": "Savera",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "974",
+        "DOI": "10.1016/j.eururo.2013.06.046",
+        "article-title": "Beyond the learning curve of the Retzius-sparing approach for robot-assisted laparoscopic radical prostatectomy: oncologic and functional results of the first 200 patients with = 1 year of follow-up",
+        "volume": "64",
+        "author": "Galfano",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "431",
+        "DOI": "10.1016/j.eururo.2012.05.044",
+        "article-title": "Systematic review and meta-analysis of perioperative outcomes and complications after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Novara",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.eururo.2012.05.047",
+        "article-title": "Systematic review and meta-analysis of studies reporting oncologic outcome after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Novara",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/j.eururo.2012.05.046",
+        "article-title": "Systematic review and meta-analysis of studies reporting potency rates after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.07.003_bib0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "article-title": "Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283818304810?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283818304810?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:06:34Z",
+      "timestamp": 1759583194000
+    },
+    "score": 146.86845,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283818304810"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283818304810"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2018.07.003",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Retrograde Release of the Neurovascular Bundle with Preservation of Dorsal Venous Complex During Robot-assisted Radical Prostatectomy: Optimizing Functional Outcomes",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2018.07.003",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2018 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2026-06-06T04:45:07Z",
+      "timestamp": 1780721107606,
+      "version": "3.54.1"
+    },
+    "reference-count": 27,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2021-02-01T00:00:00Z",
+          "timestamp": 1612137600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2021-02-01T00:00:00Z",
+          "timestamp": 1612137600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2020.08.039",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2020-10-13T22:43:08Z",
+      "timestamp": 1602628988000
+    },
+    "page": "e44-e46",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Re: Paolo Afonso de Carvalho, Joāo A.B.A. Barbosa, Giuliano B. Guglielmetti, et al. Retrograde Release of the Neurovascular Bundle with Preservation of Dorsal Venous Complex During Robot-assisted Radical Prostatectomy: Optimizing Functional Outcomes. Eur Urol 2020;77:628–35"
+    ],
+    "prefix": "10.1016",
+    "volume": "79",
+    "author": [
+      {
+        "given": "Francesco",
+        "family": "Montorsi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giorgio",
+        "family": "Gandaglia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christoph",
+        "family": "Würnschimmel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Markus",
+        "family": "Graefen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alberto",
+        "family": "Briganti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hartwig",
+        "family": "Huland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0005",
+        "first-page": "1",
+        "article-title": "The incredible results of penile vascular surgery",
+        "volume": "3",
+        "author": "Sharlip",
+        "year": "1991",
+        "journal-title": "Int J Impotence Res"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "628",
+        "DOI": "10.1016/j.eururo.2018.07.003",
+        "article-title": "Retrograde release of the neurovascular bundle with preservation of dorsal venous complex during robot-assisted radical prostatectomy: optimizing functional outcomes",
+        "volume": "77",
+        "author": "de Carvalho",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "848",
+        "DOI": "10.1016/j.eururo.2016.09.030",
+        "article-title": "High chance of late recovery of urinary and erectile function beyond 12 months after radical prostatectomy",
+        "volume": "71",
+        "author": "Mandel",
+        "year": "2017",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1016/j.eururo.2018.02.025",
+        "article-title": "The impact of implementation of the European Association of Urology Guidelines Panel recommendations on reporting and grading complications on perioperative outcomes after robot-assisted radical prostatectomy",
+        "volume": "74",
+        "author": "Gandaglia",
+        "year": "2018",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/j.eururo.2012.05.046",
+        "article-title": "Systematic review and meta-analysis of studies reporting potency rates after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "353",
+        "DOI": "10.1016/j.euo.2018.04.012",
+        "article-title": "Functional and oncologic outcomes between open and robotic radical prostatectomy at 24-month follow-up in the Swedish LAPPRO trial",
+        "volume": "1",
+        "author": "Nyberg",
+        "year": "2018",
+        "journal-title": "Eur Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "160",
+        "DOI": "10.1016/j.euo.2018.03.006",
+        "article-title": "Trend of adverse stage migration in patients treated with radical prostatectomy for localized prostate cancer",
+        "volume": "1",
+        "author": "Preisser",
+        "year": "2018",
+        "journal-title": "Eur Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "938",
+        "DOI": "10.1016/j.eururo.2005.09.004",
+        "article-title": "Improving the preservation of the urethral sphincter and neurovascular bundles during open radical retropubic prostatectomy",
+        "volume": "48",
+        "author": "Montorsi",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.1016/j.eururo.2009.05.044",
+        "article-title": "Current technique of open intrafascial nerve-sparing retropubic prostatectomy",
+        "volume": "56",
+        "author": "Budaus",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "648",
+        "DOI": "10.1016/j.eururo.2006.10.055",
+        "article-title": "Vattikuti Institute prostatectomy: contemporary technique and analysis of results",
+        "volume": "51",
+        "author": "Menon",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0055",
+        "series-title": "Campbell-Walsh-Wein urology",
+        "year": "2020"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "571",
+        "DOI": "10.1016/j.eururo.2011.12.047",
+        "article-title": "The role of the prostatic vasculature as a landmark for nerve sparing during robot-assisted radical prostatectomy",
+        "volume": "61",
+        "author": "Patel",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "945",
+        "DOI": "10.1016/j.eururo.2010.02.001",
+        "article-title": "Early complication rates in a single-surgeon series of 2500 robotic-assisted radical prostatectomies: report applying a standardized grading system",
+        "volume": "57",
+        "author": "Coelho",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "Suppl. 4",
+        "key": "10.1016/j.eururo.2020.08.039_bib0070",
+        "article-title": "When is mp-MRI reliable in predicting extra-prostatic extension in prostate cancer patients treated with radical prostatectomy? Results from a large, multi-institutional series",
+        "volume": "123",
+        "author": "Gandaglia",
+        "year": "2020",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "498",
+        "DOI": "10.1111/j.1743-6109.2008.01089.x",
+        "article-title": "Importance of baseline potency rate assessment of men diagnosed with clinically localized prostate cancer prior to radical prostatectomy",
+        "volume": "6",
+        "author": "Salomon",
+        "year": "2009",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "733",
+        "DOI": "10.1016/j.eururo.2019.09.005",
+        "volume": "77",
+        "author": "Gandaglia",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0085",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Martini A, Gandaglia G, Fossati N, et al. Defining clinically meaningful positive surgical margins in patients undergoing radical prostatectomy for localised prostate cancer. Eur Urol Oncol. In press. https://doi.org/10.1016/j.euo.2019.03.006",
+        "DOI": "10.1016/j.euo.2019.03.006"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "1031",
+        "DOI": "10.1111/bju.14760",
+        "article-title": "A comparative study of robot-assisted and open radical prostatectomy in 10 790 men treated by highly trained surgeons for both procedures",
+        "volume": "123",
+        "author": "Haese",
+        "year": "2019",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1016/j.euo.2018.05.005",
+        "article-title": "Current management of pT3b prostate cancer after robot-assisted laparoscopic prostatectomy",
+        "volume": "2",
+        "author": "Poelaert",
+        "year": "2019",
+        "journal-title": "Eur Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "796",
+        "DOI": "10.1016/j.eururo.2011.12.048",
+        "article-title": "Anatomic grading of nerve sparing during robot-assisted radical prostatectomy",
+        "volume": "61",
+        "author": "Schatloff",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "974",
+        "DOI": "10.1016/j.eururo.2013.06.046",
+        "article-title": "Beyond the learning curve of the Retzius-sparing approach for robot-assisted laparoscopic radical prostatectomy: oncologic and functional results of the first 200 patients with ≥1 year of follow-up",
+        "volume": "64",
+        "author": "Galfano",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "2521",
+        "DOI": "10.1111/j.1743-6109.2010.01845.x",
+        "article-title": "Predicting erectile function recovery after bilateral nerve sparing radical prostatectomy: a proposal of a novel preoperative risk stratification",
+        "volume": "7",
+        "author": "Briganti",
+        "year": "2010",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "669",
+        "DOI": "10.1016/j.juro.2016.09.079",
+        "article-title": "Early postoperative radiotherapy is associated with worse functional outcomes in patients with prostate cancer",
+        "volume": "197",
+        "author": "Zaffuto",
+        "year": "2017",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1016/j.eururo.2011.10.033",
+        "article-title": "Reporting and grading of complications after urologic surgical procedures: an ad hoc EAU guidelines panel assessment and recommendations",
+        "volume": "61",
+        "author": "Mitropoulos",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0125",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ploussard G, Dumonceau O, Thomas L, et al. Multi-institutional assessment of routine same day discharge surgery for robot-assisted radical prostatectomy. J Urol. In press. https://doi.org/10.1097/ju.0000000000001129.",
+        "DOI": "10.1097/JU.0000000000001129"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.eururo.2020.08.039_bib0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "424",
+        "DOI": "10.1016/j.eururo.2020.03.032",
+        "article-title": "Standardized and simplified robot-assisted superextended pelvic lymph node dissection for prostate cancer: the monoblock technique",
+        "volume": "78",
+        "author": "Mattei",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.039_bib0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1016/j.eururo.2016.05.008",
+        "article-title": "Robot-assisted radical prostatectomy and extended pelvic lymph node dissection in patients with locally-advanced prostate cancer",
+        "volume": "71",
+        "author": "Gandaglia",
+        "year": "2017",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820306904?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820306904?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:09:43Z",
+      "timestamp": 1759583383000
+    },
+    "score": 130.16742,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283820306904"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283820306904"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2020.08.039",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Paolo Afonso de Carvalho, Joāo A.B.A. Barbosa, Giuliano B. Guglielmetti, et al. Retrograde Release of the Neurovascular Bundle with Preservation of Dorsal Venous Complex During Robot-assisted Radical Prostatectomy: Optimizing Functional Outcomes. Eur Urol 2020;77:628–35",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.08.039",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.08.038",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:41:55Z",
+      "timestamp": 1759585315977,
+      "version": "build-2065373602"
+    },
+    "reference-count": 22,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2021-02-01T00:00:00Z",
+          "timestamp": 1612137600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2021-02-01T00:00:00Z",
+          "timestamp": 1612137600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2020.08.038",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          5
+        ]
+      ],
+      "date-time": "2020-11-05T10:22:24Z",
+      "timestamp": 1604571744000
+    },
+    "page": "e47-e49",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Reply to Francesco Montorsi, Giorgio Gandaglia, Christoph Würnschimmel, Markus Graefen, Alberto Briganti, and Hartwig Huland’s Letter to the Editor re: Paolo Afonso de Carvalho, João A.B.A. Barbosa, Giuliano B. Guglielmetti, et al. Retrograde Release of the Neurovascular Bundle with Preservation of Dorsal Venous Complex During Robot-assisted Radical Prostatectomy: Optimizing Functional Outcomes. Eur Urol 2020;77:628–35. Incredible Results for Robot-assisted Nerve-sparing Radical Prostatectomy in Prostate Cancer Patients"
+    ],
+    "prefix": "10.1016",
+    "volume": "79",
+    "author": [
+      {
+        "given": "Rafael",
+        "family": "Ferreira Coelho",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1236-1175",
+        "authenticated-orcid": false,
+        "given": "Paulo",
+        "family": "Afonso de Carvalho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Giuliano",
+        "family": "Betoni Guglielmetti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maurício",
+        "family": "Dener Cordeiro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "William",
+        "family": "Carlos Nahas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "628",
+        "DOI": "10.1016/j.eururo.2018.07.003",
+        "article-title": "Retrograde release of the neurovascular bundle with preservation of dorsal venous complex during robot-assisted radical prostatectomy: optimizing functional outcomes",
+        "volume": "77",
+        "author": "de Carvalho",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "974",
+        "DOI": "10.1016/j.eururo.2013.06.046",
+        "article-title": "Beyond the learning curve of the Retzius-sparing approach for robot-assisted laparoscopic radical prostatectomy: oncologic and functional results of the first 200 patients with 1 year of follow-up",
+        "volume": "64",
+        "author": "Galfano",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1016/j.eururo.2010.04.032",
+        "article-title": "Complete periprostatic anatomy preservation during robot-assisted laparoscopic radical prostatectomy (RALP): the new pubovesical complex-sparing technique",
+        "volume": "58",
+        "author": "Asimakopoulos",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "648",
+        "DOI": "10.1016/j.eururo.2006.10.055",
+        "article-title": "Vattikuti Institute prostatectomy: contemporary technique and analysis of results",
+        "volume": "51",
+        "author": "Menon",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "677",
+        "DOI": "10.1016/j.eururo.2017.04.029",
+        "article-title": "A pragmatic randomized controlled trial examining the impact of the Retzius-sparing approach on early urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "72",
+        "author": "Dalela",
+        "year": "2017",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "320",
+        "DOI": "10.1016/j.eururo.2011.02.040",
+        "article-title": "Full functional length urethral sphincter preservation during radical prostatectomy",
+        "volume": "60",
+        "author": "Schlomm",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "751",
+        "DOI": "10.1016/j.eururo.2016.03.010",
+        "article-title": "The effect of salvage radiotherapy and its timing on the health-related quality of life of prostate cancer patients",
+        "volume": "70",
+        "author": "van Stam",
+        "year": "2016",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "442",
+        "DOI": "10.1016/j.rpor.2020.03.019",
+        "article-title": "The effect of radiation therapy on post-prostatectomy urinary function",
+        "volume": "25",
+        "author": "Jenkins",
+        "year": "2020",
+        "journal-title": "Rep Pract Oncol Radiother"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "436",
+        "DOI": "10.1056/NEJMoa1209978",
+        "article-title": "Long-term functional outcomes after treatment for localized prostate cancer",
+        "volume": "368",
+        "author": "Resnick",
+        "year": "2013",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "431",
+        "DOI": "10.1016/j.eururo.2012.05.044",
+        "article-title": "Systematic review and meta-analysis of perioperative outcomes and complications after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Novara",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "875",
+        "DOI": "10.1016/j.eururo.2020.05.041",
+        "article-title": "Modified apical dissection and lateral prostatic fascia preservation improves early postoperative functional recovery in robotic-assisted laparoscopic radical prostatectomy: results from a propensity score-matched analysis",
+        "volume": "78",
+        "author": "Moschovas",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0060",
+        "unstructured": "Worldwide Robotic Surgery Education. Video of RARP by Dr Coelho. https://4healthtv.play.livearena.com/Vod/56723f7d8fd5452ffde2f60444adeb6d."
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.6004/jnccn.2017.7064",
+        "article-title": "High variability in lymph node counts among an international cohort of pathologists: questioning the scientific validity of node counts",
+        "volume": "16",
+        "author": "Sherbeck",
+        "year": "2018",
+        "journal-title": "J Natl Compr Cancer Netw"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "368",
+        "DOI": "10.1016/j.eururo.2012.05.057",
+        "article-title": "Best practices in robot-assisted radical prostatectomy: recommendations of the Pasadena Consensus Panel",
+        "volume": "62",
+        "author": "Montorsi",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "1022",
+        "DOI": "10.1016/j.eururo.2010.01.040",
+        "article-title": "Predictive factors for positive surgical margins and their locations after robot-assisted laparoscopic radical prostatectomy",
+        "volume": "57",
+        "author": "Coelho",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.4103/0974-7796.65107",
+        "article-title": "Does nerve sparing radical prostatectomy increase the risk of positive surgical margins and biochemical progression?",
+        "volume": "2",
+        "author": "Alkhateeb",
+        "year": "2010",
+        "journal-title": "Urol Ann"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "1328",
+        "DOI": "10.1097/01.ju.0000138681.64035.dc",
+        "article-title": "The impact of surgical approach (nerve bundle preservation versus wide local excision) on surgical margins and biochemical recurrence following radical prostatectomy",
+        "volume": "172",
+        "author": "Ward",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "176",
+        "DOI": "10.1016/j.eururo.2004.09.002",
+        "article-title": "Influence of nerve-sparing (NS) procedure during radical prostatectomy (RP) on margin status and biochemical failure",
+        "volume": "47",
+        "author": "Palisaar",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1111/bju.14026",
+        "article-title": "A novel tool for predicting extracapsular extension during graded partial nerve sparing in radical prostatectomy",
+        "volume": "121",
+        "author": "Patel",
+        "year": "2018",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "917",
+        "DOI": "10.1056/NEJMoa1910038",
+        "article-title": "MRI-targeted, systematic, and combined biopsy for prostate cancer diagnosis",
+        "volume": "382",
+        "author": "Ahdoot",
+        "year": "2020",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "108",
+        "DOI": "10.1097/JU.0000000000000147",
+        "article-title": "The impact of experience on the risk of surgical margins and biochemical recurrence after robot-assisted radical prostatectomy: a learning curve study",
+        "volume": "202",
+        "author": "Bravi",
+        "year": "2019",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.038_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "428",
+        "DOI": "10.1007/s00428-006-0254-x",
+        "article-title": "Impact of pathology review of stage and margin status of radical prostatectomy specimens (EORTC trial 22911)",
+        "volume": "449",
+        "author": "van der Kwast",
+        "year": "2006",
+        "journal-title": "Virchows Arch"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820306898?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820306898?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:09:46Z",
+      "timestamp": 1759583386000
+    },
+    "score": 124.52229,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283820306898"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283820306898"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2020.08.038",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-2838"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Reply to Francesco Montorsi, Giorgio Gandaglia, Christoph Würnschimmel, Markus Graefen, Alberto Briganti, and Hartwig Huland’s Letter to the Editor re: Paolo Afonso de Carvalho, João A.B.A. Barbosa, Giuliano B. Guglielmetti, et al. Retrograde Release of the Neurovascular Bundle with Preservation of Dorsal Venous Complex During Robot-assisted Radical Prostatectomy: Optimizing Functional Outcomes. Eur Urol 2020;77:628–35. Incredible Results for Robot-assisted Nerve-sparing Radical Prostatectomy in Prostate Cancer Patients",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.08.038",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.08.039",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:41:47Z",
+      "timestamp": 1759585307784,
+      "version": "build-2065373602"
+    },
+    "reference-count": 2,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2021-02-01T00:00:00Z",
+          "timestamp": 1612137600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2021-02-01T00:00:00Z",
+          "timestamp": 1612137600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2020.08.041",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2020-12-16T03:52:01Z",
+      "timestamp": 1608090721000
+    },
+    "page": "e50-e51",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Reply to Francesco Montorsi, Giorgio Gandaglia, Christoph Würnschimmel, Markus Graefen, Alberto Briganti, and Hartwig Huland's Letter to the Editor re: Paolo Afonso de Carvalho, Joāo A.B.A. Barbosa, Giuliano B. Guglielmetti, et al. Retrograde Release of the Neurovascular Bundle with Preservation of Dorsal Venous Complex During Robot-assisted Radical Prostatectomy: Optimizing Functional Outcomes. Eur Urol 2020;77:628–35. Incredible Results for Robot-assisted Nerve-sparing Radical Prostatectomy in Prostate Cancer Patients"
+    ],
+    "prefix": "10.1016",
+    "volume": "79",
+    "author": [
+      {
+        "given": "Vipul",
+        "family": "Patel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2020.08.041_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "628",
+        "DOI": "10.1016/j.eururo.2018.07.003",
+        "article-title": "Retrograde release of the neurovascular bundle with preservation of dorsal venous complex during robot-assisted radical prostatectomy: optimizing functional outcomes",
+        "volume": "77",
+        "author": "de Carvalho",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.08.041_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "875",
+        "DOI": "10.1016/j.eururo.2020.05.041",
+        "article-title": "Modified apical dissection and lateral prostatic fascia preservation improves early postoperative functional recovery in robotic-assisted laparoscopic radical prostatectomy: results from a propensity score-matched analysis",
+        "volume": "78",
+        "author": "Moschovas",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820308496?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820308496?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:09:46Z",
+      "timestamp": 1759583386000
+    },
+    "score": 116.401924,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283820308496"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "references-count": 2,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283820308496"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2020.08.041",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-2838"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Reply to Francesco Montorsi, Giorgio Gandaglia, Christoph Würnschimmel, Markus Graefen, Alberto Briganti, and Hartwig Huland's Letter to the Editor re: Paolo Afonso de Carvalho, Joāo A.B.A. Barbosa, Giuliano B. Guglielmetti, et al. Retrograde Release of the Neurovascular Bundle with Preservation of Dorsal Venous Complex During Robot-assisted Radical Prostatectomy: Optimizing Functional Outcomes. Eur Urol 2020;77:628–35. Incredible Results for Robot-assisted Nerve-sparing Radical Prostatectomy in Prostate Cancer Patients",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.08.041",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.08.039",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          21
+        ]
+      ],
+      "date-time": "2026-01-21T09:38:50Z",
+      "timestamp": 1768988330596,
+      "version": "3.49.0"
+    },
+    "reference-count": 0,
+    "publisher": "FapUNIFESP (SciELO)",
+    "issue": "4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Int. braz j urol."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1590/s1677-5538.ibju.2015.0349",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          16
+        ]
+      ],
+      "date-time": "2017-08-16T19:37:49Z",
+      "timestamp": 1502912269000
+    },
+    "page": "782-782",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Robot-assisted laparoscopic radical prostatectomy with early retrograde release of the neurovascular bundle and endopelvic fascia sparing"
+    ],
+    "prefix": "10.1590",
+    "volume": "43",
+    "author": [
+      {
+        "given": "George Augusto Monteiro Lins de",
+        "family": "Albuquerque",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Instituto do Câncer de São Paulo,  Brasil; Universidade de São Paulo,  Brasil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Giuliano Betoni",
+        "family": "Guglielmetti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto do Câncer de São Paulo,  Brasil; Universidade de São Paulo,  Brasil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maurício Dener",
+        "family": "Cordeiro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto do Câncer de São Paulo,  Brasil; Universidade de São Paulo,  Brasil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "William Carlos",
+        "family": "Nahas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto do Câncer de São Paulo,  Brasil; Universidade de São Paulo,  Brasil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rafael Ferreira",
+        "family": "Coelho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Instituto do Câncer de São Paulo,  Brasil; Universidade de São Paulo,  Brasil"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "530",
+    "container-title": [
+      "International braz j urol"
+    ],
+    "link": [
+      {
+        "URL": "http://www.scielo.br/pdf/ibju/v43n4/1677-5538-ibju-43-04-0782.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2017-09-13T23:30:30Z",
+      "timestamp": 1505345430000
+    },
+    "score": 84.77397,
+    "resource": {
+      "primary": {
+        "URL": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1677-55382017000400782&lng=en&tlng=en"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1677-55382017000400782"
+    ],
+    "URL": "https://doi.org/10.1590/s1677-5538.ibju.2015.0349",
+    "ISSN": [
+      "1677-5538"
+    ],
+    "issn-type": [
+      {
+        "value": "1677-5538",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    }
+  }
+]

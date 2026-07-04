@@ -1,0 +1,1009 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          4
+        ]
+      ],
+      "date-time": "2026-05-04T10:22:49Z",
+      "timestamp": 1777890169781,
+      "version": "3.51.4"
+    },
+    "reference-count": 30,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2013-03-01T00:00:00Z",
+          "timestamp": 1362096000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2012.09.082",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2012-09-24T16:05:10Z",
+      "timestamp": 1348502710000
+    },
+    "page": "891-898",
+    "source": "Crossref",
+    "is-referenced-by-count": 78,
+    "title": [
+      "Impact of Complete Bladder Neck Preservation on Urinary Continence, Quality of Life and Surgical Margins After Radical Prostatectomy: A Randomized, Controlled, Single Blind Trial"
+    ],
+    "prefix": "10.1097",
+    "volume": "189",
+    "author": [
+      {
+        "given": "Joanne N.",
+        "family": "Nyarangi-Dix",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Heidelberg, Heidelberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jan Philipp",
+        "family": "Radtke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Heidelberg, Heidelberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Boris",
+        "family": "Hadaschik",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Heidelberg, Heidelberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sascha",
+        "family": "Pahernik",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Heidelberg, Heidelberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Markus",
+        "family": "Hohenfellner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Heidelberg, Heidelberg, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1016/j.juro.2012.03.005",
+        "article-title": "Survival benefit of radical prostatectomy in patients with localized prostate cancer: estimations of the number needed to treat according to tumor and patient characteristics",
+        "volume": "188",
+        "author": "Abdollah",
+        "year": "2012",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "981",
+        "DOI": "10.1056/NEJMoa1113135",
+        "article-title": "Prostate cancer mortality at 11 years of follow up. ERSPC Investigators",
+        "volume": "366",
+        "author": "Schröder",
+        "year": "2012",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "279",
+        "DOI": "10.1007/s10552-006-0087-6",
+        "article-title": "Screening for prostate cancer: a Cochrane systematic review",
+        "volume": "18",
+        "author": "Ilic",
+        "year": "2007",
+        "journal-title": "Cancer Causes Control"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1320",
+        "DOI": "10.1056/NEJMoa0810084",
+        "article-title": "Screening and prostate cancer mortality in a randomized European study",
+        "volume": "360",
+        "author": "Schröder",
+        "year": "2009",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1234",
+        "DOI": "10.1111/j.1464-410X.2006.06185.x",
+        "article-title": "Urinary incontinence after radical prostatectomy: incidence by definition, risk factors and temporal trend in a large series with a long term follow up",
+        "volume": "97",
+        "author": "Sacco",
+        "year": "2006",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "652",
+        "DOI": "10.1016/S0022-5347(17)35038-3",
+        "article-title": "Quality of life of incontinent men after radical prostatectomy",
+        "volume": "151",
+        "author": "Herr",
+        "year": "1994",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "2374",
+        "DOI": "10.1097/01.ju.0000097240.99415.a7",
+        "article-title": "Urinary continence and quality of life in the first year after radical perineal prostatectomy",
+        "volume": "170",
+        "author": "Young",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1035",
+        "DOI": "10.1016/j.juro.2007.10.081",
+        "article-title": "Mechanism of continence after repair of posterior urethral disruption: evidence of rhabdosphincter activity",
+        "volume": "179",
+        "author": "Whitson",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "934",
+        "DOI": "10.1016/S0090-4295(02)01596-0",
+        "article-title": "Intussusception of the reconstructed bladder neck leads to earlier continence after radical prostatectomy",
+        "volume": "59",
+        "author": "Walsh",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1016/S0090-4295(97)00463-9",
+        "article-title": "Update on bladder neck preservation during radical retropubic prostatectomy: impact on pathologic outcome, anastomotic strictures, and continence",
+        "volume": "51",
+        "author": "Shelfo",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "32",
+        "DOI": "10.1080/00365590310017280",
+        "article-title": "Role of bladder neck preservation in urinary continence following radical retropubic prostatectomy",
+        "volume": "38",
+        "author": "Selli",
+        "year": "2004",
+        "journal-title": "Scand J Urol Nephrol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "855",
+        "DOI": "10.1016/S0090-4295(02)01956-8",
+        "article-title": "Radical prostatectomy: bladder neck preservation and puboprostatic ligament sparing effects on continence and positive margins",
+        "volume": "60",
+        "author": "Deliveliotis",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1159/000314842",
+        "article-title": "Effect of bladder neck preservation during endoscopic extraperitoneal radical prostatectomy on urinary continence",
+        "volume": "85",
+        "author": "Stolzenburg",
+        "year": "2010",
+        "journal-title": "Urol Int"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "194",
+        "DOI": "10.1016/S0022-5347(05)68003-2",
+        "article-title": "Radical retropubic prostatectomy: bladder neck preservation versus reconstruction",
+        "volume": "163",
+        "author": "Poon",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib15",
+        "first-page": "23",
+        "article-title": "Bladder neck preservation during radical retropubic prostatectomy and postoperative urinary continence",
+        "volume": "6",
+        "author": "Razi",
+        "year": "2009",
+        "journal-title": "Urol J"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "783",
+        "DOI": "10.1111/j.1442-2042.2012.03028.x",
+        "article-title": "Preservation of the smooth muscular internal (vesical) sphincter and of the proximal urethra during retropubic radical prostatectomy: description of the technique",
+        "volume": "19",
+        "author": "Brunocilla",
+        "year": "2012",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "427",
+        "DOI": "10.1159/000020026",
+        "article-title": "Cultural adaptation of a quality of life measure for urinary incontinence",
+        "volume": "36",
+        "author": "Patrick",
+        "year": "1999",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "689",
+        "DOI": "10.1016/0090-4295(93)90534-H",
+        "article-title": "Bladder neck preservation and its impact on positive surgical margins during radical prostatectomy",
+        "volume": "42",
+        "author": "Gomez",
+        "year": "1993",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "566",
+        "DOI": "10.1016/0090-4295(93)90106-K",
+        "article-title": "Preservation of bladder neck fibers in radical prostatectomy",
+        "volume": "41",
+        "author": "Latiff",
+        "year": "1993",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "696",
+        "DOI": "10.1111/j.1464-410X.2010.09541.x",
+        "article-title": "Continence, potency and oncological outcomes after robotic assisted radical prostatectomy: early trifecta results of a high volume surgeon",
+        "volume": "106",
+        "author": "Patel",
+        "year": "2010",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "972",
+        "DOI": "10.1016/j.eururo.2009.09.017",
+        "article-title": "Anatomic bladder neck preservation during robotic assisted laparoscopic radical prostatectomy: description of technique and outcomes",
+        "volume": "56",
+        "author": "Freire",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "889",
+        "DOI": "10.1016/S0090-4295(96)00324-X",
+        "article-title": "Comparison of bladder neck preservation to bladder neck resection in maintaining postprostatectomy urinary continence",
+        "volume": "48",
+        "author": "Lowe",
+        "year": "1996",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "700",
+        "DOI": "10.1111/j.1442-2042.2011.02826.x",
+        "article-title": "Factors predicting continence recovery 1 month after radical prostatectomy: results of a multicenter survey",
+        "volume": "18",
+        "author": "Gacci",
+        "year": "2011",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "511",
+        "DOI": "10.1016/j.juro.2011.03.112",
+        "article-title": "Positive surgical margins after robotic assisted radical prostatectomy: a multi institutional study",
+        "volume": "186",
+        "author": "Patel",
+        "year": "2011",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "704",
+        "DOI": "10.1111/j.1442-2042.2008.02057.x",
+        "article-title": "Surgical margin status of open versus laparoscopic radical prostatectomy specimens",
+        "volume": "15",
+        "author": "Terakawa",
+        "year": "2008",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1037",
+        "DOI": "10.1016/j.eururo.2009.01.036",
+        "article-title": "Retropubic, laparoscopic, and robot assisted radical prostatectomy: a systematic review and cumulative analysis of comparative studies",
+        "volume": "55",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib27",
+        "series-title": "Intuitive Surgical Annual Report 2009",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib28",
+        "series-title": "ISRG 2011 Annual Report",
+        "year": "2011"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1088",
+        "DOI": "10.1016/j.urology.2010.03.054",
+        "article-title": "Critical appraisal of management of rectal injury during radical prostatectomy",
+        "volume": "76",
+        "author": "Roberts",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2012.09.082_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "608",
+        "DOI": "10.1016/j.juro.2009.10.020",
+        "article-title": "Incidence, clinical symptoms and management of rectourethral fistulas after radical prostatectomy",
+        "volume": "183",
+        "author": "Thomas",
+        "year": "2010",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534712049725?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534712049725?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2012.09.082",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2022-04-28T22:54:43Z",
+      "timestamp": 1651186483000
+    },
+    "score": 170.44574,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2012.09.082"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          3
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2012.09.082"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2012.09.082",
+    "relation": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.717958818.793463372",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.717958818.793464176",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T04:10:28Z",
+      "timestamp": 1651205428630
+    },
+    "reference-count": 4,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2013-08-01T00:00:00Z",
+          "timestamp": 1375315200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2013.03.047",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          3,
+          21
+        ]
+      ],
+      "date-time": "2013-03-21T03:03:17Z",
+      "timestamp": 1363834997000
+    },
+    "page": "815-816",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Re: Impact of Complete Bladder Neck Preservation on Urinary Continence, Quality of Life and Surgical Margins After Radical Prostatectomy: A Randomized, Controlled, Single Blind Trial"
+    ],
+    "prefix": "10.1097",
+    "volume": "190",
+    "author": [
+      {
+        "given": "Eugenio",
+        "family": "Brunocilla",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Bologna, Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cristian Vincenzo",
+        "family": "Pultrone",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Bologna, Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Marco",
+        "family": "Borghesi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Bologna, Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Riccardo",
+        "family": "Schiavina",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Bologna, Bologna, Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "10.1016/j.juro.2013.03.047_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "783",
+        "DOI": "10.1111/j.1442-2042.2012.03028.x",
+        "article-title": "Preservation of the smooth muscular internal (vesical) sphincter and of the proximal urethra during retropubic radical prostatectomy: description of the technique",
+        "volume": "19",
+        "author": "Brunocilla",
+        "year": "2012",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2013.03.047_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "194",
+        "DOI": "10.1016/S0022-5347(05)68003-2",
+        "article-title": "Radical retropubic prostatectomy: bladder neck preservation versus reconstruction",
+        "volume": "163",
+        "author": "Poon",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2013.03.047_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1016/S0090-4295(97)00463-9",
+        "article-title": "Update on bladder neck preservation during radical retropubic prostatectomy: impact on pathologic outcome, anastomotic strictures, and continence",
+        "volume": "51",
+        "author": "Shelfo",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2013.03.047_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "889",
+        "DOI": "10.1016/S0090-4295(96)00324-X",
+        "article-title": "Comparison of bladder neck preservation to bladder neck resection in maintaining postprostatectomy urinary continence",
+        "volume": "48",
+        "author": "Lowe",
+        "year": "1996",
+        "journal-title": "Urology"
+      }
+    ],
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534713036975?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534713036975?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2013.03.047",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T03:32:28Z",
+      "timestamp": 1651203148000
+    },
+    "score": 149.08908,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2013.03.047"
+      }
+    },
+    "subtitle": [
+      "J. N. Nyarangi-Dix, J. P. Radtke, B. Hadaschik, S. Pahernik and M. Hohenfellner\n            <i>\n              J Urol 2013;\n              <b>189:</b>\n              891–898\n            </i>"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          8
+        ]
+      ]
+    },
+    "references-count": 4,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2013.03.047"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2013.03.047",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          11
+        ]
+      ],
+      "date-time": "2024-07-11T07:40:52Z",
+      "timestamp": 1720683652850
+    },
+    "reference-count": 1,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2013-01-01T00:00:00Z",
+          "timestamp": 1356998400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Yearbook of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.yuro.2013.04.008",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2013-10-24T01:33:38Z",
+      "timestamp": 1382578418000
+    },
+    "page": "41-42",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "C",
+    "title": [
+      "Impact of Complete Bladder Neck Preservation on Urinary Continence, Quality of Life and Surgical Margins After Radical Prostatectomy: A Randomized, Controlled, Single Blind Trial"
+    ],
+    "prefix": "10.1016",
+    "volume": "2013",
+    "author": [
+      {
+        "given": "E.S.",
+        "family": "Rovner",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.yuro.2013.04.008_bib1o",
+        "first-page": "891",
+        "article-title": "Impact of complete bladder neck preservation on urinary continence, quality of life and surgical margins after radical prostatectomy: a randomized, controlled, single blind trial",
+        "volume": "189",
+        "author": "Nyarangi-Dix",
+        "year": "2013",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Yearbook of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0084407113000286?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0084407113000286?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2018-10-11T11:22:11Z",
+      "timestamp": 1539256931000
+    },
+    "score": 118.119,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0084407113000286"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "references-count": 1,
+    "alternative-id": [
+      "S0084407113000286"
+    ],
+    "URL": "https://doi.org/10.1016/j.yuro.2013.04.008",
+    "ISSN": [
+      "0084-4071"
+    ],
+    "issn-type": [
+      {
+        "value": "0084-4071",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    }
+  }
+]

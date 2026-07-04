@@ -1,0 +1,1079 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2026-05-12T07:19:11Z",
+      "timestamp": 1778570351170,
+      "version": "3.51.4"
+    },
+    "reference-count": 0,
+    "publisher": "South African Medical Association NPC",
+    "issue": "7",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "S Afr Med J"
+    ],
+    "DOI": "10.7196/samj.2018.v108i7.13007",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          13
+        ]
+      ],
+      "date-time": "2018-07-13T12:13:48Z",
+      "timestamp": 1531484028000
+    },
+    "page": "585",
+    "source": "Crossref",
+    "is-referenced-by-count": 27,
+    "title": [
+      "Striking increase in the incidence of infective endocarditis associated with recreational drug abuse in urban South Africa"
+    ],
+    "prefix": "10.7196",
+    "volume": "108",
+    "author": [
+      {
+        "given": "R",
+        "family": "Meel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M R",
+        "family": "Essop",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "4425",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          26
+        ]
+      ]
+    },
+    "container-title": [
+      "South African Medical Journal"
+    ],
+    "link": [
+      {
+        "URL": "http://www.samj.org.za/index.php/samj/article/download/12330/8519",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          30
+        ]
+      ],
+      "date-time": "2018-07-30T13:59:46Z",
+      "timestamp": 1532959186000
+    },
+    "score": 131.19832,
+    "resource": {
+      "primary": {
+        "URL": "http://www.samj.org.za/index.php/samj/article/view/12330"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          26
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "7",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            27
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.7196/samj.2018.v108i7.13007",
+    "ISSN": [
+      "2078-5135",
+      "0256-9574"
+    ],
+    "issn-type": [
+      {
+        "value": "2078-5135",
+        "type": "electronic"
+      },
+      {
+        "value": "0256-9574",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          26
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2025-09-12T18:27:19Z",
+      "timestamp": 1757701639383
+    },
+    "reference-count": 45,
+    "publisher": "IntechOpen",
+    "isbn-type": [
+      {
+        "value": "9781789840117",
+        "type": "print"
+      },
+      {
+        "value": "9781789840124",
+        "type": "electronic"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              17
+            ]
+          ],
+          "date-time": "2019-07-17T00:00:00Z",
+          "timestamp": 1563321600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/3.0/legalcode"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.5772/intechopen.84319",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          26
+        ]
+      ],
+      "date-time": "2019-02-26T06:54:51Z",
+      "timestamp": 1551164091000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Right-Sided Infective Endocarditis Secondary to Intravenous Drug Abuse"
+    ],
+    "prefix": "10.5772",
+    "author": [
+      {
+        "given": "Ruchika",
+        "family": "Meel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "3774",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref=1",
+        "unstructured": "Sexton DJ, Fowler VG. Clinical manifestations and evaluation of adults with suspected native valve endocarditis. U: UpToDate. Otto CM, ur., Baron EL, ur. UpToDate (Internet). 2017:1-50"
+      },
+      {
+        "key": "ref=2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mylonakis E, Calderwood SB. Infective endocarditis in adults. New England Journal of Medicine. 2001;345:1318-1330",
+        "DOI": "10.1056/NEJMra010082"
+      },
+      {
+        "key": "ref=3",
+        "unstructured": "Lilly LS, Braunwald E. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. Philadelphia: Elsevier Health Sciences; 2012"
+      },
+      {
+        "key": "ref=4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hussey HH, Katz S. Infections resulting from narcotic addiction; report of 102 cases. The American Journal of Medicine. 1950;9:186",
+        "DOI": "10.1016/0002-9343(50)90021-0"
+      },
+      {
+        "key": "ref=5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wurcel AG, Anderson JE, Chui KK, et al. Increasing infectious endocarditis admissions among young people who inject drugs. Open Forum Infectious Diseases. 2016;3:ofw157",
+        "DOI": "10.1093/ofid/ofw157"
+      },
+      {
+        "key": "ref=6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Schranz AJ, Fleischauer A, Chu VH, et al. Trends in drug use-associated infective endocarditis and heart valve surgery, 2007 to 2017: A study of Statewide discharge data. Annals of Internal Medicine. 2019;170:31-40",
+        "DOI": "10.7326/M18-2124"
+      },
+      {
+        "key": "ref=7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Meel R, Essop M. Striking increase in the incidence of infective endocarditis associated with recreational drug abuse in urban South Africa. South African Medical Journal. 2018;108(7):585-589",
+        "DOI": "10.7196/SAMJ.2018.v108i7.13007"
+      },
+      {
+        "key": "ref=8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Frontera JA, Gradon JD. Right-side endocarditis in injection drug users: Review of proposed mechanisms of pathogenesis. Clinical Infectious Diseases. 2000;30:374-379",
+        "DOI": "10.1086/313664"
+      },
+      {
+        "key": "ref=9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wilson LE, Thomas DL, Astemborski J, Freedman TL, Vlahov D. Prospective study of infective endocarditis among injection drug users. The Journal of Infectious Diseases. 2002;185:1761-1766",
+        "DOI": "10.1086/340827"
+      },
+      {
+        "key": "ref=10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Spijkerman IJ, van Ameijden EJ, Mientjes GH, et al. Human immunodeficiency virus infection and other risk factors for skin abscesses and endocarditis among injection drug users. Journal of Clinical Epidemiology. 1996;49:1149",
+        "DOI": "10.1016/0895-4356(96)00180-1"
+      },
+      {
+        "key": "ref=11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Manoff SB, Vlahov D, Herskowitz A, et al. Human immunodeficiency virus infection and infective endocarditis among injecting drug users. Epidemiology. 1996;7:566",
+        "DOI": "10.1097/00001648-199611000-00001"
+      },
+      {
+        "key": "ref=12",
+        "unstructured": "Weinstein WL, Brusch JL. Infective Endocarditis. New York City: Oxford University Press; 1996"
+      },
+      {
+        "key": "ref=13",
+        "unstructured": "Sande MA, Lee BL, Mills J, et al. Endocarditis in intravenous drug users. In: Kaye D, editor. Infective Endocarditis. New York City: Raven Press; 1992. p. 345"
+      },
+      {
+        "key": "ref=14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mathew J, Addai T, Anand A, et al. Clinical features, site of involvement, bacteriologic findings, and outcome of infective endocarditis in intravenous drug users. Archives of Internal Medicine. 1995;155:1641",
+        "DOI": "10.1001/archinte.1995.00430150125013"
+      },
+      {
+        "key": "ref=15",
+        "unstructured": "Durack DT, Beeson PB. Experimental bacterial endocarditis. I. Colonization of a sterile vegetation. British Journal of Experimental Pathology. 1972;53:44"
+      },
+      {
+        "key": "ref=16",
+        "unstructured": "Werdan K, Dietz S, Löffler B, et al. Mechanisms of infective endocarditis: Pathogen-host interaction and risk states. Nature Reviews. Cardiology. 2014;11:35"
+      },
+      {
+        "key": "ref=17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Habib G, Lancellotti P, Antunes MJ, Bongiorni MG, Casalta JP, Del Zotti F, Dulgheru R, El Khoury G, Erba PA, Iung B, Miro JM. 2015 ESC guidelines for the management of infective endocarditis: The task force for the management of infective endocarditis of the European Society of Cardiology (ESC) endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). European Heart Journal. 2015;36:3075-3128",
+        "DOI": "10.1093/eurheartj/ehv319"
+      },
+      {
+        "key": "ref=18",
+        "unstructured": "Carozza A, De Santo LS, Romano G, Della CA, Ursomando F, Scardone M, et al. Infective endocarditis in intravenous drug abusers: Patterns of presentation and long-term outcomes of surgical treatment. The Journal of Heart Valve Disease. 2006;15:125-131"
+      },
+      {
+        "key": "ref=19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Westphal N, Plicht B, Naber C. Infective endocarditis—Prophylaxis, diagnostic criteria, and treatment. Deutsches Ärzteblatt International. 2009;106(28-29):481",
+        "DOI": "10.3238/arztebl.2009.0481"
+      },
+      {
+        "key": "ref=20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "San Roman JA, Vilacosta I, Lopez J, Revilla A, Arnold R, Sevilla T, et al. Role of transthoracic and transesophageal echocardiography in right-sided endocarditis: One echocardiographic modality does not fit all. Journal of the American Society of Echocardiography. 2012;25:807-814",
+        "DOI": "10.1016/j.echo.2012.05.016"
+      },
+      {
+        "key": "ref=21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "San Roman JA, Vilacosta I, Zamorano JL, Almeria C, Sanchez-Harguindey L. Transesophageal echocardiography in right-sided endocarditis. Journal of the American College of Cardiology. 1993;21:1226-1230",
+        "DOI": "10.1016/0735-1097(93)90250-5"
+      },
+      {
+        "key": "ref=22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Winslow T, Foster E, Adams JR, Schiller NB. Pulmonary valve endocarditis: Improveddiagnosis with biplane transesophageal echocardiography. Journal of the American Society of Echocardiography. 1992;5:206-210",
+        "DOI": "10.1016/S0894-7317(14)80556-7"
+      },
+      {
+        "key": "ref=23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Suzuki J, Johnson J, Montgomery M, et al. Outpatient parenteral antimicrobial therapy among people who inject drugs: A review of the literature. Open Forum Infectious Diseases. 2018;5:ofy194",
+        "DOI": "10.1093/ofid/ofy194"
+      },
+      {
+        "key": "ref=24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ribera E, Gomez-Jimenez J, Cortes E, del Valle O, Planes A, Gonzalez-Alujas T, et al. Effectiveness of cloxacillin with and without gentamicin in short-term therapy for right-sided Staphylococcus aureus endocarditis. A randomized, controlled trial. Annals of Internal Medicine. 1996;125:969-974",
+        "DOI": "10.7326/0003-4819-125-12-199612150-00005"
+      },
+      {
+        "key": "ref=25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hecht SR, Berger M. Right-sided endocarditis in intravenous drug users. Prognostic features in 102 episodes. Annals of Internal Medicine. 1992;117:560-566",
+        "DOI": "10.7326/0003-4819-117-7-560"
+      },
+      {
+        "key": "ref=26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fortun J, Pérez-Molina JA, Añón MT, Martinez-Beltran J, Loza E, Guerrero A. Right-sided endocarditis caused by Staphylococcus aureus in drug abusers. Antimicrobial Agents and Chemotherapy. 1995;39:525-528",
+        "DOI": "10.1128/AAC.39.2.525"
+      },
+      {
+        "key": "ref=27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pulvirenti JJ, Kerns E, Benson C, Lisowski J, Demarais P, Weinstein RA. Infective endocarditis in injection drug users: Importance of human immunodeficiency virus serostatus and degree of immunosuppression. Clinical Infectious Diseases. 1996;22:40-45",
+        "DOI": "10.1093/clinids/22.1.40"
+      },
+      {
+        "key": "ref=28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Akinosoglou K, Apostolakis E, Koutsogiannis N, Leivaditis V, Gogos CA. Rightsided infective endocarditis: Surgical management. European Journal of Cardio-Thoracic Surgery 2012;42:470-479",
+        "DOI": "10.1093/ejcts/ezs084"
+      },
+      {
+        "key": "ref=29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Botsford KB, Weinstein RA, Nathan CR, Kabins SA. Selective survival in pentazocine and tripelennamine of Pseudomonas aeruginosa serotype O11 from drug addicts. The Journal of Infectious Diseases. 1985;151:209-216",
+        "DOI": "10.1093/infdis/151.2.209"
+      },
+      {
+        "key": "ref=30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rabkin DG, Mokadam NA, Miller DW, et al. Long-term outcome for the surgical treatment of infective endocarditis with a focus on intravenous drug users. The Annals of Thoracic Surgery. 2012;93:51",
+        "DOI": "10.1016/j.athoracsur.2011.08.016"
+      },
+      {
+        "key": "ref=31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Thalme A, Westling K, Julander I. In-hospital and long-term mortality in infective endocarditis in injecting drug users compared to non-drug users: A retrospective study of 192 episodes. Scandinavian Journal of Infectious Diseases. 2007;39:197",
+        "DOI": "10.1080/00365540600978856"
+      },
+      {
+        "key": "ref=32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kim JB, Ejiofor JI, Yammine M, et al. Surgical outcomes of infective endocarditis among intravenous drug users. The Journal of Thoracic and Cardiovascular Surgery. 2016;152:832",
+        "DOI": "10.1016/j.jtcvs.2016.02.072"
+      },
+      {
+        "key": "ref=33",
+        "unstructured": "Sexton DJ, Chu VH. Epidemiology, Risk Factors and Microbiology of Infective Endocarditis. Waltham: UpToDate; 2011"
+      },
+      {
+        "key": "ref=34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gaca JG, Sheng S, Daneshmand M, Rankin JS, Williams ML, O’Brien SM, et al. Current outcomes for tricuspid valve infective endocarditis surgery in North America. The Annals of Thoracic Surgery. 2013;96:1374-1381",
+        "DOI": "10.1016/j.athoracsur.2013.05.046"
+      },
+      {
+        "key": "ref=35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ortiz-Bautista C, López J, García-Granja PE, et al. Current profile of infective endocarditis in intravenous drug users: The prognostic relevance of the valves involved. International Journal of Cardiology. 2015;187:472",
+        "DOI": "10.1016/j.ijcard.2015.03.368"
+      },
+      {
+        "key": "ref=36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Abrams B, Sklaver A, Hoffman T, Greenman R. Single or combination therapy of staphylococcal endocarditis in intravenous drug abusers. Annals of Internal Medicine. 1979;90:789",
+        "DOI": "10.7326/0003-4819-90-5-789"
+      },
+      {
+        "key": "ref=37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Menda KB, Gorbach SL. Favorable experience with bacterial endocarditis in heroin addicts. Annals of Internal Medicine. 1973;78:25",
+        "DOI": "10.7326/0003-4819-78-1-25"
+      },
+      {
+        "key": "ref=38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "DiNubile MJ. Short-course antibiotic therapy for right-sided endocarditis caused by Staphylococcus aureus in injection drug users. Annals of Internal Medicine. 1994;121:873",
+        "DOI": "10.7326/0003-4819-121-11-199412010-00009"
+      },
+      {
+        "key": "ref=39",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mathew J, Abreo G, Namburi K, et al. Results of surgical treatment for infective endocarditis in intravenous drug users. Chest. 1995;108:73",
+        "DOI": "10.1378/chest.108.1.73"
+      },
+      {
+        "key": "ref=40",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Martín-Dávila P, Navas E, Fortún J, et al. Analysis of mortality and risk factors associated with native valve endocarditis in drug users: The importance of vegetation size. American Heart Journal. 2005;150:1099",
+        "DOI": "10.1016/j.ahj.2005.02.009"
+      },
+      {
+        "key": "ref=41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Robbins MJ, Frater RW, Soeiro R, et al. Influence of vegetation size on clinical outcome of right-sided infective endocarditis. The American Journal of Medicine. 1986;80:165",
+        "DOI": "10.1016/0002-9343(86)90004-5"
+      },
+      {
+        "key": "ref=42",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bayer AS, Blomquist IK, Bello E, et al. Tricuspid valve endocarditis due to Staphylococcus aureus. Correlation of two-dimensional echocardiography with clinical outcome. Chest. 1988;93:247",
+        "DOI": "10.1378/chest.93.2.247"
+      },
+      {
+        "key": "ref=43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Østerdal OB, Salminen PR, Jordal S, et al. Cardiac surgery for infective endocarditis in patients with intravenous drug use. Interactive Cardiovascular and Thoracic Surgery. 2016;22:633",
+        "DOI": "10.1093/icvts/ivv397"
+      },
+      {
+        "key": "ref=44",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rosenthal ES, Karchmer AW, Theisen-Toupal J, et al. Suboptimal addiction interventions for patients hospitalized with injection drug use-associated infective endocarditis. The American Journal of Medicine. 2016;129:481",
+        "DOI": "10.1016/j.amjmed.2015.09.024"
+      },
+      {
+        "key": "ref=45",
+        "unstructured": "Yeo KK, Chang WS, Lau JM, et al. Valve replacement in endocarditis: Setting limits in noncompliant intravenous drug abusers. Hawaii Medical Journal. 2006;65:168-171"
+      }
+    ],
+    "container-title": [
+      "Infective Endocarditis"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.intechopen.com/download/pdf/65552",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          17
+        ]
+      ],
+      "date-time": "2019-07-17T11:56:56Z",
+      "timestamp": 1563364616000
+    },
+    "score": 58.898933,
+    "resource": {
+      "primary": {
+        "URL": "https://www.intechopen.com/books/infective-endocarditis/right-sided-infective-endocarditis-secondary-to-intravenous-drug-abuse"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          17
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781789840117",
+      "9781789840124"
+    ],
+    "references-count": 45,
+    "URL": "https://doi.org/10.5772/intechopen.84319",
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2026-05-12T07:19:56Z",
+      "timestamp": 1778570396293,
+      "version": "3.51.4"
+    },
+    "reference-count": 0,
+    "publisher": "South African Medical Association NPC",
+    "issue": "12",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "S Afr Med J"
+    ],
+    "DOI": "10.7196/samj.8291",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          12,
+          2
+        ]
+      ],
+      "date-time": "2014-12-02T04:02:17Z",
+      "timestamp": 1417492937000
+    },
+    "page": "853",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Tricuspid valve endocarditis associated with intravenous nyoape use: A report of 3 cases"
+    ],
+    "prefix": "10.7196",
+    "volume": "104",
+    "author": [
+      {
+        "given": "Ruchika",
+        "family": "Meel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ferande",
+        "family": "Peters",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mohammed Rafique",
+        "family": "Essop",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "4425",
+    "published-online": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          19
+        ]
+      ]
+    },
+    "container-title": [
+      "South African Medical Journal"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          29
+        ]
+      ],
+      "date-time": "2016-08-29T02:56:04Z",
+      "timestamp": 1472439364000
+    },
+    "score": 53.9467,
+    "resource": {
+      "primary": {
+        "URL": "http://www.samj.org.za/index.php/samj/article/view/8291"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          19
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "12",
+      "published-online": {
+        "date-parts": [
+          [
+            2014,
+            12,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.7196/samj.8291",
+    "ISSN": [
+      "2078-5135"
+    ],
+    "issn-type": [
+      {
+        "value": "2078-5135",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          11,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          6
+        ]
+      ],
+      "date-time": "2026-04-06T18:41:46Z",
+      "timestamp": 1775500906541,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "South African Medical Association NPC",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "S Afr Med J"
+    ],
+    "DOI": "10.7196/samj.2018.v108i5.13004",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          26
+        ]
+      ],
+      "date-time": "2018-04-26T12:18:05Z",
+      "timestamp": 1524745085000
+    },
+    "page": "393",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Fanconi anaemia in South Africa: Past, present and future"
+    ],
+    "prefix": "10.7196",
+    "volume": "108",
+    "author": [
+      {
+        "given": "C",
+        "family": "Feben",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "T",
+        "family": "Wainstein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J",
+        "family": "Kromberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "F",
+        "family": "Essop",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A",
+        "family": "Krause",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "4425",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          25
+        ]
+      ]
+    },
+    "container-title": [
+      "South African Medical Journal"
+    ],
+    "link": [
+      {
+        "URL": "http://www.samj.org.za/index.php/samj/article/download/12285/8471",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          13
+        ]
+      ],
+      "date-time": "2018-07-13T13:10:55Z",
+      "timestamp": 1531487455000
+    },
+    "score": 45.259567,
+    "resource": {
+      "primary": {
+        "URL": "http://www.samj.org.za/index.php/samj/article/view/12285"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          25
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            26
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.7196/samj.2018.v108i5.13004",
+    "ISSN": [
+      "2078-5135",
+      "0256-9574"
+    ],
+    "issn-type": [
+      {
+        "value": "2078-5135",
+        "type": "electronic"
+      },
+      {
+        "value": "0256-9574",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          25
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          9
+        ]
+      ],
+      "date-time": "2025-04-09T04:11:46Z",
+      "timestamp": 1744171906279,
+      "version": "3.40.3"
+    },
+    "reference-count": 0,
+    "publisher": "South African Medical Association NPC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              18
+            ]
+          ],
+          "date-time": "2025-02-18T00:00:00Z",
+          "timestamp": 1739836800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "S Afr Med J"
+    ],
+    "abstract": "<jats:p>\n\n\n\nBackground. Infective endocarditis (IE) poses significant diagnostic and therapeutic challenges, especially in cases of blood culture-negative infective endocarditis (BCNIE). Among patients undergoing surgery for IE, valve tissue may be evaluated for additional microbiological information by performing a broad-range 16S rDNA polymerase chain reaction (PCR) test, tissue culture and tissue histopathology. In patients with BCNIE, these diagnostic tests may identify the causative agents, guide further clinical management and improve local IE-related epidemiological data. The clinical utility of additional analysis of explanted tissue in a local South African (SA) setting has yet to be described.\nObjectives. To assess the clinical utility of performing PCR, culture and histopathology on the tissue of surgically explanted valves in BCNIE patients in an SA public sector hospital. We assess their diagnostic yield and treatment impact in a cohort of BCNIE patients treated with empirical antibiotic regimens.\nMethods. We analysed data from the Groote Schuur Hospital (GSH) Infective Endocarditis Registry, a prospective observational study of adult patients with infective endocarditis. Participants for this analysis were selected based on clinical and pathological criteria for IE and negative blood cultures. All participants were treated between January 2017 and March 2021.\nResults. During the study period, we identified 165 IE cases, 57 (34.5%) of which were blood-culture negative. BCNIE patients had a mean (standard deviation) age of 40.2 (13.4) years, and 41 (71.9%) were male. Twenty-seven of the 57 BCNIE patients underwent cardiac surgery and had tissue analysis performed. Tissue PCR identified an aetiological agent in 17/27 (63%) cases, with Bartonella spp. (12/27, 44%) being the most common organism. Tissue culture was positive in 3/27 (11%) cases, but the organisms identified were thought to reflect sample contamination. Tissue histopathology was performed in 22/27 (81.5%) cases and provided macroscopic confirmation of IE, but did not identify any specific organisms in any of the specimens. Only a small subset of the overall BCNIE cohort (11/57 (19.3%)) had serum serology for Bartonella spp. and Coxiella spp. performed, and 5/11 (45.5%) were positive for Bartonella spp. There was a 100% concordance rate between positive serum serology and tissue PCR. Tissue PCR impacted the antimicrobial regimen in 20/27 (74%) cases. Tissue culture and tissue histopathology did not influence antibiotic regimens in any patients.\nConclusion. In this single-centre study, perioperative serum serological testing was underutilised in BCNIE. Tissue PCR was valuable in determining the aetiology of BCNIE, and influenced management. Tissue culture and histopathology had a poor yield and added little value in identifying the microbiological cause of BCNIE. Finally, the most common BCNIE causative organism identified by additional non-culture testing in our setting is Bartonella spp.\n\n\n\n</jats:p>",
+    "DOI": "10.7196/samj.2025.v115i1.2529",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2025-02-05T10:02:59Z",
+      "timestamp": 1738749779000
+    },
+    "page": "e2529",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The clinical utility of tissue polymerase chain reaction, tissue culture and tissue histology in blood culture-negative infective endocarditis in South Africa – insights from the Groote Schuur Hospital Infective Endocarditis Registry"
+    ],
+    "prefix": "10.7196",
+    "author": [
+      {
+        "given": "W",
+        "family": "Endres",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9452-9412",
+        "authenticated-orcid": false,
+        "given": "P",
+        "family": "Mkoko",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M",
+        "family": "Ntsekhe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "4425",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ]
+    },
+    "container-title": [
+      "South African Medical Journal"
+    ],
+    "link": [
+      {
+        "URL": "https://samajournals.co.za/index.php/samj/article/download/2529/1255",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://samajournals.co.za/index.php/samj/article/download/2529/1255",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2025-04-08T05:40:39Z",
+      "timestamp": 1744090839000
+    },
+    "score": 41.953655,
+    "resource": {
+      "primary": {
+        "URL": "https://samajournals.co.za/index.php/samj/article/view/2529"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.7196/samj.2025.v115i1.2529",
+    "ISSN": [
+      "2078-5135",
+      "0256-9574"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2078-5135"
+      },
+      {
+        "type": "print",
+        "value": "0256-9574"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ]
+    }
+  }
+]

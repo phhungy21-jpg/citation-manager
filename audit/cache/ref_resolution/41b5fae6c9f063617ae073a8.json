@@ -1,0 +1,633 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2026-06-25T22:45:29Z",
+      "timestamp": 1782427529543,
+      "version": "3.54.5"
+    },
+    "reference-count": 0,
+    "publisher": "World Health Organization",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.2471/b09131",
+    "type": "monograph",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          15
+        ]
+      ],
+      "date-time": "2024-10-15T10:38:42Z",
+      "timestamp": 1728988722000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 23,
+    "title": [
+      "WHO advocacy strategy for mental health, brain health and substance use"
+    ],
+    "prefix": "10.2471",
+    "author": [
+      {
+        "name": "World Health Organization",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1305",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          10
+        ]
+      ]
+    },
+    "original-title": [
+      "WHO advocacy strategy for mental health, brain health and substance use"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          27
+        ]
+      ],
+      "date-time": "2025-08-27T21:45:51Z",
+      "timestamp": 1756331151000
+    },
+    "score": 60.912598,
+    "resource": {
+      "primary": {
+        "URL": "https://iris.who.int/handle/10665/379185"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          10
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.2471/b09131",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "American Psychological Association",
+        "acronym": [
+          "APA"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          16
+        ]
+      ],
+      "date-time": "2026-06-16T00:52:20Z",
+      "timestamp": 1781571140989,
+      "version": "3.54.5"
+    },
+    "reference-count": 0,
+    "publisher": "American Psychological Association (APA)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "DOI": "10.1037/e400972004-001",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2013-02-20T03:25:22Z",
+      "timestamp": 1361330722000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 65,
+    "title": [
+      "Child mental health and psychosocial development."
+    ],
+    "prefix": "10.1037",
+    "author": [
+      {
+        "name": "WHO Expert Committee on Mental Health, World Health Organization, Geneva, Switzerland",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15",
+    "container-title": [
+      "PsycEXTRA Dataset"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2024-02-13T22:41:27Z",
+      "timestamp": 1707864087000
+    },
+    "score": 56.955406,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.apa.org/doi/10.1037/e400972004-001"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "400972004-001"
+    ],
+    "URL": "https://doi.org/10.1037/e400972004-001",
+    "published": {
+      "date-parts": [
+        [
+          1977
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "American Psychological Association",
+        "acronym": [
+          "APA"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2026-06-06T09:28:16Z",
+      "timestamp": 1780738096795,
+      "version": "3.54.1"
+    },
+    "reference-count": 0,
+    "publisher": "American Psychological Association (APA)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "DOI": "10.1037/e409862004-001",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          2,
+          22
+        ]
+      ],
+      "date-time": "2013-02-22T12:41:39Z",
+      "timestamp": 1361536899000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 41,
+    "title": [
+      "Organization of mental health services in developing countries: Sixteenth Report of the WHO Expert Committee on Mental Health."
+    ],
+    "prefix": "10.1037",
+    "author": [
+      {
+        "name": "World Health Organization Expert Committee on Mental Health, Geneva, Switzerland",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15",
+    "container-title": [
+      "PsycEXTRA Dataset"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2024-02-13T22:20:45Z",
+      "timestamp": 1707862845000
+    },
+    "score": 56.285973,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.apa.org/doi/10.1037/e409862004-001"
+      }
+    },
+    "subtitle": [
+      "(409862004-001)"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "409862004-001"
+    ],
+    "URL": "https://doi.org/10.1037/e409862004-001",
+    "published": {
+      "date-parts": [
+        [
+          1975
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          6
+        ]
+      ],
+      "date-time": "2024-07-06T00:03:04Z",
+      "timestamp": 1720224184175
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2013-02-01T00:00:00Z",
+          "timestamp": 1359676800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Adolescent Health"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jadohealth.2012.10.188",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2013-01-17T04:46:15Z",
+      "timestamp": 1358397975000
+    },
+    "page": "S80-S81",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "special_numbering": "S1",
+    "title": [
+      "124. Mental Health Gap in School-Based Services in Two Massachusetts Towns: Service Assessment Using the World Health Organization Assessment Instrument for Mental Health Systems (WHO-AIMS)"
+    ],
+    "prefix": "10.1016",
+    "volume": "52",
+    "author": [
+      {
+        "given": "Elysia",
+        "family": "Alvarez",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kerim",
+        "family": "Munir",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Journal of Adolescent Health"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1054139X1200609X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1054139X1200609X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          19
+        ]
+      ],
+      "date-time": "2018-10-19T12:56:37Z",
+      "timestamp": 1539953797000
+    },
+    "score": 55.63876,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1054139X1200609X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1054139X1200609X"
+    ],
+    "URL": "https://doi.org/10.1016/j.jadohealth.2012.10.188",
+    "ISSN": [
+      "1054-139X"
+    ],
+    "issn-type": [
+      {
+        "value": "1054-139X",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2022-03-30T14:00:44Z",
+      "timestamp": 1648648844578
+    },
+    "reference-count": 0,
+    "publisher": "RCN Publishing Ltd.",
+    "issue": "7",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Mental Health Practice"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.7748/mhp.4.7.4.s8",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          6,
+          10
+        ]
+      ],
+      "date-time": "2016-06-10T12:45:59Z",
+      "timestamp": 1465562759000
+    },
+    "page": "4-4",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "World health day to raise profile of mental health issues"
+    ],
+    "prefix": "10.7748",
+    "volume": "4",
+    "author": [
+      {
+        "given": "Ian",
+        "family": "McMillan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "4499",
+    "container-title": [
+      "Mental Health Practice"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2016-10-04T22:25:42Z",
+      "timestamp": 1475619942000
+    },
+    "score": 55.22371,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.rcni.com/doi/10.7748/mhp.4.7.4.s8"
+      }
+    },
+    "subtitle": [
+      "News 6th European mental health conference, glasgow – March 2001"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.7748/mhp.4.7.4.s8"
+    ],
+    "URL": "https://doi.org/10.7748/mhp.4.7.4.s8",
+    "ISSN": [
+      "1465-8720",
+      "2047-895X"
+    ],
+    "issn-type": [
+      {
+        "value": "1465-8720",
+        "type": "print"
+      },
+      {
+        "value": "2047-895X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          4
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2022-03-30T17:35:38Z",
+      "timestamp": 1648661738059
+    },
+    "reference-count": 0,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "17",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sci Am"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1857,
+          1,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1038/scientificamerican01031857-133",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          6,
+          9
+        ]
+      ],
+      "date-time": "2015-06-09T13:17:38Z",
+      "timestamp": 1433855858000
+    },
+    "page": "133-133",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Important from Washington—Another New Patent Bill before Congress"
+    ],
+    "prefix": "10.1038",
+    "volume": "12",
+    "member": "297",
+    "container-title": [
+      "Scientific American"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          12
+        ]
+      ],
+      "date-time": "2021-01-12T20:31:38Z",
+      "timestamp": 1610483498000
+    },
+    "score": 52.237156,
+    "resource": {
+      "primary": {
+        "URL": "https://www.scientificamerican.com/article/important-from-washington-another"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1857,
+          1,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "17",
+      "published-print": {
+        "date-parts": [
+          [
+            1857,
+            1,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "scientificamerican01031857-133"
+    ],
+    "URL": "https://doi.org/10.1038/scientificamerican01031857-133",
+    "ISSN": [
+      "0036-8733"
+    ],
+    "issn-type": [
+      {
+        "value": "0036-8733",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1857,
+          1,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2025-12-16T14:30:56Z",
+      "timestamp": 1765895456503,
+      "version": "3.48.0"
+    },
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Rowman & Littlefield",
+    "isbn-type": [
+      {
+        "value": "9798881835880",
+        "type": "electronic"
+      },
+      {
+        "value": "9781538170922",
+        "type": "print"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "10.5040/9798881835880.ch-8",
+    "type": "other",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2025-12-16T14:15:32Z",
+      "timestamp": 1765894532000
+    },
+    "page": "133-143",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Oral History Discussion with Bill Webster"
+    ],
+    "prefix": "10.5040",
+    "member": "2984",
+    "container-title": [
+      "Bill Cohen’s 1972 Campaign for Congress"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2025-12-16T14:22:24Z",
+      "timestamp": 1765894944000
+    },
+    "score": 50.8917,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bloomsburycollections.com/monograph-detail?docid=b-9798881835880&tocid=b-9798881835880-chapter8"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "ISBN": [
+      "9798881835880",
+      "9781538170922"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.5040/9798881835880.ch-8",
+    "published": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          8
+        ]
+      ],
+      "date-time": "2024-12-08T18:10:16Z",
+      "timestamp": 1733681416893,
+      "version": "3.30.1"
+    },
+    "description": "ASCO urges Congress to protect Medicare beneficiaries with cancer and other medical conditions by passing additional legislation to avoid cuts to the program.",
+    "reference-count": 0,
+    "publisher": "American Society of Clinical Oncology (ASCO)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1200/acon.17.00297",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          5
+        ]
+      ],
+      "date-time": "2024-12-05T15:34:23Z",
+      "timestamp": 1733412863000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Congress Must Act to Avoid Harmful Medicare Cuts in Tax Bill"
+    ],
+    "prefix": "10.1200",
+    "member": "233",
+    "container-title": [
+      "ASCO Connection Post DOs Group"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          8
+        ]
+      ],
+      "date-time": "2024-12-08T17:49:10Z",
+      "timestamp": 1733680150000
+    },
+    "score": 49.400555,
+    "resource": {
+      "primary": {
+        "URL": "https://connection.asco.org/do/10.1200/ACON.17.00297/abs/"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1200/acon.17.00297",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2026-02-27T12:28:39Z",
+      "timestamp": 1772195319413,
+      "version": "3.50.1"
+    },
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Scarecrow Press",
+    "isbn-type": [
+      {
+        "value": "9798216439172",
+        "type": "electronic"
+      },
+      {
+        "value": "9781442256286",
+        "type": "print"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "DOI": "10.5040/9798216439172.ch-40",
+    "type": "other",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2026-02-27T10:31:32Z",
+      "timestamp": 1772188292000
+    },
+    "page": "245-246",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Tennessee Mascot Act: House Bill no. 133 (2007) by Representatives Bell, Matlock, Hill; Substituted for: Senate Bill no. 162 by Senator Bunch"
+    ],
+    "prefix": "10.5040",
+    "member": "2984",
+    "container-title": [
+      "The Native American Mascot Controversy"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2026-02-27T10:55:00Z",
+      "timestamp": 1772189700000
+    },
+    "score": 47.381744,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bloomsburycollections.com/monograph-detail?docid=b-9798216439172&tocid=b-9798216439172-chapter40"
+      }
+    },
+    "subtitle": [
+      "State of Tennessee"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "ISBN": [
+      "9798216439172",
+      "9781442256286"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.5040/9798216439172.ch-40",
+    "published": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "Koninklijke Brill NV",
+        "acronym": [
+          "BRILL"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          3
+        ]
+      ],
+      "date-time": "2026-03-03T08:27:54Z",
+      "timestamp": 1772526474575,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "Walter de Gruyter GmbH",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.1163/2210-7975_hrd-9902-2016031",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          17
+        ]
+      ],
+      "date-time": "2018-08-17T04:50:37Z",
+      "timestamp": 1534481437000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "17th Philippines Congress - House Bill No. 1 on the Death Penalty"
+    ],
+    "prefix": "10.1163",
+    "member": "374",
+    "container-title": [
+      "Human Rights Documents Online"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          3
+        ]
+      ],
+      "date-time": "2026-03-03T07:39:59Z",
+      "timestamp": 1772523599000
+    },
+    "score": 47.170845,
+    "resource": {
+      "primary": {
+        "URL": "https://www.degruyterbrill.com/database/hrdo/entry/hrdo.HRD-9902_2016-031/html"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1163/2210-7975_hrd-9902-2016031"
+  }
+]

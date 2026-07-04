@@ -1,0 +1,3422 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2026-03-27T00:34:08Z",
+      "timestamp": 1774571648427,
+      "version": "3.50.1"
+    },
+    "reference-count": 13,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "4",
+    "content-domain": {
+      "domain": [
+        "lww.com",
+        "ovid.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "J Trauma Acute Care Surg"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1097/ta.0000000000003756",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2022-08-02T15:22:02Z",
+      "timestamp": 1659453722000
+    },
+    "page": "425-426",
+    "update-policy": "https://doi.org/10.1097/lww.0000000000001000",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Another milestone reached: Emergency general surgery verification program"
+    ],
+    "prefix": "10.1097",
+    "volume": "93",
+    "author": [
+      {
+        "given": "Raul",
+        "family": "Coimbra",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "bib1-20250806",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1097/01.TA.0000100172.39403.EC",
+        "article-title": "Rock on—staying focused on our way to greatness",
+        "volume": "56",
+        "year": "2004",
+        "journal-title": "J Trauma"
+      },
+      {
+        "key": "bib2-20250806",
+        "doi-asserted-by": "crossref",
+        "first-page": "425",
+        "DOI": "10.1097/01.TA.0000157820.40340.F0",
+        "article-title": "The future of trauma care: at the crossroads",
+        "volume": "58",
+        "year": "2005",
+        "journal-title": "J Trauma"
+      },
+      {
+        "key": "bib3-20250806",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1097/01.ta.0000197144.19182.c4",
+        "article-title": "How then shall we change?",
+        "volume": "60",
+        "year": "2006",
+        "journal-title": "J Trauma"
+      },
+      {
+        "key": "bib4-20250806",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1097/TA.0b013e31802f734a",
+        "article-title": "Crises and war: stepping stones to the future",
+        "volume": "62",
+        "year": "2007",
+        "journal-title": "J Trauma"
+      },
+      {
+        "key": "bib5-20250806",
+        "first-page": "1",
+        "article-title": "The American Association for the Surgery of Trauma—through the looking glass: déjà vu all over again",
+        "volume": "66",
+        "year": "2009",
+        "journal-title": "J Trauma"
+      },
+      {
+        "key": "bib6-20250806",
+        "first-page": "753",
+        "article-title": "Identity - 2009 AAST presidential address",
+        "volume": "68",
+        "year": "2010",
+        "journal-title": "J Trauma"
+      },
+      {
+        "issue": "1",
+        "key": "bib7-20250806",
+        "first-page": "1",
+        "article-title": "\"of courage undaunted\": 2010 AAST presidential address",
+        "volume": "70",
+        "year": "2011",
+        "journal-title": "J Trauma"
+      },
+      {
+        "key": "bib8-20250806",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1097/TA.0b013e31823fbda3",
+        "article-title": "American Association for the Surgery of Trauma and the Clinical Congress of Acute Care Surgery 2011 Presidential Address",
+        "volume": "72",
+        "year": "2012",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "key": "bib9-20250806",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1097/TA.0b013e31827df55c",
+        "article-title": "How to boil a frog: the American Association for the Surgery of Trauma in changing times",
+        "volume": "74",
+        "year": "2013",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "key": "bib10-20250806",
+        "doi-asserted-by": "crossref",
+        "first-page": "653",
+        "DOI": "10.1097/TA.0000000000000440",
+        "article-title": "For the Care of the Underserved",
+        "volume": "77",
+        "year": "2014",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "key": "bib11-20250806",
+        "doi-asserted-by": "crossref",
+        "first-page": "661",
+        "DOI": "10.1097/TA.0000000000000569",
+        "article-title": "Responsibility",
+        "volume": "78",
+        "year": "2015",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "key": "bib12-20250806",
+        "doi-asserted-by": "crossref",
+        "first-page": "62",
+        "DOI": "10.1097/TA.0000000000002076",
+        "article-title": "Challenges, opportunities, Unity, and global engagement: the 2017 AAST presidential address",
+        "volume": "86",
+        "year": "2019",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "key": "bib13-20250806",
+        "doi-asserted-by": "crossref",
+        "first-page": "214",
+        "DOI": "10.1097/XCS.0000000000000044",
+        "article-title": "Emergency general surgery quality improvement: a review of recommended structure and key issues",
+        "volume": "234",
+        "year": "2022",
+        "journal-title": "J Am Coll Surg"
+      }
+    ],
+    "container-title": [
+      "Journal of Trauma and Acute Care Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.1097/TA.0000000000003756",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          6
+        ]
+      ],
+      "date-time": "2025-08-06T16:01:34Z",
+      "timestamp": 1754496094000
+    },
+    "score": 55.48532,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/10.1097/TA.0000000000003756"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    },
+    "references-count": 13,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1097/ta.0000000000003756",
+    "ISSN": [
+      "2163-0763",
+      "2163-0755"
+    ],
+    "issn-type": [
+      {
+        "value": "2163-0763",
+        "type": "electronic"
+      },
+      {
+        "value": "2163-0755",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2025-03-27T16:27:04Z",
+      "timestamp": 1743092824678,
+      "version": "3.40.3"
+    },
+    "publisher-location": "Cham",
+    "reference-count": 47,
+    "publisher": "Springer International Publishing",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783031225987"
+      },
+      {
+        "type": "electronic",
+        "value": "9783031225994"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2023-01-01T00:00:00Z",
+          "timestamp": 1672531200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2023-01-01T00:00:00Z",
+          "timestamp": 1672531200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-031-22599-4_38",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2023-06-06T19:05:04Z",
+      "timestamp": 1686078304000
+    },
+    "page": "569-578",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Quality Evaluation in Emergency General Surgery"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Michael",
+        "family": "Sugrue",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Randal",
+        "family": "Parlour",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Brendan",
+        "family": "Skelly",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Angus",
+        "family": "Watson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "1",
+        "key": "38_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "60",
+        "DOI": "10.1097/TA.0000000000000492",
+        "volume": "78",
+        "author": "HP Santry",
+        "year": "2015",
+        "unstructured": "Santry HP, Madore JC, Collins CE, Ayturk MD, Velmahos GC, Britt LD, et al. Variations in Implementation of acute care surgery: results from a national survey of university-affiliated hospitals. J Trauma Acute Care Surg. 2015;78(1):60–7.",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "issue": "2",
+        "key": "38_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "280",
+        "DOI": "10.1097/SLA.0000000000001964",
+        "volume": "266",
+        "author": "BH Tan",
+        "year": "2017",
+        "unstructured": "Tan BH, Mytton J, Al-Khyatt W, Aquina CT, Evison F, Fleming FJ, Griffiths E, Vohra RS. A comparison of mortality following emergency laparotomy between populations from New York state and England. Ann Surg. 2017;266(2):280–6.",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "key": "38_CR3",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Aggarwal G, Peden CJ, Mohammed MA, Pullyblank A, Williams B, Stephens T, et al. Evaluation of the collaborative use of an evidence-based care bundle in emergency laparotomy. JAMA Surg. 2019; https://doi.org/10.1001/jamasurg.2019.0145.",
+        "DOI": "10.1001/jamasurg.2019.0145"
+      },
+      {
+        "key": "38_CR4",
+        "unstructured": "Royal Australasian College of Surgeons. The case for the separation of elective and emergency surgery [Internet]. RACS; 2011 [Cited 29 March 2016]. http://www.surgeons.org/media/college-advocacy/."
+      },
+      {
+        "key": "38_CR5",
+        "unstructured": "Shafi S. Pursuing quality—Emergency General Surgery Quality Improvement Program (EQIP); 2015. https://www.mdedge.com/surgery/article/101812/pursuing-quality-emergency-general-surgery-quality-improvement-program-eqip"
+      },
+      {
+        "key": "38_CR6",
+        "volume-title": "First patient report of the National Emergency Laparotomy Audit",
+        "author": "NELA Project Team",
+        "year": "2015",
+        "unstructured": "NELA Project Team. First patient report of the National Emergency Laparotomy Audit. London: RCoA; 2015. ISBN: 978-1-900936-12-5."
+      },
+      {
+        "key": "38_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "156",
+        "DOI": "10.1016/j.jamcollsurg.2011.11.001",
+        "volume": "214",
+        "author": "RD Becher",
+        "year": "2012",
+        "unstructured": "Becher RD, Meredith JW, Chang MC, et al. Creation and implementation of an emergency general surgery registry modelled after the National Trauma Data Bank. J Am Coll Surg. 2012;214:156–63.",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "issue": "4",
+        "key": "38_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "306",
+        "DOI": "10.5114/ait.2019.87360",
+        "volume": "51",
+        "author": "R Parlour",
+        "year": "2019",
+        "unstructured": "Parlour R, Johnson A, Loughlin P, Watson A, Sugrue M, Drake A. Time for metrics in emergency surgical care - the role of an emergency surgery registry. Anaesthesiol Intensive Ther. 2019;51(4):306–15. https://doi.org/10.5114/ait.2019.87360.",
+        "journal-title": "Anaesthesiol Intensive Ther"
+      },
+      {
+        "key": "38_CR9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Behar N, King D. Proposal for a new specialty: emergency general surgery. http://careers.bmj.com/careers/advice/view-article.html?id=20007882; 2012.",
+        "DOI": "10.1136/bmj.e4332"
+      },
+      {
+        "key": "38_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "20",
+        "DOI": "10.1097/SLA.0000000000001180",
+        "volume": "263",
+        "author": "P Chana",
+        "year": "2016",
+        "unstructured": "Chana P, Burns EM, Arora S, et al. A systematic review of the impact of dedicated emergency surgical services on patient outcomes. Ann Surg. 2016;263:20–7.",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "issue": "6",
+        "key": "38_CR11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamasurg.2016.0480",
+        "volume": "151",
+        "author": "JW Scott",
+        "year": "2016",
+        "unstructured": "Scott JW, Olufajo OA, Brat GA, et al. Use of national burden to define operative emergency general surgery. JAMA Surg. 2016;151(6):e160480. https://doi.org/10.1001/jamasurg.2016.0480.",
+        "journal-title": "JAMA Surg"
+      },
+      {
+        "issue": "3",
+        "key": "38_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "368",
+        "DOI": "10.1093/bja/aes165",
+        "volume": "109",
+        "author": "DI Saunders",
+        "year": "2012",
+        "unstructured": "Saunders DI, Murray D, Pichel AC, Varley S, Peden CJ, Network UKEL. Variations in mortality after emergency laparotomy: the first report of the UK Emergency Laparotomy Network. Br J Anaesth. 2012;109(3):368–75.",
+        "journal-title": "Br J Anaesth"
+      },
+      {
+        "key": "38_CR13",
+        "volume-title": "Sixth patient report of the National Emergency Laparotomy Audit",
+        "author": "NELA Project Team",
+        "year": "2020",
+        "unstructured": "NELA Project Team. Sixth patient report of the National Emergency Laparotomy Audit. London: RCoA; 2020. ISBN: 978-1-900936-24-8."
+      },
+      {
+        "key": "38_CR14",
+        "volume-title": "Emergency general surgery: challenges and opportunities. Research Report",
+        "author": "R Watson",
+        "year": "2016",
+        "unstructured": "Watson R, Crump H, Imison C, Currie C, Gaskins M. Emergency general surgery: challenges and opportunities. Research Report. Nuffield Trust; 2016."
+      },
+      {
+        "key": "38_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "202",
+        "DOI": "10.1097/TA.0000000000000362",
+        "volume": "77",
+        "author": "SC Gale",
+        "year": "2014",
+        "unstructured": "Gale SC, Shafi S, Dombrovskiy VY, Arumugam D, Crystal JS. The public health burden of emergency general surgery in the United States: a 10-year analysis of the Nationwide Inpatient Sample–2001 to 2010. J Trauma Acute Care Surg. 2014;77:202–8.",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "key": "38_CR16",
+        "volume-title": "Model of care for acute surgery and the national policy and procedure for safe surgery",
+        "author": "Royal College of Surgeons in Ireland (RCSI)",
+        "year": "2013",
+        "unstructured": "Royal College of Surgeons in Ireland (RCSI). Model of care for acute surgery and the national policy and procedure for safe surgery. Royal College of Surgeons in Ireland; 2013. http://www.rcsi.ie/files/surgery/docs/20131030121710_RCSI_Model_of_Care_for_Acute_S.pdf"
+      },
+      {
+        "issue": "1",
+        "key": "38_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "14",
+        "DOI": "10.1016/j.jcjq.2018.04.012",
+        "volume": "45",
+        "author": "VT Daniel",
+        "year": "2019",
+        "unstructured": "Daniel VT, Ingraham AM, Khubchandani JA, Ayturk D, Kiefe CI, Santry HP. Variations in the delivery of emergency general surgery care in the era of acute care Surgery. Joint Commission J Qual Patient Saf. 2019;45(1):14–23.",
+        "journal-title": "Joint Commission J Qual Patient Saf"
+      },
+      {
+        "key": "38_CR18",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Lim DW, Ozegovic D, Khadaroo RG, et al. NELA project team. First patient report of the National Emergency Laparotomy Audit. RCoA London, 2015. World J Surg. 2013;37(2266) https://doi.org/10.1007/s00268-013-2118-2.",
+        "DOI": "10.1007/s00268-013-2118-2"
+      },
+      {
+        "issue": "3",
+        "key": "38_CR19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjopen-2016-014484",
+        "volume": "7",
+        "author": "P Chana",
+        "year": "2017",
+        "unstructured": "Chana P, Joy M, Casey N, Chang D, Burns EM, Arora S, Darzi AW, Faiz OD, Peden CJ. Cohort analysis of outcomes in 69 490 emergency general surgical admissions across an international benchmarking collaborative. BMJ Open. 2017;7(3):e014484. https://doi.org/10.1136/bmjopen-2016-014484.",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "key": "38_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1318",
+        "DOI": "10.1002/bjs.9208",
+        "volume": "100",
+        "author": "NR Symons",
+        "year": "2013",
+        "unstructured": "Symons NR, Moorthy K, Almoudaris AM, Bottle A, Aylin P, Vincent CA, Faiz OD. Mortality in high-risk emergency general surgical admissions. Br J Surg. 2013;100:1318–25. https://doi.org/10.1002/bjs.9208.",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "key": "38_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "104",
+        "DOI": "10.1016/j.injury.2017.10.021",
+        "volume": "49",
+        "author": "S Dijkink",
+        "year": "2017",
+        "unstructured": "Dijkink S, van der Wilden GM, Krijnen P, et al. Polytrauma patients in the Netherlands and the USA: a bi-institutional comparison of processes and outcomes of care. Injury. 2017;49:104.",
+        "journal-title": "Injury"
+      },
+      {
+        "key": "38_CR22",
+        "unstructured": "Sugrue G, Conroy R, Sugrue M. Radiology & emergency surgery. In: Sugrue M, Catena F, Coccolini F, Kluger Y, Maier R, Moore E, editors. Resources for optimal care of emergency surgery. 1st ed. Springer International Publishing. (in press). ISBN: 978-3-030-49362-2."
+      },
+      {
+        "key": "38_CR23",
+        "volume-title": "Surgical services 2020 and beyond",
+        "author": "Royal College of Surgeons in Ireland (RCSI)",
+        "year": "2017",
+        "unstructured": "Royal College of Surgeons in Ireland (RCSI). Surgical services 2020 and beyond. Royal College of Surgeons in Ireland; 2017. http://www.rcsi.ie/files/surgery/docs/20170419030935_1345%20Mealy%202017.pdf"
+      },
+      {
+        "key": "38_CR24",
+        "volume-title": "Emergency surgery: standards for unscheduled surgical care. Guidance for providers, commissioners and service planners",
+        "author": "Royal College of Surgeons of England (RCSE)",
+        "year": "2011",
+        "unstructured": "Royal College of Surgeons of England (RCSE). Emergency surgery: standards for unscheduled surgical care. Guidance for providers, commissioners and service planners. The Royal College of Surgeons of England; 2011. www.rcseng.ac.uk/publications/docs/emergency-surgery-standards-for-unscheduledcare"
+      },
+      {
+        "key": "38_CR25",
+        "volume-title": "Emergency surgery policy briefing",
+        "author": "Royal College of Surgeons of England (RCSE)",
+        "year": "2014",
+        "unstructured": "Royal College of Surgeons of England (RCSE). Emergency surgery policy briefing. The Royal College of Surgeons of England; 2014."
+      },
+      {
+        "key": "38_CR26",
+        "volume-title": "The future of emergency surgery—a joint document",
+        "author": "I Anderson",
+        "year": "2015",
+        "unstructured": "Anderson I. The future of emergency surgery—a joint document. Association of Surgeons of Great Britain and Ireland; 2015. https://www.acpgbi.org.uk/content/uploads/2016/07/Future-of-EGS-joint-document_Iain-Anderson_140915.pdf"
+      },
+      {
+        "key": "38_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "1081",
+        "DOI": "10.1197/j.aem.2006.07.011",
+        "volume": "13",
+        "author": "Institute of Medicine",
+        "year": "2006",
+        "unstructured": "Institute of Medicine. IOM report: the future of emergency care in the United States health system. Acad Emerg Med. 2006;13:1081–5.",
+        "journal-title": "Acad Emerg Med"
+      },
+      {
+        "key": "38_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "47",
+        "DOI": "10.1186/s13017-017-0158-x",
+        "volume": "12",
+        "author": "M Sugrue",
+        "year": "2017",
+        "unstructured": "Sugrue M, Maier R, Moore EE, Boermeester M, Catena F, Coccolini F, et al. Proceedings of resources for optimal care of acute care and emergency surgery consensus summit Donegal Ireland. World J Emerg Surg. 2017;12:47.",
+        "journal-title": "World J Emerg Surg"
+      },
+      {
+        "issue": "9",
+        "key": "38_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "588",
+        "DOI": "10.1111/j.1445-2197.2012.06141.x",
+        "volume": "82",
+        "author": "L Hsee",
+        "year": "2012",
+        "unstructured": "Hsee L, Devaud M, Middleberg L, Jones W, Civil I. Acute surgical unit at Auckland City Hospital: a descriptive analysis. ANZ J Surg. 2012;82(9):588–91.",
+        "journal-title": "ANZ J Surg"
+      },
+      {
+        "key": "38_CR30",
+        "unstructured": "https://www.easccourse.com. Accessed 7 May 2021."
+      },
+      {
+        "issue": "2",
+        "key": "38_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "119",
+        "DOI": "10.1002/ams2.327",
+        "volume": "5",
+        "author": "HG Lyu",
+        "year": "2018",
+        "unstructured": "Lyu HG, Najjar P, Havens JM. Past, present, and future of Emergency General Surgery in the USA. Acute Med Surg. 2018;5(2):119–22. https://doi.org/10.1002/ams2.327.",
+        "journal-title": "Acute Med Surg"
+      },
+      {
+        "key": "38_CR32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjopen-2018-023476",
+        "volume": "9",
+        "author": "A Baggaley",
+        "year": "2019",
+        "unstructured": "Baggaley A, Robb L, Paterson-Brown S, et al. Improving the working environment for the delivery of safe surgical care in the UK: a qualitative cross sectional analysis. BMJ Open. 2019;9:e023476. https://doi.org/10.1136/bmjopen-2018-023476.",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "key": "38_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "360",
+        "DOI": "10.5694/j.1326-5377.2011.tb03007.x",
+        "volume": "194",
+        "author": "SM Evans",
+        "year": "2011",
+        "unstructured": "Evans SM, Scott IA, Johnson NP, et al. Development of clinical-quality registries in Australia: the way forward. Med J Aust. 2011;194:360–3.",
+        "journal-title": "Med J Aust"
+      },
+      {
+        "key": "38_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "220",
+        "DOI": "10.1377/hlthaff.2011.0762",
+        "volume": "31",
+        "author": "S Larsson",
+        "year": "2012",
+        "unstructured": "Larsson S, Lawyer P, Garellick G, et al. Use of 13 disease registries in 5 countries demonstrates the potential to use outcome data to improve health care’s value. Health Aff (Millwood). 2012;31:220–7. https://doi.org/10.1377/hlthaff.2011.0762.",
+        "journal-title": "Health Aff (Millwood)"
+      },
+      {
+        "issue": "9",
+        "key": "38_CR35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0183667",
+        "volume": "12",
+        "author": "DME Hoque",
+        "year": "2017",
+        "unstructured": "Hoque DME, Kumari V, Hoque M, Ruseckaite R, Romero L, Evans SM. Impact of clinical registries on quality of patient care and clinical outcomes: a systematic review. PLoS One. 2017;12(9):e0183667.",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "38_CR36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hickey GL, Grant SW, Cosgriff R, Dimarakis I, Pagano D, Kappetein AP, et al. Clinical registries: governance, management, analysis and applications. Eur J Cardio-Thorac Surg. 2013;",
+        "DOI": "10.1093/ejcts/ezt018"
+      },
+      {
+        "key": "38_CR37",
+        "volume-title": "Registries for evaluating patient outcomes: a user’s guide",
+        "author": "RE Gliklich",
+        "year": "2014",
+        "unstructured": "Gliklich RE, Dreyer NA, Leavy MB. Registries for evaluating patient outcomes: a user’s guide. 3rd ed. Agency for Health Care Research and Quality; 2014.",
+        "edition": "3"
+      },
+      {
+        "issue": "13",
+        "key": "38_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "1469",
+        "DOI": "10.1001/archinte.165.13.1469",
+        "volume": "165",
+        "author": "GC Fonarow",
+        "year": "2005",
+        "unstructured": "Fonarow GC, Yancy CW, Heywood JT. Adherence to heart failure quality-of-care indicators in US hospitals: analysis of the ADHERE Registry. Arch Internal Med. 2005;165(13):1469–77. https://doi.org/10.1001/archinte.165.13.1469.",
+        "journal-title": "Arch Internal Med"
+      },
+      {
+        "issue": "10",
+        "key": "38_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "1605",
+        "DOI": "10.1093/ndt/gfv209",
+        "volume": "30",
+        "author": "K Breckenridge",
+        "year": "2015",
+        "unstructured": "Breckenridge K, Bekker HL, Gibbons E. How to routinely collect data on patient-reported outcome and experience measures in renal registries in Europe: an expert consensus meeting. Nephrol Dial Transplant. 2015;30(10):1605–14.",
+        "journal-title": "Nephrol Dial Transplant"
+      },
+      {
+        "key": "38_CR40",
+        "unstructured": "Parlour R, Sugrue M, Skelly B and Watson A. Emergency general surgery: inaugural registry report. Emergency Surgery Outcomes Advancement Project; 2020. https://dcra.ie/images/Emergency-General-Surgery-Inaugural-Report.pdf. ISBN: 9780992610968."
+      },
+      {
+        "key": "38_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "381",
+        "DOI": "10.1016/j.surg.2014.08.097",
+        "volume": "157",
+        "author": "AM Stey",
+        "year": "2015",
+        "unstructured": "Stey AM, Russell MM, Ko CY, et al. Clinical registries and quality measurement in surgery: a systematic review. Surgery. 2015;157:381–95. https://doi.org/10.1016/j.surg.2014.08.097.",
+        "journal-title": "Surgery"
+      },
+      {
+        "key": "38_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "1358",
+        "DOI": "10.1016/S0140-6736(16)31402-7",
+        "volume": "359",
+        "author": "A Sedrakyan",
+        "year": "2016",
+        "unstructured": "Sedrakyan A, Campbell B, Graves S, Cronenwett JL. Surgical registries for advancing quality and device surveillance. Lancet. 2016;359:1358–60. https://doi.org/10.1016/S0140-6736(16)31402-7.",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "38_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "13",
+        "DOI": "10.1186/s13017-018-0174-5",
+        "volume": "13",
+        "author": "F Coccolini",
+        "year": "2018",
+        "unstructured": "Coccolini F, Kluger Y, Ansaloni L, et al. WSES worldwide emergency general surgery formation and evaluation project. World J Emerg Surg. 2018;13:13.",
+        "journal-title": "World J Emerg Surg"
+      },
+      {
+        "issue": "7",
+        "key": "38_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "049",
+        "DOI": "10.24966/ETS-8798/100049",
+        "volume": "2020",
+        "author": "AS Badrin",
+        "year": "2020",
+        "unstructured": "Badrin AS, Maguire U, Johnston A, Bucholc M, Sugrue M. Unplanned reoperation and interventional radiology post appendicectomy: a metaanalysis. HSOA J Emerg Med Trauma Surg Care. 2020;2020(7):049. https://doi.org/10.24966/ETS-8798/100049.",
+        "journal-title": "HSOA J Emerg Med Trauma Surg Care"
+      },
+      {
+        "issue": "11",
+        "key": "38_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "1386",
+        "DOI": "10.1111/ans.15362",
+        "volume": "89",
+        "author": "K Bailey",
+        "year": "2019",
+        "unstructured": "Bailey K, Choynowski M, Kabir SM, Lawler J, Badrin A, Sugrue M. Meta-analysis of unplanned readmission to hospital post-appendectomy: an opportunity for a new benchmark. ANZ J Surg. 2019;89(11):1386–91.",
+        "journal-title": "ANZ J Surg"
+      },
+      {
+        "issue": "2",
+        "key": "38_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "138",
+        "DOI": "10.3390/life11020138",
+        "volume": "11",
+        "author": "G Mc Geehan",
+        "year": "2021",
+        "unstructured": "Mc Geehan G, Edelduok IM, Bucholc M, Watson A, Bodnar Z, Johnston A, Sugrue M. Systematic review and meta-analysis of wound bundles in emergency midline laparotomy identifies that it is time for improvement. Life. 2021;11(2):138.",
+        "journal-title": "Life"
+      },
+      {
+        "key": "38_CR47",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lawler J, Choynowski M, Bailey K, Bucholc M, Johnston A, Sugrue M (2020) A meta-analysis of the impact of post-operative infective complications on oncological outcomes in colorectal cancer surgery. BJS Open 2020 Oct;4(5):737.",
+        "DOI": "10.1002/bjs5.50302"
+      }
+    ],
+    "container-title": [
+      "Textbook of Emergency General Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-22599-4_38",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2023-06-06T19:36:31Z",
+      "timestamp": 1686080191000
+    },
+    "score": 48.887676,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/978-3-031-22599-4_38"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783031225987",
+      "9783031225994"
+    ],
+    "references-count": 47,
+    "URL": "https://doi.org/10.1007/978-3-031-22599-4_38",
+    "published": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "7 June 2023",
+        "order": 1,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ChapterHistory",
+          "label": "Chapter History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2026-01-22T23:50:18Z",
+      "timestamp": 1769125818962,
+      "version": "3.49.0"
+    },
+    "reference-count": 14,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J Trauma Acute Care Surg"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>BACKGROUND</jats:title>\n            <jats:p>National Surgical Quality Improvement Program and Trauma Quality Improvement Program have shown variations in risk-adjusted outcomes across hospitals. Our study hypothesis was that there would be similar variation in risk-adjusted outcomes of emergency general surgery (EGS) patients.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>METHODS</jats:title>\n            <jats:p>We undertook a retrospective analysis of the National Inpatient Sample database for 2010. Patients with EGS diseases were identified using American Association for the Surgery of Trauma definitions. A hierarchical logistic regression model was used to model in-hospital mortality, accounting for patient characteristics, including age, sex, race, ethnicity, insurance type, and comorbidities. Predicted-to-expected mortality ratios with 90% confidence intervals were used to identify hospitals as low mortality (ratio significantly lower than 1), high mortality (ratio significantly higher than 1), or average mortality (ratio overlapping 1).</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>RESULTS</jats:title>\n            <jats:p>Nationwide, 2,640,725 patients with EGS diseases were treated at 943 hospitals in 2010. About one-sixth of the hospitals (139, 15%) were low mortality, a quarter were high mortality (221, 23%), and the rest were average mortality. Mortality ratio at low mortality hospitals was almost four times lower than that of high mortality hospitals (0.57 vs. 2.03, <jats:italic toggle=\"yes\">p</jats:italic> &lt; 0.0001). If high and average mortality hospitals performed at the same level as low mortality hospitals, we estimate 16,812 (55%) more deaths than expected.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>CONCLUSION</jats:title>\n            <jats:p>There are significant variations in risk-adjusted outcomes of EGS patients across hospitals, with several thousand higher than expected number of deaths nationwide. Based on the success of National Surgical Quality Improvement Program and Trauma Quality Improvement Program, we recommend establishing EGS quality improvement program for risk-adjusted benchmarking of hospitals for EGS patients.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>LEVEL OF EVIDENCE</jats:title>\n            <jats:p>Care management, level III.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1097/ta.0000000000001755",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          2
+        ]
+      ],
+      "date-time": "2017-12-02T00:19:20Z",
+      "timestamp": 1512173960000
+    },
+    "page": "280-286",
+    "source": "Crossref",
+    "is-referenced-by-count": 43,
+    "title": [
+      "Variations in outcomes of emergency general surgery patients across hospitals: A call to establish emergency general surgery quality improvement program"
+    ],
+    "prefix": "10.1097",
+    "volume": "84",
+    "author": [
+      {
+        "given": "Gerald O.",
+        "family": "Ogola",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Marie L.",
+        "family": "Crandall",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shahid",
+        "family": "Shafi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "bib1-20230825",
+        "doi-asserted-by": "crossref",
+        "first-page": "1092",
+        "DOI": "10.1097/TA.0b013e31827e1bc7",
+        "article-title": "Emergency general surgery: definition and estimated burden of disease",
+        "volume": "74",
+        "year": "2013",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "key": "bib2-20230825",
+        "doi-asserted-by": "crossref",
+        "first-page": "444",
+        "DOI": "10.1097/TA.0000000000000787",
+        "article-title": "The financial burden of emergency general surgery: National estimates 2010 to 2060",
+        "volume": "79",
+        "year": "2015",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "key": "bib3-20230825",
+        "doi-asserted-by": "crossref",
+        "first-page": "265",
+        "DOI": "10.1097/TA.0000000000000911",
+        "article-title": "Cost of specific emergency general surgery diseases and factors associated with high-cost patients",
+        "volume": "80",
+        "year": "2016",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "issue": "Suppl",
+        "key": "bib4-20230825",
+        "first-page": "166",
+        "article-title": "Evaluating the quality of medical care",
+        "volume": "44",
+        "year": "1966",
+        "journal-title": "Milbank Mem Fund Q"
+      },
+      {
+        "key": "bib5-20230825",
+        "doi-asserted-by": "crossref",
+        "first-page": "837",
+        "DOI": "10.1016/j.surg.2005.08.016",
+        "article-title": "The NSQIP: a new frontier in surgery",
+        "volume": "138",
+        "year": "2005",
+        "journal-title": "Surgery"
+      },
+      {
+        "key": "bib6-20230825",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1001/archsurg.137.1.20",
+        "article-title": "The comparative assessment and improvement of quality of surgical care in the Department of Veterans Affairs",
+        "volume": "137",
+        "year": "2002",
+        "journal-title": "Arch Surg"
+      },
+      {
+        "key": "bib7-20230825",
+        "first-page": "253",
+        "article-title": "The Trauma Quality Improvement Program: pilot study and initial demonstration of feasibility",
+        "volume": "68",
+        "year": "2010",
+        "journal-title": "J Trauma"
+      },
+      {
+        "key": "bib8-20230825",
+        "doi-asserted-by": "crossref",
+        "first-page": "441",
+        "DOI": "10.1016/j.suc.2012.01.003",
+        "article-title": "The American College of Surgeons Trauma Quality Improvement Program",
+        "volume": "92",
+        "year": "2012",
+        "journal-title": "Surg Clin North Am"
+      },
+      {
+        "key": "bib9-20230825",
+        "doi-asserted-by": "crossref",
+        "first-page": "521",
+        "DOI": "10.1016/j.jamcollsurg.2009.07.001",
+        "article-title": "The Trauma Quality Improvement Program of the American College of Surgeons Committee on Trauma",
+        "volume": "209",
+        "year": "2009",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "key": "bib10-20230825",
+        "first-page": "599",
+        "article-title": "Trauma quality improvement using risk-adjusted outcomes",
+        "volume": "64",
+        "year": "2008",
+        "journal-title": "J Trauma"
+      },
+      {
+        "key": "bib12-20230825",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1016/0021-9681(87)90171-8",
+        "article-title": "A new method of classifying prognostic comorbidity in longitudinal studies: development and validation",
+        "volume": "40",
+        "year": "1987",
+        "journal-title": "J Chronic Dis"
+      },
+      {
+        "key": "bib15-20230825",
+        "first-page": "206",
+        "article-title": "Statistical and clinical aspects of hospital outcomes profiling",
+        "volume": "22",
+        "year": "2007",
+        "journal-title": "Stat Sci"
+      },
+      {
+        "key": "bib19-20230825",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1097/TA.0000000000001355",
+        "article-title": "Hospitals with higher volumes of emergency general surgery patients achieve lower mortality rates: a case for establishing designated centers for emergency general surgery",
+        "volume": "82",
+        "year": "2017",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "key": "bib21-20230825",
+        "doi-asserted-by": "crossref",
+        "first-page": "366",
+        "DOI": "10.1056/NEJMsa052049",
+        "article-title": "A national evaluation of the effect of trauma-center care on mortality",
+        "volume": "354",
+        "year": "2006",
+        "journal-title": "N Engl J Med"
+      }
+    ],
+    "container-title": [
+      "Journal of Trauma and Acute Care Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/01586154-201802000-00007",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          25
+        ]
+      ],
+      "date-time": "2023-08-25T08:02:18Z",
+      "timestamp": 1692950538000
+    },
+    "score": 48.394947,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/01586154-201802000-00007"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "references-count": 14,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1097/ta.0000000000001755",
+    "ISSN": [
+      "2163-0763",
+      "2163-0755"
+    ],
+    "issn-type": [
+      {
+        "value": "2163-0763",
+        "type": "electronic"
+      },
+      {
+        "value": "2163-0755",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          25
+        ]
+      ],
+      "date-time": "2026-01-25T01:28:27Z",
+      "timestamp": 1769304507890,
+      "version": "3.49.0"
+    },
+    "publisher-location": "Cham",
+    "reference-count": 54,
+    "publisher": "Springer International Publishing",
+    "isbn-type": [
+      {
+        "value": "9783319962856",
+        "type": "print"
+      },
+      {
+        "value": "9783319962863",
+        "type": "electronic"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              10
+            ]
+          ],
+          "date-time": "2018-11-10T00:00:00Z",
+          "timestamp": 1541808000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-319-96286-3_3",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          9
+        ]
+      ],
+      "date-time": "2018-11-09T17:52:30Z",
+      "timestamp": 1541785950000
+    },
+    "page": "27-39",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Imaging in Emergency General Surgery"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Mathew",
+        "family": "Giangola",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Joaquim M.",
+        "family": "Havens",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "3_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "31",
+        "DOI": "10.1148/radiol.2531090302",
+        "volume": "253",
+        "author": "J Stoker",
+        "year": "2009",
+        "unstructured": "Stoker J, van Randen A, Laméris W, Boermeester MA. Imaging patients with acute abdominal pain. Radiology. 2009;253:31–46.",
+        "journal-title": "Radiology"
+      },
+      {
+        "key": "3_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "238",
+        "DOI": "10.2214/AJR.10.4467",
+        "volume": "196",
+        "author": "HH Abujudeh",
+        "year": "2011",
+        "unstructured": "Abujudeh HH, Kaewlai R, McMahon PM, et al. Abdominopelvic CT increases diagnostic certainty and guides management decisions: a prospective investigation of 584 patients in a large academic medical center. AJR Am J Roentgenol. 2011;196:238–43. \nhttps://doi.org/10.2214/AJR.10.4467\n\n.",
+        "journal-title": "AJR Am J Roentgenol"
+      },
+      {
+        "key": "3_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "699",
+        "DOI": "10.1007/s00268-009-0379-6",
+        "volume": "34",
+        "author": "BC Hill",
+        "year": "2010",
+        "unstructured": "Hill BC, Johnson SC, Owens EK, Gerber JL, Senagore AJ. CT scan for suspected acute abdominal process: impact of combinations of IV, oral, and rectal contrast. World J Surg. 2010;34:699–703.",
+        "journal-title": "World J Surg"
+      },
+      {
+        "issue": "7",
+        "key": "3_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "840",
+        "DOI": "10.1016/j.acra.2017.01.013",
+        "volume": "24",
+        "author": "R Kessner",
+        "year": "2017",
+        "unstructured": "Kessner R, Barnes S, Halpern P, Makrin V, Blachar A. CT for acute nontraumatic abdominal pain – is oral contrast really required? Acad Radiol. 2017;24(7):840–5.",
+        "journal-title": "Acad Radiol"
+      },
+      {
+        "issue": "6",
+        "key": "3_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "513",
+        "DOI": "10.1007/s10140-012-1059-7",
+        "volume": "19",
+        "author": "RB Levenson",
+        "year": "2012",
+        "unstructured": "Levenson RB, Camacho MA, Horn E, Saghir A, McGillicuddy SLD. Eliminating routine oral contrast use for CT in the emergency department: impact on patient throughput and diagnosis. Emerg Radiol. 2012;19(6):513–7.",
+        "journal-title": "Emerg Radiol"
+      },
+      {
+        "issue": "1",
+        "key": "3_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "93",
+        "DOI": "10.1148/radiol.10091938",
+        "volume": "256",
+        "author": "J Menke",
+        "year": "2010",
+        "unstructured": "Menke J. Diagnostic accuracy of multidetector CT in acute mesenteric ischemia: systematic review and metaanalysis. Radiology. 2010;256(1):93–101.",
+        "journal-title": "Radiology"
+      },
+      {
+        "key": "3_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.1007/s11604-017-0613-3",
+        "volume": "4",
+        "author": "YC Wong",
+        "year": "2017",
+        "unstructured": "Wong YC, Wang LJ, Wu CH, Chen HW, Lin BC, Hsu YP. Peritoneal fluid of low CT Hounsfield units as a screening criterion for traumatic bowel perforation. Jpn J Radiol. 2017;4:145–50.",
+        "journal-title": "Jpn J Radiol"
+      },
+      {
+        "key": "3_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "887",
+        "DOI": "10.1148/radiol.2483071772",
+        "volume": "248",
+        "author": "ZS Kellow",
+        "year": "2008",
+        "unstructured": "Kellow ZS, MacInnes M, Kurzencwyg D, et al. The role of abdominal radiography in the evaluation of the nontrauma emergency patient. Radiology. 2008;248:887–93.",
+        "journal-title": "Radiology"
+      },
+      {
+        "issue": "1",
+        "key": "3_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "104",
+        "DOI": "10.1097/SLA.0b013e3181724fe5",
+        "volume": "248",
+        "author": "BD Badgwell",
+        "year": "2008",
+        "unstructured": "Badgwell BD, Cormier JN, Wray CJ, Borthakur G, Qiao W, Rolston KV, et al. Challenges in surgical management of abdominal pain in the neutropenic cancer patient. Ann Surg. 2008;248(1):104–9.",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "issue": "3",
+        "key": "3_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "593",
+        "DOI": "10.1097/TA.0000000000001127",
+        "volume": "81",
+        "author": "GT Tominaga",
+        "year": "2016",
+        "unstructured": "Tominaga GT, Staudenmayer KL, Shafi S, Schuster KM, Savage SA, Ross S, Muskat P, Mowery NT, Miller P, Inaba K. The American Association for the Surgery of Trauma grading scale for 16 emergency general surgery conditions: disease-specific criteria characterizing anatomic severity grading. J Trauma Acute Care Surg. 2016;81(3):593–602.",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "key": "3_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1179",
+        "DOI": "10.2214/AJR.05.1179",
+        "volume": "187",
+        "author": "B Hainaux",
+        "year": "2006",
+        "unstructured": "Hainaux B, Bertinotti E, Maertelaer V, Rubesova E, Capellutoet E. Accuracy of MDCT in predicting site of gastrointestinal tract perforation. AJR. 2006;187:1179–83.",
+        "journal-title": "AJR"
+      },
+      {
+        "issue": "10",
+        "key": "3_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "a1",
+        "DOI": "10.1055/s-0034-1393172",
+        "volume": "47",
+        "author": "IM Gralnek",
+        "year": "2015",
+        "unstructured": "Gralnek IM, Dumonceau JM, Kuipers EJ, et al. Diagnosis and management of nonvariceal upper gastrointestinal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline. Endoscopy. 2015;47(10):a1–46.",
+        "journal-title": "Endoscopy"
+      },
+      {
+        "key": "3_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "101",
+        "DOI": "10.7326/0003-4819-152-2-201001190-00009",
+        "volume": "152",
+        "author": "AN Barkun",
+        "year": "2010",
+        "unstructured": "Barkun AN, Bardou M, Kuipers EJ, Sung J, Hunt RH, Martel M, Sinclair P, International Consensus Upper Gastrointestinal Bleeding Conference Group. International consensus recommendations on the management of patients with nonvariceal upper gastrointestinal bleeding. Ann Intern Med. 2010;152:101–13.",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "issue": "1",
+        "key": "3_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/s0016-5107(04)01287-8",
+        "volume": "60",
+        "author": "DJ Bjorkman",
+        "year": "2004",
+        "unstructured": "Bjorkman DJ, Zaman A, Fennerty MB, Lieberman D, DiSario JA, Guest-Warnick G. Urgent vs. elective endoscopy for acute non-variceal upper-GI bleeding: an effectiveness study. Gastrointest Endosc. 2004;60(1):1–8. \nhttps://doi.org/10.1016/s0016-5107(04)01287-8\n\n.",
+        "journal-title": "Gastrointest Endosc"
+      },
+      {
+        "issue": "3",
+        "key": "3_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "273",
+        "DOI": "10.1016/j.ajem.2006.07.014",
+        "volume": "25",
+        "author": "CM Tai",
+        "year": "2007",
+        "unstructured": "Tai CM, Huang SP, Wang HP, et al. High-risk ED patients with nonvariceal upper gastrointestinal hemorrhage undergoing emergency or urgent endoscopy: a retrospective analysis. Am J Emerg Med. 2007;25(3):273–8. \nhttps://doi.org/10.1016/j.ajem.2006.07.014\n\n.",
+        "journal-title": "Am J Emerg Med"
+      },
+      {
+        "key": "3_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "3957",
+        "DOI": "10.3748/wjg.v16.i31.3957",
+        "volume": "16",
+        "author": "LM Wu",
+        "year": "2010",
+        "unstructured": "Wu LM, Xu JR, Yin Y, Qu XH. Usefulness of CT angiography in diagnosing acute gastrointestinal bleeding: a meta-analysis. World J Gastroenterol. 2010;16:3957–63.",
+        "journal-title": "World J Gastroenterol"
+      },
+      {
+        "key": "3_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1181",
+        "DOI": "10.1007/s00330-012-2721-x",
+        "volume": "23",
+        "author": "V Garcia-Blazquez",
+        "year": "2013",
+        "unstructured": "Garcia-Blazquez V, Vicente-Bartulos A, Olavarria-Delgado A, et al. Accuracy of CT angiography in the diagnosis of acute gastrointestinal bleeding: systematic review and meta-analysis. Eur Radiol. 2013;23:1181–90.",
+        "journal-title": "Eur Radiol"
+      },
+      {
+        "issue": "3",
+        "key": "3_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "388",
+        "DOI": "10.1097/RCT.0000000000000529",
+        "volume": "41",
+        "author": "A Scrima",
+        "year": "2017",
+        "unstructured": "Scrima A, Lubner MG, King S, Kennedy G, Pickhardt PJ. Abdominal multidetector computed tomography for suspected small-bowel obstruction: multicenter study comparing radiologists performance for predicting surgical outcomes. J Comput Assist Tomogr. 2017;41(3):388–93.",
+        "journal-title": "J Comput Assist Tomogr"
+      },
+      {
+        "key": "3_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "78",
+        "DOI": "10.2214/AJR.17.18126",
+        "volume": "210",
+        "author": "W Khaled",
+        "year": "2017",
+        "unstructured": "Khaled W, Millet I, Corno L, Bouley-Coletta I, Benadjaoud MA, Taourel P, Zins M. Clinical relevance of the feces sign in small-bowel onstruction due to adhesions depends on its location. AJR Am J Roentgenol. 2017;210:78.",
+        "journal-title": "AJR Am J Roentgenol"
+      },
+      {
+        "key": "3_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1068",
+        "DOI": "10.1016/j.jamcollsurg.2011.02.023",
+        "volume": "212",
+        "author": "MD Zielinski",
+        "year": "2011",
+        "unstructured": "Zielinski MD, Eiken PW, Heller SF, et al. Prospective, observational validation of a multivariate small-bowel obstruction model to predict the need for operative intervention. J Am Coll Surg. 2011;212:1068.",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "key": "3_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "729",
+        "DOI": "10.1148/radiol.2413050965",
+        "volume": "241",
+        "author": "SP Sheedy",
+        "year": "2006",
+        "unstructured": "Sheedy SP, Earnest F 4th, Fletcher JG, et al. CT of small-bowel ischemia associated with obstruction in emergency department patients: diagnostic performance evaluation. Radiology. 2006;241:729–36.",
+        "journal-title": "Radiology"
+      },
+      {
+        "issue": "4",
+        "key": "3_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "661",
+        "DOI": "10.1097/TA.0000000000000824",
+        "volume": "79",
+        "author": "D Azagury",
+        "year": "2015",
+        "unstructured": "Azagury D, Liu RC, Morgan A, Spain DA. Small bowel obstruction: a practical step-by-step evidence-based approach to evaluation, decision making, and management. J Trauma Acute Care Surg. 2015;79(4):661–8.",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "issue": "6",
+        "key": "3_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "1114",
+        "DOI": "10.1016/j.amjsurg.2015.06.012",
+        "volume": "211",
+        "author": "M Ceresoli",
+        "year": "2016",
+        "unstructured": "Ceresoli M, Coccolini F, Catena F, Montori G, Di Saverio S, Sartelli M. Water-soluble contrast agent in adhesive small bowel obstruction: a systematic review and meta-analysis of diagnostic and therapeutic value. Am J Surg. 2016;211(6):1114–25.",
+        "journal-title": "Am J Surg"
+      },
+      {
+        "issue": "3",
+        "key": "3_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "669",
+        "DOI": "10.1007/s00330-014-3446-9",
+        "volume": "25",
+        "author": "S Kammerer",
+        "year": "2014",
+        "unstructured": "Kammerer S, Höink AJ, Wessling J, et al. Abdominal and pelvic CT: is positive enteric contrast still necessary? Results of a retrospective observational study. Eur Radiol. 2014;25(3):669–78.",
+        "journal-title": "Eur Radiol"
+      },
+      {
+        "issue": "5",
+        "key": "3_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "697",
+        "DOI": "10.1097/RCT.0b013e318031f516",
+        "volume": "31",
+        "author": "KM Elsayes",
+        "year": "2007",
+        "unstructured": "Elsayes KM, Menias CO, Smullen TL, Platt JF. Closed-loop small-bowel obstruction: diagnostic patterns by multidetector computed tomography. J Comput Assist Tomogr. 2007;31(5):697–701.",
+        "journal-title": "J Comput Assist Tomogr"
+      },
+      {
+        "issue": "6",
+        "key": "3_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "402",
+        "DOI": "10.1016/j.jacr.2013.02.020",
+        "volume": "10",
+        "author": "DS Katz",
+        "year": "2013",
+        "unstructured": "Katz DS, Baker ME, Rosen MP, et al. ACR appropriateness criteria suspected small bowel obstruction. J Am Coll Radiol. 2013;10(6):402–9.",
+        "journal-title": "J Am Coll Radiol"
+      },
+      {
+        "key": "3_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "628",
+        "DOI": "10.1007/s11605-009-1130-1",
+        "volume": "14",
+        "author": "S Acosta",
+        "year": "2010",
+        "unstructured": "Acosta S, Wadman M, Syk I, et al. Epidemiology and prognostic factors in acute superior mesenteric artery occlusion. J Gastrointest Surg. 2010;14:628.",
+        "journal-title": "J Gastrointest Surg"
+      },
+      {
+        "key": "3_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "452",
+        "DOI": "10.2214/AJR.05.1167",
+        "volume": "188",
+        "author": "MC Shih",
+        "year": "2007",
+        "unstructured": "Shih MC, Hagspiel K. CTA and MRA in mesenteric ischemia: part 1, role in diagnosis and differential diagnosis. AJR Am J Roentgenol. 2007;188:452–61.",
+        "journal-title": "AJR Am J Roentgenol"
+      },
+      {
+        "key": "3_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "71",
+        "DOI": "10.1016/j.annemergmed.2009.10.004",
+        "volume": "55",
+        "author": "JM Howell",
+        "year": "2010",
+        "unstructured": "Howell JM, Eddy OL, Lukens TW, Thiessen ME, Weingart SD, Decker WW. American College of Emergency Physicians clinical policy: critical issues in the evaluation and management of emergency department patients with suspected appendicitis. Ann Emerg Med. 2010;55:71–116.",
+        "journal-title": "Ann Emerg Med"
+      },
+      {
+        "issue": "4",
+        "key": "3_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "643",
+        "DOI": "10.1097/TA.0000000000001551",
+        "volume": "83",
+        "author": "S Reddy",
+        "year": "2017",
+        "unstructured": "Reddy S, Kelleher M, et al. A highly sensitive and specific combined clinical and sonographic score to diagnose appendicitis. J Trauma Acute Care Surg. 2017;83(4):643–9.",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "key": "3_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "4668",
+        "DOI": "10.1007/s00464-016-5245-7",
+        "volume": "30",
+        "author": "R Gorter",
+        "year": "2016",
+        "unstructured": "Gorter R, Eker H, et al. Diagnosis and management of acute appendicitis. EAES consensus development conference 2015. Surg Endosc. 2016;30:4668–90.",
+        "journal-title": "Surg Endosc"
+      },
+      {
+        "issue": "8",
+        "key": "3_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "791",
+        "DOI": "10.1016/j.jacr.2015.04.025",
+        "volume": "12",
+        "author": "JM Lorenz",
+        "year": "2015",
+        "unstructured": "Lorenz JM, Al-Refaie WB, Cash BD, Gaba RC, Gervais DA, Gipson MG, Kolbeck KJ, Kouri BE, Marshalleck FE, Nair AV, Ray CE Jr, Hohenwalter EJ. ACR appropriateness criteria radiologic management of infected fluid collections. J Am Coll Radiol. 2015;12(8):791–9.",
+        "journal-title": "J Am Coll Radiol"
+      },
+      {
+        "key": "3_CR33",
+        "first-page": "85",
+        "volume": "12",
+        "author": "EJ Hinchey",
+        "year": "1978",
+        "unstructured": "Hinchey EJ, Schaal PG, Richards GK. Treatment of perforated diverticular disease of the colon. Adv Surg. 1978;12:85–109.",
+        "journal-title": "Adv Surg"
+      },
+      {
+        "key": "3_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "22",
+        "DOI": "10.1186/s13017-017-0132-7",
+        "volume": "12",
+        "author": "M Sartelli",
+        "year": "2017",
+        "unstructured": "Sartelli M, Catena F, Abu-Zidan FM, Moore EE, et al. Management of intra-abdominal infections: recommendations by the WSES 2016 consensus conference. World J Emerg Surg. 2017;12:22. Published online 2017 May 4",
+        "journal-title": "World J Emerg Surg"
+      },
+      {
+        "issue": "3",
+        "key": "3_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "753",
+        "DOI": "10.1148/124.3.753",
+        "volume": "124",
+        "author": "A Alavi",
+        "year": "1977",
+        "unstructured": "Alavi A, Dann RW, Baum S, Biery DN. Scintigraphic detection of acute gastrointestinal bleeding. Radiology. 1977;124(3):753–6.",
+        "journal-title": "Radiology"
+      },
+      {
+        "issue": "7",
+        "key": "3_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "821",
+        "DOI": "10.1001/archsurg.1991.01410310031003",
+        "volume": "126",
+        "author": "DE Bentley",
+        "year": "1991",
+        "unstructured": "Bentley DE, Richardson JD. The role of tagged red blood cell imaging in the localization of gastrointestinal bleeding. Arch Surg. 1991;126(7):821–4.",
+        "journal-title": "Arch Surg"
+      },
+      {
+        "key": "3_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "744",
+        "DOI": "10.1148/radiol.11110143",
+        "volume": "260",
+        "author": "JE Huprich",
+        "year": "2011",
+        "unstructured": "Huprich JE, Fletcher JG, Fidler JL, Alexander JA, Guimaraes LS, Siddiki HA. Prospective blinded comparison of wireless capsule endoscopy and multiphase CT enterography in obscure gastrointestinal bleeding. Radiology. 2011;260:744–51.",
+        "journal-title": "Radiology"
+      },
+      {
+        "issue": "1",
+        "key": "3_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "96",
+        "DOI": "10.1016/j.ejrad.2009.05.012",
+        "volume": "76",
+        "author": "R Woodhams",
+        "year": "2010",
+        "unstructured": "Woodhams R, Nishimaki H, Fujii K, Kakita S, Hayakawa K. Usefulness of multidetector-row CT (MDCT) for the diagnosis of non-occlusive mesenteric ischemia (NOMI): assessment of morphology and diameter of the superior mesenteric artery (SMA) on multi-planar reconstructed (MPR) images. Eur J Radiol. 2010;76(1):96–102.",
+        "journal-title": "Eur J Radiol"
+      },
+      {
+        "issue": "12",
+        "key": "3_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "2347",
+        "DOI": "10.1007/s00330-004-2462-6",
+        "volume": "14",
+        "author": "W Wiesner",
+        "year": "2004",
+        "unstructured": "Wiesner W, Hauser A, Steinbrich W. Accuracy of multidetector row computed tomography for the diagnosis of acute bowel ischemia in a non-selected study population. Eur Radiol. 2004;14(12):2347–56.",
+        "journal-title": "Eur Radiol"
+      },
+      {
+        "key": "3_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "93",
+        "DOI": "10.1148/radiol.10091938",
+        "volume": "256",
+        "author": "J Menke",
+        "year": "2010",
+        "unstructured": "Menke J. Diagnostic accuracy of multidetector CT in acute mesenteric ischemia: systematic review and meta-analysis. Radiology. 2010;256:93–101.",
+        "journal-title": "Radiology"
+      },
+      {
+        "key": "3_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "1007",
+        "DOI": "10.1007/s00384-015-2225-7",
+        "volume": "30",
+        "author": "K Habib",
+        "year": "2015",
+        "unstructured": "Habib K, Gupta A, White D, Mazari FA, Wilson TR. Utility of contrast enema to assess anastomotic integrity and the natural history of radiological leaks after low rectal surgery: systematic review and meta-analysis. Int J Color Dis. 2015;30:1007–14.",
+        "journal-title": "Int J Color Dis"
+      },
+      {
+        "key": "3_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "197",
+        "DOI": "10.1007/s10350-006-0708-x",
+        "volume": "50",
+        "author": "GA Nicksa",
+        "year": "2007",
+        "unstructured": "Nicksa GA, Dring RV, Johnson KH, Sardella WV, Vignati PV, Cohen JL. Anastomotic leaks: what is the best diagnostic imaging study? Dis Colon Rectum. 2007;50:197–203.",
+        "journal-title": "Dis Colon Rectum"
+      },
+      {
+        "issue": "6",
+        "key": "3_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "402",
+        "DOI": "10.1016/j.jacr.2013.02.020",
+        "volume": "10",
+        "author": "T Lalani",
+        "year": "2013",
+        "unstructured": "Lalani T, Couto CA, Rosen MP, et al. ACR appropriateness criteria jaundice. J Am Coll Radiol. 2013;10(6):402–9.",
+        "journal-title": "J Am Coll Radiol"
+      },
+      {
+        "issue": "1",
+        "key": "3_CR44",
+        "first-page": "23",
+        "volume": "159",
+        "author": "PA Pasanen",
+        "year": "1993",
+        "unstructured": "Pasanen PA, Partanen KP, Pikkarainen PH, Alhava EM, Janatuinen EK, Pirinen AE. A comparison of ultrasound, computed tomography and endoscopic retrograde cholangiopancreatography in the differential diagnosis of benign and malignant jaundice and cholestasis. Eur J Surg. 1993;159(1):23–9.",
+        "journal-title": "Eur J Surg"
+      },
+      {
+        "issue": "5",
+        "key": "3_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "849",
+        "DOI": "10.1007/s00261-011-9827-5",
+        "volume": "37",
+        "author": "GW Wallace",
+        "year": "2012",
+        "unstructured": "Wallace GW, Davis MA, Semelka RC, Fielding JR. Imaging the pregnant patient with abdominal pain. Abdom Imaging. 2012;37(5):849–60.",
+        "journal-title": "Abdom Imaging"
+      },
+      {
+        "key": "3_CR46",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gurusamy KS, Giljaca V, Takwoingi Y, et al. Ultrasound versus liver function tests for diagnosis of common bile duct stones. Cochrane Database Syst Rev. 2015;(2):CD011548.",
+        "DOI": "10.1002/14651858.CD011548"
+      },
+      {
+        "key": "3_CR47",
+        "first-page": "CD011549",
+        "volume": "2",
+        "author": "V Giljaca",
+        "year": "2015",
+        "unstructured": "Giljaca V, Gurusamy KS, Takwoingi Y, Higgie D, Poropat G, Štimac D, Davidson BR. Endoscopic ultrasound versus magnetic resonance cholangiopancreatography for common bile duct stones. Cochrane Database Syst Rev. 2015;2:CD011549.",
+        "journal-title": "Cochrane Database Syst Rev"
+      },
+      {
+        "key": "3_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "2142",
+        "DOI": "10.1056/NEJMcp054958",
+        "volume": "354",
+        "author": "DC Whitcomb",
+        "year": "2006",
+        "unstructured": "Whitcomb DC. Clinical practice: acute pancreatitis. N Engl J Med. 2006;354:2142–50.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "3_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "435",
+        "DOI": "10.1038/ajg.2009.622",
+        "volume": "105",
+        "author": "GI Papachristou",
+        "year": "2009",
+        "unstructured": "Papachristou GI, Muddana V, Yadav D, O'Connell M, Sanders MK, Slivka A. Comparison of BISAP, Ranson’s, APACHE-II, and CTSI scores in predicting organ failure, complications, and mortality in acute pancreatitis. Am J Gastroenterol. 2009;105:435–41.",
+        "journal-title": "Am J Gastroenterol"
+      },
+      {
+        "key": "3_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "102",
+        "DOI": "10.1136/gutjnl-2012-302779",
+        "volume": "62",
+        "author": "PA Banks",
+        "year": "2013",
+        "unstructured": "Banks PA, Bollen TL, Dervenis C, et al. Classification of acute pancreatitis—2012: revision of the Atlanta classification and definitions by international consensus. Gut. 2013;62:102–11.",
+        "journal-title": "Gut"
+      },
+      {
+        "issue": "5",
+        "key": "3_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "921",
+        "DOI": "10.1097/TA.0000000000001244",
+        "volume": "81",
+        "author": "SW Leichtle",
+        "year": "2016",
+        "unstructured": "Leichtle SW, Tung L, Khan M, Inaba K, Demetriades D. The role of radiologic evaluation in necrotizing soft tissue infections. J Trauma Acute Care Surg. 2016;81(5):921–4.",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "issue": "5",
+        "key": "3_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "452",
+        "DOI": "10.1001/archsurg.2010.50",
+        "volume": "145",
+        "author": "N Zacharias",
+        "year": "2010",
+        "unstructured": "Zacharias N. Diagnosis of necrotizing soft tissue infections by computed tomography. Arch Surg. 2010;145(5):452–5.",
+        "journal-title": "Arch Surg"
+      },
+      {
+        "key": "3_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "82",
+        "DOI": "10.1007/s00268-017-4145-x",
+        "volume": "42",
+        "author": "M Martinez",
+        "year": "2017",
+        "unstructured": "Martinez M, Peponis T, Hage A, Yeh DD, Kaafarani HMA, Fagenholz PJ, King DR, de Moya MA, Velmahos GC. The role of computed tomography in the diagnosis of necrotizing soft tissue infections. World J Surg. 2017;42:82.",
+        "journal-title": "World J Surg"
+      },
+      {
+        "issue": "2",
+        "key": "3_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "277",
+        "DOI": "10.1016/S0033-8389(05)70278-5",
+        "volume": "39",
+        "author": "DW Struk",
+        "year": "2001",
+        "unstructured": "Struk DW, Munk PL, Lee MJ, Ho SG, Worsley DF. Imaging of soft tissue infections. Radiol Clin N Am. 2001;39(2):277–303.",
+        "journal-title": "Radiol Clin N Am"
+      }
+    ],
+    "container-title": [
+      "Emergency General Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-96286-3_3",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          9
+        ]
+      ],
+      "date-time": "2018-11-09T17:54:33Z",
+      "timestamp": 1541786073000
+    },
+    "score": 47.68177,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-3-319-96286-3_3"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          10
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783319962856",
+      "9783319962863"
+    ],
+    "references-count": 54,
+    "URL": "https://doi.org/10.1007/978-3-319-96286-3_3",
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2024-09-10T20:16:16Z",
+      "timestamp": 1725999376573
+    },
+    "publisher-location": "Cham",
+    "reference-count": 110,
+    "publisher": "Springer International Publishing",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783319962856"
+      },
+      {
+        "type": "electronic",
+        "value": "9783319962863"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              10
+            ]
+          ],
+          "date-time": "2018-11-10T00:00:00Z",
+          "timestamp": 1541808000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-319-96286-3_40",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          9
+        ]
+      ],
+      "date-time": "2018-11-09T12:52:30Z",
+      "timestamp": 1541767950000
+    },
+    "page": "451-463",
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Emergency General Surgery in the Elderly"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Bellal",
+        "family": "Joseph",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mohammad",
+        "family": "Hamidi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "40_CR1",
+        "unstructured": "Colby SL, Ortman JM. Projections of the size and composition of the US population: 2014 to 2060. US Census Bureau. 2015. 9."
+      },
+      {
+        "issue": "4",
+        "key": "40_CR2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1092",
+        "DOI": "10.1097/TA.0b013e31827e1bc7",
+        "volume": "74",
+        "author": "S Shafi",
+        "year": "2013",
+        "unstructured": "Shafi S, et al. Emergency general surgery: definition and estimated burden of disease. J Trauma Acute Care Surg. 2013;74(4):1092–7.",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "e9",
+        "DOI": "10.1002/bjs.9329",
+        "volume": "101",
+        "author": "B Stewart",
+        "year": "2014",
+        "unstructured": "Stewart B, et al. Global disease burden of conditions requiring emergency surgery. Br J Surg. 2014;101(1):e9.",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "issue": "7",
+        "key": "40_CR4",
+        "first-page": "A4876",
+        "volume": "61",
+        "author": "P Svenningsen",
+        "year": "2014",
+        "unstructured": "Svenningsen P, et al. Increased mortality in the elderly after emergency abdominal surgery. Dan Med J. 2014;61(7):A4876.",
+        "journal-title": "Dan Med J"
+      },
+      {
+        "issue": "5",
+        "key": "40_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "322",
+        "DOI": "10.1503/cjs.007611",
+        "volume": "55",
+        "author": "J Racz",
+        "year": "2012",
+        "unstructured": "Racz J, et al. Elective and emergency abdominal surgery in patients 90 years of age or older. Can J Surg. 2012;55(5):322.",
+        "journal-title": "Can J Surg"
+      },
+      {
+        "issue": "7",
+        "key": "40_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.4240/wjgs.v5.i7.216",
+        "volume": "5",
+        "author": "G Green",
+        "year": "2013",
+        "unstructured": "Green G, et al. Emergency laparotomy in octogenarians: a 5-year study of morbidity and mortality. World J Gastrointest Surg. 2013;5(7):216.",
+        "journal-title": "World J Gastrointest Surg"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "391",
+        "DOI": "10.1007/s11606-007-0322-1",
+        "volume": "22",
+        "author": "C Vogeli",
+        "year": "2007",
+        "unstructured": "Vogeli C, et al. Multiple chronic conditions: prevalence, health consequences, and implications for quality, care management, and costs. J Gen Intern Med. 2007;22(3):391–5.",
+        "journal-title": "J Gen Intern Med"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "403",
+        "DOI": "10.1007/s11606-007-0277-2",
+        "volume": "22",
+        "author": "TA Lee",
+        "year": "2007",
+        "unstructured": "Lee TA, et al. Mortality rate in veterans with multiple chronic conditions. J Gen Intern Med. 2007;22(3):403.",
+        "journal-title": "J Gen Intern Med"
+      },
+      {
+        "issue": "20",
+        "key": "40_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "2269",
+        "DOI": "10.1001/archinte.162.20.2269",
+        "volume": "162",
+        "author": "JL Wolff",
+        "year": "2002",
+        "unstructured": "Wolff JL, Starfield B, Anderson G. Prevalence, expenditures, and complications of multiple chronic conditions in the elderly. Arch Intern Med. 2002;162(20):2269–76.",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "275",
+        "DOI": "10.1093/gerona/62.3.275",
+        "volume": "62",
+        "author": "R Yancik",
+        "year": "2007",
+        "unstructured": "Yancik R, et al. Report of the national institute on aging task force on comorbidity. J Gerontol Ser A Biol Med Sci. 2007;62(3):275–80.",
+        "journal-title": "J Gerontol Ser A Biol Med Sci"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.1001/archsurg.1970.01340200028006",
+        "volume": "100",
+        "author": "P Peltokallio",
+        "year": "1970",
+        "unstructured": "Peltokallio P, Jauhiainen K. Acute appendicitis in the aged patient: study of 300 cases after the age of 60. Arch Surg. 1970;100(2):140–3.",
+        "journal-title": "Arch Surg"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.1016/S0002-9610(06)80026-7",
+        "volume": "160",
+        "author": "MC Horattas",
+        "year": "1990",
+        "unstructured": "Horattas MC, Guyton DP, Wu D. A reappraisal of appendicitis in the elderly. Am J Surg. 1990;160(3):291–3.",
+        "journal-title": "Am J Surg"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "6",
+        "DOI": "10.1186/1749-7922-9-6",
+        "volume": "9",
+        "author": "AH Omari",
+        "year": "2014",
+        "unstructured": "Omari AH, et al. Acute appendicitis in the elderly: risk factors for perforation. World J Emerg Surg. 2014;9(1):6.",
+        "journal-title": "World J Emerg Surg"
+      },
+      {
+        "issue": "10",
+        "key": "40_CR14",
+        "first-page": "573",
+        "volume": "50",
+        "author": "H Freund",
+        "year": "1984",
+        "unstructured": "Freund H, Rubinstein E. Appendicitis in the aged. Is it really different? Am Surg. 1984;50(10):573–6.",
+        "journal-title": "Am Surg"
+      },
+      {
+        "issue": "12",
+        "key": "40_CR15",
+        "first-page": "950",
+        "volume": "60",
+        "author": "H Paajanen",
+        "year": "1994",
+        "unstructured": "Paajanen H, Kettunen J, Kostiainen S. Emergency appendectomies in patients over 80 years. Am Surg. 1994;60(12):950–3.",
+        "journal-title": "Am Surg"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "194",
+        "DOI": "10.1016/S0002-9610(96)00011-6",
+        "volume": "173",
+        "author": "S Eldar",
+        "year": "1997",
+        "unstructured": "Eldar S, et al. Delay of surgery in acute appendicitis. Am J Surg. 1997;173(3):194–8.",
+        "journal-title": "Am J Surg"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1001/archsurg.1981.01380140015003",
+        "volume": "116",
+        "author": "P Peltokallio",
+        "year": "1981",
+        "unstructured": "Peltokallio P, Tykkä H. Evolution of the age distribution and mortality of acute appendicitis. Arch Surg. 1981;116(2):153–6.",
+        "journal-title": "Arch Surg"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "104",
+        "DOI": "10.1007/s00268-014-2794-6",
+        "volume": "39",
+        "author": "D Kollár",
+        "year": "2015",
+        "unstructured": "Kollár D, et al. Predicting acute appendicitis? A comparison of the Alvarado score, the Appendicitis Inflammatory Response Score and clinical assessment. World J Surg. 2015;39(1):104–9.",
+        "journal-title": "World J Surg"
+      },
+      {
+        "issue": "6",
+        "key": "40_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "923",
+        "DOI": "10.1097/TA.0000000000001030",
+        "volume": "80",
+        "author": "M Khalil",
+        "year": "2016",
+        "unstructured": "Khalil M, et al. Antibiotics for appendicitis! Not so fast. J Trauma Acute Care Surg. 2016;80(6):923–32.",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "issue": "7",
+        "key": "40_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1534",
+        "DOI": "10.1007/s00268-012-1545-9",
+        "volume": "36",
+        "author": "H Masoomi",
+        "year": "2012",
+        "unstructured": "Masoomi H, et al. Does laparoscopic appendectomy impart an advantage over open appendectomy in elderly patients? World J Surg. 2012;36(7):1534–9.",
+        "journal-title": "World J Surg"
+      },
+      {
+        "issue": "6",
+        "key": "40_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "474",
+        "DOI": "10.1177/000313480607200603",
+        "volume": "72",
+        "author": "AG Harrell",
+        "year": "2006",
+        "unstructured": "Harrell AG, et al. Advantages of laparoscopic appendectomy in the elderly. Am Surg. 2006;72(6):474–80.",
+        "journal-title": "Am Surg"
+      },
+      {
+        "issue": "5",
+        "key": "40_CR22",
+        "doi-asserted-by": "crossref",
+        "first-page": "479",
+        "DOI": "10.1016/j.surg.2003.12.007",
+        "volume": "135",
+        "author": "U Guller",
+        "year": "2004",
+        "unstructured": "Guller U, et al. Laparoscopic appendectomy in the elderly. Surgery. 2004;135(5):479–88.",
+        "journal-title": "Surgery"
+      },
+      {
+        "issue": "4",
+        "key": "40_CR23",
+        "doi-asserted-by": "crossref",
+        "first-page": "466",
+        "DOI": "10.1177/000313481107700424",
+        "volume": "77",
+        "author": "S-C Wu",
+        "year": "2011",
+        "unstructured": "Wu S-C, et al. Laparoscopic appendectomy provides better outcomes than open appendectomy in elderly patients. Am Surg. 2011;77(4):466–70.",
+        "journal-title": "Am Surg"
+      },
+      {
+        "issue": "23",
+        "key": "40_CR24",
+        "doi-asserted-by": "crossref",
+        "first-page": "2340",
+        "DOI": "10.1001/jama.2015.6154",
+        "volume": "313",
+        "author": "P Salminen",
+        "year": "2015",
+        "unstructured": "Salminen P, et al. Antibiotic therapy vs appendectomy for treatment of uncomplicated acute appendicitis: the APPAC randomized clinical trial. JAMA. 2015;313(23):2340–8.",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "9",
+        "key": "40_CR25",
+        "first-page": "995",
+        "volume": "137",
+        "author": "TT Hui",
+        "year": "2002",
+        "unstructured": "Hui TT, et al. Outcome of elderly patients with appendicitis: effect of computed tomography and laparoscopy. Arch Surg. 2002;137(9):995–1000.",
+        "journal-title": "Arch Surg"
+      },
+      {
+        "issue": "10",
+        "key": "40_CR26",
+        "first-page": "648",
+        "volume": "57",
+        "author": "A Hafif",
+        "year": "1991",
+        "unstructured": "Hafif A, et al. The management of acute cholecystitis in elderly patients. Am Surg. 1991;57(10):648–52.",
+        "journal-title": "Am Surg"
+      },
+      {
+        "key": "40_CR27",
+        "doi-asserted-by": "crossref",
+        "first-page": "690",
+        "DOI": "10.1007/978-1-4757-3432-4_49",
+        "volume-title": "Principles and practice of geriatric surgery",
+        "author": "KU Kahng",
+        "year": "2001",
+        "unstructured": "Kahng KU, Wargo JA. Gallstone disease in the elderly. In: Principles and practice of geriatric surgery. New York: Springer; 2001. p. 690–710."
+      },
+      {
+        "issue": "2",
+        "key": "40_CR28",
+        "first-page": "88",
+        "volume": "41",
+        "author": "O Adedeji",
+        "year": "1996",
+        "unstructured": "Adedeji O, McAdam W. Murphy’s sign, acute cholecystitis and elderly people. J R Coll Surg Edinb. 1996;41(2):88–9.",
+        "journal-title": "J R Coll Surg Edinb"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR29",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.1111/j.1477-2574.2009.00052.x",
+        "volume": "11",
+        "author": "A Winbladh",
+        "year": "2009",
+        "unstructured": "Winbladh A, et al. Systematic review of cholecystostomy as a treatment option in acute cholecystitis. HPB. 2009;11(3):183–93.",
+        "journal-title": "HPB"
+      },
+      {
+        "issue": "12",
+        "key": "40_CR30",
+        "doi-asserted-by": "crossref",
+        "first-page": "1521",
+        "DOI": "10.1046/j.1365-2168.1999.01284.x",
+        "volume": "86",
+        "author": "G Borzellino",
+        "year": "1999",
+        "unstructured": "Borzellino G, et al. Emergency cholecystostomy and subsequent cholecystectomy for acute gallstone cholecystitis in the elderly. Br J Surg. 1999;86(12):1521–5.",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "issue": "9",
+        "key": "40_CR31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1254",
+        "DOI": "10.1002/bjs.8836",
+        "volume": "99",
+        "author": "E McGillicuddy",
+        "year": "2012",
+        "unstructured": "McGillicuddy E, et al. Non-operative management of acute cholecystitis in the elderly. Br J Surg. 2012;99(9):1254–61.",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "issue": "5",
+        "key": "40_CR32",
+        "doi-asserted-by": "crossref",
+        "first-page": "459",
+        "DOI": "10.1007/s002689900416",
+        "volume": "22",
+        "author": "M Sugiyama",
+        "year": "1998",
+        "unstructured": "Sugiyama M, Tokuhara M, Atomi Y. Is percutaneous cholecystostomy the optimal treatment for acute cholecystitis in the very elderly? World J Surg. 1998;22(5):459–63.",
+        "journal-title": "World J Surg"
+      },
+      {
+        "issue": "21",
+        "key": "40_CR33",
+        "doi-asserted-by": "crossref",
+        "first-page": "1521",
+        "DOI": "10.1056/NEJM199805213382107",
+        "volume": "338",
+        "author": "L Ferzoco",
+        "year": "1998",
+        "unstructured": "Ferzoco L, Raptopoulos V, Silen W. Acute diverticulitis. N Engl J Med. 1998;338(21):1521–6.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "7",
+        "key": "40_CR34",
+        "doi-asserted-by": "crossref",
+        "first-page": "454",
+        "DOI": "10.1007/BF02555537",
+        "volume": "27",
+        "author": "MG Fischer",
+        "year": "1984",
+        "unstructured": "Fischer MG, Farkas AM. Diverticulitis of the cecum and ascending colon. Dis Colon Rectum. 1984;27(7):454–8.",
+        "journal-title": "Dis Colon Rectum"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR35",
+        "first-page": "376",
+        "volume": "14",
+        "author": "JM Kellum",
+        "year": "1992",
+        "unstructured": "Kellum JM, et al. Randomized, prospective comparison of cefoxitin and gentamicin-clindamycin in the treatment of acute colonic diverticulitis. Clin Ther. 1992;14(3):376–84.",
+        "journal-title": "Clin Ther"
+      },
+      {
+        "issue": "20",
+        "key": "40_CR36",
+        "doi-asserted-by": "crossref",
+        "first-page": "2057",
+        "DOI": "10.1056/NEJMcp073228",
+        "volume": "357",
+        "author": "DO Jacobs",
+        "year": "2007",
+        "unstructured": "Jacobs DO. Diverticulitis. N Engl J Med. 2007;357(20):2057–66.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "4",
+        "key": "40_CR37",
+        "doi-asserted-by": "crossref",
+        "first-page": "532",
+        "DOI": "10.1002/bjs.8688",
+        "volume": "99",
+        "author": "A Chabok",
+        "year": "2012",
+        "unstructured": "Chabok A, et al. Randomized clinical trial of antibiotics in acute uncomplicated diverticulitis. Br J Surg. 2012;99(4):532–9.",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR38",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1002/bjs.4873",
+        "volume": "92",
+        "author": "S Janes",
+        "year": "2005",
+        "unstructured": "Janes S, Meagher A, Frizelle F. Elective surgery after acute diverticulitis. Br J Surg. 2005;92(2):133–42.",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR39",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1053/bega.2000.0157",
+        "volume": "15",
+        "author": "G Lock",
+        "year": "2001",
+        "unstructured": "Lock G. Acute intestinal ischaemia. Best Pract Res Clin Gastroenterol. 2001;15(1):83–98.",
+        "journal-title": "Best Pract Res Clin Gastroenterol"
+      },
+      {
+        "issue": "10",
+        "key": "40_CR40",
+        "doi-asserted-by": "crossref",
+        "first-page": "1054",
+        "DOI": "10.1001/archinte.164.10.1054",
+        "volume": "164",
+        "author": "WA Oldenburg",
+        "year": "2004",
+        "unstructured": "Oldenburg WA, et al. Acute mesenteric ischemia: a clinical review. Arch Intern Med. 2004;164(10):1054–62.",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR41",
+        "doi-asserted-by": "crossref",
+        "first-page": "479",
+        "DOI": "10.1016/S0749-0704(18)30077-0",
+        "volume": "11",
+        "author": "RN Kaleya",
+        "year": "1995",
+        "unstructured": "Kaleya RN, Boley SJ. Acute mesenteric ischemia. Crit Care Clin. 1995;11(2):479–512.",
+        "journal-title": "Crit Care Clin"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR42",
+        "doi-asserted-by": "crossref",
+        "first-page": "632",
+        "DOI": "10.1148/radiology.199.3.8637978",
+        "volume": "199",
+        "author": "PG Taourel",
+        "year": "1996",
+        "unstructured": "Taourel PG, et al. Acute mesenteric ischemia: diagnosis with contrast-enhanced CT. Radiology. 1996;199(3):632–6.",
+        "journal-title": "Radiology"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR43",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.1148/radiol.10091938",
+        "volume": "256",
+        "author": "J Menke",
+        "year": "2010",
+        "unstructured": "Menke J. Diagnostic accuracy of multidetector CT in acute mesenteric ischemia: systematic review and meta-analysis. Radiology. 2010;256(1):93–101.",
+        "journal-title": "Radiology"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR44",
+        "doi-asserted-by": "crossref",
+        "first-page": "408",
+        "DOI": "10.2214/AJR.08.1138",
+        "volume": "192",
+        "author": "A Furukawa",
+        "year": "2009",
+        "unstructured": "Furukawa A, et al. CT diagnosis of acute mesenteric ischemia from various causes. Am J Roentgenol. 2009;192(2):408–16.",
+        "journal-title": "Am J Roentgenol"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR45",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1067/mva.2002.120373",
+        "volume": "35",
+        "author": "WM Park",
+        "year": "2002",
+        "unstructured": "Park WM, et al. Contemporary management of acute mesenteric ischemia: factors associated with survival. J Vasc Surg. 2002;35(3):445–52.",
+        "journal-title": "J Vasc Surg"
+      },
+      {
+        "issue": "6",
+        "key": "40_CR46",
+        "doi-asserted-by": "crossref",
+        "first-page": "802",
+        "DOI": "10.1002/bjs.7429",
+        "volume": "98",
+        "author": "M Møller",
+        "year": "2011",
+        "unstructured": "Møller M, et al. Multicentre trial of a perioperative protocol to reduce mortality in patients with peptic ulcer perforation. Br J Surg. 2011;98(6):802–10.",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "issue": "10000",
+        "key": "40_CR47",
+        "doi-asserted-by": "crossref",
+        "first-page": "1288",
+        "DOI": "10.1016/S0140-6736(15)00276-7",
+        "volume": "386",
+        "author": "K Søreide",
+        "year": "2015",
+        "unstructured": "Søreide K, et al. Perforated peptic ulcer. Lancet. 2015;386(10000):1288–98.",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR48",
+        "doi-asserted-by": "crossref",
+        "first-page": "457",
+        "DOI": "10.1016/S0749-0690(18)30042-9",
+        "volume": "15",
+        "author": "ML Borum",
+        "year": "1999",
+        "unstructured": "Borum ML. Peptic-ulcer disease in the elderly. Clin Geriatr Med. 1999;15(3):457–71.",
+        "journal-title": "Clin Geriatr Med"
+      },
+      {
+        "issue": "7",
+        "key": "40_CR49",
+        "doi-asserted-by": "crossref",
+        "first-page": "545",
+        "DOI": "10.2165/11537380-000000000-00000",
+        "volume": "27",
+        "author": "A Pilotto",
+        "year": "2010",
+        "unstructured": "Pilotto A, et al. Optimal management of peptic ulcer disease in the elderly. Drugs Aging. 2010;27(7):545–58.",
+        "journal-title": "Drugs Aging"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR50",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1016/S1873-9598(08)70026-7",
+        "volume": "1",
+        "author": "C-C Chang",
+        "year": "2007",
+        "unstructured": "Chang C-C, Wang S-S. Acute abdominal pain in the elderly. Int J Gerontol. 2007;1(2):77–82.",
+        "journal-title": "Int J Gerontol"
+      },
+      {
+        "issue": "5",
+        "key": "40_CR51",
+        "doi-asserted-by": "crossref",
+        "first-page": "524",
+        "DOI": "10.1007/s00261-004-0289-x",
+        "volume": "30",
+        "author": "A Furukawa",
+        "year": "2005",
+        "unstructured": "Furukawa A, et al. Gastrointestinal tract perforation: CT diagnosis of presence, site, and cause. Abdom Imaging. 2005;30(5):524–34.",
+        "journal-title": "Abdom Imaging"
+      },
+      {
+        "issue": "15",
+        "key": "40_CR52",
+        "doi-asserted-by": "crossref",
+        "first-page": "970",
+        "DOI": "10.1056/NEJM198904133201504",
+        "volume": "320",
+        "author": "TJ Crofts",
+        "year": "1989",
+        "unstructured": "Crofts TJ, et al. A randomized trial of nonoperative treatment for perforated peptic ulcer. N Engl J Med. 1989;320(15):970–3.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR53",
+        "doi-asserted-by": "crossref",
+        "first-page": "112",
+        "DOI": "10.1097/TA.0000000000001724",
+        "volume": "84",
+        "author": "F Jehan",
+        "year": "2018",
+        "unstructured": "Jehan F, et al. Perioperative glycemic control and postoperative complications in patients undergoing emergency general surgery: what is the role of HbA1c? J Trauma Acute Care Surg. 2018;84(1):112–7.",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "issue": "4",
+        "key": "40_CR54",
+        "doi-asserted-by": "crossref",
+        "first-page": "S81",
+        "DOI": "10.1016/j.jamcollsurg.2017.07.172",
+        "volume": "225",
+        "author": "F Jehan",
+        "year": "2017",
+        "unstructured": "Jehan F, et al. CT-measured waist-to-hip ratio: a reliable predictor of outcomes after emergency general surgery. J Am Coll Surg. 2017;225(4):S81.",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "issue": "4",
+        "key": "40_CR55",
+        "doi-asserted-by": "crossref",
+        "first-page": "S80",
+        "DOI": "10.1016/j.jamcollsurg.2017.07.170",
+        "volume": "225",
+        "author": "C Ho",
+        "year": "2017",
+        "unstructured": "Ho C, et al. Can sarcopenia quantified by CT predict adverse outcomes in emergency general surgery? J Am Coll Surg. 2017;225(4):S80.",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "issue": "6",
+        "key": "40_CR56",
+        "doi-asserted-by": "crossref",
+        "first-page": "551",
+        "DOI": "10.1001/archsurg.143.6.551",
+        "volume": "143",
+        "author": "HL Wald",
+        "year": "2008",
+        "unstructured": "Wald HL, et al. Indwelling urinary catheter use in the postoperative period: analysis of the national surgical infection prevention project data. Arch Surg. 2008;143(6):551–7.",
+        "journal-title": "Arch Surg"
+      },
+      {
+        "issue": "4",
+        "key": "40_CR57",
+        "doi-asserted-by": "crossref",
+        "first-page": "S92",
+        "DOI": "10.1097/01.CCM.0000122069.56161.97",
+        "volume": "32",
+        "author": "RA Rosenthal",
+        "year": "2004",
+        "unstructured": "Rosenthal RA, Kavic SM. Assessment and management of the geriatric patient. Crit Care Med. 2004;32(4):S92–S105.",
+        "journal-title": "Crit Care Med"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR58",
+        "doi-asserted-by": "crossref",
+        "first-page": "338",
+        "DOI": "10.1097/SLA.0b013e3181ae575a",
+        "volume": "250",
+        "author": "ML McGory",
+        "year": "2009",
+        "unstructured": "McGory ML, et al. Developing quality indicators for elderly surgical patients. Ann Surg. 2009;250(2):338–47.",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "issue": "8",
+        "key": "40_CR59",
+        "doi-asserted-by": "crossref",
+        "first-page": "766",
+        "DOI": "10.1001/jamasurg.2014.296",
+        "volume": "149",
+        "author": "B Joseph",
+        "year": "2014",
+        "unstructured": "Joseph B, et al. Superiority of frailty over age in predicting outcomes among geriatric trauma patients: a prospective analysis. JAMA Surg. 2014;149(8):766–72.",
+        "journal-title": "JAMA Surg"
+      },
+      {
+        "issue": "5",
+        "key": "40_CR60",
+        "doi-asserted-by": "crossref",
+        "first-page": "M283",
+        "DOI": "10.1093/gerona/57.5.M283",
+        "volume": "57",
+        "author": "WM Bortz",
+        "year": "2002",
+        "unstructured": "Bortz WM. A conceptual framework of frailty: a review. J Gerontol Ser A Biol Med Sci. 2002;57(5):M283–8.",
+        "journal-title": "J Gerontol Ser A Biol Med Sci"
+      },
+      {
+        "issue": "6",
+        "key": "40_CR61",
+        "doi-asserted-by": "crossref",
+        "first-page": "1083",
+        "DOI": "10.1016/j.jamcollsurg.2015.08.428",
+        "volume": "221",
+        "author": "TN Robinson",
+        "year": "2015",
+        "unstructured": "Robinson TN, et al. Frailty for surgeons: review of a National Institute on Aging Conference on Frailty for Specialists. J Am Coll Surg. 2015;221(6):1083.",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "issue": "12",
+        "key": "40_CR62",
+        "doi-asserted-by": "crossref",
+        "first-page": "1310",
+        "DOI": "10.1093/gerona/59.12.1310",
+        "volume": "59",
+        "author": "K Rockwood",
+        "year": "2004",
+        "unstructured": "Rockwood K, et al. Prevalence, attributes, and outcomes of fitness and frailty in community-dwelling older adults: report from the Canadian study of health and aging. J Gerontol Ser A Biol Med Sci. 2004;59(12):1310–7.",
+        "journal-title": "J Gerontol Ser A Biol Med Sci"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR63",
+        "doi-asserted-by": "crossref",
+        "first-page": "M146",
+        "DOI": "10.1093/gerona/56.3.M146",
+        "volume": "56",
+        "author": "LP Fried",
+        "year": "2001",
+        "unstructured": "Fried LP, et al. Frailty in older adults: evidence for a phenotype. J Gerontol Ser A Biol Med Sci. 2001;56(3):M146–57.",
+        "journal-title": "J Gerontol Ser A Biol Med Sci"
+      },
+      {
+        "issue": "9868",
+        "key": "40_CR64",
+        "doi-asserted-by": "crossref",
+        "first-page": "752",
+        "DOI": "10.1016/S0140-6736(12)62167-9",
+        "volume": "381",
+        "author": "A Clegg",
+        "year": "2013",
+        "unstructured": "Clegg A, et al. Frailty in elderly people. Lancet. 2013;381(9868):752–62.",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR65",
+        "doi-asserted-by": "crossref",
+        "first-page": "28",
+        "DOI": "10.1002/1097-4679(198601)42:1<28::AID-JCLP2270420104>3.0.CO;2-T",
+        "volume": "42",
+        "author": "JG Orme",
+        "year": "1986",
+        "unstructured": "Orme JG, Reis J, Herz EJ. Factorial and discriminant validity of the center for epidemiological studies depression (CES? D) scale. J Clin Psychol. 1986;42(1):28–33.",
+        "journal-title": "J Clin Psychol"
+      },
+      {
+        "issue": "5",
+        "key": "40_CR66",
+        "doi-asserted-by": "crossref",
+        "first-page": "489",
+        "DOI": "10.1503/cmaj.050051",
+        "volume": "173",
+        "author": "K Rockwood",
+        "year": "2005",
+        "unstructured": "Rockwood K, et al. A global clinical measure of fitness and frailty in elderly people. Can Med Assoc J. 2005;173(5):489–95.",
+        "journal-title": "Can Med Assoc J"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR67",
+        "doi-asserted-by": "crossref",
+        "first-page": "254",
+        "DOI": "10.1097/TA.0000000000001120",
+        "volume": "81",
+        "author": "TO Jokar",
+        "year": "2016",
+        "unstructured": "Jokar TO, et al. Emergency general surgery specific frailty index: a validation study. J Trauma Acute Care Surg. 2016;81(2):254–60.",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "issue": "6",
+        "key": "40_CR68",
+        "doi-asserted-by": "crossref",
+        "first-page": "1039",
+        "DOI": "10.1016/j.jamcollsurg.2011.03.001",
+        "volume": "212",
+        "author": "AM Ingraham",
+        "year": "2011",
+        "unstructured": "Ingraham AM, et al. Variation in quality of care after emergency general surgery procedures in the elderly. J Am Coll Surg. 2011;212(6):1039–48.",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "issue": "5",
+        "key": "40_CR69",
+        "doi-asserted-by": "crossref",
+        "first-page": "516",
+        "DOI": "10.1046/j.1532-5415.2001.49108.x",
+        "volume": "49",
+        "author": "ER Marcantonio",
+        "year": "2001",
+        "unstructured": "Marcantonio ER, et al. Reducing delirium after hip fracture: a randomized trial. J Am Geriatr Soc. 2001;49(5):516–22.",
+        "journal-title": "J Am Geriatr Soc"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR70",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1002/bjs.6843",
+        "volume": "97",
+        "author": "L Ansaloni",
+        "year": "2010",
+        "unstructured": "Ansaloni L, et al. Risk factors and incidence of postoperative delirium in elderly patients after elective and emergency surgery. Br J Surg. 2010;97(2):273–80.",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "issue": "9",
+        "key": "40_CR71",
+        "doi-asserted-by": "crossref",
+        "first-page": "696",
+        "DOI": "10.1046/j.1525-1497.2003.20602.x",
+        "volume": "18",
+        "author": "J McCusker",
+        "year": "2003",
+        "unstructured": "McCusker J, et al. The course of delirium in older medical inpatients. J Gen Intern Med. 2003;18(9):696–704.",
+        "journal-title": "J Gen Intern Med"
+      },
+      {
+        "issue": "6",
+        "key": "40_CR72",
+        "first-page": "394",
+        "volume": "76",
+        "author": "F Radtke",
+        "year": "2010",
+        "unstructured": "Radtke F, et al. Risk factors for inadequate emergence after anesthesia: emergence delirium and hypoactive emergence. Minerva Anestesiol. 2010;76(6):394–403.",
+        "journal-title": "Minerva Anestesiol"
+      },
+      {
+        "key": "40_CR73",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1016/j.sdj.2014.11.003",
+        "volume": "35",
+        "author": "C Strøm",
+        "year": "2014",
+        "unstructured": "Strøm C, Rasmussen L. Challenges in anaesthesia for elderly. Singap Dent J. 2014;35:23–9.",
+        "journal-title": "Singap Dent J"
+      },
+      {
+        "issue": "7598",
+        "key": "40_CR74",
+        "doi-asserted-by": "crossref",
+        "first-page": "842",
+        "DOI": "10.1136/bmj.39169.706574.AD",
+        "volume": "334",
+        "author": "J Young",
+        "year": "2007",
+        "unstructured": "Young J, Inouye SK. Delirium in older people. BMJ. 2007;334(7598):842.",
+        "journal-title": "BMJ"
+      },
+      {
+        "issue": "5",
+        "key": "40_CR75",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1001/archinte.1995.00430050035004",
+        "volume": "155",
+        "author": "CB Dyer",
+        "year": "1995",
+        "unstructured": "Dyer CB, Ashton CM, Teasdale TA. Postoperative delirium: a review of 80 primary data-collection studies. Arch Intern Med. 1995;155(5):461–5.",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR76",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1016/j.jhin.2004.09.038",
+        "volume": "60",
+        "author": "H Eriksen",
+        "year": "2005",
+        "unstructured": "Eriksen H, Iversen B, Aavitsland P. Prevalence of nosocomial infections in hospitals in Norway, 2002 and 2003. J Hosp Infect. 2005;60(1):40–5.",
+        "journal-title": "J Hosp Infect"
+      },
+      {
+        "key": "40_CR77",
+        "unstructured": "Datuashvili G, Tabutsadze T. Postoperative hospital acquired infections. Tbilisi State Medical University; Tbilisi, Georgia, XLV: p. 55."
+      },
+      {
+        "issue": "1",
+        "key": "40_CR78",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1016/S0025-7125(02)00155-4",
+        "volume": "87",
+        "author": "MM Beliveau",
+        "year": "2003",
+        "unstructured": "Beliveau MM, Multach M. Perioperative care for the elderly patient. Med Clin N Am. 2003;87(1):273–89.",
+        "journal-title": "Med Clin N Am"
+      },
+      {
+        "key": "40_CR79",
+        "unstructured": "Cunha BA, Tamminga C, Blair B. Urinary tract infections in males. In: Conns current therapy. WB Saunders Company; Philadelphia, PA, 2003. p. 733–5."
+      },
+      {
+        "key": "40_CR80",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1007/978-3-319-31831-8",
+        "volume-title": "Geriatrics for specialists",
+        "author": "JR Burton",
+        "year": "2017",
+        "unstructured": "Burton JR, Lee AG, Potter JF. Geriatrics for specialists. Cham: Springer; 2017."
+      },
+      {
+        "issue": "1",
+        "key": "40_CR81",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1111/j.1532-5415.2008.02053.x",
+        "volume": "57",
+        "author": "KS Kaye",
+        "year": "2009",
+        "unstructured": "Kaye KS, et al. The effect of surgical site infection on older operative patients. J Am Geriatr Soc. 2009;57(1):46–54.",
+        "journal-title": "J Am Geriatr Soc"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR82",
+        "doi-asserted-by": "crossref",
+        "first-page": "365",
+        "DOI": "10.1016/j.suc.2009.01.001",
+        "volume": "89",
+        "author": "JP Kirby",
+        "year": "2009",
+        "unstructured": "Kirby JP, Mazuski JE. Prevention of surgical site infection. Surg Clin N Am. 2009;89(2):365–89.",
+        "journal-title": "Surg Clin N Am"
+      },
+      {
+        "issue": "11",
+        "key": "40_CR83",
+        "doi-asserted-by": "crossref",
+        "first-page": "725",
+        "DOI": "10.1086/501572",
+        "volume": "20",
+        "author": "KB Kirkland",
+        "year": "1999",
+        "unstructured": "Kirkland KB, et al. The impact of surgical-site infections in the 1990s: attributable mortality, excess length of hospitalization, and extra costs. Infect Control Hosp Epidemiol. 1999;20(11):725–30.",
+        "journal-title": "Infect Control Hosp Epidemiol"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR84",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1016/j.amjsurg.2004.12.001",
+        "volume": "190",
+        "author": "EP Dellinger",
+        "year": "2005",
+        "unstructured": "Dellinger EP, et al. Hospitals collaborate to decrease surgical site infections. Am J Surg. 2005;190(1):9–15.",
+        "journal-title": "Am J Surg"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR85",
+        "doi-asserted-by": "crossref",
+        "first-page": "171",
+        "DOI": "10.1016/j.surg.2005.03.022",
+        "volume": "138",
+        "author": "ML McGory",
+        "year": "2005",
+        "unstructured": "McGory ML, Maggard MA, Ko CY. A meta-analysis of perioperative beta blockade: what is the actual risk reduction? Surgery. 2005;138(2):171–9.",
+        "journal-title": "Surgery"
+      },
+      {
+        "issue": "11",
+        "key": "40_CR86",
+        "first-page": "1435",
+        "volume": "287",
+        "author": "AD Auerbach",
+        "year": "2002",
+        "unstructured": "Auerbach AD, Goldman L. β-Blockers and reduction of cardiac events in noncardiac surgery: scientific review. JAMA. 2002;287(11):1435–44.",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR87",
+        "doi-asserted-by": "crossref",
+        "first-page": "736",
+        "DOI": "10.1016/S0735-1097(01)01432-2",
+        "volume": "38",
+        "author": "RH Mehta",
+        "year": "2001",
+        "unstructured": "Mehta RH, et al. Acute myocardial infarction in the elderly: differences by age. J Am Coll Cardiol. 2001;38(3):736–41.",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "issue": "7",
+        "key": "40_CR88",
+        "doi-asserted-by": "crossref",
+        "first-page": "1839",
+        "DOI": "10.1016/S0735-1097(01)01265-7",
+        "volume": "37",
+        "author": "G Landesberg",
+        "year": "2001",
+        "unstructured": "Landesberg G, et al. Myocardial infarction after vascular surgery: the role of prolonged, stress-induced, ST depression-type ischemia. J Am Coll Cardiol. 2001;37(7):1839–45.",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "40_CR89",
+        "volume-title": "Foundations of anesthesia: basic sciences for clinical practice",
+        "author": "HC Hemmings",
+        "year": "2006",
+        "unstructured": "Hemmings HC, Hopkins PM. Foundations of anesthesia: basic sciences for clinical practice. Philadelphia: Elsevier Health Sciences; 2006."
+      },
+      {
+        "issue": "3",
+        "key": "40_CR90",
+        "doi-asserted-by": "crossref",
+        "first-page": "572",
+        "DOI": "10.1097/00000542-199803000-00005",
+        "volume": "88",
+        "author": "NH Badner",
+        "year": "1998",
+        "unstructured": "Badner NH, et al. Myocardial infarction after noncardiac surgery. Anesthesiology. 1998;88(3):572–8.",
+        "journal-title": "Anesthesiology"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR91",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1093/bja/aei063",
+        "volume": "95",
+        "author": "H-J Priebe",
+        "year": "2005",
+        "unstructured": "Priebe H-J. Perioperative myocardial infarction—aetiology and prevention. BJA. 2005;95(1):3–19.",
+        "journal-title": "BJA"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR92",
+        "doi-asserted-by": "crossref",
+        "first-page": "542",
+        "DOI": "10.1016/S0735-1097(01)01788-0",
+        "volume": "39",
+        "author": "KA Eagle",
+        "year": "2002",
+        "unstructured": "Eagle KA, et al. ACC/AHA guideline update for perioperative cardiovascular evaluation for noncardiac surgery. J Am Coll Cardiol. 2002;39(3):542–53.",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "issue": "9",
+        "key": "40_CR93",
+        "doi-asserted-by": "crossref",
+        "first-page": "599",
+        "DOI": "10.4103/0019-5049.165857",
+        "volume": "59",
+        "author": "KV Kelkar",
+        "year": "2015",
+        "unstructured": "Kelkar KV. Post-operative pulmonary complications after non-cardiothoracic surgery. Indian J Anaesth. 2015;59(9):599.",
+        "journal-title": "Indian J Anaesth"
+      },
+      {
+        "issue": "2",
+        "key": "40_CR94",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.1007/BF01658926",
+        "volume": "17",
+        "author": "PL Ergina",
+        "year": "1993",
+        "unstructured": "Ergina PL, Gold SL, Meakins JL. Perioperative care of the elderly patient. World J Surg. 1993;17(2):192–8.",
+        "journal-title": "World J Surg"
+      },
+      {
+        "issue": "8",
+        "key": "40_CR95",
+        "doi-asserted-by": "crossref",
+        "first-page": "637",
+        "DOI": "10.7326/0003-4819-134-8-200104170-00008",
+        "volume": "134",
+        "author": "CA Polanczyk",
+        "year": "2001",
+        "unstructured": "Polanczyk CA, et al. Impact of age on perioperative complications and length of stay in patients undergoing noncardiac surgery. Ann Intern Med. 2001;134(8):637–43.",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "40_CR96",
+        "unstructured": "Miller RD, et al. Miller’s anesthesia e-book. Elsevier Health Sciences; Philadelphia, PA, 2014."
+      },
+      {
+        "issue": "14",
+        "key": "40_CR97",
+        "doi-asserted-by": "crossref",
+        "first-page": "1665",
+        "DOI": "10.1001/jama.300.14.1665",
+        "volume": "300",
+        "author": "AA Wright",
+        "year": "2008",
+        "unstructured": "Wright AA, et al. Associations between end-of-life discussions, patient mental health, medical care near death, and caregiver bereavement adjustment. JAMA. 2008;300(14):1665–73.",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "40_CR98",
+        "doi-asserted-by": "crossref",
+        "first-page": "c1345",
+        "DOI": "10.1136/bmj.c1345",
+        "volume": "340",
+        "author": "KM Detering",
+        "year": "2010",
+        "unstructured": "Detering KM, et al. The impact of advance care planning on end of life care in elderly patients: randomised controlled trial. BMJ. 2010;340:c1345.",
+        "journal-title": "BMJ"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR99",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1001/jamasurgery.2013.403",
+        "volume": "148",
+        "author": "TJP Olson",
+        "year": "2013",
+        "unstructured": "Olson TJP, et al. Surgeon-reported conflict with intensivists about postoperative goals of care. JAMA Surg. 2013;148(1):29–35.",
+        "journal-title": "JAMA Surg"
+      },
+      {
+        "key": "40_CR100",
+        "doi-asserted-by": "crossref",
+        "first-page": "615",
+        "DOI": "10.1097/00005650-199207000-00004",
+        "volume": "30",
+        "author": "JH Silber",
+        "year": "1992",
+        "unstructured": "Silber JH, et al. Hospital and patient characteristics associated with death after surgery: a study of adverse occurrence and failure to rescue. Med Care. 1992;30:615–29.",
+        "journal-title": "Med Care"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR101",
+        "doi-asserted-by": "crossref",
+        "first-page": "365",
+        "DOI": "10.1016/j.jamcollsurg.2014.02.035",
+        "volume": "219",
+        "author": "KH Sheetz",
+        "year": "2014",
+        "unstructured": "Sheetz KH, et al. The importance of the first complication: understanding failure to rescue after emergent surgery in the elderly. J Am Coll Surg. 2014;219(3):365–70.",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "issue": "6",
+        "key": "40_CR102",
+        "doi-asserted-by": "crossref",
+        "first-page": "1150",
+        "DOI": "10.1097/TA.0000000000001250",
+        "volume": "81",
+        "author": "B Joseph",
+        "year": "2016",
+        "unstructured": "Joseph B, et al. The impact of frailty on failure-to-rescue in geriatric trauma patients: a prospective study. J Trauma Acute Care Surg. 2016;81(6):1150–5.",
+        "journal-title": "J Trauma Acute Care Surg"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR103",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1016/j.amjsurg.2017.08.002",
+        "volume": "215",
+        "author": "M Khan",
+        "year": "2018",
+        "unstructured": "Khan M, et al. Geriatric rescue after surgery (GRAS) score to predict failure-to-rescue in geriatric emergency general surgery patients. Am J Surg. 2018;215(1):53–7.",
+        "journal-title": "Am J Surg"
+      },
+      {
+        "issue": "4",
+        "key": "40_CR104",
+        "doi-asserted-by": "crossref",
+        "first-page": "S96",
+        "DOI": "10.1016/j.jamcollsurg.2017.07.210",
+        "volume": "225",
+        "author": "M Khan",
+        "year": "2017",
+        "unstructured": "Khan M, et al. Impact of frailty on failure-to-rescue in geriatric emergency general surgery patients: a prospective study. J Am Coll Surg. 2017;225(4):S96–7.",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "key": "40_CR105",
+        "volume-title": "Geriatrics review syllabus: a core curriculum in geriatric medicine",
+        "author": "JC Beck",
+        "year": "2002",
+        "unstructured": "Beck JC. Geriatrics review syllabus: a core curriculum in geriatric medicine. New York: Wiley; 2002."
+      },
+      {
+        "issue": "5",
+        "key": "40_CR106",
+        "doi-asserted-by": "crossref",
+        "first-page": "312",
+        "DOI": "10.1503/cjs.011614",
+        "volume": "58",
+        "author": "MC Lees",
+        "year": "2015",
+        "unstructured": "Lees MC, et al. Perioperative factors predicting poor outcome in elderly patients following emergency general surgery: a multivariate regression analysis. Can J Surg. 2015;58(5):312.",
+        "journal-title": "Can J Surg"
+      },
+      {
+        "issue": "6",
+        "key": "40_CR107",
+        "doi-asserted-by": "crossref",
+        "first-page": "901",
+        "DOI": "10.1016/j.jamcollsurg.2010.01.028",
+        "volume": "210",
+        "author": "MA Makary",
+        "year": "2010",
+        "unstructured": "Makary MA, et al. Frailty as a predictor of surgical outcomes in older patients. J Am Coll Surg. 2010;210(6):901–8.",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "issue": "4",
+        "key": "40_CR108",
+        "doi-asserted-by": "crossref",
+        "first-page": "330",
+        "DOI": "10.1001/jamasurg.2015.4056",
+        "volume": "151",
+        "author": "JM Havens",
+        "year": "2016",
+        "unstructured": "Havens JM, et al. Defining rates and risk factors for readmissions following emergency general surgery. JAMA Surg. 2016;151(4):330–6.",
+        "journal-title": "JAMA Surg"
+      },
+      {
+        "issue": "1",
+        "key": "40_CR109",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1016/S1553-7250(11)37002-X",
+        "volume": "37",
+        "author": "LC Kaldjian",
+        "year": "2011",
+        "unstructured": "Kaldjian LC, Broderick A. Developing a policy for do not resuscitate orders within a framework of goals of care. Jt Comm J Qual Patient Saf. 2011;37(1):11–AP1.",
+        "journal-title": "Jt Comm J Qual Patient Saf"
+      },
+      {
+        "issue": "3",
+        "key": "40_CR110",
+        "doi-asserted-by": "crossref",
+        "first-page": "453",
+        "DOI": "10.1097/SLA.0b013e31826578fb",
+        "volume": "256",
+        "author": "JE Scarborough",
+        "year": "2012",
+        "unstructured": "Scarborough JE, et al. Failure-to-pursue rescue: explaining excess mortality in elderly emergency general surgical patients with preexisting “do-not-resuscitate” orders. Ann Surg. 2012;256(3):453–61.",
+        "journal-title": "Ann Surg"
+      }
+    ],
+    "container-title": [
+      "Emergency General Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-96286-3_40",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          14
+        ]
+      ],
+      "date-time": "2020-11-14T19:11:11Z",
+      "timestamp": 1605381071000
+    },
+    "score": 47.648315,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-3-319-96286-3_40"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          10
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783319962856",
+      "9783319962863"
+    ],
+    "references-count": 110,
+    "URL": "https://doi.org/10.1007/978-3-319-96286-3_40",
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          10
+        ]
+      ]
+    }
+  }
+]

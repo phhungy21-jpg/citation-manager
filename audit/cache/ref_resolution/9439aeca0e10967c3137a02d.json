@@ -1,0 +1,1799 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2023-10-05T11:55:06Z",
+      "timestamp": 1696506906389
+    },
+    "reference-count": 16,
+    "publisher": "Wiley",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 3622,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J Rural Health"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1111/j.1748-0361.2005.tb00109.x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          6,
+          7
+        ]
+      ],
+      "date-time": "2006-06-07T09:28:22Z",
+      "timestamp": 1149672502000
+    },
+    "page": "367-371",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Modeling the Emergency Ambulance Pass-By of Small Rural Hospitals in Victoria, Australia"
+    ],
+    "prefix": "10.1111",
+    "volume": "21",
+    "author": [
+      {
+        "given": "Patrick",
+        "family": "Gleeson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Stephen",
+        "family": "Duckett",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "reference": [
+      {
+        "key": "b1_199",
+        "unstructured": "1. JS Humphreys, and F. Rolley, Health and Health Care in Rural Australia . Armidale, New South Wales, Australia: University of New England;1991 : 50 -51 ."
+      },
+      {
+        "key": "b2_200",
+        "unstructured": "2. JS Humphreys, S Mathews-Cowey, and F. Rolley, Health Services Frameworks for Small Rural and Remote Communities: Issues and Options . Armidale, New South Wales, Australia: University of New England;1996 : 31 ."
+      },
+      {
+        "key": "b3_201",
+        "doi-asserted-by": "crossref",
+        "first-page": "286",
+        "DOI": "10.1111/j.1748-0361.1995.tb00426.x",
+        "volume": "11",
+        "author": "Morrisey MA",
+        "year": "1995",
+        "journal-title": "J Rural Health"
+      },
+      {
+        "key": "b4_202",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1067/mem.2003.23"
+      },
+      {
+        "key": "b5_203",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1080/10903120290938535",
+        "volume": "6",
+        "author": "Lagoe RJ",
+        "year": "2002",
+        "journal-title": "Prehosp Emerg Care"
+      },
+      {
+        "key": "b6_204",
+        "doi-asserted-by": "crossref",
+        "first-page": "59",
+        "DOI": "10.1071/AH020059",
+        "volume": "25",
+        "author": "Cameron P",
+        "year": "2002",
+        "journal-title": "Aust Health Rev"
+      },
+      {
+        "key": "b7_205",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.1080/10903120390937201",
+        "volume": "7",
+        "author": "Warden CR",
+        "year": "2003",
+        "journal-title": "Prehosp Emerg Care"
+      },
+      {
+        "key": "b8_206",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.1080/10903120390937184",
+        "volume": "7",
+        "author": "Lagoe RJ",
+        "year": "2003",
+        "journal-title": "Prehosp Emerg Care"
+      },
+      {
+        "key": "b9_207",
+        "doi-asserted-by": "crossref",
+        "first-page": "1095",
+        "DOI": "10.1111/j.1553-2712.2001.tb01122.x",
+        "volume": "8",
+        "author": "Kelen GD",
+        "year": "2001",
+        "journal-title": "Acad Emerg Med"
+      },
+      {
+        "key": "b10_208",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00063110-200103000-00009"
+      },
+      {
+        "key": "b11_209",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1080/10903129908958899",
+        "volume": "3",
+        "author": "Jermyn B.D.",
+        "year": "1999",
+        "journal-title": "Prehosp Emerg Care"
+      },
+      {
+        "key": "b12_210",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0735-6757(98)90090-0"
+      },
+      {
+        "key": "b13_211",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.324.7338.646"
+      },
+      {
+        "key": "b14_212",
+        "unstructured": "14. SJ Duckett, TJ Jackson, and B. Scully A discussion paper: Paying for hospital emergency care. March 1997. Available at: http://www.dhs.vic.gov.au/ahs/archive/emerg/sect8.htm. Accessed2005 ."
+      },
+      {
+        "key": "b15_213",
+        "volume-title": "Victoria in Fact",
+        "author": "Department of Infrastructure.",
+        "year": "1997"
+      },
+      {
+        "key": "b16_214",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0168-8510(95)94014-Y"
+      }
+    ],
+    "container-title": [
+      "The Journal of Rural Health"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1748-0361.2005.tb00109.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1111/j.1748-0361.2005.tb00109.x/fullpdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          7
+        ]
+      ],
+      "date-time": "2021-07-07T02:28:59Z",
+      "timestamp": 1625624939000
+    },
+    "score": 63.85606,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-0361.2005.tb00109.x"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          10
+        ]
+      ]
+    },
+    "references-count": 16,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2005,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/j.1748-0361.2005.tb00109.x"
+    ],
+    "URL": "https://doi.org/10.1111/j.1748-0361.2005.tb00109.x",
+    "ISSN": [
+      "0890-765X",
+      "1748-0361"
+    ],
+    "issn-type": [
+      {
+        "value": "0890-765X",
+        "type": "print"
+      },
+      {
+        "value": "1748-0361",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2005,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ],
+      "date-time": "2025-10-09T16:51:17Z",
+      "timestamp": 1760028677122
+    },
+    "reference-count": 10,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              8
+            ]
+          ],
+          "date-time": "2008-04-08T00:00:00Z",
+          "timestamp": 1207612800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 5211,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The Journal of Rural Health"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1994,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT:</jats:title><jats:p>Obtaining adequate physician availability remains a challenge to many rural communities. To ensure 24‐hour emergency room physician coverage, many rural hospitals contracted for emergency room services from out‐of‐area and/or local physician. Survey findings for 99 rural and rural referral Iowa hospitals addressing the nature, extent, and cost of contracting physician coverage of the emergency room are presented. While nearly two‐thirds of the hospitals reported contracting for at least some emergency room coverage, the extent and costs of contracts vary widely. Advantages and disadvantages of contracting for emergency room services are discussed.</jats:p>",
+    "DOI": "10.1111/j.1748-0361.1994.tb00206.x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2008-04-08T08:10:27Z",
+      "timestamp": 1207642227000
+    },
+    "page": "31-37",
+    "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Contracting for Emergency Room Coverage by Rural Hospitals"
+    ],
+    "prefix": "10.1111",
+    "volume": "10",
+    "author": [
+      {
+        "given": "Douglas S.",
+        "family": "Wakefield",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Roger",
+        "family": "Tracy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mark",
+        "family": "Myer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Robert",
+        "family": "Wallace",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          4,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "20",
+        "key": "e_1_2_1_2_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "2864",
+        "DOI": "10.1001/jama.1989.03430200108035",
+        "article-title": "Public policy and the supply of primary care physicians",
+        "volume": "262",
+        "author": "Barnett P.G.",
+        "year": "1989",
+        "journal-title": "Journal of the American Medical Association"
+      },
+      {
+        "key": "e_1_2_1_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1748-0361.1990.tb00188.x"
+      },
+      {
+        "key": "e_1_2_1_4_1",
+        "first-page": "36",
+        "article-title": "Rural dilemmas",
+        "author": "Hawks S.R.",
+        "year": "1992",
+        "journal-title": "Emergency Medical Services"
+      },
+      {
+        "key": "e_1_2_1_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1748-0361.1990.tb00684.x"
+      },
+      {
+        "key": "e_1_2_1_6_1",
+        "first-page": "34",
+        "volume-title": "Iowa hospitals: A profile of service to the people",
+        "author": "Iowa Hospital Association",
+        "year": "1993"
+      },
+      {
+        "key": "e_1_2_1_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00001888-199012000-00027"
+      },
+      {
+        "key": "e_1_2_1_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1377/hlthaff.8.2.63"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_1_9_1",
+        "first-page": "55",
+        "article-title": "The unique role of rural emergency medical care systems",
+        "volume": "4",
+        "author": "MacDonald S.C.",
+        "year": "1988",
+        "journal-title": "Emergency Care Quarterly"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_2_1_10_1",
+        "first-page": "36",
+        "article-title": "Rural EMS",
+        "volume": "16",
+        "author": "Mueller B.",
+        "year": "1984",
+        "journal-title": "Emergency"
+      },
+      {
+        "issue": "5",
+        "key": "e_1_2_1_11_1",
+        "first-page": "41",
+        "article-title": "The crisis in rural prehospital emergency care",
+        "volume": "19",
+        "author": "Parker M.",
+        "year": "1990",
+        "journal-title": "Emergency Medical Services"
+      }
+    ],
+    "container-title": [
+      "The Journal of Rural Health"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1748-0361.1994.tb00206.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1748-0361.1994.tb00206.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2023-10-24T01:13:02Z",
+      "timestamp": 1698109982000
+    },
+    "score": 58.668785,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1748-0361.1994.tb00206.x"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1994,
+          1
+        ]
+      ]
+    },
+    "references-count": 10,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            1994,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/j.1748-0361.1994.tb00206.x"
+    ],
+    "URL": "https://doi.org/10.1111/j.1748-0361.1994.tb00206.x",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0890-765X",
+      "1748-0361"
+    ],
+    "issn-type": [
+      {
+        "value": "0890-765X",
+        "type": "print"
+      },
+      {
+        "value": "1748-0361",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1994,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2008-04-08",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2022-04-03T00:24:44Z",
+      "timestamp": 1648945484808
+    },
+    "reference-count": 0,
+    "publisher": "Rural and Remote Health",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "RRH"
+    ],
+    "DOI": "10.22605/rrh3298",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          19
+        ]
+      ],
+      "date-time": "2021-04-19T01:48:34Z",
+      "timestamp": 1618796914000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Comparison of rates of emergency department procedures and critical diagnoses in metropolitan and rural hospitals"
+    ],
+    "prefix": "10.22605",
+    "author": [
+      {
+        "given": "James",
+        "family": "Waymack",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Stephen",
+        "family": "Markwell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Joseph",
+        "family": "Milbrandt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ted",
+        "family": "Clark",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "9889",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          13
+        ]
+      ]
+    },
+    "container-title": [
+      "Rural and Remote Health"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          19
+        ]
+      ],
+      "date-time": "2021-04-19T01:48:34Z",
+      "timestamp": 1618796914000
+    },
+    "score": 57.227352,
+    "resource": {
+      "primary": {
+        "URL": "https://www.rrh.org.au/journal/article/3298"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          13
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.22605/rrh3298",
+    "ISSN": [
+      "1445-6354"
+    ],
+    "issn-type": [
+      {
+        "value": "1445-6354",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          6
+        ]
+      ],
+      "date-time": "2026-05-06T07:12:39Z",
+      "timestamp": 1778051559303,
+      "version": "3.51.4"
+    },
+    "reference-count": 26,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              16
+            ]
+          ],
+          "date-time": "2026-01-16T00:00:00Z",
+          "timestamp": 1768521600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 15,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2026-01-01T00:00:00Z",
+          "timestamp": 1767225600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The Journal of Rural Health"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>Rural hospitals face persistent financial challenges that often threaten their survival. To address this, the 2023 “Rural Emergency Hospital” (REH) designation offers Critical Access Hospitals and hospitals with fewer than 50 beds enhanced Medicare reimbursement and annual facility payments if they discontinue inpatient services while maintaining outpatient care and a 24‐hour emergency department. This study evaluates the characteristics of hospitals that choose REH conversion and examines the perceived community impact of the change.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>We analyze Centers for Medicare &amp; Medicaid Services cost report data to compare converting hospitals to eligible nonconverting hospitals. We also conduct a content analysis of 33 news articles and phone interviews with local rural residents to assess how REH conversions are presented in the media and perceived in communities.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>Hospitals that converted to REH status had low inpatient volumes, occupancy rates, and revenues, suggesting they were positioned to benefit financially from eliminating inpatient services. Content analysis revealed that news articles were primarily neutral in tone (54.5%), with most (90%) describing the financial benefits of conversion. Interviews with rural residents highlighted negative perceptions of local health care and revealed that many preferred not to use their local REH even when available.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>REH designation may provide financial lifelines to rural hospitals with declining inpatient demand, but community skepticism and limited willingness to use REHs may constrain their role in sustaining health care access. The long‐term effectiveness of this policy may depend on addressing both financial viability and community trust in rural health care delivery.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1111/jrh.70112",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2026-01-17T07:12:28Z",
+      "timestamp": 1768633948000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Rural emergency hospitals: Emerging patterns of adaptation and community perception"
+    ],
+    "prefix": "10.1111",
+    "volume": "42",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8665-2357",
+        "authenticated-orcid": false,
+        "given": "Anders",
+        "family": "Van Sandt",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Agricultural and Resource Economics Colorado State University Fort Collins Colorado USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kaitlyn",
+        "family": "Line",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Social Work Utah State University Logan Utah USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anja",
+        "family": "Gruber",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Agricultural and Applied Economics University of Wyoming Laramie Wyoming USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6328-4272",
+        "authenticated-orcid": false,
+        "given": "Cris",
+        "family": "Meier",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Social Work Utah State University Logan Utah USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7511-1168",
+        "authenticated-orcid": false,
+        "given": "Craig",
+        "family": "Carpenter",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Agricultural, Food, and Resource Economics Michigan State University East Lansing Michigan USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Scott",
+        "family": "Loveridge",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Agricultural, Food, and Resource Economics Michigan State University East Lansing Michigan USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_9_2_1",
+        "unstructured": "KimY PerryJ ThompsonK PinkG.The First Year of Rural Emergency Hospitals: REHs Serve Relatively Disadvantaged Counties. Findings Brief. NC Rural Health Research Program.2024.https://www.shepscenter.unc.edu/download/28140/?tmstv=1734453095"
+      },
+      {
+        "key": "e_1_2_9_3_1",
+        "volume-title": "The Rural Health Safety Net Under Pressure",
+        "author": "Chartis Group",
+        "year": "2019"
+      },
+      {
+        "key": "e_1_2_9_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jrh.12553"
+      },
+      {
+        "key": "e_1_2_9_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1475‐6773.13965"
+      },
+      {
+        "key": "e_1_2_9_6_1",
+        "volume-title": "Rural America at a Glance. 2023 Edition",
+        "author": "Cromartie J",
+        "year": "2024"
+      },
+      {
+        "key": "e_1_2_9_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40471-022-00313-9"
+      },
+      {
+        "key": "e_1_2_9_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2024.23010"
+      },
+      {
+        "key": "e_1_2_9_9_1",
+        "article-title": "Hospitals in Rural N.M. on the Brink",
+        "author": "Porter G",
+        "year": "2024",
+        "journal-title": "The Santa Fe New Mexican"
+      },
+      {
+        "key": "e_1_2_9_10_1",
+        "unstructured": "RamosL SaadiY.Why Most Oklahoma Rural Hospitals Haven't Accepted Congress’ Offer to Save Them.2023."
+      },
+      {
+        "key": "e_1_2_9_11_1",
+        "volume-title": "How Does Medical Inflation Compare to Inflation in the Rest of the Economy?",
+        "author": "Rakshit S",
+        "year": "2024"
+      },
+      {
+        "key": "e_1_2_9_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/tmj.2023.0277"
+      },
+      {
+        "key": "e_1_2_9_13_1",
+        "unstructured": "MalcolmA.US News Rural Hospitals 1 KH. McClatchy‐Tribune Photo Service. Tribune Content Agency. March 9.2023."
+      },
+      {
+        "key": "e_1_2_9_14_1",
+        "volume-title": "A Rural Hospital's Excruciating Choice: $3.2 M a Year or Inpatient Care?",
+        "author": "Baumgaertner E",
+        "year": "2022"
+      },
+      {
+        "key": "e_1_2_9_15_1",
+        "unstructured": "National Conference of State Legislatures.Health Costs Coverage and Delivery State Legislation.2024. Accessed February 12 2025.https://app.powerbi.com/view?r=eyJrIjoiNDNlNTJjNzItNjQyNS00NjVmLTk4MjItZDYzZjBlNTQ0ZDA2IiwidCI6IjM4MmZiOGIwLTRkYzMtNDEwNy04MGJkLTM1OTViMjQzMmZhZSIsImMiOjZ9"
+      },
+      {
+        "key": "e_1_2_9_16_1",
+        "unstructured": "Rural Health Redesign Center. Rural Emergency Hospital (REH) Model Frequently Asked Questions. Version 22.2025. Accessed February 14 2025.https://rhrco.org/wp‐content/uploads/2024/08/REHFAQJanuary2025.pdf"
+      },
+      {
+        "key": "e_1_2_9_17_1",
+        "unstructured": "States News Service.U.S. Senators Tina Smith Jerry Moran Introduce Bipartisan Bill to Help Save Rural Hospitals.2024."
+      },
+      {
+        "key": "e_1_2_9_18_1",
+        "unstructured": "Center RuralHealthRedesign.How Can a Rural Emergency Hospital Designation Benefit Your Community?2025. Accessed February 11 2025.https://rhrco.org/assessing‐reh‐designation/"
+      },
+      {
+        "key": "e_1_2_9_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1377/hlthaff.2023.00673"
+      },
+      {
+        "key": "e_1_2_9_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1377/hlthaff.2022.01191"
+      },
+      {
+        "key": "e_1_2_9_21_1",
+        "unstructured": "SacarnyA.hcris_merged_hospyear.Rdata [Data set]. Hospital Cost Reports (HCRIS).2025.https://github.com/asacarny/hospital‐cost‐reports"
+      },
+      {
+        "key": "e_1_2_9_22_1",
+        "unstructured": "LexisNexis. (n.d.). Nexis Uni [Database]. LexisNexis 2025.https://www.nexisuni.com"
+      },
+      {
+        "key": "e_1_2_9_23_1",
+        "unstructured": "Rural Health Information Hub.Rural Emergency Hospitals.2025. Accessed February 15 2025.https://www.ruralhealthinfo.org/topics/rural‐emergency‐hospitals"
+      },
+      {
+        "key": "e_1_2_9_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/160940690600500107"
+      },
+      {
+        "key": "e_1_2_9_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1609406919899220"
+      },
+      {
+        "key": "e_1_2_9_26_1",
+        "unstructured": "SaldañaJ.The Coding Manual for Qualitative Researchers.2021."
+      },
+      {
+        "key": "e_1_2_9_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1475-6773.14047"
+      }
+    ],
+    "container-title": [
+      "The Journal of Rural Health"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jrh.70112",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/jrh.70112",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jrh.70112",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          6
+        ]
+      ],
+      "date-time": "2026-05-06T06:17:46Z",
+      "timestamp": 1778048266000
+    },
+    "score": 57.124615,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jrh.70112"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "references-count": 26,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/jrh.70112"
+    ],
+    "URL": "https://doi.org/10.1111/jrh.70112",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0890-765X",
+      "1748-0361"
+    ],
+    "issn-type": [
+      {
+        "value": "0890-765X",
+        "type": "print"
+      },
+      {
+        "value": "1748-0361",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-10-22",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-12-29",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2026-01-16",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "e70112"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T12:55:48Z",
+      "timestamp": 1768481748347,
+      "version": "3.49.0"
+    },
+    "reference-count": 63,
+    "publisher": "Wiley",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              24
+            ]
+          ],
+          "date-time": "2025-05-24T00:00:00Z",
+          "timestamp": 1748044800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 84,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The Journal of Rural Health"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Purpose</jats:title><jats:p>Pregnancy‐related mortality has increased steadily over the last 30 years in the United States; during the same period, rural communities have lost access to care as rural hospitals and obstetric units have shut their doors. Rural critical access hospitals (CAHs) are often the only option for a pregnant person in a rural community needing emergency care. This study aimed to apply a uniform assessment of the capacity of hospitals that do not have obstetric units to meet the emergency obstetric care needs of the rural communities they serve, with the goal of facilitating ongoing obstetric emergency readiness assessments that can be used in the rural context.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>The study team conducted facility assessments across Montana's statewide system of hospital care. The Centers for Disease Control and Prevention (CDC) Levels of Care Assessment Tool (LOCATe) was used in hospitals with an obstetrics unit (<jats:italic>N</jats:italic> = 25). The team adapted the World Health Organization (WHO) Emergency Obstetric Care (EmOC) framework to assess readiness in hospitals without an obstetrics unit (<jats:italic>N</jats:italic> = 34) but with Emergency Medical Treatment and Labor Act (EMTALA)‐based obligations to patients presenting to emergency departments with obstetric emergencies.</jats:p></jats:sec><jats:sec><jats:title>Findings</jats:title><jats:p>None of the responding hospitals without obstetric units met criteria indicating readiness to provide comprehensive emergency obstetric care (CEmOC), and only one hospital met criteria indicating readiness to provide basic emergency obstetric care (BEmOC).</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>Significant work must be done to bring CAHs up to a level of readiness where they can safely and effectively screen, stabilize, and transfer or accept an obstetric emergency. The WHO EmOC framework can provide a starting point for assessing the capacity of hospitals without obstetric units, but a standardized assessment, such as LOCATe, should be developed to improve readiness for obstetric emergencies.</jats:p></jats:sec>",
+    "DOI": "10.1111/jrh.70037",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          24
+        ]
+      ],
+      "date-time": "2025-05-24T07:53:47Z",
+      "timestamp": 1748073227000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Obstetric care in rural critical access hospitals: A domestic application of the World Health Organization Emergency Obstetric Care framework in rural communities"
+    ],
+    "prefix": "10.1111",
+    "volume": "41",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6073-5760",
+        "authenticated-orcid": false,
+        "given": "Annie L.",
+        "family": "Glover",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Rural Institute for Inclusive Communities University of Montana  Missoula Montana USA"
+          },
+          {
+            "name": "School of Public Health University of Alabama at Birmingham  Birmingham Alabama USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6690-960X",
+        "authenticated-orcid": false,
+        "given": "Diane",
+        "family": "Brown",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Rural Institute for Inclusive Communities University of Montana  Missoula Montana USA"
+          },
+          {
+            "name": "School of Public &amp; Community Health Sciences University of Montana  Missoula Montana USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5370-8350",
+        "authenticated-orcid": false,
+        "given": "Carly",
+        "family": "Holman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Rural Institute for Inclusive Communities University of Montana  Missoula Montana USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0005-7850-9047",
+        "authenticated-orcid": false,
+        "given": "Megan",
+        "family": "Nelson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Rural Institute for Inclusive Communities University of Montana  Missoula Montana USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          24
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_9_2_1",
+        "unstructured": "GunjaMZ GumasED WilliamsRDII.The U.S. Maternal Mortality Crisis Continues to Worsen: An International Comparison.The Commonwealth Fund;2022. doi:10.26099/8vem‐fc65"
+      },
+      {
+        "key": "e_1_2_9_3_1",
+        "unstructured": "TikkanenR GunjaM FitzGeraldM ZephyrinL.Maternal Mortality and Maternity Care in the United States Compared to 10 Other Developed Countries.The Commonwealth Fund;2020."
+      },
+      {
+        "key": "e_1_2_9_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwab300"
+      },
+      {
+        "key": "e_1_2_9_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.p2038"
+      },
+      {
+        "key": "e_1_2_9_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajog.2021.02.028"
+      },
+      {
+        "key": "e_1_2_9_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamahealthforum.2020.0517"
+      },
+      {
+        "key": "e_1_2_9_8_1",
+        "unstructured": "TrostS BusackerA LeonardM.Pregnancy‐related deaths: data from Maternal Mortality Review Committees in 38 U.S. States 2020.CDC: Maternal Mortality Prevention; May 24 2024. Accessed May 28 2024.https://www.cdc.gov/maternal‐mortality/php/data‐research/2020‐mmrc.html"
+      },
+      {
+        "key": "e_1_2_9_9_1",
+        "unstructured": "TrostS BeauregardJ ChandraG et al.Pregnancy‐related deaths among American Indian or Alaska Native persons: data from Maternal Mortality Review Committees in 36 US States 2017–2019.CDC: Maternal Mortality Prevention. September 19 2023. Accessed December 1 2023.https://www.cdc.gov/maternal‐mortality/php/data‐research/2017‐2019‐aian.html"
+      },
+      {
+        "key": "e_1_2_9_10_1",
+        "unstructured": "TrostS BeauregardJ ChandraG et al.Pregnancy‐related deaths: data from Maternal Mortality Review Committees in 36 US States 2017–2019.CDC: Maternal Mortality Prevention. September 26 2022. Accessed December 1 2023.https://www.cdc.gov/maternal‐mortality/php/data‐research/mmrc‐2017‐2019.html"
+      },
+      {
+        "key": "e_1_2_9_11_1",
+        "unstructured": "CDC Pregnancy Mortality Surveillance System.Updated Pregnancy Mortality Surveillance System data to include 2020.CDC: Maternal Mortality Prevention. May 20 2024. Accessed June 24 2024.https://www.cdc.gov/maternal‐mortality/php/pregnancy‐mortality‐surveillance/index.html"
+      },
+      {
+        "key": "e_1_2_9_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1377/hlthaff.2017.0338"
+      },
+      {
+        "key": "e_1_2_9_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1475‐6773.12441"
+      },
+      {
+        "key": "e_1_2_9_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamanetworkopen.2021.25373"
+      },
+      {
+        "key": "e_1_2_9_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41372‐022‐01490‐7"
+      },
+      {
+        "key": "e_1_2_9_16_1",
+        "unstructured": "BriganceC LucasR JonesE et al.Nowhere to Go: Maternity Care Deserts Across the U.S. (Report No. 3).March of Dimes;2022. Accessed October 21 2022.https://www.marchofdimes.org/research/maternity‐care‐deserts‐report.aspx"
+      },
+      {
+        "key": "e_1_2_9_17_1",
+        "unstructured": "Anonymous.Rural Hospitals at Risk of Closing Report.Center for Healthcare Quality & Payment Reform;2024. Accessed April 29 2024.https://ruralhospitals.chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf"
+      },
+      {
+        "key": "e_1_2_9_18_1",
+        "unstructured": "TopchikM BalfourB BrownT WiesseA PinetteM.Rural America's OB Deserts Widen in Fallout from Pandemic.Chartis;2023. Accessed April 29 2024.https://www.chartis.com/sites/default/files/documents/rural_americas_ob_deserts_widen_in_fallout_from_pandemic_12‐19‐23.pdf"
+      },
+      {
+        "key": "e_1_2_9_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2018.1830"
+      },
+      {
+        "key": "e_1_2_9_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jrh.12572"
+      },
+      {
+        "key": "e_1_2_9_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.socscimed.2023.115897"
+      },
+      {
+        "key": "e_1_2_9_22_1",
+        "unstructured": "Centers for Medicare & Medicaid Services (CMS).Emergency Medical Treatment & Labor Act (EMTALA). Accessed April 17 2022.https://www.cms.gov/Regulations‐and‐Guidance/Legislation/EMTALA"
+      },
+      {
+        "key": "e_1_2_9_23_1",
+        "volume-title": "Hospital‐Based Triage of Obstetric Patients",
+        "author": "Macones GA",
+        "year": "2016"
+      },
+      {
+        "key": "e_1_2_9_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jrh.12539"
+      },
+      {
+        "key": "e_1_2_9_25_1",
+        "unstructured": "World Health Organization.Monitoring Emergency Obstetric Care: A Handbook.WHO;2009. Accessed April 12 2022.https://www.who.int/publications/i/item/9789241547734"
+      },
+      {
+        "key": "e_1_2_9_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjgh‐2018‐000778"
+      },
+      {
+        "key": "e_1_2_9_27_1",
+        "unstructured": "HolmanC GloverAL FertalyK NelsonM.Montana Levels of Care Assessment Tool (LOCATe) Statewide Report.University of Montana Rural Institute for Inclusive Communities;2022. Accessed March 3 2022.https://www.mtmoms.org/levels‐of‐care‐assessment‐tool‐locate/"
+      },
+      {
+        "key": "e_1_2_9_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12913‐023‐09552‐y"
+      },
+      {
+        "key": "e_1_2_9_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/jwh.2017.6771"
+      },
+      {
+        "key": "e_1_2_9_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajog.2019.05.046"
+      },
+      {
+        "key": "e_1_2_9_31_1",
+        "unstructured": "Centers for Disease Control & Prevention Division of Reproductive Health.CDC Levels of Care Assessment Tool (CDC LOCATe).CDC: Maternal Infant Health. June 16 2021. Accessed April 13 2022.https://www.cdc.gov/reproductivehealth/maternalinfanthealth/cdc‐locate/index.html"
+      },
+      {
+        "key": "e_1_2_9_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/AOG.0000000000005128"
+      },
+      {
+        "key": "e_1_2_9_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1542/peds.2012‐1999"
+      },
+      {
+        "key": "e_1_2_9_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jbi.2008.08.010"
+      },
+      {
+        "key": "e_1_2_9_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jbi.2019.103208"
+      },
+      {
+        "key": "e_1_2_9_36_1",
+        "unstructured": "Google.Google Maps distance calculations between hospitals without obstetrics units to various levels of maternal and neonatal care. Accessed December 11 2023.https://www.google.com/maps"
+      },
+      {
+        "key": "e_1_2_9_37_1",
+        "unstructured": "US Census Bureau.Office of Management and Budget: Metropolitan and Micropolitan Statistical Areas.US Census Bureau;2020. Accessed July 11 2024.https://www.census.gov/programs‐surveys/metro‐micro.html"
+      },
+      {
+        "issue": "166",
+        "key": "e_1_2_9_38_1",
+        "first-page": "1",
+        "article-title": "2013 NCHS urban‐rural classification scheme for counties",
+        "author": "Ingram DD",
+        "year": "2014",
+        "journal-title": "Vital Health Stat 2"
+      },
+      {
+        "key": "e_1_2_9_39_1",
+        "unstructured": "US Department of Agriculture Economic Research Service.Rural‐Urban Continuum Codes. Accessed July 11 2024.https://www.ers.usda.gov/data‐products/rural‐urban‐continuum‐codes.aspx"
+      },
+      {
+        "key": "e_1_2_9_40_1",
+        "volume-title": "Stata Statistical Software: Release 18",
+        "author": "StataCorp",
+        "year": "2023"
+      },
+      {
+        "key": "e_1_2_9_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0287904"
+      },
+      {
+        "key": "e_1_2_9_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471‐2393‐11‐76"
+      },
+      {
+        "key": "e_1_2_9_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/AOG.0000000000003891"
+      },
+      {
+        "key": "e_1_2_9_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2212111"
+      },
+      {
+        "key": "e_1_2_9_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resplu.2024.100571"
+      },
+      {
+        "key": "e_1_2_9_46_1",
+        "unstructured": "World Health Organization.WHO Recommendation on Routes of Oxytocin Administration for the Prevention of Postpartum Haemorrhage after Vaginal Birth.World Health Organization;2020. Accessed May 16 2024.https://www.ncbi.nlm.nih.gov/books/NBK564752/"
+      },
+      {
+        "issue": "10",
+        "key": "e_1_2_9_47_1",
+        "first-page": "13625",
+        "article-title": "Conservative and timely treatment in retained products of conception: a case report of placenta accreta ritention",
+        "volume": "8",
+        "author": "Antonella G",
+        "year": "2015",
+        "journal-title": "Int J Clin Exp Pathol"
+      },
+      {
+        "key": "e_1_2_9_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/rg.333125177"
+      },
+      {
+        "key": "e_1_2_9_49_1",
+        "unstructured": "American College of Obstetricians & Gynecologists.Blood Bank: Massive Transfusion Protocol (MTP). Accessed February 22 2024.https://www.acog.org/‐/media/project/acog/acogorg/files/forms/districts/smi‐ob‐hemorrhage‐bundle‐poster‐massive‐transfusion‐protocol.pdf"
+      },
+      {
+        "key": "e_1_2_9_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.suc.2007.12.007"
+      },
+      {
+        "key": "e_1_2_9_51_1",
+        "unstructured": "Montana EMS Trauma Systems & Injury Prevention Program Montana Department of Public Health & Human Services.Montana Injury Prevention Annual Report. Accessed June 19 2024.https://dphhs.mt.gov/assets/publichealth/EMSTS/Data/IPAnnualReport2020Data.pdf"
+      },
+      {
+        "key": "e_1_2_9_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/heapol/czz028"
+      },
+      {
+        "key": "e_1_2_9_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GRF.0000000000000749"
+      },
+      {
+        "key": "e_1_2_9_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/GRF.0000000000000741"
+      },
+      {
+        "key": "e_1_2_9_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1213/ANE.0000000000006883"
+      },
+      {
+        "key": "e_1_2_9_56_1",
+        "unstructured": "Alliance for Innovation on Maternal Health.AIM Obstetric Emergency Readiness Resource Kit. Accessed July 12 2024.https://saferbirth.org/aim‐obstetric‐emergency‐readiness‐resource‐kit/"
+      },
+      {
+        "key": "e_1_2_9_57_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1475‐6773.14365"
+      },
+      {
+        "key": "e_1_2_9_58_1",
+        "unstructured": "Alliance for Innovation on Maternal Health.Strategies for Implementation of Regionalized Risk‐Appropriate Maternal Care on a National Scale.AIM;2022. Accessed July 12 2024.https://saferbirth.org/wp‐content/uploads/10‐18‐2022‐FINAL_AIM_HRSA‐LoMC‐Report.pdf"
+      },
+      {
+        "key": "e_1_2_9_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.AOG.0000444442.04111.c6"
+      },
+      {
+        "key": "e_1_2_9_60_1",
+        "unstructured": "National Advisory Committee on Rural Health and Human Services.Maternal and Obstetric Care Challenges in Rural America: Policy Brief and Recommendations to the Secretary.Health Resources and Services Administration;2020. Accessed July 12 2024.https://www.hrsa.gov/sites/default/files/hrsa/advisory‐committees/rural/publications/2020‐maternal‐obstetric‐care‐challenges.pdf"
+      },
+      {
+        "key": "e_1_2_9_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.semperi.2020.151241"
+      },
+      {
+        "key": "e_1_2_9_62_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jogn.2018.05.004"
+      },
+      {
+        "issue": "4",
+        "key": "e_1_2_9_63_1",
+        "first-page": "375",
+        "article-title": "Toward improving the outcome of pregnancy: Recommendations for the regional development of perinatal health services",
+        "volume": "46",
+        "author": "Ryan GM",
+        "year": "1975",
+        "journal-title": "Obstet Gynecol"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_9_64_1",
+        "first-page": "134",
+        "article-title": "The promise of regional perinatal care as a national strategy for improved maternal and infant care",
+        "volume": "97",
+        "author": "Johnson KG",
+        "year": "1982",
+        "journal-title": "Public Health Rep"
+      }
+    ],
+    "container-title": [
+      "The Journal of Rural Health"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jrh.70037",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2025-06-19T12:56:14Z",
+      "timestamp": 1750337774000
+    },
+    "score": 56.792023,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jrh.70037"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    },
+    "references-count": 63,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/jrh.70037"
+    ],
+    "URL": "https://doi.org/10.1111/jrh.70037",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0890-765X",
+      "1748-0361"
+    ],
+    "issn-type": [
+      {
+        "value": "0890-765X",
+        "type": "print"
+      },
+      {
+        "value": "1748-0361",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2024-10-29",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-05-05",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-05-24",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "e70037"
+  }
+]

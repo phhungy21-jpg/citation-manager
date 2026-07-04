@@ -1,0 +1,897 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          9
+        ]
+      ],
+      "date-time": "2024-09-09T22:00:16Z",
+      "timestamp": 1725919216337
+    },
+    "edition-number": "1",
+    "reference-count": 1,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781315178523"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781315178523-6",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          4
+        ]
+      ],
+      "date-time": "2018-09-04T05:54:10Z",
+      "timestamp": 1536040450000
+    },
+    "page": "113-134",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Access and Deprivation in Local Authority Housing"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "given": "John",
+        "family": "English",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "reference": [
+      {
+        "key": "ref6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Damer, S. (1974) ‘Wine Alley: The Sociology of a Dreadful Enclosure’, Sociological Review, vol. 22, no. 2, pp. 221–248.",
+        "DOI": "10.1111/j.1467-954X.1974.tb00250.x"
+      }
+    ],
+    "container-title": [
+      "Urban Deprivation and the Inner City"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2021-04-05T04:03:37Z",
+      "timestamp": 1617595417000
+    },
+    "score": 46.760845,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781351713634/chapters/10.4324/9781315178523-6"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          12
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781315178523"
+    ],
+    "references-count": 1,
+    "URL": "https://doi.org/10.4324/9781315178523-6",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2022-03-29T03:51:47Z",
+      "timestamp": 1648525907266
+    },
+    "reference-count": 13,
+    "publisher": "Informa UK Limited",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Local Government Studies"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1995,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1080/03003939508433777",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2011-09-22T13:15:35Z",
+      "timestamp": 1316697335000
+    },
+    "page": "284-292",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Regional socio‐economic variations and deprivation indices"
+    ],
+    "prefix": "10.1080",
+    "volume": "21",
+    "author": [
+      {
+        "given": "Peter",
+        "family": "Lee",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "reference": [
+      {
+        "key": "CIT0001",
+        "unstructured": "Forrest, R. and Gordon, D. 1993. “‘People and Places: A 1991 Census Atlas of England’”. SAUS, University of Bristol."
+      },
+      {
+        "key": "CIT0002",
+        "unstructured": "Dale, Source A., ed. 1993.The 1991 Census User's Guide202London"
+      },
+      {
+        "key": "CIT0003",
+        "unstructured": "Green, A. 1994. “‘The Geography of Poverty and Wealth’”. Institute for Employment Research, University of Warwick."
+      },
+      {
+        "key": "CIT0004",
+        "unstructured": "Noble. 1994. “’Changing Patterns of Income and Wealth in Oxford and Oldham’”. University of Oxford."
+      },
+      {
+        "key": "CIT0005",
+        "series-title": "Occasional Paper No. 28",
+        "author": "Robson B.",
+        "year": "1994"
+      },
+      {
+        "key": "CIT0006",
+        "volume-title": "Deprivation Index: A Review of Approaches and a Matrix of Results",
+        "author": "Robson B.",
+        "year": "1995"
+      },
+      {
+        "key": "CIT0007",
+        "unstructured": "Townsend, P., Phillimore, P. and Beattie, A. 1988. “‘Health and Deprivation, Inequality in the North’”. London"
+      },
+      {
+        "key": "CIT0008",
+        "unstructured": "Townsend, P., Phillimore, P. and Beattie, A. 1994. “‘Health and Inequality: The Northern Region 1981–91’”. University of Newcastle."
+      },
+      {
+        "key": "CIT0009",
+        "unstructured": "Gordon, D. and Forrest, R. 1995. “‘People and Places II: Social and Economic Distinctions in England’”. 5SAUS, University of Bristol."
+      },
+      {
+        "key": "CIT0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "93",
+        "DOI": "10.2307/2987507",
+        "volume": "34",
+        "author": "Thunhurst C.",
+        "journal-title": "The Statistician"
+      },
+      {
+        "key": "CIT0011",
+        "first-page": "44",
+        "volume": "6",
+        "author": "Holtermann S.",
+        "year": "1975",
+        "journal-title": "Social Trends"
+      },
+      {
+        "key": "CIT0012",
+        "unstructured": "Lee, P., Murie, A. and Gordon, D. 1995. “‘Area Measures of Deprivation’”. CURS, The University of Birmingham."
+      },
+      {
+        "key": "CIT0013",
+        "unstructured": "Carstairs, V. and Morris, R. 1991. “‘Deprivation and Health in Scotland’”. Aberdeen University Press."
+      }
+    ],
+    "container-title": [
+      "Local Government Studies"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.tandfonline.com/doi/pdf/10.1080/03003939508433777",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2017-06-20T02:47:24Z",
+      "timestamp": 1497926844000
+    },
+    "score": 44.2067,
+    "resource": {
+      "primary": {
+        "URL": "http://www.tandfonline.com/doi/abs/10.1080/03003939508433777"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1995,
+          6
+        ]
+      ]
+    },
+    "references-count": 13,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            1995,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/03003939508433777"
+    ],
+    "URL": "https://doi.org/10.1080/03003939508433777",
+    "ISSN": [
+      "0300-3930",
+      "1743-9388"
+    ],
+    "issn-type": [
+      {
+        "value": "0300-3930",
+        "type": "print"
+      },
+      {
+        "value": "1743-9388",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1995,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2024-09-13T09:24:02Z",
+      "timestamp": 1726219442215
+    },
+    "edition-number": "3",
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1093/oed/4205880542",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          20
+        ]
+      ],
+      "date-time": "2023-07-20T23:08:05Z",
+      "timestamp": 1689894485000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "deprivation, n."
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Oxford English Dictionary"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          20
+        ]
+      ],
+      "date-time": "2023-07-20T23:20:13Z",
+      "timestamp": 1689895213000
+    },
+    "score": 44.188908,
+    "resource": {
+      "primary": {
+        "URL": "https://oed.com/dictionary/deprivation_n"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          2
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/oed/4205880542",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2024-09-13T09:23:29Z",
+      "timestamp": 1726219409980
+    },
+    "edition-number": "3",
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1093/oed/1102539264",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          21
+        ]
+      ],
+      "date-time": "2023-07-21T04:06:55Z",
+      "timestamp": 1689912415000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "self-deprivation, n."
+    ],
+    "prefix": "10.1093",
+    "member": "286",
+    "container-title": [
+      "Oxford English Dictionary"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          21
+        ]
+      ],
+      "date-time": "2023-07-21T04:20:55Z",
+      "timestamp": 1689913255000
+    },
+    "score": 43.177113,
+    "resource": {
+      "primary": {
+        "URL": "https://oed.com/dictionary/self-deprivation_n"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          2
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/oed/1102539264",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "Comprehensive R Archive Network",
+        "acronym": [
+          "CRAN"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          4
+        ]
+      ],
+      "date-time": "2026-06-04T03:31:22Z",
+      "timestamp": 1780543882263,
+      "version": "3.54.1"
+    },
+    "description": "Computes various geospatial indices of socioeconomic deprivation  and disparity in the United States. Some indices are considered \"spatial\"  because they consider the values of neighboring (i.e., adjacent) census  geographies in their computation, while other indices are \"aspatial\"  because they only consider the value within each census geography. Two  types of aspatial neighborhood deprivation indices (NDI) are available,  including: (1) based on Messer et al. (2006) <doi:10.1007/s11524-006-9094-x> and (2) based on Andrews et al. (2020) <doi:10.1080/17445647.2020.1750066>  and Slotman et al. (2022) <doi:10.1016/j.dib.2022.108002> who use variables chosen by Roux and Mair (2010) <doi:10.1111/j.1749-6632.2009.05333.x>. Both are a decomposition of multiple demographic characteristics from the U.S. Census Bureau American Community  Survey 5-year estimates (ACS-5; 2006-2010 onward). Using data from the ACS-5 (2005-2009 onward), the package can also compute indices of racial or ethnic residential segregation, including but limited to those discussed in Massey  & Denton (1988) <doi:10.1093/sf/67.2.281>, and additional indices of  socioeconomic disparity.",
+    "reference-count": 46,
+    "publisher": "The R Foundation",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "content-updated": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          24
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.32614/cran.package.ndi",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          13
+        ]
+      ],
+      "date-time": "2024-06-13T02:34:46Z",
+      "timestamp": 1718246086000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "ndi: Neighborhood Deprivation Indices"
+    ],
+    "prefix": "10.32614",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9477-8582",
+        "authenticated-orcid": true,
+        "given": "Ian D.",
+        "family": "Buller",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "17266",
+    "content-created": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          13
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Atkinson AB (1970). \"On the Measurement of Inequality.\" _Journal of Economic Theory_, *2*(3), 244-263. <doi:10.1016/0022-0531(70)90039-6>.",
+        "DOI": "10.1016/0022-0531(70)90039-6"
+      },
+      {
+        "key": "ref2",
+        "unstructured": "Duncan OD, Cuzzort RP, Duncan B (1961). _Statistical Geography: Problems in Analyzing Area Data_. Free Press."
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Massey DS, Denton NA (1988). \"The Dimensions of Residential Segregation.\" _Social Forces_, *67*, 281-315. <doi:10.1093/sf/67.2.281>.",
+        "DOI": "10.1093/sf/67.2.281"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Massey DS, Denton NA (1988). \"The Dimensions of Residential Segregation.\" _Social Forces_, *67*, 281-315. <doi:10.1093/sf/67.2.281>.",
+        "DOI": "10.1093/sf/67.2.281"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Massey DS, Denton NA (1988). \"The Dimensions of Residential Segregation.\" _Social Forces_, *67*, 281-315. <doi:10.1093/sf/67.2.281>.",
+        "DOI": "10.1093/sf/67.2.281"
+      },
+      {
+        "key": "ref6",
+        "unstructured": "Duncan OD, Cuzzort RP, Duncan B (1961). _Statistical Geography: Problems in Analyzing Area Data_. Free Press."
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Duncan OD, Duncan B (1955). \"A Methodological Analysis of Segregation Indexes.\" _American Sociological Review_, *20*(2), 210-217. <doi:10.2307/2088328>.",
+        "DOI": "10.2307/2088328"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "unstructured": "James DR, Taeuber KK (1985). \"Measures of Segregation.\" _Sociological Methodology_, *15*, 1-32. <doi:10.2307/270845>.",
+        "DOI": "10.2307/270845"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hoover EM (1941). \"Interstate Redistribution of Population, 1850-1940.\" _Journal of Economic History_, *1*, 199-205. <doi:10.2307/2223319>.",
+        "DOI": "10.2307/2223319"
+      },
+      {
+        "key": "ref10",
+        "unstructured": "Duncan OD, Cuzzort RP, Duncan B (1961). _Statistical Geography: Problems in Analyzing Area Data_. Free Press."
+      },
+      {
+        "key": "ref11",
+        "unstructured": "Morgan BS (1983). \"A Distance-Decay Based Interaction Index to Measure Residential Segregation.\" _Area_, *15*, 211-217. <https://www.jstor.org/stable/20001935>."
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Massey DS, Denton NA (1988). \"The Dimensions of Residential Segregation.\" _Social Forces_, *67*, 281-315. <doi:10.1093/sf/67.2.281>.",
+        "DOI": "10.1093/sf/67.2.281"
+      },
+      {
+        "key": "ref13",
+        "unstructured": "Morgan BS (1983). \"A Distance-Decay Based Interaction Index to Measure Residential Segregation.\" _Area_, *15*, 211-217. <https://www.jstor.org/stable/20001935>."
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Massey DS, Denton NA (1988). \"The Dimensions of Residential Segregation.\" _Social Forces_, *67*, 281-315. <doi:10.1093/sf/67.2.281>.",
+        "DOI": "10.1093/sf/67.2.281"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bravo MA, Leong MC, Gelfand AE, Miranda ML (2021). \"Assessing Disparity Using Measures of Racial and Educational Isolation.\" _International Journal of Environmental Research and Public Health_, *18*(17), 9384. <doi:10.3390/ijerph18179384>.",
+        "DOI": "10.3390/ijerph18179384"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gini C (1921). \"Measurement of Inequality of Incomes.\" _The Economic Journal_, *31*(121), 124-126. <doi:10.2307/2223319>.",
+        "DOI": "10.2307/2223319"
+      },
+      {
+        "key": "ref17",
+        "unstructured": "Theil H (1972). _Statistical decomposition analysis. With applications in the social and administrative sciences_. North-Holland Publishing Company. ISBN 978-0-444-10378-9."
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Theil H, Finizza AJ (1971). \"A Note on the Measurement of Racial Integration of Schools by Means of Informational Concepts.\" _Journal of Mathematical Sociology_, *1*, 187-194. <doi:10.1080/0022250X.1971.9989795>.",
+        "DOI": "10.1080/0022250X.1971.9989795"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Feldman JM, Waterman PD, Coull BA, Krieger N (2015). \"Spatial Social Polarisation: Using the Index of Concentration at the Extremes Jointly for Income and Race/Ethnicity to Analyse Risk of Hypertension.\" _Journal of Epidemiology and Community Health_, *69*, 1199-207. <doi:10.1136/jech-2015-205728>.",
+        "DOI": "10.1136/jech-2015-205728"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Krieger N, Waterman PD, Spasojevic J, Li W, Maduro G, Van Wye G (2016). \"Public Health Monitoring of Privilege and Deprivation With the Index of Concentration at the Extremes.\" _American Journal of Public Health_, *106*, 256-263. <doi:10.2105/AJPH.2015.302955>.",
+        "DOI": "10.2105/AJPH.2015.302955"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bemanian A, Beyer KM (2017). \"Measures Matter: The Local Exposure/Isolation (LEx/Is) Metrics and Relationships between Local-Level Segregation and Breast Cancer Survival.\" _Cancer Epidemiology, Biomarkers & Prevention_, *26*, 516-524. <doi:10.1158/1055-9965.EPI-16-0926>.",
+        "DOI": "10.1158/1055-9965.EPI-16-0926"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Merton RK (1938). \"Social Structure and Anomie.\" _American Sociological Review_, *3*(5), 672-682. <doi:10.2307/2084686>.",
+        "DOI": "10.2307/2084686"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Sudano JJ, Perzynski A, Wong DW, Colabianchi N, Litaker D (2013). \"Neighborhood Racial Residential Segregation and Changes in Health or Death Among Older Adults.\" _Health & Place_, *19*, 80-88. <doi:10.1016/j.healthplace.2012.09.015>.",
+        "DOI": "10.1016/j.healthplace.2012.09.015"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Messer LC, Laraia BA, Kaufman JS, Eyster J, Holzman C, Culhane J, Elo I, Burke J, O'Campo P (2006). \"The Development of a Standardized Neighborhood Deprivation Index.\" _Journal of Urban Health_, *83*(6), 1041-1062. <doi:10.1007/s11524-006-9094-x>.",
+        "DOI": "10.1007/s11524-006-9094-x"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Andrews MA, Tomura K, Claudel SE, Xu S, Ceasar JN, Collins BS, Langerman S, Mitchell VM, Baumer Y, Powell-Wiley TM (2020). \"Geospatial Analysis of Neighborhood Deprivation Index (NDI) for the United States by County.\" _Journal of Maps_, *16*, 101-112. <doi:10.1080/17445647.2020.1750066>.",
+        "DOI": "10.1080/17445647.2020.1750066"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Slotman BA, Stinchcomb DG, Powell-Wiley TM, Ostendorf DM, Saelens BE, Gorin AA, Zenk SN, Berrigan D (2022). \"Environmental Data and Methods from the Accumulating Data to Optimally Predict Obesity Treatment (ADOPT) Core Measures Environmental Working Group.\" _Data in Brief_, *41*, 108002. <doi:10.1016/j.dib.2022.108002>.",
+        "DOI": "10.1016/j.dib.2022.108002"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Duncan OD, Duncan B (1955). \"Residential Distribution and Occupational Stratification.\" _American Journal of Sociology_, *60*(5), 493-503. <doi:10.1086/221609>.",
+        "DOI": "10.1086/221609"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Massey DS, Denton NA (1988). \"The Dimensions of Residential Segregation.\" _Social Forces_, *67*, 281-315. <doi:10.1093/sf/67.2.281>.",
+        "DOI": "10.1093/sf/67.2.281"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Massey DS, Denton NA (1988). \"The Dimensions of Residential Segregation.\" _Social Forces_, *67*, 281-315. <doi:10.1093/sf/67.2.281>.",
+        "DOI": "10.1093/sf/67.2.281"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Massey DS, Denton NA (1988). \"The Dimensions of Residential Segregation.\" _Social Forces_, *67*, 281-315. <doi:10.1093/sf/67.2.281>.",
+        "DOI": "10.1093/sf/67.2.281"
+      },
+      {
+        "key": "ref31",
+        "unstructured": "Duncan OD, Cuzzort RP, Duncan B (1961). _Statistical Geography: Problems in Analyzing Area Data_. Free Press."
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Anthopolos R, James SA, Gelfand AE, Miranda ML (2011). \"A Spatial Measure of Neighborhood Level Racial Isolation Applied to Low Birthweight, Preterm Birth, and Birthweight in North Carolina.\" _Spatial and Spatio-temporal Epidemiology_, *2*(4), 235-246. <doi:10.1016/j.sste.2011.06.002>.",
+        "DOI": "10.1016/j.sste.2011.06.002"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "publisher",
+        "unstructured": "White MJ (1986). \"Segregation and Diversity Measures in Population Distribution.\" _Population Index_, *52*, 198-221. <doi:10.2307/3644339>.",
+        "DOI": "10.2307/3644339"
+      },
+      {
+        "key": "ref34",
+        "unstructured": "Blau PM (1977). _Inequality and Heterogeneity: A Primitive Theory of Social Structure_. Free Press. ISBN 978-0-029-03660-0."
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bell W (1954). \"A Probability Model for the Measurement of Ecological Segregation.\" _Social Forces_, *32*, 357-364. <doi:10.2307/2574118>.",
+        "DOI": "10.2307/2574118"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "publisher",
+        "unstructured": "White MJ (1986). \"Segregation and Diversity Measures in Population Distribution.\" _Population Index_, *52*, 198-221. <doi:10.2307/3644339>.",
+        "DOI": "10.2307/3644339"
+      },
+      {
+        "key": "ref37",
+        "unstructured": "Lieberson S (1981). \"Ethnic Segregation in Cities.\" In Peach C, Robinson V, Smith S (eds.), chapter An Asymmetrical Approach to Segregation, 1st edition edition. Croom Helm. ISBN 978-1-032-53884-6."
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bell W (1954). \"A Probability Model for the Measurement of Ecological Segregation.\" _Social Forces_, *32*, 357-364. <doi:10.2307/2574118>.",
+        "DOI": "10.2307/2574118"
+      },
+      {
+        "key": "ref39",
+        "unstructured": "Shevky E, Williams M (1949). _The Social Areas of Los Angeles: Analysis and Typology_, 1st edition edition. John Randolph Haynes and Dora Haynes Foundation. ISBN 978-0-837-15637-8."
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bell W (1954). \"A Probability Model for the Measurement of Ecological Segregation.\" _Social Forces_, *32*, 357-364. <doi:10.2307/2574118>.",
+        "DOI": "10.2307/2574118"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1749-6632.2009.05333.x"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.48550/arXiv.2002.05819"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/227768"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S0022050700052980"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4324/9781410600141"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.17605/OSF.IO/M2SAV"
+      }
+    ],
+    "container-title": [
+      "CRAN: Contributed Packages"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2026-04-25T01:15:27Z",
+      "timestamp": 1777079727000
+    },
+    "score": 42.892784,
+    "resource": {
+      "primary": {
+        "URL": "https://CRAN.R-project.org/package=ndi"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          13
+        ]
+      ]
+    },
+    "references-count": 46,
+    "URL": "https://doi.org/10.32614/cran.package.ndi",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          13
+        ]
+      ]
+    }
+  }
+]

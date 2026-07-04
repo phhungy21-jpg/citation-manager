@@ -1,0 +1,652 @@
+{
+  "paper": "PMC11774089",
+  "source_file": "pmcid:11774089",
+  "generated": "2026-07-01T15:02:45.315200+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "dry_run_skipped": 25,
+    "unresolved_reference": 14,
+    "no_abstract_found": 1
+  },
+  "flagged": [
+    {
+      "sentence": "High out-of-pocket costs are a barrier but reducing out-of-pocket costs alone only moderately improves adherence.[3],[4],[5] Cognitive and behavioral factors are also important.[6],[7] One such factor is the lack of salience and/or transparency in benefit designs; patients often do not know the costs of their prescriptions until they pick up the medication from the pharmacy.",
+      "citation_number": 4,
+      "ref_text": "Volpp KG, Troxel AB, Long JA, . A randomized controlled trial of negative co-payments: the CHORD trial. Am J Manag Care. 2015;21(8):e465-e473.26625506 PMC6171502",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1037/e636742011-048",
+        "title": "A randomized controlled trial of financial incentives for weight loss",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.43,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 4,
+      "ref_text": "Volpp KG, Troxel AB, Long JA, . A randomized controlled trial of negative co-payments: the CHORD trial. Am J Manag Care. 2015;21(8):e465-e473.26625506 PMC6171502",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1037/e636742011-048",
+        "title": "A randomized controlled trial of financial incentives for weight loss",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.43,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 11,
+      "ref_text": "Subscribed Institute. The subscription economy index. March 2023. Accessed December 13, 2024. https://www.zuora.com/wp-content/uploads/2023/03/Zuora_SEI_2023_Q2.pdf",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.18411/a-2017-023",
+        "title": "http://ljournal.ru/wp-content/uploads/2017/03/a-2017-023.pdf",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.5,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 12,
+      "ref_text": "The Business Research Company. Subscription e-commerce market growth analysis, key insights, outlook to 2033. Accessed April 16, 2024. https://www.thebusinessresearchcompany.com/report/subscription-ecommerce-global-market-report",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.4060/cd3177en_special_feature_1",
+        "title": "Fertilizer market developments",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.33,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 13,
+      "ref_text": "Landi H. GoodRx launches telehealth service, free mail delivery as direct-to-consumer market heats up. Fierce Healthcare. December 18, 2020. Accessed April 16, 2024. https://www.fiercehealthcare.com/tech/goodrx-launches-telehealth-service-free-mail-delivery-as-direct-to-consumer-market-heats-up",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1007/978-3-540-77213-2_1",
+        "title": "Success in the Consumer Products Market – Understanding Direct Store Delivery",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.5,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 14,
+      "ref_text": "Kang J, Alejandro TB, Groza MD. Customer–company identification and the effectiveness of loyalty programs. J Bus Res. 2015;68(2):464-471. doi:10.1016/j.jbusres.2014.06.002",
+      "doi": "10.1016/j.jbusres.2014.06.002",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "This cohort study was approved by the WCG institutional review board[17] for a waiver of the Health Insurance Portability and Accountability Act authorization requirement and the need for informed consent due to the minimal risk this study posed to study individuals, in accordance with 45 CFR §46.",
+      "citation_number": 17,
+      "ref_text": "WCG. About WCG. Accessed June 4, 2024. https://www.wcgclinical.com/about/",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.2139/ssrn.5016936",
+        "title": "Wcg-Vmamba:A Multi-Modal Classification Model for Corn Disease",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "For this study, we also obtained area-level socioeconomic status measures at the 5-digit zip code level from the 2021 American Community Survey.[18] Analyses were performed in Python version 3.10.8 (Python Software Foundation).",
+      "citation_number": 18,
+      "ref_text": "Manson S, Schroeder J, Van Riper D, . IPUMS national historical geographic information system: version 18.0. 2023. Accessed December 13, 2024. https://www.nhgis.org/",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.3886/icpsr08374",
+        "title": "Geographic Names Information System: National Geographic Names Data Base, Michigan Geographic Names",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.5,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "On the basis of zip code–level characteristics, the demographics of enrollees were also similar to those of the US general population.[20] Pre-enrollment period prescription fills in the exposure and control groups exhibited similar trends (Figure and eTable 3 in Supplement 1).",
+      "citation_number": 20,
+      "ref_text": "US Census Bureau. National population by characteristics: 2020-2023. Accessed April 24, 2024. https://www.census.gov/data/datasets/time-series/demo/popest/2020s-national-detail.html",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.3886/icpsr06218.v1",
+        "title": "American Housing Survey, National Sample: Census Detail File, 1980",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.33,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Medication refills are known to decline over time for most patients, in the absence of intervention.[21],[22],[23],[24] Enrollment was associated with an increase in the days’ supply of program medications by 10.39 days PPPM (95% CI, 10.29-10.48 days PPPM) compared with the days’ supply had these same members not enrolled in the program, a 27% increase (Table 2).",
+      "citation_number": 23,
+      "ref_text": "Franklin JM, Krumme AA, Shrank WH, Matlin OS, Brennan TA, Choudhry NK. Predicting adherence trajectory using initial patterns of medication filling. Am J Manag Care. 2015;21(9):e537-e544.26618441",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1111/1475-6773.12310",
+        "title": "Observing versus Predicting: Initial Patterns of Filling Predict Long‐Term Adherence More Accurately Than High‐Dimensional Modeling Techniques",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.35,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "These individuals are more likely to be more price sensitive than well-insured individuals.[26],[27] The majority of prior studies relied on pharmacy claims data, which typically only include pharmacy purchases involving insurance.",
+      "citation_number": 26,
+      "ref_text": "Chernew ME, Newhouse JP. What does the RAND Health Insurance Experiment tell us about the impact of patient cost sharing on health outcomes? Am J Manag Care. 2008;14(7):412-414.18611092",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.56687/9781447329794-006",
+        "title": "What does research tell us?",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.75,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "First, as a result of information salience,[28] enrollees are likely to be aware of their reduced prescription costs at the point of purchase owing to the program’s upfront pricing.",
+      "citation_number": 28,
+      "ref_text": "Higgins ET. Knowledge activation: accessibility, and salience. In: Higgins ET, Kruglanski AW, . Social Psychology: Handbook of Basic Principles. The Guilford Press; 1996:133-168.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1111/j.1467-9221.2008.00665.x",
+        "title": "Social Psychology: Handbook of Basic Principles (2<sup>nd</sup> edition) – Edited by A. Kruglanski and E. T. Higgins",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.78,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "This limits the generalizability of our results to the 180 million US shoppers who are members.[32] Sixth, the program does not include branded medications.",
+      "citation_number": 32,
+      "ref_text": "Soper S. Amazon Prime memberships in US gain 8% to new high after lull. Yahoo Finance. April 16, 2024. Accessed April 24, 2024. https://finance.yahoo.com/news/amazon-prime-memberships-us-gain-175715711.html?guccounter=1",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1136/bmj.p230",
+        "title": "Amazon launches cheap prescriptions for US Prime members",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.5,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Despite the increasing use of branded medications for certain chronic conditions, medication refills for generic medications are critical because they still represent over 90% of all prescription fills in the US.[33] Seventh, we are only able to observe medication fills, not actual medication use by patients.",
+      "citation_number": 33,
+      "ref_text": "US Food and Drug Administration. Office of Generic Drugs 2022 Annual Report. February 22, 2024. Accessed April 22, 2024. https://www.fda.gov/drugs/generic-drugs/office-generic-drugs-2022-annual-report",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1089/blr.1997.16.356",
+        "title": "{BLR 2401} Generic Drugs",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.67,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Although studies[34],[35],[36],[37] have consistently demonstrated positive associations between medication fills and patient-reported medication use, the true association of program enrollment with medication use in this study is unknown.",
+      "citation_number": 37,
+      "ref_text": "Allin S, Bayoumi AM, Law MR, Laporte A. Comparability of self-reported medication use and pharmacy claims data. Health Rep. 2013;24(1):3-9.24259111",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.37473/fic/10.1093/ijpp/riab032",
+        "title": "Agreement between pharmaceutical claims data and patient-reported medication use after stroke",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.4,
+        "confident": false
+      }
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "One-half of all US individuals who are prescribed medications do not take them as frequently as their prescriber intended.[1] This degree of nonadherence to medications causes an estimated 125 000 additional deaths and more than $100 billion in additional health care costs annually.[2] The challenge with improving medication refilling behavior arises from the multiple barriers that patients face, including financial, behavioral, and cognitive factors.",
+      "citation_number": 1,
+      "ref_text": "Yeaw J, Benner JS, Walt JG, Sian S, Smith DB. Comparing adherence and persistence across 6 chronic medication classes. J Manag Care Pharm. 2009;15(9):728-740. doi:10.18553/jmcp.2009.15.9.72819954264 PMC10441195",
+      "doi": "10.18553/jmcp.2009.15.9.728",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "One-half of all US individuals who are prescribed medications do not take them as frequently as their prescriber intended.[1] This degree of nonadherence to medications causes an estimated 125 000 additional deaths and more than $100 billion in additional health care costs annually.[2] The challenge with improving medication refilling behavior arises from the multiple barriers that patients face, including financial, behavioral, and cognitive factors.",
+      "citation_number": 2,
+      "ref_text": "Osterberg L, Blaschke T. Adherence to medication. N Engl J Med. 2005;353(5):487-497. doi:10.1056/NEJMra05010016079372",
+      "doi": "10.1056/NEJMra050100",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "High out-of-pocket costs are a barrier but reducing out-of-pocket costs alone only moderately improves adherence.[3],[4],[5] Cognitive and behavioral factors are also important.[6],[7] One such factor is the lack of salience and/or transparency in benefit designs; patients often do not know the costs of their prescriptions until they pick up the medication from the pharmacy.",
+      "citation_number": 3,
+      "ref_text": "Choudhry NK, Avorn J, Glynn RJ, ; Post-Myocardial Infarction Free Rx Event and Economic Evaluation (MI FREEE) Trial. Full coverage for preventive medications after myocardial infarction. N Engl J Med. 2011;365(22):2088-2097. doi:10.1056/NEJMsa110791322080794",
+      "doi": "10.1056/NEJMsa1107913",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "High out-of-pocket costs are a barrier but reducing out-of-pocket costs alone only moderately improves adherence.[3],[4],[5] Cognitive and behavioral factors are also important.[6],[7] One such factor is the lack of salience and/or transparency in benefit designs; patients often do not know the costs of their prescriptions until they pick up the medication from the pharmacy.",
+      "citation_number": 4,
+      "ref_text": "Volpp KG, Troxel AB, Long JA, . A randomized controlled trial of negative co-payments: the CHORD trial. Am J Manag Care. 2015;21(8):e465-e473.26625506 PMC6171502",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1037/e636742011-048",
+        "title": "A randomized controlled trial of financial incentives for weight loss",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.43,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "High out-of-pocket costs are a barrier but reducing out-of-pocket costs alone only moderately improves adherence.[3],[4],[5] Cognitive and behavioral factors are also important.[6],[7] One such factor is the lack of salience and/or transparency in benefit designs; patients often do not know the costs of their prescriptions until they pick up the medication from the pharmacy.",
+      "citation_number": 5,
+      "ref_text": "Lee JL, Maciejewski M, Raju S, Shrank WH, Choudhry NK. Value-based insurance design: quality improvement but no cost savings. Health Aff (Millwood). 2013;32(7):1251-1257. doi:10.1377/hlthaff.2012.090223836741",
+      "doi": "10.1377/hlthaff.2012.0902",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "High out-of-pocket costs are a barrier but reducing out-of-pocket costs alone only moderately improves adherence.[3],[4],[5] Cognitive and behavioral factors are also important.[6],[7] One such factor is the lack of salience and/or transparency in benefit designs; patients often do not know the costs of their prescriptions until they pick up the medication from the pharmacy.",
+      "citation_number": 6,
+      "ref_text": "Kardas P, Lewek P, Matyjaszczyk M. Determinants of patient adherence: a review of systematic reviews. Front Pharmacol. 2013;4:91. doi:10.3389/fphar.2013.0009123898295 PMC3722478",
+      "doi": "10.3389/fphar.2013.00091",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "High out-of-pocket costs are a barrier but reducing out-of-pocket costs alone only moderately improves adherence.[3],[4],[5] Cognitive and behavioral factors are also important.[6],[7] One such factor is the lack of salience and/or transparency in benefit designs; patients often do not know the costs of their prescriptions until they pick up the medication from the pharmacy.",
+      "citation_number": 7,
+      "ref_text": "Baicker K, Mullainathan S, Schwartzstein J. Behavioral hazard in health insurance. Q J Econ. 2015;130(4):1623-1667. doi:10.1093/qje/qjv02935602854 PMC9121790",
+      "doi": "10.1093/qje/qjv029",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 4,
+      "ref_text": "Volpp KG, Troxel AB, Long JA, . A randomized controlled trial of negative co-payments: the CHORD trial. Am J Manag Care. 2015;21(8):e465-e473.26625506 PMC6171502",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1037/e636742011-048",
+        "title": "A randomized controlled trial of financial incentives for weight loss",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.43,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 8,
+      "ref_text": "Wang Y, Sloan FA. Present bias and health. J Risk Uncertain. 2018;57(2):177-198. doi:10.1007/s11166-018-9289-z31244508 PMC6594564",
+      "doi": "10.1007/s11166-018-9289-z",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 9,
+      "ref_text": "Linnemayr S, Stecher C. Behavioral economics matters for HIV research: the impact of behavioral biases on adherence to antiretrovirals (ARVs). AIDS Behav. 2015;19(11):2069-2075. doi:10.1007/s10461-015-1076-025987190 PMC4720130",
+      "doi": "10.1007/s10461-015-1076-0",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 10,
+      "ref_text": "Gadkari AS, McHorney CA. Unintentional non-adherence to chronic prescription medications: how unintentional is it really? BMC Health Serv Res. 2012;12:98. doi:10.1186/1472-6963-12-9822510235 PMC3375198",
+      "doi": "10.1186/1472-6963-12-98",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 11,
+      "ref_text": "Subscribed Institute. The subscription economy index. March 2023. Accessed December 13, 2024. https://www.zuora.com/wp-content/uploads/2023/03/Zuora_SEI_2023_Q2.pdf",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.18411/a-2017-023",
+        "title": "http://ljournal.ru/wp-content/uploads/2017/03/a-2017-023.pdf",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.5,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 12,
+      "ref_text": "The Business Research Company. Subscription e-commerce market growth analysis, key insights, outlook to 2033. Accessed April 16, 2024. https://www.thebusinessresearchcompany.com/report/subscription-ecommerce-global-market-report",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.4060/cd3177en_special_feature_1",
+        "title": "Fertilizer market developments",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.33,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 13,
+      "ref_text": "Landi H. GoodRx launches telehealth service, free mail delivery as direct-to-consumer market heats up. Fierce Healthcare. December 18, 2020. Accessed April 16, 2024. https://www.fiercehealthcare.com/tech/goodrx-launches-telehealth-service-free-mail-delivery-as-direct-to-consumer-market-heats-up",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1007/978-3-540-77213-2_1",
+        "title": "Success in the Consumer Products Market – Understanding Direct Store Delivery",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.5,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 14,
+      "ref_text": "Kang J, Alejandro TB, Groza MD. Customer–company identification and the effectiveness of loyalty programs. J Bus Res. 2015;68(2):464-471. doi:10.1016/j.jbusres.2014.06.002",
+      "doi": "10.1016/j.jbusres.2014.06.002",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 15,
+      "ref_text": "Stremersch S, Tellis GJ. Strategic bundling of products and prices: a new synthesis for marketing. J Mark. 2002;66(1):55-72. doi:10.1509/jmkg.66.1.55.18455",
+      "doi": "10.1509/jmkg.66.1.55.18455",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "Therefore, patients who need adherence improvements the most are the least aware of price reductions.[4] A second factor is present bias, which causes people to overweigh the immediate hassle of filling prescriptions relative to the downstream health benefit.[8],[9] Finally, simple forgetfulness is a key factor to nonadherence.[10] Mirroring the 4-fold growth of subscription programs in e-commerce in the past decade, there has been rapid growth in the number of digital health companies offering subscription-based models providing access to prescription medications.[10],[11],[12],[13] These programs leverage a number of cognitive and behavioral factors, including transparent pricing, automatic subscription renewal, bundling of goods or services, and enhancing customer–company identification through loyalty programs.[14],[15] One study[16] of an e-commerce subscription program found that two-thirds of the program’s effect on repeated purchases was through cognitive and behavioral mechanisms.",
+      "citation_number": 16,
+      "ref_text": "Iyengar R, Park YH, Yu Q. The impact of subscription programs on customer purchases. J Mark Res. 2022;59(6):1101-1119. doi:10.1177/00222437221080163",
+      "doi": "10.1177/00222437221080163",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "This cohort study was approved by the WCG institutional review board[17] for a waiver of the Health Insurance Portability and Accountability Act authorization requirement and the need for informed consent due to the minimal risk this study posed to study individuals, in accordance with 45 CFR §46.",
+      "citation_number": 17,
+      "ref_text": "WCG. About WCG. Accessed June 4, 2024. https://www.wcgclinical.com/about/",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.2139/ssrn.5016936",
+        "title": "Wcg-Vmamba:A Multi-Modal Classification Model for Corn Disease",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "For this study, we also obtained area-level socioeconomic status measures at the 5-digit zip code level from the 2021 American Community Survey.[18] Analyses were performed in Python version 3.10.8 (Python Software Foundation).",
+      "citation_number": 18,
+      "ref_text": "Manson S, Schroeder J, Van Riper D, . IPUMS national historical geographic information system: version 18.0. 2023. Accessed December 13, 2024. https://www.nhgis.org/",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.3886/icpsr08374",
+        "title": "Geographic Names Information System: National Geographic Names Data Base, Michigan Geographic Names",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.5,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "We used a doubly robust estimator, which combines a propensity of program enrollment model and a regression adjustment model to estimate associations, using the aforementioned covariates.[19] Thus, our model estimates adjusted outcomes by comparing exposed individuals (ie, those who clicked on the program enrollment webpage and enrolled, in the exposure states) to control individuals (ie, those who clicked on the program enrollment webpage in the control states) with propensity score weighting to balance on propensity to enroll.",
+      "citation_number": 19,
+      "ref_text": "Funk MJ, Westreich D, Wiesen C, Stürmer T, Brookhart MA, Davidian M. Doubly robust estimation of causal effects. Am J Epidemiol. 2011;173(7):761-767. doi:10.1093/aje/kwq43921385832 PMC3070495",
+      "doi": "10.1093/aje/kwq439",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "On the basis of zip code–level characteristics, the demographics of enrollees were also similar to those of the US general population.[20] Pre-enrollment period prescription fills in the exposure and control groups exhibited similar trends (Figure and eTable 3 in Supplement 1).",
+      "citation_number": 20,
+      "ref_text": "US Census Bureau. National population by characteristics: 2020-2023. Accessed April 24, 2024. https://www.census.gov/data/datasets/time-series/demo/popest/2020s-national-detail.html",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.3886/icpsr06218.v1",
+        "title": "American Housing Survey, National Sample: Census Detail File, 1980",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.33,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Medication refills are known to decline over time for most patients, in the absence of intervention.[21],[22],[23],[24] Enrollment was associated with an increase in the days’ supply of program medications by 10.39 days PPPM (95% CI, 10.29-10.48 days PPPM) compared with the days’ supply had these same members not enrolled in the program, a 27% increase (Table 2).",
+      "citation_number": 21,
+      "ref_text": "Krousel-Wood M, Joyce C, Holt E, . Predictors of decline in medication adherence: results from the cohort study of medication adherence among older adults. Hypertension. 2011;58(5):804-810. doi:10.1161/HYPERTENSIONAHA.111.17685921968751 PMC3220657",
+      "doi": "10.1161/HYPERTENSIONAHA.111.176859",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Medication refills are known to decline over time for most patients, in the absence of intervention.[21],[22],[23],[24] Enrollment was associated with an increase in the days’ supply of program medications by 10.39 days PPPM (95% CI, 10.29-10.48 days PPPM) compared with the days’ supply had these same members not enrolled in the program, a 27% increase (Table 2).",
+      "citation_number": 22,
+      "ref_text": "Tajeu GS, Kent ST, Kronish IM, . Trends in antihypertensive medication discontinuation and low adherence among Medicare beneficiaries initiating treatment from 2007 to 2012. Hypertension. 2016;68(3):565-575. doi:10.1161/HYPERTENSIONAHA.116.0772027432867 PMC5215087",
+      "doi": "10.1161/HYPERTENSIONAHA.116.07720",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Medication refills are known to decline over time for most patients, in the absence of intervention.[21],[22],[23],[24] Enrollment was associated with an increase in the days’ supply of program medications by 10.39 days PPPM (95% CI, 10.29-10.48 days PPPM) compared with the days’ supply had these same members not enrolled in the program, a 27% increase (Table 2).",
+      "citation_number": 23,
+      "ref_text": "Franklin JM, Krumme AA, Shrank WH, Matlin OS, Brennan TA, Choudhry NK. Predicting adherence trajectory using initial patterns of medication filling. Am J Manag Care. 2015;21(9):e537-e544.26618441",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1111/1475-6773.12310",
+        "title": "Observing versus Predicting: Initial Patterns of Filling Predict Long‐Term Adherence More Accurately Than High‐Dimensional Modeling Techniques",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.35,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Medication refills are known to decline over time for most patients, in the absence of intervention.[21],[22],[23],[24] Enrollment was associated with an increase in the days’ supply of program medications by 10.39 days PPPM (95% CI, 10.29-10.48 days PPPM) compared with the days’ supply had these same members not enrolled in the program, a 27% increase (Table 2).",
+      "citation_number": 24,
+      "ref_text": "Alhazami M, Pontinha VM, Patterson JA, Holdford DA. Medication adherence trajectories: a systematic literature review. J Manag Care Spec Pharm. 2020;26(9):1138-1152. doi:10.18553/jmcp.2020.26.9.113832857646 PMC10391275",
+      "doi": "10.18553/jmcp.2020.26.9.1138",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Estimates of price elasticity of pharmaceuticals from prior studies would have projected an increase in days’ supply between 6% and 18%, on the basis of our reduction in out-of-pocket costs.[25] Our results are similar to the results of an e-commerce subscription program that reported a 3-fold higher effect than would be expected by price reductions alone.[16] There are a number of potential explanations for the higher medication refill and days’ supply increase.",
+      "citation_number": 16,
+      "ref_text": "Iyengar R, Park YH, Yu Q. The impact of subscription programs on customer purchases. J Mark Res. 2022;59(6):1101-1119. doi:10.1177/00222437221080163",
+      "doi": "10.1177/00222437221080163",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "Estimates of price elasticity of pharmaceuticals from prior studies would have projected an increase in days’ supply between 6% and 18%, on the basis of our reduction in out-of-pocket costs.[25] Our results are similar to the results of an e-commerce subscription program that reported a 3-fold higher effect than would be expected by price reductions alone.[16] There are a number of potential explanations for the higher medication refill and days’ supply increase.",
+      "citation_number": 25,
+      "ref_text": "Goldman DP, Joyce GF, Zheng Y. Prescription drug cost sharing: associations with medication and medical utilization and spending and health. JAMA. 2007;298(1):61-69. doi:10.1001/jama.298.1.6117609491 PMC6375697",
+      "doi": "10.1001/jama.298.1.61",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These individuals are more likely to be more price sensitive than well-insured individuals.[26],[27] The majority of prior studies relied on pharmacy claims data, which typically only include pharmacy purchases involving insurance.",
+      "citation_number": 26,
+      "ref_text": "Chernew ME, Newhouse JP. What does the RAND Health Insurance Experiment tell us about the impact of patient cost sharing on health outcomes? Am J Manag Care. 2008;14(7):412-414.18611092",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.56687/9781447329794-006",
+        "title": "What does research tell us?",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.75,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "These individuals are more likely to be more price sensitive than well-insured individuals.[26],[27] The majority of prior studies relied on pharmacy claims data, which typically only include pharmacy purchases involving insurance.",
+      "citation_number": 27,
+      "ref_text": "Brot-Goldberg ZC, Chandra A, Handel BR, Kolstad JT. What does a deductible do? the impact of cost-sharing on health care prices, quantities, and spending dynamics. Q J Econ. 2017;132(3):1261-1318. doi:10.1093/qje/qjx013",
+      "doi": "10.1093/qje/qjx013",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "First, as a result of information salience,[28] enrollees are likely to be aware of their reduced prescription costs at the point of purchase owing to the program’s upfront pricing.",
+      "citation_number": 28,
+      "ref_text": "Higgins ET. Knowledge activation: accessibility, and salience. In: Higgins ET, Kruglanski AW, . Social Psychology: Handbook of Basic Principles. The Guilford Press; 1996:133-168.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1111/j.1467-9221.2008.00665.x",
+        "title": "Social Psychology: Handbook of Basic Principles (2<sup>nd</sup> edition) – Edited by A. Kruglanski and E. T. Higgins",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.78,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Customers, therefore, continue to participate in the program unless they choose to cancel, which they can do at any time.[29] Third, subscription programs may act as a commitment device[30]; by paying an upfront fee, individuals may be subsequently more motivated to refill their prescriptions to get their money’s worth.",
+      "citation_number": 29,
+      "ref_text": "Johnson EJ, Goldstein D. Medicine: do defaults save lives? Science. 2003;302(5649):1338-1339. doi:10.1126/science.109172114631022",
+      "doi": "10.1126/science.1091721",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Customers, therefore, continue to participate in the program unless they choose to cancel, which they can do at any time.[29] Third, subscription programs may act as a commitment device[30]; by paying an upfront fee, individuals may be subsequently more motivated to refill their prescriptions to get their money’s worth.",
+      "citation_number": 30,
+      "ref_text": "Rogers T, Milkman KL, Volpp KG. Commitment devices: using initiatives to change behavior. JAMA. 2014;311(20):2065-2066. doi:10.1001/jama.2014.348524777472",
+      "doi": "10.1001/jama.2014.3485",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Finally, in nonhealth contexts, bundling of multiple complementary products at discounted prices are known to increase their use.[31] This program may also support medication refills and days’ supply since it includes many first-line and second-line therapeutic options for several common chronic conditions, such as hypertension, hyperlipidemia, and depression.",
+      "citation_number": 31,
+      "ref_text": "Adams WJ, Yellen JL. Commodity bundling and the burden of monopoly. Q J Econ. 1976;90(3):475-498. doi:10.2307/1886045",
+      "doi": "10.2307/1886045",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "First, our inverse probability weighting approach appeared to achieve good balance between exposure and control in observable characteristics.[19] Second, our doubly robust model reduces bias by specifying that only 1 of the 2 models need be correctly specified to obtain an unbiased estimate of the impact of the program.",
+      "citation_number": 19,
+      "ref_text": "Funk MJ, Westreich D, Wiesen C, Stürmer T, Brookhart MA, Davidian M. Doubly robust estimation of causal effects. Am J Epidemiol. 2011;173(7):761-767. doi:10.1093/aje/kwq43921385832 PMC3070495",
+      "doi": "10.1093/aje/kwq439",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This limits the generalizability of our results to the 180 million US shoppers who are members.[32] Sixth, the program does not include branded medications.",
+      "citation_number": 32,
+      "ref_text": "Soper S. Amazon Prime memberships in US gain 8% to new high after lull. Yahoo Finance. April 16, 2024. Accessed April 24, 2024. https://finance.yahoo.com/news/amazon-prime-memberships-us-gain-175715711.html?guccounter=1",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1136/bmj.p230",
+        "title": "Amazon launches cheap prescriptions for US Prime members",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.5,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Despite the increasing use of branded medications for certain chronic conditions, medication refills for generic medications are critical because they still represent over 90% of all prescription fills in the US.[33] Seventh, we are only able to observe medication fills, not actual medication use by patients.",
+      "citation_number": 33,
+      "ref_text": "US Food and Drug Administration. Office of Generic Drugs 2022 Annual Report. February 22, 2024. Accessed April 22, 2024. https://www.fda.gov/drugs/generic-drugs/office-generic-drugs-2022-annual-report",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1089/blr.1997.16.356",
+        "title": "{BLR 2401} Generic Drugs",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.67,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Although studies[34],[35],[36],[37] have consistently demonstrated positive associations between medication fills and patient-reported medication use, the true association of program enrollment with medication use in this study is unknown.",
+      "citation_number": 34,
+      "ref_text": "Drieling RL, LaCroix AZ, Beresford SAA, Boudreau DM, Kooperberg C, Heckbert SR. Validity of self-reported medication use compared with pharmacy records in a cohort of older women: findings from the Women’s Health Initiative. Am J Epidemiol. 2016;184(3):233-238. doi:10.1093/aje/kwv44627402774 PMC4967595",
+      "doi": "10.1093/aje/kwv446",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Although studies[34],[35],[36],[37] have consistently demonstrated positive associations between medication fills and patient-reported medication use, the true association of program enrollment with medication use in this study is unknown.",
+      "citation_number": 35,
+      "ref_text": "Brüne M, Emmel C, Meilands G, . Self-reported medication intake vs information from other data sources such as pharmacy records or medical records: identification and description of existing publications, and comparison of agreement results for publications focusing on patients with cancer—a systematic review. Pharmacoepidemiol Drug Saf. 2021;30(5):531-560. doi:10.1002/pds.521033617072",
+      "doi": "10.1002/pds.5210",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Although studies[34],[35],[36],[37] have consistently demonstrated positive associations between medication fills and patient-reported medication use, the true association of program enrollment with medication use in this study is unknown.",
+      "citation_number": 36,
+      "ref_text": "Richardson K, Kenny RA, Peklar J, Bennett K. Agreement between patient interview data on prescription medication use and pharmacy records in those aged older than 50 years varied by therapeutic group and reporting of indicated health conditions. J Clin Epidemiol. 2013;66(11):1308-1316. doi:10.1016/j.jclinepi.2013.02.01623968693",
+      "doi": "10.1016/j.jclinepi.2013.02.016",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Although studies[34],[35],[36],[37] have consistently demonstrated positive associations between medication fills and patient-reported medication use, the true association of program enrollment with medication use in this study is unknown.",
+      "citation_number": 37,
+      "ref_text": "Allin S, Bayoumi AM, Law MR, Laporte A. Comparability of self-reported medication use and pharmacy claims data. Health Rep. 2013;24(1):3-9.24259111",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.37473/fic/10.1093/ijpp/riab032",
+        "title": "Agreement between pharmaceutical claims data and patient-reported medication use after stroke",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.4,
+        "confident": false
+      }
+    }
+  ]
+}

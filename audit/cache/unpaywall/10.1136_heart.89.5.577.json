@@ -1,0 +1,116 @@
+{
+  "best_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2003-04-14",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://heart.bmj.com/content/heartjnl/89/5/577.full.pdf",
+    "url_for_landing_page": "https://doi.org/10.1136/heart.89.5.577",
+    "url_for_pdf": "https://heart.bmj.com/content/heartjnl/89/5/577.full.pdf",
+    "version": "publishedVersion"
+  },
+  "data_standard": 2,
+  "doi": "10.1136/heart.89.5.577",
+  "doi_url": "https://doi.org/10.1136/heart.89.5.577",
+  "first_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2003-04-14",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://heart.bmj.com/content/heartjnl/89/5/577.full.pdf",
+    "url_for_landing_page": "https://doi.org/10.1136/heart.89.5.577",
+    "url_for_pdf": "https://heart.bmj.com/content/heartjnl/89/5/577.full.pdf",
+    "version": "publishedVersion"
+  },
+  "genre": "journal-article",
+  "has_repository_copy": true,
+  "is_oa": true,
+  "is_paratext": false,
+  "journal_is_in_doaj": false,
+  "journal_is_oa": false,
+  "journal_issn_l": "1355-6037",
+  "journal_issns": "1355-6037,1468-201X",
+  "journal_name": "Heart",
+  "oa_locations": [
+    {
+      "endpoint_id": null,
+      "evidence": "deprecated",
+      "host_type": "publisher",
+      "is_best": true,
+      "license": null,
+      "oa_date": "2003-04-14",
+      "pmh_id": null,
+      "repository_institution": null,
+      "updated": "deprecated",
+      "url": "https://heart.bmj.com/content/heartjnl/89/5/577.full.pdf",
+      "url_for_landing_page": "https://doi.org/10.1136/heart.89.5.577",
+      "url_for_pdf": "https://heart.bmj.com/content/heartjnl/89/5/577.full.pdf",
+      "version": "publishedVersion"
+    },
+    {
+      "endpoint_id": "ac9de7698155b820de7",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": null,
+      "oa_date": "2003-04-14",
+      "pmh_id": "oai:pubmedcentral.nih.gov:1767660",
+      "repository_institution": "National Institutes of Health",
+      "updated": "deprecated",
+      "url": null,
+      "url_for_landing_page": null,
+      "url_for_pdf": null,
+      "version": "submittedVersion"
+    },
+    {
+      "endpoint_id": "ac9de7698155b820de7",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": null,
+      "oa_date": "2003-04-14",
+      "pmh_id": "oai:pubmedcentral.nih.gov:1767660",
+      "repository_institution": "National Institutes of Health",
+      "updated": "deprecated",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/1767660",
+      "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/1767660",
+      "url_for_pdf": null,
+      "version": "submittedVersion"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "oa_status": "bronze",
+  "published_date": "2003-04-14",
+  "publisher": "BMJ",
+  "title": "Injection drug use and right sided endocarditis",
+  "updated": "2026-04-05T22:21:22Z",
+  "year": 2003,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "St Paul's Hospital, Vancouver, British Columbia, Canada"
+      ],
+      "raw_author_name": "Rob Moss"
+    },
+    {
+      "author_position": "last",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "St Paul’s Hospital, 2350-1081 Burrard Street, Vancouver, BC, V6Z 1Y6, Canada"
+      ],
+      "raw_author_name": "Brad Munt"
+    }
+  ]
+}

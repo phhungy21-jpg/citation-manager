@@ -1,0 +1,1082 @@
+[
+  {
+    "institution": [
+      {
+        "name": "Inter-university Consortium for Political and Social Research",
+        "acronym": [
+          "ICPSR"
+        ],
+        "place": [
+          "Ann Arbor, Michigan"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2022-04-03T11:33:29Z",
+      "timestamp": 1648985609229
+    },
+    "reference-count": 0,
+    "publisher": "Inter-university Consortium for Political and Social Research (ICPSR)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "content-updated": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          18
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1988,
+          6,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.3886/icpsr08374",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2008-08-22T11:15:23Z",
+      "timestamp": 1219403723000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Geographic Names Information System: National Geographic Names Data Base, Michigan Geographic Names"
+    ],
+    "prefix": "10.3886",
+    "author": [
+      {
+        "name": "United States Department of the Interior. United States Geological Survey",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2241",
+    "container-title": [
+      "ICPSR Data Holdings"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2013-01-16T08:58:08Z",
+      "timestamp": 1358326688000
+    },
+    "score": 33.590767,
+    "resource": {
+      "primary": {
+        "URL": "http://www.icpsr.umich.edu/ICPSR/studies/08374"
+      }
+    },
+    "subtitle": [
+      "Archival Version"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1988,
+          6,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.3886/icpsr08374",
+    "published": {
+      "date-parts": [
+        [
+          1988,
+          6,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2026-03-27T17:30:35Z",
+      "timestamp": 1774632635151,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "International Institute of Social History",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              5
+            ]
+          ],
+          "date-time": "2023-01-05T00:00:00Z",
+          "timestamp": 1672876800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "hlcs"
+    ],
+    "abstract": "<jats:p>From 1999 to 2019, IPUMS collaborated with genealogical organizations to develop massive individual-level census datasets spanning the 1790 through 1940 period, and we are currently working on the 1950 census. This research note describes how our genealogical collaborations came about. We focus on our collaborations with the Church of Jesus Christ of Latter-Day Saints Family and Church History Department (later known as FamilySearch) and the private genealogical companies HeritageQuest and Ancestry.com.</jats:p>",
+    "DOI": "10.51964/hlcs12920",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2023-01-05T05:45:55Z",
+      "timestamp": 1672897555000
+    },
+    "page": "1-8",
+    "source": "Crossref",
+    "is-referenced-by-count": 20,
+    "title": [
+      "Collaborations between IPUMS and genealogical organizations, 1999-2022"
+    ],
+    "prefix": "10.52024",
+    "volume": "13",
+    "author": [
+      {
+        "given": "Steven",
+        "family": "Ruggles",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "29530",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          5
+        ]
+      ]
+    },
+    "container-title": [
+      "Historical Life Course Studies"
+    ],
+    "link": [
+      {
+        "URL": "https://hlcs.nl/article/download/12920/15155",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://hlcs.nl/article/download/12920/15155",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2025-09-25T15:42:31Z",
+      "timestamp": 1758814951000
+    },
+    "score": 31.629803,
+    "resource": {
+      "primary": {
+        "URL": "https://hlcs.nl/article/view/12920"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.51964/hlcs12920",
+    "ISSN": [
+      "2352-6343"
+    ],
+    "issn-type": [
+      {
+        "value": "2352-6343",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2026-03-19T20:23:11Z",
+      "timestamp": 1773951791242,
+      "version": "3.50.1"
+    },
+    "reference-count": 24,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              5
+            ]
+          ],
+          "date-time": "2024-01-05T00:00:00Z",
+          "timestamp": 1704412800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              5
+            ]
+          ],
+          "date-time": "2024-01-05T00:00:00Z",
+          "timestamp": 1704412800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "SES1825768"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "SES1825768"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "SES1825768"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "SES1825768"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "SES1825768"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "SES1825768"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "SES1825768"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "SES1825768"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100009633",
+        "name": "U.S. Department of Health & Human Services | NIH | Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NICHD-P2CHD041023"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NICHD-P2CHD041023"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100009633",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100009633",
+        "name": "U.S. Department of Health & Human Services | NIH | Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NICHD-P2CHD041023"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NICHD-P2CHD041023"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100009633",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100009633",
+        "name": "U.S. Department of Health & Human Services | NIH | Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NICHD-P2CHD041023"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NICHD-P2CHD041023"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100009633",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100009633",
+        "name": "U.S. Department of Health & Human Services | NIH | Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NICHD-P2CHD041023"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NICHD-P2CHD041023"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100009633",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "U.S. Department of Health & Human Services | NIH | Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+      },
+      {
+        "DOI": "10.13039/100000015",
+        "name": "U.S. Department of Energy",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "DE-AC05-00OR22725"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "DE-AC05-00OR22725"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000015",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "U.S. Department of Health & Human Services | NIH | Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+      },
+      {
+        "name": "U.S. Department of Health & Human Services | NIH | Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sci Data"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>We report on the successful completion of a project to upgrade the positional accuracy of every response to the 1990, 2000, and 2010 U.S. decennial censuses. The resulting data set, called Optimized Spatial Census Information Linked Across Time (OSCILAT), resides within the restricted-access data warehouse of the Federal Statistical Research Data Center (FSRDC) system where it is available for use with approval from the U.S. Census Bureau. OSCILAT greatly improves the accuracy and completeness of spatial information for older censuses conducted prior to major quality improvements undertaken by the Bureau. Our work enables more precise spatial and longitudinal analysis of census data and supports exact tabulations of census responses for arbitrary spatial units, including tabulating responses from 1990, 2000, and 2010 within 2020 block boundaries for precise measures of change over time for small geographic areas.</jats:p>",
+    "DOI": "10.1038/s41597-023-02859-9",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2024-01-05T14:02:32Z",
+      "timestamp": 1704463352000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Optimized spatial information for 1990, 2000, and 2010 U.S. census microdata"
+    ],
+    "prefix": "10.1038",
+    "volume": "11",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8415-0441",
+        "authenticated-orcid": false,
+        "given": "Christopher S.",
+        "family": "Fowler",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4776-6826",
+        "authenticated-orcid": false,
+        "given": "James D.",
+        "family": "Gaboardi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8438-2506",
+        "authenticated-orcid": false,
+        "given": "Jonathan P.",
+        "family": "Schroeder",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "David C.",
+        "family": "Van Riper",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2859_CR1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Fowler, C. S., Frey, N., Folch, D. C., Nagle, N. & Spielman, S. Who are the People in my Neighborhood?: The “Contextual Fallacy” of Measuring Individual Context with Census Geographies. Geographical Analysis 1–16 https://doi.org/10.1111/gean.12192 (2019).",
+        "DOI": "10.1111/gean.12192"
+      },
+      {
+        "key": "2859_CR2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "DeWaard, J. et al. Migration as a Vector of Economic Losses From Disaster-Affected Areas in the United States. Demography 10426100 https://doi.org/10.1215/00703370-10426100 (2023).",
+        "DOI": "10.1215/00703370-10426100"
+      },
+      {
+        "key": "2859_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "437",
+        "DOI": "10.1007/s11113-021-09663-6",
+        "volume": "41",
+        "author": "J DeWaard",
+        "year": "2022",
+        "unstructured": "DeWaard, J. et al. User Beware: Concerning Findings from the Post 2011–2012 U.S. Internal Revenue Service Migration Data. Popul Res Policy Rev 41, 437–448 (2022).",
+        "journal-title": "Popul Res Policy Rev"
+      },
+      {
+        "key": "2859_CR4",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Asson, S. et al. Data Access and the Study of Educational Equity: Implications from a National School Boundary Data Collection Effort. Education Finance and Policy 1–31 https://doi.org/10.1162/edfp_a_00388 (2022).",
+        "DOI": "10.1162/edfp_a_00388"
+      },
+      {
+        "key": "2859_CR5",
+        "first-page": "1013",
+        "volume": "106",
+        "author": "JR Logan",
+        "year": "2016",
+        "unstructured": "Logan, J. R., Stults, B. D. & Xu, Z. Validating Population Estimates for Harmonized Census Tract Data, 2000–2010. Ann Am Assoc Geogr 106, 1013–1029 (2016).",
+        "journal-title": "Ann Am Assoc Geogr"
+      },
+      {
+        "key": "2859_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "102476",
+        "DOI": "10.1016/j.apgeog.2021.102476",
+        "volume": "132",
+        "author": "JR Logan",
+        "year": "2021",
+        "unstructured": "Logan, J. R. et al. Improving Estimates of Neighborhood Change with Constant Tract Boundaries. Applied Geography 132, 102476 (2021).",
+        "journal-title": "Applied Geography"
+      },
+      {
+        "key": "2859_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "53",
+        "DOI": "10.1016/j.compenvurbsys.2016.10.001",
+        "volume": "62",
+        "author": "JP Schroeder",
+        "year": "2017",
+        "unstructured": "Schroeder, J. P. Hybrid areal interpolation of census counts from 2000 blocks to 2010 geographies. Computers, Environment and Urban Systems 62, 53–63 (2017).",
+        "journal-title": "Computers, Environment and Urban Systems"
+      },
+      {
+        "key": "2859_CR8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Broome, F. R. & Godwin, L. S. Partnering for the People: Improving the U.S. Census Bureau’s MAF/TIGER Database. Photogrammetric Engineering & Remote Sensing 69, 1119–1123.",
+        "DOI": "10.14358/PERS.69.10.1119"
+      },
+      {
+        "key": "2859_CR9",
+        "unstructured": "O’Grady, K. & Godwin, L. The positional accuracy of MAF/TIGER. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3398ed1b4527b58d29ba384a63ebd3067ef6e3fc."
+      },
+      {
+        "key": "2859_CR10",
+        "doi-asserted-by": "publisher",
+        "unstructured": "National Research Council. Change and the 2020 Census: Not Whether But How. https://doi.org/10.17226/13135 (National Academies Press, 2011).",
+        "DOI": "10.17226/13135"
+      },
+      {
+        "key": "2859_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "121",
+        "DOI": "10.3233/SJI-1074",
+        "volume": "34",
+        "author": "NK Torrieri",
+        "year": "2018",
+        "unstructured": "Torrieri, N. K. Conversation with Timothy F. Trainor1. Statistical Journal of the IAOS 34, 121–127 (2018).",
+        "journal-title": "Statistical Journal of the IAOS"
+      },
+      {
+        "key": "2859_CR12",
+        "unstructured": "Jackson, A. 2010 Census Address Canvassing Operational Assessment Report. (2012)."
+      },
+      {
+        "key": "2859_CR13",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Manson, S. et al. National Historical Geographic Information System: Version 17.0. https://doi.org/10.18128/D050.V17.0 (2022).",
+        "DOI": "10.18128/D050.V17.0"
+      },
+      {
+        "key": "2859_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "412",
+        "DOI": "10.1080/00330124.2014.905156",
+        "volume": "66",
+        "author": "JR Logan",
+        "year": "2014",
+        "unstructured": "Logan, J. R., Xu, Z. & Stults, B. J. Interpolating U.S. Decennial Census Tract Data from as Early as 1970 to 2010: A Longitudinal Tract Database. The Professional Geographer 66, 412–420 (2014).",
+        "journal-title": "The Professional Geographer"
+      },
+      {
+        "key": "2859_CR15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41597-022-01184-x",
+        "volume": "9",
+        "author": "SN Markley",
+        "year": "2022",
+        "unstructured": "Markley, S. N., Holloway, S. R., Hafley, T. J. & Hauer, M. E. Housing unit and urbanization estimates for the continental U.S. in consistent tract boundaries, 1940–2019. Sci Data 9, 82 (2022).",
+        "journal-title": "Sci Data"
+      },
+      {
+        "key": "2859_CR16",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Chetty, R. & Hendren, N. The Impacts of Neighborhoods on Intergenerational Mobility: Childhood Exposure Effects and County-Level Estimates and numerous seminar participants for helpful comments and discussions. Nber 145 https://doi.org/10.3386/w23002 (2015).",
+        "DOI": "10.3386/w23002"
+      },
+      {
+        "key": "2859_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1385",
+        "DOI": "10.5194/essd-11-1385-2019",
+        "volume": "11",
+        "author": "S Leyk",
+        "year": "2019",
+        "unstructured": "Leyk, S. et al. The spatial allocation of population: a review of large-scale gridded population data products and their fitness for use. Earth System Science Data 11, 1385–1409 (2019).",
+        "journal-title": "Earth System Science Data"
+      },
+      {
+        "key": "2859_CR18",
+        "first-page": "1055",
+        "volume": "45",
+        "author": "CS Fowler",
+        "year": "2018",
+        "unstructured": "Fowler, C. S. Key assumptions in multiscale segregation measures: How zoning and strength of spatial association condition outcomes. Environment and Planning B: Urban Analytics and City. Science 45, 1055–1072 (2018).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "2859_CR19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1476-069X-12-75",
+        "volume": "12",
+        "author": "KJ Lane",
+        "year": "2013",
+        "unstructured": "Lane, K. J. et al. Positional error and time-activity patterns in near-highway proximity studies: an exposure misclassification analysis. Environmental Health 12, 75 (2013).",
+        "journal-title": "Environmental Health"
+      },
+      {
+        "key": "2859_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "408",
+        "DOI": "10.1097/01.EDE.0000073121.63254.c5",
+        "volume": "14",
+        "author": "MR Bonner",
+        "year": "2003",
+        "unstructured": "Bonner, M. R. et al. Positional accuracy of geocoded addresses in epidemiologic research. Epidemiology 14, 408–412 (2003).",
+        "journal-title": "Epidemiology"
+      },
+      {
+        "key": "2859_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "464",
+        "DOI": "10.1016/j.annepidem.2006.10.015",
+        "volume": "17",
+        "author": "M Schootman",
+        "year": "2007",
+        "unstructured": "Schootman, M. et al. Positional Accuracy and Geographic Bias of Four Methods of Geocoding in Epidemiologic Research. Annals of Epidemiology 17, 464–470 (2007).",
+        "journal-title": "Annals of Epidemiology"
+      },
+      {
+        "key": "2859_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "95",
+        "DOI": "10.3233/JEM-220484",
+        "volume": "46",
+        "author": "JT Alexander",
+        "year": "2022",
+        "unstructured": "Alexander, J. T., Fisher, J. D. & Genadek, K. R. Digitizing hand-written data with automated methods: A pilot project using the 1990 U.S. Census. Journal of Economic and Social Measurement 46, 95–108 (2022).",
+        "journal-title": "Journal of Economic and Social Measurement"
+      },
+      {
+        "key": "2859_CR23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Genadek, K. R. & Alexander, J. T. The Decennial Census Digitization and Linkage Project. Adep working paper series (2019).",
+        "DOI": "10.23889/ijpds.v4i3.1310"
+      },
+      {
+        "key": "2859_CR24",
+        "unstructured": "U.S. Census Bureau. Available Data. Census.gov https://www.census.gov/about/adrm/fsrdc.html (2023)."
+      }
+    ],
+    "container-title": [
+      "Scientific Data"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41597-023-02859-9.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41597-023-02859-9",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41597-023-02859-9.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2024-01-05T14:14:55Z",
+      "timestamp": 1704464095000
+    },
+    "score": 31.535381,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41597-023-02859-9"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          5
+        ]
+      ]
+    },
+    "references-count": 24,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "2859"
+    ],
+    "URL": "https://doi.org/10.1038/s41597-023-02859-9",
+    "ISSN": [
+      "2052-4463"
+    ],
+    "issn-type": [
+      {
+        "value": "2052-4463",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "21 June 2023",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "12 December 2023",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "5 January 2024",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "37"
+  },
+  {
+    "institution": [
+      {
+        "name": "Inter-university Consortium for Political and Social Research",
+        "acronym": [
+          "ICPSR"
+        ],
+        "place": [
+          "Ann Arbor, Michigan"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2022-03-30T10:44:12Z",
+      "timestamp": 1648637052315
+    },
+    "reference-count": 0,
+    "publisher": "Inter-university Consortium for Political and Social Research (ICPSR)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "content-updated": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          12
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1988,
+          6,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.3886/icpsr08369.v1",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2011-09-13T12:10:56Z",
+      "timestamp": 1315915856000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Geographic Names Information System: National Geographic Names Data Base, Populated Places in the United States"
+    ],
+    "prefix": "10.3886",
+    "author": [
+      {
+        "name": "United States Department of the Interior. United States Geological Survey",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2241",
+    "container-title": [
+      "ICPSR Data Holdings"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2013-01-16T08:58:04Z",
+      "timestamp": 1358326684000
+    },
+    "score": 31.098696,
+    "resource": {
+      "primary": {
+        "URL": "http://www.icpsr.umich.edu/ICPSR/studies/08369/version/1"
+      }
+    },
+    "subtitle": [
+      "Version 1"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1988,
+          6,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.3886/icpsr08369.v1",
+    "published": {
+      "date-parts": [
+        [
+          1988,
+          6,
+          1
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,1448 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          4
+        ]
+      ],
+      "date-time": "2026-06-04T12:03:34Z",
+      "timestamp": 1780574614512,
+      "version": "3.54.1"
+    },
+    "reference-count": 62,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2015-10-01T00:00:00Z",
+          "timestamp": 1443657600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "journals.elsevierhealth.com",
+        "clinicalkey.es",
+        "europeanurology.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2014.10.020",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          10,
+          30
+        ]
+      ],
+      "date-time": "2014-10-30T02:54:10Z",
+      "timestamp": 1414637650000
+    },
+    "page": "692-704",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 173,
+    "title": [
+      "Preservation of the Neurovascular Bundles Is Associated with Improved Time to Continence After Radical Prostatectomy But Not Long-term Continence Rates: Results of a Systematic Review and Meta-analysis"
+    ],
+    "prefix": "10.1016",
+    "volume": "68",
+    "author": [
+      {
+        "given": "Fairleigh",
+        "family": "Reeves",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patrick",
+        "family": "Preece",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jada",
+        "family": "Kapoor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wouter",
+        "family": "Everaerts",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Declan G.",
+        "family": "Murphy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Niall M.",
+        "family": "Corcoran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anthony J.",
+        "family": "Costello",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "g1502",
+        "DOI": "10.1136/bmj.g1502",
+        "article-title": "Comparative effectiveness of radical prostatectomy and radiotherapy in prostate cancer: observational study of mortality outcomes",
+        "volume": "348",
+        "author": "Sooriakumaran",
+        "year": "2014",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "2207",
+        "DOI": "10.1016/j.juro.2008.01.106",
+        "article-title": "Predicting an optimal outcome after radical prostatectomy: the trifecta nomogram",
+        "volume": "179",
+        "author": "Eastham",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "702",
+        "DOI": "10.1016/j.eururo.2011.01.032",
+        "article-title": "Pentafecta: a new concept for reporting outcomes of robot-assisted laparoscopic radical prostatectomy",
+        "volume": "59",
+        "author": "Patel",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/j.eururo.2012.05.046",
+        "article-title": "Systematic review and meta-analysis of studies reporting potency rates after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "article-title": "Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "2772",
+        "DOI": "10.1200/JCO.2005.07.116",
+        "article-title": "Long-term outcomes among localized prostate cancer survivors: health-related quality-of-life changes after radical prostatectomy, external radiation, and brachytherapy",
+        "volume": "23",
+        "author": "Miller",
+        "year": "2005",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "3777",
+        "DOI": "10.1200/JCO.2003.02.115",
+        "article-title": "Patients’ perceptions of quality of life after treatment for early prostate cancer",
+        "volume": "21",
+        "author": "Clark",
+        "year": "2003",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy: insight into etiology and prevention",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1016/j.eururo.2012.08.031",
+        "article-title": "How can the autonomic nervous system contribute to urinary continence following radical prostatectomy? A “boson-like” conundrum",
+        "volume": "63",
+        "author": "Murphy",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "337",
+        "DOI": "10.1097/00005392-199502000-00012",
+        "article-title": "Neuroanatomy of the external urethral sphincter: implications for urinary continence preservation during radical prostate surgery",
+        "volume": "153",
+        "author": "Narayan",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1016/S0022-5347(01)62072-X",
+        "article-title": "Surgical anatomy of the somatic terminal innervation to the anal and urethral sphincters: role in anal and urethral surgery",
+        "volume": "161",
+        "author": "Shafik",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.1002/(SICI)1097-0045(199601)28:1<24::AID-PROS4>3.0.CO;2-O",
+        "article-title": "Anatomy and innervation of the rhabdosphincter of the male urethra",
+        "volume": "28",
+        "author": "Strasser",
+        "year": "1996",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "132",
+        "DOI": "10.1159/000281871",
+        "article-title": "Neuroanatomy and clinical significance of the external urethral sphincter",
+        "volume": "42",
+        "author": "Jünemann",
+        "year": "1987",
+        "journal-title": "Urol Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "592",
+        "DOI": "10.1002/nau.20768",
+        "article-title": "Cadaveric study of nerves supplying the membranous urethra",
+        "volume": "29",
+        "author": "Song",
+        "year": "2010",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "426",
+        "DOI": "10.1016/S0090-4295(96)00497-9",
+        "article-title": "Neuroanatomy of the male rhabdosphincter",
+        "volume": "49",
+        "author": "Hollabaugh",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.1111/j.1464-410X.1994.tb16583.x",
+        "article-title": "The detailed neuroanatomy of the human striated urethral sphincter",
+        "volume": "74",
+        "author": "Zvara",
+        "year": "1994",
+        "journal-title": "Br J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "264",
+        "DOI": "10.7326/0003-4819-151-4-200908180-00135",
+        "article-title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+        "volume": "151",
+        "author": "Moher",
+        "year": "2009",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.1007/s00345-010-0601-z",
+        "article-title": "Nerve-sparing technique and urinary control after robot-assisted laparoscopic prostatectomy",
+        "volume": "29",
+        "author": "Choi",
+        "year": "2011",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "488",
+        "DOI": "10.1016/j.juro.2007.03.100",
+        "article-title": "Impact of nerve sparing technique on patient self-assessed outcomes after radical perineal prostatectomy",
+        "volume": "178",
+        "author": "Kubler",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "1139",
+        "DOI": "10.1097/01.ju.0000152316.51995.fc",
+        "article-title": "Intraoperative electrophysiological confirmation of urinary continence after radical prostatectomy",
+        "volume": "173",
+        "author": "Kaiho",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "212",
+        "DOI": "10.1016/j.juro.2007.03.043",
+        "article-title": "Impact of unilateral sural nerve graft on recovery of potency and continence following radical prostatectomy: 3-year longitudinal study",
+        "volume": "178",
+        "author": "Namiki",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "3979",
+        "DOI": "10.1200/JCO.2003.01.199",
+        "article-title": "Time course and predictors of symptoms after primary prostate cancer therapy",
+        "volume": "21",
+        "author": "Talcott",
+        "year": "2003",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "489",
+        "DOI": "10.1089/end.2008.0222",
+        "article-title": "Is there correlation of nerve-sparing status and return to baseline urinary function after robot-assisted laparoscopic radical prostatectomy?",
+        "volume": "23",
+        "author": "Berry",
+        "year": "2009",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1016/j.urolonc.2008.09.042",
+        "article-title": "Is residual neurovascular tissue on prostatectomy specimens associated with surgeon intent at nerve-sparing and postoperative quality of life measures?",
+        "volume": "28",
+        "author": "Bradford",
+        "year": "2010",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0125",
+        "unstructured": "Cochrane Collaboration. Tool to assess risk of bias in cohort studies. Cochrane Bias Methods Group Web site. https://bmg.cochrane.org/sites/bmg.cochrane.org/files/uploads/Tool%20to%20Assess%20Risk%20of%20Bias%20in%20Cohort%20Studies.pdf."
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0130",
+        "unstructured": "Higgins JPT, Green S, editors. Cochrane handbook for systematic reviews of interventions version 5.1.0. Cochrane Collaboration Web site. http://www.cochrane.org/handbook. Updated March 2011."
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "693",
+        "DOI": "10.1590/S1677-55382010000600007",
+        "article-title": "Radical perineal prostatectomy and early continence: outcomes after 120 cases",
+        "volume": "36",
+        "author": "Albayrak",
+        "year": "2010",
+        "journal-title": "Int Braz J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.1016/j.eururo.2009.05.044",
+        "article-title": "Current technique of open intrafascial nerve-sparing retropubic prostatectomy",
+        "volume": "56",
+        "author": "Budaus",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1016/S0022-5347(06)00574-X",
+        "article-title": "Nerve sparing open radical retropubic prostatectomy--does it have an impact on urinary continence?",
+        "volume": "176",
+        "author": "Burkhard",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "28",
+        "DOI": "10.1016/j.urolonc.2005.05.009",
+        "article-title": "Health related quality of life outcomes after radical prostatectomy: attention to study design and the patient-based importance of single-surgeon studies",
+        "volume": "24",
+        "author": "Dalkin",
+        "year": "2006",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "700",
+        "DOI": "10.1111/j.1442-2042.2011.02826.x",
+        "article-title": "Factors predicting continence recovery 1 month after radical prostatectomy: results of a multicenter survey",
+        "volume": "18",
+        "author": "Gacci",
+        "year": "2011",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "583",
+        "DOI": "10.1111/j.1464-410X.2010.09836.x",
+        "article-title": "Bilateral vs unilateral laparoscopic intrafascial nerve-sparing radical prostatectomy: evaluation of surgical and functional outcomes in 457 patients",
+        "volume": "108",
+        "author": "Greco",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "875",
+        "DOI": "10.1111/j.1464-410X.2011.10849.x",
+        "article-title": "Anterior suspension combined with posterior reconstruction during robot-assisted laparoscopic prostatectomy improves early return of urinary continence: a prospective randomized multicentre trial",
+        "volume": "110",
+        "author": "Hurtes",
+        "year": "2012",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "190",
+        "DOI": "10.1016/j.juro.2011.09.037",
+        "article-title": "Factors affecting return of continence 3 months after robot-assisted radical prostatectomy: analysis from a large, prospective data by a single surgeon",
+        "volume": "187",
+        "author": "Ko",
+        "year": "2012",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "798",
+        "DOI": "10.1016/j.urolonc.2010.10.013",
+        "article-title": "Early continence in patients with localized prostate cancer. A comparison between open retropubic (RRPE) and endoscopic extraperitoneal radical prostatectomy (EERPE)",
+        "volume": "30",
+        "author": "Koehler",
+        "year": "2012",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0180",
+        "first-page": "5200",
+        "article-title": "Predictors of early urinary continence after robotic prostatectomy",
+        "volume": "17",
+        "author": "Lee",
+        "year": "2010",
+        "journal-title": "Can J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "1581",
+        "DOI": "10.1111/j.1464-410X.2008.07921.x",
+        "article-title": "Does a nerve-sparing technique or potency affect continence after open radical retropubic prostatectomy?",
+        "volume": "102",
+        "author": "Marien",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "746",
+        "DOI": "10.1016/j.eururo.2007.02.029",
+        "article-title": "Robot-assisted laparoscopic radical prostatectomy: oncologic and functional results of 184 cases",
+        "volume": "52",
+        "author": "Mottrie",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "1127",
+        "DOI": "10.1016/j.urology.2007.07.042",
+        "article-title": "Nerve-sparing surgery significantly affects long-term continence after radical prostatectomy",
+        "volume": "70",
+        "author": "Nandipati",
+        "year": "2007",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "1028",
+        "DOI": "10.1016/j.juro.2010.04.069",
+        "article-title": "Evaluating urinary continence and preoperative predictors of urinary continence after robot assisted laparoscopic radical prostatectomy",
+        "volume": "184",
+        "author": "Novara",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "1227",
+        "DOI": "10.1016/S0022-5347(17)39038-9",
+        "article-title": "Continence following nerve-sparing radical prostatectomy",
+        "volume": "142",
+        "author": "O’Donnell",
+        "year": "1989",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1492",
+        "DOI": "10.1111/j.1464-410X.2010.10015.x",
+        "article-title": "The impact of cavernosal nerve preservation on continence after robotic radical prostatectomy",
+        "volume": "108",
+        "author": "Pick",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1111/j.1464-410X.1993.tb15879.x",
+        "article-title": "Urinary continence following radical retropubic prostatectomy",
+        "volume": "71",
+        "author": "Ramon",
+        "year": "1993",
+        "journal-title": "Br J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "442",
+        "DOI": "10.1089/end.2012.0312",
+        "article-title": "Predictors of immediate continence following robot-assisted radical prostatectomy",
+        "volume": "27",
+        "author": "Sammon",
+        "year": "2013",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0225",
+        "first-page": "730",
+        "article-title": "Nerve-sparing laparoscopic radical prostatectomy at Siriraj Hospital",
+        "volume": "90",
+        "author": "Srinualnad",
+        "year": "2007",
+        "journal-title": "J Med Assoc Thai"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "438",
+        "DOI": "10.1016/j.eururo.2012.07.009",
+        "article-title": "Effect of a risk-stratified grade of nerve-sparing technique on early return of continence after robot-assisted laparoscopic radical prostatectomy",
+        "volume": "6",
+        "author": "Srivastava",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "717",
+        "DOI": "10.1111/j.1464-410X.2012.11315.x",
+        "article-title": "Nerve-sparing approach during radical prostatectomy is strongly associated with the rate of postoperative urinary continence recovery",
+        "volume": "111",
+        "author": "Suardi",
+        "year": "2013",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "1117",
+        "DOI": "10.1093/jnci/89.15.1117",
+        "article-title": "Patient-reported impotence and incontinence after nerve-sparing radical prostatectomy",
+        "volume": "89",
+        "author": "Talcott",
+        "year": "1997",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "465",
+        "DOI": "10.5489/cuaj.1176",
+        "article-title": "The effect of nerve-sparing surgery on patient-reported continence post-radical prostatectomy",
+        "volume": "3",
+        "author": "Toren",
+        "year": "2009",
+        "journal-title": "Can Urol Assoc J"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "358",
+        "DOI": "10.1016/j.urolonc.2008.01.013",
+        "article-title": "The failure of a nerve sparing template to improve urinary continence after radical prostatectomy: attention to study design",
+        "volume": "27",
+        "author": "Tzou",
+        "year": "2009",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "892",
+        "DOI": "10.1016/j.eururo.2009.01.021",
+        "article-title": "Preservation of lateral prostatic fascia is associated with urine continence after robotic-assisted prostatectomy",
+        "volume": "55",
+        "author": "Van der Poel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "1105",
+        "DOI": "10.1016/S0140-6736(09)61116-8",
+        "article-title": "No surgical innovation without evaluation: the IDEAL recommendations",
+        "volume": "374",
+        "author": "McCulloch",
+        "year": "2009",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "1683",
+        "DOI": "10.1016/j.juro.2008.01.010",
+        "article-title": "The male urethral sphincter complex revisited: an anatomical concept and its physiological correlate",
+        "volume": "179",
+        "author": "Koraitim",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "16",
+        "DOI": "10.1016/S0022-5347(01)67212-4",
+        "article-title": "Incontinence after radical prostatectomy: detrusor or sphincter causes",
+        "volume": "154",
+        "author": "Chao",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "1317",
+        "DOI": "10.1016/S0022-5347(01)62525-4",
+        "article-title": "The etiology of post-radical prostatectomy incontinence and correlation of symptoms with urodynamic findings",
+        "volume": "160",
+        "author": "Ficazzola",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "1767",
+        "DOI": "10.1016/S0022-5347(05)67538-6",
+        "article-title": "The pathophysiology of post-radical prostatectomy incontinence: a clinical and video urodynamic study",
+        "volume": "163",
+        "author": "Groutz",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "1039",
+        "DOI": "10.1016/j.eururo.2010.02.028",
+        "article-title": "Preoperative pelvic floor muscle exercise for early continence after radical prostatectomy: a randomised controlled study",
+        "volume": "57",
+        "author": "Centemero",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "766",
+        "DOI": "10.1111/j.1464-410X.2005.05397.x",
+        "article-title": "A novel technique for approaching the endopelvic fascia in retropubic radical prostatectomy, based on an anatomical study of fixed and fresh cadavers",
+        "volume": "95",
+        "author": "Takenaka",
+        "year": "2005",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1016/j.eururo.2008.08.057",
+        "article-title": "Recovery of urinary continence after radical prostatectomy: association with urethral length and urethral fibrosis measured by preoperative and postoperative endorectal magnetic resonance imaging",
+        "volume": "55",
+        "author": "Paparel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1016/j.eururo.2009.11.009",
+        "article-title": "A critical analysis of the current knowledge of surgical anatomy related to optimization of cancer control and preservation of continence and erection in candidates for radical prostatectomy",
+        "volume": "57",
+        "author": "Walz",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "491",
+        "DOI": "10.1016/S0090-4295(00)01067-0",
+        "article-title": "Efficacy of first-generation Cavermap to verify location and function of cavernous nerves during radical prostatectomy: a multi-institutional evaluation by experienced surgeons",
+        "volume": "57",
+        "author": "Walsh",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2014.10.020_bib0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "471",
+        "DOI": "10.1007/s00345-012-1018-7",
+        "article-title": "Functional outcomes following robotic prostatectomy using athermal, traction free risk-stratified grades of nerve sparing",
+        "volume": "31",
+        "author": "Tewari",
+        "year": "2013",
+        "journal-title": "World J Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283814010343?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283814010343?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          26
+        ]
+      ],
+      "date-time": "2020-08-26T07:26:38Z",
+      "timestamp": 1598426798000
+    },
+    "score": 142.47621,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283814010343"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "references-count": 62,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283814010343"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2014.10.020",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Preservation of the Neurovascular Bundles Is Associated with Improved Time to Continence After Radical Prostatectomy But Not Long-term Continence Rates: Results of a Systematic Review and Meta-analysis",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2014.10.020",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2014 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T05:54:34Z",
+      "timestamp": 1648878874299
+    },
+    "reference-count": 5,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.elsevierhealth.com",
+        "europeanurology.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2015.04.014",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          22
+        ]
+      ],
+      "date-time": "2015-04-22T14:54:59Z",
+      "timestamp": 1429714499000
+    },
+    "page": "e63",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Re: Gunnar Steineck, Anders Bjartell, Jonas Hugosson, et al. Degree of Preservation of the Neurovascular Bundles During Radical Prostatectomy and Urinary Continence 1 Year after Surgery. Eur Urol 2015;67:559–68"
+    ],
+    "prefix": "10.1016",
+    "volume": "68",
+    "author": [
+      {
+        "given": "Nicholas",
+        "family": "Faure Walker",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rajesh",
+        "family": "Nair",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Chris",
+        "family": "Anderson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2015.04.014_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/j.eururo.2014.10.011",
+        "article-title": "Degree of preservation of the neurovascular bundles during radical prostatectomy and urinary continence 1 year after surgery",
+        "volume": "67",
+        "author": "Steineck",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.04.014_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "764",
+        "DOI": "10.1016/j.eururo.2006.10.058",
+        "article-title": "Preoperative and intraoperative risk factors for side-specific positive surgical margins in laparoscopic radical prostatectomy for prostate cancer",
+        "volume": "51",
+        "author": "Secin",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.04.014_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "e004895",
+        "DOI": "10.1136/bmjopen-2014-004895",
+        "article-title": "Multiparametric MRI followed by targeted prostate biopsy for men with suspected prostate cancer: a clinical decision analysis",
+        "volume": "4",
+        "author": "Willis",
+        "year": "2014",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.04.014_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "956",
+        "DOI": "10.1016/j.juro.2008.11.032",
+        "article-title": "Adjuvant radiotherapy for pathological T3N0M0 prostate cancer significantly reduces risk of metastases and improves survival: long-term followup of a randomized clinical trial",
+        "volume": "181",
+        "author": "Thompson",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.04.014_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "546",
+        "DOI": "10.1016/j.eururo.2013.01.027",
+        "article-title": "Impact of adjuvant radiation therapy on urinary continence recovery after radical prostatectomy",
+        "volume": "65",
+        "author": "Suardi",
+        "year": "2014",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283815003164?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283815003164?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          23
+        ]
+      ],
+      "date-time": "2018-09-23T08:21:04Z",
+      "timestamp": 1537690864000
+    },
+    "score": 84.016426,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283815003164"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          9
+        ]
+      ]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283815003164"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2015.04.014",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Gunnar Steineck, Anders Bjartell, Jonas Hugosson, et al. Degree of Preservation of the Neurovascular Bundles During Radical Prostatectomy and Urinary Continence 1 Year after Surgery. Eur Urol 2015;67:559–68",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2015.04.014",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2014.10.011",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2015 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          3
+        ]
+      ],
+      "date-time": "2023-10-03T21:51:08Z",
+      "timestamp": 1696369868003
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2015-04-01T00:00:00Z",
+          "timestamp": 1427846400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(15)60621-2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2015-03-20T08:20:31Z",
+      "timestamp": 1426839631000
+    },
+    "page": "e628",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "628 Nerve-sparing surgery technique but not the preservation of the neurovascular bundles leads to improved long-term continence rates after radical prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "14",
+    "author": [
+      {
+        "given": "U.",
+        "family": "Michl",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Ahyai",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Tennstedt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Graefen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "H.",
+        "family": "Huland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Tilki",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905615606212?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905615606212?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2018-09-24T07:55:16Z",
+      "timestamp": 1537775716000
+    },
+    "score": 77.923386,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905615606212"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905615606212"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(15)60621-2",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    }
+  }
+]

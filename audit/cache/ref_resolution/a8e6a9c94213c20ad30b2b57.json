@@ -1,0 +1,1001 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          28
+        ]
+      ],
+      "date-time": "2023-07-28T04:04:08Z",
+      "timestamp": 1690517048069
+    },
+    "reference-count": 22,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              3
+            ]
+          ],
+          "date-time": "2023-03-03T00:00:00Z",
+          "timestamp": 1677801600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              3
+            ]
+          ],
+          "date-time": "2023-03-03T00:00:00Z",
+          "timestamp": 1677801600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J Robotic Surg"
+    ],
+    "DOI": "10.1007/s11701-023-01548-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          3
+        ]
+      ],
+      "date-time": "2023-03-03T10:05:48Z",
+      "timestamp": 1677837948000
+    },
+    "page": "1525-1530",
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Robot assisted laparoscopic radical prostatectomy with maximal urethral length preservation technique preserves penile length"
+    ],
+    "prefix": "10.1007",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Balaji N.",
+        "family": "Reddy",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shirin",
+        "family": "Razdan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sanjay",
+        "family": "Razdan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "2",
+        "key": "1548_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "374",
+        "DOI": "10.1111/jsm.12403",
+        "volume": "11",
+        "author": "AU Frey",
+        "year": "2014",
+        "unstructured": "Frey AU, Sønksen J, Fode M (2014) Neglected side effects after radical prostatectomy: a systematic review. J Sex Med 11(2):374–385. https://doi.org/10.1111/jsm.12403",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "issue": "3",
+        "key": "1548_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "629",
+        "DOI": "10.1016/j.eururo.2008.08.057",
+        "volume": "55",
+        "author": "P Paparel",
+        "year": "2009",
+        "unstructured": "Paparel P, Akin O, Sandhu JS et al (2009) Recovery of urinary continence after radical prostatectomy: association with urethral length and urethral fibrosis measured by preoperative and postoperative endorectal magnetic resonance imaging. Eur Urol 55(3):629–639. https://doi.org/10.1016/j.eururo.2008.08.057",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "2",
+        "key": "1548_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "602",
+        "DOI": "10.1016/j.juro.2007.03.119",
+        "volume": "178",
+        "author": "P Gontero",
+        "year": "2007",
+        "unstructured": "Gontero P, Galzerano M, Bartoletti R, Magnani C, Tizzani A, Frea B, Mondaini N (2007) New insights into the pathogenesis of penile shortening after radical prostatectomy and the role of postoperative sexual function. J Urol 178(2):602–607",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "2",
+        "key": "1548_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "293",
+        "DOI": "10.1111/bju.13777",
+        "volume": "120",
+        "author": "Y Kadono",
+        "year": "2017",
+        "unstructured": "Kadono Y, Machioka K, Nakashima K, Iijima M, Shigehara K, Nohara T, Narimoto K, Izumi K, Kitagawa Y, Konaka H, Gabata T (2017) Changes in penile length after radical prostatectomy: investigation of the underlying anatomical mechanism. BJU Int 120(2):293–299",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "8",
+        "key": "1548_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "930",
+        "DOI": "10.1089/end.2013.0794",
+        "volume": "28",
+        "author": "A Hamada",
+        "year": "2014",
+        "unstructured": "Hamada A, Razdan S, Etafy MH, Fagin R, Razdan S (2014) Early return of continence in patients undergoing robot-assisted laparoscopic prostatectomy using modified maximal urethral length preservation technique. J Endourol 28(8):930–938. https://doi.org/10.1089/end.2013.0794",
+        "journal-title": "J Endourol"
+      },
+      {
+        "issue": "3–4",
+        "key": "1548_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "93",
+        "DOI": "10.5489/cuaj.4035",
+        "volume": "11",
+        "author": "W Song",
+        "year": "2017",
+        "unstructured": "Song W, Kim CK, Park BK et al (2017) Impact of preoperative and postoperative membranous urethral length measured by 3 Tesla magnetic resonance imaging on urinary continence recovery after robotic-assisted radical prostatectomy. Can Urol Assoc J 11(3–4):93. https://doi.org/10.5489/cuaj.4035",
+        "journal-title": "Can Urol Assoc J"
+      },
+      {
+        "issue": "4",
+        "key": "1548_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "567",
+        "DOI": "10.1016/s0090-4295(01)01270-5",
+        "volume": "58",
+        "author": "MD Munding",
+        "year": "2001",
+        "unstructured": "Munding MD, Wessells HB, Dalkin BL (2001) Pilot study of changes in stretched penile length 3 months after radical retropubic prostatectomy. Urology 58(4):567–569. https://doi.org/10.1016/s0090-4295(01)01270-5",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "2",
+        "key": "1548_CR8",
+        "first-page": "109",
+        "volume": "3",
+        "author": "MC Fraiman",
+        "year": "1999",
+        "unstructured": "Fraiman MC, Lepor H, McCullough AR (1999) Changes in penile morphometrics in men with erectile dysfunction after nerve-sparing radical retropubic prostatectomy. Mol Urol 3(2):109–115",
+        "journal-title": "Mol Urol"
+      },
+      {
+        "issue": "5b",
+        "key": "1548_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "E131",
+        "DOI": "10.1111/bju.12443",
+        "volume": "113",
+        "author": "BM Berookhim",
+        "year": "2013",
+        "unstructured": "Berookhim BM, Nelson CJ, Kunzel B, Mulhall JP, Narus JB (2013) Prospective analysis of penile length changes after radical prostatectomy. BJU Int 113(5b):E131–E136. https://doi.org/10.1111/bju.12443",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "1548_CR10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12894-018-0341-8",
+        "author": "YS Kwon",
+        "year": "2018",
+        "unstructured": "Kwon YS, Farber N, Yu JW et al (2018) Longitudinal recovery patterns of penile length and the underexplored benefit of long-term phosphodiesterase-5 inhibitor use after radical prostatectomy. BMC Urol. https://doi.org/10.1186/s12894-018-0341-8",
+        "journal-title": "BMC Urol"
+      },
+      {
+        "issue": "5",
+        "key": "1548_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "501",
+        "DOI": "10.1038/sj.ijir.3901561",
+        "volume": "19",
+        "author": "BL Dalkin",
+        "year": "2007",
+        "unstructured": "Dalkin BL, Christopher BA (2007) Preservation of penile length after radical prostatectomy: early intervention with a vacuum erection device. Int J Impot Res 19(5):501–504. https://doi.org/10.1038/sj.ijir.3901561",
+        "journal-title": "Int J Impot Res"
+      },
+      {
+        "issue": "6",
+        "key": "1548_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "1293",
+        "DOI": "10.1016/j.urology.2012.07.060",
+        "volume": "80",
+        "author": "JS Vasconcelos",
+        "year": "2012",
+        "unstructured": "Vasconcelos JS, Figueiredo RT, Nascimento FLB, Damião R, da Silva EA (2012) The natural history of penile length after radical prostatectomy: a long-term prospective study. Urology 80(6):1293–1297. https://doi.org/10.1016/j.urology.2012.07.060",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "6",
+        "key": "1548_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "903",
+        "DOI": "10.1111/andr.12517",
+        "volume": "6",
+        "author": "Y Kadono",
+        "year": "2018",
+        "unstructured": "Kadono Y, Nohara T, Kawaguchi S et al (2018) Changes in penile length after radical prostatectomy: effect of neoadjuvant androgen deprivation therapy. Andrology 6(6):903–908. https://doi.org/10.1111/andr.12517",
+        "journal-title": "Andrology"
+      },
+      {
+        "issue": "3",
+        "key": "1548_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "702",
+        "DOI": "10.1016/j.eururo.2007.03.050",
+        "volume": "52",
+        "author": "A Briganti",
+        "year": "2007",
+        "unstructured": "Briganti A, Fabbri F, Salonia A et al (2007) Preserved postoperative penile size correlates well with maintained erectile function after bilateral nerve-sparing radical retropubic prostatectomy. Eur Urol 52(3):702–707. https://doi.org/10.1016/j.eururo.2007.03.050",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "1",
+        "key": "1548_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "65",
+        "DOI": "10.1089/end.2010.0382",
+        "volume": "25",
+        "author": "JD Engel",
+        "year": "2011",
+        "unstructured": "Engel JD, Sutherland DE, Williams SB, Wagner KR (2011) Changes in penile length after robot-assisted laparoscopic radical prostatectomy. J Endourol 25(1):65–69. https://doi.org/10.1089/end.2010.0382",
+        "journal-title": "J Endourol"
+      },
+      {
+        "issue": "2",
+        "key": "1548_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "416",
+        "DOI": "10.1097/JU.0000000000001792",
+        "volume": "206",
+        "author": "A Toussi",
+        "year": "2021",
+        "unstructured": "Toussi A, Ziegelmann M, Yang D et al (2021) Efficacy of a novel penile traction device in improving penile length and erectile function post prostatectomy: results from a single-center randomized. Controlled Trial J Urol 206(2):416–426. https://doi.org/10.1097/JU.0000000000001792",
+        "journal-title": "Controlled Trial J Urol"
+      },
+      {
+        "issue": "4",
+        "key": "1548_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1462",
+        "DOI": "10.1097/01.ju.0000053720.93303.33",
+        "volume": "169",
+        "author": "M Savoie",
+        "year": "2003",
+        "unstructured": "Savoie M, Kim SS, Soloway MS (2003) A prospective study measuring penile length in men treated with radical prostatectomy for prostate cancer. J Urol 169(4):1462–1464",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "6",
+        "key": "1548_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "535",
+        "DOI": "10.1007/s001200050133",
+        "volume": "36",
+        "author": "P Hammerer",
+        "year": "1997",
+        "unstructured": "Hammerer P, Huland H (1997) Urodynamic changes after radical prostatectomy. Der Urologe A 36(6):535–539. https://doi.org/10.1007/s001200050133",
+        "journal-title": "Der Urologe A"
+      },
+      {
+        "key": "1548_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "233",
+        "DOI": "10.1016/j.eururo.2015.07.029",
+        "volume": "70",
+        "author": "M De Rooij",
+        "year": "2016",
+        "unstructured": "De Rooij M, Hamoen EH, Witjes JA, Barentsz JO, Rovers MM (2016) Accuracy of magnetic resonance imaging for local staging of prostate cancer: a diagnostic meta-analysis. Eur Urol 70:233–245. https://doi.org/10.1016/j.eururo.2015.07.029",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "1",
+        "key": "1548_CR20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0227744",
+        "volume": "15",
+        "author": "JE Heo",
+        "year": "2020",
+        "unstructured": "Heo JE, Lee JS, Goh HJ et al (2020) Urethral realignment with maximal urethral length and bladder neck preservation in robot-assisted radical prostatectomy: urinary continence recovery. PLoS ONE 15(1):e0227744",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "6",
+        "key": "1548_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "814",
+        "DOI": "10.1016/j.eururo.2018.11.035",
+        "volume": "76",
+        "author": "AN Vis",
+        "year": "2019",
+        "unstructured": "Vis AN, van der Poel HG, Ruiter AE, Hu JC, Tewari AK, Rocco B, Patel VR, Razdan S, Nieuwenhuijzen JA (2019) Posterior, anterior, and periurethral surgical reconstruction of urinary continence mechanisms in robot-assisted radical prostatectomy: a description and video compilation of commonly performed surgical techniques. Eur Urol 76(6):814–822. https://doi.org/10.1016/j.eururo.2018.11.035",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "5",
+        "key": "1548_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1090",
+        "DOI": "10.1016/j.urology.2014.11.058",
+        "volume": "85",
+        "author": "G Brock",
+        "year": "2015",
+        "unstructured": "Brock G, Montorsi F, Costa P et al (2015) Effect of tadalafil once daily on penile length loss and morning erections in patients after bilateral nerve-sparing radical prostatectomy: results from a randomized controlled trial. Urology 85(5):1090–1096. https://doi.org/10.1016/j.urology.2014.11.058",
+        "journal-title": "Urology"
+      }
+    ],
+    "container-title": [
+      "Journal of Robotic Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11701-023-01548-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11701-023-01548-4/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11701-023-01548-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          27
+        ]
+      ],
+      "date-time": "2023-07-27T12:20:15Z",
+      "timestamp": 1690460415000
+    },
+    "score": 76.25684,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s11701-023-01548-4"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          3
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1548"
+    ],
+    "URL": "https://doi.org/10.1007/s11701-023-01548-4",
+    "ISSN": [
+      "1863-2491"
+    ],
+    "issn-type": [
+      {
+        "value": "1863-2491",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "22 January 2023",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "21 February 2023",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "3 March 2023",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      },
+      {
+        "value": "The authors declare no conflict of interest.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T06:13:55Z",
+      "timestamp": 1651212835967
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "4S",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2018-04-01T00:00:00Z",
+          "timestamp": 1522540800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2018.02.179",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2018-04-03T12:26:09Z",
+      "timestamp": 1522758369000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "MP05-08 ASSOCIATION OF MODIFIED SURGICAL TECHNIQUE FOR PATIENTS WITH SHORTER MEMBRANOUS URETHRAL LENGTH AND EARLY RECOVERY OF INCONTINENCE AFTER ROBOT-ASSISTED LAPAROSCOPIC PROSTATECTOMY"
+    ],
+    "prefix": "10.1097",
+    "volume": "199",
+    "author": [
+      {
+        "given": "Daiki",
+        "family": "Ikarashi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Morioka-shi, Japan"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ei",
+        "family": "Shiomi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Morioka-shi, Japan"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yoichiro",
+        "family": "Kato",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Morioka-shi, Japan"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mitsugu",
+        "family": "Kanehira",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Morioka-shi, Japan"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ryo",
+        "family": "Takata",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Morioka-shi, Japan"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "So",
+        "family": "Ohmori",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Morioka-shi, Japan"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Wataru",
+        "family": "Obara",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Morioka-shi, Japan"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534718394898?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534718394898?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2018.02.179",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T05:30:01Z",
+      "timestamp": 1651210201000
+    },
+    "score": 47.781487,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2018.02.179"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4S",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2018.02.179"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2018.02.179",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          8
+        ]
+      ],
+      "date-time": "2024-07-08T12:58:22Z",
+      "timestamp": 1720443502050
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2009-10-01T00:00:00Z",
+          "timestamp": 1254355200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2009.07.1167",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          10,
+          14
+        ]
+      ],
+      "date-time": "2009-10-14T14:53:56Z",
+      "timestamp": 1255532036000
+    },
+    "page": "S15",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S",
+    "title": [
+      "POD-05.05: Impact of Maximal Urethral Length on Early Continence After Open and Laparoscopic Radical Prostatectomy with Sutureless Vesicourethral Alignment: 8 Years' Experience"
+    ],
+    "prefix": "10.1016",
+    "volume": "74",
+    "author": [
+      {
+        "given": "N.",
+        "family": "Simforoosh",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Javaherforooshzadeh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Tabibi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Aminsharifi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429509010176?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429509010176?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          15
+        ]
+      ],
+      "date-time": "2018-12-15T21:53:00Z",
+      "timestamp": 1544910780000
+    },
+    "score": 41.490486,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429509010176"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          10
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429509010176"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2009.07.1167",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          10
+        ]
+      ]
+    }
+  }
+]

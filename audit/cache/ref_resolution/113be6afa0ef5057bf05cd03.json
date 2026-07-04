@@ -1,0 +1,1335 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          21
+        ]
+      ],
+      "date-time": "2025-11-21T23:23:19Z",
+      "timestamp": 1763767399893,
+      "version": "3.44.0"
+    },
+    "reference-count": 41,
+    "publisher": "BMJ",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              25
+            ]
+          ],
+          "date-time": "2022-07-25T00:00:00Z",
+          "timestamp": 1658707200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 24,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Iain MacKay Foundation",
+        "award": [
+          "G051-1718"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "G051-1718"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "bmj.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Open Heart"
+    ],
+    "accepted": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          7
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                  <jats:title>Objectives</jats:title>\n                  <jats:p>Many studies suggest that infective endocarditis (IE) in people who inject drugs is predominantly right sided, while other studies suggest left sided disease; few have differentiated by class of drug used. We hypothesised that based on differing physiological mechanisms, opioids but not stimulants would be associated with right sided IE.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>A retrospective case series of 290 adult (age ≥18) patients with self-reported recent injection drug use, admitted for a first episode of IE to one of three hospitals in London Ontario between April 2007 and March 2018, stratified patients by drug class used (opioid, stimulant or both), and by site of endocarditis. Other outcomes captured included demographics, causative organisms, cardiac and non-cardiac complications, referral to addiction services, medical versus surgical management, and survival.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>Of those who injected only opioids, 47/71 (69%) developed right-sided IE, 17/71 (25%) developed left-sided IE and 4/71 (6%) had bilateral IE. Of those who injected only stimulants, 11/24 (46%) developed right-sided IE, 11/24 (46%) developed left-sided IE and 2/24 (8%) had bilateral IE. Relative to opioid-only users, stimulant-only users were 1.75 (95% CI 1.05 to 2.93; p=0.031) times more likely to have a left or bilateral IE versus right IE.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusions</jats:title>\n                  <jats:p>While injection use of opioids is associated with a strong predisposition to right-sided IE, stimulants differ in producing a balanced ratio of right and left-sided disease. As the epidemic of crystal methamphetamine injection continues unabated, the rate of left-sided disease, with its attendant higher morbidity and mortality, may also grow.</jats:p>\n               </jats:sec>",
+    "DOI": "10.1136/openhrt-2021-001930",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2022-07-25T11:45:13Z",
+      "timestamp": 1658749513000
+    },
+    "page": "e001930",
+    "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Different drugs, different sides: injection use of opioids alone, and not stimulants alone, predisposes to right-sided endocarditis"
+    ],
+    "prefix": "10.1136",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Rochelle",
+        "family": "Johnstone",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Infectious Diseases, London Health Sciences Centre, London, Ontario, Canada"
+          },
+          {
+            "name": "Medicine, Western University, London, Ontario, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4929-3898",
+        "authenticated-orcid": false,
+        "given": "Nadine",
+        "family": "Khalil",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Infectious Diseases, London Health Sciences Centre, London, Ontario, Canada"
+          },
+          {
+            "name": "Medicine, Western University, London, Ontario, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4640-2561",
+        "authenticated-orcid": false,
+        "given": "Esfandiar",
+        "family": "Shojaei",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Infectious Diseases, London Health Sciences Centre, London, Ontario, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Klajdi",
+        "family": "Puka",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Epidemiology and Biostatistics, Schulich School of Medicine and Dentistry, London, Ontario, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lise",
+        "family": "Bondy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Infectious Diseases, London Health Sciences Centre, London, Ontario, Canada"
+          },
+          {
+            "name": "Medicine, Western University, London, Ontario, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sharon",
+        "family": "Koivu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Family Medicine, London Health Sciences Centre, London, Ontario, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Silverman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Infectious Diseases, London Health Sciences Centre, London, Ontario, Canada"
+          },
+          {
+            "name": "Medicine, Western University, London, Ontario, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2025081710005629000_9.2.e001930.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1949.00220350063005"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1503/cmaj.180694"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M18-2124"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.4",
+        "article-title": "Long-Term infective endocarditis mortality associated with injection opioid use in the United States: a modeling study",
+        "volume": "9",
+        "author": "Barocas",
+        "year": "2020",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/heart.89.5.577"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.6",
+        "first-page": "1282",
+        "article-title": "Isolated pulmonic valve endocarditis in healthy hearts: a case report and review of the literature",
+        "volume": "16",
+        "author": "Ramadan",
+        "year": "2000",
+        "journal-title": "Can J Cardiol"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1678",
+        "DOI": "10.1016/j.amjcard.2020.02.035",
+        "article-title": "Contemporary trends in native valve infective endocarditis in United States (from the National inpatient sample database)",
+        "volume": "125",
+        "author": "Khan",
+        "year": "2020",
+        "journal-title": "Am J Cardiol"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-106-6-833"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "544",
+        "DOI": "10.1016/j.jacc.2020.11.062",
+        "article-title": "International collaboration on endocarditis (ICE) Investigators. prospective cohort study of infective endocarditis in people who inject drugs",
+        "volume": "77",
+        "author": "Pericás",
+        "year": "2021",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313664"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.11",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1001/jamainternmed.2018.6101",
+        "article-title": "Association of prescribed opioids with increased risk of community-acquired pneumonia among patients with and without HIV",
+        "volume": "179",
+        "author": "Edelman",
+        "year": "2019",
+        "journal-title": "JAMA Intern Med"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.12",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0219777",
+        "article-title": "A controlled-release oral opioid supports S. aureus survival in injection drug preparation equipment and may increase bacteremia and endocarditis risk",
+        "volume": "14",
+        "author": "Kasper",
+        "year": "2019",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.13",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1016/S1473-3099(19)30705-4",
+        "article-title": "Hydromorphone and the risk of infective endocarditis among people who inject drugs: a population-based, retrospective cohort study",
+        "volume": "20",
+        "author": "Silverman",
+        "year": "2020",
+        "journal-title": "Lancet Infect Dis"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "185",
+        "DOI": "10.3109/10623320009165316",
+        "article-title": "Human vascular and cardiac endothelia express mu opiate receptor transcripts",
+        "volume": "7",
+        "author": "Cadet",
+        "year": "2000",
+        "journal-title": "Endothelium"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.15",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jamcollsurg.2015.07.057",
+        "article-title": "Hydromorphone exposure exacerbates inflammatory bowel disease in a mouse model",
+        "volume": "221",
+        "author": "Khatri",
+        "year": "2015",
+        "journal-title": "J Am Coll Surg"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.16",
+        "doi-asserted-by": "crossref",
+        "first-page": "651",
+        "DOI": "10.1016/S1473-3099(20)30269-3",
+        "article-title": "Hydromorphone and risk of infective endocarditis",
+        "volume": "20",
+        "author": "Bassareo",
+        "year": "2020",
+        "journal-title": "Lancet Infect Dis"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.17",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.15585/mmwr.mm6912a1",
+        "article-title": "Patterns and Characteristics of Methamphetamine Use Among Adults - United States, 2015-2018",
+        "volume": "69",
+        "author": "Jones",
+        "year": "2020",
+        "journal-title": "MMWR Morb Mortal Wkly Rep"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrcardio.2011.43"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.19",
+        "doi-asserted-by": "crossref",
+        "first-page": "351",
+        "DOI": "10.1056/NEJM200108023450507",
+        "article-title": "Cardiovascular complications of cocaine use",
+        "volume": "345",
+        "author": "Lange",
+        "year": "2001",
+        "journal-title": "N Engl J Med Overseas Ed"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIR.0000000000000296"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijsu.2014.07.014"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijcard.2016.09.030"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313753"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.24",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/jamanetworkopen.2020.12974",
+        "article-title": "Risk of new bloodstream infections and mortality among people who inject drugs with infective endocarditis",
+        "volume": "3",
+        "author": "Tan",
+        "year": "2020",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.25",
+        "unstructured": "European Monitoring Centre for Drugs and Drug Addiction . European drug report 2021: trends and developments. Luxembourg: Publications Office of the European Union, 2021."
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2008.05.008"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1):1",
+        "DOI": "10.1186/s12954-020-00378-z",
+        "article-title": "Risk factors of infective endocarditis in persons who inject drugs",
+        "volume": "17",
+        "author": "Shah",
+        "year": "2020",
+        "journal-title": "Harm Reduct J"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12879-018-2961-8"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.29",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1161/JAHA.119.012969",
+        "article-title": "Geographic Trends, Patient Characteristics, and Outcomes of Infective Endocarditis Associated With Drug Abuse in the United States From 2002 to 2016",
+        "volume": "8",
+        "author": "Kadri",
+        "year": "2019",
+        "journal-title": "J Am Heart Assoc"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.30",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/S0735-1097(19)33783-0",
+        "article-title": "Infective endocarditis trends amongst intravenous drug users: an examination of practice patterns in a mid-western tertiary care center",
+        "volume": "73",
+        "author": "Day",
+        "year": "2019",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15585/mmwr.mm6622a1"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.32",
+        "doi-asserted-by": "crossref",
+        "first-page": "14",
+        "DOI": "10.1016/j.drugalcdep.2018.08.029",
+        "article-title": "Twin epidemics: the surging rise of methamphetamine use in chronic opioid users",
+        "volume": "193",
+        "author": "Ellis",
+        "year": "2018",
+        "journal-title": "Drug Alcohol Depend"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.33",
+        "first-page": "1",
+        "article-title": "Co-involvement of opioids in drug overdose deaths involving cocaine and psychostimulants",
+        "volume": "406",
+        "author": "Hedegaard",
+        "year": "2021",
+        "journal-title": "NCHS Data Brief"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.34",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/ofid/ofz396",
+        "article-title": "Recurrent endocarditis in persons who inject drugs",
+        "volume": "6",
+        "author": "Rodger",
+        "year": "2019",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.9778/cmajo.20160163"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.36",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/jamanetworkopen.2018.5220",
+        "article-title": "Clinical characteristics and factors associated with mortality in first-episode infective endocarditis among persons who inject drugs",
+        "volume": "1",
+        "author": "Rodger",
+        "year": "2018",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2015.03.019"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.38",
+        "first-page": "e523",
+        "article-title": "008 focused update incorporated into the ACC/AHA 2006 guidelines for the management of patients with valvular heart disease: a report of the American College of Cardiology/American heart association Task force on practice guidelines (writing Committee to revise the 1998 guidelines for the management of patients with valvular heart disease) endorsed by the Society of cardiovascular Anesthesiologists, Society for cardiovascular angiography and interventions, and society of thoracic surgeons",
+        "volume": "52",
+        "author": "Bonow",
+        "year": "22008",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.39",
+        "doi-asserted-by": "crossref",
+        "first-page": "1460",
+        "DOI": "10.1016/j.athoracsur.2020.12.003",
+        "article-title": "Infective endocarditis secondary to injection drug use: a survey of Canadian cardiac surgeons",
+        "volume": "112",
+        "author": "An",
+        "year": "2021",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40263-020-00711-x"
+      },
+      {
+        "key": "2025081710005629000_9.2.e001930.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2020214"
+      }
+    ],
+    "container-title": [
+      "Open Heart"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/openhrt-2021-001930",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          17
+        ]
+      ],
+      "date-time": "2025-08-17T17:01:06Z",
+      "timestamp": 1755450066000
+    },
+    "score": 148.8319,
+    "resource": {
+      "primary": {
+        "URL": "https://openheart.bmj.com/lookup/doi/10.1136/openhrt-2021-001930"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            7,
+            25
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/openhrt-2021-001930"
+    ],
+    "URL": "https://doi.org/10.1136/openhrt-2021-001930",
+    "ISSN": [
+      "2053-3624"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2053-3624"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2026-06-03T22:00:36Z",
+      "timestamp": 1780524036658,
+      "version": "3.54.1"
+    },
+    "reference-count": 20,
+    "publisher": "BMJ",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Heart"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1136/heart.89.5.577",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          4,
+          14
+        ]
+      ],
+      "date-time": "2003-04-14T12:58:56Z",
+      "timestamp": 1050325136000
+    },
+    "page": "577-581",
+    "source": "Crossref",
+    "is-referenced-by-count": 192,
+    "title": [
+      "Injection drug use and right sided endocarditis"
+    ],
+    "prefix": "10.1136",
+    "volume": "89",
+    "author": [
+      {
+        "given": "Rob",
+        "family": "Moss",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brad",
+        "family": "Munt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2003,
+          5,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2025092013504195000_89.5.577.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.288.1.75"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(93)90059-X"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "364",
+        "DOI": "10.1093/clinids/8.3.364",
+        "volume": "8",
+        "year": "1986",
+        "journal-title": "Rev Infect Dis"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9149(89)90186-0"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1995.00430150125013"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "560",
+        "DOI": "10.7326/0003-4819-117-7-560",
+        "volume": "117",
+        "year": "1992",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.158.18.2043"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.8",
+        "first-page": "118",
+        "volume": "25",
+        "year": "2002",
+        "journal-title": "Clin Invest Med"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/340827"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(94)90143-0"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0735-1097(93)90250-5"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1053/jinf.2001.0812"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-121-11-199412010-00009"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-9343(96)00070-8"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(86)90004-5"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1988.00380110097021"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.17",
+        "first-page": "129",
+        "volume": "2",
+        "year": "1993",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.18",
+        "first-page": "96",
+        "volume": "28",
+        "year": "2001",
+        "journal-title": "Texas Heart Inst J"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.19",
+        "first-page": "805",
+        "volume": "9",
+        "year": "2000",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "key": "2025092013504195000_89.5.577.20",
+        "first-page": "575",
+        "volume": "8",
+        "year": "1999",
+        "journal-title": "J Heart Valve Dis"
+      }
+    ],
+    "container-title": [
+      "Heart"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/heart.89.5.577",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          20
+        ]
+      ],
+      "date-time": "2025-09-20T20:50:48Z",
+      "timestamp": 1758401448000
+    },
+    "score": 47.488594,
+    "resource": {
+      "primary": {
+        "URL": "https://heart.bmj.com/lookup/doi/10.1136/heart.89.5.577"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          5
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "5",
+      "published-online": {
+        "date-parts": [
+          [
+            2003,
+            5,
+            1
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/heart.89.5.577"
+    ],
+    "URL": "https://doi.org/10.1136/heart.89.5.577",
+    "ISSN": [
+      "1355-6037",
+      "1468-201X"
+    ],
+    "issn-type": [
+      {
+        "value": "1355-6037",
+        "type": "print"
+      },
+      {
+        "value": "1468-201X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ],
+      "date-time": "2026-06-30T21:06:48Z",
+      "timestamp": 1782853608843,
+      "version": "3.54.5"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          13
+        ]
+      ]
+    },
+    "reference-count": 0,
+    "publisher": "Wiley",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>Current therapeutic approaches often focus on targeting clinical\nsymptoms or peripheral phenotypes rather than the underlying molecular\nmechanisms, or endophenotypes, that drive diseases. While symptom-based\ndrugs can alleviate discomfort, they do not necessarily alter disease\nprogression and may overlook opportunities for prevention or early\nintervention in asymptomatic patients. This approach can lead to\novertreatment of certain disease traits while neglecting others that are\ncritical for long-term outcomes. In contrast, mechanism-based therapies\noffer advantages such as specificity and reduced side effects, allowing\nfor the management of previously untreatable conditions or complementing\nestablished treatments. These therapies enable monitoring of drugs'\neffects on the endophenotype driving the disease, facilitating\npersonalized treatment regimens and improving patient compliance.\nMechanism-based drugs are essential for precision prevention and\ntherapy. Network Medicine plays a vital role in understanding diseases\nby identifying key endophenotypes and determinants influencing disease\nexpression. Unlike reductionist methods, it provides insights into\ndisease mechanisms and potential therapeutic targets by examining\ninteractions among genetic, molecular, and environmental factors. As\npart of Network Medicine, Network Pharmacology bridges the gap between\nsymptom-based and mechanism-based strategies, guiding drug development\nwhile considering symptomatic relief. This short review focus on\ncreating heterogeneous networks to integrate various drug, target, and\ndisease-related information. These approaches can create comprehensive\nrepresentations of drugs and targets by incorporating diverse profiles,\nenhancing the prediction performance of drug-target interactions.</jats:p>",
+    "DOI": "10.22541/au.173151578.80735199/v1",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          13
+        ]
+      ],
+      "date-time": "2024-11-13T11:36:28Z",
+      "timestamp": 1731497788000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Use of Different Types of Networks, Alone and in Combination, for Drug Target Identification"
+    ],
+    "prefix": "10.22541",
+    "author": [
+      {
+        "given": "Paolo",
+        "family": "Parini",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Karolinska Institutet"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "link": [
+      {
+        "URL": "https://www.authorea.com/doi/full/10.22541/au.173151578.80735199/v1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ],
+      "date-time": "2026-06-30T20:12:18Z",
+      "timestamp": 1782850338000
+    },
+    "score": 37.651646,
+    "resource": {
+      "primary": {
+        "URL": "https://www.authorea.com/doi/full/10.22541/au.173151578.80735199/v1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          13
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.22541/au.173151578.80735199/v1",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1111/bph.70091",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          13
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2025-06-03T11:40:10Z",
+      "timestamp": 1748950810298,
+      "version": "3.41.0"
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "content-domain": {
+      "domain": [
+        "lww.com",
+        "ovid.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "DOI": "10.1097/brs.0000000000005417",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2025-06-03T11:00:08Z",
+      "timestamp": 1748948408000
+    },
+    "update-policy": "https://doi.org/10.1097/lww.0000000000001000",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Letter to the Editor “Chronic Gabapentinoid Use and Lumbar Fusion Outcomes A Comparative Analysis of Gabapentinoids Alone and in Combination With Opioids” by Cetik, et al"
+    ],
+    "prefix": "10.1097",
+    "author": [
+      {
+        "given": "Guoyu",
+        "family": "Dai",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mingfeng",
+        "family": "Xue",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          3
+        ]
+      ]
+    },
+    "container-title": [
+      "Spine"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.1097/BRS.0000000000005417",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2025-06-03T11:00:09Z",
+      "timestamp": 1748948409000
+    },
+    "score": 37.446033,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/10.1097/BRS.0000000000005417"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1097/brs.0000000000005417",
+    "ISSN": [
+      "0362-2436",
+      "1528-1159"
+    ],
+    "issn-type": [
+      {
+        "value": "0362-2436",
+        "type": "print"
+      },
+      {
+        "value": "1528-1159",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2025-05-15",
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-05-16",
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2024-05-13T14:54:22Z",
+      "timestamp": 1715612062903
+    },
+    "publisher-location": "New York",
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "value": "9781032245706",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781032245706-14",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          6
+        ]
+      ],
+      "date-time": "2022-05-06T09:45:19Z",
+      "timestamp": 1651830319000
+    },
+    "page": "80-82",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Feeling alone"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "given": "Jacki",
+        "family": "Pritchard",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "container-title": [
+      "Dealing with Different Types of Losses Using Hypnotherapy Scripts"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          6
+        ]
+      ],
+      "date-time": "2022-05-06T09:45:37Z",
+      "timestamp": 1651830337000
+    },
+    "score": 35.977375,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781032245706/chapters/10.4324/9781032245706-14"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          6
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781032245706"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.4324/9781032245706-14",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          6
+        ]
+      ]
+    }
+  }
+]

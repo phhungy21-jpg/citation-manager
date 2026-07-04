@@ -1,0 +1,2838 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2026-06-29T14:12:34Z",
+      "timestamp": 1782742354933,
+      "version": "3.54.5"
+    },
+    "reference-count": 157,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2017-01-01T00:00:00Z",
+          "timestamp": 1483228800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2017-01-01T00:00:00Z",
+          "timestamp": 1483228800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              1,
+              24
+            ]
+          ],
+          "date-time": "2018-01-24T00:00:00Z",
+          "timestamp": 1516752000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 388,
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "jacc.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of the American College of Cardiology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jacc.2016.10.066",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2017-01-16T18:21:11Z",
+      "timestamp": 1484590871000
+    },
+    "page": "325-344",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 580,
+    "title": [
+      "Challenges in Infective Endocarditis"
+    ],
+    "prefix": "10.1016",
+    "volume": "69",
+    "author": [
+      {
+        "given": "Thomas J.",
+        "family": "Cahill",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Larry M.",
+        "family": "Baddour",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gilbert",
+        "family": "Habib",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bruno",
+        "family": "Hoen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Erwan",
+        "family": "Salaun",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gosta B.",
+        "family": "Pettersson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hans Joachim",
+        "family": "Schäfers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bernard D.",
+        "family": "Prendergast",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "882",
+        "DOI": "10.1016/S0140-6736(15)00067-7",
+        "article-title": "Infective endocarditis",
+        "volume": "387",
+        "author": "Cahill",
+        "year": "2016",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "2070",
+        "DOI": "10.1016/j.jacc.2015.03.518",
+        "article-title": "Trends in infective endocarditis incidence, microbiology, and valve replacement in the United States from 2000 to 2011",
+        "volume": "65",
+        "author": "Pant",
+        "year": "2015",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "e60033",
+        "DOI": "10.1371/journal.pone.0060033",
+        "article-title": "Infective endocarditis in the U.S., 1998–2009: a nationwide study",
+        "volume": "8",
+        "author": "Bor",
+        "year": "2013",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.1001/archinternmed.2011.1027",
+        "article-title": "Increasing US rates of endocarditis with Staphylococcus aureus: 1999-2008",
+        "volume": "172",
+        "author": "Federspiel",
+        "year": "2012",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1219",
+        "DOI": "10.1016/S0140-6736(14)62007-9",
+        "article-title": "Incidence of infective endocarditis in England, 2000-13: a secular trend, interrupted time-series analysis",
+        "volume": "385",
+        "author": "Dayer",
+        "year": "2015",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "879",
+        "DOI": "10.1136/hrt.2005.067256",
+        "article-title": "The changing face of infective endocarditis",
+        "volume": "92",
+        "author": "Prendergast",
+        "year": "2006",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.2147/CLEP.S12977",
+        "article-title": "The worldwide epidemiology of acute rheumatic fever and rheumatic heart disease",
+        "volume": "3",
+        "author": "Seckeler",
+        "year": "2011",
+        "journal-title": "Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "e82665",
+        "DOI": "10.1371/journal.pone.0082665",
+        "article-title": "Infective endocarditis epidemiology over five decades: a systematic review",
+        "volume": "8",
+        "author": "Slipczuk",
+        "year": "2013",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1230",
+        "DOI": "10.1093/cid/cis199",
+        "article-title": "Preeminence of Staphylococcus aureus in infective endocarditis: a 1-year population-based survey",
+        "volume": "54",
+        "author": "Selton-Suty",
+        "year": "2012",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1001/archinternmed.2008.603",
+        "article-title": "Clinical presentation, etiology, and outcome of infective endocarditis in the 21st century: the International Collaboration on Endocarditis-Prospective Cohort Study",
+        "volume": "169",
+        "author": "Murdoch",
+        "year": "2009",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "590",
+        "DOI": "10.1016/j.jacc.2006.05.016",
+        "article-title": "Rising rates of cardiac rhythm management device infections in the United States: 1996 through 2003",
+        "volume": "48",
+        "author": "Voigt",
+        "year": "2006",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1566",
+        "DOI": "10.1161/CIRCULATIONAHA.114.014089",
+        "article-title": "Infective endocarditis after transcatheter aortic valve implantation: results from a large multicenter registry",
+        "volume": "131",
+        "author": "Amat-Santos",
+        "year": "2015",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "2907",
+        "DOI": "10.1016/j.jacc.2016.03.588",
+        "article-title": "Incidence, predictors, and outcome of patients developing infective endocarditis following transfemoral transcatheter aortic valve replacement",
+        "volume": "67",
+        "author": "Mangner",
+        "year": "2016",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "788",
+        "DOI": "10.1136/heartjnl-2014-306761",
+        "article-title": "Infective endocarditis of a transcatheter pulmonary valve in comparison with surgical implants",
+        "volume": "101",
+        "author": "Van Dijck",
+        "year": "2015",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "585",
+        "DOI": "10.1146/annurev.mi.48.100194.003101",
+        "article-title": "MSCRAMM-mediated adherence of microorganisms to host tissues",
+        "volume": "48",
+        "author": "Patti",
+        "year": "1994",
+        "journal-title": "Ann Rev Microbiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1038/nrcardio.2013.174",
+        "article-title": "Mechanisms of infective endocarditis: pathogen-host interaction and risk states",
+        "volume": "11",
+        "author": "Werdan",
+        "year": "2014",
+        "journal-title": "Nat Rev Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "56",
+        "DOI": "10.1053/j.semtcvs.2015.12.005",
+        "article-title": "Current hypotheses in cardiac surgery: biofilm in infective endocarditis",
+        "volume": "28",
+        "author": "Elgharably",
+        "year": "2016",
+        "journal-title": "Semin Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "231",
+        "DOI": "10.1111/2049-632X.12141",
+        "article-title": "Anti-biofilm agents: recent breakthrough against multi-drug resistant Staphylococcus aureus",
+        "volume": "70",
+        "author": "Chung",
+        "year": "2014",
+        "journal-title": "Pathog Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib19",
+        "first-page": "289",
+        "article-title": "Infective endocarditis: with an analysis of 150 cases and with special reference to the chronic form of the disease",
+        "volume": "os2",
+        "author": "Horder",
+        "year": "1909",
+        "journal-title": "Q J Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "869",
+        "DOI": "10.1016/S0140-6736(00)47788-3",
+        "article-title": "Bacteraemia and oral sepsis with special reference to the aetiology of subacute endocarditis",
+        "volume": "2",
+        "author": "Okell",
+        "year": "1935",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1016/0002-9343(48)90372-6",
+        "article-title": "Effect of penicillin on the bacteremia following dental extraction",
+        "volume": "4",
+        "author": "Glaser",
+        "year": "1948",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "868",
+        "DOI": "10.1001/archinte.1948.00220240077005",
+        "article-title": "Effect of prophylactically administered penicillin on incidence of bacteremia following extraction of teeth; results in patients with healed rheumatic and bacterial endocarditis",
+        "volume": "81",
+        "author": "Hirsh",
+        "year": "1948",
+        "journal-title": "Arch Intern Med (Chic)"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib23",
+        "first-page": "317",
+        "article-title": "Prevention of rheumatic fever and bacterial endocarditis through control of streptococcal infections",
+        "volume": "11",
+        "author": "Jones",
+        "year": "1955",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1016/0140-6736(92)90207-J",
+        "article-title": "Efficacy of antibiotic prophylaxis for prevention of native-valve endocarditis",
+        "volume": "339",
+        "author": "van der Meer",
+        "year": "1992",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1869",
+        "DOI": "10.1001/archinte.1992.00400210093015",
+        "article-title": "Epidemiology of bacterial endocarditis in the Netherlands. II. antecedent procedures and use of prophylaxis",
+        "volume": "152",
+        "author": "van der Meer",
+        "year": "1992",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "761",
+        "DOI": "10.7326/0003-4819-129-10-199811150-00002",
+        "article-title": "Dental and cardiac risk factors for infective endocarditis: a population-based, case-control study",
+        "volume": "129",
+        "author": "Strom",
+        "year": "1998",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "3118",
+        "DOI": "10.1161/CIRCULATIONAHA.107.758524",
+        "article-title": "Bacteremia associated with toothbrushing and dental extraction",
+        "volume": "117",
+        "author": "Lockhart",
+        "year": "2008",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "2369",
+        "DOI": "10.1093/eurheartj/ehp285",
+        "volume": "30",
+        "author": "Habib",
+        "year": "2009",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1736",
+        "DOI": "10.1161/CIRCULATIONAHA.106.183095",
+        "volume": "116",
+        "author": "Wilson",
+        "year": "2007",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "138",
+        "DOI": "10.1258/jrsm.2011.100356",
+        "article-title": "Antibiotic prophylaxis of endocarditis: the rest of the world and NICE",
+        "volume": "104",
+        "author": "Chambers",
+        "year": "2011",
+        "journal-title": "J R Soc Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "770",
+        "DOI": "10.1136/bmj.39510.423148.AD",
+        "article-title": "Prophylaxis against infective endocarditis: summary of NICE guidance",
+        "volume": "336",
+        "author": "Richey",
+        "year": "2008",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "715",
+        "DOI": "10.1136/hrt.2003.033183",
+        "article-title": "Prophylaxis of infective endocarditis: French recommendations 2002",
+        "volume": "91",
+        "author": "Danchin",
+        "year": "2005",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "1968",
+        "DOI": "10.1016/j.jacc.2012.02.029",
+        "article-title": "Temporal trends in infective endocarditis in the context of prophylaxis guideline modifications: three successive population-based surveys",
+        "volume": "59",
+        "author": "Duval",
+        "year": "2012",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1161/CIRCULATIONAHA.112.095281",
+        "article-title": "Incidence of infective endocarditis caused by viridans group streptococci before and after publication of the 2007 American Heart Association's endocarditis prevention guidelines",
+        "volume": "126",
+        "author": "DeSimone",
+        "year": "2012",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "874",
+        "DOI": "10.1016/j.mayocp.2015.04.019",
+        "article-title": "Incidence of infective endocarditis due to viridans group streptococci before and after the 2007 American Heart Association's prevention guidelines: an extended evaluation of the Olmsted County, Minnesota, population and Nationwide Inpatient Sample",
+        "volume": "90",
+        "author": "DeSimone",
+        "year": "2015",
+        "journal-title": "Mayo Clin Proc"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib36",
+        "first-page": "942",
+        "article-title": "Infective endocarditis hospitalizations before and after the 2007 American Heart Association prophylaxis guidelines",
+        "volume": "32",
+        "author": "Mackie",
+        "year": "2016",
+        "journal-title": "Can J Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "2217",
+        "DOI": "10.1016/j.jacc.2013.07.071",
+        "article-title": "Trends in hospitalization rates and outcomes of endocarditis among Medicare beneficiaries",
+        "volume": "62",
+        "author": "Bikdeli",
+        "year": "2013",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "d2392",
+        "DOI": "10.1136/bmj.d2392",
+        "article-title": "Impact of the NICE guideline recommending cessation of antibiotic prophylaxis for prevention of infective endocarditis: before and after study",
+        "volume": "342",
+        "author": "Thornhill",
+        "year": "2011",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "690",
+        "DOI": "10.1111/j.1432-2277.2005.00120.x",
+        "article-title": "Severe endocarditis in transplant recipients—an epidemiologic study",
+        "volume": "18",
+        "author": "Ruttmann",
+        "year": "2005",
+        "journal-title": "Transplant Int"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1093/clinids/22.1.40",
+        "article-title": "Infective endocarditis in injection drug users: importance of human immunodeficiency virus serostatus and degree of immunosuppression",
+        "volume": "22",
+        "author": "Pulvirenti",
+        "year": "1996",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "1287",
+        "DOI": "10.1086/592576",
+        "article-title": "Contemporary epidemiology and prognosis of health care-associated infective endocarditis",
+        "volume": "47",
+        "author": "Fernández-Hidalgo",
+        "year": "2008",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib42",
+        "doi-asserted-by": "crossref",
+        "first-page": "1745",
+        "DOI": "10.1161/01.CIR.0000124719.61827.7F",
+        "article-title": "Early predictors of in-hospital death in infective endocarditis",
+        "volume": "109",
+        "author": "Chu",
+        "year": "2004",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib43",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1111/j.1469-0691.1997.tb00617.x",
+        "article-title": "Epidemiology of Staphylococcus aureus bacteremia in Denmark from 1957 to 1990",
+        "volume": "3",
+        "author": "Frimodt-Møller",
+        "year": "1997",
+        "journal-title": "Clin Microbiol Infect"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib44",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1001/jama.2012.7139",
+        "article-title": "Epidemiology of Staphylococcus aureus blood and skin and soft tissue infections in the US military health system, 2005-2010",
+        "volume": "308",
+        "author": "Landrum",
+        "year": "2012",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib45",
+        "doi-asserted-by": "crossref",
+        "first-page": "603",
+        "DOI": "10.1128/CMR.00134-14",
+        "article-title": "Staphylococcus aureus infections: epidemiology, pathophysiology, clinical manifestations, and management",
+        "volume": "28",
+        "author": "Tong",
+        "year": "2015",
+        "journal-title": "Clin Microbiol Rev"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "2725",
+        "DOI": "10.1056/NEJMoa061115",
+        "article-title": "An intervention to decrease catheter-related bloodstream infections in the ICU",
+        "volume": "355",
+        "author": "Pronovost",
+        "year": "2006",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib47",
+        "doi-asserted-by": "crossref",
+        "first-page": "96",
+        "DOI": "10.1093/cid/ciu239",
+        "article-title": "Prevention of central line-associated bloodstream infections through quality improvement interventions: a systematic review and meta-analysis",
+        "volume": "59",
+        "author": "Blot",
+        "year": "2014",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib48",
+        "unstructured": "CDC. CDC Approach to BSI Prevention in Dialysis Facilities. 2013. Available at: http://www.cdc.gov/dialysis/PDFs/Dialysis-Core-Interventions-5_10_13.pdf. Accessed November 17, 2016."
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib49",
+        "doi-asserted-by": "crossref",
+        "first-page": "86",
+        "DOI": "10.1016/j.jhin.2016.05.020",
+        "article-title": "Reducing Staphylococcus aureus bloodstream infections associated with peripheral intravenous cannulae: successful implementation of a care bundle at a large Australian health service",
+        "volume": "94",
+        "author": "Rhodes",
+        "year": "2016",
+        "journal-title": "J Hosp Infect"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib50",
+        "doi-asserted-by": "crossref",
+        "first-page": "8533",
+        "DOI": "10.1016/j.biomaterials.2013.07.089",
+        "article-title": "A review of the biomaterials technologies for infection-resistant surfaces",
+        "volume": "34",
+        "author": "Campoccia",
+        "year": "2013",
+        "journal-title": "Biomaterials"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib51",
+        "doi-asserted-by": "crossref",
+        "first-page": "1055",
+        "DOI": "10.1136/heart.89.9.1055",
+        "article-title": "Incidence of embolism and paravalvar leak after St Jude Silzone valve implantation: experience from the Cardiff Embolic Risk Factor Study",
+        "volume": "89",
+        "author": "Ionescu",
+        "year": "2003",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib52",
+        "doi-asserted-by": "crossref",
+        "first-page": "785",
+        "DOI": "10.1016/S0003-4975(01)03442-7",
+        "article-title": "Paravalvular leak and other events in Silzone-coated mechanical heart valves: a report from AVERT",
+        "volume": "73",
+        "author": "Schaff",
+        "year": "2002",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib53",
+        "doi-asserted-by": "crossref",
+        "first-page": "491",
+        "DOI": "10.1056/NEJMoa011297",
+        "article-title": "Use of a Staphylococcus aureus conjugate vaccine in patients receiving hemodialysis",
+        "volume": "346",
+        "author": "Shinefield",
+        "year": "2002",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib54",
+        "doi-asserted-by": "crossref",
+        "first-page": "1368",
+        "DOI": "10.1001/jama.2013.3010",
+        "article-title": "Effect of an investigational vaccine for preventing Staphylococcus aureus infections after cardiothoracic surgery: a randomized trial",
+        "volume": "309",
+        "author": "Fowler",
+        "year": "2013",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib55",
+        "doi-asserted-by": "crossref",
+        "first-page": "3680",
+        "DOI": "10.1073/pnas.1424924112",
+        "article-title": "Vaccine composition formulated with a novel TLR7-dependent adjuvant induces high and broad protection against Staphylococcus aureus",
+        "volume": "112",
+        "author": "Bagnoli",
+        "year": "2015",
+        "journal-title": "Proc Natl Acad Sci"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib56",
+        "doi-asserted-by": "crossref",
+        "first-page": "1086",
+        "DOI": "10.1016/j.ahj.2007.07.023",
+        "article-title": "The relationship between the initiation of antimicrobial therapy and the incidence of stroke in infective endocarditis: an analysis from the ICE Prospective Cohort Study (ICE-PCS)",
+        "volume": "154",
+        "author": "Dickerman",
+        "year": "2007",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib57",
+        "doi-asserted-by": "crossref",
+        "first-page": "380",
+        "DOI": "10.1093/oxfordjournals.eurheartj.a061876",
+        "article-title": "Duration of symptoms and the effects of a more aggressive surgical policy: two factors affecting prognosis of infective endocarditis",
+        "volume": "6",
+        "author": "Nihoyannopoulos",
+        "year": "1985",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib58",
+        "doi-asserted-by": "crossref",
+        "first-page": "1418",
+        "DOI": "10.1086/375057",
+        "article-title": "Outcomes analysis of delayed antibiotic treatment for hospital-acquired Staphylococcus aureus bacteremia",
+        "volume": "36",
+        "author": "Lodise",
+        "year": "2003",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib59",
+        "doi-asserted-by": "crossref",
+        "first-page": "e57",
+        "DOI": "10.1016/j.jacc.2014.02.536",
+        "article-title": "2014 AHA/ACC guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines",
+        "volume": "63",
+        "author": "Nishimura",
+        "year": "2014",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib60",
+        "doi-asserted-by": "crossref",
+        "first-page": "1185",
+        "DOI": "10.1001/archinte.160.8.1185",
+        "article-title": "Evaluation of the Duke criteria in 93 episodes of prosthetic valve endocarditis: could sensitivity be improved?",
+        "volume": "160",
+        "author": "Pérez-Vázquez",
+        "year": "2000",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib61",
+        "doi-asserted-by": "crossref",
+        "first-page": "2023",
+        "DOI": "10.1016/S0735-1097(99)00116-3",
+        "article-title": "Value and limitations of the Duke criteria for the diagnosis of infective endocarditis",
+        "volume": "33",
+        "author": "Habib",
+        "year": "1999",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib62",
+        "doi-asserted-by": "crossref",
+        "first-page": "1020",
+        "DOI": "10.1136/hrt.2003.025585",
+        "article-title": "Repeated echocardiographic examinations of patients with suspected infective endocarditis",
+        "volume": "90",
+        "author": "Vieira",
+        "year": "2004",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib63",
+        "doi-asserted-by": "crossref",
+        "first-page": "2369",
+        "DOI": "10.1093/eurheartj/ehp285",
+        "volume": "30",
+        "author": "Habib",
+        "year": "2009",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib64",
+        "doi-asserted-by": "crossref",
+        "first-page": "2125",
+        "DOI": "10.1007/s00330-015-3605-7",
+        "article-title": "Are novel non-invasive imaging techniques needed in patients with suspected prosthetic heart valve endocarditis? A systematic review and meta-analysis",
+        "volume": "25",
+        "author": "Habets",
+        "year": "2015",
+        "journal-title": "Eur Radiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib65",
+        "doi-asserted-by": "crossref",
+        "first-page": "2407",
+        "DOI": "10.1007/s00330-012-2491-5",
+        "article-title": "ECG-gated computed tomography: a new role for patients with suspected aortic prosthetic valve endocarditis",
+        "volume": "22",
+        "author": "Fagman",
+        "year": "2012",
+        "journal-title": "Eur Radiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib66",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.1007/s10554-013-0335-2",
+        "article-title": "Cardiac computed tomography angiography results in diagnostic and therapeutic change in prosthetic heart valve endocarditis",
+        "volume": "30",
+        "author": "Habets",
+        "year": "2014",
+        "journal-title": "Int J Cardiovasc Imaging"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib67",
+        "doi-asserted-by": "crossref",
+        "first-page": "436",
+        "DOI": "10.1016/j.jacc.2008.01.077",
+        "article-title": "Multislice computed tomography in infective endocarditis: comparison with transesophageal echocardiography and intraoperative findings",
+        "volume": "53",
+        "author": "Feuchtner",
+        "year": "2009",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib68",
+        "doi-asserted-by": "crossref",
+        "first-page": "3075",
+        "DOI": "10.1093/eurheartj/ehv319",
+        "article-title": "2015 ESC guidelines for the management of infective endocarditis",
+        "volume": "36",
+        "author": "Habib",
+        "year": "2015",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib69",
+        "doi-asserted-by": "crossref",
+        "first-page": "2374",
+        "DOI": "10.1016/j.jacc.2013.01.092",
+        "article-title": "Positron emission tomography/computed tomography for diagnosis of prosthetic valve endocarditis: increased valvular 18F-fluorodeoxyglucose uptake as a novel major criterion",
+        "volume": "61",
+        "author": "Saby",
+        "year": "2013",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib70",
+        "doi-asserted-by": "crossref",
+        "first-page": "1113",
+        "DOI": "10.1161/CIRCULATIONAHA.115.015316",
+        "article-title": "Improving the diagnosis of infective endocarditis in prosthetic valves and intracardiac devices with 18F-fluorodeoxyglucose positron emission tomography/computed tomography: initial results at an infective endocarditis referral center",
+        "volume": "132",
+        "author": "Pizzi",
+        "year": "2015",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib71",
+        "doi-asserted-by": "crossref",
+        "first-page": "1235",
+        "DOI": "10.2967/jnumed.111.099424",
+        "article-title": "Added value of 99mTc-HMPAO-labeled leukocyte SPECT/CT in the characterization and management of patients with infectious endocarditis",
+        "volume": "53",
+        "author": "Erba",
+        "year": "2012",
+        "journal-title": "J Nucl Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib72",
+        "doi-asserted-by": "crossref",
+        "first-page": "1980",
+        "DOI": "10.2967/jnumed.114.141895",
+        "article-title": "Respective performance of 18F-FDG PET and radiolabeled leukocyte scintigraphy for the diagnosis of prosthetic valve endocarditis",
+        "volume": "55",
+        "author": "Rouzet",
+        "year": "2014",
+        "journal-title": "J Nucl Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib73",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.7326/0003-4819-152-8-201004200-00006",
+        "article-title": "Effect of early cerebral magnetic resonance imaging on clinical decisions in infective endocarditis: a prospective study",
+        "volume": "152",
+        "author": "Duval",
+        "year": "2010",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib74",
+        "doi-asserted-by": "crossref",
+        "first-page": "e0118616",
+        "DOI": "10.1371/journal.pone.0118616",
+        "article-title": "Impact of routine cerebral CT angiography on treatment decisions in infective endocarditis",
+        "volume": "10",
+        "author": "Meshaal",
+        "year": "2015",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib75",
+        "doi-asserted-by": "crossref",
+        "first-page": "703",
+        "DOI": "10.1093/ehjci/jes023",
+        "article-title": "Respective effects of early cerebral and abdominal magnetic resonance imaging on clinical decisions in infective endocarditis",
+        "volume": "13",
+        "author": "Iung",
+        "year": "2012",
+        "journal-title": "Eur Heart J Cardiovasc Imaging"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib76",
+        "doi-asserted-by": "crossref",
+        "first-page": "3012",
+        "DOI": "10.1001/jama.293.24.3012",
+        "article-title": "Staphylococcus aureus endocarditis: a consequence of medical progress",
+        "volume": "293",
+        "author": "Fowler",
+        "year": "2005",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib77",
+        "doi-asserted-by": "crossref",
+        "first-page": "1323",
+        "DOI": "10.1086/383035",
+        "article-title": "Prognostic factors in 61 cases of Staphylococcus aureus prosthetic valve infective endocarditis from the International Collaboration on Endocarditis Merged Database",
+        "volume": "38",
+        "author": "Chirouze",
+        "year": "2004",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib78",
+        "doi-asserted-by": "crossref",
+        "first-page": "1354",
+        "DOI": "10.1001/jama.297.12.1354",
+        "article-title": "Contemporary clinical profile and outcome of prosthetic valve endocarditis",
+        "volume": "297",
+        "author": "Wang",
+        "year": "2007",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib79",
+        "doi-asserted-by": "crossref",
+        "first-page": "760",
+        "DOI": "10.1093/eurheartj/ehl486",
+        "article-title": "Definition, clinical profile, microbiological spectrum, and prognostic factors of early-onset prosthetic valve endocarditis",
+        "volume": "28",
+        "author": "López",
+        "year": "2007",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib80",
+        "doi-asserted-by": "crossref",
+        "first-page": "887",
+        "DOI": "10.1016/j.jtcvs.2009.05.042",
+        "article-title": "Clinical course and predictors of death in prosthetic valve endocarditis over a 20-year period",
+        "volume": "139",
+        "author": "Alonso-Valle",
+        "year": "2010",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib81",
+        "doi-asserted-by": "crossref",
+        "first-page": "232",
+        "DOI": "10.1086/524666",
+        "article-title": "Emergence of coagulase-negative staphylococci as a cause of native valve endocarditis",
+        "volume": "46",
+        "author": "Chu",
+        "year": "2008",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib82",
+        "doi-asserted-by": "crossref",
+        "first-page": "543",
+        "DOI": "10.1086/600885",
+        "article-title": "Ongoing revolution in bacteriology: routine identification of bacteria by matrix-assisted laser desorption ionization time-of-flight mass spectrometry",
+        "volume": "49",
+        "author": "Seng",
+        "year": "2009",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib83",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1086/653675",
+        "article-title": "Comprehensive diagnostic strategy for blood culture-negative endocarditis: a prospective study of 819 new cases",
+        "volume": "51",
+        "author": "Fournier",
+        "year": "2010",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib84",
+        "doi-asserted-by": "crossref",
+        "first-page": "524",
+        "DOI": "10.1136/heartjnl-2013-304354",
+        "article-title": "The infective endocarditis team: recommendations from an international working group",
+        "volume": "100",
+        "author": "Chambers",
+        "year": "2014",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib85",
+        "doi-asserted-by": "crossref",
+        "first-page": "1171",
+        "DOI": "10.1016/j.amjcard.2013.05.060",
+        "article-title": "Impact of a multidisciplinary management strategy on the outcome of patients with native valve infective endocarditis",
+        "volume": "112",
+        "author": "Chirillo",
+        "year": "2013",
+        "journal-title": "Am J Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib86",
+        "doi-asserted-by": "crossref",
+        "first-page": "1290",
+        "DOI": "10.1001/archinternmed.2009.192",
+        "article-title": "Dramatic reduction in infective endocarditis-related mortality with a management-based approach",
+        "volume": "169",
+        "author": "Botelho-Nevers",
+        "year": "2009",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib87",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1001/jama.1945.02860030001001",
+        "article-title": "The treatment of subacute bacterial endocarditis with penicillin: results in twenty cases",
+        "volume": "127",
+        "author": "Dawson",
+        "year": "1945",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib88",
+        "doi-asserted-by": "crossref",
+        "first-page": "144",
+        "DOI": "10.1001/jama.1944.02850030012003",
+        "article-title": "Combined penicillin and heparin therapy of subacute bacterial endocarditis: report of seven consecutive successfully treated patients",
+        "volume": "124",
+        "author": "Loewe",
+        "year": "1944",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib89",
+        "doi-asserted-by": "crossref",
+        "first-page": "1435",
+        "DOI": "10.1161/CIR.0000000000000296",
+        "article-title": "Infective endocarditis in adults: diagnosis, antimicrobial therapy, and management of complications",
+        "volume": "132",
+        "author": "Baddour",
+        "year": "2015",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib90",
+        "doi-asserted-by": "crossref",
+        "first-page": "1406",
+        "DOI": "10.1093/clinids/21.6.1406",
+        "article-title": "Treatment of streptococcal endocarditis with a single daily dose of ceftriaxone and netilmicin for 14 days: a prospective multicenter study",
+        "volume": "21",
+        "author": "Francioli",
+        "year": "1995",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib91",
+        "doi-asserted-by": "crossref",
+        "first-page": "969",
+        "DOI": "10.7326/0003-4819-125-12-199612150-00005",
+        "article-title": "Effectiveness of cloxacillin with and without gentamicin in short-term therapy for right-sided Staphylococcus aureus endocarditis. A randomized, controlled trial",
+        "volume": "125",
+        "author": "Ribera",
+        "year": "1996",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib92",
+        "doi-asserted-by": "crossref",
+        "first-page": "653",
+        "DOI": "10.1056/NEJMoa053783",
+        "article-title": "Daptomycin versus standard therapy for bacteremia and endocarditis caused by Staphylococcus aureus",
+        "volume": "355",
+        "author": "Fowler",
+        "year": "2006",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib93",
+        "doi-asserted-by": "crossref",
+        "first-page": "713",
+        "DOI": "10.1086/597031",
+        "article-title": "Initial low-dose gentamicin for Staphylococcus aureus bacteremia and endocarditis is nephrotoxic",
+        "volume": "48",
+        "author": "Cosgrove",
+        "year": "2009",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib94",
+        "doi-asserted-by": "crossref",
+        "first-page": "1261",
+        "DOI": "10.1093/cid/cit052",
+        "article-title": "Ampicillin plus ceftriaxone is as effective as ampicillin plus gentamicin for treating Enterococcus faecalis infective endocarditis",
+        "volume": "56",
+        "author": "Fernández-Hidalgo",
+        "year": "2013",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib95",
+        "doi-asserted-by": "crossref",
+        "first-page": "574",
+        "DOI": "10.7326/0003-4819-146-8-200704170-00008",
+        "article-title": "Brief communication: treatment of Enterococcus faecalis endocarditis with ampicillin plus ceftriaxone",
+        "volume": "146",
+        "author": "Gavaldà",
+        "year": "2007",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib96",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1086/430908",
+        "article-title": "Bacteriological outcome after valve surgery for active infective endocarditis: implications for duration of treatment after surgery",
+        "volume": "41",
+        "author": "Morris",
+        "year": "2005",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib97",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1111/j.1469-0691.2011.03594.x",
+        "article-title": "Two weeks of postsurgical therapy may be enough for high-risk cases of endocarditis caused by Streptococcus viridans or Streptococcus bovis",
+        "volume": "18",
+        "author": "Muñoz",
+        "year": "2012",
+        "journal-title": "Clin Microbiol Infect"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib98",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1016/S0002-9343(96)00070-8",
+        "article-title": "Oral antibiotic treatment of right-sided staphylococcal endocarditis in injection drug users: prospective randomized comparison with parenteral therapy",
+        "volume": "101",
+        "author": "Heldman",
+        "year": "1996",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib99",
+        "doi-asserted-by": "crossref",
+        "first-page": "116",
+        "DOI": "10.1016/j.ahj.2012.11.006",
+        "article-title": "Partial oral treatment of endocarditis",
+        "volume": "165",
+        "author": "Iversen",
+        "year": "2013",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib100",
+        "doi-asserted-by": "crossref",
+        "first-page": "203",
+        "DOI": "10.1086/321814",
+        "article-title": "Patient selection criteria and management guidelines for outpatient parenteral antibiotic therapy for native valve infective endocarditis",
+        "volume": "33",
+        "author": "Andrews",
+        "year": "2001",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib101",
+        "doi-asserted-by": "crossref",
+        "first-page": "587",
+        "DOI": "10.1016/j.eimc.2011.05.007",
+        "article-title": "Efficacy and safety of outpatient parenteral antibiotic therapy for infective endocarditis: a ten-year prospective study",
+        "volume": "29",
+        "author": "Cervera",
+        "year": "2011",
+        "journal-title": "Enfermedades Infecciosas y Microbiología Clínica"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib102",
+        "doi-asserted-by": "crossref",
+        "first-page": "1650",
+        "DOI": "10.1093/jac/dkt046",
+        "article-title": "Risk factors for failure of outpatient parenteral antibiotic therapy (OPAT) in infective endocarditis",
+        "volume": "68",
+        "author": "Duncan",
+        "year": "2013",
+        "journal-title": "J Antimicrob Chemother"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib103",
+        "doi-asserted-by": "crossref",
+        "first-page": "371",
+        "DOI": "10.1038/nrd3975",
+        "article-title": "Platforms for antibiotic discovery",
+        "volume": "12",
+        "author": "Lewis",
+        "year": "2013",
+        "journal-title": "Nat Rev Drug Discovery"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib104",
+        "doi-asserted-by": "crossref",
+        "first-page": "2292",
+        "DOI": "10.1128/AAC.02588-15",
+        "article-title": "A high-affinity native human antibody disrupts biofilm from Staphylococcus aureus bacteria and potentiates antibiotic efficacy in a mouse implant infection model",
+        "volume": "60",
+        "author": "Estellés",
+        "year": "2016",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib105",
+        "doi-asserted-by": "crossref",
+        "first-page": "665",
+        "DOI": "10.1016/j.jtcvs.2009.07.026",
+        "article-title": "Homograft aortic root replacement in native or prosthetic active infective endocarditis: twenty-year single-center experience",
+        "volume": "139",
+        "author": "Musci",
+        "year": "2010",
+        "journal-title": "Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib106",
+        "doi-asserted-by": "crossref",
+        "first-page": "489",
+        "DOI": "10.1016/j.athoracsur.2011.10.063",
+        "article-title": "Outcomes after surgical treatment of native and prosthetic valve infective endocarditis",
+        "volume": "93",
+        "author": "Manne",
+        "year": "2012",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib107",
+        "doi-asserted-by": "crossref",
+        "first-page": "1141",
+        "DOI": "10.1161/CIRCULATIONAHA.108.773598",
+        "article-title": "Surgery for infective endocarditis: who and when?",
+        "volume": "121",
+        "author": "Prendergast",
+        "year": "2010",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib108",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1161/CIRCULATIONAHA.114.012461",
+        "article-title": "Association between surgical indications, operative risk and clinical outcome in infective endocarditis: a prospective study from the International Collaboration on Endocarditis",
+        "volume": "131",
+        "author": "Chu",
+        "year": "2015",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib109",
+        "doi-asserted-by": "crossref",
+        "first-page": "1068",
+        "DOI": "10.1016/j.jacc.2015.07.016",
+        "article-title": "Critical questions about left-sided infective endocarditis",
+        "volume": "66",
+        "author": "San Román",
+        "year": "2015",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib110",
+        "doi-asserted-by": "crossref",
+        "first-page": "98",
+        "DOI": "10.1016/j.jtcvs.2010.09.016",
+        "article-title": "Outcomes for endocarditis surgery in North America: a simplified risk scoring system",
+        "volume": "141",
+        "author": "Gaca",
+        "year": "2011",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib111",
+        "doi-asserted-by": "crossref",
+        "first-page": "307571",
+        "DOI": "10.1100/2012/307571",
+        "article-title": "The need for a specific risk prediction system in native valve infective endocarditis surgery",
+        "volume": "2012",
+        "author": "De Feo",
+        "year": "2012",
+        "journal-title": "Scientific World Journal"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib112",
+        "doi-asserted-by": "crossref",
+        "first-page": "133",
+        "DOI": "10.1016/j.ijcard.2014.04.266",
+        "article-title": "Valve surgery in active infective endocarditis: a simple score to predict in-hospital prognosis",
+        "volume": "175",
+        "author": "Martínez-Sellés",
+        "year": "2014",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib113",
+        "doi-asserted-by": "crossref",
+        "first-page": "1495",
+        "DOI": "10.1001/jamainternmed.2013.8203",
+        "article-title": "In-hospital and 1-year mortality in patients undergoing early surgery for prosthetic valve endocarditis",
+        "volume": "173",
+        "author": "Lalani",
+        "year": "2013",
+        "journal-title": "JAMA Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib114",
+        "doi-asserted-by": "crossref",
+        "first-page": "1005",
+        "DOI": "10.1161/CIRCULATIONAHA.109.864488",
+        "article-title": "Analysis of the impact of early surgery on in-hospital mortality of native valve endocarditis",
+        "volume": "121",
+        "author": "Lalani",
+        "year": "2010",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib115",
+        "doi-asserted-by": "crossref",
+        "first-page": "741",
+        "DOI": "10.1093/cid/ciu871",
+        "article-title": "Impact of early valve surgery on outcome of Staphylococcus aureus prosthetic valve infective endocarditis: analysis in the International Collaboration of Endocarditis-Prospective Cohort Study",
+        "volume": "60",
+        "author": "Chirouze",
+        "year": "2015",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib116",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hussain ST, Shrestha NK, Gordon SM, et al. Residual patient, anatomic, and surgical obstacles in treating active left-sided infective endocarditis. J Thorac Cardiovasc Surg 2014;148:981–8.e4.",
+        "DOI": "10.1016/j.jtcvs.2014.06.019"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib117",
+        "doi-asserted-by": "crossref",
+        "first-page": "1597",
+        "DOI": "10.1056/NEJMoa1008232",
+        "article-title": "Transcatheter aortic-valve implantation for aortic stenosis in patients who cannot undergo surgery",
+        "volume": "363",
+        "author": "Leon",
+        "year": "2010",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib118",
+        "doi-asserted-by": "crossref",
+        "first-page": "2187",
+        "DOI": "10.1056/NEJMoa1103510",
+        "article-title": "Transcatheter versus surgical aortic-valve replacement in high-risk patients",
+        "volume": "364",
+        "author": "Smith",
+        "year": "2011",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib119",
+        "doi-asserted-by": "crossref",
+        "first-page": "1083",
+        "DOI": "10.1001/jama.2016.12347",
+        "article-title": "Association between transcatheter aortic valve replacement and subsequent infective endocarditis and in-hospital death",
+        "volume": "316",
+        "author": "Regueiro",
+        "year": "2016",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib120",
+        "doi-asserted-by": "crossref",
+        "first-page": "1155",
+        "DOI": "10.1093/eurheartj/ehm005",
+        "article-title": "Impact of cerebrovascular complications on mortality and neurologic outcome during infective endocarditis: a prospective multicentre study",
+        "volume": "28",
+        "author": "Thuny",
+        "year": "2007",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib121",
+        "doi-asserted-by": "crossref",
+        "first-page": "209",
+        "DOI": "10.1093/cid/cis878",
+        "article-title": "Influence of the timing of cardiac surgery on the outcome of patients with infective endocarditis and stroke",
+        "volume": "56",
+        "author": "Barsic",
+        "year": "2013",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib122",
+        "doi-asserted-by": "crossref",
+        "first-page": "1933",
+        "DOI": "10.1001/jama.289.15.1933",
+        "article-title": "Complicated left-sided native valve endocarditis in adults: risk classification for mortality",
+        "volume": "289",
+        "author": "Hasbun",
+        "year": "2003",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib123",
+        "doi-asserted-by": "crossref",
+        "first-page": "1489",
+        "DOI": "10.1016/S0735-1097(02)01790-4",
+        "article-title": "Risk of embolization after institution of antibiotic therapy for infective endocarditis",
+        "volume": "39",
+        "author": "Vilacosta",
+        "year": "2002",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib124",
+        "doi-asserted-by": "crossref",
+        "first-page": "69",
+        "DOI": "10.1161/CIRCULATIONAHA.104.493155",
+        "article-title": "Risk of embolism and death in infective endocarditis: prognostic value of echocardiography: a prospective multicenter study",
+        "volume": "112",
+        "author": "Thuny",
+        "year": "2005",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib125",
+        "doi-asserted-by": "crossref",
+        "first-page": "2272",
+        "DOI": "10.1161/CIRCULATIONAHA.112.000813",
+        "article-title": "Neurological complications of infective endocarditis: risk factors, outcome, and impact of cardiac surgery: a multicenter observational study",
+        "volume": "127",
+        "author": "García-Cabrera",
+        "year": "2013",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib126",
+        "doi-asserted-by": "crossref",
+        "first-page": "2466",
+        "DOI": "10.1056/NEJMoa1112843",
+        "article-title": "Early surgery versus conventional treatment for infective endocarditis",
+        "volume": "366",
+        "author": "Kang",
+        "year": "2012",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib127",
+        "doi-asserted-by": "crossref",
+        "first-page": "2094",
+        "DOI": "10.1161/01.STR.0000229894.28591.3f",
+        "article-title": "Neurological outcome of septic cardioembolic stroke after infective endocarditis",
+        "volume": "37",
+        "author": "Ruttmann",
+        "year": "2006",
+        "journal-title": "Stroke"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib128",
+        "doi-asserted-by": "crossref",
+        "first-page": "414",
+        "DOI": "10.1111/j.1540-8159.2009.02569.x",
+        "article-title": "Continued rise in rates of cardiovascular implantable electronic device infections in the United States: temporal trends and causative insights",
+        "volume": "33",
+        "author": "Voigt",
+        "year": "2010",
+        "journal-title": "Pacing Clin Electrophysiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib129",
+        "doi-asserted-by": "crossref",
+        "first-page": "669",
+        "DOI": "10.1001/archinte.167.7.669",
+        "article-title": "Permanent pacemaker and implantable cardioverter defibrillator infection: a population-based study",
+        "volume": "167",
+        "author": "Uslan",
+        "year": "2007",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib130",
+        "doi-asserted-by": "crossref",
+        "first-page": "991",
+        "DOI": "10.1093/eurheartj/ehq497",
+        "article-title": "Infection after pacemaker implantation: infection rates and risk factors associated with infection in a population-based cohort study of 46299 consecutive patients",
+        "volume": "32",
+        "author": "Johansen",
+        "year": "2011",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib131",
+        "doi-asserted-by": "crossref",
+        "first-page": "2526",
+        "DOI": "10.1161/CIRCULATIONAHA.110.015024",
+        "article-title": "Long-term complications related to biventricular defibrillator implantation: rate of surgical revisions and impact on survival: insights from the Italian Clinical Service Database",
+        "volume": "123",
+        "author": "Landolina",
+        "year": "2011",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib132",
+        "doi-asserted-by": "crossref",
+        "first-page": "231",
+        "DOI": "10.1111/pace.12518",
+        "article-title": "Increased long-term mortality in patients with cardiovascular implantable electronic device infections",
+        "volume": "38",
+        "author": "Rizwan Sohail",
+        "year": "2015",
+        "journal-title": "Pacing Clin Electrophysiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib133",
+        "doi-asserted-by": "crossref",
+        "first-page": "1821",
+        "DOI": "10.1001/archinternmed.2011.441",
+        "article-title": "Mortality and cost associated with cardiovascular implantable electronic device infections",
+        "volume": "171",
+        "author": "Sohail",
+        "year": "2011",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib134",
+        "doi-asserted-by": "crossref",
+        "first-page": "1334",
+        "DOI": "10.1093/europace/eus044",
+        "article-title": "Microbiology of cardiac implantable electronic device infections",
+        "volume": "14",
+        "author": "Bongiorni",
+        "year": "2012",
+        "journal-title": "Europace"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib135",
+        "doi-asserted-by": "crossref",
+        "first-page": "767",
+        "DOI": "10.1093/europace/euv053",
+        "article-title": "Risk factors for cardiac implantable electronic device infection: a systematic review and meta-analysis",
+        "volume": "17",
+        "author": "Polyzos",
+        "year": "2015",
+        "journal-title": "Europace"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib136",
+        "doi-asserted-by": "crossref",
+        "first-page": "1796",
+        "DOI": "10.1161/01.CIR.97.18.1796",
+        "article-title": "Antibiotic prophylaxis for permanent pacemaker implantation: a meta-analysis",
+        "volume": "97",
+        "author": "Da Costa",
+        "year": "1998",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib137",
+        "doi-asserted-by": "crossref",
+        "first-page": "82",
+        "DOI": "10.1136/hrt.81.1.82",
+        "article-title": "Pacemaker lead infection: echocardiographic features, management, and outcome",
+        "volume": "81",
+        "author": "Victor",
+        "year": "1999",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib138",
+        "doi-asserted-by": "crossref",
+        "first-page": "679",
+        "DOI": "10.1111/j.1540-8159.2011.03034.x",
+        "article-title": "Incidence and significance of pacemaker and implantable cardioverter-defibrillator lead masses discovered during transesophageal echocardiography",
+        "volume": "34",
+        "author": "Downey",
+        "year": "2011",
+        "journal-title": "Pacing Clin Electrophysiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib139",
+        "doi-asserted-by": "crossref",
+        "first-page": "1616",
+        "DOI": "10.1016/j.jacc.2011.11.059",
+        "article-title": "Usefulness of fluorine-18 positron emission tomography/computed tomography for identification of cardiovascular implantable electronic device infections",
+        "volume": "59",
+        "author": "Sarrazin",
+        "year": "2012",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib140",
+        "doi-asserted-by": "crossref",
+        "first-page": "521",
+        "DOI": "10.1093/ehjci/jeu295",
+        "article-title": "Early diagnosis of cardiac implantable electronic device generator pocket infection using 18F-FDG-PET/CT",
+        "volume": "16",
+        "author": "Ahmed",
+        "year": "2015",
+        "journal-title": "Eur Heart J Cardiovasc Imaging"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib141",
+        "doi-asserted-by": "crossref",
+        "first-page": "252",
+        "DOI": "10.1093/europace/eus335",
+        "article-title": "Diagnostic yield of FDG positron-emission tomography/computed tomography in patients with CEID infection: a pilot study",
+        "volume": "15",
+        "author": "Cautela",
+        "year": "2013",
+        "journal-title": "Europace"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib142",
+        "doi-asserted-by": "crossref",
+        "first-page": "325",
+        "DOI": "10.1093/jac/dku383",
+        "volume": "70",
+        "author": "Sandoe",
+        "year": "2015",
+        "journal-title": "J Antimicrob Chemother"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib143",
+        "doi-asserted-by": "crossref",
+        "first-page": "458",
+        "DOI": "10.1161/CIRCULATIONAHA.109.192665",
+        "article-title": "Update on cardiovascular implantable electronic device infections and their management: a scientific statement from the American Heart Association",
+        "volume": "121",
+        "author": "Baddour",
+        "year": "2010",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib144",
+        "doi-asserted-by": "crossref",
+        "first-page": "1439",
+        "DOI": "10.1111/pace.12736",
+        "article-title": "Outcomes and complications of lead removal: can we establish a risk stratification schema for a collaborative and effective approach?",
+        "volume": "38",
+        "author": "Fu",
+        "year": "2015",
+        "journal-title": "Pacing Clin Electrophysiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib145",
+        "doi-asserted-by": "crossref",
+        "first-page": "3147",
+        "DOI": "10.1093/eurheartj/ehr218",
+        "article-title": "ESC guidelines on the management of cardiovascular diseases during pregnancy",
+        "volume": "32",
+        "author": "Regitz-Zagrosek",
+        "year": "2011",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib146",
+        "doi-asserted-by": "crossref",
+        "first-page": "e143",
+        "DOI": "10.1016/j.jacc.2008.10.001",
+        "volume": "52",
+        "author": "Warnes",
+        "year": "2008",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib147",
+        "doi-asserted-by": "crossref",
+        "first-page": "775",
+        "DOI": "10.1016/S0735-1097(03)00829-5",
+        "article-title": "A randomized trial of aspirin on the risk of embolic events in patients with infective endocarditis",
+        "volume": "42",
+        "author": "Chan",
+        "year": "2003",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib148",
+        "doi-asserted-by": "crossref",
+        "first-page": "120",
+        "DOI": "10.1086/320869",
+        "article-title": "Short-course therapy for right-side endocarditis due to Staphylococcus aureus in drug abusers: cloxacillin versus glycopeptides in combination with gentamicin",
+        "volume": "33",
+        "author": "Fortún",
+        "year": "2001",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib149",
+        "doi-asserted-by": "crossref",
+        "first-page": "1470",
+        "DOI": "10.1086/515038",
+        "article-title": "Ceftriaxone once daily for four weeks compared with ceftriaxone plus gentamicin once daily for two weeks for treatment of endocarditis due to penicillin-susceptible streptococci. Endocarditis Treatment Consortium Group",
+        "volume": "27",
+        "author": "Sexton",
+        "year": "1998",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib150",
+        "doi-asserted-by": "crossref",
+        "first-page": "489",
+        "DOI": "10.3109/00365548.2012.754105",
+        "article-title": "A case series of medically managed infective endocarditis after transcatheter aortic valve replacement",
+        "volume": "45",
+        "author": "Aung",
+        "year": "2013",
+        "journal-title": "Scand J Infect Dis"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib151",
+        "doi-asserted-by": "crossref",
+        "first-page": "762",
+        "DOI": "10.1510/icvts.2010.253773",
+        "article-title": "Procedural, 30-day and one year outcome following CoreValve or Edwards transcatheter aortic valve implantation: results of the Belgian national registry",
+        "volume": "12",
+        "author": "Bosmans",
+        "year": "2011",
+        "journal-title": "Interactive CardioVasc Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib152",
+        "doi-asserted-by": "crossref",
+        "first-page": "2176",
+        "DOI": "10.1016/j.jacc.2014.09.021",
+        "article-title": "TAVR-associated prosthetic valve infective endocarditis: results of a large, multicenter registry",
+        "volume": "64",
+        "author": "Latib",
+        "year": "2014",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib153",
+        "doi-asserted-by": "crossref",
+        "first-page": "e001939",
+        "DOI": "10.1161/CIRCINTERVENTIONS.114.001939",
+        "article-title": "Prosthetic valve endocarditis after transcatheter aortic valve implantation",
+        "volume": "8",
+        "author": "Olsen",
+        "year": "2015",
+        "journal-title": "Circ Cardiovasc Interv"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib154",
+        "doi-asserted-by": "crossref",
+        "first-page": "1407",
+        "DOI": "10.4244/EIJV8I12A214",
+        "article-title": "Prosthetic valve endocarditis after transcatheter aortic valve implantation: the incidence in a single-centre cohort and reflections on clinical, echocardiographic and prognostic features",
+        "volume": "8",
+        "author": "Puls",
+        "year": "2013",
+        "journal-title": "EuroIntervention"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib155",
+        "doi-asserted-by": "crossref",
+        "first-page": "425",
+        "DOI": "10.1161/CIRCULATIONAHA.110.001545",
+        "article-title": "One-year outcomes of Cohort 1 in the Edwards SAPIEN Aortic Bioprosthesis European Outcome (SOURCE) Registry",
+        "volume": "124",
+        "author": "Thomas",
+        "year": "2011",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib156",
+        "article-title": "Temporal trends in the prevalence of infective endocarditis in Germany between 2005 and 2014",
+        "author": "Keller",
+        "year": "2016",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.jacc.2016.10.066_bib157",
+        "article-title": "Increased incidence of infective endocarditis after the 2009 European Society of Cardiology Guideline Update: A nation-wide study in the Netherlands",
+        "author": "van den Brink",
+        "year": "2016",
+        "journal-title": "European Heart Journal - Quality of Care and Clinical Outcomes"
+      }
+    ],
+    "container-title": [
+      "Journal of the American College of Cardiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0735109716371121?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0735109716371121?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          9
+        ]
+      ],
+      "date-time": "2025-10-09T13:13:02Z",
+      "timestamp": 1760015582000
+    },
+    "score": 59.24711,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0735109716371121"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          1
+        ]
+      ]
+    },
+    "references-count": 157,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0735109716371121"
+    ],
+    "URL": "https://doi.org/10.1016/j.jacc.2016.10.066",
+    "ISSN": [
+      "0735-1097"
+    ],
+    "issn-type": [
+      {
+        "value": "0735-1097",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Challenges in Infective Endocarditis",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of the American College of Cardiology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jacc.2016.10.066",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2017 by the American College of Cardiology Foundation. Published by Elsevier.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2022-08-02T18:11:42Z",
+      "timestamp": 1659463902690
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          3
+        ]
+      ]
+    },
+    "abstract": "<p>Echocardiography plays a key role in the assessment of infective endocarditis. It is             useful for the diagnosis of endocarditis, the assessment of severity of the disease, the             prediction of short-term and long-term prognosis, the prediction of embolic risk, the             management of the complications of endocarditis, and the follow-up of patients under             specific antibiotic therapy.</p><p>The ‘Guidelines on the prevention, diagnosis, and treatment of infective endocarditis’             of the European Society of Cardiology and the ‘Recommendations for the practice of             echocardiography in infective endocarditis’ of the European Association for             Echocardiography recently underlined the value and limitations of echocardiography in             infective endocarditis, and gave clear recommendations for the optimal use of both             transthoracic echocardiography and transoesophageal echocardiography in infective             endocarditis.</p>",
+    "DOI": "10.1093/med/9780199599639.003.0018",
+    "type": "book",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2012-04-24T00:19:21Z",
+      "timestamp": 1335226761000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Infective endocarditis"
+    ],
+    "prefix": "10.1093",
+    "author": [
+      {
+        "given": "Gilbert",
+        "family": "Habib",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Franck",
+        "family": "Thuny",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "container-title": [
+      "Oxford Medicine Online"
+    ],
+    "original-title": [
+      "Infective endocarditis"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2022-08-02T17:43:30Z",
+      "timestamp": 1659462210000
+    },
+    "score": 39.335667,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/esc/book/30056/chapter/256217191"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1093/med/9780199599639.003.0018",
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T01:11:38Z",
+      "timestamp": 1648861898574
+    },
+    "reference-count": 0,
+    "publisher": "Universitas Gadjah Mada",
+    "issue": "2(S)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              9,
+              4
+            ]
+          ],
+          "date-time": "2017-09-04T00:00:00Z",
+          "timestamp": 1504483200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-sa/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Acta Cardiol Indones"
+    ],
+    "abstract": "<jats:p>Infective Endocarditis In A Patient With Ventricular Septal Defect And Patent DuctusArteriosus</jats:p>",
+    "DOI": "10.22146/aci.27981",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          8
+        ]
+      ],
+      "date-time": "2018-03-08T03:16:44Z",
+      "timestamp": 1520479004000
+    },
+    "page": "19",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Infective Endocarditis In A Patient With Ventricular Septal Defect And Patent Ductus Arteriosus"
+    ],
+    "prefix": "10.22146",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Sattwika",
+        "family": "PD., et al",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "9411",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          4
+        ]
+      ]
+    },
+    "container-title": [
+      "ACI (Acta Cardiologia Indonesiana)"
+    ],
+    "link": [
+      {
+        "URL": "https://journal.ugm.ac.id/jaci/article/viewFile/27981/17156",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journal.ugm.ac.id/jaci/article/viewFile/27981/17156",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          8
+        ]
+      ],
+      "date-time": "2018-03-08T03:16:49Z",
+      "timestamp": 1520479009000
+    },
+    "score": 38.145317,
+    "resource": {
+      "primary": {
+        "URL": "https://journal.ugm.ac.id/jaci/article/view/27981"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2(S)",
+      "published-online": {
+        "date-parts": [
+          [
+            2017,
+            9,
+            4
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.22146/aci.27981",
+    "ISSN": [
+      "2579-4345",
+      "2460-5700"
+    ],
+    "issn-type": [
+      {
+        "value": "2579-4345",
+        "type": "electronic"
+      },
+      {
+        "value": "2460-5700",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2025-08-28T12:34:02Z",
+      "timestamp": 1756384442449
+    },
+    "publisher-location": "Cham",
+    "reference-count": 22,
+    "publisher": "Springer International Publishing",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783319324302"
+      },
+      {
+        "type": "electronic",
+        "value": "9783319324326"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2016-01-01T00:00:00Z",
+          "timestamp": 1451606400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-319-32432-6_22",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          7,
+          26
+        ]
+      ],
+      "date-time": "2016-07-26T03:50:15Z",
+      "timestamp": 1469505015000
+    },
+    "page": "295-300",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Guidelines for When to Operate in Infective Endocarditis"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Gilbert",
+        "family": "Habib",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          7,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "22_CR1",
+        "doi-asserted-by": "crossref",
+        "first-page": "571",
+        "DOI": "10.1136/hrt.2003.032128",
+        "volume": "91",
+        "author": "P Tornos",
+        "year": "2005",
+        "unstructured": "Tornos P, Iung B, Permanyer-Miralda G, Baron G, Delahaye F, Gohlke-Barwolf C, Butchart EG, Ravaud P, Vahanian A. Infective endocarditis in Europe: lessons from the Euro heart survey. Heart. 2005;91:571–5.",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "22_CR2",
+        "doi-asserted-by": "crossref",
+        "first-page": "e394",
+        "DOI": "10.1161/CIRCULATIONAHA.105.165564",
+        "volume": "111",
+        "author": "LM Baddour",
+        "year": "2005",
+        "unstructured": "Baddour LM, Wilson WR, Bayer AS, Fowler Jr VG, Bolger AF, Levison ME, Ferrieri P, Gerber MA, Tani LY, Gewitz MH, Tong DC, Steckelberg JM, Baltimore RS, Shulman ST, Burns JC, Falace DA, Newburger JW, Pallasch TJ, Takahashi M, Taubert KA. Infective endocarditis: diagnosis, antimicrobial therapy, and management of complications: a statement for healthcare professionals from the Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease, Council on Cardiovascular Disease in the Young, and the Councils on Clinical Cardiology, Stroke, and Cardiovascular Surgery and Anesthesia, American Heart Association: endorsed by the Infectious Diseases Society of America. Circulation. 2005;111:e394–434.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "22_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1933",
+        "DOI": "10.1001/jama.289.15.1933",
+        "volume": "289",
+        "author": "R Hasbun",
+        "year": "2003",
+        "unstructured": "Hasbun R, Vikram HR, Barakat LA, Buenconsejo J, Quagliarello VJ. Complicated left-sided native valve endocarditis in adults: risk classification for mortality. JAMA. 2003;289:1933–40.",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "22_CR4",
+        "doi-asserted-by": "crossref",
+        "first-page": "364",
+        "DOI": "10.1086/510583",
+        "volume": "44",
+        "author": "O Aksoy",
+        "year": "2007",
+        "unstructured": "Aksoy O, Sexton DJ, Wang A, Pappas PA, Kourany W, Chu V, Fowler Jr VG, Woods CW, Engemann JJ, Corey GR, Harding T, Cabell CH. Early surgery in patients with infective endocarditis: a propensity score analysis. Clin Infect Dis. 2007;44:364–72.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "22_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "3207",
+        "DOI": "10.1001/jama.290.24.3207",
+        "volume": "290",
+        "author": "HR Vikram",
+        "year": "2003",
+        "unstructured": "Vikram HR, Buenconsejo J, Hasbun R, Quagliarello VJ. Impact of valve surgery on 6-month mortality in adults with complicated, left-sided native valve endocarditis: a propensity analysis. JAMA. 2003;290:3207–14.",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "22_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "2027",
+        "DOI": "10.1093/eurheartj/ehp089",
+        "volume": "32",
+        "author": "F Thuny",
+        "year": "2011",
+        "unstructured": "Thuny F, Beurtheret S, Mancini J, Gariboldi V, Casalta JP, Riberi A, Giorgi R, Gouriet F, Tafanelli L, Avierinos JF, Renard S, Collart F, Raoult D, Habib G. The timing of surgery influences mortality and morbidity in adults with severe complicated infective endocarditis: a propensity analysis. Eur Heart J. 2011;32:2027–33.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "issue": "19",
+        "key": "22_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "2369",
+        "DOI": "10.1093/eurheartj/ehp285",
+        "volume": "30",
+        "author": "G Habib",
+        "year": "2009",
+        "unstructured": "Habib G, Hoen B, Tornos P, et al. Guidelines on the prevention, diagnosis, and treatment of infective endocarditis (new version 2009): the Task Force on the Prevention, Diagnosis, and Treatment of Infective Endocarditis of the European Society of Cardiology (ESC). Eur Heart J. 2009;30(19):2369–413.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "issue": "44",
+        "key": "22_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "3075",
+        "DOI": "10.1093/eurheartj/ehv319",
+        "volume": "36",
+        "author": "G Habib",
+        "year": "2015",
+        "unstructured": "Habib G, et al. 2015 ESC Guidelines for the management of infective endocarditis: the Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC). Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). Eur Heart J. 2015;36(44):3075–128.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "22_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1097/HCO.0b013e32801466c9",
+        "volume": "22",
+        "author": "G Habib",
+        "year": "2007",
+        "unstructured": "Habib G, Avierinos JF, Thuny F. Aortic valve endocarditis: is there an optimal surgical timing? Curr Opin Cardiol. 2007;22:77–83.",
+        "journal-title": "Curr Opin Cardiol"
+      },
+      {
+        "key": "22_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "668",
+        "DOI": "10.1093/eurjhf/hfp077",
+        "volume": "11",
+        "author": "G Nadji",
+        "year": "2009",
+        "unstructured": "Nadji G, Rusinaru D, Rémadi J-P, Jeu A, Sorel C, Tribouilloy C. Heart failure in left-sided native valve infective endocarditis: characteristics, prognosis, and results of surgical treatment. Eur J Heart Fail. 2009;11:668–75.",
+        "journal-title": "Eur J Heart Fail"
+      },
+      {
+        "key": "22_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "369.e1–7",
+        "DOI": "10.1016/j.amjmed.2006.05.071",
+        "volume": "120",
+        "author": "JA San Román",
+        "year": "2007",
+        "unstructured": "San Román JA, López J, Vilacosta I, Luaces M, Sarriá C, Revilla A, Ronderos R, Stoermann W, Gómez I, Fernández-Avilés F. Prognostic stratification of patients with left-sided endocarditis determined at admission. Am J Med. 2007;120:369.e1–7.",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "22_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1093/eurheartj/ehl315",
+        "volume": "28",
+        "author": "A Revilla",
+        "year": "2007",
+        "unstructured": "Revilla A, López J, Vilacosta I, Villacorta E, Rollán MJ, Echevarría JR, Carrascal Y, Di Stefano S, Fulquet E, Rodríguez E, Fiz L, San Román JA. Clinical and prognostic profile of patients with infective endocarditis who need urgent surgery. Eur Heart J. 2007;28:65–71.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "22_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "384",
+        "DOI": "10.1016/j.recesp.2012.10.026",
+        "volume": "66",
+        "author": "J Lopez",
+        "year": "2013",
+        "unstructured": "Lopez J, Sevilla T, Vilacosta I, Garcia H, Sarria C, Pozo E, Silva J, Revilla A, Varvaro G, del Palacio M, Gomez I, San Roman JA. Clinical significance of congestive heart failure in prosthetic valve endocarditis. A multicenter study with 257 patients. Rev Esp Cardiol. 2013;66:384–90.",
+        "journal-title": "Rev Esp Cardiol"
+      },
+      {
+        "key": "22_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "954",
+        "DOI": "10.1136/hrt.2004.046177",
+        "volume": "91",
+        "author": "G Habib",
+        "year": "2005",
+        "unstructured": "Habib G, Tribouilloy C, Thuny F, Giorgi R, Brahim A, Amazouz M, Remadi J-P, Nadji G, Casalta J-P, Coviaux F, Avierinos J-F, Lescure X, Riberi A, Weiller P-J, Metras D, Raoult D. Prosthetic valve endocarditis: who needs surgery? A multicentre study of 104 cases. Heart. 2005;91:954–9.",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "22_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1495",
+        "DOI": "10.1001/jamainternmed.2013.8203",
+        "volume": "173",
+        "author": "T Lalani",
+        "year": "2013",
+        "unstructured": "Lalani T, Chu VH, Park LP, Cecchi E, Corey GR, Durante-Mangoni E, Fowler Jr VG, Gordon D, Grossi P, Hannan M, Hoen B, Muñoz P, Rizk H, Kanj SS, Selton-Suty C, Sexton DJ, Spelman D, Ravasio V, Tripodi MF, Wang A, International Collaboration on Endocarditis–Prospective Cohort Study Investigators. In-hospital and 1-year mortality in patients undergoing early surgery for prosthetic valve endocarditis. JAMA Intern Med. 2013;173:1495–504.",
+        "journal-title": "JAMA Intern Med"
+      },
+      {
+        "key": "22_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "2466",
+        "DOI": "10.1056/NEJMoa1112843",
+        "volume": "366",
+        "author": "D-H Kang",
+        "year": "2012",
+        "unstructured": "Kang D-H, Kim Y-J, Kim S-H, Sun BJ, Kim D-H, Yun S-C, Song J-M, Choo SJ, Chung C-H, Song J-K, Lee J-W, Sohn D-W. Early surgery versus conventional treatment for infective endocarditis. N Engl J Med. 2012;366:2466–73.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "22_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "2451",
+        "DOI": "10.1093/eurheartj/ehs109",
+        "volume": "33",
+        "author": "A Vahanian",
+        "year": "2012",
+        "unstructured": "Vahanian A, Alfieri O, Andreotti F, Antunes MJ, Barón-Esquivias G, Baumgartner H, Borger MA, Carrel TP, De Bonis M, Evangelista A, Falk V, Iung B, Lancellotti P, Pierard L, Price S, Schäfers H-J, Schuler G, Stepinska J, Swedberg K, Takkenberg J, Von Oppell UO, Windecker S, Zamorano JL, Zembala M. Guidelines on the management of valvular heart disease (version 2012). The Joint Task Force on the Management of Valvular Heart Disease of the European Society of Cardiology (ESC) and the European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2012;33:2451–96.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "22_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1749",
+        "DOI": "10.1093/eurheartj/ehs379",
+        "volume": "34",
+        "author": "J Lopez",
+        "year": "2013",
+        "unstructured": "Lopez J, Sevilla T, Vilacosta I, Sarria C, Revilla A, Ortiz C, Ferrera C, Olmos C, Gomez I, San Roman JA. Prognostic role of persistent positive blood cultures after initiation of antibiotic therapy in left sided infective endocarditis. Eur Heart J. 2013;34:1749–54.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "22_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "2272",
+        "DOI": "10.1161/CIRCULATIONAHA.112.000813",
+        "volume": "127",
+        "author": "E García-Cabrera",
+        "year": "2013",
+        "unstructured": "García-Cabrera E, Fernández-Hidalgo N, Almirante B, Ivanova-Georgieva R, Noureddine M, Plata A, Lomas JM, Gálvez-Acebal J, Hidalgo-Tenorio C, Ruiz-Morales J, Martínez-Marcos FJ, Reguera JM, de la Torre-Lima J, de Alarcón González A. Neurologic complications of infective endocarditis: risk factors, outcome, and impact of cardiac surgery: a multicenter observational study. Circulation. 2013;127:2272–84.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "22_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1384",
+        "DOI": "10.1016/j.jacc.2013.07.029",
+        "volume": "62",
+        "author": "S Hubert",
+        "year": "2013",
+        "unstructured": "Hubert S, Thuny F, Resseguier N, Giorgi R, Tribouilloy C, Le Dolley Y, Casalta JP, Riberi A, Chevalier F, Rusinaru D, Malaquin D, Remadi JP, Ammar AB, Avierinos JF, Collart F, Raoult D, Habib G. Prediction of symptomatic embolism in infective endocarditis: construction and validation of a risk calculator in a multicenter cohort. J Am Coll Cardiol. 2013;62:1384–92.",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "22_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1180",
+        "DOI": "10.1086/513197",
+        "volume": "44",
+        "author": "NS Anavekar",
+        "year": "2007",
+        "unstructured": "Anavekar NS, Tleyjeh IM, Mirzoyev Z, Steckelberg JM, Haddad C, Khandaker MH, Wilson WR, Chandrasekaran K, Baddour LM. Impact of prior antiplatelet therapy on risk of embolism in infective endocarditis. Clin Infect Dis. 2007;44:1180–6.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "22_CR22",
+        "doi-asserted-by": "crossref",
+        "first-page": "775",
+        "DOI": "10.1016/S0735-1097(03)00829-5",
+        "volume": "42",
+        "author": "KL Chan",
+        "year": "2003",
+        "unstructured": "Chan KL, Dumesnil JG, Cujec B, Sanfilippo AJ, Jue J, Turek MA, Robinson TI, Moher D. A randomized trial of aspirin on the risk of embolic events in patients with infective endocarditis. J Am Coll Cardiol. 2003;42:775–80.",
+        "journal-title": "J Am Coll Cardiol"
+      }
+    ],
+    "container-title": [
+      "Infective Endocarditis"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-32432-6_22",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          3
+        ]
+      ],
+      "date-time": "2022-07-03T16:16:38Z",
+      "timestamp": 1656864998000
+    },
+    "score": 38.041534,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-3-319-32432-6_22"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783319324302",
+      "9783319324326"
+    ],
+    "references-count": 22,
+    "URL": "https://doi.org/10.1007/978-3-319-32432-6_22",
+    "published": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          7
+        ]
+      ],
+      "date-time": "2026-06-07T14:32:58Z",
+      "timestamp": 1780842778300,
+      "version": "3.54.1"
+    },
+    "publisher-location": "Cham",
+    "reference-count": 0,
+    "publisher": "Springer International Publishing",
+    "isbn-type": [
+      {
+        "value": "9783319324302",
+        "type": "print"
+      },
+      {
+        "value": "9783319324326",
+        "type": "electronic"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2016-01-01T00:00:00Z",
+          "timestamp": 1451606400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-319-32432-6",
+    "type": "book",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          7,
+          26
+        ]
+      ],
+      "date-time": "2016-07-26T07:50:15Z",
+      "timestamp": 1469519415000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Infective Endocarditis"
+    ],
+    "prefix": "10.1007",
+    "member": "297",
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-32432-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-32432-6",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          7,
+          26
+        ]
+      ],
+      "date-time": "2016-07-26T07:50:17Z",
+      "timestamp": 1469519417000
+    },
+    "score": 37.716774,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-3-319-32432-6"
+      }
+    },
+    "editor": [
+      {
+        "given": "Gilbert",
+        "family": "Habib",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783319324302",
+      "9783319324326"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.1007/978-3-319-32432-6",
+    "published": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  }
+]

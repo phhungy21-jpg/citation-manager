@@ -1,0 +1,1193 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          22
+        ]
+      ],
+      "date-time": "2026-06-22T13:20:14Z",
+      "timestamp": 1782134414397,
+      "version": "3.54.5"
+    },
+    "reference-count": 30,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2017-11-01T00:00:00Z",
+          "timestamp": 1509494400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.jp",
+        "clinicalkey.com",
+        "clinicalkey.es",
+        "clinicalkey.com.au",
+        "clinicalkey.fr",
+        "europeanurology.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2017.04.029",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          6
+        ]
+      ],
+      "date-time": "2017-05-06T04:30:14Z",
+      "timestamp": 1494045014000
+    },
+    "page": "677-685",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 193,
+    "title": [
+      "A Pragmatic Randomized Controlled Trial Examining the Impact of the Retzius-sparing Approach on Early Urinary Continence Recovery After Robot-assisted Radical Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "72",
+    "author": [
+      {
+        "given": "Deepansh",
+        "family": "Dalela",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wooju",
+        "family": "Jeong",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Madhu-Ashni",
+        "family": "Prasad",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Akshay",
+        "family": "Sood",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Firas",
+        "family": "Abdollah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mireya",
+        "family": "Diaz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patrick",
+        "family": "Karabon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jesse",
+        "family": "Sammon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcus",
+        "family": "Jamil",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brad",
+        "family": "Baize",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Simone",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mani",
+        "family": "Menon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.3322/caac.21332",
+        "article-title": "Cancer statistics, 2016",
+        "volume": "66",
+        "author": "Siegel",
+        "year": "2016",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "1464",
+        "DOI": "10.1016/j.juro.2009.12.009",
+        "article-title": "Continence definition after radical prostatectomy using urinary quality of life: evaluation of patient reported validated questionnaires",
+        "volume": "183",
+        "author": "Liss",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "1250",
+        "DOI": "10.1056/NEJMoa074311",
+        "article-title": "Quality of life and satisfaction with outcome among prostate-cancer survivors",
+        "volume": "358",
+        "author": "Sanda",
+        "year": "2008",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "1138",
+        "DOI": "10.1056/NEJMsa011788",
+        "article-title": "Variations in morbidity after radical prostatectomy",
+        "volume": "346",
+        "author": "Begg",
+        "year": "2002",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "513",
+        "DOI": "10.1200/JCO.2011.36.8621",
+        "article-title": "Adverse effects of robotic-assisted laparoscopic versus open retropubic radical prostatectomy among a nationwide random sample of Medicare-age men",
+        "volume": "30",
+        "author": "Barry",
+        "year": "2012",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "52",
+        "DOI": "10.1016/j.eururo.2013.08.006",
+        "article-title": "Long-term continence outcomes in men undergoing radical prostatectomy for clinically localized prostate cancer",
+        "volume": "65",
+        "author": "Prabhu",
+        "year": "2014",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "1425",
+        "DOI": "10.1056/NEJMoa1606221",
+        "article-title": "Patient-reported outcomes after monitoring, surgery, or radiotherapy for prostate cancer",
+        "volume": "375",
+        "author": "Donovan",
+        "year": "2016",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "article-title": "Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "457",
+        "DOI": "10.1016/j.eururo.2010.06.008",
+        "article-title": "A new anatomic approach for robot-assisted laparoscopic prostatectomy: a feasibility study for completely intrafascial surgery",
+        "volume": "58",
+        "author": "Galfano",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "974",
+        "DOI": "10.1016/j.eururo.2013.06.046",
+        "article-title": "Beyond the learning curve of the Retzius-sparing approach for robot-assisted laparoscopic radical prostatectomy: oncologic and functional results of the first 200 patients with >/=1 year of follow-up",
+        "volume": "64",
+        "author": "Galfano",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.1016/j.eururo.2009.04.032",
+        "article-title": "Vattikuti Institute prostatectomy: technical modifications in 2009",
+        "volume": "56",
+        "author": "Menon",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "2289",
+        "DOI": "10.1097/01.ju.0000067464.53313.dd",
+        "article-title": "Vattikuti Institute prostatectomy: technique",
+        "volume": "169",
+        "author": "Menon",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "1558",
+        "DOI": "10.1089/end.2012.0455",
+        "article-title": "Vattikuti Institute prostatectomy—technique in 2012",
+        "volume": "26",
+        "author": "Ghani",
+        "year": "2012",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "814",
+        "DOI": "10.1001/jama.2013.879",
+        "article-title": "Reporting of patient-reported outcomes in randomized trials: the CONSORT PRO extension",
+        "volume": "309",
+        "author": "Calvert",
+        "year": "2013",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "1018",
+        "DOI": "10.1016/j.juro.2008.05.046",
+        "article-title": "Assessment of early continence after reconstruction of the periprostatic tissues in patients undergoing computer assisted (robotic) prostatectomy: results of a 2 group parallel randomized controlled trial",
+        "volume": "180",
+        "author": "Menon",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "1787",
+        "DOI": "10.1016/j.juro.2013.05.055",
+        "article-title": "Pad count is a poor measure of the severity of urinary incontinence",
+        "volume": "190",
+        "author": "Tsui",
+        "year": "2013",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1016/j.urology.2006.09.056",
+        "article-title": "Standards for surgical complication reporting in urologic oncology: time for a change",
+        "volume": "69",
+        "author": "Donat",
+        "year": "2007",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "684",
+        "DOI": "10.1016/j.eururo.2011.01.045",
+        "article-title": "Safety profile of robot-assisted radical prostatectomy: a standardized report of complications in 3317 patients",
+        "volume": "59",
+        "author": "Agarwal",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "2291",
+        "DOI": "10.1097/01.ju.0000181825.54480.eb",
+        "article-title": "Potency following robotic radical prostatectomy: a questionnaire based analysis of outcomes after conventional nerve sparing and prostatic fascia sparing techniques",
+        "volume": "174",
+        "author": "Menon",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "1055",
+        "DOI": "10.1016/S0735-1097(85)80005-X",
+        "article-title": "Prognostic value of a coronary artery jeopardy score",
+        "volume": "5",
+        "author": "Califf",
+        "year": "1985",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "1049",
+        "DOI": "10.2307/2531734",
+        "article-title": "Models for longitudinal data: a generalized estimating equation approach",
+        "volume": "44",
+        "author": "Zeger",
+        "year": "1988",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1016/j.eururo.2015.08.005",
+        "article-title": "Total anatomical reconstruction during robot-assisted radical prostatectomy: implications on early recovery of urinary continence",
+        "volume": "69",
+        "author": "Porpiglia",
+        "year": "2016",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "822",
+        "DOI": "10.1016/j.eururo.2016.05.032",
+        "article-title": "Advanced reconstruction of vesicourethral support (ARVUS) during robot-assisted radical prostatectomy: one-year functional outcomes in a two-group randomised controlled trial",
+        "volume": "71",
+        "author": "Student",
+        "year": "2017",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1016/S0090-4295(97)00543-8",
+        "article-title": "Laparoscopic radical prostatectomy: initial short-term experience",
+        "volume": "50",
+        "author": "Schuessler",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "580",
+        "DOI": "10.1111/j.1464-410X.2011.10786.x",
+        "article-title": "Long-term follow-up of patients undergoing percutaneous suprapubic tube drainage after robot-assisted radical prostatectomy (RARP)",
+        "volume": "110",
+        "author": "Sammon",
+        "year": "2012",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "236",
+        "DOI": "10.1111/bju.12705",
+        "article-title": "Retzius-sparing robot-assisted laparoscopic radical prostatectomy: combining the best of retropubic and perineal approaches",
+        "volume": "114",
+        "author": "Lim",
+        "year": "2014",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "891",
+        "DOI": "10.1016/j.juro.2012.09.082",
+        "article-title": "Impact of complete bladder neck preservation on urinary continence, quality of life and surgical margins after radical prostatectomy: a randomized, controlled, single blind trial",
+        "volume": "189",
+        "author": "Nyarangi-Dix",
+        "year": "2013",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "e313",
+        "DOI": "10.1016/j.clgc.2015.12.013",
+        "article-title": "Prognostic value of focal positive surgical margins after radical prostatectomy",
+        "volume": "14",
+        "author": "Lee",
+        "year": "2016",
+        "journal-title": "Clin Genitourin Cancer"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "454",
+        "DOI": "10.1056/NEJMra1510059",
+        "article-title": "Pragmatic trials",
+        "volume": "375",
+        "author": "Ford",
+        "year": "2016",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2017.04.029_bib0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "370",
+        "DOI": "10.1037/1082-989X.7.3.370",
+        "article-title": "Statistical inference for a linear function of medians: confidence intervals, hypothesis testing, and sample size requirements",
+        "volume": "7",
+        "author": "Bonett",
+        "year": "2002",
+        "journal-title": "Psychol Methods"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283817303391?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283817303391?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          2
+        ]
+      ],
+      "date-time": "2018-09-02T03:20:15Z",
+      "timestamp": 1535858415000
+    },
+    "score": 124.98707,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283817303391"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283817303391"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2017.04.029",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A Pragmatic Randomized Controlled Trial Examining the Impact of the Retzius-sparing Approach on Early Urinary Continence Recovery After Robot-assisted Radical Prostatectomy",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2017.04.029",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2017 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T05:42:42Z",
+      "timestamp": 1651210962009
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2018-04-01T00:00:00Z",
+          "timestamp": 1522540800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2018.01.025",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2018-01-17T02:17:42Z",
+      "timestamp": 1516155462000
+    },
+    "page": "875-876",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Re: A Pragmatic Randomized Controlled Trial Examining the Impact of the Retzius-Sparing Approach on Early Urinary Continence Recovery after Robot-Assisted Radical Prostatectomy"
+    ],
+    "prefix": "10.1097",
+    "volume": "199",
+    "author": [
+      {
+        "given": "Jeffrey A.",
+        "family": "Cadeddu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534718300521?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534718300521?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2018.01.025",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T05:01:50Z",
+      "timestamp": 1651208510000
+    },
+    "score": 109.64982,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2018.01.025"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2018.01.025"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2018.01.025",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T06:13:33Z",
+      "timestamp": 1651212813002
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "4S",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2017-04-01T00:00:00Z",
+          "timestamp": 1491004800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2017.02.3286",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2017-04-03T18:34:36Z",
+      "timestamp": 1491244476000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "PD15-04 A RANDOMIZED CONTROLLED TRIAL EXAMINING THE IMPACT OF THE RETZIUS- SPARING APPROACH ON EARLY URINARY CONTINENCE RECOVERY AFTER ROBOT-ASSISTED RADICAL PROSTATECTOMY"
+    ],
+    "prefix": "10.1097",
+    "volume": "197",
+    "author": [
+      {
+        "given": "Deepansh",
+        "family": "Dalela",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Detroit, MI"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Wooju",
+        "family": "Jeong",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Detroit, MI"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Madhu",
+        "family": "Ashni-Prasad",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Detroit, MI"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Akshay",
+        "family": "Sood",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Detroit, MI"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Firas",
+        "family": "Abdollah",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Detroit, MI"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Patrick",
+        "family": "Karabon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Detroit, MI"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mireya",
+        "family": "Diaz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Detroit, MI"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sriram",
+        "family": "Eleswarapu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Detroit, MI"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jesse",
+        "family": "Sammon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Portland, ME"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Brad",
+        "family": "Baize",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Detroit, MI"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Simone",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Detroit, MI"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mani",
+        "family": "Menon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Detroit, MI"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534717347523?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534717347523?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2017.02.3286",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T05:49:06Z",
+      "timestamp": 1651211346000
+    },
+    "score": 109.11394,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2017.02.3286"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4S",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2017.02.3286"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2017.02.3286",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    }
+  }
+]

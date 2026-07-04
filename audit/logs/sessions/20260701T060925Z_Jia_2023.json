@@ -1,0 +1,15 @@
+{
+  "paper": "Jia 2023.md",
+  "args": {
+    "manuscript": "..\\TEMP\\Jia 2023.md",
+    "limit": 6,
+    "dry_run": true
+  },
+  "counts": {
+    "unresolved_reference": 6,
+    "dry_run_skipped": 5
+  },
+  "n_claims": 6,
+  "n_checks": 11,
+  "flags_output": "C:\\Users\\Hung\\Desktop\\citation-pipeline\\audit\\results\\flags\\Jia_2023.json"
+}

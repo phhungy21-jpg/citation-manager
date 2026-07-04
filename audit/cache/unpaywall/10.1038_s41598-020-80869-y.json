@@ -1,0 +1,133 @@
+{
+  "best_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": "cc-by",
+    "oa_date": "2021-01-13",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://www.nature.com/articles/s41598-020-80869-y.pdf",
+    "url_for_landing_page": "https://doi.org/10.1038/s41598-020-80869-y",
+    "url_for_pdf": "https://www.nature.com/articles/s41598-020-80869-y.pdf",
+    "version": "publishedVersion"
+  },
+  "data_standard": 2,
+  "doi": "10.1038/s41598-020-80869-y",
+  "doi_url": "https://doi.org/10.1038/s41598-020-80869-y",
+  "first_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": "cc-by",
+    "oa_date": "2021-01-13",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://www.nature.com/articles/s41598-020-80869-y.pdf",
+    "url_for_landing_page": "https://doi.org/10.1038/s41598-020-80869-y",
+    "url_for_pdf": "https://www.nature.com/articles/s41598-020-80869-y.pdf",
+    "version": "publishedVersion"
+  },
+  "genre": "journal-article",
+  "has_repository_copy": true,
+  "is_oa": true,
+  "is_paratext": false,
+  "journal_is_in_doaj": true,
+  "journal_is_oa": true,
+  "journal_issn_l": "2045-2322",
+  "journal_issns": "2045-2322",
+  "journal_name": "Scientific Reports",
+  "oa_locations": [
+    {
+      "endpoint_id": null,
+      "evidence": "deprecated",
+      "host_type": "publisher",
+      "is_best": true,
+      "license": "cc-by",
+      "oa_date": "2021-01-13",
+      "pmh_id": null,
+      "repository_institution": null,
+      "updated": "deprecated",
+      "url": "https://www.nature.com/articles/s41598-020-80869-y.pdf",
+      "url_for_landing_page": "https://doi.org/10.1038/s41598-020-80869-y",
+      "url_for_pdf": "https://www.nature.com/articles/s41598-020-80869-y.pdf",
+      "version": "publishedVersion"
+    },
+    {
+      "endpoint_id": "8e556f4518885d9a235",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": "cc-by-sa",
+      "oa_date": "2021-01-13",
+      "pmh_id": "oai:doaj.org/article:8c29b7bdd412494f9841dd51b9146eb0",
+      "repository_institution": null,
+      "updated": "deprecated",
+      "url": "https://doaj.org/article/8c29b7bdd412494f9841dd51b9146eb0",
+      "url_for_landing_page": "https://doaj.org/article/8c29b7bdd412494f9841dd51b9146eb0",
+      "url_for_pdf": null,
+      "version": "submittedVersion"
+    },
+    {
+      "endpoint_id": "ac9de7698155b820de7",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": "cc-by",
+      "oa_date": "2021-01-13",
+      "pmh_id": "oai:pubmedcentral.nih.gov:7806962",
+      "repository_institution": "National Institutes of Health",
+      "updated": "deprecated",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7806962",
+      "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/7806962",
+      "url_for_pdf": null,
+      "version": "submittedVersion"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "oa_status": "gold",
+  "published_date": "2021-01-13",
+  "publisher": "Springer Science and Business Media LLC",
+  "title": "Comparing right- and left sided injection-drug related infective endocarditis",
+  "updated": "2026-03-20T23:48:44Z",
+  "year": 2021,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "Division of Cardiothoracic Surgery, Department for Clinical Sciences Lund, Skane University Hospital and Lund University, Getingevagen 4, 22185, Lund, Sweden"
+      ],
+      "raw_author_name": "Allan Clarelin"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Division of Infection Medicine, Department of Clinical Sciences Lund, Medical Faculty, Lund University, Lund, Sweden"
+      ],
+      "raw_author_name": "Magnus Rasmussen"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Infectious Diseases, Institute of Biomedicine, University of Gothenburg, Gothenburg, Sweden"
+      ],
+      "raw_author_name": "Lars Olaison"
+    },
+    {
+      "author_position": "last",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Division of Cardiothoracic Surgery, Department for Clinical Sciences Lund, Skane University Hospital and Lund University, Getingevagen 4, 22185, Lund, Sweden. Sigurdur.ragnarsson@med.lu.se",
+        "Division of Cardiothoracic Surgery, Department for Clinical Sciences Lund, Skane University Hospital and Lund University, Getingevagen 4, 22185, Lund, Sweden"
+      ],
+      "raw_author_name": "Sigurdur Ragnarsson"
+    }
+  ]
+}

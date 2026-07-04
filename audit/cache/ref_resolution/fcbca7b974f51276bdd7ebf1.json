@@ -1,0 +1,1443 @@
+[
+  {
+    "institution": [
+      {
+        "name": "Inter-university Consortium for Political and Social Research",
+        "acronym": [
+          "ICPSR"
+        ],
+        "place": [
+          "Ann Arbor, Michigan"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T19:25:54Z",
+      "timestamp": 1648927554554
+    },
+    "reference-count": 0,
+    "publisher": "Inter-university Consortium for Political and Social Research (ICPSR)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "content-updated": {
+      "date-parts": [
+        [
+          1992,
+          2,
+          16
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1987,
+          10,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.3886/icpsr08683",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2008-08-22T15:50:42Z",
+      "timestamp": 1219420242000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "National Long Term Care Channeling Evaluation, 1982-1984"
+    ],
+    "prefix": "10.3886",
+    "author": [
+      {
+        "name": "United States Department of Health and Human Services. Office of Assistant Secretary for Planning and Evaluation",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2241",
+    "container-title": [
+      "ICPSR Data Holdings"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2013-01-16T13:17:23Z",
+      "timestamp": 1358342243000
+    },
+    "score": 61.9842,
+    "resource": {
+      "primary": {
+        "URL": "http://www.icpsr.umich.edu/ICPSR/studies/08683"
+      }
+    },
+    "subtitle": [
+      "Archival Version"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1987,
+          10,
+          12
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.3886/icpsr08683",
+    "published": {
+      "date-parts": [
+        [
+          1987,
+          10,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "Inter-university Consortium for Political and Social Research",
+        "acronym": [
+          "ICPSR"
+        ],
+        "place": [
+          "Ann Arbor, Michigan"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T03:42:01Z",
+      "timestamp": 1648784521480
+    },
+    "reference-count": 0,
+    "publisher": "Inter-university Consortium for Political and Social Research (ICPSR)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "content-updated": {
+      "date-parts": [
+        [
+          1992,
+          2,
+          16
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1987,
+          10,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.3886/icpsr08683.v1",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2011-09-13T16:13:00Z",
+      "timestamp": 1315930380000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "National Long Term Care Channeling Evaluation, 1982-1984"
+    ],
+    "prefix": "10.3886",
+    "author": [
+      {
+        "name": "United States Department of Health and Human Services. Office of Assistant Secretary for Planning and Evaluation",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2241",
+    "container-title": [
+      "ICPSR Data Holdings"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2013,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2013-01-16T13:17:23Z",
+      "timestamp": 1358342243000
+    },
+    "score": 61.753128,
+    "resource": {
+      "primary": {
+        "URL": "http://www.icpsr.umich.edu/ICPSR/studies/08683/version/1"
+      }
+    },
+    "subtitle": [
+      "Version 1"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1987,
+          10,
+          12
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.3886/icpsr08683.v1",
+    "published": {
+      "date-parts": [
+        [
+          1987,
+          10,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2026-02-24T05:53:00Z",
+      "timestamp": 1771912380458,
+      "version": "3.50.1"
+    },
+    "reference-count": 43,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              25
+            ]
+          ],
+          "date-time": "2021-10-25T00:00:00Z",
+          "timestamp": 1635120000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              25
+            ]
+          ],
+          "date-time": "2021-10-25T00:00:00Z",
+          "timestamp": 1635120000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100012755",
+        "name": "Kate B. Reynolds Charitable Trust",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2020-054"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2020-054"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100012755",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100012755",
+        "name": "Kate B. Reynolds Charitable Trust",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2020-054"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2020-054"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100012755",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100012755",
+        "name": "Kate B. Reynolds Charitable Trust",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2020-054"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2020-054"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100012755",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100012755",
+        "name": "Kate B. Reynolds Charitable Trust",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2020-054"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2020-054"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100012755",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100012755",
+        "name": "Kate B. Reynolds Charitable Trust",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2020-054"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2020-054"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100012755",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100012755",
+        "name": "Kate B. Reynolds Charitable Trust",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2020-054"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2020-054"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100012755",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100012755",
+        "name": "Kate B. Reynolds Charitable Trust",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2020-054"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2020-054"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100012755",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMC Health Serv Res"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background and Objective</jats:title>\n                <jats:p>To characterize health care use and costs among new Medicaid enrollees before and during the COVID pandemic. Results can help Medicaid non-expansion states understand health care use and costs of new enrollees in a period of enrollment growth.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Research Design</jats:title>\n                <jats:p>Retrospective cross-sectional analysis of North Carolina Medicaid claims data (January 1, 2018 - August 31, 2020). We used modified Poisson and ordinary least squares regression analysis to estimate health care use and costs as a function of personal characteristics and enrollment during COVID. Using data on existing enrollees before and during COVID, we projected the extent to which changes in outcomes among new enrollees during COVID were pandemic-related.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Subjects</jats:title>\n                <jats:p>340,782 new enrollees pre-COVID (January 2018 – December 2019) and 56,428 new enrollees during COVID (March 2020 – June 2020).</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Measures</jats:title>\n                <jats:p>We observed new enrollees for 60-days after enrollment to identify emergency department (ED) visits, nonemergent ED visits, primary care visits, potentially-avoidable hospitalizations, dental visits, and health care costs.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>New Medicaid enrollees during COVID were less likely to have an ED visit (-46 % [95 % CI: -48 %, -43 %]), nonemergent ED visit (-52 % [95 % CI: -56 %, -48 %]), potentially-avoidable hospitalization (-52 % [95 % CI: -60 %, -43 %]), primary care visit (-34 % [95 % CI: -36 %, -33 %]), or dental visit (-36 % [95 % CI: -41 %, -30 %]). They were also less likely to incur any health care costs (-29 % [95 % CI: -30 %, -28 %]), and their total costs were 8 % lower [95 % CI: -12 %, -4 %]. Depending on the outcome, COVID explained between 34 % and 100 % of these reductions.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>New Medicaid enrollees during COVID used significantly less care than new enrollees pre-COVID. Most of the reduction stems from pandemic-related changes in supply and demand, but the profile of new enrollees before versus during COVID also differed.</jats:p>\n              </jats:sec>",
+    "DOI": "10.1186/s12913-021-07027-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2021-10-25T13:09:09Z",
+      "timestamp": 1635167349000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Comparing health care use and costs among new Medicaid enrollees before and during the COVID-19 pandemic"
+    ],
+    "prefix": "10.1186",
+    "volume": "21",
+    "author": [
+      {
+        "given": "Brad",
+        "family": "Wright",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Anderson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rebecca",
+        "family": "Whitaker",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Shrader",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Janet Prvu",
+        "family": "Bettger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Charlene",
+        "family": "Wong",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Paul",
+        "family": "Shafer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "7027_CR1",
+        "unstructured": "Banthin J, Blumberg LJ, Simpson M, Buettgens M, Wang R. Changes in health insurance coverage due to the COVID-19 recession: preliminary estimates using microsimulation. Washington, DC: Urban Institute. 2020. https://www.urban.org/research/publication/changes-health-insurance-coverage-due-covid-19-recession."
+      },
+      {
+        "key": "7027_CR2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Garrett AB, Gangopadhyaya A. How the COVID-19 Recession Could Affect Health Insurance Coverage. 2020. https://www.urban.org/research/publication/how-covid-19-recession-could-affect-health-insurance-coverage.",
+        "DOI": "10.2139/ssrn.3598558"
+      },
+      {
+        "key": "7027_CR3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Frenier C, Nikpay SS, Golberstein E. COVID-19 Has Increased Medicaid Enrollment, But Short-Term Enrollment Changes Are Unrelated To Job Losses: Study examines influence COVID-19 may have had on Medicaid enrollment covering the period of March 1 through June 1, 2020 for 26 states. Health Aff (Millwood). 2020;39(10):1822–1831.",
+        "DOI": "10.1377/hlthaff.2020.00900"
+      },
+      {
+        "key": "7027_CR4",
+        "unstructured": "North Carolina Department of Health and Human Services. Enrollment Dashboard: North Carolina Medicaid and Health Choice Enrollment, by County and Program Aid Category. https://medicaid.ncdhhs.gov/reports/dashboards#enroll. Published 2021. Accessed July 22, 2021, 2021."
+      },
+      {
+        "key": "7027_CR5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Baicker K, Finkelstein A. The Effects of Medicaid Coverage — Learning from the Oregon Experiment. N Engl J Med. 2011;365(8):683–685.",
+        "DOI": "10.1056/NEJMp1108222"
+      },
+      {
+        "key": "7027_CR6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fertig AR, Carlin CS, Ode S, Long SK. Evidence of pent-up demand for care after Medicaid expansion. Med Care Res Rev. 2018;75(4):516–524.",
+        "DOI": "10.1177/1077558717697014"
+      },
+      {
+        "issue": "9",
+        "key": "7027_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0238100",
+        "DOI": "10.1371/journal.pone.0238100",
+        "volume": "15",
+        "author": "PR Shafer",
+        "year": "2020",
+        "unstructured": "Shafer PR, Dusetzina SB, Sabik LM, Platts-Mills TF, Stearns SC, Trogdon JG. Insurance instability and use of emergency and office-based care after gaining coverage: An observational cohort study. PloS one. 2020;15(9):e0238100.",
+        "journal-title": "PloS one."
+      },
+      {
+        "key": "7027_CR8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Finkelstein A, Taubman S, Wright B, et al. The Oregon health insurance experiment: evidence from the first year. Quart J Econ. 2012;127(3):1057–1106.",
+        "DOI": "10.1093/qje/qjs020"
+      },
+      {
+        "key": "7027_CR9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "O’Malley JP, Rosetti MOK, Lowe RA, et al. Healthcare Utilization Rates after Oregon’s 2008 Medicaid Expansion: Within-and between-group differences over time among New, Returning, and Continuously Insured Enrollees. Med Care. 2016;54(11):984–991.",
+        "DOI": "10.1097/MLR.0000000000000600"
+      },
+      {
+        "key": "7027_CR10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Allen H, Wright BJ, Baicker K. New Medicaid enrollees in Oregon report health care successes and challenges. Health Aff (Millwood). 2014;33(2):292–299.",
+        "DOI": "10.1377/hlthaff.2013.1002"
+      },
+      {
+        "key": "7027_CR11",
+        "unstructured": "Centers for Medicare and Medicaid Services. 2016 Actuarial Report on The Financial Outlook for Medicaid. Office of the Actuary. 2016."
+      },
+      {
+        "key": "7027_CR12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jacobs PD, Kenney GM, Selden TM. Newly eligible enrollees in Medicaid spend less and use less care than those previously eligible. Health Aff (Millwood). 2017;36(9):1637–1642.",
+        "DOI": "10.1377/hlthaff.2017.0252"
+      },
+      {
+        "key": "7027_CR13",
+        "unstructured": "Lo N, Roby DH, Padilla J, et al. Increased service use following Medicaid expansion is mostly temporary: evidence from California’s low income health program. Policy brief (UCLA Center for Health Policy Research). 2014(PB2014-7). https://pubmed.ncbi.nlm.nih.gov/25376061/."
+      },
+      {
+        "issue": "6168",
+        "key": "7027_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "263",
+        "DOI": "10.1126/science.1246183",
+        "volume": "343",
+        "author": "SL Taubman",
+        "year": "2014",
+        "unstructured": "Taubman SL, Allen HL, Wright BJ, Baicker K, Finkelstein AN. Medicaid increases emergency-department use: evidence from Oregon’s Health Insurance Experiment. Science. 2014;343(6168):263–268.",
+        "journal-title": "Science."
+      },
+      {
+        "key": "7027_CR15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Springer R, Marino M, O’Malley JP, Lindner S, Huguet N, DeVoe JE. Oregon Medicaid expenditures after the 2014 Affordable Care Act Medicaid expansion: over-time differences among new, returning, and continuously insured enrollees. Med Care. 2018;56(5):394–402.",
+        "DOI": "10.1097/MLR.0000000000000907"
+      },
+      {
+        "key": "7027_CR16",
+        "unstructured": "Gandhi S, Sabik L. Emergency department visit classification using the NYU algorithm. Am J Managed Care. 2014;20(4):315–320."
+      },
+      {
+        "key": "7027_CR17",
+        "unstructured": "Agency for Healthcare R, Quality. AHRQ Quality Indicators Software. http://www.qualityindicators.ahrq.gov/Software/Default.aspx. Published 2019. Accessed June 14, 2020, 2020."
+      },
+      {
+        "key": "7027_CR18",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Zou G. A modified poisson regression approach to prospective studies with binary data. Am J Epidemiol. 2004;159(7):702–706.",
+        "DOI": "10.1093/aje/kwh090"
+      },
+      {
+        "key": "7027_CR19",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Andersen R, Aday LA. Access to medical care in the US: realized and potential. Med Care. 1978:533–546.",
+        "DOI": "10.1097/00005650-197807000-00001"
+      },
+      {
+        "key": "7027_CR20",
+        "unstructured": "Andersen R. A behavioral model of families’ use of health services. Center for Health Administration Studies, University of Chicago. 1968."
+      },
+      {
+        "key": "7027_CR21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jones CP. Levels of racism: a theoretic framework and a gardener’s tale. Am J Public Health. 2000;90(8):1212–1215.",
+        "DOI": "10.2105/AJPH.90.8.1212"
+      },
+      {
+        "key": "7027_CR22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gruber J, Sommers BD. Paying for medicaid—state budgets and the case for expansion in the time of coronavirus. N Engl J Med. 2020;382(24):2280–2282.",
+        "DOI": "10.1056/NEJMp2007124"
+      },
+      {
+        "key": "7027_CR23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Allen HL, Sommers BD. Medicaid and COVID-19: At the Center of Both Health and Economic Crises. JAMA. 2020;324(2):125–126.",
+        "DOI": "10.1001/jama.2020.10553"
+      },
+      {
+        "key": "7027_CR24",
+        "unstructured": "Medicaid and CHIP Payment and Access Commission (MACPAC). An Automatic Countercyclical Financing Adjustment for Medicaid. https://www.macpac.gov/publication/an-automatic-countercyclical-financing-adjustment-for-medicaid/. Published 2021. Accessed July 23, 2021, 2021."
+      },
+      {
+        "key": "7027_CR25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mukamel DB, Ladd H, Li Y, Temkin-Greener H, Ngo-Metzger Q. Have Racial Disparities in Ambulatory Care Sensitive Admissions Abated Over Time? Med Care. 2015;53(11):931–939.",
+        "DOI": "10.1097/MLR.0000000000000426"
+      },
+      {
+        "key": "7027_CR26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Johnson PJ, Ghildayal N, Ward AC, Westgard BC, Boland LL, Hokanson JS. Disparities in potentially avoidable emergency department (ED) care: ED visits for ambulatory care sensitive conditions. Med Care. 2012;50(12):1020–1028.",
+        "DOI": "10.1097/MLR.0b013e318270bad4"
+      },
+      {
+        "key": "7027_CR27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chang CF, Pope RA. Potentially avoidable hospitalizations in Tennessee: analysis of prevalence disparities associated with gender, race, and insurance. Public Health Rep. 2009;124(1):127–137.",
+        "DOI": "10.1177/003335490912400116"
+      },
+      {
+        "key": "7027_CR28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shi L, Tsai J, Higgins PC, Lebrun LA. Racial/ethnic and socioeconomic disparities in access to care and quality of care for US health center patients compared with non-health center patients. J Ambul Care Manage. 2009;32(4):342–350.",
+        "DOI": "10.1097/JAC.0b013e3181ba6fd8"
+      },
+      {
+        "key": "7027_CR29",
+        "unstructured": "Russo CA, Andrews RM, Coffey RM. Racial and ethnic disparities in potentially preventable hospitalizations, 2003. Statistical Brief #10. 2006. https://www.ncbi.nlm.nih.gov/books/NBK63497/."
+      },
+      {
+        "key": "7027_CR30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Laditka JN, Laditka SB, Mastanduno MP. Hospital utilization for ambulatory care sensitive conditions: health outcome disparities associated with race and ethnicity. Soc Sci Med. 2003;57(8):1429–1441.",
+        "DOI": "10.1016/S0277-9536(02)00539-7"
+      },
+      {
+        "key": "7027_CR31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Politzer RM, Yoon J, Shi L, Hughes RG, Regan J, Gaston MH. Inequality in America: the contribution of health centers in reducing and eliminating disparities in access to care. Med Care Res Rev. 2001;58(2):234–248.",
+        "DOI": "10.1177/107755870105800205"
+      },
+      {
+        "key": "7027_CR32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Waidmann TA, Rajan S. Race and ethnic disparities in health care access and utilization: an examination of state variation. Med Care Res Rev. 2000;57(4 suppl):55–84.",
+        "DOI": "10.1177/107755800773743600"
+      },
+      {
+        "key": "7027_CR33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Billings J, Anderson GM, Newman LS. Recent findings on preventable hospitalizations. Health Aff (Millwood). 1996;15(3):239–249.",
+        "DOI": "10.1377/hlthaff.15.3.239"
+      },
+      {
+        "key": "7027_CR34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Maina I. A Systematic Review of Implicit Racial Bias in Healthcare. Pediatrics. 2018;141(MeetingAbstract) 337.",
+        "DOI": "10.1542/peds.141.1_MeetingAbstract.337"
+      },
+      {
+        "key": "7027_CR35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Maina IW, Belton TD, Ginzberg S, Singh A, Johnson TJ. A decade of studying implicit racial/ethnic bias in healthcare providers using the implicit association test. Soc Sci Med. 2018;199:219–229.",
+        "DOI": "10.1016/j.socscimed.2017.05.009"
+      },
+      {
+        "key": "7027_CR36",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hall WJ, Chapman MV, Lee KM, et al. Implicit racial/ethnic bias among health care professionals and its influence on health care outcomes: a systematic review. Am J Public Health. 2015;105(12):e60–e76.",
+        "DOI": "10.2105/AJPH.2015.302903"
+      },
+      {
+        "key": "7027_CR37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chapman EN, Kaatz A, Carnes M. Physicians and implicit bias: how doctors may unwittingly perpetuate health care disparities. J Gen Intern Med. 2013;28(11):1504–1510.",
+        "DOI": "10.1007/s11606-013-2441-1"
+      },
+      {
+        "key": "7027_CR38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Paradies Y, Truong M, Priest N. A systematic review of the extent and measurement of healthcare provider racism. J Gen Intern Med. 2014;29(2):364–387.",
+        "DOI": "10.1007/s11606-013-2583-1"
+      },
+      {
+        "key": "7027_CR39",
+        "doi-asserted-by": "crossref",
+        "unstructured": "van Ryn M, Burgess DJ, Dovidio JF, et al. The impact of racism on clinician cognition, behavior, and clinical decision making. Du Bois Rev. 2011;8(1):199–218.",
+        "DOI": "10.1017/S1742058X11000191"
+      },
+      {
+        "issue": "3",
+        "key": "7027_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "240",
+        "DOI": "10.1177/0033354918760574",
+        "volume": "133",
+        "author": "RR Hardeman",
+        "year": "2018",
+        "unstructured": "Hardeman RR, Murphy KA, Karbeah JM, Kozhimannil KB. Naming institutionalized racism in the public health literature: a systematic literature review. Public Health Rep. 2018;133(3):240–249.",
+        "journal-title": "Public Health Rep."
+      },
+      {
+        "key": "7027_CR41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bailey ZD, Krieger N, Agénor M, Graves J, Linos N, Bassett MT. Structural racism and health inequities in the USA: evidence and interventions. Lancet. 2017;389(10077):1453–1463.",
+        "DOI": "10.1016/S0140-6736(17)30569-X"
+      },
+      {
+        "key": "7027_CR42",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hardeman RR, Medina EM, Kozhimannil KB. Structural racism and supporting black lives—the role of health professionals. N Engl J Med. 2016;375(22):2113–2115.",
+        "DOI": "10.1056/NEJMp1609535"
+      },
+      {
+        "key": "7027_CR43",
+        "unstructured": "Brooks T, Schneider A. The families first Coronavirus response act: Medicaid and CHIP provisions explained. Georgetown University Health Policy Institute. 2020. https://ccf.georgetown.edu/2020/03/22/families-first-coronavirus-response-act-medicaid-and-chip-provisions-explained/."
+      }
+    ],
+    "container-title": [
+      "BMC Health Services Research"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s12913-021-07027-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1186/s12913-021-07027-6/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s12913-021-07027-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2021-10-25T13:10:31Z",
+      "timestamp": 1635167431000
+    },
+    "score": 56.66911,
+    "resource": {
+      "primary": {
+        "URL": "https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-021-07027-6"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          25
+        ]
+      ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "7027"
+    ],
+    "URL": "https://doi.org/10.1186/s12913-021-07027-6",
+    "ISSN": [
+      "1472-6963"
+    ],
+    "issn-type": [
+      {
+        "value": "1472-6963",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          25
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "23 April 2021",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "2 September 2021",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "25 October 2021",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "All methods were carried out in accordance with relevant guidelines and regulations. This project was approved by the Duke University Institutional Review Board with a waiver of informed consent given the reliance of the study on existing Medicaid claims data.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval and consent to participate"
+        }
+      },
+      {
+        "value": "The authors declare that they have no competing interests.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent for publication"
+        }
+      }
+    ],
+    "article-number": "1152"
+  },
+  {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T08:29:57Z",
+      "timestamp": 1768552197264,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          10
+        ]
+      ]
+    },
+    "group-title": "Health Policy",
+    "reference-count": 0,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "accepted": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          10
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Abstract\nIntroduction: In recent years Ethiopia has made enormous strides in enhancing access to health care, especially, maternal and child health care (MCH). With the onset and spread of Covid-19, the attention of the health care system has pivoted to handling the disease, potentially at the cost of other health care needs. This paper explores whether this shift has come at the cost of non Covid related health care, especially the use of MCH services. \nMethods: Graphs, descriptive statistics and paired t-tests of significance are used to compare levels of inpatient and outpatient health care service utilization before and after the onset and spread of the virus. The analysis is based on a survey of 59 health centers and 29 public hospitals located in urban Ethiopia, the most acutely affected region of the country. Data on the use of health care services for a period of 24 months was gathered from the health management information systems (HMIS) of these facilities. \nResults: There is a sharp reduction in the use of both inpatient (20-27%) and outpatient (27-34%) care, particularly in Addis Ababa, which has been most acutely affected by the virus. However, the decline does not come at the cost of MCH services. The use of several MCH components (skilled birth attendant deliveries, immunization, post-natal care) remains unaffected throughout the period while others (family planning services, ante-natal care) experience a decline (8-17%) in the immediate aftermath but recover soon after. \nConclusion: Concerns about the crowding out of MCH services due to the focus on Covid 19 are unfounded. Pro-active measures taken by the government and health care facilities to ring-fence the use of essential health care services have mitigated service disruptions. The results underline the resilience and agility displayed by one of the worlds most resource-constrained health care systems.</jats:p>",
+    "DOI": "10.1101/2021.08.09.21261754",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          10
+        ]
+      ],
+      "date-time": "2021-08-10T12:05:02Z",
+      "timestamp": 1628597102000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Use of health care services during the Covid-19 pandemic in Ethiopia: Evidence from a health facility survey"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Zemzem Shigute",
+        "family": "Shuka",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anagaw Derseh",
+        "family": "Mebratie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Getnet",
+        "family": "Alemu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Matthias",
+        "family": "Rieger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5659-6569",
+        "authenticated-orcid": false,
+        "given": "Arjun Singh",
+        "family": "Bedi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "54368",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2021.08.09.21261754",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T14:22:08Z",
+      "timestamp": 1768486928000
+    },
+    "score": 47.089596,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2021.08.09.21261754"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          10
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1101/2021.08.09.21261754",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1136/bmjopen-2021-056745",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          10
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          1
+        ]
+      ],
+      "date-time": "2026-05-01T15:50:36Z",
+      "timestamp": 1777650636102,
+      "version": "3.51.4"
+    },
+    "reference-count": 10,
+    "publisher": "Cambridge University Press (CUP)",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              23
+            ]
+          ],
+          "date-time": "2021-07-23T00:00:00Z",
+          "timestamp": 1626998400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://www.cambridge.org/core/terms"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Disaster med. public health prep."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Alternative care sites (ACS) across the United States were widely underutilized during the coronavirus disease (COVID-19) outbreak, while the volume and severity of COVID-19 cases overwhelmed health systems across the United States. The challenges presented by the pandemic have shown the need to design surge capacity principles with consideration for demand that strains multiple response capabilities. We reviewed current policy and previous literature from past ACS as well as highlighted challenges from the COVID-19 pandemic, to make recommendations that can inform future surge capacity planning. Our recommendations include: (1) Preparedness actions need to be continuous and flexible; (2) staffing needs must be met as they arise with solutions that are specific to the pandemic; 3) health equity must be a focus of ACS establishment and planning; and (4) ACS should be designed to function without compromising safe and effective care. A critical opportunity exists to identify improvements for future use of ACS in pandemics.</jats:p>",
+    "DOI": "10.1017/dmp.2021.241",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          23
+        ]
+      ],
+      "date-time": "2021-07-23T11:57:31Z",
+      "timestamp": 1627041451000
+    },
+    "page": "2673-2675",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Alternative Care Sites During the COVID-19 Pandemic: Policy Implications for Pandemic Surge Planning"
+    ],
+    "prefix": "10.1017",
+    "volume": "16",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6890-2006",
+        "authenticated-orcid": false,
+        "given": "Sue Anne",
+        "family": "Bell",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lydia",
+        "family": "Krienke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kathryn",
+        "family": "Quanstrom",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "56",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          23
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "S193578932100241X_ref2",
+        "volume-title": "The military’s medical “relief valves” remain mostly empty in New York",
+        "author": "Jada",
+        "year": "2020"
+      },
+      {
+        "key": "S193578932100241X_ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jen.2015.01.012"
+      },
+      {
+        "key": "S193578932100241X_ref3",
+        "volume-title": "Michigan: 8 patients admitted so far to TCF Center’s 1,000-bed setup",
+        "author": "LeBlanc",
+        "year": "2020"
+      },
+      {
+        "key": "S193578932100241X_ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid2608.201093"
+      },
+      {
+        "key": "S193578932100241X_ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/CAT.20.0193"
+      },
+      {
+        "key": "S193578932100241X_ref10",
+        "first-page": "100838",
+        "article-title": "Diminishing disparities in U.S. crisis standards of care: medical and legal challenges",
+        "volume": "34",
+        "author": "Hodge",
+        "year": "2021",
+        "journal-title": "Lancet."
+      },
+      {
+        "key": "S193578932100241X_ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S1049023X21000224"
+      },
+      {
+        "key": "S193578932100241X_ref1",
+        "volume-title": "Federal Healthcare Resilience Task Force Alternate Care Site (ACS) Toolkit",
+        "year": "2020"
+      },
+      {
+        "key": "S193578932100241X_ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12889-019-7884-9"
+      },
+      {
+        "key": "S193578932100241X_ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00134-010-1761-4"
+      }
+    ],
+    "container-title": [
+      "Disaster Medicine and Public Health Preparedness"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S193578932100241X",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          24
+        ]
+      ],
+      "date-time": "2023-01-24T07:32:26Z",
+      "timestamp": 1674545546000
+    },
+    "score": 46.29412,
+    "resource": {
+      "primary": {
+        "URL": "https://www.cambridge.org/core/product/identifier/S193578932100241X/type/journal_article"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          23
+        ]
+      ]
+    },
+    "references-count": 10,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S193578932100241X"
+    ],
+    "URL": "https://doi.org/10.1017/dmp.2021.241",
+    "ISSN": [
+      "1935-7893",
+      "1938-744X"
+    ],
+    "issn-type": [
+      {
+        "value": "1935-7893",
+        "type": "print"
+      },
+      {
+        "value": "1938-744X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          23
+        ]
+      ]
+    }
+  }
+]

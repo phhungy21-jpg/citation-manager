@@ -1,0 +1,1668 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T20:04:20Z",
+      "timestamp": 1782936260452,
+      "version": "3.54.5"
+    },
+    "reference-count": 32,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2015-11-01T00:00:00Z",
+          "timestamp": 1446336000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "contemporaryclinicaltrials.com",
+        "clinicalkey.jp",
+        "clinicalkey.com",
+        "clinicalkey.es",
+        "clinicalkey.com.au",
+        "clinicalkey.fr",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Contemporary Clinical Trials"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cct.2015.09.002",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          4
+        ]
+      ],
+      "date-time": "2015-09-04T15:10:59Z",
+      "timestamp": 1441379459000
+    },
+    "page": "139-145",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2327,
+    "special_numbering": "PA",
+    "title": [
+      "Meta-analysis in clinical trials revisited"
+    ],
+    "prefix": "10.1016",
+    "volume": "45",
+    "author": [
+      {
+        "given": "Rebecca",
+        "family": "DerSimonian",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nan",
+        "family": "Laird",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0005",
+        "doi-asserted-by": "publisher",
+        "first-page": "177",
+        "DOI": "10.1016/0197-2456(86)90046-2",
+        "article-title": "Meta-analysis in clinical trials",
+        "volume": "7",
+        "author": "DerSimonian",
+        "year": "1986",
+        "journal-title": "Control. Clin. Trials"
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0010",
+        "doi-asserted-by": "publisher",
+        "first-page": "3",
+        "DOI": "10.3102/0013189X005010003",
+        "article-title": "Primary, secondary, and meta-analysis of research",
+        "volume": "5",
+        "author": "Glass",
+        "year": "1976",
+        "journal-title": "Educ. Res."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0015",
+        "doi-asserted-by": "publisher",
+        "first-page": "377",
+        "DOI": "10.1017/S0140525X00075506",
+        "article-title": "Interpersonal expectancy effects: the first 345 studies",
+        "volume": "1",
+        "author": "Rosenthal",
+        "year": "1978",
+        "journal-title": "Behav. Brain Sci."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.cct.2015.09.002_bb0020",
+        "doi-asserted-by": "publisher",
+        "first-page": "113",
+        "DOI": "10.2307/1602360",
+        "article-title": "The Tennessee study of class size in the early school grades",
+        "volume": "5",
+        "author": "Mosteller",
+        "year": "1995",
+        "journal-title": "Futur. Child."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.cct.2015.09.002_bb0025",
+        "doi-asserted-by": "publisher",
+        "first-page": "797",
+        "DOI": "10.17763/haer.66.4.36m328762x21610x",
+        "article-title": "Sustaining inquiry in education: lessons from skill grouping and class size",
+        "volume": "66",
+        "author": "Mosteller",
+        "year": "1996",
+        "journal-title": "Harv. Educ. Rev."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0030",
+        "first-page": "1",
+        "article-title": "The scholastic aptitude test: a critical appraisal",
+        "volume": "66",
+        "author": "Slack",
+        "year": "1980",
+        "journal-title": "Harv. Educ. Rev."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0035",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.17763/haer.53.1.n06j5h5356217648",
+        "article-title": "Evaluating the effect of coaching on SAT scores: a meta-analysis",
+        "volume": "53",
+        "author": "DerSimonian",
+        "year": "1983",
+        "journal-title": "Harv. Educ. Rev."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0040",
+        "series-title": "Office of Research and Development RN-06",
+        "article-title": "Research notes: coaching and the SAT® I",
+        "author": "Board",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0045",
+        "doi-asserted-by": "publisher",
+        "first-page": "101",
+        "DOI": "10.2307/3001666",
+        "article-title": "The combination of estimates from different experiments",
+        "volume": "10",
+        "author": "Cochran",
+        "year": "1954",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0050",
+        "doi-asserted-by": "publisher",
+        "first-page": "105",
+        "DOI": "10.1016/j.cct.2006.04.004",
+        "article-title": "Random-effects model for meta-analysis of clinical trials: an update",
+        "volume": "28",
+        "author": "DerSimonian",
+        "year": "2007",
+        "journal-title": "Contemp. Clin. Trials"
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0055",
+        "doi-asserted-by": "publisher",
+        "first-page": "961",
+        "DOI": "10.1016/j.jspi.2009.09.017",
+        "article-title": "How does the DerSimonian and Laird procedure for random effects meta-analysis compare with its more efficient by harder to compute counterparts?",
+        "volume": "140",
+        "author": "Jackson",
+        "year": "2010",
+        "journal-title": "J. Stat. Plan. Infer."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.cct.2015.09.002_bb0060",
+        "doi-asserted-by": "publisher",
+        "first-page": "409",
+        "DOI": "10.1177/0962280210392008",
+        "article-title": "Performance of statistical methods for meta-analysis when true study effects are non-normally distributed: a simulation study",
+        "volume": "21",
+        "author": "Kontopantelis",
+        "year": "2012",
+        "journal-title": "Stat. Methods Med. Res."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.cct.2015.09.002_bb0065",
+        "doi-asserted-by": "publisher",
+        "first-page": "657",
+        "DOI": "10.1177/0962280211413451",
+        "article-title": "Performance of statistical methods for meta-analysis when true study effects are non-normally distributed: a comparison between DerSimonian-Laird and restricted maximum likelihood",
+        "volume": "21",
+        "author": "Kontopantelis",
+        "year": "2012",
+        "journal-title": "Stat. Methods Med. Res."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0070",
+        "doi-asserted-by": "publisher",
+        "first-page": "1282",
+        "DOI": "10.1002/sim.3602",
+        "article-title": "Extending DerSimonian and Laird's methodology to perform multivariate random-effects meta-analyses",
+        "volume": "29",
+        "author": "Jackson",
+        "year": "2010",
+        "journal-title": "Stat. Med."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.cct.2015.09.002_bb0075",
+        "doi-asserted-by": "publisher",
+        "first-page": "231",
+        "DOI": "10.1002/bimj.201200152",
+        "article-title": "A matrix-based method of moments for fitting the multivariate random effects model for meta-analysis and meta-regression",
+        "volume": "55",
+        "author": "Jackson",
+        "year": "2013",
+        "journal-title": "Biom. J."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0080",
+        "doi-asserted-by": "publisher",
+        "first-page": "1278",
+        "DOI": "10.1111/j.1541-0420.2012.01761.x",
+        "article-title": "A method of moments estimator for random effect multivariate meta-analysis",
+        "volume": "68",
+        "author": "Chen",
+        "year": "2012",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0085",
+        "doi-asserted-by": "publisher",
+        "first-page": "6093",
+        "DOI": "10.1002/sim.3428",
+        "article-title": "The exact distribution of Cochran's heterogeneity statistic in one-way random effects meta-analysis",
+        "volume": "27",
+        "author": "Biggerstaff",
+        "year": "2008",
+        "journal-title": "Stat. Med."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0090",
+        "doi-asserted-by": "publisher",
+        "first-page": "254",
+        "DOI": "10.1002/jrsm.54",
+        "article-title": "On the moments of Cochran's Q statistic under the null hypothesis, with application to the meta-analysis of risk difference",
+        "volume": "2",
+        "author": "Kulinskaya",
+        "year": "2011",
+        "journal-title": "Res. Synth. Methods"
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0095",
+        "doi-asserted-by": "publisher",
+        "first-page": "203",
+        "DOI": "10.1111/j.1541-0420.2010.01442.x",
+        "article-title": "Testing for homogeneity in meta-analysis I. The one-parameter case: standardized mean difference",
+        "volume": "67",
+        "author": "Kulinskaya",
+        "year": "2011",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0100",
+        "doi-asserted-by": "publisher",
+        "first-page": "103",
+        "DOI": "10.1186/1471-2288-14-103",
+        "article-title": "Methods for calculating confidence and credible intervals for the residual between-study variance in random effects meta-regression models",
+        "volume": "14",
+        "author": "Jackson",
+        "year": "2014",
+        "journal-title": "BMC Med. Res. Methodol."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "220",
+        "DOI": "10.1002/jrsm.1081",
+        "article-title": "Confidence intervals for the between-study variance in random effects meta-analysis using generalized Cochran heterogeneity statistics",
+        "volume": "4",
+        "author": "Jackson",
+        "year": "2013",
+        "journal-title": "Res. Synth. Methods."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0110",
+        "doi-asserted-by": "publisher",
+        "first-page": "1539",
+        "DOI": "10.1002/sim.1186",
+        "article-title": "Quantifying heterogeneity in a meta-analysis",
+        "volume": "21",
+        "author": "Higgins",
+        "year": "2002",
+        "journal-title": "Stat. Med."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0115",
+        "doi-asserted-by": "publisher",
+        "first-page": "395",
+        "DOI": "10.1002/sim.4780140406",
+        "article-title": "A random-effects regression model for meta-analysis",
+        "volume": "14",
+        "author": "Berkey",
+        "year": "1995",
+        "journal-title": "Stat. Med."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0120",
+        "doi-asserted-by": "publisher",
+        "first-page": "1559",
+        "DOI": "10.1002/sim.1187",
+        "article-title": "How should meta-regression analyses be undertaken and interpreted?",
+        "volume": "21",
+        "author": "Thompson",
+        "year": "2002",
+        "journal-title": "Stat. Med."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0125",
+        "doi-asserted-by": "publisher",
+        "first-page": "25",
+        "DOI": "10.1186/1471-2288-14-25",
+        "article-title": "The Hartung-Knapp-Sidik-Jonkman method for random effects meta-analysis is straightforward and considerably outperforms the standard DerSimonian-Laird method",
+        "volume": "14",
+        "author": "IntHout",
+        "year": "2014",
+        "journal-title": "BMC Med. Res. Methodol."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0130",
+        "doi-asserted-by": "publisher",
+        "first-page": "586",
+        "DOI": "10.1016/j.ajhg.2011.04.014",
+        "article-title": "Random-effects model aimed at discovering associations in meta-analysis of genome-wide association studies",
+        "volume": "88",
+        "author": "Han",
+        "year": "2011",
+        "journal-title": "Am. J. Hum. Genet."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0135",
+        "doi-asserted-by": "publisher",
+        "first-page": "823",
+        "DOI": "10.1081/BIP-200067915",
+        "article-title": "A note on variance estimation on random effects meta-regression",
+        "volume": "15",
+        "author": "Sidik",
+        "year": "2005",
+        "journal-title": "J. Biopharm. Stat."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0140",
+        "doi-asserted-by": "publisher",
+        "first-page": "5",
+        "DOI": "10.1017/S0266462300008916",
+        "article-title": "Some statistical methods for combining experimental results",
+        "volume": "6",
+        "author": "Laird",
+        "year": "1990",
+        "journal-title": "Int. J. Technol. Assess. Health Care"
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0145",
+        "doi-asserted-by": "publisher",
+        "first-page": "3875",
+        "DOI": "10.1002/sim.1009",
+        "article-title": "A refined method for the meta-analysis of controlled clinical trials with binary outcome",
+        "volume": "20",
+        "author": "Hartung",
+        "year": "2001",
+        "journal-title": "Stat. Med."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1002/gepi.20435",
+        "article-title": "Meta-analysis of genome-wide association studies: no efficiency gain in using individual participant data",
+        "volume": "34",
+        "author": "Lin",
+        "year": "2010",
+        "journal-title": "Genet. Epidemiol."
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.cct.2015.09.002_bb0155",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pgen.1000694",
+        "article-title": "Meta-analysis of the INSIG2 association with obesity including 74,345 individuals: does heterogeneity of estimates relate to study design?",
+        "volume": "5",
+        "author": "Heid",
+        "year": "2009",
+        "journal-title": "PLoS Genet."
+      },
+      {
+        "key": "10.1016/j.cct.2015.09.002_bb0160",
+        "doi-asserted-by": "publisher",
+        "first-page": "279",
+        "DOI": "10.1126/science.1124779",
+        "article-title": "A common genetic variant is associated with adult and childhood obesity",
+        "volume": "312",
+        "author": "Herbert",
+        "year": "2006",
+        "journal-title": "Science"
+      }
+    ],
+    "container-title": [
+      "Contemporary Clinical Trials"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1551714415300781?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1551714415300781?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          10
+        ]
+      ],
+      "date-time": "2024-06-10T23:13:44Z",
+      "timestamp": 1718061224000
+    },
+    "score": 95.5951,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1551714415300781"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "references-count": 32,
+    "alternative-id": [
+      "S1551714415300781"
+    ],
+    "URL": "https://doi.org/10.1016/j.cct.2015.09.002",
+    "ISSN": [
+      "1551-7144"
+    ],
+    "issn-type": [
+      {
+        "value": "1551-7144",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Meta-analysis in clinical trials revisited",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Contemporary Clinical Trials",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.cct.2015.09.002",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T20:39:22Z",
+      "timestamp": 1782938362948,
+      "version": "3.54.5"
+    },
+    "reference-count": 22,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1986,
+              9,
+              1
+            ]
+          ],
+          "date-time": "1986-09-01T00:00:00Z",
+          "timestamp": 525916800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Controlled Clinical Trials"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1986,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/0197-2456(86)90046-2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          12,
+          14
+        ]
+      ],
+      "date-time": "2002-12-14T04:10:20Z",
+      "timestamp": 1039839020000
+    },
+    "page": "177-188",
+    "source": "Crossref",
+    "is-referenced-by-count": 33268,
+    "title": [
+      "Meta-analysis in clinical trials"
+    ],
+    "prefix": "10.1016",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Rebecca",
+        "family": "DerSimonian",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nan",
+        "family": "Laird",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1016/0197-2456(84)90151-X",
+        "article-title": "Controversies and achievements in clinical trials",
+        "volume": "5",
+        "author": "Armitage",
+        "year": "1984",
+        "journal-title": "Controlled Clin Trials"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.17763/haer.53.1.n06j5h5356217648",
+        "article-title": "Evaluating the effect of coaching on SAT Scores: a meta-analysis",
+        "volume": "53",
+        "author": "DerSimonian",
+        "year": "1983",
+        "journal-title": "Harvard Ed Rev"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB3",
+        "unstructured": "Halvorsen K: Combining results from independent investigations: meta-analysis in medical research. In: Medical Uses of Statistics, Bailar JC, Mosteller F, Eds. Boston: New England Journal of Medicine (in press)"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "402",
+        "DOI": "10.1016/0016-5085(78)90771-0",
+        "article-title": "Cimetidine in the treatment of duodenal ulcer",
+        "volume": "74",
+        "author": "Winship",
+        "year": "1978",
+        "journal-title": "Gastroenterology"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "319",
+        "DOI": "10.1016/0016-5085(78)90814-4",
+        "article-title": "Steroid treatment of alcoholic hepatitis",
+        "volume": "74",
+        "author": "Conn",
+        "year": "1978",
+        "journal-title": "Gastroenterology"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB6",
+        "series-title": "Costs, Risks, and Benefits of Surgery",
+        "first-page": "198",
+        "article-title": "Gastric freezing: an example of the evaluation of medical therapy by randomized clinical trials",
+        "author": "Miao",
+        "year": "1977"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "855",
+        "DOI": "10.1016/S0140-6736(81)91116-8",
+        "article-title": "Lignocaine prophylaxis in acute myocardial infarction: An evaluation of randomized trials",
+        "volume": "ii",
+        "author": "DeSilva",
+        "year": "1981",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1285",
+        "DOI": "10.1016/S0140-6736(74)90142-1",
+        "article-title": "Decreased survival related to irradiation post-operatively in early operable breast cancer",
+        "volume": "ii",
+        "author": "Stjernsward",
+        "year": "1974",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "795",
+        "DOI": "10.1056/NEJM198110013051404",
+        "article-title": "A survey of clinical trials of antibiotic prophylaxis in colon surgery: evidence against further use of no-treatment controls",
+        "volume": "305",
+        "author": "Baum",
+        "year": "1981",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB10",
+        "first-page": "1172",
+        "article-title": "Aspirin after myocardial infarction",
+        "volume": "i",
+        "author": "Peto",
+        "year": "1980",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1091",
+        "DOI": "10.1056/NEJM197711172972004",
+        "article-title": "Evidence favoring the use of anticoagulants in the hospital phase of acute myocardial infarction",
+        "volume": "297",
+        "author": "Chalmers",
+        "year": "1977",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1180",
+        "DOI": "10.1056/NEJM198211043071904",
+        "article-title": "Effect of intravenous streptokinase on acute myocardial infarction: Pooled results from randomized trails",
+        "volume": "307",
+        "author": "Stampfer",
+        "year": "1982",
+        "journal-title": "N Eng J Med"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB13",
+        "first-page": "1159",
+        "volume": "i",
+        "year": "1982",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB14",
+        "article-title": "Synthesis of results in controlled trials of coronary artery bypass graft surgery",
+        "author": "Wortman",
+        "year": "1983",
+        "journal-title": "Evaluation Studies Review Annual"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB15",
+        "series-title": "Costs, Risks, and Benefits of Surgery",
+        "first-page": "124",
+        "article-title": "Progress in surgery and anesthesia: benefits and risks of innovative therapy",
+        "author": "Gilbert",
+        "year": "1977"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB16",
+        "series-title": "Proceeding of the XIth International Biometric Conference",
+        "first-page": "91",
+        "article-title": "Issues in combining evidence from several comparative trials of clinical therapy",
+        "author": "Laird",
+        "year": "1982"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB17",
+        "first-page": "136",
+        "article-title": "Statistical methods in cancer research",
+        "author": "Breslow",
+        "year": "1980"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB18",
+        "first-page": "122",
+        "article-title": "Statistical methods for meta-analysis",
+        "author": "Hedges",
+        "year": "1985"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB19",
+        "series-title": "Planning and Analysis of Observational Studies",
+        "first-page": "102",
+        "article-title": "Adjusments in analysis",
+        "author": "Cochran",
+        "year": "1983"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.2307/2287050",
+        "article-title": "Estimators for the one-way random effects model with unequal error variances",
+        "volume": "76",
+        "author": "Rao",
+        "year": "1981",
+        "journal-title": "J Am Stat Assoc"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "320",
+        "DOI": "10.2307/2286796",
+        "article-title": "Maximum likehood approaches to variance component estimation and to related problems",
+        "volume": "72",
+        "author": "Harville",
+        "year": "1977",
+        "journal-title": "J Am Stat Assoc"
+      },
+      {
+        "key": "10.1016/0197-2456(86)90046-2_BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1111/j.2517-6161.1977.tb01600.x",
+        "article-title": "Maximum likehood from incomplete data via the EM algorithm",
+        "volume": "39",
+        "author": "Dempster",
+        "year": "1977",
+        "journal-title": "J R Stat Soc B"
+      }
+    ],
+    "container-title": [
+      "Controlled Clinical Trials"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0197245686900462?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:0197245686900462?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          11
+        ]
+      ],
+      "date-time": "2024-12-11T15:16:23Z",
+      "timestamp": 1733930183000
+    },
+    "score": 63.956924,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/0197245686900462"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1986,
+          9
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            1986,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "0197245686900462"
+    ],
+    "URL": "https://doi.org/10.1016/0197-2456(86)90046-2",
+    "ISSN": [
+      "0197-2456"
+    ],
+    "issn-type": [
+      {
+        "value": "0197-2456",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1986,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2025-10-13T19:40:54Z",
+      "timestamp": 1760384454796
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1998,
+              6,
+              1
+            ]
+          ],
+          "date-time": "1998-06-01T00:00:00Z",
+          "timestamp": 896659200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Controlled Clinical Trials"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1998,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0197-2456(98)80157-8",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          4,
+          22
+        ]
+      ],
+      "date-time": "2005-04-22T09:32:26Z",
+      "timestamp": 1114162346000
+    },
+    "page": "S60-S61",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "special_numbering": "S1",
+    "title": [
+      "The performance of the dersimonian and laird method with non-normal random effects in meta-analysis"
+    ],
+    "prefix": "10.1016",
+    "volume": "19",
+    "author": [
+      {
+        "given": "Bei-Hung",
+        "family": "Chang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Christine",
+        "family": "Waternaux",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Controlled Clinical Trials"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0197245698801578?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0197245698801578?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          26
+        ]
+      ],
+      "date-time": "2019-01-26T19:59:32Z",
+      "timestamp": 1548532772000
+    },
+    "score": 53.671665,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0197245698801578"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          6
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            1998,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0197245698801578"
+    ],
+    "URL": "https://doi.org/10.1016/s0197-2456(98)80157-8",
+    "ISSN": [
+      "0197-2456"
+    ],
+    "issn-type": [
+      {
+        "value": "0197-2456",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1998,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T17:21:10Z",
+      "timestamp": 1782926470439,
+      "version": "3.54.5"
+    },
+    "reference-count": 18,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2007-02-01T00:00:00Z",
+          "timestamp": 1170288000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Contemporary Clinical Trials"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cct.2006.04.004",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2006-05-13T14:22:33Z",
+      "timestamp": 1147530153000
+    },
+    "page": "105-114",
+    "source": "Crossref",
+    "is-referenced-by-count": 2062,
+    "title": [
+      "Random-effects model for meta-analysis of clinical trials: An update"
+    ],
+    "prefix": "10.1016",
+    "volume": "28",
+    "author": [
+      {
+        "given": "Rebecca",
+        "family": "DerSimonian",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Raghu",
+        "family": "Kacker",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "177",
+        "DOI": "10.1016/0197-2456(86)90046-2",
+        "article-title": "Meta-analysis in clinical trials",
+        "volume": "7",
+        "author": "DerSimonian",
+        "year": "1986",
+        "journal-title": "Control Clin Trials"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "664",
+        "DOI": "10.1001/jama.282.7.664",
+        "article-title": "Resolving discrepancies between a meta-analysis and a subsequent large controlled trial",
+        "volume": "282",
+        "author": "DerSimonian",
+        "year": "1999",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.6028/jres.087.022",
+        "article-title": "Consensus values and weighting factors",
+        "volume": "87",
+        "author": "Paule",
+        "year": "1982",
+        "journal-title": "J Res Natl Bur Stand"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "319",
+        "DOI": "10.1016/S0378-3758(99)00098-1",
+        "article-title": "Restricted maximum likelihood estimation of common mean and the Mandel–Paule algorithm",
+        "volume": "83",
+        "author": "Rukhin",
+        "year": "2000",
+        "journal-title": "J Stat Plan Inference"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.2307/3001666",
+        "article-title": "The combination of estimates from different experiments",
+        "volume": "10",
+        "author": "Cochran",
+        "year": "1954",
+        "journal-title": "Biometrics"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "853",
+        "DOI": "10.2307/2288715",
+        "article-title": "Approximations for standard errors of estimators of fixed and random effects in mixed linear models",
+        "volume": "79",
+        "author": "Kackar",
+        "year": "1984",
+        "journal-title": "J Am Stat Assoc"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.cct.2006.04.004_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "445",
+        "DOI": "10.1093/biostatistics/3.4.445",
+        "article-title": "Some general points in estimating heterogeneity variance with the DerSimonian–Laird estimator",
+        "volume": "3",
+        "author": "Bohning",
+        "year": "2002",
+        "journal-title": "Biostatistics"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "132",
+        "DOI": "10.1088/0026-1394/41/3/004",
+        "article-title": "Combining information from interlaboratory evaluations using a random effects model",
+        "volume": "41",
+        "author": "Kacker",
+        "year": "2004",
+        "journal-title": "Metrologia"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "320",
+        "DOI": "10.2307/2286796",
+        "article-title": "Maximum likelihood approaches to variance component estimation and to related problems",
+        "volume": "72",
+        "author": "Harville",
+        "year": "1977",
+        "journal-title": "J Am Stat Assoc"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "795",
+        "DOI": "10.1056/NEJM198110013051404",
+        "article-title": "A survey of clinical trials of antibiotics prophylaxis in colon surgery: evidence against further use of no-treatment controls",
+        "volume": "305",
+        "author": "Baum",
+        "year": "1981",
+        "journal-title": "NEJM"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1499",
+        "DOI": "10.1136/bmj.303.6816.1499",
+        "article-title": "Effects of intravenous magnesium in suspected acute myocardial infarction: overview of randomized trials",
+        "volume": "303",
+        "author": "Teo",
+        "year": "1991",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "619",
+        "DOI": "10.1016/S0140-6736(94)92633-6",
+        "article-title": "A randomized trial of low-dose aspirin for the prevention and treatment of pre-eclampsia among 9364 pregnant women",
+        "volume": "343",
+        "author": "CLASP",
+        "year": "1994",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "2058",
+        "DOI": "10.1001/jama.282.21.2058",
+        "article-title": "Oral anticoagulant therapy in patients with coronary artery disease: a meta-analysis",
+        "volume": "282",
+        "author": "Anand",
+        "year": "1999",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "730",
+        "DOI": "10.1001/jama.289.6.730",
+        "article-title": "Cardiac resynchronization and death from progressive heart failure: a meta-analysis of randomized controlled trials",
+        "volume": "289",
+        "author": "Bradley",
+        "year": "2003",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "429",
+        "DOI": "10.1053/jhep.2003.50047",
+        "article-title": "Systematic review of randomized trials for unresectable hepatocellular carcinoma: chemoembolization improves survival",
+        "volume": "37",
+        "author": "Llovet",
+        "year": "2003",
+        "journal-title": "Hepatology"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "335",
+        "DOI": "10.1016/S0033-0620(85)80003-7",
+        "article-title": "Beta blockade during and after myocardial infarction: an overview of the randomized trials",
+        "volume": "27",
+        "author": "Yusuf",
+        "year": "1985",
+        "journal-title": "Prog Cardiovasc Dis"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib17",
+        "series-title": "Costs, risks and benefit of surgery",
+        "first-page": "124",
+        "article-title": "Progress in surgery and anesthesia: benefits and risks of innovative therapy",
+        "author": "Gilbert",
+        "year": "1977"
+      },
+      {
+        "key": "10.1016/j.cct.2006.04.004_bib18",
+        "series-title": "Meta-analysis of controlled clinical trials",
+        "author": "Whitehead",
+        "year": "2003"
+      }
+    ],
+    "container-title": [
+      "Contemporary Clinical Trials"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1551714406000486?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1551714406000486?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2019-01-16T13:57:41Z",
+      "timestamp": 1547647061000
+    },
+    "score": 50.129986,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1551714406000486"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          2
+        ]
+      ]
+    },
+    "references-count": 18,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1551714406000486"
+    ],
+    "URL": "https://doi.org/10.1016/j.cct.2006.04.004",
+    "ISSN": [
+      "1551-7144"
+    ],
+    "issn-type": [
+      {
+        "value": "1551-7144",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T07:43:56Z",
+      "timestamp": 1648712636814
+    },
+    "reference-count": 1,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2013-01-01T00:00:00Z",
+          "timestamp": 1356998400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Contemporary Clinical Trials"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cct.2012.09.001",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2012-09-16T15:30:13Z",
+      "timestamp": 1347809413000
+    },
+    "page": "35",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Corrigendum to “Meta-analysis of heterogeneous clinical trials: An empirical example” [Contemp. Clin. Trials 32 (2011) 288–298]"
+    ],
+    "prefix": "10.1016",
+    "volume": "34",
+    "author": [
+      {
+        "given": "Suhail A.R.",
+        "family": "Doi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jan J.",
+        "family": "Barendregt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cct.2012.09.001_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "288",
+        "DOI": "10.1016/j.cct.2010.12.006",
+        "article-title": "Meta-analysis of heterogenous clinical trials: an empirical example",
+        "volume": "32",
+        "author": "Doi",
+        "year": "2011",
+        "journal-title": "Contemp Clin Trials"
+      }
+    ],
+    "container-title": [
+      "Contemporary Clinical Trials"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S155171441200208X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S155171441200208X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          28
+        ]
+      ],
+      "date-time": "2019-01-28T06:26:04Z",
+      "timestamp": 1548656764000
+    },
+    "score": 49.10775,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S155171441200208X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    },
+    "references-count": 1,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S155171441200208X"
+    ],
+    "URL": "https://doi.org/10.1016/j.cct.2012.09.001",
+    "ISSN": [
+      "1551-7144"
+    ],
+    "issn-type": [
+      {
+        "value": "1551-7144",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          1
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,1256 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          22
+        ]
+      ],
+      "date-time": "2026-06-22T11:10:05Z",
+      "timestamp": 1782126605771,
+      "version": "3.54.5"
+    },
+    "reference-count": 23,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2011-05-01T00:00:00Z",
+          "timestamp": 1304208000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2011.01.032",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          26
+        ]
+      ],
+      "date-time": "2011-01-26T09:17:40Z",
+      "timestamp": 1296033460000
+    },
+    "page": "702-707",
+    "source": "Crossref",
+    "is-referenced-by-count": 278,
+    "title": [
+      "Pentafecta: A New Concept for Reporting Outcomes of Robot-Assisted Laparoscopic Radical Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "59",
+    "author": [
+      {
+        "given": "Vipul R.",
+        "family": "Patel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ananthakrishnan",
+        "family": "Sivaraman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rafael F.",
+        "family": "Coelho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sanket",
+        "family": "Chauhan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kenneth J.",
+        "family": "Palmer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcelo A.",
+        "family": "Orvieto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ignacio",
+        "family": "Camacho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Geoff",
+        "family": "Coughlin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bernardo",
+        "family": "Rocco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1144",
+        "DOI": "10.1093/jnci/djn255",
+        "article-title": "Radical prostatectomy versus watchful waiting in localized prostate cancer: the Scandinavian Prostate Cancer Group-4 randomized trial",
+        "volume": "100",
+        "author": "Bill-Axelson",
+        "year": "2008",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "2207",
+        "DOI": "10.1016/j.juro.2008.01.106",
+        "article-title": "Predicting an optimal outcome after radical prostatectomy: the trifecta nomogram",
+        "volume": "179",
+        "author": "Eastham",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "785",
+        "DOI": "10.1016/j.eururo.2008.06.063",
+        "article-title": "Satisfaction and regret after open retropubic or robot-assisted laparoscopic radical prostatectomy",
+        "volume": "54",
+        "author": "Schroeck",
+        "year": "2008",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "268",
+        "DOI": "10.1016/j.urolonc.2008.07.004",
+        "article-title": "Impact of radical prostatectomy positive surgical margins on fear of cancer recurrence: results from CaPSURE",
+        "volume": "28",
+        "author": "Hong",
+        "year": "2010",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "899",
+        "DOI": "10.1016/S0090-4295(00)00858-X",
+        "article-title": "Development and validation of the expanded prostate cancer index composite (EPIC) for comprehensive assessment of health-related quality of life in men with prostate cancer",
+        "volume": "56",
+        "author": "Wei",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "822",
+        "DOI": "10.1016/S0090-4295(97)00238-0",
+        "article-title": "The International Index of Erectile Function (IIEF): a multidimensional scale for assessment of erectile dysfunction",
+        "volume": "49",
+        "author": "Rosen",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1016/0021-9681(87)90171-8",
+        "article-title": "A new method of classifying prognostic comorbidity in longitudinal studies: development and validation",
+        "volume": "40",
+        "author": "Charlson",
+        "year": "1987",
+        "journal-title": "J Chronic Dis"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1097/01.ju.0000162082.12962.40",
+        "article-title": "Robotic radical prostatectomy in the community setting—the learning curve and beyond: initial 200 cases",
+        "volume": "174",
+        "author": "Patel",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1016/j.eururo.2009.06.007",
+        "article-title": "Periurethral suspension stitch during robot-assisted laparoscopic radical prostatectomy: description of the technique and continence outcomes",
+        "volume": "56",
+        "author": "Patel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.eururo.2010.08.025",
+        "article-title": "Influence of Modified Posterior Reconstruction of the Rhabdosphincter on Early Recovery of Continence and Anastomotic Leakage Rates after Robot-Assisted Radical Prostatectomy",
+        "volume": "59",
+        "author": "Coelho",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0055",
+        "series-title": "American Joint Committee on Cancer staging manual",
+        "author": "Greene",
+        "year": "2002"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1097/01.sla.0000133083.54934.ae",
+        "article-title": "Classification of surgical complications",
+        "volume": "240",
+        "author": "Dindo",
+        "year": "2004",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1016/S0210-4806(09)74110-5",
+        "article-title": "EAU guidelines on prostate cancer [in Spanish]",
+        "volume": "33",
+        "author": "Heidenreich",
+        "year": "2009",
+        "journal-title": "Actas Urol Esp"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "S11",
+        "DOI": "10.1016/j.juro.2006.06.075",
+        "article-title": "Identifying men diagnosed with clinically localized prostate cancer who are at high risk for death from prostate cancer",
+        "volume": "176",
+        "author": "D’Amico",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "619",
+        "DOI": "10.1016/j.urology.2009.02.082",
+        "article-title": "Trifecta outcomes after robotic-assisted laparoscopic prostatectomy",
+        "volume": "74",
+        "author": "Shikanov",
+        "year": "2009",
+        "journal-title": "Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1016/S0022-5347(05)67457-5",
+        "article-title": "Long-term hazard of progression after radical prostatectomy for clinically localized prostate cancer: continued risk of biochemical failure after 5 years",
+        "volume": "164",
+        "author": "Amling",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "100",
+        "DOI": "10.1111/j.1464-410X.2010.09505.x",
+        "article-title": "Trifecta outcomes after robot-assisted laparoscopic radical prostatectomy",
+        "volume": "107",
+        "author": "Novara",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.1016/j.eururo.2009.11.032",
+        "article-title": "Prospective evaluation with standardised criteria for postoperative complications after robotic-assisted laparoscopic radical prostatectomy",
+        "volume": "57",
+        "author": "Novara",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "838",
+        "DOI": "10.1016/j.eururo.2010.09.010",
+        "article-title": "Biochemical recurrence following robot-assisted radical prostatectomy: analysis of 1384 patients with a median 5-year follow-up",
+        "volume": "58",
+        "author": "Menon",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "519",
+        "DOI": "10.1089/end.2006.9845",
+        "article-title": "Urinary and sexual function outcomes among different age groups after robot-assisted laparoscopic prostatectomy",
+        "volume": "22",
+        "author": "Mendiola",
+        "year": "2008",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "2448",
+        "DOI": "10.1016/j.juro.2006.07.153",
+        "article-title": "Age stratified functional outcomes after laparoscopic radical prostatectomy",
+        "volume": "176",
+        "author": "Rogers",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.eururo.2011.01.032_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1016/j.juro.2008.10.047",
+        "article-title": "Defining and Reporting Erectile Function Outcomes after Radical Prostatectomy: Challenges and Misconceptions",
+        "volume": "181",
+        "author": "Mulhall",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2011.01.032_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "803",
+        "DOI": "10.1097/00000658-200206000-00007",
+        "article-title": "Quality of Complication Reporting in the Surgical Literature",
+        "volume": "235",
+        "author": "Martin",
+        "year": "2002",
+        "journal-title": "Ann Surg"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283811000534?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283811000534?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          5
+        ]
+      ],
+      "date-time": "2018-12-05T08:26:07Z",
+      "timestamp": 1543998367000
+    },
+    "score": 121.8599,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283811000534"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          5
+        ]
+      ]
+    },
+    "references-count": 23,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283811000534"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2011.01.032",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          31
+        ]
+      ],
+      "date-time": "2025-10-31T07:22:23Z",
+      "timestamp": 1761895343526
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2011-10-01T00:00:00Z",
+          "timestamp": 1317427200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(11)61378-x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2011-09-22T15:42:42Z",
+      "timestamp": 1316706162000
+    },
+    "page": "551",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "50 A new concept in reporting outcomes of robot assisted laparoscopic radical prostatectomy: the octafecta"
+    ],
+    "prefix": "10.1016",
+    "volume": "10",
+    "author": [
+      {
+        "given": "A.",
+        "family": "Sivaraman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Chauhan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "O.",
+        "family": "Schatloff",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "K.J.",
+        "family": "Palmer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.F.",
+        "family": "Coelho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.A.",
+        "family": "Orvieto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Valero",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "B.",
+        "family": "Rocco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "V.R.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S156990561161378X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S156990561161378X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          29
+        ]
+      ],
+      "date-time": "2018-11-29T18:27:29Z",
+      "timestamp": 1543516049000
+    },
+    "score": 98.87428,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S156990561161378X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S156990561161378X"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(11)61378-x",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T03:10:48Z",
+      "timestamp": 1651201848720
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "4S",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2011-04-01T00:00:00Z",
+          "timestamp": 1301616000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2011.02.1569",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          5,
+          20
+        ]
+      ],
+      "date-time": "2011-05-20T10:33:49Z",
+      "timestamp": 1305887629000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "653 A NEW CONCEPT FOR REPORTING OUTCOMES OF ROBOT-ASSISTED LAPAROSCOPIC RADICAL PROSTATECTOMY: THE OCTAFECTA"
+    ],
+    "prefix": "10.1097",
+    "volume": "185",
+    "author": [
+      {
+        "given": "Ananthakrishnan",
+        "family": "Sivaraman",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Celebration, FL"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sanket",
+        "family": "Chauhan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Celebration, FL"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rafael",
+        "family": "Coelho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Celebration, FL"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kenneth",
+        "family": "Palmer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Celebration, FL"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bernardo",
+        "family": "Rocco",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Celebration, FL"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Vipul",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Celebration, FL"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534711018179?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534711018179?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2011.02.1569",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T02:52:37Z",
+      "timestamp": 1651200757000
+    },
+    "score": 94.57531,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2011.02.1569"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4S",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2011.02.1569"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2011.02.1569",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T22:26:12Z",
+      "timestamp": 1648765572881
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2010-09-01T00:00:00Z",
+          "timestamp": 1283299200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(10)61189-x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          8,
+          19
+        ]
+      ],
+      "date-time": "2010-08-19T05:27:39Z",
+      "timestamp": 1282195659000
+    },
+    "page": "527",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "98 Early retrograde nerve preservation during robot-assisted radical prostatectomy improves potency outcomes"
+    ],
+    "prefix": "10.1016",
+    "volume": "9",
+    "author": [
+      {
+        "given": "M.A.",
+        "family": "Orvieto",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Sivaraman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.F.",
+        "family": "Coelho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Chauhan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "B.",
+        "family": "Ardila",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "K.",
+        "family": "Palmer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "V.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S156990561061189X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S156990561061189X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          8
+        ]
+      ],
+      "date-time": "2018-12-08T13:51:01Z",
+      "timestamp": 1544277061000
+    },
+    "score": 78.49894,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S156990561061189X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S156990561061189X"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(10)61189-x",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          9
+        ]
+      ]
+    }
+  }
+]

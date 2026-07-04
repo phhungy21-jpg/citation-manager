@@ -1,0 +1,439 @@
+{
+  "paper": "PMC11742528",
+  "source_file": "pmcid:11742528",
+  "generated": "2026-07-01T13:36:05.193633+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "dry_run_skipped": 45,
+    "no_abstract_found": 4
+  },
+  "flagged": [
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 8,
+      "ref_text": "Dipasquale V, Cucchiara S, Martinelli M, Miele E, Aloi M, Romano C. Challenges in paediatric inflammatory bowel diseases in the COVID-19 time. Dig Liver Dis. 2020;52(5):593-594. doi:10.1016/j.dld.2020.03.015 32276846 PMC7141464",
+      "doi": "10.1016/j.dld.2020.03.015",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 11,
+      "ref_text": "Kirschner BS. Growth and development in chronic inflammatory bowel disease. Acta Paediatr Scand Suppl. 1990;366:98-104. doi:10.1111/j.1651-2227.1990.tb11608.x 2206013",
+      "doi": "10.1111/j.1651-2227.1990.tb11608.x",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "Moreover, growth can be regarded as a dynamic indicator of disease status, necessitating continuous monitoring.[27] Impaired nutrition and growth in childhood can have short-term and long-term consequences if not treated effectively.[28],[29] The reduced weight in IBD may have multiple causes, such as decreased caloric intake due to the anorexic effects of proinflammatory mediators like interleukin (IL)-1β and TNF-α, malabsorption of food components, and/or early gastrointestinal symptoms, including early satiety, pain, and nausea.[30],[31] Reduced food intake may be caused by pain while eating, fear of diarrhea after meals, or poor tolerance of foods.",
+      "citation_number": 29,
+      "ref_text": "Black RE, Allen LH, Bhutta ZA, ; Maternal and Child Undernutrition Study Group. Maternal and child undernutrition: global and regional exposures and health consequences. Lancet. 2008;371(9608):243-260. doi:10.1016/S0140-6736(07)61690-0 18207566",
+      "doi": "10.1016/S0140-6736(07)61690-0",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "Additionally, both can independently suppress levels of insulin-like growth factor-1, which is a critical mediator of the local actions of the growth hormone.[30],[34],[35],[36] Age at diagnosis, disease location, severity, treatment modality, and genetic polymorphisms are additional factors that may impact growth and weight impairment.",
+      "citation_number": 35,
+      "ref_text": "Baker J, Liu JP, Robertson EJ, Efstratiadis A. Role of insulin-like growth factors in embryonic and postnatal growth. Cell. 1993;75(1):73-82. doi:10.1016/S0092-8674(05)80085-6 8402902",
+      "doi": "10.1016/S0092-8674(05)80085-6",
+      "status": "no_abstract_found",
+      "error": ""
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "Immune-mediated inflammatory diseases such as inflammatory bowel disease (IBD) usually affect young adults.[1],[2] In 2017, there were 6.8 million cases of IBD worldwide, with more than 50 000 people affected in Denmark alone.",
+      "citation_number": 1,
+      "ref_text": "Olén O, Askling J, Sachs MC, . Increased mortality of patients with childhood-onset inflammatory bowel diseases, compared with the general population. Gastroenterology. 2019;156(3):614-622. doi:10.1053/j.gastro.2018.10.028 30342031",
+      "doi": "10.1053/j.gastro.2018.10.028",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Immune-mediated inflammatory diseases such as inflammatory bowel disease (IBD) usually affect young adults.[1],[2] In 2017, there were 6.8 million cases of IBD worldwide, with more than 50 000 people affected in Denmark alone.",
+      "citation_number": 2,
+      "ref_text": "Bisgaard TH, Allin KH, Elmahdi R, Jess T. The bidirectional risk of inflammatory bowel disease and anxiety or depression: a systematic review and meta-analysis. Gen Hosp Psychiatry. 2023;83:109-116. doi:10.1016/j.genhosppsych.2023.05.002 37172544",
+      "doi": "10.1016/j.genhosppsych.2023.05.002",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 3,
+      "ref_text": "Agrawal M, Christensen HS, Bøgsted M, Colombel JF, Jess T, Allin KH. The rising burden of inflammatory bowel disease in Denmark over two decades: a nationwide cohort study. Gastroenterology. 2022;163(6):1547-1554.e5. doi:10.1053/j.gastro.2022.07.062 35952799 PMC9691534",
+      "doi": "10.1053/j.gastro.2022.07.062",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 4,
+      "ref_text": "Alatab S, Sepanlou SG, Ikuta K, ; GBD 2017 Inflammatory Bowel Disease Collaborators. The global, regional, and national burden of inflammatory bowel disease in 195 countries and territories, 1990-2017: a systematic analysis for the Global Burden of Disease Study 2017. Lancet Gastroenterol Hepatol. 2020;5(1):17-30. doi:10.1016/S2468-1253(19)30333-4 31648971 PMC7026709",
+      "doi": "10.1016/S2468-1253(19)30333-4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 5,
+      "ref_text": "Kaplan GG, Windsor JW. The four epidemiological stages in the global evolution of inflammatory bowel disease. Nat Rev Gastroenterol Hepatol. 2021;18(1):56-66. doi:10.1038/s41575-020-00360-x 33033392 PMC7542092",
+      "doi": "10.1038/s41575-020-00360-x",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 6,
+      "ref_text": "Kuenzig ME, Fung SG, Marderfeld L, ; InsightScope Pediatric IBD Epidemiology Group. Twenty-first century trends in the global epidemiology of pediatric-onset inflammatory bowel disease: systematic review. Gastroenterology. 2022;162(4):1147-1159.e4. doi:10.1053/j.gastro.2021.12.282 34995526",
+      "doi": "10.1053/j.gastro.2021.12.282",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 7,
+      "ref_text": "Shamir R, Phillip M, Levine A. Growth retardation in pediatric Crohn’s disease: pathogenesis and interventions. Inflamm Bowel Dis. 2007;13(5):620-628. doi:10.1002/ibd.20115 17262806",
+      "doi": "10.1002/ibd.20115",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 8,
+      "ref_text": "Dipasquale V, Cucchiara S, Martinelli M, Miele E, Aloi M, Romano C. Challenges in paediatric inflammatory bowel diseases in the COVID-19 time. Dig Liver Dis. 2020;52(5):593-594. doi:10.1016/j.dld.2020.03.015 32276846 PMC7141464",
+      "doi": "10.1016/j.dld.2020.03.015",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 9,
+      "ref_text": "Duchatellier CF, Kumar R, Krupoves A, Braegger C, Herzog D, Amre DK. Steroid administration and growth impairment in children with Crohn’s disease. Inflamm Bowel Dis. 2016;22(2):355-363. doi:10.1097/MIB.0000000000000669 26752463",
+      "doi": "10.1097/MIB.0000000000000669",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 10,
+      "ref_text": "Kanof ME, Lake AM, Bayless TM. Decreased height velocity in children and adolescents before the diagnosis of Crohn’s disease. Gastroenterology. 1988;95(6):1523-1527. doi:10.1016/S0016-5085(88)80072-6 3181677",
+      "doi": "10.1016/S0016-5085(88)80072-6",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 11,
+      "ref_text": "Kirschner BS. Growth and development in chronic inflammatory bowel disease. Acta Paediatr Scand Suppl. 1990;366:98-104. doi:10.1111/j.1651-2227.1990.tb11608.x 2206013",
+      "doi": "10.1111/j.1651-2227.1990.tb11608.x",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 12,
+      "ref_text": "Griffiths AM, Nguyen P, Smith C, MacMillan JH, Sherman PM. Growth and clinical course of children with Crohn’s disease. Gut. 1993;34(7):939-943. doi:10.1136/gut.34.7.939 8344582 PMC1374230",
+      "doi": "10.1136/gut.34.7.939",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 13,
+      "ref_text": "Hildebrand H, Karlberg J, Kristiansson B. Longitudinal growth in children and adolescents with inflammatory bowel disease. J Pediatr Gastroenterol Nutr. 1994;18(2):165-173. doi:10.1097/00005176-199402000-000088014763",
+      "doi": "10.1097/00005176-199402000-00008",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 14,
+      "ref_text": "Sawczenko A, Ballinger AB, Savage MO, Sanderson IR. Clinical features affecting final adult height in patients with pediatric-onset Crohn’s disease. Pediatrics. 2006;118(1):124-129. doi:10.1542/peds.2005-2931 16818557",
+      "doi": "10.1542/peds.2005-2931",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The incidence of pediatric IBD in Europe is currently 15.3 per 100 000 person-years for Crohn disease (CD) and 14.8 per 100 000 person-years for ulcerative colitis (UC).[3],[4],[5],[6] Childhood-onset IBD can lead to impaired nutritional status, which may be the result of a complex interaction among diet, inflammation, hormones, and disease treatment, leading to malnutrition and impaired growth.[7],[8],[9] Patients with CD appear to be more likely to experience linear growth retardation compared with those with UC.[9] Early studies, with sample sizes ranging from 50 to 176 pediatric patients with IBD, suggested that growth impairment may already be present prior to IBD diagnosis[10] or at least at the time of diagnosis[11],[12],[13]; may have a height-for-age z score at diagnosis varying between −0.5 and −2.0 SDs[14],[15]; and may persist after diagnosis.[15] However, data on prevalence, timing, and magnitude of growth impairment from unselected population-based studies with prediagnostic and postdiagnostic anthropometric measures on children with pediatric IBD are lacking.",
+      "citation_number": 15,
+      "ref_text": "Pfefferkorn M, Burke G, Griffiths A, . Growth abnormalities persist in newly diagnosed children with Crohn disease despite current treatment paradigms. J Pediatr Gastroenterol Nutr. 2009;48(2):168-174. doi:10.1097/MPG.0b013e318175ca7f 19179878",
+      "doi": "10.1097/MPG.0b013e318175ca7f",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "By linkage to the Danish National Child Health Register (DNCHR), we excluded those with missing length and weight measurements at birth, implausible anthropometric measurements (cutoff points of 5 SDs) according to the Danish 2014 references,[16] no anthropometric measurements before age 16.5 years, or no anthropometric measurements at school age (≥5.5 years).",
+      "citation_number": 16,
+      "ref_text": "Tinggaard J, Aksglaede L, Sørensen K, . The 2014 Danish references from birth to 20 years for height, weight and body mass index. Acta Paediatr. 2014;103(2):214-224. doi:10.1111/apa.12468 24127859",
+      "doi": "10.1111/apa.12468",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Within the study population, we identified all individuals diagnosed with IBD in childhood (ages 5 to 17 years) based on at least 2 outpatient or inpatient hospital contacts with IBD (International Statistical Classification of Diseases, Tenth Revision codes DK50 for CD and DK51 for UC) within 2 years in the Danish National Patient Register.[3],[17] If children had been recorded as having both CD and UC, they were classified as having CD.",
+      "citation_number": 3,
+      "ref_text": "Agrawal M, Christensen HS, Bøgsted M, Colombel JF, Jess T, Allin KH. The rising burden of inflammatory bowel disease in Denmark over two decades: a nationwide cohort study. Gastroenterology. 2022;163(6):1547-1554.e5. doi:10.1053/j.gastro.2022.07.062 35952799 PMC9691534",
+      "doi": "10.1053/j.gastro.2022.07.062",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Within the study population, we identified all individuals diagnosed with IBD in childhood (ages 5 to 17 years) based on at least 2 outpatient or inpatient hospital contacts with IBD (International Statistical Classification of Diseases, Tenth Revision codes DK50 for CD and DK51 for UC) within 2 years in the Danish National Patient Register.[3],[17] If children had been recorded as having both CD and UC, they were classified as having CD.",
+      "citation_number": 17,
+      "ref_text": "Albaek Jacobsen H, Jess T, Larsen L. Validity of inflammatory bowel disease diagnoses in the Danish National Patient Registry: a population-based study from the North Denmark region. Clin Epidemiol. 2022;14:1099-1109. doi:10.2147/CLEP.S378003 36226162 PMC9550174",
+      "doi": "10.2147/CLEP.S378003",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The DNCHR,[18] established in April 2009, includes data from health care nurses and general practitioners.",
+      "citation_number": 18,
+      "ref_text": "Andersen MP, Wiingreen R, Eroglu TE, . The Danish National Child Health Register. Clin Epidemiol. 2023;15:1087-1094. doi:10.2147/CLEP.S423587 38025840 PMC10656863",
+      "doi": "10.2147/CLEP.S423587",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "A Danish growth reference for height, weight, and BMI included the parameters necessary to compute z scores-for-age in 6-year intervals.[16] However, deriving z scores for 6-year age intervals introduced considerable errors in the z scores, and for this reason, we only used the Danish growth reference to remove outliers, defined as individuals with height, weight, or BMI outside 5 SDs.",
+      "citation_number": 16,
+      "ref_text": "Tinggaard J, Aksglaede L, Sørensen K, . The 2014 Danish references from birth to 20 years for height, weight and body mass index. Acta Paediatr. 2014;103(2):214-224. doi:10.1111/apa.12468 24127859",
+      "doi": "10.1111/apa.12468",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The GAMLSS model takes into account that mean, variance, and skewness change nonlinearly with age, and it was among the methods recommended by the World Health Organization.[19] Since the DNCHR data include multiple observations on the final study population, we randomly drew a subsample consisting of 100 000 children and included 1 measurement per child.",
+      "citation_number": 19,
+      "ref_text": "Borghi E, de Onis M, Garza C, ; WHO Multicentre Growth Reference Study Group. Construction of the World Health Organization child growth standards: selection of methods for attained growth curves. Stat Med. 2006;25(2):247-265. doi:10.1002/sim.2227 16143968",
+      "doi": "10.1002/sim.2227",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Overall, our findings add to the mounting evidence that IBD has its onset several years prior to diagnosis[20],[21],[22],[23] and suggest that the outcome of the preclinical phase is associated with growth impairment in children, potentially due to impaired nutritional status.",
+      "citation_number": 20,
+      "ref_text": "Vestergaard MV, Allin KH, Poulsen GJ, Lee JC, Jess T. Characterizing the pre-clinical phase of inflammatory bowel disease. Cell Rep Med. 2023;4(11):101263. doi:10.1016/j.xcrm.2023.101263 37939713 PMC10694632",
+      "doi": "10.1016/j.xcrm.2023.101263",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Overall, our findings add to the mounting evidence that IBD has its onset several years prior to diagnosis[20],[21],[22],[23] and suggest that the outcome of the preclinical phase is associated with growth impairment in children, potentially due to impaired nutritional status.",
+      "citation_number": 21,
+      "ref_text": "Torres J, Petralia F, Sato T, . Serum biomarkers identify patients who will develop inflammatory bowel diseases up to 5 years before diagnosis. Gastroenterology. 2020;159(1):96-104. doi:10.1053/j.gastro.2020.03.007 32165208",
+      "doi": "10.1053/j.gastro.2020.03.007",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Overall, our findings add to the mounting evidence that IBD has its onset several years prior to diagnosis[20],[21],[22],[23] and suggest that the outcome of the preclinical phase is associated with growth impairment in children, potentially due to impaired nutritional status.",
+      "citation_number": 22,
+      "ref_text": "Raygoza Garay JA, Turpin W, Lee SH, ; CCC GEM Project Research Consortium. Gut microbiome composition is associated with future onset of Crohn’s disease in healthy first-degree relatives. Gastroenterology. 2023;165(3):670-681. doi:10.1053/j.gastro.2023.05.032 37263307",
+      "doi": "10.1053/j.gastro.2023.05.032",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Overall, our findings add to the mounting evidence that IBD has its onset several years prior to diagnosis[20],[21],[22],[23] and suggest that the outcome of the preclinical phase is associated with growth impairment in children, potentially due to impaired nutritional status.",
+      "citation_number": 23,
+      "ref_text": "Rudbaek JJ, Agrawal M, Torres J, Mehandru S, Colombel JF, Jess T. Deciphering the different phases of preclinical inflammatory bowel disease. Nat Rev Gastroenterol Hepatol. 2024;21(2):86-100. doi:10.1038/s41575-023-00854-4 37950021 PMC11148654",
+      "doi": "10.1038/s41575-023-00854-4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The study revealed that 46% experienced reduced growth prior to the onset of symptoms, and 88% experienced reduced growth prior to diagnosis.[10] A Canadian study published in 2020 with 1092 children aged 2 to 17 years[24] found that the mean height z score was decreased in newly diagnosed children with CD (mean [SD], −0.30 [1.23]; 95% CI, −0.39 to −0.20) but not in children with an unclassified UC IBD (mean [SD], 0.11 [1.14]; 95% CI, −0.01 to 0.22).",
+      "citation_number": 10,
+      "ref_text": "Kanof ME, Lake AM, Bayless TM. Decreased height velocity in children and adolescents before the diagnosis of Crohn’s disease. Gastroenterology. 1988;95(6):1523-1527. doi:10.1016/S0016-5085(88)80072-6 3181677",
+      "doi": "10.1016/S0016-5085(88)80072-6",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The study revealed that 46% experienced reduced growth prior to the onset of symptoms, and 88% experienced reduced growth prior to diagnosis.[10] A Canadian study published in 2020 with 1092 children aged 2 to 17 years[24] found that the mean height z score was decreased in newly diagnosed children with CD (mean [SD], −0.30 [1.23]; 95% CI, −0.39 to −0.20) but not in children with an unclassified UC IBD (mean [SD], 0.11 [1.14]; 95% CI, −0.01 to 0.22).",
+      "citation_number": 24,
+      "ref_text": "Dhaliwal J, Walters TD, Mack DR, . Phenotypic variation in paediatric inflammatory bowel disease by age: a multicentre prospective inception cohort study of the Canadian Children IBD Network. J Crohns Colitis. 2020;14(4):445-454. doi:10.1093/ecco-jcc/jjz106 31136648 PMC7242003",
+      "doi": "10.1093/ecco-jcc/jjz106",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The longer-term effect of CD on nutritional and growth status was examined in 261 French children.[25] Not only were the SDs for height (−0.38), weight (−1.14), and BMI (−1.37) significantly lower in patients at diagnosis than in the reference population, but deviations persisted after a median follow-up time of 73 months.",
+      "citation_number": 25,
+      "ref_text": "Vasseur F, Gower-Rousseau C, Vernier-Massouille G, . Nutritional status and growth in pediatric Crohn’s disease: a population-based study. Am J Gastroenterol. 2010;105(8):1893-1900. doi:10.1038/ajg.2010.20 20145606",
+      "doi": "10.1038/ajg.2010.20",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The association of IBD with final height was examined in a Swedish National Patient Register study of 4201 individuals with childhood-onset IBD (CD: n = 1640; UC: n = 2201; and unclassified IBD: n = 360).[26] The authors found that patients with pediatric IBD had a lower adult adjusted mean height difference compared with reference patients (−0.9 cm [95% CI, −1.1 to −0.7 cm]) and with their siblings without IBD (−0.8 cm [95% CI, −1.0 to −0.6 cm]).",
+      "citation_number": 26,
+      "ref_text": "Mouratidou N, Malmborg P, Sachs MC, . Adult height in patients with childhood-onset inflammatory bowel disease: a nationwide population-based cohort study. Aliment Pharmacol Ther. 2020;51(8):789-800. doi:10.1111/apt.15667 32133656",
+      "doi": "10.1111/apt.15667",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Moreover, growth can be regarded as a dynamic indicator of disease status, necessitating continuous monitoring.[27] Impaired nutrition and growth in childhood can have short-term and long-term consequences if not treated effectively.[28],[29] The reduced weight in IBD may have multiple causes, such as decreased caloric intake due to the anorexic effects of proinflammatory mediators like interleukin (IL)-1β and TNF-α, malabsorption of food components, and/or early gastrointestinal symptoms, including early satiety, pain, and nausea.[30],[31] Reduced food intake may be caused by pain while eating, fear of diarrhea after meals, or poor tolerance of foods.",
+      "citation_number": 27,
+      "ref_text": "Gupta N, Liu C, King E, ; ImproveCareNow Network. Continued statural growth in older adolescents and young adults with Crohn’s disease and ulcerative colitis beyond the time of expected growth plate closure. Inflamm Bowel Dis. 2020;26(12):1880-1889. doi:10.1093/ibd/izz334 31968095",
+      "doi": "10.1093/ibd/izz334",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Moreover, growth can be regarded as a dynamic indicator of disease status, necessitating continuous monitoring.[27] Impaired nutrition and growth in childhood can have short-term and long-term consequences if not treated effectively.[28],[29] The reduced weight in IBD may have multiple causes, such as decreased caloric intake due to the anorexic effects of proinflammatory mediators like interleukin (IL)-1β and TNF-α, malabsorption of food components, and/or early gastrointestinal symptoms, including early satiety, pain, and nausea.[30],[31] Reduced food intake may be caused by pain while eating, fear of diarrhea after meals, or poor tolerance of foods.",
+      "citation_number": 28,
+      "ref_text": "Dewey KG, Begum K. Long-term consequences of stunting in early life. Matern Child Nutr. 2011;7(suppl 3):5-18. doi:10.1111/j.1740-8709.2011.00349.x 21929633 PMC6860846",
+      "doi": "10.1111/j.1740-8709.2011.00349.x",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Moreover, growth can be regarded as a dynamic indicator of disease status, necessitating continuous monitoring.[27] Impaired nutrition and growth in childhood can have short-term and long-term consequences if not treated effectively.[28],[29] The reduced weight in IBD may have multiple causes, such as decreased caloric intake due to the anorexic effects of proinflammatory mediators like interleukin (IL)-1β and TNF-α, malabsorption of food components, and/or early gastrointestinal symptoms, including early satiety, pain, and nausea.[30],[31] Reduced food intake may be caused by pain while eating, fear of diarrhea after meals, or poor tolerance of foods.",
+      "citation_number": 29,
+      "ref_text": "Black RE, Allen LH, Bhutta ZA, ; Maternal and Child Undernutrition Study Group. Maternal and child undernutrition: global and regional exposures and health consequences. Lancet. 2008;371(9608):243-260. doi:10.1016/S0140-6736(07)61690-0 18207566",
+      "doi": "10.1016/S0140-6736(07)61690-0",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "Moreover, growth can be regarded as a dynamic indicator of disease status, necessitating continuous monitoring.[27] Impaired nutrition and growth in childhood can have short-term and long-term consequences if not treated effectively.[28],[29] The reduced weight in IBD may have multiple causes, such as decreased caloric intake due to the anorexic effects of proinflammatory mediators like interleukin (IL)-1β and TNF-α, malabsorption of food components, and/or early gastrointestinal symptoms, including early satiety, pain, and nausea.[30],[31] Reduced food intake may be caused by pain while eating, fear of diarrhea after meals, or poor tolerance of foods.",
+      "citation_number": 30,
+      "ref_text": "Enomoto M, Pan HO, Kinoshita A, Yutani Y, Suzuki F, Takigawa M. Effects of tumor necrosis factor α on proliferation and expression of differentiated phenotypes in rabbit costal chondrocytes in culture. Calcif Tissue Int. 1990;47(3):145-151. doi:10.1007/BF02555979 2224589",
+      "doi": "10.1007/BF02555979",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Moreover, growth can be regarded as a dynamic indicator of disease status, necessitating continuous monitoring.[27] Impaired nutrition and growth in childhood can have short-term and long-term consequences if not treated effectively.[28],[29] The reduced weight in IBD may have multiple causes, such as decreased caloric intake due to the anorexic effects of proinflammatory mediators like interleukin (IL)-1β and TNF-α, malabsorption of food components, and/or early gastrointestinal symptoms, including early satiety, pain, and nausea.[30],[31] Reduced food intake may be caused by pain while eating, fear of diarrhea after meals, or poor tolerance of foods.",
+      "citation_number": 31,
+      "ref_text": "Man PS, Lawrence CB. Interleukin-1 mediates the anorexic and febrile actions of galanin-like peptide. Endocrinology. 2008;149(11):5791-5802. doi:10.1210/en.2008-0252 18617619 PMC3306896",
+      "doi": "10.1210/en.2008-0252",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Small-bowel involvement in IBD can further cause disaccharide intolerance, leading to shorter gut transit times, pain, and worsening of diarrhea.[32] Impaired linear growth in individuals with IBD may be caused by factors associated with weight loss, as well as by mediators derived from the intestine.[33] For example, TNF-α inhibits chondrocyte activity in growth plates, while IL-6 may directly lead to growth failure.",
+      "citation_number": 32,
+      "ref_text": "Moeeni V, Day AS. Impact of inflammatory bowel disease upon growth in children and adolescents. ISRN Pediatr. 2011;2011:365712. doi:10.5402/2011/365712 22389775 PMC3263571",
+      "doi": "10.5402/2011/365712",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Small-bowel involvement in IBD can further cause disaccharide intolerance, leading to shorter gut transit times, pain, and worsening of diarrhea.[32] Impaired linear growth in individuals with IBD may be caused by factors associated with weight loss, as well as by mediators derived from the intestine.[33] For example, TNF-α inhibits chondrocyte activity in growth plates, while IL-6 may directly lead to growth failure.",
+      "citation_number": 33,
+      "ref_text": "Ballinger A. Fundamental mechanisms of growth failure in inflammatory bowel disease. Horm Res. 2002;58(suppl 1):7-10. doi:10.1159/000064756 12373006",
+      "doi": "10.1159/000064756",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Additionally, both can independently suppress levels of insulin-like growth factor-1, which is a critical mediator of the local actions of the growth hormone.[30],[34],[35],[36] Age at diagnosis, disease location, severity, treatment modality, and genetic polymorphisms are additional factors that may impact growth and weight impairment.",
+      "citation_number": 30,
+      "ref_text": "Enomoto M, Pan HO, Kinoshita A, Yutani Y, Suzuki F, Takigawa M. Effects of tumor necrosis factor α on proliferation and expression of differentiated phenotypes in rabbit costal chondrocytes in culture. Calcif Tissue Int. 1990;47(3):145-151. doi:10.1007/BF02555979 2224589",
+      "doi": "10.1007/BF02555979",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Additionally, both can independently suppress levels of insulin-like growth factor-1, which is a critical mediator of the local actions of the growth hormone.[30],[34],[35],[36] Age at diagnosis, disease location, severity, treatment modality, and genetic polymorphisms are additional factors that may impact growth and weight impairment.",
+      "citation_number": 34,
+      "ref_text": "De Benedetti F, Alonzi T, Moretta A, . Interleukin 6 causes growth impairment in transgenic mice through a decrease in insulin-like growth factor-I: a model for stunted growth in children with chronic inflammation. J Clin Invest. 1997;99(4):643-650. doi:10.1172/JCI119207 9045866 PMC507846",
+      "doi": "10.1172/JCI119207",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Additionally, both can independently suppress levels of insulin-like growth factor-1, which is a critical mediator of the local actions of the growth hormone.[30],[34],[35],[36] Age at diagnosis, disease location, severity, treatment modality, and genetic polymorphisms are additional factors that may impact growth and weight impairment.",
+      "citation_number": 35,
+      "ref_text": "Baker J, Liu JP, Robertson EJ, Efstratiadis A. Role of insulin-like growth factors in embryonic and postnatal growth. Cell. 1993;75(1):73-82. doi:10.1016/S0092-8674(05)80085-6 8402902",
+      "doi": "10.1016/S0092-8674(05)80085-6",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "Additionally, both can independently suppress levels of insulin-like growth factor-1, which is a critical mediator of the local actions of the growth hormone.[30],[34],[35],[36] Age at diagnosis, disease location, severity, treatment modality, and genetic polymorphisms are additional factors that may impact growth and weight impairment.",
+      "citation_number": 36,
+      "ref_text": "Sawczenko A, Azooz O, Paraszczuk J, . Intestinal inflammation-induced growth retardation acts through IL-6 in rats and depends on the −174 IL-6 G/C polymorphism in children. Proc Natl Acad Sci U S A. 2005;102(37):13260-13265. doi:10.1073/pnas.0503589102 16150725 PMC1198995",
+      "doi": "10.1073/pnas.0503589102",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In a cohort of Israeli children, the severity of disease as defined by steroid requirements, the use of immunosuppressives, and the cumulative period of hospitalization were found to be correlated with height and weight impairment.[37] Some of the evidence has shown that an IL-6 gene polymorphism (−174 GG genotype) is associated with growth failure and more severe disease activity and that novel organic cation transporter 1/2 variants within the IBD5 haplotype may be determinants of disease susceptibility and worse nutritional status in early-onset IBD.[36],[38] Of note, we did not observe changes in anthropometrics for siblings without IBD to children with IBD, hence suggesting no family-derived confounders such as environment or common genetics.",
+      "citation_number": 36,
+      "ref_text": "Sawczenko A, Azooz O, Paraszczuk J, . Intestinal inflammation-induced growth retardation acts through IL-6 in rats and depends on the −174 IL-6 G/C polymorphism in children. Proc Natl Acad Sci U S A. 2005;102(37):13260-13265. doi:10.1073/pnas.0503589102 16150725 PMC1198995",
+      "doi": "10.1073/pnas.0503589102",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In a cohort of Israeli children, the severity of disease as defined by steroid requirements, the use of immunosuppressives, and the cumulative period of hospitalization were found to be correlated with height and weight impairment.[37] Some of the evidence has shown that an IL-6 gene polymorphism (−174 GG genotype) is associated with growth failure and more severe disease activity and that novel organic cation transporter 1/2 variants within the IBD5 haplotype may be determinants of disease susceptibility and worse nutritional status in early-onset IBD.[36],[38] Of note, we did not observe changes in anthropometrics for siblings without IBD to children with IBD, hence suggesting no family-derived confounders such as environment or common genetics.",
+      "citation_number": 37,
+      "ref_text": "Wine E, Reif SS, Leshinsky-Silver E, . Pediatric Crohn’s disease and growth retardation: the role of genotype, phenotype, and disease severity. Pediatrics. 2004;114(5):1281-1286. doi:10.1542/peds.2004-0417 15520108",
+      "doi": "10.1542/peds.2004-0417",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In a cohort of Israeli children, the severity of disease as defined by steroid requirements, the use of immunosuppressives, and the cumulative period of hospitalization were found to be correlated with height and weight impairment.[37] Some of the evidence has shown that an IL-6 gene polymorphism (−174 GG genotype) is associated with growth failure and more severe disease activity and that novel organic cation transporter 1/2 variants within the IBD5 haplotype may be determinants of disease susceptibility and worse nutritional status in early-onset IBD.[36],[38] Of note, we did not observe changes in anthropometrics for siblings without IBD to children with IBD, hence suggesting no family-derived confounders such as environment or common genetics.",
+      "citation_number": 38,
+      "ref_text": "Russell RK, Drummond HE, Nimmo ER, . Analysis of the influence of OCTN1/2 variants within the IBD5 locus on disease susceptibility and growth indices in early onset inflammatory bowel disease. Gut. 2006;55(8):1114-1123. doi:10.1136/gut.2005.082107 16469794 PMC1856267",
+      "doi": "10.1136/gut.2005.082107",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The results of this study corroborate previous findings that also observed an improvement in growth impairment after diagnosis, which may be a result of the treatment used.[39],[40] Although a study that evaluated the growth of 176 children with newly diagnosed CD (mean age, 10 years) with either mild (33%) or moderate or severe (67%) disease[15] observed that exposure to corticosteroids for more than 6 months was associated with abnormal growth velocity after 1 year (odds ratio, 4.5 [95% CI, 2.2-9.6]), infliximab did not have a statistically significant effect.",
+      "citation_number": 15,
+      "ref_text": "Pfefferkorn M, Burke G, Griffiths A, . Growth abnormalities persist in newly diagnosed children with Crohn disease despite current treatment paradigms. J Pediatr Gastroenterol Nutr. 2009;48(2):168-174. doi:10.1097/MPG.0b013e318175ca7f 19179878",
+      "doi": "10.1097/MPG.0b013e318175ca7f",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The results of this study corroborate previous findings that also observed an improvement in growth impairment after diagnosis, which may be a result of the treatment used.[39],[40] Although a study that evaluated the growth of 176 children with newly diagnosed CD (mean age, 10 years) with either mild (33%) or moderate or severe (67%) disease[15] observed that exposure to corticosteroids for more than 6 months was associated with abnormal growth velocity after 1 year (odds ratio, 4.5 [95% CI, 2.2-9.6]), infliximab did not have a statistically significant effect.",
+      "citation_number": 39,
+      "ref_text": "Walters TD, Kim MO, Denson LA, ; PRO-KIIDS Research Group. Increased effectiveness of early therapy with anti-tumor necrosis factor-α vs an immunomodulator in children with Crohn’s disease. Gastroenterology. 2014;146(2):383-391. doi:10.1053/j.gastro.2013.10.027 24162032",
+      "doi": "10.1053/j.gastro.2013.10.027",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The results of this study corroborate previous findings that also observed an improvement in growth impairment after diagnosis, which may be a result of the treatment used.[39],[40] Although a study that evaluated the growth of 176 children with newly diagnosed CD (mean age, 10 years) with either mild (33%) or moderate or severe (67%) disease[15] observed that exposure to corticosteroids for more than 6 months was associated with abnormal growth velocity after 1 year (odds ratio, 4.5 [95% CI, 2.2-9.6]), infliximab did not have a statistically significant effect.",
+      "citation_number": 40,
+      "ref_text": "Matar M, Shamir R, Lev-Zion R, . The effect of adalimumab treatment on linear growth in children with Crohn disease: a post-hoc analysis of the PAILOT randomized control trial. J Pediatr Gastroenterol Nutr. 2020;71(2):237-242. doi:10.1097/MPG.0000000000002728 32324651",
+      "doi": "10.1097/MPG.0000000000002728",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In contrast, studies conducted in the Swedish and Canadian populations found no association of the systemic use of corticosteroids with growth impairment.[9],[26] In our study, systemic corticosteroid was the second-most commonly used medication in the first year after diagnosis for CD and UC, which may provide an explanation for the apparent normalization of anthropometric measurements, particularly in UC, in the first year following diagnosis.",
+      "citation_number": 9,
+      "ref_text": "Duchatellier CF, Kumar R, Krupoves A, Braegger C, Herzog D, Amre DK. Steroid administration and growth impairment in children with Crohn’s disease. Inflamm Bowel Dis. 2016;22(2):355-363. doi:10.1097/MIB.0000000000000669 26752463",
+      "doi": "10.1097/MIB.0000000000000669",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In contrast, studies conducted in the Swedish and Canadian populations found no association of the systemic use of corticosteroids with growth impairment.[9],[26] In our study, systemic corticosteroid was the second-most commonly used medication in the first year after diagnosis for CD and UC, which may provide an explanation for the apparent normalization of anthropometric measurements, particularly in UC, in the first year following diagnosis.",
+      "citation_number": 26,
+      "ref_text": "Mouratidou N, Malmborg P, Sachs MC, . Adult height in patients with childhood-onset inflammatory bowel disease: a nationwide population-based cohort study. Aliment Pharmacol Ther. 2020;51(8):789-800. doi:10.1111/apt.15667 32133656",
+      "doi": "10.1111/apt.15667",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "By using the full sample to create our own reference, we minimized the risk of introducing errors in the estimates, which may occur if using the general national reference since this is based on 6-year intervals, which may affect the final z score intervals.[19] The study also has limitations to consider.",
+      "citation_number": 19,
+      "ref_text": "Borghi E, de Onis M, Garza C, ; WHO Multicentre Growth Reference Study Group. Construction of the World Health Organization child growth standards: selection of methods for attained growth curves. Stat Med. 2006;25(2):247-265. doi:10.1002/sim.2227 16143968",
+      "doi": "10.1002/sim.2227",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    }
+  ]
+}

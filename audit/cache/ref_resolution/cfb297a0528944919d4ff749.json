@@ -1,0 +1,2251 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2026-06-29T13:36:42Z",
+      "timestamp": 1782740202199,
+      "version": "3.54.5"
+    },
+    "reference-count": 41,
+    "publisher": "Elsevier BV",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2021-11-01T00:00:00Z",
+          "timestamp": 1635724800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2021-11-01T00:00:00Z",
+          "timestamp": 1635724800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              10
+            ]
+          ],
+          "date-time": "2021-09-10T00:00:00Z",
+          "timestamp": 1631232000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Indian Heart Journal"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ihj.2021.09.008",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2021-09-16T02:34:49Z",
+      "timestamp": 1631759689000
+    },
+    "page": "711-717",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 25,
+    "title": [
+      "Changing spectrum of infective endocarditis in India: An 11-year experience from an academic hospital in North India"
+    ],
+    "prefix": "10.1016",
+    "volume": "73",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4507-2468",
+        "authenticated-orcid": false,
+        "given": "Navneet",
+        "family": "Arora",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Prashant Kumar",
+        "family": "Panda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5971-9816",
+        "authenticated-orcid": false,
+        "given": "Pruthvi",
+        "family": "CR",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lipi",
+        "family": "Uppal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Atul",
+        "family": "Saroch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Archana",
+        "family": "Angrup",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Navneet",
+        "family": "Sharma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yash Paul",
+        "family": "Sharma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rajesh",
+        "family": "Vijayvergiya",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Manoj Kumar",
+        "family": "Rohit",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ankur",
+        "family": "Gupta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bhupinder Kumar",
+        "family": "Sihag",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Himanshu",
+        "family": "Gupta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Neelam",
+        "family": "Dahiya",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ajay",
+        "family": "Bahl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8151-6452",
+        "authenticated-orcid": false,
+        "given": "Parminder",
+        "family": "Singh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Saurabh",
+        "family": "Mehrotra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Parag",
+        "family": "Barwad",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4476-3478",
+        "authenticated-orcid": false,
+        "given": "Ashok Kumar",
+        "family": "Pannu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "6",
+        "key": "10.1016/j.ihj.2021.09.008_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "567",
+        "DOI": "10.1056/NEJMcp2000400",
+        "article-title": "Native-valve infective endocarditis",
+        "volume": "383",
+        "author": "Chambers",
+        "year": "2020",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ihj.2021.09.008_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1001/jama.2018.7596",
+        "article-title": "Management considerations in infective endocarditis: a review",
+        "volume": "320",
+        "author": "Wang",
+        "year": "2018",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ihj.2021.09.008_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "325",
+        "DOI": "10.1016/j.jacc.2016.10.066",
+        "article-title": "Challenges in infective endocarditis",
+        "volume": "69",
+        "author": "Cahill",
+        "year": "2017",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "issue": "25",
+        "key": "10.1016/j.ihj.2021.09.008_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "2067",
+        "DOI": "10.1161/CIRCULATIONAHA.119.044913",
+        "article-title": "Incidence, Microbiology, and outcomes in patients hospitalized with infective endocarditis",
+        "volume": "141",
+        "author": "Shah",
+        "year": "2020",
+        "journal-title": "Circulation"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ihj.2021.09.008_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1001/archinternmed.2008.603",
+        "volume": "169",
+        "author": "Murdoch",
+        "year": "2009",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ihj.2021.09.008_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "276",
+        "DOI": "10.1093/clinids/22.2.276",
+        "article-title": "Infective endocarditis: review of 135 cases over 9 years",
+        "volume": "22",
+        "author": "Sandre",
+        "year": "1996",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ihj.2021.09.008_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "571",
+        "DOI": "10.1136/hrt.2003.032128",
+        "article-title": "Infective endocarditis in Europe: lessons from the Euro heart survey",
+        "volume": "91",
+        "author": "Tornos",
+        "year": "2005",
+        "journal-title": "Heart"
+      },
+      {
+        "issue": "21",
+        "key": "10.1016/j.ihj.2021.09.008_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "2454",
+        "DOI": "10.1001/archinte.1996.00440200072008",
+        "article-title": "Endocarditis in an urban hospital in the 1990s",
+        "volume": "156",
+        "author": "Siddiq",
+        "year": "1996",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "24",
+        "key": "10.1016/j.ihj.2021.09.008_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "3022",
+        "DOI": "10.1001/jama.293.24.3022",
+        "article-title": "Temporal trends in infective endocarditis: a population-based study in Olmsted County, Minnesota",
+        "volume": "293",
+        "author": "Tleyjeh",
+        "year": "2005",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ihj.2021.09.008_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.7326/M18-2124",
+        "article-title": "Trends in drug use-associated infective endocarditis and heart valve surgery, 2007 to 2017: a study of statewide discharge data",
+        "volume": "170",
+        "author": "Schranz",
+        "year": "2019",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ihj.2021.09.008_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1001/jama.288.1.75",
+        "article-title": "Association pour l'Etude et la Prévention de l'EndocarditeInfectieuse (AEPEI) Study Group. Changing profile of infective endocarditis: results of a 1-year survey in France",
+        "volume": "288",
+        "author": "Hoen",
+        "year": "2002",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "issue": "24",
+        "key": "10.1016/j.ihj.2021.09.008_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "3012",
+        "DOI": "10.1001/jama.293.24.3012",
+        "article-title": "ICE Investigators. Staphylococcus aureus endocarditis: a consequence of medical progress",
+        "volume": "293",
+        "author": "Fowler",
+        "year": "2005",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.ihj.2021.09.008_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1230",
+        "DOI": "10.1093/cid/cis199",
+        "article-title": "Preeminence of Staphylococcus aureus in infective endocarditis: a 1-year population-based survey",
+        "volume": "54",
+        "author": "Selton-Suty",
+        "year": "2012",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.ihj.2021.09.008_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.1001/archinternmed.2011.1027",
+        "article-title": "Increasing US rates of endocarditis with Staphylococcus aureus: 1999-2008",
+        "volume": "172",
+        "author": "Federspiel",
+        "year": "2012",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "18",
+        "key": "10.1016/j.ihj.2021.09.008_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1453",
+        "DOI": "10.1016/0002-9149(92)90299-E",
+        "article-title": "Active infective endocarditis observed in an Indian hospital 1981-1991",
+        "volume": "70",
+        "author": "Choudhury",
+        "year": "1992",
+        "journal-title": "Am J Cardiol"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ihj.2021.09.008_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1016/j.ijcard.2003.10.043",
+        "article-title": "Characteristics of infective endocarditis in a developing country-clinical profile and outcome in 192 Indian patients, 1992-2001",
+        "volume": "98",
+        "author": "Garg",
+        "year": "2005",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ihj.2021.09.008_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1016/j.ahj.2011.07.014",
+        "article-title": "Prospective study of infective endocarditis from a developing country",
+        "volume": "162",
+        "author": "Math",
+        "year": "2011",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ihj.2021.09.008_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.4103/0019-5359.97358",
+        "article-title": "Epidemiology of infective endocarditis in Chennai, South India",
+        "volume": "64",
+        "author": "Senthilkumar",
+        "year": "2010",
+        "journal-title": "Indian J Med Sci"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.ihj.2021.09.008_bib19",
+        "first-page": "60",
+        "article-title": "Profile of infective endocarditis: at a tertiary care referral centre",
+        "volume": "66",
+        "author": "V R",
+        "year": "2018",
+        "journal-title": "J Assoc Phys India"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.ihj.2021.09.008_bib20",
+        "first-page": "257",
+        "article-title": "Clinicomicrobiological spectrum of infective endocarditis - from a tertiary care centre in south India",
+        "volume": "9",
+        "author": "Padmaja",
+        "year": "2017",
+        "journal-title": "Iran J Microbiol"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.ihj.2021.09.008_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "547",
+        "DOI": "10.1016/j.ihj.2020.09.014",
+        "article-title": "Clinical characteristics and outcome of infective endocarditis among intravenous drug abusers in India",
+        "volume": "72",
+        "author": "Goyal",
+        "year": "2020",
+        "journal-title": "Indian Heart J"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ihj.2021.09.008_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.4103/0972-5229.117041",
+        "article-title": "Infective endocarditis in an Indian setup: are we entering the ‘modern’ era?",
+        "volume": "17",
+        "author": "Gupta",
+        "year": "2013",
+        "journal-title": "Indian J Crit Care Med"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ihj.2021.09.008_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1016/j.ihj.2018.12.007",
+        "article-title": "Current status of rheumatic heart disease in India",
+        "volume": "71",
+        "author": "Negi",
+        "year": "2019",
+        "journal-title": "Indian Heart J"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.ihj.2021.09.008_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1075",
+        "DOI": "10.1007/s13312-018-1445-7",
+        "article-title": "Congenital heart disease in India: a status report",
+        "volume": "55",
+        "author": "Saxena",
+        "year": "2018",
+        "journal-title": "Indian Pediatr"
+      },
+      {
+        "key": "10.1016/j.ihj.2021.09.008_bib25",
+        "series-title": "HIV Sentinel Surveillance 2016-2017: Technical Brief",
+        "year": "2017"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ihj.2021.09.008_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1086/313753",
+        "article-title": "Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis",
+        "volume": "30",
+        "author": "Li",
+        "year": "2000",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "22",
+        "key": "10.1016/j.ihj.2021.09.008_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "569",
+        "DOI": "10.15585/mmwr.mm6622a1",
+        "article-title": "Hospitalizations for endocarditis and associated health care costs among persons with diagnosed drug dependence - North Carolina, 2010-2015",
+        "volume": "66",
+        "author": "Fleischauer",
+        "year": "2017",
+        "journal-title": "MMWR Morb Mortal Wkly Rep"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ihj.2021.09.008_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "282",
+        "DOI": "10.1097/ADM.0000000000000572",
+        "article-title": "Long-term outcomes of injection drug-related infective endocarditis among people who inject drugs",
+        "volume": "14",
+        "author": "Suzuki",
+        "year": "2020",
+        "journal-title": "J Addiction Med"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ihj.2021.09.008_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "626",
+        "DOI": "10.1016/0002-9343(87)90890-4",
+        "article-title": "Infective endocarditis: clinical features in young and elderly patients",
+        "volume": "83",
+        "author": "Terpenning",
+        "year": "1987",
+        "journal-title": "Am J Med"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ihj.2021.09.008_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "258",
+        "DOI": "10.1136/heart.89.3.258",
+        "article-title": "Blood culture negative endocarditis: analysis of 63 cases presenting over 25 years",
+        "volume": "89",
+        "author": "Lamas",
+        "year": "2003",
+        "journal-title": "Heart"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.ihj.2021.09.008_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1354",
+        "DOI": "10.1001/jama.297.12.1354",
+        "article-title": "International Collaboration on Endocarditis-Prospective Cohort Study Investigators. Contemporary clinical profile and outcome of prosthetic valve endocarditis",
+        "volume": "297",
+        "author": "Wang",
+        "year": "2007",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.ihj.2021.09.008_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "720",
+        "DOI": "10.1161/CIRCULATIONAHA.120.046723",
+        "article-title": "Prevalence of infective endocarditis in streptococcal bloodstream infections is dependent on streptococcal species",
+        "volume": "142",
+        "author": "Chamat-Hedemand",
+        "year": "2020",
+        "journal-title": "Circulation"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.ihj.2021.09.008_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "759",
+        "DOI": "10.1016/j.amjmed.2005.02.020",
+        "article-title": "Enterococcal endocarditis: 107 cases from the international collaboration on endocarditis merged database",
+        "volume": "118",
+        "author": "McDonald",
+        "year": "2005",
+        "journal-title": "Am J Med"
+      },
+      {
+        "issue": "15",
+        "key": "10.1016/j.ihj.2021.09.008_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1435",
+        "DOI": "10.1161/CIR.0000000000000296",
+        "volume": "132",
+        "author": "Baddour",
+        "year": "2015",
+        "journal-title": "Circulation"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.ihj.2021.09.008_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "821",
+        "DOI": "10.7326/0003-4819-113-11-821",
+        "article-title": "Emergence of recreational drug abuse as a major risk factor for stroke in young adults",
+        "volume": "113",
+        "author": "Kaku",
+        "year": "1990",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "issue": "18",
+        "key": "10.1016/j.ihj.2021.09.008_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "2781",
+        "DOI": "10.1001/archinte.160.18.2781",
+        "article-title": "Neurologic manifestations of infective endocarditis: a 17-year experience in a teaching hospital in Finland",
+        "volume": "160",
+        "author": "Heiro",
+        "year": "2000",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.ihj.2021.09.008_bib37",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/jamanetworkopen.2018.5220",
+        "article-title": "Clinical characteristics and factors associated with mortality in first-episode infective endocarditis among persons who inject drugs",
+        "volume": "1",
+        "author": "Rodger",
+        "year": "2018",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "issue": "15",
+        "key": "10.1016/j.ihj.2021.09.008_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "1933",
+        "DOI": "10.1001/jama.289.15.1933",
+        "article-title": "Complicated left-sided native valve endocarditis in adults: risk classification for mortality",
+        "volume": "289",
+        "author": "Hasbun",
+        "year": "2003",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ihj.2021.09.008_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "631",
+        "DOI": "10.1016/0735-1097(89)90104-6",
+        "article-title": "Echocardiography in infective endocarditis: reassessment of prognostic implications of vegetation size determined by the transthoracic and the transesophageal approach",
+        "volume": "14",
+        "author": "Mügge",
+        "year": "1989",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "issue": "26",
+        "key": "10.1016/j.ihj.2021.09.008_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "2466",
+        "DOI": "10.1056/NEJMoa1112843",
+        "article-title": "Early surgery versus conventional treatment for infective endocarditis",
+        "volume": "366",
+        "author": "Kang",
+        "year": "2012",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.ihj.2021.09.008_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "618",
+        "DOI": "10.1136/hrt.2003.029967",
+        "article-title": "Indications and optimal timing for surgery in infective endocarditis",
+        "volume": "90",
+        "author": "Delahaye",
+        "year": "2004",
+        "journal-title": "Heart"
+      }
+    ],
+    "container-title": [
+      "Indian Heart Journal"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0019483221001954?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0019483221001954?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2025-09-17T03:55:22Z",
+      "timestamp": 1758081322000
+    },
+    "score": 94.24035,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0019483221001954"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          11
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0019483221001954"
+    ],
+    "URL": "https://doi.org/10.1016/j.ihj.2021.09.008",
+    "ISSN": [
+      "0019-4832"
+    ],
+    "issn-type": [
+      {
+        "value": "0019-4832",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Changing spectrum of infective endocarditis in India: An 11-year experience from an academic hospital in North India",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Indian Heart Journal",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ihj.2021.09.008",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 Cardiological Society of India. Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2025-09-18T10:10:53Z",
+      "timestamp": 1758190253916,
+      "version": "3.44.0"
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2022-11-11T00:00:00Z",
+          "timestamp": 1668124800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 10,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Indian Heart Journal"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ihj.2022.10.014",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2022-11-11T16:47:40Z",
+      "timestamp": 1668185260000
+    },
+    "page": "S31-S32",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S1",
+    "title": [
+      "Changing Trends of Infective Endocarditis in India: A Western India Experience from Tertiary Care Centre"
+    ],
+    "prefix": "10.1016",
+    "volume": "74",
+    "author": [
+      {
+        "given": "Pratik Satyajit",
+        "family": "Wadhokar",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sridevi",
+        "family": "Chigullapalli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Susheel K.",
+        "family": "Malani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Indian Heart Journal"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0019483222001754?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0019483222001754?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2025-09-17T03:55:47Z",
+      "timestamp": 1758081347000
+    },
+    "score": 60.819878,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0019483222001754"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S0019483222001754"
+    ],
+    "URL": "https://doi.org/10.1016/j.ihj.2022.10.014",
+    "ISSN": [
+      "0019-4832"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0019-4832"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Changing Trends of Infective Endocarditis in India: A Western India Experience from Tertiary Care Centre",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Indian Heart Journal",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ihj.2022.10.014",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2022 Published by Elsevier, a division of RELX India, Pvt. Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2025-09-18T10:13:12Z",
+      "timestamp": 1758190392265,
+      "version": "3.44.0"
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2022-11-01T00:00:00Z",
+          "timestamp": 1667260800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              11
+            ]
+          ],
+          "date-time": "2022-11-11T00:00:00Z",
+          "timestamp": 1668124800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 10,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Indian Heart Journal"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ihj.2022.10.056",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2022-11-11T16:48:50Z",
+      "timestamp": 1668185330000
+    },
+    "page": "S49-S50",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S1",
+    "title": [
+      "Clinico-Microbiological Spectrum Of Infective Endocarditis In Patients From A Tertiary Care In Central India"
+    ],
+    "prefix": "10.1016",
+    "volume": "74",
+    "author": [
+      {
+        "given": "Nitesh",
+        "family": "Arora",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Preeti",
+        "family": "Motiyani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Raghvendra Singh",
+        "family": "Meena",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Indian Heart Journal"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0019483222002176?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0019483222002176?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2025-09-17T03:55:53Z",
+      "timestamp": 1758081353000
+    },
+    "score": 59.293026,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0019483222002176"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S0019483222002176"
+    ],
+    "URL": "https://doi.org/10.1016/j.ihj.2022.10.056",
+    "ISSN": [
+      "0019-4832"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0019-4832"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Clinico-Microbiological Spectrum Of Infective Endocarditis In Patients From A Tertiary Care In Central India",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Indian Heart Journal",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ihj.2022.10.056",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2022 Published by Elsevier, a division of RELX India, Pvt. Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          12
+        ]
+      ],
+      "date-time": "2025-12-12T18:29:31Z",
+      "timestamp": 1765564171084,
+      "version": "3.48.0"
+    },
+    "reference-count": 13,
+    "publisher": "World Wide Journals",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "IJAR"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:p>Infective endocarditis is one of the prevalent diseases in india which effects heart endothelium, which is quite prevalent in india and other developing countries, this study highlights the clinic-microbiological parameters of patients with infective endocarditis presenting in a tertiary care institute in India. Materials and methods: A retrospective study based on evaluation and systematic review of 118 patients admitted in department of cardiology, Gandhi Medical College, Bhopal of Definitely diagnosed infective endocarditis, based on modified dukes criteria(1). The demographic Details of patients such as age, sex, clinical findings, prior antibiotic usage were noted along with three sets of blood cultures were sent for microbiological profile. The specimens were processed using  BACTec 9240 automated system. Results : the mean age being 30 years, ranging between 20-70 years, with major of the age group being 41- 50 years.(table 1) with male predominance (M:F 1.4:1).  Most of the Patients presented with complain of fever(67.7%,n=80),  infective emboli (17.7%,n=21). Majority of the patients had Native valve endocarditis(83.05%,n=98){ 25.5%(n=25.5)  culture positive Vs 74.4%(n=73) culture negative} and  16.9%(n=20) had prosthetic valve endocarditis{  65% (n=13) were culture positive Vs 35%(n=7)  culture negative} with most common underlying heart conditions being rheumatic heart disease77.9%(n=92), prosthetic heart valve 16.9%(n=20), ASD 1.6%(n=2), VSD 3.3%(n=4). The most common valve involved as mitral valve(50%, n=59) followed by aortic(28%,n=23.7), tricuspid (17.7%n=21) and lastly pulmonary valve(8.4%, n=10).The microbiological spectra noted in NVE culture positive cases the most common organism isolated were Streptococcus mitis(36% n=9), Streptococcus sanguinis(12%,n=3),Streptococcus pyogenes (12%n=3). Whereas in PVE culture positive cases the most common organism isolated were Methicillin Resistant Staphylococcus aureus (MRSA) (30.7%,n=4), Methicillin susceptible Staphylococcus aureus (MSSA)\t(30.7%, n=4), Methicillin Resistant Coagulase negative Staphylococcus (MRCONS) (23.0,n=3),Streptococcus pyogenes(15.3%n=2).</jats:p>",
+    "DOI": "10.36106/ijar/9201050",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          5
+        ]
+      ],
+      "date-time": "2020-12-05T05:55:24Z",
+      "timestamp": 1607147724000
+    },
+    "page": "26-27",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "CLINICO-MICROBIOLOGICAL SPECTRUM OF INFECTIVE ENDOCARDITIS IN PATIENTS FROM A TERTIARY CARE IN CENTRAL INDIA"
+    ],
+    "prefix": "10.36106",
+    "author": [
+      {
+        "suffix": "Dr",
+        "given": "Mamta",
+        "family": "Meena",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "MD Microbiology, Assistant Professor, Department Of Microbiology, Gandhi Medical College, Bhopal"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "suffix": "Dr",
+        "given": "Nitesh",
+        "family": "Arora",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "MD General Medicine, Senior resident, Department of Cardiology, Gandhi Medical College, Bhopal."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "suffix": "Dr",
+        "given": "Raghvendra Singh",
+        "family": "Meena",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DM Cardiology, Assistant Professor, Department of Cardiology, Bhopal."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "21849",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref0",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Li JS, Sexton DJ, Mick N, Nettles R, Fowler VG Jr, Ryan T, Bashore T, Corey GR. Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis. Clin Infect Dis. 2000 Apr;30(4):633-8. doi: 10.1086/313753. Epub 2000 Apr 3. PMID: 10770721.",
+        "DOI": "10.1086/313753"
+      },
+      {
+        "key": "ref1",
+        "unstructured": "Kucukates E, Gultekin N, Bagdatli Y. Cases of active infective endocarditis in a university hospital during a 10-year period. J Pak Med Assoc 2013;63:1163–1167. [PubMed] [Google Scholar]"
+      },
+      {
+        "key": "ref2",
+        "unstructured": "Khan NU, Farman MT, Sial JA, Achakzai AS, Saghir T, Ishaq M. Changing trends of infective endocarditis. J Pak Med Assoc 2010;60:24–27. [PubMed] [Google Scholar]"
+      },
+      {
+        "key": "ref3",
+        "unstructured": "Agca FV, Demircan N, Peker T, Ari H, Karaagac K, Ozluk OA, et al. Infective endocarditis: a tertiary referral centre experience from Turkey. Int J Clin Exp Med 2015;8:13962–13968. [PMC free article] [PubMed] [Google Scholar]"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Nunes MC, Gelape CL, Ferrari TC. Profile of infective endocarditis at a tertiary care center in Brazil during a seven-year period: prognostic factors and in-hospital outcome. Int J Infect Dis 2010;14:e394–398. [PubMed] [Google Scholar]",
+        "DOI": "10.1016/j.ijid.2009.06.024"
+      },
+      {
+        "key": "ref5",
+        "unstructured": "Kothari SS, Ramakrishnan S, Bahl VK. Infective endocarditis--an Indian perspective. Indian Heart J 2005; 57: 289–294. [PubMed] [Google Scholar]"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Jain SR, Prajapati JS, Phasalkar MA, Roy BH, Jayram AA, Shah SR, Singh T, et al. Clinical spectrum of infective endocarditis in a tertiary care centre in western India: A prospective study. IJCM 2014;5:177–187. [Google Scholar]",
+        "DOI": "10.4236/ijcm.2014.55031"
+      },
+      {
+        "key": "ref7",
+        "unstructured": "Tuğcu A, Yildirimtürk O, Baytaroğlu C, Kurtoğlu H, Köse O, Sener M, et al. Clinical spectrum, presentation, and risk factors for mortality in infective endocarditis: a review of 68 cases at a tertiary care center in Turkey. Turk Kardiyol Dern Ars 2009;37:9–18. [PubMed] [Google Scholar]"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Hosseini SM, Bakhshian R, Moshkani Farahani M, Abdar Esfahani M, Bahrami A, Sate A. An observational study on infective endocarditis: A single center experience. Res Cardiovasc Med 2014;3(4):e18423. [PMC free article] [PubMed] [Google Scholar]",
+        "DOI": "10.5812/cardiovascmed.18423"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Senthilkumar S, Menon T, Subramanian G. Epidemiology of infective endocarditis in Chennai, South India. Indian J Med Sci 2010;64:187–191. [PubMed] [Google Scholar]",
+        "DOI": "10.4103/0019-5359.97358"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Loupa C, Mavroidi N, Boutsikakis I, Paniara O, Deligarou O, Manoli H, et al. Infective endocarditis in Greece: a changing profile. Epidemiological, microbiological and therapeutic data. Clin Microbiol Infect 2004;10:556–561. [PubMed] [Google Scholar]",
+        "DOI": "10.1111/j.1469-0691.2004.00884.x"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Murdoch DR, Corey GR, Hoen B, Miró JM, Fowler VG, Bayer AS, et al. Clinical presentation, etiology, and outcome of infective endocarditis in the 21st century. Arch Intern Med 2009;169:463–473. [PMC free article] [PubMed] [Google Scholar]",
+        "DOI": "10.1001/archinternmed.2008.603"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Siddiqui BK, Tariq M, Jadoon A, Alam M, Murtaza G, Abid B, et al. Impact of prior antibiotic use in culture-negative endocarditis: review of 86 cases from southern Pakistan. Int J Infect Dis 2009;13:606–612. [PubMed] [Google Scholar]",
+        "DOI": "10.1016/j.ijid.2007.10.009"
+      }
+    ],
+    "container-title": [
+      "INDIAN JOURNAL OF APPLIED RESEARCH"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          12
+        ]
+      ],
+      "date-time": "2025-12-12T18:08:57Z",
+      "timestamp": 1765562937000
+    },
+    "score": 51.82724,
+    "resource": {
+      "primary": {
+        "URL": "https://www.worldwidejournals.com/indian-journal-of-applied-research-(IJAR)/recent_issues_pdf/2020/November/clinicomicrobiological-spectrum-of-infective-endocarditis-in-patients-from-a-tertiary-care-in-central-india_November_2020_3144026140_9201050.pdf"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          1
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.36106/ijar/9201050",
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          16
+        ]
+      ],
+      "date-time": "2026-02-16T17:48:12Z",
+      "timestamp": 1771264092015,
+      "version": "3.50.1"
+    },
+    "reference-count": 30,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2018-03-01T00:00:00Z",
+          "timestamp": 1519862400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              6,
+              2
+            ]
+          ],
+          "date-time": "2017-06-02T00:00:00Z",
+          "timestamp": 1496361600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.jp",
+        "clinicalkey.com",
+        "clinicalkey.es",
+        "clinicalkey.com.au",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Indian Heart Journal"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ihj.2017.08.007",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          17
+        ]
+      ],
+      "date-time": "2017-08-17T01:15:20Z",
+      "timestamp": 1502932520000
+    },
+    "page": "259-265",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+      "Clinical – microbiological characterization and risk factors of mortality in infective endocarditis from a tertiary care academic hospital in Southern India"
+    ],
+    "prefix": "10.1016",
+    "volume": "70",
+    "author": [
+      {
+        "given": "Prasanna",
+        "family": "Subbaraju",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shipra",
+        "family": "Rai",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jwalit",
+        "family": "Morakhia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Geet",
+        "family": "Midha",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Asha",
+        "family": "Kamath",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kavitha",
+        "family": "Saravu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1141",
+        "DOI": "10.1161/CIRCULATIONAHA.108.773598",
+        "article-title": "Surgery for infective endocarditis",
+        "volume": "121",
+        "author": "Prendergast",
+        "year": "2010",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "322",
+        "DOI": "10.1038/nrcardio.2011.43",
+        "article-title": "Infective endocarditis",
+        "volume": "8",
+        "author": "Que",
+        "year": "2011",
+        "journal-title": "Nat Rev Cardiol"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "196",
+        "DOI": "10.1093/eurheartj/ehl427",
+        "article-title": "Infective endocarditis: changing epidemiology and predictors of 6-month mortality: a prospective cohort study",
+        "volume": "28",
+        "author": "Hill",
+        "year": "2007",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "879",
+        "DOI": "10.1136/hrt.2005.067256",
+        "article-title": "The changing face of infective endocarditis",
+        "volume": "92",
+        "author": "Prendergast",
+        "year": "2006",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "177",
+        "DOI": "10.4236/ijcm.2014.55031",
+        "article-title": "Clinical spectrum of infective endocarditis in a tertiary care centre in western India: a prospective study",
+        "volume": "5",
+        "author": "Jain",
+        "year": "2014",
+        "journal-title": "Int J Clin Med"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "334",
+        "DOI": "10.1136/bmj.333.7563.334",
+        "article-title": "Infective endocarditis",
+        "volume": "333",
+        "author": "Beynon",
+        "year": "2006",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "489",
+        "DOI": "10.1016/j.athoracsur.2011.10.063",
+        "article-title": "Outcomes after surgical treatment of native and prosthetic valve infective endocarditis",
+        "volume": "93",
+        "author": "Manne",
+        "year": "2012",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "1025",
+        "DOI": "10.1378/chest.06-2048",
+        "article-title": "A systematic review of population-based studies of infective endocarditis",
+        "volume": "132",
+        "author": "Tleyjeh",
+        "year": "2007",
+        "journal-title": "Chest"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0045",
+        "first-page": "72",
+        "article-title": "Prevalence of rheumatic heart disease: has it declined in India",
+        "volume": "22",
+        "author": "Ramakrishnan",
+        "year": "2009",
+        "journal-title": "Natl Med J India"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "100",
+        "DOI": "10.1016/j.amjcard.2014.04.010",
+        "article-title": "Echocardiographic findings suggestive of infective endocarditis in asymptomatic Danish injection drug users attending urban injection facilities",
+        "volume": "114",
+        "author": "Axelsson",
+        "year": "2014",
+        "journal-title": "Am J Cardiol"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "1168",
+        "DOI": "10.3201/eid1407.071374",
+        "article-title": "Bartonella quintana and Coxiella burnetii as causes of endocarditis, India",
+        "volume": "14",
+        "author": "Balakrishnan",
+        "year": "2008",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1086/313753",
+        "article-title": "Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis",
+        "volume": "30",
+        "author": "Li",
+        "year": "2000",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0065",
+        "volume": "Vol. 32",
+        "author": "Clinical and Laboratory Standards Institute",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0070",
+        "series-title": "Harrison’s principles of internal medicine",
+        "first-page": "789",
+        "article-title": "Infective endocarditis",
+        "author": "Adolf Karchmer",
+        "year": "2008"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "367",
+        "DOI": "10.1007/s11908-012-0265-5",
+        "article-title": "Global trends in infective endocarditis epidemiology",
+        "volume": "14",
+        "author": "Yew",
+        "year": "2012",
+        "journal-title": "Curr Infect Dis Rep"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1080/09674845.2010.11730290",
+        "article-title": "Infective endocarditis: changing aetiology of disease",
+        "volume": "67",
+        "author": "Fitzsimmons",
+        "year": "2009",
+        "journal-title": "Br J Biomed Sci"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1001/archinternmed.2008.603",
+        "article-title": "Clinical presentation, etiology, and outcome of infective endocarditis in the 21 st century: the International Collaboration on Endocarditis-Prospective Cohort Study",
+        "volume": "169",
+        "author": "Murdoch",
+        "year": "2009",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/j.jjcc.2013.06.007",
+        "article-title": "Clinical features of infective endocarditis: comparison between the 1990 and 2000",
+        "volume": "63",
+        "author": "Nakagawa",
+        "year": "2014",
+        "journal-title": "J Cardiol"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1016/j.ahj.2011.07.014",
+        "article-title": "Prospective study of infective endocarditis from a developing country",
+        "volume": "162",
+        "author": "Math",
+        "year": "2011",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1016/j.ijcard.2003.10.043",
+        "article-title": "Characteristics of infective endocarditis in a developing country-clinical profile and outcome in 192 Indian patients, 1992–2001",
+        "volume": "98",
+        "author": "Garg",
+        "year": "2005",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.4103/0019-5359.97358",
+        "article-title": "Epidemiology of infective endocarditis in Chennai, South India",
+        "volume": "64",
+        "author": "Senthilkumar",
+        "year": "2010",
+        "journal-title": "Indian J Med Sci"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "2095",
+        "DOI": "10.1001/archinte.168.19.2095",
+        "article-title": "Current features of infective endocarditis in elderly patients: results of the International Collaboration on Endocarditis Prospective Cohort Study",
+        "volume": "168",
+        "author": "Durante-Mangoni",
+        "year": "2008",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0115",
+        "series-title": "Infective endocarditis",
+        "first-page": "1",
+        "article-title": "Definitions and demographic characteristics",
+        "author": "Harris",
+        "year": "1992"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0120",
+        "first-page": "64",
+        "article-title": "Infective endocarditis at a tertiary care centre in Saudi Arabia: review of 47 cases over 10 years",
+        "volume": "13",
+        "author": "Nashmi",
+        "year": "2007",
+        "journal-title": "East Mediterr Health J"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "270",
+        "DOI": "10.1016/j.ijcard.2014.11.184",
+        "article-title": "Infective endocarditis in the Lao PDR: clinical characteristics and outcomes in a developing country",
+        "volume": "180",
+        "author": "Mirabel",
+        "year": "2015",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0130",
+        "first-page": "227",
+        "article-title": "Brucella endocarditis",
+        "volume": "1",
+        "author": "Roodpeyma",
+        "year": "2013",
+        "journal-title": "Arch Pediatr"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0135",
+        "first-page": "164",
+        "article-title": "Left-sided infective endocarditis caused by Pseudomonas aeruginosa treated medically",
+        "volume": "30",
+        "author": "Ordonez",
+        "year": "2010",
+        "journal-title": "Biomedica"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "516",
+        "DOI": "10.1016/j.jmii.2014.08.019",
+        "article-title": "Pseudomonas aeruginosa infective endocarditis in patients who do not use intravenous drugs: analysis of risk factors and treatment outcomes",
+        "volume": "49",
+        "author": "Lin",
+        "year": "2016",
+        "journal-title": "J Microbiol Immunol Infect"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1111/j.1574-695X.2006.00054.x",
+        "article-title": "New insight into the diagnosis of fastidious bacterial endocarditis",
+        "volume": "47",
+        "author": "Brouqui",
+        "year": "2006",
+        "journal-title": "FEMS Immunol Med Microbiol"
+      },
+      {
+        "key": "10.1016/j.ihj.2017.08.007_bib0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "1295",
+        "DOI": "10.1016/j.athoracsur.2006.09.093",
+        "article-title": "Predictors of death and impact of surgery in Staphylococcus aureus infective endocarditis",
+        "volume": "83",
+        "author": "Remadi",
+        "year": "2007",
+        "journal-title": "Ann Thorac Surg"
+      }
+    ],
+    "container-title": [
+      "Indian Heart Journal"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0019483217303905?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0019483217303905?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2018-08-28T13:50:06Z",
+      "timestamp": 1535464206000
+    },
+    "score": 50.558067,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0019483217303905"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0019483217303905"
+    ],
+    "URL": "https://doi.org/10.1016/j.ihj.2017.08.007",
+    "ISSN": [
+      "0019-4832"
+    ],
+    "issn-type": [
+      {
+        "value": "0019-4832",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Clinical – microbiological characterization and risk factors of mortality in infective endocarditis from a tertiary care academic hospital in Southern India",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Indian Heart Journal",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ihj.2017.08.007",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2017 Published by Elsevier B.V. on behalf of Cardiological Society of India.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

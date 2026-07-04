@@ -1,0 +1,2052 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2026-04-29T14:02:04Z",
+      "timestamp": 1777471324455,
+      "version": "3.51.4"
+    },
+    "reference-count": 0,
+    "publisher": "American Medical Association (AMA)",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "JAMA"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2000,
+          1,
+          19
+        ]
+      ]
+    },
+    "DOI": "10.1001/jama.283.3.354",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          3,
+          18
+        ]
+      ],
+      "date-time": "2003-03-18T15:05:58Z",
+      "timestamp": 1047999958000
+    },
+    "page": "354",
+    "source": "Crossref",
+    "is-referenced-by-count": 942,
+    "title": [
+      "Urinary and Sexual Function After Radical Prostatectomy for Clinically Localized Prostate Cancer"
+    ],
+    "prefix": "10.1001",
+    "volume": "283",
+    "author": [
+      {
+        "given": "Janet L.",
+        "family": "Stanford",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ziding",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ann S.",
+        "family": "Hamilton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Frank D.",
+        "family": "Gilliland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Robert A.",
+        "family": "Stephenson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J. William",
+        "family": "Eley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Peter C.",
+        "family": "Albertsen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Linda C.",
+        "family": "Harlan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Arnold L.",
+        "family": "Potosky",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "10",
+    "container-title": [
+      "JAMA"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://jamanetwork.com/journals/jama/fullarticle/192307",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          15
+        ]
+      ],
+      "date-time": "2016-12-15T18:43:41Z",
+      "timestamp": 1481827421000
+    },
+    "score": 140.74438,
+    "resource": {
+      "primary": {
+        "URL": "http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.283.3.354"
+      }
+    },
+    "subtitle": [
+      "The Prostate Cancer Outcomes Study"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000,
+          1,
+          19
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2000,
+            1,
+            19
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1001/jama.283.3.354",
+    "ISSN": [
+      "0098-7484"
+    ],
+    "issn-type": [
+      {
+        "value": "0098-7484",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2000,
+          1,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          12
+        ]
+      ],
+      "date-time": "2025-12-12T13:18:17Z",
+      "timestamp": 1765545497748
+    },
+    "reference-count": 24,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "5S",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2008-05-01T00:00:00Z",
+          "timestamp": 1209600000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2008.03.136",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          4,
+          9
+        ]
+      ],
+      "date-time": "2008-04-09T13:20:35Z",
+      "timestamp": 1207747235000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 79,
+    "title": [
+      "5-Year Urinary and Sexual Outcomes After Radical Prostatectomy: Results From the Prostate Cancer Outcomes Study"
+    ],
+    "prefix": "10.1097",
+    "volume": "179",
+    "author": [
+      {
+        "given": "David F.",
+        "family": "Penson",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dale",
+        "family": "McLerran",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle, Washington"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ziding",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle, Washington"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lin",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle, Washington"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Peter C.",
+        "family": "Albertsen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Connecticut, Farmington, Connecticut"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Frank D.",
+        "family": "Gilliland",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ann",
+        "family": "Hamilton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California, Los Angeles, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Richard M.",
+        "family": "Hoffman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico, Albuquerque, New Mexico"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Robert A.",
+        "family": "Stephenson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology, University of Utah School of Medicine, Salt Lake City, Utah"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Arnold L.",
+        "family": "Potosky",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Applied Research Program, Division of Cancer Control and Population Sciences, National Cancer Institute, Bethesda, Maryland"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Janet L.",
+        "family": "Stanford",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Public Health Sciences, Fred Hutchinson Cancer Research Center, Seattle, Washington"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr1",
+        "doi-asserted-by": "crossref",
+        "first-page": "790",
+        "DOI": "10.1056/NEJMoa021483",
+        "article-title": "Quality of life after radical prostatectomy or watchful waiting",
+        "volume": "347",
+        "author": "Steineck",
+        "year": "2002",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr2",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1016/S0022-5347(05)68578-3",
+        "article-title": "Potency, continence and complication rates in 1,870 consecutive radical retropubic prostatectomies",
+        "volume": "162",
+        "author": "Catalona",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1707",
+        "DOI": "10.1016/S0022-5347(01)65488-0",
+        "article-title": "Risk factors for urinary incontinence after radical prostatectomy",
+        "volume": "156",
+        "author": "Eastham",
+        "year": "1996",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr4",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/S0090-4295(99)00397-0",
+        "article-title": "Patient-reported urinary continence and sexual function after anatomic radical prostatectomy",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr5",
+        "doi-asserted-by": "crossref",
+        "first-page": "858",
+        "DOI": "10.1016/S0022-5347(05)67819-6",
+        "article-title": "Multicenter patient self-reporting questionnaire on impotence, incontinence and stricture after radical prostatectomy",
+        "volume": "163",
+        "author": "Kao",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr6",
+        "doi-asserted-by": "crossref",
+        "first-page": "503",
+        "DOI": "10.1016/S0090-4295(99)00172-7",
+        "article-title": "Sexual function and bother after radical prostatectomy or radiation for prostate cancer: multivariate quality-of-life analysis from CaPSURE",
+        "volume": "54",
+        "author": "Litwin",
+        "year": "1999",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1973",
+        "DOI": "10.1016/S0022-5347(05)66931-5",
+        "article-title": "Urinary function and bother after radical prostatectomy or radiation for prostate cancer: a longitudinal, multivariate quality of life analysis from the Cancer of the Prostate Strategic Urologic Research Endeavor",
+        "volume": "164",
+        "author": "Litwin",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1719",
+        "DOI": "10.1093/jnci/91.20.1719",
+        "article-title": "Prostate cancer practice patterns and quality of life: the Prostate Cancer Outcomes Study",
+        "volume": "91",
+        "author": "Potosky",
+        "year": "1999",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr9",
+        "doi-asserted-by": "crossref",
+        "first-page": "622",
+        "DOI": "10.1016/0090-4295(93)90524-E",
+        "article-title": "Patient-reported complications and follow-up treatment after radical prostatectomy",
+        "volume": "42",
+        "author": "Fowler",
+        "year": "1993",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1002",
+        "DOI": "10.1097/00005650-199807000-00007",
+        "article-title": "The UCLA Prostate Cancer Index: development, reliability, and validity of a health-related quality of life measure",
+        "volume": "36",
+        "author": "Litwin",
+        "year": "1998",
+        "journal-title": "Med Care"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr11",
+        "doi-asserted-by": "crossref",
+        "first-page": "275",
+        "DOI": "10.1200/JCO.1998.16.1.275",
+        "article-title": "Patient-reported symptoms after primary therapy for early prostate cancer: results of a prospective cohort study",
+        "volume": "16",
+        "author": "Talcott",
+        "year": "1998",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr12",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1093/biomet/73.1.13",
+        "article-title": "Longitudinal analysis using generalized linear models",
+        "volume": "73",
+        "author": "Liang",
+        "year": "1986",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr13",
+        "series-title": "Multiple Imputation for Nonresponse in Surveys",
+        "author": "Rubin",
+        "year": "1987"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr14",
+        "doi-asserted-by": "crossref",
+        "first-page": "651",
+        "DOI": "10.1111/j.1464-410X.1995.tb07426.x",
+        "article-title": "The effect of age, ethnicity and geographical location on impotence and quality of life",
+        "volume": "75",
+        "author": "Jonler",
+        "year": "1995",
+        "journal-title": "Br J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr15",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy: insight into etiology and prevention",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr16",
+        "doi-asserted-by": "crossref",
+        "first-page": "963",
+        "DOI": "10.1016/S0090-4295(98)00443-9",
+        "article-title": "Treatment of erectile dysfunction after radical prostatectomy with sildenafil citrate (Viagra)",
+        "volume": "52",
+        "author": "Zippe",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1614",
+        "DOI": "10.1016/S0022-5347(05)68179-7",
+        "article-title": "Sildenafil citrate after radical retropubic prostatectomy",
+        "volume": "162",
+        "author": "Lowentritt",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr18",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1016/S0090-4295(99)00441-0",
+        "article-title": "Role of Viagra after radical prostatectomy",
+        "volume": "55",
+        "author": "Zippe",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1619",
+        "DOI": "10.1200/JCO.2001.19.6.1619",
+        "article-title": "Health-related quality-of-life effects of radical prostatectomy and primary radiotherapy for screen-detected or clinically diagnosed localized prostate cancer",
+        "volume": "19",
+        "author": "Madalinska",
+        "year": "2001",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1291",
+        "DOI": "10.1097/01.ju.0000085341.63407.46",
+        "article-title": "Variation in continence and potency by definition",
+        "volume": "170",
+        "author": "Krupski",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr21",
+        "doi-asserted-by": "crossref",
+        "first-page": "744",
+        "DOI": "10.1016/S0022-5347(05)67294-1",
+        "article-title": "Prospective assessment of patient reported urinary continence after radical prostatectomy",
+        "volume": "164",
+        "author": "Wei",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr22",
+        "doi-asserted-by": "crossref",
+        "first-page": "847",
+        "DOI": "10.1097/00005650-200008000-00008",
+        "article-title": "Validation study of retrospective recall of disease-targeted function: results from the prostate cancer outcomes study",
+        "volume": "38",
+        "author": "Legler",
+        "year": "2000",
+        "journal-title": "Med Care"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr23",
+        "doi-asserted-by": "crossref",
+        "first-page": "774",
+        "DOI": "10.1093/aje/kwf110",
+        "article-title": "Use of multiple imputation to correct for nonresponse bias in a survey of urologic symptoms among African-American men",
+        "volume": "156",
+        "author": "Taylor",
+        "year": "2002",
+        "journal-title": "Am J Epidemiol"
+      },
+      {
+        "key": "10.1016/j.juro.2008.03.136_fr24",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.2165/00019053-199915020-00007",
+        "article-title": "Approaches to missing data inference results from CaPSURE: an observational study of patients with prostate cancer",
+        "volume": "15",
+        "author": "Lubeck",
+        "year": "1999",
+        "journal-title": "Pharmacoeconomics"
+      }
+    ],
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S0022534708007374?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S0022534708007374?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2008.03.136",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T01:33:14Z",
+      "timestamp": 1651195994000
+    },
+    "score": 82.627945,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2008.03.136"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          5
+        ]
+      ]
+    },
+    "references-count": 24,
+    "journal-issue": {
+      "issue": "5S",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2008.03.136"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2008.03.136",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2026-05-14T00:45:40Z",
+      "timestamp": 1778719540464,
+      "version": "3.51.4"
+    },
+    "reference-count": 32,
+    "publisher": "American Society of Clinical Oncology (ASCO)",
+    "issue": "9",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "JCO"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          5,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:p> PURPOSE: Studies reporting effects of radiotherapy for prostate cancer on sexual, bowel, and urinary function have been conducted primarily in referral centers or academic institutions. Effects of external-beam radiotherapy for prostate cancer among a population-based cohort were assessed. </jats:p><jats:p> PATIENTS AND METHODS: The study population included 497 white, Hispanic, and African-American men with localized prostate cancer from six US cancer registries who were diagnosed between October 1, 1994, and October 31, 1995, and treated initially with external-beam radiotherapy. They were interviewed at regular intervals, and medical records were reviewed. Distributions of responses for bowel-, urinary-, and sexual-related functions at 6, 12, and 24 months after diagnosis and adjusted mean composite change scores for each domain were analyzed. </jats:p><jats:p> RESULTS: Declines of 28.9% in the sexual function score and 5.4% in the bowel function score occurred by 24 months, whereas at this time, the urinary function score was relatively unchanged. A total of 43% of those who were potent before diagnosis became impotent after 24 months. More than two thirds of the men were satisfied with their treatment and would make the same decision again. </jats:p><jats:p> CONCLUSION: Sexual function was the most adversely affected quality-of-life domain, with problems continuing to increase between 12 and 24 months. Bowel function problems increased at 6 months, with partial resolution observed by 24 months. Despite the side effects, satisfaction with therapy was high. These results are representative of men in community practice settings and may be of assistance to men and to clinicians when making treatment decisions. </jats:p>",
+    "DOI": "10.1200/jco.2001.19.9.2517",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2017-02-24T06:55:01Z",
+      "timestamp": 1487919301000
+    },
+    "page": "2517-2526",
+    "source": "Crossref",
+    "is-referenced-by-count": 104,
+    "title": [
+      "Health Outcomes After External-Beam Radiation Therapy for Clinically Localized Prostate Cancer: Results From the Prostate Cancer Outcomes Study"
+    ],
+    "prefix": "10.1200",
+    "volume": "19",
+    "author": [
+      {
+        "given": "A. S.",
+        "family": "Hamilton",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "From the Keck School of Medicine of the University of Southern California, Department of Preventive Medicine, Los Angeles, CA; Fred Hutchinson Cancer Research Center, Seattle, WA; Division of Urology, University of Connecticut Health Center, Farmington, CT; Division of Urology, University of Utah School of Medicine, Salt Lake City, UT; Medicine Service, Department of Veterans Affairs Medical Center and New Mexico Tumor Registry, Albuquerque, NM; Georgia Center for Cancer Statistics, Rollins School of..."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J. L.",
+        "family": "Stanford",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Keck School of Medicine of the University of Southern California, Department of Preventive Medicine, Los Angeles, CA; Fred Hutchinson Cancer Research Center, Seattle, WA; Division of Urology, University of Connecticut Health Center, Farmington, CT; Division of Urology, University of Utah School of Medicine, Salt Lake City, UT; Medicine Service, Department of Veterans Affairs Medical Center and New Mexico Tumor Registry, Albuquerque, NM; Georgia Center for Cancer Statistics, Rollins School of..."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "F. D.",
+        "family": "Gilliland",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Keck School of Medicine of the University of Southern California, Department of Preventive Medicine, Los Angeles, CA; Fred Hutchinson Cancer Research Center, Seattle, WA; Division of Urology, University of Connecticut Health Center, Farmington, CT; Division of Urology, University of Utah School of Medicine, Salt Lake City, UT; Medicine Service, Department of Veterans Affairs Medical Center and New Mexico Tumor Registry, Albuquerque, NM; Georgia Center for Cancer Statistics, Rollins School of..."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P. C.",
+        "family": "Albertsen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Keck School of Medicine of the University of Southern California, Department of Preventive Medicine, Los Angeles, CA; Fred Hutchinson Cancer Research Center, Seattle, WA; Division of Urology, University of Connecticut Health Center, Farmington, CT; Division of Urology, University of Utah School of Medicine, Salt Lake City, UT; Medicine Service, Department of Veterans Affairs Medical Center and New Mexico Tumor Registry, Albuquerque, NM; Georgia Center for Cancer Statistics, Rollins School of..."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R. A.",
+        "family": "Stephenson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Keck School of Medicine of the University of Southern California, Department of Preventive Medicine, Los Angeles, CA; Fred Hutchinson Cancer Research Center, Seattle, WA; Division of Urology, University of Connecticut Health Center, Farmington, CT; Division of Urology, University of Utah School of Medicine, Salt Lake City, UT; Medicine Service, Department of Veterans Affairs Medical Center and New Mexico Tumor Registry, Albuquerque, NM; Georgia Center for Cancer Statistics, Rollins School of..."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R. M.",
+        "family": "Hoffman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Keck School of Medicine of the University of Southern California, Department of Preventive Medicine, Los Angeles, CA; Fred Hutchinson Cancer Research Center, Seattle, WA; Division of Urology, University of Connecticut Health Center, Farmington, CT; Division of Urology, University of Utah School of Medicine, Salt Lake City, UT; Medicine Service, Department of Veterans Affairs Medical Center and New Mexico Tumor Registry, Albuquerque, NM; Georgia Center for Cancer Statistics, Rollins School of..."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J. W.",
+        "family": "Eley",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Keck School of Medicine of the University of Southern California, Department of Preventive Medicine, Los Angeles, CA; Fred Hutchinson Cancer Research Center, Seattle, WA; Division of Urology, University of Connecticut Health Center, Farmington, CT; Division of Urology, University of Utah School of Medicine, Salt Lake City, UT; Medicine Service, Department of Veterans Affairs Medical Center and New Mexico Tumor Registry, Albuquerque, NM; Georgia Center for Cancer Statistics, Rollins School of..."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "L. C.",
+        "family": "Harlan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Keck School of Medicine of the University of Southern California, Department of Preventive Medicine, Los Angeles, CA; Fred Hutchinson Cancer Research Center, Seattle, WA; Division of Urology, University of Connecticut Health Center, Farmington, CT; Division of Urology, University of Utah School of Medicine, Salt Lake City, UT; Medicine Service, Department of Veterans Affairs Medical Center and New Mexico Tumor Registry, Albuquerque, NM; Georgia Center for Cancer Statistics, Rollins School of..."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A. L.",
+        "family": "Potosky",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Keck School of Medicine of the University of Southern California, Department of Preventive Medicine, Los Angeles, CA; Fred Hutchinson Cancer Research Center, Seattle, WA; Division of Urology, University of Connecticut Health Center, Farmington, CT; Division of Urology, University of Utah School of Medicine, Salt Lake City, UT; Medicine Service, Department of Veterans Affairs Medical Center and New Mexico Tumor Registry, Albuquerque, NM; Georgia Center for Cancer Statistics, Rollins School of..."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "233",
+    "reference": [
+      {
+        "key": "R1-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3322/canjclin.49.1.8"
+      },
+      {
+        "key": "R2-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM199401273300403"
+      },
+      {
+        "key": "R3-088480",
+        "unstructured": "Yarbro  CH,   Ferrans  CE:   Quality of life of patients with prostate cancer treated with surgery or radiation therapy.   Oncol Nurs Forum 25:  685,1998-693,"
+      },
+      {
+        "key": "R4-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0142(20000301)88:5<1122::AID-CNCR24>3.0.CO;2-Q"
+      },
+      {
+        "key": "R5-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(01)66881-2"
+      },
+      {
+        "key": "R6-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1200/JCO.1996.14.8.2258"
+      },
+      {
+        "key": "R7-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1200/JCO.1997.15.1.223"
+      },
+      {
+        "key": "R8-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(98)00549-4"
+      },
+      {
+        "key": "R9-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(98)00408-7"
+      },
+      {
+        "key": "R10-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0142(19970515)79:10<1977::AID-CNCR20>3.0.CO;2-R"
+      },
+      {
+        "key": "R11-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1995.03520260051032"
+      },
+      {
+        "key": "R12-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0360-3016(98)00475-1"
+      },
+      {
+        "key": "R13-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(99)00163-6"
+      },
+      {
+        "key": "R14-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jnci/91.20.1719"
+      },
+      {
+        "key": "R15-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.283.3.354"
+      },
+      {
+        "key": "R16-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1200/JCO.1998.16.1.275"
+      },
+      {
+        "key": "R17-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0090-4295(93)90524-E"
+      },
+      {
+        "key": "R18-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00005650-199807000-00007"
+      },
+      {
+        "key": "R19-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00005650-199206000-00002"
+      },
+      {
+        "key": "R21-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(99)00032-1"
+      },
+      {
+        "key": "R22-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0360-3016(98)00054-6"
+      },
+      {
+        "key": "R23-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(99)80458-0"
+      },
+      {
+        "key": "R24-088480",
+        "unstructured": "Mantz  CA,   Nautiyal  J,   Awan  A,  et al:  Potency preservation following conformal radiotherapy for localized prostate cancer:   Impact of neoadjuvant androgen blockade, treatment technique, and patient-related factors [see comments].   Cancer J Sci Am 5:  230,1999-236,"
+      },
+      {
+        "key": "R25-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1520-6823(1997)5:5<252::AID-ROI6>3.0.CO;2-X"
+      },
+      {
+        "key": "R26-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(96)00085-4"
+      },
+      {
+        "key": "R27-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1440-1673.1998.tb00566.x"
+      },
+      {
+        "key": "R28-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1464-410X.1996.19416.x"
+      },
+      {
+        "key": "R29-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(98)00028-4"
+      },
+      {
+        "key": "R30-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1200/JCO.1999.17.9.2882"
+      },
+      {
+        "key": "R31-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00005650-200008000-00008"
+      },
+      {
+        "key": "R32-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jnci/92.19.1582"
+      },
+      {
+        "key": "R33-088480",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0167-8140(96)01774-4"
+      }
+    ],
+    "container-title": [
+      "Journal of Clinical Oncology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://ascopubs.org/doi/pdfdirect/10.1200/JCO.2001.19.9.2517",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          25
+        ]
+      ],
+      "date-time": "2022-05-25T21:31:57Z",
+      "timestamp": 1653514317000
+    },
+    "score": 81.56135,
+    "resource": {
+      "primary": {
+        "URL": "https://ascopubs.org/doi/10.1200/JCO.2001.19.9.2517"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          5,
+          1
+        ]
+      ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+      "issue": "9",
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            5,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1200/JCO.2001.19.9.2517"
+    ],
+    "URL": "https://doi.org/10.1200/jco.2001.19.9.2517",
+    "ISSN": [
+      "0732-183X",
+      "1527-7755"
+    ],
+    "issn-type": [
+      {
+        "value": "0732-183X",
+        "type": "print"
+      },
+      {
+        "value": "1527-7755",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2022-04-05T20:32:21Z",
+      "timestamp": 1649190741068
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1999,
+              4,
+              1
+            ]
+          ],
+          "date-time": "1999-04-01T00:00:00Z",
+          "timestamp": 922924800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "The Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1999,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1097/00005392-199904010-00983",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          11,
+          18
+        ]
+      ],
+      "date-time": "2003-11-18T19:12:17Z",
+      "timestamp": 1069182737000
+    },
+    "page": "245",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "PREDICTORS OF EXTRACAPSULAR EXTENSION OF CLINICALLY LOCALIZED PROSTATE FOLLOWING RADICAL PROSTATECTOMY IN COMMUNITY PRACTICE"
+    ],
+    "prefix": "10.1097",
+    "author": [
+      {
+        "given": "Frank",
+        "family": "Gilliland",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Richard",
+        "family": "Hoffman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bill",
+        "family": "Eley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan",
+        "family": "Liff",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Robert",
+        "family": "Stephenson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Albertsen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "The Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/00005392-199904010-00983",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          15
+        ]
+      ],
+      "date-time": "2021-06-15T23:52:25Z",
+      "timestamp": 1623801145000
+    },
+    "score": 81.110146,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.lww.com/00005392-199904010-00983"
+      }
+    },
+    "subtitle": [
+      "RESULTS FROM THE POPULATION-BASED PROSTATE CANCER OUTCOMES STUDY"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1097/00005392-199904010-00983",
+    "ISSN": [
+      "0022-5347"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1999,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          21
+        ]
+      ],
+      "date-time": "2026-05-21T13:49:49Z",
+      "timestamp": 1779371389729,
+      "version": "3.53.1"
+    },
+    "reference-count": 24,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2005,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2005-05-01T00:00:00Z",
+          "timestamp": 1114905600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1097/01.ju.0000154637.38262.3a",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2005-04-01T09:15:37Z",
+      "timestamp": 1112346937000
+    },
+    "page": "1701-1705",
+    "source": "Crossref",
+    "is-referenced-by-count": 333,
+    "title": [
+      "5-YEAR URINARY AND SEXUAL OUTCOMES AFTER RADICAL PROSTATECTOMY: RESULTS FROM THE PROSTATE CANCER OUTCOMES STUDY"
+    ],
+    "prefix": "10.1097",
+    "volume": "173",
+    "author": [
+      {
+        "given": "DAVID F.",
+        "family": "PENSON",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "From the Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California (DFP, FDG, AH), Los Angeles, California, Department of Urology, University of Connecticut, Farmington, Connecticut (PCA), Division of Public Health Sciences, Fred Hutchinson Cancer Research Center (DM, ZF, LL, JLS), Seattle, Washington, Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico (RMH), Albuquerque, New Mexico, Division of Urology..."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "DALE",
+        "family": "McLERRAN",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California (DFP, FDG, AH), Los Angeles, California, Department of Urology, University of Connecticut, Farmington, Connecticut (PCA), Division of Public Health Sciences, Fred Hutchinson Cancer Research Center (DM, ZF, LL, JLS), Seattle, Washington, Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico (RMH), Albuquerque, New Mexico, Division of Urology..."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "ZIDING",
+        "family": "FENG",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California (DFP, FDG, AH), Los Angeles, California, Department of Urology, University of Connecticut, Farmington, Connecticut (PCA), Division of Public Health Sciences, Fred Hutchinson Cancer Research Center (DM, ZF, LL, JLS), Seattle, Washington, Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico (RMH), Albuquerque, New Mexico, Division of Urology..."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "LIN",
+        "family": "LI",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California (DFP, FDG, AH), Los Angeles, California, Department of Urology, University of Connecticut, Farmington, Connecticut (PCA), Division of Public Health Sciences, Fred Hutchinson Cancer Research Center (DM, ZF, LL, JLS), Seattle, Washington, Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico (RMH), Albuquerque, New Mexico, Division of Urology..."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "PETER C.",
+        "family": "ALBERTSEN",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California (DFP, FDG, AH), Los Angeles, California, Department of Urology, University of Connecticut, Farmington, Connecticut (PCA), Division of Public Health Sciences, Fred Hutchinson Cancer Research Center (DM, ZF, LL, JLS), Seattle, Washington, Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico (RMH), Albuquerque, New Mexico, Division of Urology..."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "FRANK D.",
+        "family": "GILLILAND",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California (DFP, FDG, AH), Los Angeles, California, Department of Urology, University of Connecticut, Farmington, Connecticut (PCA), Division of Public Health Sciences, Fred Hutchinson Cancer Research Center (DM, ZF, LL, JLS), Seattle, Washington, Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico (RMH), Albuquerque, New Mexico, Division of Urology..."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "ANN",
+        "family": "HAMILTON",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California (DFP, FDG, AH), Los Angeles, California, Department of Urology, University of Connecticut, Farmington, Connecticut (PCA), Division of Public Health Sciences, Fred Hutchinson Cancer Research Center (DM, ZF, LL, JLS), Seattle, Washington, Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico (RMH), Albuquerque, New Mexico, Division of Urology..."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "RICHARD M.",
+        "family": "HOFFMAN",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California (DFP, FDG, AH), Los Angeles, California, Department of Urology, University of Connecticut, Farmington, Connecticut (PCA), Division of Public Health Sciences, Fred Hutchinson Cancer Research Center (DM, ZF, LL, JLS), Seattle, Washington, Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico (RMH), Albuquerque, New Mexico, Division of Urology..."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "ROBERT A.",
+        "family": "STEPHENSON",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California (DFP, FDG, AH), Los Angeles, California, Department of Urology, University of Connecticut, Farmington, Connecticut (PCA), Division of Public Health Sciences, Fred Hutchinson Cancer Research Center (DM, ZF, LL, JLS), Seattle, Washington, Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico (RMH), Albuquerque, New Mexico, Division of Urology..."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "ARNOLD L.",
+        "family": "POTOSKY",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California (DFP, FDG, AH), Los Angeles, California, Department of Urology, University of Connecticut, Farmington, Connecticut (PCA), Division of Public Health Sciences, Fred Hutchinson Cancer Research Center (DM, ZF, LL, JLS), Seattle, Washington, Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico (RMH), Albuquerque, New Mexico, Division of Urology..."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "JANET L.",
+        "family": "STANFORD",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "From the Departments of Urology and Preventive Medicine, Keck School of Medicine, University of Southern California (DFP, FDG, AH), Los Angeles, California, Department of Urology, University of Connecticut, Farmington, Connecticut (PCA), Division of Public Health Sciences, Fred Hutchinson Cancer Research Center (DM, ZF, LL, JLS), Seattle, Washington, Department of Medicine, New Mexico Veterans Affairs Health Care System and University of New Mexico (RMH), Albuquerque, New Mexico, Division of Urology..."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "R1-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "790",
+        "DOI": "10.1056/NEJMoa021483",
+        "volume": "347",
+        "author": "Steineck",
+        "year": "2002",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R2-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1016/S0022-5347(05)68578-3",
+        "volume": "162",
+        "author": "Catalona",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R3-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "1707",
+        "DOI": "10.1016/S0022-5347(01)65488-0",
+        "volume": "156",
+        "author": "Eastham",
+        "year": "1996",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R4-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/S0090-4295(99)00397-0",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "R5-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "858",
+        "DOI": "10.1016/S0022-5347(05)67819-6",
+        "volume": "163",
+        "author": "Kao",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R6-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "503",
+        "DOI": "10.1016/S0090-4295(99)00172-7",
+        "volume": "54",
+        "author": "Litwin",
+        "year": "1999",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "R7-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "1973",
+        "DOI": "10.1016/S0022-5347(05)66931-5",
+        "volume": "164",
+        "author": "Litwin",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R8-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "1719",
+        "DOI": "10.1093/jnci/91.20.1719",
+        "volume": "91",
+        "author": "Potosky",
+        "year": "1999",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "R9-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "622",
+        "DOI": "10.1016/0090-4295(93)90524-E",
+        "volume": "42",
+        "author": "Fowler",
+        "year": "1993",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "R10-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "1002",
+        "DOI": "10.1097/00005650-199807000-00007",
+        "volume": "36",
+        "author": "Litwin",
+        "year": "1998",
+        "journal-title": "Med Care"
+      },
+      {
+        "key": "R11-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "275",
+        "DOI": "10.1200/JCO.1998.16.1.275",
+        "volume": "16",
+        "author": "Talcott",
+        "year": "1998",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "R12-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1093/biomet/73.1.13",
+        "volume": "73",
+        "author": "Liang",
+        "year": "1986",
+        "journal-title": "Biometrika"
+      },
+      {
+        "key": "R13-109",
+        "author": "Rubin",
+        "year": "1987"
+      },
+      {
+        "key": "R14-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "651",
+        "DOI": "10.1111/j.1464-410X.1995.tb07426.x",
+        "volume": "75",
+        "author": "Jonler",
+        "year": "1995",
+        "journal-title": "Br J Urol"
+      },
+      {
+        "key": "R15-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R16-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "963",
+        "DOI": "10.1016/S0090-4295(98)00443-9",
+        "volume": "52",
+        "author": "Zippe",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "R17-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "1614",
+        "DOI": "10.1016/S0022-5347(05)68179-7",
+        "volume": "162",
+        "author": "Lowentritt",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R18-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1016/S0090-4295(99)00441-0",
+        "volume": "55",
+        "author": "Zippe",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "R19-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "1619",
+        "DOI": "10.1200/JCO.2001.19.6.1619",
+        "volume": "19",
+        "author": "Madalinska",
+        "year": "2001",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "R20-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "1291",
+        "DOI": "10.1097/01.ju.0000085341.63407.46",
+        "volume": "170",
+        "author": "Krupski",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R21-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "744",
+        "DOI": "10.1016/S0022-5347(05)67294-1",
+        "volume": "164",
+        "author": "Wei",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R22-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "847",
+        "DOI": "10.1097/00005650-200008000-00008",
+        "volume": "38",
+        "author": "Legler",
+        "year": "2000",
+        "journal-title": "Med Care"
+      },
+      {
+        "key": "R23-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "774",
+        "DOI": "10.1093/aje/kwf110",
+        "volume": "156",
+        "author": "Taylor",
+        "year": "2002",
+        "journal-title": "Am J Epidemiol"
+      },
+      {
+        "key": "R24-109",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.2165/00019053-199915020-00007",
+        "volume": "15",
+        "author": "Lubeck",
+        "year": "1999",
+        "journal-title": "Pharmacoeconomics"
+      }
+    ],
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S0022534705606982?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S0022534705606982?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1097/01.ju.0000154637.38262.3a",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T06:45:51Z",
+      "timestamp": 1651214751000
+    },
+    "score": 79.35876,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1097/01.ju.0000154637.38262.3a"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          5
+        ]
+      ]
+    },
+    "references-count": 24,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2005,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1097/01.ju.0000154637.38262.3a"
+    ],
+    "URL": "https://doi.org/10.1097/01.ju.0000154637.38262.3a",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2005,
+          5
+        ]
+      ]
+    }
+  }
+]

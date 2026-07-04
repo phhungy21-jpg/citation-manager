@@ -1,0 +1,184 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2026-05-30T01:33:45Z",
+      "timestamp": 1780104825888,
+      "version": "3.54.0"
+    },
+    "reference-count": 0,
+    "publisher": "AME Publishing Company",
+    "issue": "6",
+    "content-domain": {
+      "domain": [
+        "amegroups.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Transl Androl Urol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.21037/tau.2020.03.36",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          27
+        ]
+      ],
+      "date-time": "2020-12-27T14:12:17Z",
+      "timestamp": 1609078337000
+    },
+    "page": "3036-3048",
+    "update-policy": "https://doi.org/10.21037/ame_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 27,
+    "title": [
+      "Surgical techniques to improve continence recovery after robot-assisted radical prostatectomy"
+    ],
+    "prefix": "10.21037",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Ahmet",
+        "family": "Urkmez",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Weranja",
+        "family": "Ranasinghe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John W.",
+        "family": "Davis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "8611",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "container-title": [
+      "Translational Andrology and Urology"
+    ],
+    "link": [
+      {
+        "URL": "http://tau.amegroups.com/article/download/41777/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          27
+        ]
+      ],
+      "date-time": "2020-12-27T14:13:23Z",
+      "timestamp": 1609078403000
+    },
+    "score": 44.329605,
+    "resource": {
+      "primary": {
+        "URL": "http://tau.amegroups.com/article/view/41777/html"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "6",
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            12
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            12
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.21037/tau.2020.03.36",
+    "ISSN": [
+      "2223-4683",
+      "2223-4691"
+    ],
+    "issn-type": [
+      {
+        "value": "2223-4683",
+        "type": "print"
+      },
+      {
+        "value": "2223-4691",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    }
+  }
+]

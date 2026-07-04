@@ -1,0 +1,15 @@
+{
+  "paper": "PMC11780474",
+  "args": {
+    "manuscript": null,
+    "pmcid": "11780474",
+    "limit": null,
+    "dry_run": true
+  },
+  "counts": {
+    "dry_run_skipped": 31
+  },
+  "n_claims": 14,
+  "n_checks": 31,
+  "flags_output": "C:\\Users\\Hung\\Desktop\\citation-pipeline\\audit\\results\\flags\\PMC11780474.json"
+}

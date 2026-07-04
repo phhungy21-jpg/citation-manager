@@ -1,0 +1,2216 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2026-06-25T08:40:45Z",
+      "timestamp": 1782376845455,
+      "version": "3.54.5"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ]
+    },
+    "group-title": "MetaArXiv",
+    "reference-count": 0,
+    "publisher": "Center for Open Science",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              14
+            ]
+          ],
+          "date-time": "2020-09-14T00:00:00Z",
+          "timestamp": 1600041600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>Objectives: To describe the processes used to update the PRISMA 2009 statement for reporting systematic reviews, present results of a survey conducted to inform the update, summarise decisions made at the PRISMA update meeting, and describe and justify changes made to the guideline.Methods: We reviewed 60 documents with reporting guidance for systematic reviews to generate suggested modifications to the PRISMA 2009 statement. We invited 220 systematic review methodologists and journal editors to complete a survey about the suggested modifications. The results of these projects were discussed at a 21-member in-person meeting. Following the meeting, we drafted the PRISMA 2020 statement and refined it based on feedback from co-authors and a convenience sample of 15 systematic reviewers. Results: The review of 60 documents revealed that all topics addressed by the PRISMA 2009 statement could be modified. Of the 110 survey respondents, more than 66% recommended keeping six of the original checklist items as they were and modifying 15 of them using wording suggested by us. Attendees at the in-person meeting supported the revised wording for several items but suggested rewording for most to enhance clarity, and further refinements were made over six drafts of the guideline. Conclusions: The PRISMA 2020 statement consists of updated reporting guidance for systematic reviews. We hope that providing this detailed description of the development process will enhance the acceptance and uptake of the guideline and assist those developing and updating future reporting guidelines.</p>",
+    "DOI": "10.31222/osf.io/jb4dx",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ],
+      "date-time": "2020-09-14T02:46:03Z",
+      "timestamp": 1600051563000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 361,
+    "title": [
+      "Updating guidance for reporting systematic reviews: development of the PRISMA 2020 statement"
+    ],
+    "prefix": "10.31222",
+    "author": [
+      {
+        "given": "Matthew James",
+        "family": "Page",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joanne",
+        "family": "McKenzie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4427-0128",
+        "authenticated-orcid": true,
+        "given": "Patrick",
+        "family": "Bossuyt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Isabelle",
+        "family": "Boutron",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5210-8548",
+        "authenticated-orcid": true,
+        "given": "Tammy",
+        "family": "Hoffmann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "cindy",
+        "family": "mulrow",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Larissa",
+        "family": "Shamseer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0787-5363",
+        "authenticated-orcid": true,
+        "given": "Jennifer",
+        "family": "Tetzlaff",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2434-4206",
+        "authenticated-orcid": true,
+        "given": "David",
+        "family": "Moher",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15934",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          17
+        ]
+      ],
+      "date-time": "2025-11-17T16:06:38Z",
+      "timestamp": 1763395598000
+    },
+    "score": 65.31481,
+    "resource": {
+      "primary": {
+        "URL": "https://osf.io/jb4dx_v1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.31222/osf.io/jb4dx",
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T21:53:07Z",
+      "timestamp": 1782942787457,
+      "version": "3.54.5"
+    },
+    "reference-count": 72,
+    "publisher": "BMJ",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              29
+            ]
+          ],
+          "date-time": "2021-03-29T00:00:00Z",
+          "timestamp": 1616976000000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "bmj.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "DOI": "10.1136/bmj.n71",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2021-03-29T06:50:12Z",
+      "timestamp": 1617000612000
+    },
+    "page": "n71",
+    "update-policy": "https://doi.org/10.1136/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 80414,
+    "title": [
+      "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews"
+    ],
+    "prefix": "10.1136",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4242-7526",
+        "authenticated-orcid": false,
+        "given": "Matthew J",
+        "family": "Page",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joanne E",
+        "family": "McKenzie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patrick M",
+        "family": "Bossuyt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Isabelle",
+        "family": "Boutron",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tammy C",
+        "family": "Hoffmann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Cynthia D",
+        "family": "Mulrow",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Larissa",
+        "family": "Shamseer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer M",
+        "family": "Tetzlaff",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elie A",
+        "family": "Akl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sue E",
+        "family": "Brennan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Roger",
+        "family": "Chou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julie",
+        "family": "Glanville",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeremy M",
+        "family": "Grimshaw",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Asbjørn",
+        "family": "Hróbjartsson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Manoj M",
+        "family": "Lalu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tianjing",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elizabeth W",
+        "family": "Loder",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Evan",
+        "family": "Mayo-Wilson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Steve",
+        "family": "McDonald",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luke A",
+        "family": "McGuinness",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lesley A",
+        "family": "Stewart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James",
+        "family": "Thomas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea C",
+        "family": "Tricco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vivian A",
+        "family": "Welch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Penny",
+        "family": "Whiting",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Moher",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nature25753"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13643-019-1089-2"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-018-1226-0"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-151-4-200908180-00135"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b2535"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1000097"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2009.06.005"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijsu.2010.02.007"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2174/1874306400903010123"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ptj/89.9.873"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.0040078"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2009.06.006"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.b2700"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-151-4-200908180-00136"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1000100"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1000100"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1002028"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0083138"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijsu.2016.04.032"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2019.06.014"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13643-017-0663-8"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/2046-4053-4-5"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jrsm.1287"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13643-019-1074-9"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/9781119536604.ch12"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjgh-2018-000858"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.l6890"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.l4898"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i4919"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2015.06.005"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.j4008"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2017.05.006"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/2046-4053-1-2"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/2046-4053-1-1"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2021.02.003"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2017.10.017"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2017.11.022"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2019.11.010"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2288-12-181"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12874-018-0600-0"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.n160"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13643-020-01542-z"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Higgins JPT, Thomas J, Chandler J, et al, eds. Cochrane Handbook for Systematic Reviews of Interventions: Version 6.0. Cochrane, 2019. Available from https://training.cochrane.org/handbook.",
+        "DOI": "10.1002/9781119536604"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1002742"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.45",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cooper H, Hedges LV, Valentine JV, eds. The Handbook of Research Synthesis and Meta-Analysis. Russell Sage Foundation, 2019.",
+        "DOI": "10.7758/9781610448864"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.46",
+        "unstructured": "IOM (Institute of Medicine) . Finding What Works in Health Care: Standards for Systematic Reviews. The National Academies Press, 2011."
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/2046-4053-4-1"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.g7647"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M14-2385"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2015.3656"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.i157"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2017.19163"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M18-0850"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001419"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/heartjnl-2017-311581"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jrsm.1277"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/2046-4053-3-54"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5281/zenodo.3994319"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41562-019-0772-6"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-015-0460-y"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12916-019-1436-0"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamaoncol.2019.2564"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13643-017-0582-8"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1000217"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1741-7015-8-24"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjopen-2019-035114"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.g3804"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s41073-019-0069-3"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmjopen-2018-026589"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.26522/brocked.v12i2.38"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001333"
+      },
+      {
+        "key": "2021032907500541000_372.mar29_2.n71.72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12906-019-2624-3"
+      }
+    ],
+    "container-title": [
+      "BMJ"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://data.bmj.org/tdm/10.1136/bmj.n71",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.n71",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2021-03-29T10:50:17Z",
+      "timestamp": 1617015017000
+    },
+    "score": 64.94241,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.n71"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          29
+        ]
+      ]
+    },
+    "references-count": 72,
+    "alternative-id": [
+      "10.1136/bmj.n71"
+    ],
+    "URL": "https://doi.org/10.1136/bmj.n71",
+    "relation": {
+      "is-referenced-by": [
+        {
+          "id-type": "doi",
+          "id": "10.1007/s00261-025-04933-9",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.1186/s41927-026-00635-x",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.1007/s12311-026-01994-4",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.1186/s12984-025-01744-3",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.1007/s10096-025-05122-8",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.1007/s10903-025-01721-x",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "1756-1833"
+    ],
+    "issn-type": [
+      {
+        "value": "1756-1833",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          29
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          24
+        ]
+      ],
+      "date-time": "2026-06-24T02:12:39Z",
+      "timestamp": 1782267159103,
+      "version": "3.54.5"
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2020-05-01T00:00:00Z",
+          "timestamp": 1588291200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2020-05-01T00:00:00Z",
+          "timestamp": 1588291200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2021-05-01T00:00:00Z",
+          "timestamp": 1619827200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 365,
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "valueinhealthjournal.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Value in Health"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jval.2020.04.1154",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          18
+        ]
+      ],
+      "date-time": "2020-05-18T17:12:38Z",
+      "timestamp": 1589821958000
+    },
+    "page": "S312-S313",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 57,
+    "special_numbering": "S1",
+    "title": [
+      "PNS154 THE PRISMA 2020 STATEMENT: DEVELOPMENT OF AND KEY CHANGES IN AN UPDATED GUIDELINE FOR REPORTING SYSTEMATIC REVIEWS AND META-ANALYSES"
+    ],
+    "prefix": "10.1016",
+    "volume": "23",
+    "author": [
+      {
+        "given": "J.",
+        "family": "Tetzlaff",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Page",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Moher",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Value in Health"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1098301520313425?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1098301520313425?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2025-10-22T01:19:28Z",
+      "timestamp": 1761095968000
+    },
+    "score": 58.02469,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1098301520313425"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S1098301520313425"
+    ],
+    "URL": "https://doi.org/10.1016/j.jval.2020.04.1154",
+    "ISSN": [
+      "1098-3015"
+    ],
+    "issn-type": [
+      {
+        "value": "1098-3015",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "PNS154 THE PRISMA 2020 STATEMENT: DEVELOPMENT OF AND KEY CHANGES IN AN UPDATED GUIDELINE FOR REPORTING SYSTEMATIC REVIEWS AND META-ANALYSES",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Value in Health",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.jval.2020.04.1154",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2020 Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T21:25:37Z",
+      "timestamp": 1782941137126,
+      "version": "3.54.5"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ]
+    },
+    "group-title": "MetaArXiv",
+    "reference-count": 0,
+    "publisher": "Center for Open Science",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              14
+            ]
+          ],
+          "date-time": "2020-09-14T00:00:00Z",
+          "timestamp": 1600041600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>Background: The Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) Statement, published in 2009, was designed to help systematic reviewers transparently report why the review was done, what the authors did and what they found. Over the last decade, there have been many advances in systematic review methodology and terminology, which have necessitated an update to the guideline.Objectives: To develop the PRISMA 2020 statement for reporting systematic reviews.Methods: We reviewed 60 documents with reporting guidance for systematic reviews to generate suggested modifications to the PRISMA 2009 statement. We sought feedback on the suggested modifications through an online survey of 110 systematic review methodologists and journal editors. The results of the review and survey were discussed at a 21-member in-person meeting. Following the meeting, drafts of the PRISMA 2020 checklist, abstract checklist, explanation and elaboration and flow diagram were generated and refined iteratively based on feedback from co-authors and a convenience sample of 15 systematic reviewers.Results: In this statement paper, we present the PRISMA 2020 27-item checklist, an expanded checklist that details reporting recommendations for each item, the PRISMA 2020 abstract checklist, and the revised flow diagrams for original and updated reviews. The checklist includes new reporting guidance that reflects advances in methods to identify, select, appraise and synthesise studies. The structure and presentation of the items have been modified to facilitate implementation. The PRISMA 2020 statement replaces the 2009 statement.Conclusions: The PRISMA 2020 statement is intended to facilitate transparent, complete and accurate reporting of systematic reviews. Improved reporting should benefit users of reviews, including guideline developers, policy makers, health care providers, patients and other stakeholders. In order to achieve this, we encourage authors, editors and peer-reviewers to adopt the guideline.</p>",
+    "DOI": "10.31222/osf.io/v7gm2_v1",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2025-04-04T21:49:30Z",
+      "timestamp": 1743803370000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 134,
+    "title": [
+      "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews"
+    ],
+    "prefix": "10.31222",
+    "author": [
+      {
+        "given": "Matthew James",
+        "family": "Page",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joanne",
+        "family": "McKenzie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4427-0128",
+        "authenticated-orcid": true,
+        "given": "Patrick",
+        "family": "Bossuyt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Isabelle",
+        "family": "Boutron",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5210-8548",
+        "authenticated-orcid": true,
+        "given": "Tammy",
+        "family": "Hoffmann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "cindy",
+        "family": "mulrow",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Larissa",
+        "family": "Shamseer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0787-5363",
+        "authenticated-orcid": true,
+        "given": "Jennifer",
+        "family": "Tetzlaff",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3444-8618",
+        "authenticated-orcid": true,
+        "given": "Elie",
+        "family": "Akl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sue E",
+        "family": "Brennan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Roger",
+        "family": "Chou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julie",
+        "family": "Glanville",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeremy",
+        "family": "Grimshaw",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Asbjørn",
+        "family": "Hróbjartsson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0322-382X",
+        "authenticated-orcid": true,
+        "given": "Manoj Mathew",
+        "family": "Lalu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5371-4558",
+        "authenticated-orcid": true,
+        "given": "Tianjing",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elizabeth",
+        "family": "Loder",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6126-2459",
+        "authenticated-orcid": true,
+        "given": "Evan",
+        "family": "Mayo-Wilson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2832-5205",
+        "authenticated-orcid": true,
+        "given": "Steve",
+        "family": "McDonald",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8730-9761",
+        "authenticated-orcid": true,
+        "given": "Luke A",
+        "family": "McGuinness",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0287-4724",
+        "authenticated-orcid": true,
+        "given": "Lesley",
+        "family": "Stewart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4805-4190",
+        "authenticated-orcid": true,
+        "given": "James",
+        "family": "Thomas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Tricco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vivian Andrea",
+        "family": "Welch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Penny",
+        "family": "Whiting",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2434-4206",
+        "authenticated-orcid": true,
+        "given": "David",
+        "family": "Moher",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15934",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2025-04-04T21:49:30Z",
+      "timestamp": 1743803370000
+    },
+    "score": 57.344215,
+    "resource": {
+      "primary": {
+        "URL": "https://osf.io/v7gm2_v1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.31222/osf.io/v7gm2_v1",
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T16:04:04Z",
+      "timestamp": 1782921844335,
+      "version": "3.54.5"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ]
+    },
+    "group-title": "MetaArXiv",
+    "reference-count": 0,
+    "publisher": "Center for Open Science",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              14
+            ]
+          ],
+          "date-time": "2020-09-14T00:00:00Z",
+          "timestamp": 1600041600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<p>Background: The Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) Statement, published in 2009, was designed to help systematic reviewers transparently report why the review was done, what the authors did and what they found. Over the last decade, there have been many advances in systematic review methodology and terminology, which have necessitated an update to the guideline.Objectives: To develop the PRISMA 2020 statement for reporting systematic reviews.Methods: We reviewed 60 documents with reporting guidance for systematic reviews to generate suggested modifications to the PRISMA 2009 statement. We sought feedback on the suggested modifications through an online survey of 110 systematic review methodologists and journal editors. The results of the review and survey were discussed at a 21-member in-person meeting. Following the meeting, drafts of the PRISMA 2020 checklist, abstract checklist, explanation and elaboration and flow diagram were generated and refined iteratively based on feedback from co-authors and a convenience sample of 15 systematic reviewers.Results: In this statement paper, we present the PRISMA 2020 27-item checklist, an expanded checklist that details reporting recommendations for each item, the PRISMA 2020 abstract checklist, and the revised flow diagrams for original and updated reviews. The checklist includes new reporting guidance that reflects advances in methods to identify, select, appraise and synthesise studies. The structure and presentation of the items have been modified to facilitate implementation. The PRISMA 2020 statement replaces the 2009 statement.Conclusions: The PRISMA 2020 statement is intended to facilitate transparent, complete and accurate reporting of systematic reviews. Improved reporting should benefit users of reviews, including guideline developers, policy makers, health care providers, patients and other stakeholders. In order to achieve this, we encourage authors, editors and peer-reviewers to adopt the guideline.</p>",
+    "DOI": "10.31222/osf.io/v7gm2",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ],
+      "date-time": "2020-09-14T06:24:33Z",
+      "timestamp": 1600064673000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 980,
+    "title": [
+      "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews"
+    ],
+    "prefix": "10.31222",
+    "author": [
+      {
+        "given": "Matthew James",
+        "family": "Page",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joanne",
+        "family": "McKenzie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4427-0128",
+        "authenticated-orcid": true,
+        "given": "Patrick",
+        "family": "Bossuyt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Isabelle",
+        "family": "Boutron",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5210-8548",
+        "authenticated-orcid": true,
+        "given": "Tammy",
+        "family": "Hoffmann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "cindy",
+        "family": "mulrow",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Larissa",
+        "family": "Shamseer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0787-5363",
+        "authenticated-orcid": true,
+        "given": "Jennifer",
+        "family": "Tetzlaff",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3444-8618",
+        "authenticated-orcid": true,
+        "given": "Elie",
+        "family": "Akl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sue E",
+        "family": "Brennan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Roger",
+        "family": "Chou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julie",
+        "family": "Glanville",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeremy",
+        "family": "Grimshaw",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Asbjørn",
+        "family": "Hróbjartsson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0322-382X",
+        "authenticated-orcid": true,
+        "given": "Manoj Mathew",
+        "family": "Lalu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tianjing",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elizabeth",
+        "family": "Loder",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6126-2459",
+        "authenticated-orcid": true,
+        "given": "Evan",
+        "family": "Mayo-Wilson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2832-5205",
+        "authenticated-orcid": true,
+        "given": "Steve",
+        "family": "McDonald",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8730-9761",
+        "authenticated-orcid": true,
+        "given": "Luke A",
+        "family": "McGuinness",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lesley",
+        "family": "Stewart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4805-4190",
+        "authenticated-orcid": true,
+        "given": "James",
+        "family": "Thomas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Tricco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vivian Andrea",
+        "family": "Welch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Penny",
+        "family": "Whiting",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2434-4206",
+        "authenticated-orcid": true,
+        "given": "David",
+        "family": "Moher",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "15934",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2024-01-17T15:47:28Z",
+      "timestamp": 1705506448000
+    },
+    "score": 56.965023,
+    "resource": {
+      "primary": {
+        "URL": "https://osf.io/v7gm2"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.31222/osf.io/v7gm2",
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+]

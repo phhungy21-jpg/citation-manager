@@ -1,0 +1,1768 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          8
+        ]
+      ],
+      "date-time": "2025-10-08T22:05:48Z",
+      "timestamp": 1759961148348,
+      "version": "3.37.3"
+    },
+    "reference-count": 25,
+    "publisher": "Wiley",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              28
+            ]
+          ],
+          "date-time": "2021-12-28T00:00:00Z",
+          "timestamp": 1640649600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Neurourology and Urodynamics"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Aim</jats:title><jats:p>Post‐prostatectomy urinary incontinence (PPI) is the greatest concern for urologists after radical prostatectomy (RP). It is thought that PPI is composed of multiple factors including static and dynamic components. The purpose of this study is to show visually levator ani muscle (LAM) contraction during pelvic floor muscle contraction and to evaluate the dynamic differences in its contraction between men with and without PPI.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>This study was a case‐control study of the urinary continent or incontinent men. It investigated whether LAM contraction was involved in urinary leakage based on examination of LAM contraction by cine magnetic resonance imaging.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>The LAM contracted from the coccyx to the pubis in the same manner before and after surgery. The degree of contraction of the LAM in post‐prostatectomy groups was smaller than that in the healthy adult group. The contraction distances of each part of the pelvic floor were decreased by 50%–70% in the incontinence group compared to those in the continence group. The bladder neck moved 2.5‐fold further in the continence group and the direction of movement was more vertical than in the incontinence group. Urethral compression was attenuated by about 40% in the incontinence group compared to that in the continence group.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>RP can cause damage to the LAM. LAM contraction is reduced after RP compared with that in healthy adult men. In men with PPI, the reduced muscle contraction might not compress the urethra sufficiently when abdominal pressure is raised. Pelvic floor muscle training might provide a meaningful method for the recovery of LAM contraction in patients with PPI.</jats:p></jats:sec>",
+    "DOI": "10.1002/nau.24861",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          28
+        ]
+      ],
+      "date-time": "2021-12-28T10:29:57Z",
+      "timestamp": 1640687397000
+    },
+    "page": "616-625",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Evaluation of the effect of levator ani muscle contraction on post‐prostatectomy urinary incontinence using cine MRI"
+    ],
+    "prefix": "10.1002",
+    "volume": "41",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3871-4784",
+        "authenticated-orcid": false,
+        "given": "Shin",
+        "family": "Kumagai",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology Fujita General Hospital Fukushima Japan"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Osamu",
+        "family": "Muraki",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology Fujita General Hospital Fukushima Japan"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yasukuni",
+        "family": "Yoshimura",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology Showa University Northern Yokohama Hospital Female Pelvic Health Center Yokohama Japan"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          28
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_10_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.23845"
+      },
+      {
+        "key": "e_1_2_10_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00345-020-03526-z"
+      },
+      {
+        "key": "e_1_2_10_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11701-020-01145-9"
+      },
+      {
+        "key": "e_1_2_10_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2007.11.047"
+      },
+      {
+        "key": "e_1_2_10_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2006.10.014"
+      },
+      {
+        "key": "e_1_2_10_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2020.09.044"
+      },
+      {
+        "key": "e_1_2_10_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2020.05.010"
+      },
+      {
+        "key": "e_1_2_10_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(05)68080-9"
+      },
+      {
+        "key": "e_1_2_10_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(05)00697-X"
+      },
+      {
+        "key": "e_1_2_10_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2007.03.044"
+      },
+      {
+        "key": "e_1_2_10_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/luts.12245"
+      },
+      {
+        "key": "e_1_2_10_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2013.01.013"
+      },
+      {
+        "key": "e_1_2_10_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000368618"
+      },
+      {
+        "key": "e_1_2_10_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.24247"
+      },
+      {
+        "key": "e_1_2_10_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0720-048X(03)00164-5"
+      },
+      {
+        "key": "e_1_2_10_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ejogrb.2003.09.047"
+      },
+      {
+        "key": "e_1_2_10_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.10170"
+      },
+      {
+        "key": "e_1_2_10_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00256-015-2126-4"
+      },
+      {
+        "key": "e_1_2_10_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2214/AJR.17.17802"
+      },
+      {
+        "issue": "1093",
+        "key": "e_1_2_10_21_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "20180433",
+        "DOI": "10.1259/bjr.20180433",
+        "article-title": "Will MRI of gastrointestinal function parallel the clinical success of cine cardiac MRI?",
+        "volume": "92",
+        "author": "Hoad C",
+        "year": "2019",
+        "journal-title": "Br J Radiol"
+      },
+      {
+        "key": "e_1_2_10_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00404-019-05222-9"
+      },
+      {
+        "key": "e_1_2_10_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.22616"
+      },
+      {
+        "key": "e_1_2_10_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.AOG.0000228510.08019.77"
+      },
+      {
+        "key": "e_1_2_10_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.0050202"
+      },
+      {
+        "key": "e_1_2_10_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1200/JCO.2008.17.3062"
+      }
+    ],
+    "container-title": [
+      "Neurourology and Urodynamics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/nau.24861",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/nau.24861",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/nau.24861",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          15
+        ]
+      ],
+      "date-time": "2024-09-15T07:58:10Z",
+      "timestamp": 1726387090000
+    },
+    "score": 119.78251,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/nau.24861"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          28
+        ]
+      ]
+    },
+    "references-count": 25,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/nau.24861"
+    ],
+    "URL": "https://doi.org/10.1002/nau.24861",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0733-2467",
+      "1520-6777"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0733-2467"
+      },
+      {
+        "type": "electronic",
+        "value": "1520-6777"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          28
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2021-10-13",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-12-09",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-12-28",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          5
+        ]
+      ],
+      "date-time": "2025-11-05T20:29:22Z",
+      "timestamp": 1762374562869
+    },
+    "reference-count": 30,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 7183,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Neurourol. Urodyn."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "DOI": "10.1002/(sici)1520-6777(1996)15:1<17::aid-nau2>3.0.co;2-i",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          8,
+          25
+        ]
+      ],
+      "date-time": "2002-08-25T19:30:12Z",
+      "timestamp": 1030303812000
+    },
+    "page": "17-29",
+    "source": "Crossref",
+    "is-referenced-by-count": 43,
+    "title": [
+      "Levator ani muscle in women with genitourinary prolapse: Indirect assessment by muscle histopathology"
+    ],
+    "prefix": "10.1002",
+    "volume": "15",
+    "author": [
+      {
+        "given": "Michael",
+        "family": "Heit",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J. Thomas",
+        "family": "Benson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Brenda",
+        "family": "Russell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Linda",
+        "family": "Brubaker",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "reference": [
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB1",
+        "first-page": "430",
+        "volume-title": "Clinical Urogynecology",
+        "author": "Abrams",
+        "year": "1990",
+        "unstructured": ", (1990): The standardization of terminology of lower urinary tract function recommended by the International Continence Society. In (eds): “Clinical Urogynecology,” 1st ed. St. Louis: Mosby, pp 430–446."
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1016/0022-510X(79)90156-4",
+        "volume": "42",
+        "author": "Beersiek",
+        "year": "1979",
+        "journal-title": "J Neurol Sci"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "164",
+        "DOI": "10.1007/BF00376607",
+        "volume": "1",
+        "author": "Benson",
+        "year": "1990",
+        "journal-title": "Int Urogynecol J"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB4",
+        "first-page": "387",
+        "volume": "82",
+        "author": "Benson",
+        "year": "1993",
+        "journal-title": "Obstet Gynecol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB5",
+        "first-page": "677",
+        "volume": "97",
+        "author": "Berglas",
+        "year": "1953",
+        "journal-title": "Surg Gynecol Obstet"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "541",
+        "DOI": "10.1152/physrev.1991.71.2.541",
+        "volume": "71",
+        "author": "Booth",
+        "year": "1991",
+        "journal-title": "Physiol Rev"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB7",
+        "author": "Brooke",
+        "year": "1966",
+        "unstructured": "(1966): The histologic diagnosis of neuromuscular diseases: A review of 79 biopsies. Arch Phys Med Rehab March 99–121."
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1002/nau.1930080106",
+        "volume": "8",
+        "author": "Delancey",
+        "year": "1989",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB9",
+        "first-page": "68",
+        "volume": "38",
+        "author": "Delancey",
+        "year": "1993",
+        "journal-title": "Contemp Ob/Gyn"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "52",
+        "DOI": "10.1002/ar.1092300106",
+        "volume": "230",
+        "author": "Dix",
+        "year": "1991",
+        "journal-title": "Anat Rec"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB11",
+        "volume-title": "Muscle Biopsy, a Modern Approach. Major Problems in Neurology",
+        "author": "Dubowitz",
+        "year": "1973",
+        "unstructured": ", eds (1973): “Muscle Biopsy, a Modern Approach. Major Problems in Neurology.” London: WB Saunders, Ltd."
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB12",
+        "first-page": "73",
+        "volume-title": "Handbook of Physiology",
+        "volume": "10",
+        "author": "Eisenberg",
+        "year": "1983",
+        "unstructured": "(1983): Quantitative ultrastructure of mammalian skeletal muscle. In (eds): “Handbook of Physiology.” Bethesda, MD: Am Physiol Soc, 10: 73–112."
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "548",
+        "DOI": "10.1161/01.RES.56.4.548",
+        "volume": "56",
+        "author": "Eisenberg",
+        "year": "1985",
+        "journal-title": "Circ Res"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "8",
+        "DOI": "10.1007/BF00304293",
+        "volume": "9",
+        "author": "Engel",
+        "year": "1994",
+        "journal-title": "Int J Colored Dis"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1111/j.1471-0528.1989.tb01570.x",
+        "volume": "96",
+        "author": "Gilpin",
+        "year": "1989",
+        "journal-title": "Br J Obstet Gynaecol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "c79",
+        "DOI": "10.1152/ajpcell.1993.265.1.C79",
+        "volume": "265",
+        "author": "Jacobs-El",
+        "year": "1993",
+        "journal-title": "Am J Physiol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "74",
+        "DOI": "10.1016/S0022-5347(17)42297-X",
+        "volume": "139",
+        "author": "Juenemann",
+        "year": "1988",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1053",
+        "DOI": "10.1083/jcb.103.3.977",
+        "volume": "103",
+        "author": "Kennedy",
+        "year": "1986",
+        "journal-title": "J Cell Biol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "614",
+        "DOI": "10.1002/bjs.1800710817",
+        "volume": "71",
+        "author": "Kiff",
+        "year": "1984",
+        "journal-title": "Br J Surg"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1007/BF00699424",
+        "volume": "9",
+        "author": "Londono-Schimmer",
+        "year": "1994",
+        "journal-title": "Int J Colored Dis"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "656",
+        "DOI": "10.1136/gut.18.8.656",
+        "volume": "18",
+        "author": "Parks",
+        "year": "1977",
+        "journal-title": "Gut"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB22",
+        "first-page": "16",
+        "volume": "1",
+        "author": "Percy",
+        "year": "1980",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1249/00005768-199202000-00006",
+        "volume": "24",
+        "author": "Russell",
+        "year": "1992",
+        "journal-title": "Med Sci Sports Exer"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "94",
+        "DOI": "10.1002/mus.880040204",
+        "volume": "4",
+        "author": "Salmons",
+        "year": "1981",
+        "journal-title": "Muscle Nerve"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB25",
+        "first-page": "187",
+        "volume": "55",
+        "author": "Sato",
+        "year": "1980",
+        "journal-title": "Ada Anat Nippon"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB26",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1111/j.1471-0528.1989.tb01572.x",
+        "volume": "96",
+        "author": "Smith",
+        "year": "1989",
+        "journal-title": "Br J Obstet Gynaecol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB27",
+        "doi-asserted-by": "crossref",
+        "first-page": "546",
+        "DOI": "10.1016/S0140-6736(84)90766-9",
+        "volume": "2",
+        "author": "Snooks",
+        "year": "1984",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB28",
+        "doi-asserted-by": "crossref",
+        "first-page": "422",
+        "DOI": "10.1111/j.1464-410X.1985.tb06302.x",
+        "volume": "57",
+        "author": "Snooks",
+        "year": "1985",
+        "journal-title": "Br J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB29",
+        "doi-asserted-by": "crossref",
+        "first-page": "906",
+        "DOI": "10.1177/014107688507801105",
+        "volume": "78",
+        "author": "Swash",
+        "year": "1985",
+        "journal-title": "JR Soc Med"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I-BIB30",
+        "first-page": "489",
+        "volume": "97",
+        "author": "Wendell Smith",
+        "year": "1964",
+        "journal-title": "J Anat"
+      }
+    ],
+    "container-title": [
+      "Neurourology and Urodynamics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F(SICI)1520-6777(1996)15:1%3C17::AID-NAU2%3E3.0.CO;2-I",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/(SICI)1520-6777(1996)15:1%3C17::AID-NAU2%3E3.0.CO;2-I",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2021-07-01T08:20:23Z",
+      "timestamp": 1625127623000
+    },
+    "score": 50.72021,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1520-6777(1996)15:1<17::AID-NAU2>3.0.CO;2-I"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            1996
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1002/(sici)1520-6777(1996)15:1<17::aid-nau2>3.0.co;2-i",
+    "ISSN": [
+      "0733-2467",
+      "1520-6777"
+    ],
+    "issn-type": [
+      {
+        "value": "0733-2467",
+        "type": "print"
+      },
+      {
+        "value": "1520-6777",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2025-05-13T15:42:06Z",
+      "timestamp": 1747150926815,
+      "version": "3.40.5"
+    },
+    "reference-count": 11,
+    "publisher": "Wiley",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              12
+            ]
+          ],
+          "date-time": "2022-07-12T00:00:00Z",
+          "timestamp": 1657584000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Neurourology and Urodynamics"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1002/nau.25003",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ],
+      "date-time": "2022-07-12T12:34:11Z",
+      "timestamp": 1657629251000
+    },
+    "page": "1633-1634",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Regarding ‘effect of additional acupuncture to pelvic floor exercise on urinary incontinence’ Wan OYK et al. (2022): Neurourol Urodyn"
+    ],
+    "prefix": "10.1002",
+    "volume": "41",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8886-1144",
+        "authenticated-orcid": false,
+        "given": "Elif Balevi",
+        "family": "Batur",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Physical Medicine and Rehabilitation Selcuk University School of Medicine Konya Turkey"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7945-7326",
+        "authenticated-orcid": false,
+        "given": "Ali Furkan",
+        "family": "Batur",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Urology Institution University Hospitals Cleveland Medical Center Cleveland Ohio USA"
+          },
+          {
+            "name": "Department of Urology Selcuk University School of Medicine Konya Turkey"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_1_4_2_1",
+        "DOI": "10.1002/nau.24918"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_1_4_3_1",
+        "DOI": "10.1001/jama.2017.12137"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_1_4_4_1",
+        "DOI": "10.1016/B978-0-12-411545-3.00001-8"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_1_4_5_1",
+        "DOI": "10.1016/j.neulet.2008.04.100"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_1_4_6_1",
+        "DOI": "10.1093/qjmed/hct196"
+      },
+      {
+        "unstructured": "HardingCK LapitanMC ArlandisS et al. EAU Guidelines on Management of Non‐Neurogenic Female Lower Urinary Tract Symptoms ISBN 978‐94‐92671‐16‐5. EAU Guidelines Office Arnhem The Netherlands 2022.http://uroweb.org/guidelines/compilations-of-all-guidelines/",
+        "key": "e_1_2_1_4_7_1"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_1_4_8_1",
+        "DOI": "10.1016/j.juro.2017.06.061"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_1_4_9_1",
+        "DOI": "10.1007/s00345-019-02828-1"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_1_4_10_1",
+        "DOI": "10.1097/MD.0000000000009838"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_1_4_11_1",
+        "DOI": "10.1001/jama.2017.7220"
+      },
+      {
+        "doi-asserted-by": "publisher",
+        "key": "e_1_2_1_4_12_1",
+        "DOI": "10.1177/0300060520948337"
+      }
+    ],
+    "container-title": [
+      "Neurourology and Urodynamics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/nau.25003",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/nau.25003",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/nau.25003",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          23
+        ]
+      ],
+      "date-time": "2023-08-23T03:50:46Z",
+      "timestamp": 1692762646000
+    },
+    "score": 49.01678,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/nau.25003"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    },
+    "references-count": 11,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/nau.25003"
+    ],
+    "URL": "https://doi.org/10.1002/nau.25003",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0733-2467",
+      "1520-6777"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0733-2467"
+      },
+      {
+        "type": "electronic",
+        "value": "1520-6777"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2022-05-15",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2022-05-18",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2022-07-12",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T12:44:59Z",
+      "timestamp": 1761741899702
+    },
+    "reference-count": 0,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 6817,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Neurourol. Urodyn."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "DOI": "10.1002/(sici)1520-6777(1997)16:3<153::aid-nau4>3.3.co;2-k",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          8,
+          25
+        ]
+      ],
+      "date-time": "2002-08-25T15:47:39Z",
+      "timestamp": 1030290459000
+    },
+    "page": "153-160",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Sphincteric incontinence: The primary cause of post‐prostatectomy incontinence in patients with prostate cancer"
+    ],
+    "prefix": "10.1002",
+    "volume": "16",
+    "author": [
+      {
+        "given": "Michael G.",
+        "family": "Desautel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rakesh",
+        "family": "Kapoor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gopal H.",
+        "family": "Badlani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "container-title": [
+      "Neurourology and Urodynamics"
+    ],
+    "link": [
+      {
+        "URL": "http://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F(SICI)1520-6777(1997)16:3%3C153::AID-NAU4%3E3.3.CO;2-K",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2017-10-10T13:17:33Z",
+      "timestamp": 1507641453000
+    },
+    "score": 47.56952,
+    "resource": {
+      "primary": {
+        "URL": "http://doi.wiley.com/10.1002/%28SICI%291520-6777%281997%2916%3A3%3C153%3A%3AAID-NAU4%3E3.3.CO%3B2-K"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3"
+    },
+    "URL": "https://doi.org/10.1002/(sici)1520-6777(1997)16:3<153::aid-nau4>3.3.co;2-k",
+    "ISSN": [
+      "0733-2467",
+      "1520-6777"
+    ],
+    "issn-type": [
+      {
+        "value": "0733-2467",
+        "type": "print"
+      },
+      {
+        "value": "1520-6777",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2026-06-06T04:45:19Z",
+      "timestamp": 1780721119431,
+      "version": "3.54.1"
+    },
+    "reference-count": 25,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2015-09-01T00:00:00Z",
+          "timestamp": 1441065600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 6817,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Neurourol. Urodyn."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "DOI": "10.1002/(sici)1520-6777(1997)16:3<153::aid-nau4>3.0.co;2-d",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2004,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2004-11-12T08:47:02Z",
+      "timestamp": 1100249222000
+    },
+    "page": "153-160",
+    "source": "Crossref",
+    "is-referenced-by-count": 65,
+    "title": [
+      "Sphincteric incontinence: The primary cause of post-prostatectomy incontinence in patients with prostate cancer"
+    ],
+    "prefix": "10.1002",
+    "volume": "16",
+    "author": [
+      {
+        "given": "Michael G.",
+        "family": "Desautel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rakesh",
+        "family": "Kapoor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gopal H.",
+        "family": "Badlani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "reference": [
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.1002/nau.1930040409",
+        "volume": "4",
+        "author": "Abrams",
+        "year": "1985",
+        "journal-title": "Neurourol Urodynam"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB2",
+        "author": "Badlani",
+        "year": "1993",
+        "unstructured": ", (1993): A tool for the objective assessment of passive incontinence. Contemp Urol July:29."
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "16",
+        "DOI": "10.1016/S0022-5347(01)67212-4",
+        "volume": "154",
+        "author": "Chao",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB4",
+        "author": "Flood",
+        "year": "1995",
+        "unstructured": "(1995): The effect of the urethral catheter on leak point pressure determination in patients being assessed for urethral reconstruction. Abstract, Urodynamic Society Meeting, Las Vegas."
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1016/S0094-0143(21)00990-3",
+        "volume": "18",
+        "author": "Foote",
+        "year": "1991",
+        "journal-title": "Urol Clin N Amer"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "622",
+        "DOI": "10.1016/0090-4295(93)90524-E",
+        "volume": "42",
+        "author": "Fowler",
+        "year": "1993",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1034",
+        "DOI": "10.1016/S0022-5347(01)67629-8",
+        "volume": "153",
+        "author": "Goluboff",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "478a",
+        "DOI": "10.1016/S0022-5347(17)34997-2",
+        "volume": "151",
+        "author": "Gormley",
+        "year": "1994",
+        "journal-title": "J Urol Part 2"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1189",
+        "DOI": "10.1016/S0022-5347(17)44445-4",
+        "volume": "137",
+        "author": "Igel",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB10",
+        "author": "Juma",
+        "year": "1995",
+        "unstructured": ", (1995): Does the leak point pressure predict the severity of urinary incontinence in the male patient? Abstract, Urodynamic Society Meeting, Las Vegas."
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "483",
+        "DOI": "10.1016/0090-4295(91)80245-3",
+        "volume": "38",
+        "author": "Khan",
+        "year": "1991",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1038",
+        "DOI": "10.1016/S0022-5347(01)67630-4",
+        "volume": "153",
+        "author": "Leach",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1002/nau.1930110203",
+        "volume": "11",
+        "author": "Leach",
+        "year": "1992a",
+        "journal-title": "Neurourol Urodynam"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.1002/nau.1930110204",
+        "volume": "11",
+        "author": "Leach",
+        "year": "1992b",
+        "journal-title": "Neurourol Urodynam"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "574",
+        "DOI": "10.1016/S0022-5347(17)43263-0",
+        "volume": "138",
+        "author": "Leach",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1256",
+        "DOI": "10.1016/S0022-5347(01)66235-9",
+        "volume": "155",
+        "author": "Leach",
+        "year": "1996",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1016/S0022-5347(17)56253-9",
+        "volume": "122",
+        "author": "Mayo",
+        "year": "1979",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1452",
+        "DOI": "10.1016/S0022-5347(17)35806-8",
+        "volume": "150",
+        "author": "McGuire",
+        "year": "1993",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "708",
+        "DOI": "10.1016/S0022-5347(17)49836-3",
+        "volume": "132",
+        "author": "O'Donnell",
+        "year": "1984",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "478a",
+        "DOI": "10.1016/S0022-5347(17)34997-2",
+        "volume": "151",
+        "author": "Payne",
+        "year": "1994",
+        "journal-title": "J Urol Part 2"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "994",
+        "DOI": "10.1016/S0022-5347(17)38511-7",
+        "volume": "145",
+        "author": "Petros",
+        "year": "1991",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "708",
+        "DOI": "10.1016/S0022-5347(17)49836-3",
+        "volume": "132",
+        "author": "Rudy",
+        "year": "1984",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB23",
+        "first-page": "355",
+        "volume-title": "Complications of Urologic Surgery",
+        "author": "Smith",
+        "year": "1990",
+        "unstructured": "(1990): Complications of transurethral surgery. In (eds): “Complications of Urologic Surgery”, 2nd ed. Philadelphia: WB Saunders, pp 355–376."
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.1016/S0022-5347(17)38382-9",
+        "volume": "145",
+        "author": "Steiner",
+        "year": "1991",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D-BIB25",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1002/nau.1930010107",
+        "volume": "1",
+        "author": "Yalla",
+        "year": "1992",
+        "journal-title": "Neurourol Urodynam"
+      }
+    ],
+    "container-title": [
+      "Neurourology and Urodynamics"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F(SICI)1520-6777(1997)16:3%3C153::AID-NAU4%3E3.0.CO;2-D",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full/10.1002/(SICI)1520-6777(1997)16:3%3C153::AID-NAU4%3E3.0.CO;2-D",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2021-07-01T09:00:47Z",
+      "timestamp": 1625130047000
+    },
+    "score": 47.348396,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "references-count": 25,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            1997
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1002/(sici)1520-6777(1997)16:3<153::aid-nau4>3.0.co;2-d",
+    "ISSN": [
+      "0733-2467",
+      "1520-6777"
+    ],
+    "issn-type": [
+      {
+        "value": "0733-2467",
+        "type": "print"
+      },
+      {
+        "value": "1520-6777",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    }
+  }
+]

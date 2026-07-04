@@ -1,0 +1,1615 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          29
+        ]
+      ],
+      "date-time": "2022-11-29T05:30:21Z",
+      "timestamp": 1669699821223
+    },
+    "reference-count": 3,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2008-02-01T00:00:00Z",
+          "timestamp": 1201824000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2005.12.053",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2008-03-06T18:27:11Z",
+      "timestamp": 1204828031000
+    },
+    "page": "362",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Re: Bianco FJ, Scardino PT, and Eastham JA: Radical Prostatectomy: Long-term Cancer Control and Recovery of Sexual and Urinary Function (“Trifecta”) (Urology 66(5 suppl): 83–94, 2005)"
+    ],
+    "prefix": "10.1016",
+    "volume": "71",
+    "author": [
+      {
+        "given": "Laurent",
+        "family": "Salomon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "5 suppl",
+        "key": "10.1016/j.urology.2005.12.053_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1016/j.urology.2005.06.116",
+        "article-title": "Radical prostatectomy: long-term cancer control and recovery of sexual and urinary function (“Trifecta”)",
+        "volume": "66",
+        "author": "Bianco",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2005.12.053_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1001/jama.273.2.129",
+        "article-title": "Quality-of-life outcomes in men treated for localized prostate cancer",
+        "volume": "273",
+        "author": "Litwin",
+        "year": "1995",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.urology.2005.12.053_bib3",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.eururo.2003.09.009",
+        "article-title": "Combined reporting of cancer control and functional results of radical prostatectomy",
+        "volume": "44",
+        "author": "Salomon",
+        "year": "2003",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429507018778?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429507018778?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2018-12-31T02:21:54Z",
+      "timestamp": 1546222914000
+    },
+    "score": 142.75488,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429507018778"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          2
+        ]
+      ]
+    },
+    "references-count": 3,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429507018778"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2005.12.053",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2022-03-29T06:34:37Z",
+      "timestamp": 1648535677454
+    },
+    "reference-count": 1,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2008-02-01T00:00:00Z",
+          "timestamp": 1201824000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2005.12.054",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2008-03-06T23:27:11Z",
+      "timestamp": 1204846031000
+    },
+    "page": "361",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Re: Bianco FJ, Scardino PT, and Eastham JA: Radical Prostatectomy: Long-term Cancer Control and Recovery of Sexual and Urinary Function (“Trifecta”) (Urology 66(5 suppl): 83–94, 2005)"
+    ],
+    "prefix": "10.1016",
+    "volume": "71",
+    "author": [
+      {
+        "given": "Lieven",
+        "family": "Goeman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Steven",
+        "family": "Joniau",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hendrik",
+        "family": "Van Poppel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.urology.2005.12.054_bib1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.eururo.2003.09.009",
+        "article-title": "Combined reporting of cancer control and functional results of radical prostatectomy",
+        "volume": "44",
+        "author": "Salomon",
+        "year": "2003",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S009042950701878X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S009042950701878X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2018-12-31T07:21:55Z",
+      "timestamp": 1546240915000
+    },
+    "score": 136.99165,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S009042950701878X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          2
+        ]
+      ]
+    },
+    "references-count": 1,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S009042950701878X"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2005.12.054",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          25
+        ]
+      ],
+      "date-time": "2026-03-25T11:53:03Z",
+      "timestamp": 1774439583910,
+      "version": "3.50.1"
+    },
+    "reference-count": 38,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2005,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2005-11-01T00:00:00Z",
+          "timestamp": 1130803200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2005.06.116",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          9,
+          28
+        ]
+      ],
+      "date-time": "2005-09-28T11:08:36Z",
+      "timestamp": 1127905716000
+    },
+    "page": "83-94",
+    "source": "Crossref",
+    "is-referenced-by-count": 449,
+    "special_numbering": "S",
+    "title": [
+      "Radical prostatectomy: Long-term cancer control and recovery of sexual and urinary function (“trifecta”)"
+    ],
+    "prefix": "10.1016",
+    "volume": "66",
+    "author": [
+      {
+        "suffix": "Jr",
+        "given": "Fernando J.",
+        "family": "Bianco",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Peter T.",
+        "family": "Scardino",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "James A.",
+        "family": "Eastham",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "914",
+        "DOI": "10.1016/S0022-5347(05)64542-9",
+        "article-title": "The early diagnosis and radical cure of carcinoma of the prostate",
+        "volume": "168",
+        "author": "Young",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1016/S0022-5347(17)69374-1",
+        "article-title": "Retropubic prostatectomy",
+        "volume": "60",
+        "author": "Millin",
+        "year": "1948",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib4",
+        "first-page": "159",
+        "article-title": "Purification of a human prostate-specific antigen",
+        "volume": "17",
+        "author": "Wang",
+        "year": "1979",
+        "journal-title": "Invest Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1276",
+        "DOI": "10.1093/jnci/djg040",
+        "article-title": "Annual report to the nation on the status of cancer, 1975–2000, featuring the uses of surveillance data for cancer prevention and control",
+        "volume": "95",
+        "author": "Weir",
+        "year": "2003",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "781",
+        "DOI": "10.1056/NEJMoa012794",
+        "article-title": "A randomized trial comparing radical prostatectomy with watchful waiting in early prostate cancer",
+        "volume": "347",
+        "author": "Holmberg",
+        "year": "2002",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "242",
+        "DOI": "10.3816/CGC.2003.n.006",
+        "article-title": "Ten-year survival after radical prostatectomy",
+        "volume": "1",
+        "author": "Bianco",
+        "year": "2003",
+        "journal-title": "Clin Prostate Cancer"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/S0094-0143(05)70163-4",
+        "article-title": "Long-term biochemical disease-free and cancer-specific survival following anatomic radical retropubic prostatectomy",
+        "volume": "28",
+        "author": "Han",
+        "year": "2001",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "910",
+        "DOI": "10.1097/01.ju.0000134888.22332.bb",
+        "article-title": "Cancer progression and survival rates following anatomical radical retropubic prostatectomy in 3,478 consecutive patients",
+        "volume": "172",
+        "author": "Roehl",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1138",
+        "DOI": "10.1056/NEJMsa011788",
+        "article-title": "Variations in morbidity after radical prostatectomy",
+        "volume": "346",
+        "author": "Begg",
+        "year": "2002",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1707",
+        "DOI": "10.1016/S0022-5347(01)65488-0",
+        "article-title": "Risk factors for urinary incontinence after radical prostatectomy",
+        "volume": "156",
+        "author": "Eastham",
+        "year": "1996",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1001/jama.273.2.129",
+        "article-title": "Quality-of-life outcomes in men treated for localized prostate cancer",
+        "volume": "273",
+        "author": "Litwin",
+        "year": "1995",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "354",
+        "DOI": "10.1001/jama.283.3.354",
+        "article-title": "Urinary and sexual function after radical prostatectomy for clinically localized prostate cancer",
+        "volume": "283",
+        "author": "Stanford",
+        "year": "2000",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "2418",
+        "DOI": "10.1016/S0022-5347(01)62202-X",
+        "article-title": "Anatomic radical prostatectomy",
+        "volume": "160",
+        "author": "Walsh",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1792",
+        "DOI": "10.1002/1097-0142(20001015)89:8<1792::AID-CNCR20>3.0.CO;2-4",
+        "article-title": "A nationwide charge comparison of the principal treatments for early-stage prostate carcinoma",
+        "volume": "89",
+        "author": "Brandeis",
+        "year": "2000",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1261",
+        "DOI": "10.1097/01.ju.0000055141.36916.be",
+        "article-title": "Laparoscopic radical prostatectomy",
+        "volume": "169",
+        "author": "Guillonneau",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "622",
+        "DOI": "10.1016/0090-4295(93)90524-E",
+        "article-title": "Patient-reported complications and follow-up treatment after radical prostatectomy: the National Medicare Experience: 1988–1990 (updated June 1993)",
+        "volume": "42",
+        "author": "Fowler",
+        "year": "1993",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "2227",
+        "DOI": "10.1097/01.ju.0000145222.94455.73",
+        "article-title": "Potency, continence and complications in 3,477 consecutive radical retropubic prostatectomies",
+        "volume": "172",
+        "author": "Kundu",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1817",
+        "DOI": "10.1016/S0022-5347(17)32392-3",
+        "article-title": "National patterns of prostate cancer treatment by radical prostatectomy",
+        "volume": "152",
+        "author": "Murphy",
+        "year": "1994",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1929",
+        "DOI": "10.1016/S0022-5347(05)66921-2",
+        "article-title": "Factors predicting recovery of erections after radical prostatectomy",
+        "volume": "164",
+        "author": "Rabbani",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.1016/S0022-5347(17)38382-9",
+        "article-title": "Impact of anatomical radical prostatectomy on urinary continence",
+        "volume": "145",
+        "author": "Steiner",
+        "year": "1991",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/S0090-4295(99)00397-0",
+        "article-title": "Patient-reported urinary continence and sexual function after anatomic radical prostatectomy",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "528",
+        "DOI": "10.1016/S0022-5347(01)69079-7",
+        "article-title": "Cancer control with radical prostatectomy alone in 1,000 consecutive patients",
+        "volume": "167",
+        "author": "Hull",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib24",
+        "series-title": "Radical Prostatectomy for Clinical Stage T1 and T2 Prostate Cancer",
+        "first-page": "722",
+        "author": "Eastham",
+        "year": "2000"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib25",
+        "series-title": "Nerve-Sparing Radical Retropubic Prostatectomy",
+        "first-page": "111",
+        "author": "Stapleton",
+        "year": "1999"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib26",
+        "first-page": "1848",
+        "article-title": "Variations among high volume surgeons in the rate of complications after radical prostatectomy",
+        "volume": "173",
+        "author": "Bianco",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "362",
+        "DOI": "10.1016/S0022-5347(17)37794-7",
+        "article-title": "Effect of temporary occlusion of hypogastric arteries on blood loss during radical retropubic prostatectomy",
+        "volume": "146",
+        "author": "Kavoussi",
+        "year": "1991",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/S0022-5347(17)46991-6",
+        "article-title": "Blood transfusion and anesthetic practices in radical retropubic prostatectomy",
+        "volume": "134",
+        "author": "Peters",
+        "year": "1985",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "198",
+        "DOI": "10.1016/S0022-5347(17)56718-X",
+        "article-title": "An anatomical approach to the surgical management of the dorsal vein and Santorini’s plexus during radical retropubic surgery",
+        "volume": "121",
+        "author": "Reiner",
+        "year": "1979",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "1904",
+        "DOI": "10.1002/(SICI)1097-0142(19980515)82:10<1904::AID-CNCR13>3.0.CO;2-X",
+        "article-title": "Rapid screening for psychologic distress in men with prostate carcinoma",
+        "volume": "82",
+        "author": "Roth",
+        "year": "1998",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "2910",
+        "DOI": "10.1002/cncr.11386",
+        "article-title": "The memorial anxiety scale for prostate cancer",
+        "volume": "97",
+        "author": "Roth",
+        "year": "2003",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib32",
+        "first-page": "117",
+        "article-title": "Long-term results of radical prostatectomy in clinically localized prostate cancer",
+        "volume": "7",
+        "author": "Lepor",
+        "year": "1988",
+        "journal-title": "NCI Monogr"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "1137",
+        "DOI": "10.1016/S0022-5347(17)47659-2",
+        "article-title": "Prognostic factors in localized prostatic carcinoma",
+        "volume": "134",
+        "author": "Pontes",
+        "year": "1985",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1850",
+        "DOI": "10.1016/S0022-5347(17)32399-6",
+        "article-title": "Long-term (15 years) results after radical prostatectomy for clinically localized (stage T2c or lower) prostate cancer",
+        "volume": "152",
+        "author": "Zincke",
+        "year": "1994",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "238",
+        "DOI": "10.1016/0090-4295(82)90491-5",
+        "article-title": "Bilateral pelvic lymphadenectomy and radical retropubic prostatectomy for adenocarcinoma of prostate with regional lymph node involvement",
+        "volume": "19",
+        "author": "Zincke",
+        "year": "1982",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "1422",
+        "DOI": "10.1016/S0022-5347(01)64230-7",
+        "article-title": "Outcome based staging for clinically localized adenocarcinoma of the prostate",
+        "volume": "158",
+        "author": "D’Amico",
+        "year": "1997",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "766",
+        "DOI": "10.1093/jnci/90.10.766",
+        "article-title": "A preoperative nomogram for disease recurrence following radical prostatectomy for prostate cancer",
+        "volume": "90",
+        "author": "Kattan",
+        "year": "1998",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "10.1016/j.urology.2005.06.116_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "1499",
+        "DOI": "10.1200/JCO.1999.17.5.1499",
+        "article-title": "Postoperative nomogram for disease recurrence after radical prostatectomy for prostate cancer",
+        "volume": "17",
+        "author": "Kattan",
+        "year": "1999",
+        "journal-title": "J Clin Oncol"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429505009726?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429505009726?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          26
+        ]
+      ],
+      "date-time": "2019-03-26T09:17:34Z",
+      "timestamp": 1553591854000
+    },
+    "score": 128.37038,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429505009726"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          11
+        ]
+      ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2005,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429505009726"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2005.06.116",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2005,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2025-09-25T03:05:23Z",
+      "timestamp": 1758769523481,
+      "version": "3.44.0"
+    },
+    "reference-count": 4,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2020-11-01T00:00:00Z",
+          "timestamp": 1604188800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2020-11-01T00:00:00Z",
+          "timestamp": 1604188800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "goldjournal.net",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2020.04.045",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          17
+        ]
+      ],
+      "date-time": "2020-04-17T22:00:21Z",
+      "timestamp": 1587160821000
+    },
+    "page": "313",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "C",
+    "title": [
+      "Commentary RE: Radical Prostatectomy: Long-Term Results on Cancer Control, Survival and Trifecta (Freedom from PSA, Continence, and Potency) Probabilities"
+    ],
+    "prefix": "10.1016",
+    "volume": "145",
+    "author": [
+      {
+        "given": "James A.",
+        "family": "Eastham",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Peter T.",
+        "family": "Scardino",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.urology.2020.04.045_bib0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "1171",
+        "DOI": "10.1093/jnci/djm060",
+        "article-title": "The surgical learning curve for prostate cancer control after radical prostatectomy",
+        "volume": "99",
+        "author": "Vickers",
+        "year": "2007",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "10.1016/j.urology.2020.04.045_bib0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "977",
+        "DOI": "10.1016/j.juro.2009.11.015",
+        "article-title": "Variations among experienced surgeons in cancer control after open radical prostatectomy",
+        "volume": "183",
+        "author": "Bianco",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "5 Suppl",
+        "key": "10.1016/j.urology.2020.04.045_bib0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1016/j.urology.2005.06.116",
+        "article-title": "Radical prostatectomy: long-term cancer control and recovery of sexual and urinary function (“trifecta”)",
+        "volume": "66",
+        "author": "Bianco",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2020.04.045_bib0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "1138",
+        "DOI": "10.1056/NEJMsa011788",
+        "article-title": "Variations in morbidity after radical prostatectomy",
+        "volume": "346",
+        "author": "Begg",
+        "year": "2002",
+        "journal-title": "N Engl J Med"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S009042952030426X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S009042952030426X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2025-09-25T02:15:23Z",
+      "timestamp": 1758766523000
+    },
+    "score": 71.47993,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S009042952030426X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "references-count": 4,
+    "alternative-id": [
+      "S009042952030426X"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2020.04.045",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0090-4295"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Commentary RE: Radical Prostatectomy: Long-Term Results on Cancer Control, Survival and Trifecta (Freedom from PSA, Continence, and Potency) Probabilities",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.urology.2020.04.045",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.urology.2005.06.116",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T19:01:52Z",
+      "timestamp": 1761764512077
+    },
+    "reference-count": 14,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2005,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2005-09-01T00:00:00Z",
+          "timestamp": 1125532800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2005,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2005.04.002",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2005,
+          9,
+          3
+        ]
+      ],
+      "date-time": "2005-09-03T07:14:19Z",
+      "timestamp": 1125731659000
+    },
+    "page": "623-626",
+    "source": "Crossref",
+    "is-referenced-by-count": 32,
+    "title": [
+      "Recovery of erectile function after salvage radical prostatectomy for locally recurrent prostate cancer after radiotherapy"
+    ],
+    "prefix": "10.1016",
+    "volume": "66",
+    "author": [
+      {
+        "given": "Timothy A.",
+        "family": "Masterson",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrew J.",
+        "family": "Stephenson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Peter T.",
+        "family": "Scardino",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "James A.",
+        "family": "Eastham",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1792",
+        "DOI": "10.1002/1097-0142(20001015)89:8<1792::AID-CNCR20>3.0.CO;2-4",
+        "article-title": "A nationwide charge comparison of the principal treatments for early stage prostate carcinoma",
+        "volume": "89",
+        "author": "Brandeis",
+        "year": "2000",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1632",
+        "DOI": "10.1016/S0022-5347(05)67511-8",
+        "article-title": "Prostate specific antigen only progression of prostate cancer",
+        "volume": "163",
+        "author": "Moul",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "915",
+        "DOI": "10.1016/S0360-3016(03)00632-1",
+        "article-title": "Long-term multi-institutional analysis of stage T1-T2 prostate cancer treated with radiotherapy in the PSA era",
+        "volume": "57",
+        "author": "Kuban",
+        "year": "2003",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "989",
+        "DOI": "10.1002/(SICI)1097-0142(19980901)83:5<989::AID-CNCR26>3.0.CO;2-Q",
+        "article-title": "Ten-year disease free survival after transperineal sonography-guided iodine-125 brachytherapy with or without 45-Gray external beam irradiation in the treatment of patients with clinically localized, low to high Gleason grade prostate carcinoma",
+        "volume": "83",
+        "author": "Ragde",
+        "year": "1998",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "677",
+        "DOI": "10.1016/S0360-3016(02)02977-2",
+        "article-title": "Prostate biopsy status and PSA nadir level as early surrogates for treatment failure",
+        "volume": "54",
+        "author": "Pollack",
+        "year": "2002",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1016/0360-3016(95)00154-Q",
+        "article-title": "Prostate cancer and radiation therapy—the message conveyed by serum prostate-specific antigen",
+        "volume": "33",
+        "author": "Zagars",
+        "year": "1995",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "328",
+        "DOI": "10.1002/(SICI)1097-0142(19970115)79:2<328::AID-CNCR16>3.0.CO;2-2",
+        "article-title": "Radiotherapy for localized prostate carcinoma",
+        "volume": "79",
+        "author": "Crook",
+        "year": "1997",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "2239",
+        "DOI": "10.1097/01.ju.0000140960.63108.39",
+        "article-title": "Morbidity and functional outcomes of salvage radical prostatectomy for locally recurrent prostate cancer after radiation therapy",
+        "volume": "172",
+        "author": "Stephenson",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "448",
+        "DOI": "10.1016/j.ijrobp.2004.09.049",
+        "article-title": "Long-term oncologic results of salvage radical prostatectomy for locally recurrent prostate cancer after radiotherapy",
+        "volume": "62",
+        "author": "Bianco",
+        "year": "2005",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "804A",
+        "DOI": "10.1016/S0022-5347(18)38053-4",
+        "article-title": "Recovery of potency after cavernous nerve graft reconstruction at radical prostatectomy",
+        "volume": "171",
+        "author": "Patel",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1929",
+        "DOI": "10.1016/S0022-5347(05)66921-2",
+        "article-title": "Factors predicting recovery of erections after radical prostatectomy",
+        "volume": "164",
+        "author": "Rabbani",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "104",
+        "DOI": "10.1097/00005392-199501000-00037",
+        "article-title": "Salvage radical prostatectomy",
+        "volume": "153",
+        "author": "Rogers",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "457",
+        "DOI": "10.2307/2281868",
+        "article-title": "Nonparametric estimation from incomplete observations",
+        "volume": "53",
+        "author": "Kaplan",
+        "year": "1958",
+        "journal-title": "J Am Stat Assoc"
+      },
+      {
+        "key": "10.1016/j.urology.2005.04.002_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "398",
+        "DOI": "10.1016/S0022-5347(05)68569-2",
+        "article-title": "Quality of life after salvage cryotherapy",
+        "volume": "162",
+        "author": "Perrotte",
+        "year": "1999",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429505005029?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429505005029?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2019-03-19T05:06:57Z",
+      "timestamp": 1552972017000
+    },
+    "score": 69.55733,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429505005029"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2005,
+          9
+        ]
+      ]
+    },
+    "references-count": 14,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2005,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429505005029"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2005.04.002",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2005,
+          9
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,583 @@
+{
+  "paper": "PMC11742521",
+  "source_file": "pmcid:11742521",
+  "generated": "2026-07-01T14:21:28.608469+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "dry_run_skipped": 69,
+    "no_abstract_found": 1
+  },
+  "flagged": [
+    {
+      "sentence": "This finding dovetails with previous work suggesting that—in addition to the initial response to salient stimuli (such as opioid-related images)—how individuals recover or disengage from such stimuli conveys important information.[46],[47],[48] Drug cue paradigms are a popular approach to investigate the neural mechanisms underpinning OUD.[9] Brain responses to opioid-related stimuli are related to treatment adherence and withdrawal symptoms.[49],[50] However, less work has been focused on the rest period, with no cue presentation.",
+      "citation_number": 47,
+      "ref_text": "Lapate RC, Heller AS. Context matters for affective chronometry. Nat Hum Behav. 2020;4(7):688-689. doi:10.1038/s41562-020-0860-732341491",
+      "doi": "10.1038/s41562-020-0860-7",
+      "status": "no_abstract_found",
+      "error": ""
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "Opioid use disorder (OUD) is a chronic condition impacting millions of people globally.[1] Individuals with OUD face increased risks of injuries, incarceration, and premature mortality.[2],[3] One prominent characteristic of OUD is altered cognitive control.[4],[5] Individuals with OUD showed worse performance when the need to suppress automatic response arose.[6],[7],[8] This was accompanied by hypoactivation in the anterior cingulate and the lateral and medial prefrontal cortex.[8],[9],[10] Elucidating the etiology of altered cognitive control in OUD may lead to more targeted interventions.",
+      "citation_number": 1,
+      "ref_text": "Strang J, Volkow ND, Degenhardt L, . Opioid use disorder. Nat Rev Dis Primers. 2020;6(1):3. doi:10.1038/s41572-019-0137-531919349",
+      "doi": "10.1038/s41572-019-0137-5",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Opioid use disorder (OUD) is a chronic condition impacting millions of people globally.[1] Individuals with OUD face increased risks of injuries, incarceration, and premature mortality.[2],[3] One prominent characteristic of OUD is altered cognitive control.[4],[5] Individuals with OUD showed worse performance when the need to suppress automatic response arose.[6],[7],[8] This was accompanied by hypoactivation in the anterior cingulate and the lateral and medial prefrontal cortex.[8],[9],[10] Elucidating the etiology of altered cognitive control in OUD may lead to more targeted interventions.",
+      "citation_number": 2,
+      "ref_text": "Paulozzi LJ. Prescription drug overdoses: a review. J Safety Res. 2012;43(4):283-289. doi:10.1016/j.jsr.2012.08.00923127678",
+      "doi": "10.1016/j.jsr.2012.08.009",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Opioid use disorder (OUD) is a chronic condition impacting millions of people globally.[1] Individuals with OUD face increased risks of injuries, incarceration, and premature mortality.[2],[3] One prominent characteristic of OUD is altered cognitive control.[4],[5] Individuals with OUD showed worse performance when the need to suppress automatic response arose.[6],[7],[8] This was accompanied by hypoactivation in the anterior cingulate and the lateral and medial prefrontal cortex.[8],[9],[10] Elucidating the etiology of altered cognitive control in OUD may lead to more targeted interventions.",
+      "citation_number": 3,
+      "ref_text": "Bahji A, Cheng B, Gray S, Stuart H. Mortality among people with opioid use disorder: a systematic review and meta-analysis. J Addict Med. 2020;14(4):e118-e132. doi:10.1097/ADM.000000000000060632011406",
+      "doi": "10.1097/ADM.0000000000000606",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Opioid use disorder (OUD) is a chronic condition impacting millions of people globally.[1] Individuals with OUD face increased risks of injuries, incarceration, and premature mortality.[2],[3] One prominent characteristic of OUD is altered cognitive control.[4],[5] Individuals with OUD showed worse performance when the need to suppress automatic response arose.[6],[7],[8] This was accompanied by hypoactivation in the anterior cingulate and the lateral and medial prefrontal cortex.[8],[9],[10] Elucidating the etiology of altered cognitive control in OUD may lead to more targeted interventions.",
+      "citation_number": 4,
+      "ref_text": "Pirastu R, Fais R, Messina M, . Impaired decision-making in opiate-dependent subjects: effect of pharmacological therapies. Drug Alcohol Depend. 2006;83(2):163-168. doi:10.1016/j.drugalcdep.2005.11.00816343811",
+      "doi": "10.1016/j.drugalcdep.2005.11.008",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Opioid use disorder (OUD) is a chronic condition impacting millions of people globally.[1] Individuals with OUD face increased risks of injuries, incarceration, and premature mortality.[2],[3] One prominent characteristic of OUD is altered cognitive control.[4],[5] Individuals with OUD showed worse performance when the need to suppress automatic response arose.[6],[7],[8] This was accompanied by hypoactivation in the anterior cingulate and the lateral and medial prefrontal cortex.[8],[9],[10] Elucidating the etiology of altered cognitive control in OUD may lead to more targeted interventions.",
+      "citation_number": 5,
+      "ref_text": "Baldacchino A, Armanyous M, Balfour DJK, Humphris G, Matthews K. Neuropsychological functioning and chronic methadone use: a systematic review and meta-analysis. Neurosci Biobehav Rev. 2017;73:23-38. doi:10.1016/j.neubiorev.2016.11.00827913280",
+      "doi": "10.1016/j.neubiorev.2016.11.008",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Opioid use disorder (OUD) is a chronic condition impacting millions of people globally.[1] Individuals with OUD face increased risks of injuries, incarceration, and premature mortality.[2],[3] One prominent characteristic of OUD is altered cognitive control.[4],[5] Individuals with OUD showed worse performance when the need to suppress automatic response arose.[6],[7],[8] This was accompanied by hypoactivation in the anterior cingulate and the lateral and medial prefrontal cortex.[8],[9],[10] Elucidating the etiology of altered cognitive control in OUD may lead to more targeted interventions.",
+      "citation_number": 6,
+      "ref_text": "Yücel M, Lubman DI, Harrison BJ, . A combined spectroscopic and functional MRI investigation of the dorsal anterior cingulate region in opiate addiction. Mol Psychiatry. 2007;12(7):e2455165. doi:10.1038/sj.mp.400195517245325",
+      "doi": "10.1038/sj.mp.4001955",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Opioid use disorder (OUD) is a chronic condition impacting millions of people globally.[1] Individuals with OUD face increased risks of injuries, incarceration, and premature mortality.[2],[3] One prominent characteristic of OUD is altered cognitive control.[4],[5] Individuals with OUD showed worse performance when the need to suppress automatic response arose.[6],[7],[8] This was accompanied by hypoactivation in the anterior cingulate and the lateral and medial prefrontal cortex.[8],[9],[10] Elucidating the etiology of altered cognitive control in OUD may lead to more targeted interventions.",
+      "citation_number": 7,
+      "ref_text": "Shi Z, Langleben DD, O’Brien CP, Childress AR, Wiers CE. Multivariate pattern analysis links drug use severity to distributed cortical hypoactivity during emotional inhibitory control in opioid use disorder. Neuroimage Clin. 2021;32:102806. doi:10.1016/j.nicl.2021.10280634525436 PMC8436158",
+      "doi": "10.1016/j.nicl.2021.102806",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Opioid use disorder (OUD) is a chronic condition impacting millions of people globally.[1] Individuals with OUD face increased risks of injuries, incarceration, and premature mortality.[2],[3] One prominent characteristic of OUD is altered cognitive control.[4],[5] Individuals with OUD showed worse performance when the need to suppress automatic response arose.[6],[7],[8] This was accompanied by hypoactivation in the anterior cingulate and the lateral and medial prefrontal cortex.[8],[9],[10] Elucidating the etiology of altered cognitive control in OUD may lead to more targeted interventions.",
+      "citation_number": 8,
+      "ref_text": "Fu LP, Bi GH, Zou ZT, . Impaired response inhibition function in abstinent heroin dependents: an fMRI study. Neurosci Lett. 2008;438(3):322-326. doi:10.1016/j.neulet.2008.04.03318485592",
+      "doi": "10.1016/j.neulet.2008.04.033",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Opioid use disorder (OUD) is a chronic condition impacting millions of people globally.[1] Individuals with OUD face increased risks of injuries, incarceration, and premature mortality.[2],[3] One prominent characteristic of OUD is altered cognitive control.[4],[5] Individuals with OUD showed worse performance when the need to suppress automatic response arose.[6],[7],[8] This was accompanied by hypoactivation in the anterior cingulate and the lateral and medial prefrontal cortex.[8],[9],[10] Elucidating the etiology of altered cognitive control in OUD may lead to more targeted interventions.",
+      "citation_number": 9,
+      "ref_text": "Moningka H, Lichenstein S, Worhunsky PD, DeVito EE, Scheinost D, Yip SW. Can neuroimaging help combat the opioid epidemic? a systematic review of clinical and pharmacological challenge fMRI studies with recommendations for future research. Neuropsychopharmacology. 2019;44(2):259-273. doi:10.1038/s41386-018-0232-430283002 PMC6300537",
+      "doi": "10.1038/s41386-018-0232-4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Opioid use disorder (OUD) is a chronic condition impacting millions of people globally.[1] Individuals with OUD face increased risks of injuries, incarceration, and premature mortality.[2],[3] One prominent characteristic of OUD is altered cognitive control.[4],[5] Individuals with OUD showed worse performance when the need to suppress automatic response arose.[6],[7],[8] This was accompanied by hypoactivation in the anterior cingulate and the lateral and medial prefrontal cortex.[8],[9],[10] Elucidating the etiology of altered cognitive control in OUD may lead to more targeted interventions.",
+      "citation_number": 10,
+      "ref_text": "Forman SD, Dougherty GG, Casey BJ, . Opiate addicts lack error-dependent activation of rostral anterior cingulate. Biol Psychiatry. 2004;55(5):531-537. doi:10.1016/j.biopsych.2003.09.01115023582",
+      "doi": "10.1016/j.biopsych.2003.09.011",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While neuroimaging studies have greatly expanded our understanding of OUD and its related symptoms,[9],[11],[12] they adopt a static approach where brain activity is averaged over a minutes-long scan.",
+      "citation_number": 9,
+      "ref_text": "Moningka H, Lichenstein S, Worhunsky PD, DeVito EE, Scheinost D, Yip SW. Can neuroimaging help combat the opioid epidemic? a systematic review of clinical and pharmacological challenge fMRI studies with recommendations for future research. Neuropsychopharmacology. 2019;44(2):259-273. doi:10.1038/s41386-018-0232-430283002 PMC6300537",
+      "doi": "10.1038/s41386-018-0232-4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While neuroimaging studies have greatly expanded our understanding of OUD and its related symptoms,[9],[11],[12] they adopt a static approach where brain activity is averaged over a minutes-long scan.",
+      "citation_number": 11,
+      "ref_text": "Ieong HF, Yuan Z. Resting-state neuroimaging and neuropsychological findings in opioid use disorder during abstinence: a review. Front Hum Neurosci. 2017;11:169. doi:10.3389/fnhum.2017.0016928428748 PMC5382168",
+      "doi": "10.3389/fnhum.2017.00169",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While neuroimaging studies have greatly expanded our understanding of OUD and its related symptoms,[9],[11],[12] they adopt a static approach where brain activity is averaged over a minutes-long scan.",
+      "citation_number": 12,
+      "ref_text": "Huang Y, Ceceli AO, Kronberg G, . Association of Cortico-Striatal Engagement During Cue Reactivity, Reappraisal, and Savoring of Drug and Non-Drug Stimuli With Craving in Heroin Addiction. Am J Psychiatry. 2024;181(2):153-165. doi:10.1176/appi.ajp.2022075937434487 PMC11034831",
+      "doi": "10.1176/appi.ajp.20220759",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Specifically, variation in brain signals over time (ie, neural variability) supports flexible responses to evolving demands.[13],[14],[15] The inability to flexibly disengage from opioid-related information may relate to worse cognitive control and preoccupation, an important stage in the addiction cycle.[16] Therefore, investigating neural variability may lead to new insights about OUD.",
+      "citation_number": 13,
+      "ref_text": "Dinstein I, Heeger DJ, Behrmann M. Neural variability: friend or foe? Trends Cogn Sci. 2015;19(6):322-328. doi:10.1016/j.tics.2015.04.00525979849",
+      "doi": "10.1016/j.tics.2015.04.005",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Specifically, variation in brain signals over time (ie, neural variability) supports flexible responses to evolving demands.[13],[14],[15] The inability to flexibly disengage from opioid-related information may relate to worse cognitive control and preoccupation, an important stage in the addiction cycle.[16] Therefore, investigating neural variability may lead to new insights about OUD.",
+      "citation_number": 14,
+      "ref_text": "Garrett DD, Samanez-Larkin GR, MacDonald SW, Lindenberger U, McIntosh AR, Grady CL. Moment-to-moment brain signal variability: a next frontier in human brain mapping? Neurosci Biobehav Rev. 2013;37(4):610-624. doi:10.1016/j.neubiorev.2013.02.01523458776 PMC3732213",
+      "doi": "10.1016/j.neubiorev.2013.02.015",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Specifically, variation in brain signals over time (ie, neural variability) supports flexible responses to evolving demands.[13],[14],[15] The inability to flexibly disengage from opioid-related information may relate to worse cognitive control and preoccupation, an important stage in the addiction cycle.[16] Therefore, investigating neural variability may lead to new insights about OUD.",
+      "citation_number": 15,
+      "ref_text": "Uddin LQ. Bring the noise: reconceptualizing spontaneous neural activity. Trends Cogn Sci. 2020;24(9):734-746. doi:10.1016/j.tics.2020.06.00332600967 PMC7429348",
+      "doi": "10.1016/j.tics.2020.06.003",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Specifically, variation in brain signals over time (ie, neural variability) supports flexible responses to evolving demands.[13],[14],[15] The inability to flexibly disengage from opioid-related information may relate to worse cognitive control and preoccupation, an important stage in the addiction cycle.[16] Therefore, investigating neural variability may lead to new insights about OUD.",
+      "citation_number": 16,
+      "ref_text": "Volkow ND, Koob GF, McLellan AT. Neurobiologic advances from the brain disease model of addiction. N Engl J Med. 2016;374(4):363-371. doi:10.1056/NEJMra151148026816013 PMC6135257",
+      "doi": "10.1056/NEJMra1511480",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "How much time individuals spent in or how frequently they transitioned between brain states have been linked to psychiatric symptoms, such as hallucination, rumination, and dependence severity.[17],[18],[19],[20] Recent work has begun to apply brain states to understand dynamic alterations in OUD.[21] However, it remains unclear what behavioral implications altered brain dynamics may have in OUD.",
+      "citation_number": 17,
+      "ref_text": "Reinen JM, Chén OY, Hutchison RM, . The human cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychosis. Nat Commun. 2018;9(1):1157. doi:10.1038/s41467-018-03462-y29559638 PMC5861099",
+      "doi": "10.1038/s41467-018-03462-y",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "How much time individuals spent in or how frequently they transitioned between brain states have been linked to psychiatric symptoms, such as hallucination, rumination, and dependence severity.[17],[18],[19],[20] Recent work has begun to apply brain states to understand dynamic alterations in OUD.[21] However, it remains unclear what behavioral implications altered brain dynamics may have in OUD.",
+      "citation_number": 18,
+      "ref_text": "Miller RL, Yaesoubi M, Turner JA, . Higher dimensional meta-state analysis reveals reduced resting fMRI connectivity dynamism in schizophrenia patients. PLoS One. 2016;11(3):e0149849. doi:10.1371/journal.pone.014984926981625 PMC4794213",
+      "doi": "10.1371/journal.pone.0149849",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "How much time individuals spent in or how frequently they transitioned between brain states have been linked to psychiatric symptoms, such as hallucination, rumination, and dependence severity.[17],[18],[19],[20] Recent work has begun to apply brain states to understand dynamic alterations in OUD.[21] However, it remains unclear what behavioral implications altered brain dynamics may have in OUD.",
+      "citation_number": 19,
+      "ref_text": "Piguet C, Karahanoğlu FI, Saccaro LF, Van De Ville D, Vuilleumier P. Mood disorders disrupt the functional dynamics, not spatial organization of brain resting state networks. Neuroimage Clin. 2021;32:102833. doi:10.1016/j.nicl.2021.10283334619652 PMC8498469",
+      "doi": "10.1016/j.nicl.2021.102833",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "How much time individuals spent in or how frequently they transitioned between brain states have been linked to psychiatric symptoms, such as hallucination, rumination, and dependence severity.[17],[18],[19],[20] Recent work has begun to apply brain states to understand dynamic alterations in OUD.[21] However, it remains unclear what behavioral implications altered brain dynamics may have in OUD.",
+      "citation_number": 20,
+      "ref_text": "Zhai T, Gu H, Salmeron BJ, Stein EA, Yang Y. Disrupted dynamic interactions between large-scale brain networks in cocaine users are associated with dependence severity. Biol Psychiatry Cogn Neurosci Neuroimaging. 2023;8(6):672-679. doi:10.1016/j.bpsc.2022.08.01036064187 PMC12238966",
+      "doi": "10.1016/j.bpsc.2022.08.010",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "How much time individuals spent in or how frequently they transitioned between brain states have been linked to psychiatric symptoms, such as hallucination, rumination, and dependence severity.[17],[18],[19],[20] Recent work has begun to apply brain states to understand dynamic alterations in OUD.[21] However, it remains unclear what behavioral implications altered brain dynamics may have in OUD.",
+      "citation_number": 21,
+      "ref_text": "Zhang R, . Disrupted brain state dynamics in opioid and alcohol use disorder: attenuation by nicotine use. Neuropsychopharmacology. 2024;49(5):876-884. doi:10.1038/s41386-023-01750-w37935861 PMC10948795",
+      "doi": "10.1038/s41386-023-01750-w",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We investigated whether SEV may be altered in OUD using naturalistic functional magnetic resonance imaging (fMRI), which presents an opportunity to investigate brain dynamic alterations in a relatively ecologically valid and undisrupted manner.[22],[23] Previous work noted worse cognitive control in individuals with OUD.",
+      "citation_number": 22,
+      "ref_text": "Parkinson C, Kleinbaum AM, Wheatley T. Similar neural responses predict friendship. Nat Commun. 2018;9(1):332. doi:10.1038/s41467-017-02722-729382820 PMC5790806",
+      "doi": "10.1038/s41467-017-02722-7",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We investigated whether SEV may be altered in OUD using naturalistic functional magnetic resonance imaging (fMRI), which presents an opportunity to investigate brain dynamic alterations in a relatively ecologically valid and undisrupted manner.[22],[23] Previous work noted worse cognitive control in individuals with OUD.",
+      "citation_number": 23,
+      "ref_text": "Sonkusare S, Breakspear M, Guo C. Naturalistic stimuli in neuroscience: critically acclaimed. Trends Cogn Sci. 2019;23(8):699-714. doi:10.1016/j.tics.2019.05.00431257145",
+      "doi": "10.1016/j.tics.2019.05.004",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "A standard preprocessing pipeline[24] was applied to the structural and functional data.",
+      "citation_number": 24,
+      "ref_text": "Ye J, Sun H, Gao S, . Altered brain dynamics across bipolar disorder and schizophrenia during rest and task switching revealed by overlapping brain states. Biol Psychiatry. 2023;94(7):580-590. doi:10.1016/j.biopsych.2023.03.02437031780 PMC10524212",
+      "doi": "10.1016/j.biopsych.2023.03.024",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We leveraged a new multivariate computational framework to assess brain dynamics at the whole-brain level[24] (eAppendix in Supplement 1; Figure 1).",
+      "citation_number": 24,
+      "ref_text": "Ye J, Sun H, Gao S, . Altered brain dynamics across bipolar disorder and schizophrenia during rest and task switching revealed by overlapping brain states. Biol Psychiatry. 2023;94(7):580-590. doi:10.1016/j.biopsych.2023.03.02437031780 PMC10524212",
+      "doi": "10.1016/j.biopsych.2023.03.024",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Following methods established by previous work (eAppendix in Supplement 1), 4 recurring brain states were identified by applying nonlinear manifold learning to task-based fMRI data from the Human Connectome Project (HCP) dataset.[25] These brain states were characterized as fixation, high cognition, low cognition, and transition based on their associated task conditions.",
+      "citation_number": 25,
+      "ref_text": "Van Essen DC, Smith SM, Barch DM, Behrens TE, Yacoub E, Ugurbil K; WU-Minn HCP Consortium. The WU-Minn Human Connectome Project: an overview. Neuroimage. 2013;80:62-79. doi:10.1016/j.neuroimage.2013.05.04123684880 PMC3724347",
+      "doi": "10.1016/j.neuroimage.2013.05.041",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While HCP consists of healthy individuals, previous work and our preliminary analysis have revealed that similar brain states can be identified in individuals with psychopathology (eAppendix in Supplement 1).[19],[26],[27] Next, our framework applied nonnegative least squares regression to extend and evaluate each state’s engagement at each time point in a different dataset.",
+      "citation_number": 19,
+      "ref_text": "Piguet C, Karahanoğlu FI, Saccaro LF, Van De Ville D, Vuilleumier P. Mood disorders disrupt the functional dynamics, not spatial organization of brain resting state networks. Neuroimage Clin. 2021;32:102833. doi:10.1016/j.nicl.2021.10283334619652 PMC8498469",
+      "doi": "10.1016/j.nicl.2021.102833",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While HCP consists of healthy individuals, previous work and our preliminary analysis have revealed that similar brain states can be identified in individuals with psychopathology (eAppendix in Supplement 1).[19],[26],[27] Next, our framework applied nonnegative least squares regression to extend and evaluate each state’s engagement at each time point in a different dataset.",
+      "citation_number": 26,
+      "ref_text": "Gao S, Mishne G, Scheinost D. Nonlinear manifold learning in functional magnetic resonance imaging uncovers a low-dimensional space of brain dynamics. Hum Brain Mapp. 2021;42(14):4510-4524. doi:10.1002/hbm.2556134184812 PMC8410525",
+      "doi": "10.1002/hbm.25561",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While HCP consists of healthy individuals, previous work and our preliminary analysis have revealed that similar brain states can be identified in individuals with psychopathology (eAppendix in Supplement 1).[19],[26],[27] Next, our framework applied nonnegative least squares regression to extend and evaluate each state’s engagement at each time point in a different dataset.",
+      "citation_number": 27,
+      "ref_text": "Wang D, Peng X, Pelletier-Baldelli A, . Altered temporal, but intact spatial, features of transient network dynamics in psychosis. Mol Psychiatry. 2021;26(6):2493-2503. doi:10.1038/s41380-020-00983-133462330 PMC8286268",
+      "doi": "10.1038/s41380-020-00983-1",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Prior work has revealed significantly higher SEV during rest compared with task,[24] aligning with the understanding that rest is less constrained than task.",
+      "citation_number": 24,
+      "ref_text": "Ye J, Sun H, Gao S, . Altered brain dynamics across bipolar disorder and schizophrenia during rest and task switching revealed by overlapping brain states. Biol Psychiatry. 2023;94(7):580-590. doi:10.1016/j.biopsych.2023.03.02437031780 PMC10524212",
+      "doi": "10.1016/j.biopsych.2023.03.024",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While the Stroop interference score is a popular measure to assess cognitive control, recent literature has noted concerns regarding the difference score’s test-retest reliability, convergent validity, and criterion validity.[28],[29],[30],[31],[32],[33] Given the performance score from a single condition may be a more robust indicator of cognitive control,[29],[34],[35],[36],[37] we focused on the accuracy (ACC) and accurate trial mean response time (RT) from the incongruent condition.",
+      "citation_number": 28,
+      "ref_text": "Hedge C, Powell G, Sumner P. The reliability paradox: why robust cognitive tasks do not produce reliable individual differences. Behav Res Methods. 2018;50(3):1166-1186. doi:10.3758/s13428-017-0935-128726177 PMC5990556",
+      "doi": "10.3758/s13428-017-0935-1",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While the Stroop interference score is a popular measure to assess cognitive control, recent literature has noted concerns regarding the difference score’s test-retest reliability, convergent validity, and criterion validity.[28],[29],[30],[31],[32],[33] Given the performance score from a single condition may be a more robust indicator of cognitive control,[29],[34],[35],[36],[37] we focused on the accuracy (ACC) and accurate trial mean response time (RT) from the incongruent condition.",
+      "citation_number": 29,
+      "ref_text": "Hedge C, Powell G, Bompas A, Sumner P. Strategy and processing speed eclipse individual differences in control ability in conflict tasks. J Exp Psychol Learn Mem Cogn. 2022;48(10):1448-1469. doi:10.1037/xlm000102834591554 PMC9899369",
+      "doi": "10.1037/xlm0001028",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While the Stroop interference score is a popular measure to assess cognitive control, recent literature has noted concerns regarding the difference score’s test-retest reliability, convergent validity, and criterion validity.[28],[29],[30],[31],[32],[33] Given the performance score from a single condition may be a more robust indicator of cognitive control,[29],[34],[35],[36],[37] we focused on the accuracy (ACC) and accurate trial mean response time (RT) from the incongruent condition.",
+      "citation_number": 30,
+      "ref_text": "Eisenberg IW, Bissett PG, Zeynep Enkavi A, . Uncovering the structure of self-regulation through data-driven ontology discovery. Nat Commun. 2019;10(1):2319. doi:10.1038/s41467-019-10301-131127115 PMC6534563",
+      "doi": "10.1038/s41467-019-10301-1",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While the Stroop interference score is a popular measure to assess cognitive control, recent literature has noted concerns regarding the difference score’s test-retest reliability, convergent validity, and criterion validity.[28],[29],[30],[31],[32],[33] Given the performance score from a single condition may be a more robust indicator of cognitive control,[29],[34],[35],[36],[37] we focused on the accuracy (ACC) and accurate trial mean response time (RT) from the incongruent condition.",
+      "citation_number": 31,
+      "ref_text": "Saunders B, Milyavskaya M, Etz A, Randles D, Inzlicht M. Reported self-control is not meaningfully associated with inhibition-related executive function: a bayesian analysis. Collabra Psychol. 2018;4:39. doi:10.1525/collabra.134",
+      "doi": "10.1525/collabra.134",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "While the Stroop interference score is a popular measure to assess cognitive control, recent literature has noted concerns regarding the difference score’s test-retest reliability, convergent validity, and criterion validity.[28],[29],[30],[31],[32],[33] Given the performance score from a single condition may be a more robust indicator of cognitive control,[29],[34],[35],[36],[37] we focused on the accuracy (ACC) and accurate trial mean response time (RT) from the incongruent condition.",
+      "citation_number": 32,
+      "ref_text": "Rey-Mermet A, Gade M, Oberauer K. Should we stop thinking about inhibition? searching for individual and age differences in inhibition ability. J Exp Psychol Learn Mem Cogn. 2018;44(4):501-526. doi:10.1037/xlm000045028956944",
+      "doi": "10.1037/xlm0000450",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While the Stroop interference score is a popular measure to assess cognitive control, recent literature has noted concerns regarding the difference score’s test-retest reliability, convergent validity, and criterion validity.[28],[29],[30],[31],[32],[33] Given the performance score from a single condition may be a more robust indicator of cognitive control,[29],[34],[35],[36],[37] we focused on the accuracy (ACC) and accurate trial mean response time (RT) from the incongruent condition.",
+      "citation_number": 33,
+      "ref_text": "Rouder JN, Kumar A, Haaf JM. Why many studies of individual differences with inhibition tasks may not localize correlations. Psychon Bull Rev. 2023;30(6):2049-2066. doi:10.3758/s13423-023-02293-337450264 PMC10728261",
+      "doi": "10.3758/s13423-023-02293-3",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While the Stroop interference score is a popular measure to assess cognitive control, recent literature has noted concerns regarding the difference score’s test-retest reliability, convergent validity, and criterion validity.[28],[29],[30],[31],[32],[33] Given the performance score from a single condition may be a more robust indicator of cognitive control,[29],[34],[35],[36],[37] we focused on the accuracy (ACC) and accurate trial mean response time (RT) from the incongruent condition.",
+      "citation_number": 34,
+      "ref_text": "Enkavi AZ, Eisenberg IW, Bissett PG, . Large-scale analysis of test-retest reliabilities of self-regulation measures. Proc Natl Acad Sci U S A. 2019;116(12):5472-5477. doi:10.1073/pnas.181843011630842284 PMC6431228",
+      "doi": "10.1073/pnas.1818430116",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While the Stroop interference score is a popular measure to assess cognitive control, recent literature has noted concerns regarding the difference score’s test-retest reliability, convergent validity, and criterion validity.[28],[29],[30],[31],[32],[33] Given the performance score from a single condition may be a more robust indicator of cognitive control,[29],[34],[35],[36],[37] we focused on the accuracy (ACC) and accurate trial mean response time (RT) from the incongruent condition.",
+      "citation_number": 35,
+      "ref_text": "Löffler C, Frischkorn GT, Hagemann D, Sadus K, Schubert AL. The common factor of executive functions measures nothing but speed of information uptake. Psychol Res. 2024;88(4):1092-1114. doi:10.1007/s00426-023-01924-738372769 PMC11143038",
+      "doi": "10.1007/s00426-023-01924-7",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While the Stroop interference score is a popular measure to assess cognitive control, recent literature has noted concerns regarding the difference score’s test-retest reliability, convergent validity, and criterion validity.[28],[29],[30],[31],[32],[33] Given the performance score from a single condition may be a more robust indicator of cognitive control,[29],[34],[35],[36],[37] we focused on the accuracy (ACC) and accurate trial mean response time (RT) from the incongruent condition.",
+      "citation_number": 36,
+      "ref_text": "Weigard A, Clark DA, Sripada C. Cognitive efficiency beats top-down control as a reliable individual difference dimension relevant to self-control. Cognition. 2021;215:104818. doi:10.1016/j.cognition.2021.10481834252724 PMC8378481",
+      "doi": "10.1016/j.cognition.2021.104818",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While the Stroop interference score is a popular measure to assess cognitive control, recent literature has noted concerns regarding the difference score’s test-retest reliability, convergent validity, and criterion validity.[28],[29],[30],[31],[32],[33] Given the performance score from a single condition may be a more robust indicator of cognitive control,[29],[34],[35],[36],[37] we focused on the accuracy (ACC) and accurate trial mean response time (RT) from the incongruent condition.",
+      "citation_number": 37,
+      "ref_text": "Draheim C, Mashburn CA, Martin JD, Engle RW. Reaction time in differential and developmental research: a review and commentary on the problems and alternatives. Psychol Bull. 2019;145(5):508-535. doi:10.1037/bul000019230896187",
+      "doi": "10.1037/bul0000192",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Consistent with previous work,[24] age showed a significant association with SEV (F4,163 = 6.53; P < .001).",
+      "citation_number": 24,
+      "ref_text": "Ye J, Sun H, Gao S, . Altered brain dynamics across bipolar disorder and schizophrenia during rest and task switching revealed by overlapping brain states. Biol Psychiatry. 2023;94(7):580-590. doi:10.1016/j.biopsych.2023.03.02437031780 PMC10524212",
+      "doi": "10.1016/j.biopsych.2023.03.024",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This interpretation aligns with the reduced structural and functional connectivity found in mice and humans dependent on opioids.[38],[39] During movie-watching, we observed significantly reduced fixation and transition SEV in OUD.",
+      "citation_number": 38,
+      "ref_text": "Brynildsen JK, Mace KD, Cornblath EJ, . Gene coexpression patterns predict opiate-induced brain-state transitions. Proc Natl Acad Sci U S A. 2020;117(32):19556-19565. doi:10.1073/pnas.200360111732694207 PMC7431093",
+      "doi": "10.1073/pnas.2003601117",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This interpretation aligns with the reduced structural and functional connectivity found in mice and humans dependent on opioids.[38],[39] During movie-watching, we observed significantly reduced fixation and transition SEV in OUD.",
+      "citation_number": 39,
+      "ref_text": "Upadhyay J, Maleki N, Potter J, . Alterations in brain structure and functional connectivity in prescription opioid-dependent patients. Brain. 2010;133(Pt 7):2098-2114. doi:10.1093/brain/awq13820558415 PMC2912691",
+      "doi": "10.1093/brain/awq138",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The fixation brain state predominantly recruits the default mode network (eTable 2 in Supplement 1), which is relevant for relapse risk and withdrawal symptoms in individuals using heroin.[40],[41] The transition brain state captures activation patterns associated with a change in task demand (eTable 1 in Supplement 1).",
+      "citation_number": 40,
+      "ref_text": "Li W, Li Q, Wang D, . Dysfunctional default mode network in methadone treated patients who have a higher heroin relapse risk. Sci Rep. 2015;5:15181. doi:10.1038/srep1518126469876 PMC4606802",
+      "doi": "10.1038/srep15181",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The fixation brain state predominantly recruits the default mode network (eTable 2 in Supplement 1), which is relevant for relapse risk and withdrawal symptoms in individuals using heroin.[40],[41] The transition brain state captures activation patterns associated with a change in task demand (eTable 1 in Supplement 1).",
+      "citation_number": 41,
+      "ref_text": "Chen J, Li Y, Wang S, . Methadone maintenance treatment alters couplings of default mode and salience networks in individuals with heroin use disorder: a longitudinal self-controlled resting-state fMRI study. Front Psychiatry. 2023;14:1132407. doi:10.3389/fpsyt.2023.113240737139328 PMC10149709",
+      "doi": "10.3389/fpsyt.2023.1132407",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Given what brain networks are involved in these brain states, future hypothesis-driven research should investigate whether more rigid brain state engagement may contribute to greater difficulty in switching away from self-related thoughts revolving around the urge for opioid use.[16] Consistent with prior literature suggesting that neural variability supports behavioral performance,[14],[42],[43] we found that brain states showing significant group differences in SEV also demonstrated associations with cognitive control.",
+      "citation_number": 14,
+      "ref_text": "Garrett DD, Samanez-Larkin GR, MacDonald SW, Lindenberger U, McIntosh AR, Grady CL. Moment-to-moment brain signal variability: a next frontier in human brain mapping? Neurosci Biobehav Rev. 2013;37(4):610-624. doi:10.1016/j.neubiorev.2013.02.01523458776 PMC3732213",
+      "doi": "10.1016/j.neubiorev.2013.02.015",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Given what brain networks are involved in these brain states, future hypothesis-driven research should investigate whether more rigid brain state engagement may contribute to greater difficulty in switching away from self-related thoughts revolving around the urge for opioid use.[16] Consistent with prior literature suggesting that neural variability supports behavioral performance,[14],[42],[43] we found that brain states showing significant group differences in SEV also demonstrated associations with cognitive control.",
+      "citation_number": 16,
+      "ref_text": "Volkow ND, Koob GF, McLellan AT. Neurobiologic advances from the brain disease model of addiction. N Engl J Med. 2016;374(4):363-371. doi:10.1056/NEJMra151148026816013 PMC6135257",
+      "doi": "10.1056/NEJMra1511480",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Given what brain networks are involved in these brain states, future hypothesis-driven research should investigate whether more rigid brain state engagement may contribute to greater difficulty in switching away from self-related thoughts revolving around the urge for opioid use.[16] Consistent with prior literature suggesting that neural variability supports behavioral performance,[14],[42],[43] we found that brain states showing significant group differences in SEV also demonstrated associations with cognitive control.",
+      "citation_number": 42,
+      "ref_text": "Grady CL, Garrett DD. Understanding variability in the BOLD signal and why it matters for aging. Brain Imaging Behav. 2014;8(2):274-283. doi:10.1007/s11682-013-9253-024008589 PMC3922711",
+      "doi": "10.1007/s11682-013-9253-0",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Given what brain networks are involved in these brain states, future hypothesis-driven research should investigate whether more rigid brain state engagement may contribute to greater difficulty in switching away from self-related thoughts revolving around the urge for opioid use.[16] Consistent with prior literature suggesting that neural variability supports behavioral performance,[14],[42],[43] we found that brain states showing significant group differences in SEV also demonstrated associations with cognitive control.",
+      "citation_number": 43,
+      "ref_text": "Hutchison RM, Morton JB. Tracking the brain’s functional coupling dynamics over development. J Neurosci. 2015;35(17):6849-6859. doi:10.1523/JNEUROSCI.4638-14.201525926460 PMC6605187",
+      "doi": "10.1523/JNEUROSCI.4638-14.2015",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Given these networks’ role in coordinating large-scale brain responses to support cognitive control,[44],[45] the flexible engagement of these brain states may allow individuals to respond during Stroop effectively.",
+      "citation_number": 44,
+      "ref_text": "Menon V, D’Esposito M. The role of PFC networks in cognitive control and executive function. Neuropsychopharmacology. 2022;47(1):90-103. doi:10.1038/s41386-021-01152-w34408276 PMC8616903",
+      "doi": "10.1038/s41386-021-01152-w",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Given these networks’ role in coordinating large-scale brain responses to support cognitive control,[44],[45] the flexible engagement of these brain states may allow individuals to respond during Stroop effectively.",
+      "citation_number": 45,
+      "ref_text": "Cole MW, Reynolds JR, Power JD, Repovs G, Anticevic A, Braver TS. Multi-task connectivity reveals flexible hubs for adaptive task control. Nat Neurosci. 2013;16(9):1348-1355. doi:10.1038/nn.347023892552 PMC3758404",
+      "doi": "10.1038/nn.3470",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This finding dovetails with previous work suggesting that—in addition to the initial response to salient stimuli (such as opioid-related images)—how individuals recover or disengage from such stimuli conveys important information.[46],[47],[48] Drug cue paradigms are a popular approach to investigate the neural mechanisms underpinning OUD.[9] Brain responses to opioid-related stimuli are related to treatment adherence and withdrawal symptoms.[49],[50] However, less work has been focused on the rest period, with no cue presentation.",
+      "citation_number": 9,
+      "ref_text": "Moningka H, Lichenstein S, Worhunsky PD, DeVito EE, Scheinost D, Yip SW. Can neuroimaging help combat the opioid epidemic? a systematic review of clinical and pharmacological challenge fMRI studies with recommendations for future research. Neuropsychopharmacology. 2019;44(2):259-273. doi:10.1038/s41386-018-0232-430283002 PMC6300537",
+      "doi": "10.1038/s41386-018-0232-4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This finding dovetails with previous work suggesting that—in addition to the initial response to salient stimuli (such as opioid-related images)—how individuals recover or disengage from such stimuli conveys important information.[46],[47],[48] Drug cue paradigms are a popular approach to investigate the neural mechanisms underpinning OUD.[9] Brain responses to opioid-related stimuli are related to treatment adherence and withdrawal symptoms.[49],[50] However, less work has been focused on the rest period, with no cue presentation.",
+      "citation_number": 46,
+      "ref_text": "Schuyler BS, Kral TR, Jacquart J, . Temporal dynamics of emotional responding: amygdala recovery predicts emotional traits. Soc Cogn Affect Neurosci. 2014;9(2):176-181. doi:10.1093/scan/nss13123160815 PMC3907933",
+      "doi": "10.1093/scan/nss131",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This finding dovetails with previous work suggesting that—in addition to the initial response to salient stimuli (such as opioid-related images)—how individuals recover or disengage from such stimuli conveys important information.[46],[47],[48] Drug cue paradigms are a popular approach to investigate the neural mechanisms underpinning OUD.[9] Brain responses to opioid-related stimuli are related to treatment adherence and withdrawal symptoms.[49],[50] However, less work has been focused on the rest period, with no cue presentation.",
+      "citation_number": 47,
+      "ref_text": "Lapate RC, Heller AS. Context matters for affective chronometry. Nat Hum Behav. 2020;4(7):688-689. doi:10.1038/s41562-020-0860-732341491",
+      "doi": "10.1038/s41562-020-0860-7",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "This finding dovetails with previous work suggesting that—in addition to the initial response to salient stimuli (such as opioid-related images)—how individuals recover or disengage from such stimuli conveys important information.[46],[47],[48] Drug cue paradigms are a popular approach to investigate the neural mechanisms underpinning OUD.[9] Brain responses to opioid-related stimuli are related to treatment adherence and withdrawal symptoms.[49],[50] However, less work has been focused on the rest period, with no cue presentation.",
+      "citation_number": 48,
+      "ref_text": "Puccetti NA, Villano WJ, Fadok JP, Heller AS. Temporal dynamics of affect in the brain: evidence from human imaging and animal models. Neurosci Biobehav Rev. 2022;133:104491. doi:10.1016/j.neubiorev.2021.12.01434902442 PMC8792368",
+      "doi": "10.1016/j.neubiorev.2021.12.014",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This finding dovetails with previous work suggesting that—in addition to the initial response to salient stimuli (such as opioid-related images)—how individuals recover or disengage from such stimuli conveys important information.[46],[47],[48] Drug cue paradigms are a popular approach to investigate the neural mechanisms underpinning OUD.[9] Brain responses to opioid-related stimuli are related to treatment adherence and withdrawal symptoms.[49],[50] However, less work has been focused on the rest period, with no cue presentation.",
+      "citation_number": 49,
+      "ref_text": "Wang AL, Elman I, Lowen SB, . Neural correlates of adherence to extended-release naltrexone pharmacotherapy in heroin dependence. Transl Psychiatry. 2015;5(3):e531-e531. doi:10.1038/tp.2015.2025781230 PMC4354350",
+      "doi": "10.1038/tp.2015.20",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This finding dovetails with previous work suggesting that—in addition to the initial response to salient stimuli (such as opioid-related images)—how individuals recover or disengage from such stimuli conveys important information.[46],[47],[48] Drug cue paradigms are a popular approach to investigate the neural mechanisms underpinning OUD.[9] Brain responses to opioid-related stimuli are related to treatment adherence and withdrawal symptoms.[49],[50] However, less work has been focused on the rest period, with no cue presentation.",
+      "citation_number": 50,
+      "ref_text": "Lou M, Wang E, Shen Y, Wang J. Cue-elicited craving in heroin addicts at different abstinent time: an fMRI pilot study. Subst Use Misuse. 2012;47(6):631-639. doi:10.3109/10826084.2011.64638122329835 PMC3359800",
+      "doi": "10.3109/10826084.2011.646381",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Both response inhibition and biased attention for substance-related stimuli are hallmark characteristics of OUD.[9],[12],[51],[52],[53] Since we did not assess craving or perform thought sampling, understanding what contributes to lower variability during the rest period remains a future research direction.",
+      "citation_number": 9,
+      "ref_text": "Moningka H, Lichenstein S, Worhunsky PD, DeVito EE, Scheinost D, Yip SW. Can neuroimaging help combat the opioid epidemic? a systematic review of clinical and pharmacological challenge fMRI studies with recommendations for future research. Neuropsychopharmacology. 2019;44(2):259-273. doi:10.1038/s41386-018-0232-430283002 PMC6300537",
+      "doi": "10.1038/s41386-018-0232-4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Both response inhibition and biased attention for substance-related stimuli are hallmark characteristics of OUD.[9],[12],[51],[52],[53] Since we did not assess craving or perform thought sampling, understanding what contributes to lower variability during the rest period remains a future research direction.",
+      "citation_number": 12,
+      "ref_text": "Huang Y, Ceceli AO, Kronberg G, . Association of Cortico-Striatal Engagement During Cue Reactivity, Reappraisal, and Savoring of Drug and Non-Drug Stimuli With Craving in Heroin Addiction. Am J Psychiatry. 2024;181(2):153-165. doi:10.1176/appi.ajp.2022075937434487 PMC11034831",
+      "doi": "10.1176/appi.ajp.20220759",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Both response inhibition and biased attention for substance-related stimuli are hallmark characteristics of OUD.[9],[12],[51],[52],[53] Since we did not assess craving or perform thought sampling, understanding what contributes to lower variability during the rest period remains a future research direction.",
+      "citation_number": 51,
+      "ref_text": "Stewart JL, May AC, Aupperle RL, Bodurka J. Forging neuroimaging targets for recovery in opioid use disorder. Front Psychiatry. 2019;10:117. doi:10.3389/fpsyt.2019.0011730899231 PMC6417368",
+      "doi": "10.3389/fpsyt.2019.00117",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Both response inhibition and biased attention for substance-related stimuli are hallmark characteristics of OUD.[9],[12],[51],[52],[53] Since we did not assess craving or perform thought sampling, understanding what contributes to lower variability during the rest period remains a future research direction.",
+      "citation_number": 52,
+      "ref_text": "Field M, Munafò MR, Franken IHA. A meta-analytic investigation of the relationship between attentional bias and subjective craving in substance abuse. Psychol Bull. 2009;135(4):589-607. doi:10.1037/a001584319586163 PMC2999821",
+      "doi": "10.1037/a0015843",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Both response inhibition and biased attention for substance-related stimuli are hallmark characteristics of OUD.[9],[12],[51],[52],[53] Since we did not assess craving or perform thought sampling, understanding what contributes to lower variability during the rest period remains a future research direction.",
+      "citation_number": 53,
+      "ref_text": "Zhang MWB, Ying J, Wing T, Song G, Fung DSS, Smith HE. Cognitive biases in cannabis, opioid, and stimulant disorders: a systematic review. Front Psychiatry. 2018;9:376. doi:10.3389/fpsyt.2018.0037630158880 PMC6104190",
+      "doi": "10.3389/fpsyt.2018.00376",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While we developed our hypothesis based on previous neural variability studies[13],[14],[15] and prior observations of lower SEV in individuals with other clinical conditions,[24] we did not preregister our analysis.",
+      "citation_number": 13,
+      "ref_text": "Dinstein I, Heeger DJ, Behrmann M. Neural variability: friend or foe? Trends Cogn Sci. 2015;19(6):322-328. doi:10.1016/j.tics.2015.04.00525979849",
+      "doi": "10.1016/j.tics.2015.04.005",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While we developed our hypothesis based on previous neural variability studies[13],[14],[15] and prior observations of lower SEV in individuals with other clinical conditions,[24] we did not preregister our analysis.",
+      "citation_number": 14,
+      "ref_text": "Garrett DD, Samanez-Larkin GR, MacDonald SW, Lindenberger U, McIntosh AR, Grady CL. Moment-to-moment brain signal variability: a next frontier in human brain mapping? Neurosci Biobehav Rev. 2013;37(4):610-624. doi:10.1016/j.neubiorev.2013.02.01523458776 PMC3732213",
+      "doi": "10.1016/j.neubiorev.2013.02.015",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While we developed our hypothesis based on previous neural variability studies[13],[14],[15] and prior observations of lower SEV in individuals with other clinical conditions,[24] we did not preregister our analysis.",
+      "citation_number": 15,
+      "ref_text": "Uddin LQ. Bring the noise: reconceptualizing spontaneous neural activity. Trends Cogn Sci. 2020;24(9):734-746. doi:10.1016/j.tics.2020.06.00332600967 PMC7429348",
+      "doi": "10.1016/j.tics.2020.06.003",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While we developed our hypothesis based on previous neural variability studies[13],[14],[15] and prior observations of lower SEV in individuals with other clinical conditions,[24] we did not preregister our analysis.",
+      "citation_number": 24,
+      "ref_text": "Ye J, Sun H, Gao S, . Altered brain dynamics across bipolar disorder and schizophrenia during rest and task switching revealed by overlapping brain states. Biol Psychiatry. 2023;94(7):580-590. doi:10.1016/j.biopsych.2023.03.02437031780 PMC10524212",
+      "doi": "10.1016/j.biopsych.2023.03.024",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Further, abstinence time, treatment time, and time since the last dose can all influence brain responses to drug-related cues and cognitive control in individuals with OUD.[50],[54],[55] Future work should explore the interaction between different time scales.",
+      "citation_number": 50,
+      "ref_text": "Lou M, Wang E, Shen Y, Wang J. Cue-elicited craving in heroin addicts at different abstinent time: an fMRI pilot study. Subst Use Misuse. 2012;47(6):631-639. doi:10.3109/10826084.2011.64638122329835 PMC3359800",
+      "doi": "10.3109/10826084.2011.646381",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Further, abstinence time, treatment time, and time since the last dose can all influence brain responses to drug-related cues and cognitive control in individuals with OUD.[50],[54],[55] Future work should explore the interaction between different time scales.",
+      "citation_number": 54,
+      "ref_text": "Liao DL, Huang CY, Hu S, . Cognitive control in opioid dependence and methadone maintenance treatment. PLoS One. 2014;9(4):e94589. doi:10.1371/journal.pone.009458924727743 PMC3984179",
+      "doi": "10.1371/journal.pone.0094589",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Further, abstinence time, treatment time, and time since the last dose can all influence brain responses to drug-related cues and cognitive control in individuals with OUD.[50],[54],[55] Future work should explore the interaction between different time scales.",
+      "citation_number": 55,
+      "ref_text": "Langleben DD, Ruparel K, Elman I, . Acute effect of methadone maintenance dose on brain fMRI response to heroin-related cues. Am J Psychiatry. 2008;165(3):390-394. doi:10.1176/appi.ajp.2007.0701007018056224",
+      "doi": "10.1176/appi.ajp.2007.07010070",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    }
+  ]
+}

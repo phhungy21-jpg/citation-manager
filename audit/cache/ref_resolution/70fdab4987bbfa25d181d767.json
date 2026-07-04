@@ -1,0 +1,1495 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2025-09-16T17:59:22Z",
+      "timestamp": 1758045562099,
+      "version": "3.44.0"
+    },
+    "reference-count": 29,
+    "publisher": "Elsevier BV",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2021-12-01T00:00:00Z",
+          "timestamp": 1638316800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2021-12-01T00:00:00Z",
+          "timestamp": 1638316800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "amjmedsci.org",
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The American Journal of the Medical Sciences"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.amjms.2021.07.009",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          19
+        ]
+      ],
+      "date-time": "2021-08-19T01:04:31Z",
+      "timestamp": 1629335071000
+    },
+    "page": "562-569",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Recent Trends in Infective Endocarditis Among Patients with and Without Injection Drug Use: An Eight-Year Single Center Study"
+    ],
+    "prefix": "10.1016",
+    "volume": "362",
+    "author": [
+      {
+        "given": "Javier",
+        "family": "Balda",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rodolfo",
+        "family": "Alpizar-Rivas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Salwa",
+        "family": "Elarabi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bertrand L.",
+        "family": "Jaber",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Claudia",
+        "family": "Nader",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "19",
+        "key": "10.1016/j.amjms.2021.07.009_bib0001",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/jama.2017.4150",
+        "article-title": "Trends and patterns of geographic variation in cardiovascular mortality among US counties, 1980-2014",
+        "volume": "317",
+        "author": "Roth",
+        "year": "2017",
+        "journal-title": "JAMA - J Am Med Assoc"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.amjms.2021.07.009_bib0002",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1136/heart.88.1.53",
+        "article-title": "Mortality from infective endocarditis: Clinical predictors of outcome",
+        "volume": "88",
+        "author": "Wallace",
+        "year": "2002",
+        "journal-title": "Heart"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.amjms.2021.07.009_bib0003",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/jamanetworkopen.2018.5220",
+        "article-title": "Clinical Characteristics and Factors Associated With Mortality in First-Episode Infective Endocarditis Among Persons Who Inject Drugs",
+        "volume": "1",
+        "author": "Rodger",
+        "year": "2018",
+        "journal-title": "JAMA Netw open"
+      },
+      {
+        "issue": "15",
+        "key": "10.1016/j.amjms.2021.07.009_bib0004",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/archinte.1995.00430150125013",
+        "article-title": "Clinical Features, Site of Involvement, Bacteriologic Findings, and Outcome of Infective Endocarditis in Intravenous Drug Users",
+        "volume": "155",
+        "author": "Mathew",
+        "year": "1995",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "15",
+        "key": "10.1016/j.amjms.2021.07.009_bib0005",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/jama.298.15.1763",
+        "article-title": "Invasive methicillin-resistant Staphylococcus aureus infections in the United States",
+        "volume": "298",
+        "author": "Klevens",
+        "year": "2007",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.amjms.2021.07.009_bib0006",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1080/21548331.2018.1435128",
+        "article-title": "Morbidity, mortality, and management of methicillin-resistant S. aureus bacteremia in the USA: update on antibacterial choices and understanding",
+        "volume": "46",
+        "author": "Ortwine",
+        "year": "2018",
+        "journal-title": "Hosp Pract (1995)"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.amjms.2021.07.009_bib0007",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1128/mBio.00112-12",
+        "article-title": "Comparative genomics of vancomycin-resistant staphylococcus aureus strains and their positions within the clade most commonly associated with methicillin-resistant s. aureus hospital-acquired infection in the United States",
+        "volume": "3",
+        "author": "Kos",
+        "year": "2012",
+        "journal-title": "mBio"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.amjms.2021.07.009_bib0008",
+        "article-title": "Characterization of Infections with Vancomycin-Intermediate Staphylococcus aureus (VISA) and Staphylococcus aureus with Reduced Vancomycin Susceptibility in South Korea",
+        "volume": "9",
+        "author": "Park",
+        "year": "2019",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.amjms.2021.07.009_bib0009",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1056/NEJMoa053783",
+        "article-title": "Daptomycin versus standard therapy for bacteremia and endocarditis caused by Staphylococcus aureus",
+        "volume": "355",
+        "author": "Fowler",
+        "year": "2006",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.amjms.2021.07.009_bib0010",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1128/AAC.01563-13",
+        "article-title": "High-dose daptomycin therapy for left-sided infective endocarditis: A prospective study from the international collaboration on endocarditis",
+        "volume": "57",
+        "author": "Carugati",
+        "year": "2013",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.amjms.2021.07.009_bib0011",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1097/01.mlr.0000182534.19832.83",
+        "article-title": "Coding algorithms for defining comorbidities in ICD-9-CM and ICD-10 administrative data",
+        "volume": "43",
+        "author": "Quan",
+        "year": "2005",
+        "journal-title": "Med Care"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.amjms.2021.07.009_bib0012",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/0002-9343(94)90143-0",
+        "article-title": "New criteria for diagnosis of infective endocarditis: utilization of specific echocardiographic findings",
+        "volume": "96",
+        "author": "Durack",
+        "year": "1994",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "10.1016/j.amjms.2021.07.009_bib0013",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1136/hrt.2003.029850",
+        "article-title": "Diagnostic criteria and problems in infective endocarditis",
+        "volume": "90",
+        "author": "Prendergast",
+        "year": "2004",
+        "journal-title": "Heart"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.amjms.2021.07.009_bib0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/j.jacc.2018.10.082",
+        "article-title": "Clinical Outcomes of Infective Endocarditis in Injection Drug Users",
+        "volume": "73",
+        "author": "Rudasill",
+        "year": "2019",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.amjms.2021.07.009_bib0015",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/ofid/ofw157",
+        "article-title": "Increasing infectious endocarditis admissions among young people who inject drugs",
+        "volume": "3",
+        "author": "Wurcel",
+        "year": "2016",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.amjms.2021.07.009_bib0016",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41598-020-80869-y",
+        "article-title": "Comparing right- and left sided injection-drug related infective endocarditis",
+        "volume": "11",
+        "author": "Clarelin",
+        "year": "2021",
+        "journal-title": "Sci Rep"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.amjms.2021.07.009_bib0017",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/archinternmed.2008.603",
+        "article-title": "Clinical presentation, etiology, and outcome of infective endocarditis in the 21st century The international collaboration on Endocarditis-prospective cohort study",
+        "volume": "169",
+        "author": "Murdoch",
+        "year": "2009",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "19",
+        "key": "10.1016/j.amjms.2021.07.009_bib0018",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/archinte.168.19.2095",
+        "article-title": "Current features of infective endocarditis in elderly patients: Results of the international collaboration on endocarditis prospective cohort study",
+        "volume": "168",
+        "author": "Durante-Mangoni",
+        "year": "2008",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.amjms.2021.07.009_bib0019",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0082665",
+        "article-title": "Infective endocarditis epidemiology over five decades: A systematic review",
+        "volume": "8",
+        "author": "Slipczuk",
+        "year": "2013",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.amjms.2021.07.009_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "412",
+        "DOI": "10.1111/dar.12228",
+        "article-title": "Evolving epidemiology of injecting drug use-associated infective endocarditis: A regional centre experience",
+        "volume": "34",
+        "author": "Tung",
+        "year": "2015",
+        "journal-title": "Drug Alcohol Rev"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.amjms.2021.07.009_bib0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "645",
+        "DOI": "10.1016/S0891-5520(02)00019-3",
+        "article-title": "Infective endocarditis in the injection drug user",
+        "volume": "16",
+        "author": "Brown",
+        "year": "2002",
+        "journal-title": "Infect Dis Clin North Am"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.amjms.2021.07.009_bib0022",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.athoracsur.2011.08.016",
+        "article-title": "Long-term outcome for the surgical treatment of infective endocarditis with a focus on intravenous drug users",
+        "volume": "93",
+        "author": "Rabkin",
+        "year": "2012",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.amjms.2021.07.009_bib0023",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1161/JAHA.115.003016",
+        "article-title": "Validated risk score for predicting 6-month mortality in infective endocarditis",
+        "volume": "5",
+        "author": "Park",
+        "year": "2016",
+        "journal-title": "J Am Heart Assoc"
+      },
+      {
+        "key": "10.1016/j.amjms.2021.07.009_bib0024",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jtcvs.2016.02.072",
+        "article-title": "Surgical outcomes of infective endocarditis among intravenous drug users",
+        "volume": "152",
+        "author": "Kim",
+        "year": "2016",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.amjms.2021.07.009_bib0025",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ahj.2015.07.007",
+        "article-title": "Temporal trends in infective endocarditis epidemiology from 2007 to 2013 in Olmsted County, MN",
+        "volume": "170",
+        "author": "Desimone",
+        "year": "2015",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.amjms.2021.07.009_bib0026",
+        "article-title": "Epidemiological trends of infective endocarditis: A population-based study in Olmsted County, Minnesota",
+        "volume": "85",
+        "author": "Correa De Sa",
+        "year": "2010",
+        "journal-title": "Mayo Clin Proc"
+      },
+      {
+        "issue": "15",
+        "key": "10.1016/j.amjms.2021.07.009_bib0027",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/archinte.1995.00430150125013",
+        "article-title": "Clinical Features, Site of Involvement, Bacteriologic Findings, and Outcome of Infective Endocarditis in Intravenous Drug Users",
+        "volume": "155",
+        "author": "Mathew",
+        "year": "1995",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "issue": "22",
+        "key": "10.1016/j.amjms.2021.07.009_bib0028",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.15585/mmwr.mm6722a2",
+        "article-title": "Invasive Methicillin-Resistant Staphylococcus aureus Infections Among Persons Who Inject Drugs — Six Sites, 2005–2016",
+        "volume": "67",
+        "author": "Jackson",
+        "year": "2018",
+        "journal-title": "MMWR Morb Mortal Wkly Rep"
+      },
+      {
+        "key": "10.1016/j.amjms.2021.07.009_bib0029",
+        "doi-asserted-by": "crossref",
+        "unstructured": "CDC. Prevent Bacterial & Fungal Infections In Patients Who Inject Drugs. doi:10.15585/mmwr.mm6722a2",
+        "DOI": "10.15585/mmwr.mm6722a2"
+      }
+    ],
+    "container-title": [
+      "The American Journal of the Medical Sciences"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0002962921002792?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0002962921002792?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          12
+        ]
+      ],
+      "date-time": "2025-09-12T18:39:51Z",
+      "timestamp": 1757702391000
+    },
+    "score": 138.7909,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0002962921002792"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0002962921002792"
+    ],
+    "URL": "https://doi.org/10.1016/j.amjms.2021.07.009",
+    "ISSN": [
+      "0002-9629"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0002-9629"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Recent Trends in Infective Endocarditis Among Patients with and Without Injection Drug Use: An Eight-Year Single Center Study",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "The American Journal of the Medical Sciences",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.amjms.2021.07.009",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 Southern Society for Clinical Investigation. Published by Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2022-03-29T12:30:14Z",
+      "timestamp": 1648557014778
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "Supplement_1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              2
+            ]
+          ],
+          "date-time": "2021-01-02T00:00:00Z",
+          "timestamp": 1609545600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 93,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          31
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Despite advances in diagnosis and management, infective endocarditis (IE) is associated with considerable morbidity and mortality. Given the emergence of drug- resistant organisms, it is unclear whether this has impacted the characteristics and outcomes of IE among intravenous drug users (IDUs) and non-IDUs.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>We conducted a single center retrospective cohort study. 306 records of hospitalized adults diagnose with IE by ICD-9/ICD-10 codes were identified from 2011 to 2018. 244 patients met criteria. IRB approval was obtained. The baseline demographic, microbiologic, echocardiographic variables and outcomes were extracted from the chart, and compared between IDUs and non-IDUs.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>112 (45.9%) patients were IDUs and significantly younger (mean age 36 vs. 64, p&amp;lt; 0.001). Both methicillin-sensitive (44.6% vs. 23.5%, p&amp;lt; 0.001) and methicillin-resistant (29.5% vs. 13.6%, p= 0.002) Staphylococcus aureus associated IE were more prevalent in IDUs compared to non-IDUs. Streptococcus species (22.7% vs 11.6%, p=0.02), excluding Enterococcus species, and coagulase-negative Staphylococcus (12.1% vs 1.8%, p=0.002) were significantly more prevalent in non-IDUs. IE in IDUs were more likely to have tricuspid valve vegetations (56.3% vs. 13.6%, p&amp;lt; 0.001), whereas non-IDUs were more likely to have mitral valve (39.4% vs. 25%, p=0.02) and aortic valve vegetations (46.2% vs. 15.2%, p&amp;lt; 0.001). 19% of patients with IE underwent valve replacement within 6 months, and 17% died within 90 days. A multivariable model that included age, gender, and IDU status, age was the only variable that remained independently associated with 90-day mortality (adjusted OR 1.031; 95% CI 1.006, 1.057; p&amp;lt; 0.01).</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>In this single-center experience, we found that methicillin-sensitive Staphylococcus aureus was the dominant organism among IDUs and non-IDUs. We also found that methicillin-resistant Staphylococcus aureus was significantly more prevalent among IDUs with IE. Provably related to an increase prevalence of colonization with resistant organisms in the community. Despite the shift in prevalence of methicillin-resistant Staphylococcus aureus among IDUs, there was no increased 90-day mortality risk after adjustment for age and gender.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Disclosures</jats:title>\n                  <jats:p>All Authors: No reported disclosures</jats:p>\n               </jats:sec>",
+    "DOI": "10.1093/ofid/ofaa439.890",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          2
+        ]
+      ],
+      "date-time": "2021-01-02T08:18:07Z",
+      "timestamp": 1609575487000
+    },
+    "page": "S400-S401",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "698. 8 Years of Infective Endocarditis in Intravenous and Non-Intravenous Drug Users a Single Center Experience"
+    ],
+    "prefix": "10.1093",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Rodolfo M",
+        "family": "Alpizar-Rivas",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "St. Elizabeth Medical Center, Tufts affiliated, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Javier",
+        "family": "Balda",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St Elizabeth’s Medical Center- Tufts school of Medicine, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Salwa",
+        "family": "Elarabi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St. Elizabeth Medical Center, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bertrand",
+        "family": "Jaber",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St. Elizabeth’s Medical Center - Tufts School of Medicine, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Claudia",
+        "family": "Nader",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St. Elizabeth’s Medical Center - Tufts School of Medicine, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          31
+        ]
+      ]
+    },
+    "container-title": [
+      "Open Forum Infectious Diseases"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://academic.oup.com/ofid/article-pdf/7/Supplement_1/S400/35337909/ofaa439.890.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://academic.oup.com/ofid/article-pdf/7/Supplement_1/S400/35337909/ofaa439.890.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          2
+        ]
+      ],
+      "date-time": "2021-01-02T08:18:08Z",
+      "timestamp": 1609575488000
+    },
+    "score": 91.09915,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/ofid/article/7/Supplement_1/S400/6056929"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "Supplement_1",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            12,
+            31
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/ofid/ofaa439.890",
+    "ISSN": [
+      "2328-8957"
+    ],
+    "issn-type": [
+      {
+        "value": "2328-8957",
+        "type": "electronic"
+      }
+    ],
+    "published-other": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          1
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2022-04-05T22:10:26Z",
+      "timestamp": 1649196626753
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "Supplement_1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              2
+            ]
+          ],
+          "date-time": "2021-01-02T00:00:00Z",
+          "timestamp": 1609545600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 93,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          31
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:sec>\n                  <jats:title>Background</jats:title>\n                  <jats:p>Vancomycin has been the mainstay of treatment for methicillin-resistant Staphylococcus aureus (MRSA) infective endocarditis (IE). MRSA reduced susceptibility to vancomycin is a growing threat. Data assessing the effect of vancomycin reduced susceptibility on outcomes is limited. Our study aimed to evaluate characteristics and outcomes of MRSA-related IE based on the minimum inhibitory concentration (MIC) to vancomycin</jats:p>\n                  <jats:p>Characteristics and outcomes of 51 patients with MRSA-related endocarditis according to the minimal inhibitory concentration (MIC) to vancomycin</jats:p>\n                  <jats:p />\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Methods</jats:title>\n                  <jats:p>IRB approval was obtained for a retrospective cohort study at a tertiary care center. Records of hospitalized adults diagnose with IE by ICD-9/ICD-10 CM codes were identified from 2011 to 2018. 51 patients had MRSA-related IE and were selected for the analysis. Demographic, microbiologic, Imaging and outcome variables were obtained. Characteristics and outcomes of patients with MRSA-related IE according to the MIC to vancomycin (≤ vs. &amp;gt; 1 mcg/mL) were compared</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Results</jats:title>\n                  <jats:p>35.3% of patients had a MIC &amp;gt; 1 mcg/mL. 59% were men, mean age was 46±3 years old. 65% acquired the infection through injection drug use. Only 3.9% of patients had prosthetic valve IE. 35.3% had tricuspid valve vegetation, 25.5% mitral valve and 21.6% aortic valve vegetation. Two patients had IE possibly related to a PICC-line infection; both of these patients had a MIC to vancomycin &amp;gt;1 mcg/mL, suggestive of prolonged antibiotic therapy. All patients with MRSA-related IE were started empirically on vancomycin. Patients with a MIC &amp;gt; 1 mcg/mL were more likely to be switched to a combination of daptomycin and ceftaroline, compared to those with a MIC ≤ 1 mcg/mL (44.4% vs. 6.1%; P=0.001). 25.4% underwent valvular replacement within 6 months. 12% died within 90 days. MRSA-related IE with MIC &amp;gt; 1mcg/mL did not confer and an increase risk in in-hospital mortality (11.1% vs. 15.2%; P=0.67) or mortality at 90 days (11.1% vs. 12.5%; P=0.89).</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Conclusion</jats:title>\n                  <jats:p>In this single-center experience, we found that in 8 years 35% of patients with MRSA-related IE had MIC &amp;gt;1 mcg/mL. This is an alarming finding. Although our study did not reach statistic significance we didn’t found difference in valvular surgery requirement or mortality among those with MIC &amp;gt; 1mcg/d as compared to those with a more sensitive MRSA strain. A study with more power or a metha-analysis will be require to better answer this question.</jats:p>\n               </jats:sec>\n               <jats:sec>\n                  <jats:title>Disclosures</jats:title>\n                  <jats:p>All Authors: No reported disclosures</jats:p>\n               </jats:sec>",
+    "DOI": "10.1093/ofid/ofaa439.889",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          2
+        ]
+      ],
+      "date-time": "2021-01-02T08:17:58Z",
+      "timestamp": 1609575478000
+    },
+    "page": "S400-S400",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "697. 8 Years of Characteristics and Outcomes of Patients with MRSA Endocarditis Based on Vancomycin Minimum Inhibitory Concentration: Experience at a Tertiary Care Hospital"
+    ],
+    "prefix": "10.1093",
+    "volume": "7",
+    "author": [
+      {
+        "given": "Rodolfo M",
+        "family": "Alpizar-Rivas",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "St. Elizabeth Medical Center, Tufts affiliated, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Javier",
+        "family": "Balda",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St. Elizabeth Medical center, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Salwa",
+        "family": "Elarabi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St. Elizabeth Medical Center, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bertrand",
+        "family": "Jaber",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St. Elizabeth’s Medical Center - Tufts School of Medicine, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Claudia",
+        "family": "Nader",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "St. Elizabeth’s Medical Center - Tufts School of Medicine, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          31
+        ]
+      ]
+    },
+    "container-title": [
+      "Open Forum Infectious Diseases"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://academic.oup.com/ofid/article-pdf/7/Supplement_1/S400/35337869/ofaa439.889.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://academic.oup.com/ofid/article-pdf/7/Supplement_1/S400/35337869/ofaa439.889.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          2
+        ]
+      ],
+      "date-time": "2021-01-02T08:17:59Z",
+      "timestamp": 1609575479000
+    },
+    "score": 65.13393,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/ofid/article/7/Supplement_1/S400/6056917"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "Supplement_1",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            12,
+            31
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/ofid/ofaa439.889",
+    "ISSN": [
+      "2328-8957"
+    ],
+    "issn-type": [
+      {
+        "value": "2328-8957",
+        "type": "electronic"
+      }
+    ],
+    "published-other": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          1
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          30
+        ]
+      ],
+      "date-time": "2025-07-30T12:13:46Z",
+      "timestamp": 1753877626664,
+      "version": "3.41.2"
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "suppl_1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              12,
+              6
+            ]
+          ],
+          "date-time": "2016-12-06T00:00:00Z",
+          "timestamp": 1480982400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 340,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1093/ofid/ofw172.818",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          2,
+          3
+        ]
+      ],
+      "date-time": "2017-02-03T13:01:10Z",
+      "timestamp": 1486126870000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Comparing Sentinel Admission for Infective Endocarditis Among Patients With and Without Injection Drug Use: A Single Center Study"
+    ],
+    "prefix": "10.1093",
+    "volume": "3",
+    "author": [
+      {
+        "given": "P.",
+        "family": "Alexander Leahey",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Infectious Diseases, Beth Israel Deaconess Medical Center, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mary",
+        "family": "Lasalvia",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Medicine, Division of Infectious Diseases, Beth Israel Deaconess Medical Center, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Elana",
+        "family": "Rosenthal",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Infectious Diseases; Institute of Human Virology, University of Maryland, Bethesda, Maryland"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Adolf",
+        "family": "Karchmer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Infectious Diseases, Beth Israel Deaconess Medical Center, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Christopher",
+        "family": "Rowley",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Beth Israel Deaconess Medical Center, Boston, Massachusetts"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          24
+        ]
+      ]
+    },
+    "container-title": [
+      "Open Forum Infectious Diseases"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://academic.oup.com/ofid/article-pdf/3/suppl_1/1115/28689613/ofw172.818.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          22
+        ]
+      ],
+      "date-time": "2019-05-22T15:59:10Z",
+      "timestamp": 1558540750000
+    },
+    "score": 58.46037,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/ofid/article/doi/10.1093/ofid/ofw172.818/2637364"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "suppl_1",
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            10,
+            24
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            12,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/ofid/ofw172.818",
+    "ISSN": [
+      "2328-8957"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2328-8957"
+      }
+    ],
+    "published-other": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "article-number": "1115"
+  },
+  {
+    "institution": [
+      {
+        "name": "Research Square"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          3
+        ]
+      ],
+      "date-time": "2024-03-03T12:24:54Z",
+      "timestamp": 1709468694541
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          4
+        ]
+      ]
+    },
+    "group-title": "In Review",
+    "reference-count": 0,
+    "publisher": "Research Square Platform LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              12,
+              4
+            ]
+          ],
+          "date-time": "2020-12-04T00:00:00Z",
+          "timestamp": 1607040000000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "accepted": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          17
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n        <jats:p><jats:bold>Background: </jats:bold>Patients with injection drug use (IDU) have increased risk of developing infective endocarditis (IE), however data of these patients are scarce and need to be explored further. This study aims to describe the clinical characteristics and outcomes among patients with IDU-IE.<jats:bold>Methods: </jats:bold>Data of adults with IDU-IE and non-IDU-IE, treated between 2008-2017 at the Karolinska University Hospital in Stockholm were obtained from the Swedish National Registry of Infective Endocarditis. Clinical characteristics, microbiological results, treatment durations, results from echocardiography and in-hospital mortality were compared between the groups. <jats:bold>Results: </jats:bold>In total, 165 (32%) of the included patients had IDU-IE. Patients with IDU-IE were younger than the patients with non-IDU-IE (mean age IDU-IE: 41.6 years; non-IDU-IE: 64.3 years; P&lt;0.01). No difference in distribution of genders was observed, 33% women in both groups. History of previous IE (n=49, 30%) and vascular phenomena (n=101, 61%), were more common among patients with IDU-IE while prosthetic heart valves (n=83, 23%) and known valvular disease (n=78, 22%) were more common among patients with non-IDU-IE (P&lt;0.05). Aetiology of <jats:italic>Staphylococcus aureus </jats:italic>(n=121, 73%) and tricuspid (n=91, 55%) or pulmonary valve (n=7, 4%) vegetations were more common among IDU-IE (P&lt;0.05). The overall incidence of IDU-IE decreased during the study period, while the incidence of definite IE increased (P&lt;0.01). <jats:bold>Conclusions: </jats:bold>Patients with IDU-IE were younger, frequently presenting with right-sided vegetations and <jats:italic>S. aureus</jats:italic> aetiology, and were less frequently treated with surgery. Patients with IDU-IE had higher prevalence of vascular phenomena and history of previous IE, aspects that are important for improved management of this population.</jats:p>",
+    "DOI": "10.21203/rs.3.rs-110386/v1",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          5
+        ]
+      ],
+      "date-time": "2020-12-05T02:47:54Z",
+      "timestamp": 1607136474000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Patients with infective endocarditis and history of injection drug use –a register-based study of a 10-year period"
+    ],
+    "prefix": "10.21203",
+    "author": [
+      {
+        "given": "Anna",
+        "family": "Damlin",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Karolinska Institutet"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Katarina",
+        "family": "Westling",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Karolinska Institutet"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "8761",
+    "link": [
+      {
+        "URL": "https://www.researchsquare.com/article/rs-110386/v1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.researchsquare.com/article/rs-110386/v1.html",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2022-07-29T00:24:07Z",
+      "timestamp": 1659054247000
+    },
+    "score": 51.611725,
+    "resource": {
+      "primary": {
+        "URL": "https://www.researchsquare.com/article/rs-110386/v1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.21203/rs.3.rs-110386/v1",
+    "relation": {
+      "is-preprint-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1186/s12879-021-05914-1",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          4
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  }
+]

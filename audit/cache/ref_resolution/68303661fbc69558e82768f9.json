@@ -1,0 +1,2350 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          8
+        ]
+      ],
+      "date-time": "2026-01-08T21:59:37Z",
+      "timestamp": 1767909577866,
+      "version": "3.49.0"
+    },
+    "reference-count": 19,
+    "publisher": "Elsevier BV",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2003-12-01T00:00:00Z",
+          "timestamp": 1070236800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2003.09.009",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2003-10-11T06:52:31Z",
+      "timestamp": 1065855151000
+    },
+    "page": "656-660",
+    "source": "Crossref",
+    "is-referenced-by-count": 82,
+    "title": [
+      "Combined Reporting of Cancer Control and Functional Results of Radical Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "44",
+    "author": [
+      {
+        "given": "Laurent",
+        "family": "Salomon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Fabien",
+        "family": "Saint",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Aristotelis G",
+        "family": "Anastasiadis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Philippe",
+        "family": "Sebe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dominique",
+        "family": "Chopin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Clément-Claude",
+        "family": "Abbou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB1",
+        "first-page": "315",
+        "article-title": "The early diagnosis and radical cure of carcinoma of the prostate: being a study of 40 cases and presentation of a radical operation which was carried out in four cases",
+        "volume": "16",
+        "author": "Young",
+        "year": "1905",
+        "journal-title": "Bull Johns Hopkins Univ"
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "693",
+        "DOI": "10.1016/S0140-6736(45)91030-0",
+        "article-title": "Retropubic prostatectomy: a new extravesical technique. Report on 20 cases",
+        "volume": "2",
+        "author": "Millin",
+        "year": "1945",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1016/S0090-4295(97)00543-8",
+        "article-title": "Laparoscopic radical prostatectomy: initial short term experience",
+        "volume": "50",
+        "author": "Schuessler",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1002/pros.2990040506",
+        "article-title": "Radical prostatectomy with preservation of sexual function: anatomical and pathological considerations",
+        "volume": "4",
+        "author": "Walsh",
+        "year": "1983",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1816",
+        "DOI": "10.1016/S0022-5347(17)32391-1",
+        "article-title": "The status of radical prostatectomy in the United States in 1993. Where do we go from here?",
+        "volume": "152",
+        "author": "Walsh",
+        "year": "1994",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "843",
+        "DOI": "10.1016/S0090-4295(01)01441-8",
+        "article-title": "Contemporary update of prostate cancer staging nomograms (Partin Tables) for the new millenium",
+        "volume": "58",
+        "author": "Partin",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1007",
+        "DOI": "10.1016/S0090-4295(99)80122-8",
+        "article-title": "Effect of radical prostatectomy for prostate cancer on patient quality of life: results from a medicare survey",
+        "volume": "45",
+        "author": "Fowler",
+        "year": "1995",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1117",
+        "DOI": "10.1093/jnci/89.15.1117",
+        "article-title": "Patient-reported impotence and incontinence after nerve-sparing radical prostatectomy",
+        "volume": "89",
+        "author": "Talcott",
+        "year": "1997",
+        "journal-title": "J. Natl. Cancer Inst."
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1016/S0094-0143(05)70386-4",
+        "article-title": "Prostate-Specific Antigen after anatomic radical retropubic prostatectomy",
+        "volume": "24",
+        "author": "Pound",
+        "year": "1997",
+        "journal-title": "Urol. Clin. North Am."
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1097/00005392-199908000-00038",
+        "article-title": "Potency, continence and complications rates in 1870 consecutive radical retropubic prostatectomies",
+        "volume": "159",
+        "author": "Catalona",
+        "year": "1999",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "998",
+        "DOI": "10.1016/S0022-5347(17)38512-9",
+        "article-title": "Sexual function following radical prostatectomy: influence of preservation of neurovascular bundles",
+        "volume": "145",
+        "author": "Quinlan",
+        "year": "1991",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/S0090-4295(99)00397-0",
+        "article-title": "Patient-reported urinary continence and sexual function after anatomic radical prostatectomy",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1235",
+        "DOI": "10.1016/S0022-5347(17)42876-X",
+        "article-title": "Morphometric and clinical studies on 68 consecutive radical prostatectomies",
+        "volume": "139",
+        "author": "Stamey",
+        "year": "1988",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB14",
+        "unstructured": "TNM Classification of Malignant Tumors: International Union Against Cancer. In: Sobin LH, Wittekind C, editors. 5th ed., New York: Wiley-Liss; 1997. p. 170–3."
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1159/000049747",
+        "article-title": "Laparoscopic radical prostatectomy: the Créteil experience",
+        "volume": "40",
+        "author": "Hoznek",
+        "year": "2001",
+        "journal-title": "Eur. Urol."
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "652",
+        "DOI": "10.1016/S0022-5347(17)35038-3",
+        "article-title": "Quality of life of incontinent men after radical prostatectomy",
+        "volume": "151",
+        "author": "Herr",
+        "year": "1994",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1001/jama.273.2.129",
+        "article-title": "Quality-of-life outcomes in men treated for localized prostate cancer",
+        "volume": "273",
+        "author": "Litwin",
+        "year": "1995",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "242",
+        "DOI": "10.1038/sj.pcan.4500248",
+        "article-title": "Preoperative and operative factors to predict incontinence, impotence and stricture after radical prostatectomy",
+        "volume": "5",
+        "author": "Moul",
+        "year": "1998",
+        "journal-title": "Prostate Cancer and Prostatic Diseases"
+      },
+      {
+        "key": "10.1016/j.eururo.2003.09.009_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1973",
+        "DOI": "10.1016/S0022-5347(05)66931-5",
+        "article-title": "Urinary function and bother after radical prostatectomy or radiation for prostate cancer: a longitudinal, multivariate quality of life analysis from the cancer of the prostate strategic urologic research endeavor",
+        "volume": "164",
+        "author": "Litwin",
+        "year": "2000",
+        "journal-title": "J. Urol."
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283803004779?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283803004779?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2019-02-20T21:53:30Z",
+      "timestamp": 1550699610000
+    },
+    "score": 121.67096,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283803004779"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          12
+        ]
+      ]
+    },
+    "references-count": 19,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283803004779"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2003.09.009",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          5
+        ]
+      ],
+      "date-time": "2026-02-05T13:41:26Z",
+      "timestamp": 1770298886061,
+      "version": "3.49.0"
+    },
+    "reference-count": 26,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2003-08-01T00:00:00Z",
+          "timestamp": 1059696000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0090-4295(03)00352-2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          7,
+          31
+        ]
+      ],
+      "date-time": "2003-07-31T22:40:57Z",
+      "timestamp": 1059691257000
+    },
+    "page": "292-297",
+    "source": "Crossref",
+    "is-referenced-by-count": 151,
+    "title": [
+      "Radical retropubic versus laparoscopic prostatectomy: a prospective comparison of functional outcome"
+    ],
+    "prefix": "10.1016",
+    "volume": "62",
+    "author": [
+      {
+        "given": "Aristotelis G",
+        "family": "Anastasiadis",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Laurent",
+        "family": "Salomon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ran",
+        "family": "Katz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andras",
+        "family": "Hoznek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dominique",
+        "family": "Chopin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Clement-Claude",
+        "family": "Abbou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1002/pros.2990040506",
+        "article-title": "Radical prostatectomy with preservation of sexual function",
+        "volume": "4",
+        "author": "Walsh",
+        "year": "1983",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "843",
+        "DOI": "10.1016/S0090-4295(01)01441-8",
+        "article-title": "Contemporary update of prostate cancer staging nomograms (Partin tables) for the new millennium",
+        "volume": "58",
+        "author": "Partin",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1007",
+        "DOI": "10.1016/S0090-4295(99)80122-8",
+        "article-title": "Effect of radical prostatectomy for prostate cancer on patient quality of life",
+        "volume": "45",
+        "author": "Fowler",
+        "year": "1995",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1016/S0090-4295(97)00543-8",
+        "article-title": "Laparoscopic radical prostatectomy",
+        "volume": "50",
+        "author": "Schuessler",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1002/(SICI)1097-0045(19990401)39:1<71::AID-PROS12>3.0.CO;2-K",
+        "article-title": "Laparoscopic radical prostatectomy",
+        "volume": "39",
+        "author": "Guillonneau",
+        "year": "1999",
+        "journal-title": "Prostate"
+      },
+      {
+        "issue": "suppl",
+        "key": "10.1016/S0090-4295(03)00352-2_BIB6",
+        "first-page": "615",
+        "article-title": "Complications and initial experience with 1228 laparoscopic radical prostatectomies at 6 European centers",
+        "volume": "165",
+        "author": "Sulser",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "278",
+        "DOI": "10.1007/PL00007077",
+        "article-title": "Laparoscopic radical prostatectomy",
+        "volume": "18",
+        "author": "Schulam",
+        "year": "2000",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1159/000049747",
+        "article-title": "Laparoscopic radical prostatectomy",
+        "volume": "40",
+        "author": "Hoznek",
+        "year": "2001",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "2418",
+        "DOI": "10.1016/S0022-5347(01)62202-X",
+        "article-title": "Anatomic radical prostatectomy",
+        "volume": "160",
+        "author": "Walsh",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.1159/000019549",
+        "article-title": "Prevalence and impact of incontinence and impotence following total prostatectomy assessed anonymously by the ICS-male questionnaire",
+        "volume": "33",
+        "author": "Bates",
+        "year": "1998",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1802",
+        "DOI": "10.1016/S0022-5347(05)67547-7",
+        "article-title": "Radical prostatectomy for localized prostate cancer provides durable cancer control with excellent quality of life",
+        "volume": "163",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1016/S0022-5347(05)68578-3",
+        "article-title": "Potency, continence and complications rates in 1870 consecutive radical retropubic prostatectomies",
+        "volume": "162",
+        "author": "Catalona",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "595",
+        "DOI": "10.1016/S0094-0143(05)70165-8",
+        "article-title": "Prevention and management of incontinence following radical prostatectomy",
+        "volume": "28",
+        "author": "Carlson",
+        "year": "2001",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "623",
+        "DOI": "10.1016/S0094-0143(05)70166-X",
+        "article-title": "Prevention and management of erectile dysfunction following radical prostatectomy",
+        "volume": "28",
+        "author": "McCullough",
+        "year": "2001",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/S0022-5347(05)67890-1",
+        "article-title": "Laparoscopic radical prostatectomy",
+        "volume": "163",
+        "author": "Guillonneau",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1159/000049748",
+        "article-title": "Laparoscopic radical prostatectomy",
+        "volume": "40",
+        "author": "Türk",
+        "year": "2001",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1159/000049750",
+        "article-title": "Extraperitoneal laparoscopic radical prostatectomy",
+        "volume": "40",
+        "author": "Bollens",
+        "year": "2001",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "2101",
+        "DOI": "10.1016/S0022-5347(05)65514-0",
+        "article-title": "Laparoscopic radical prostatectomy with the Heilbronn technique",
+        "volume": "166",
+        "author": "Rassweiler",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "242",
+        "DOI": "10.1038/sj.pcan.4500248",
+        "article-title": "Preoperative and operative factors to predict incontinence, impotence and stricture after radical prostatectomy",
+        "volume": "5",
+        "author": "Moul",
+        "year": "1998",
+        "journal-title": "Prostate Cancer Prostatic Dis"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1988",
+        "DOI": "10.1016/S0022-5347(01)63222-1",
+        "article-title": "Differences in urologist and patient assessments of health related quality of life in men with prostate cancer",
+        "volume": "159",
+        "author": "Litwin",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.3109/00365599609182326",
+        "article-title": "Urinary incontinence and sexual impotence after radical prostatectomy",
+        "volume": "30",
+        "author": "Ojdeby",
+        "year": "1996",
+        "journal-title": "Scand J Urol Nephrol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1117",
+        "DOI": "10.1093/jnci/89.15.1117",
+        "article-title": "Patient-reported impotence and incontinence after nerve-sparing surgery",
+        "volume": "89",
+        "author": "Talcott",
+        "year": "1997",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "998",
+        "DOI": "10.1016/S0022-5347(17)38512-9",
+        "article-title": "Sexual function following radical prostatectomy",
+        "volume": "145",
+        "author": "Quinlan",
+        "year": "1991",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/S0022-5347(01)67251-3",
+        "article-title": "Nerve sparing radical prostatectomy",
+        "volume": "154",
+        "author": "Geary",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB25",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/S0090-4295(99)00397-0",
+        "article-title": "Patient-reported urinary continence and sexual function after anatomic radical prostatectomy",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0090-4295(03)00352-2_BIB26",
+        "doi-asserted-by": "crossref",
+        "first-page": "338",
+        "DOI": "10.1016/S0302-2838(02)00360-3",
+        "article-title": "Urinary continence and erectile function",
+        "volume": "42",
+        "author": "Salomon",
+        "year": "2002",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429503003522?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429503003522?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          16
+        ]
+      ],
+      "date-time": "2019-03-16T23:58:14Z",
+      "timestamp": 1552780694000
+    },
+    "score": 67.493576,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429503003522"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          8
+        ]
+      ]
+    },
+    "references-count": 26,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429503003522"
+    ],
+    "URL": "https://doi.org/10.1016/s0090-4295(03)00352-2",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T18:50:23Z",
+      "timestamp": 1761763823064
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Eur Urol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "DOI": "10.1159/000049747",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          4,
+          15
+        ]
+      ],
+      "date-time": "2003-04-15T06:10:37Z",
+      "timestamp": 1050387037000
+    },
+    "page": "38-45",
+    "source": "Crossref",
+    "is-referenced-by-count": 151,
+    "title": [
+      "Laparoscopic Radical Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "40",
+    "author": [
+      {
+        "given": "Andr&aacute;s",
+        "family": "Hoznek",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Laurent",
+        "family": "Salomon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Leif Eric",
+        "family": "Olsson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Patrick",
+        "family": "Antiphon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Fabien",
+        "family": "Saint",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Antony",
+        "family": "Cicco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dominique",
+        "family": "Chopin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cl&eacute;ment-Claude",
+        "family": "Abbou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.karger.com/Article/Pdf/49747",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          10,
+          3
+        ]
+      ],
+      "date-time": "2019-10-03T15:10:23Z",
+      "timestamp": 1570115423000
+    },
+    "score": 66.347115,
+    "resource": {
+      "primary": {
+        "URL": "https://www.karger.com/Article/FullText/49747"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2001
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1159/000049747",
+    "ISSN": [
+      "1421-993X",
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "1421-993X",
+        "type": "electronic"
+      },
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2026-04-24T20:26:44Z",
+      "timestamp": 1777062404994,
+      "version": "3.51.4"
+    },
+    "reference-count": 25,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2002,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2002-10-01T00:00:00Z",
+          "timestamp": 1033430400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2002,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0302-2838(02)00360-3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2002-10-10T15:46:34Z",
+      "timestamp": 1034264794000
+    },
+    "page": "338-343",
+    "source": "Crossref",
+    "is-referenced-by-count": 88,
+    "title": [
+      "Urinary Continence and Erectile Function: A Prospective Evaluation of Functional Results after Radical Laparoscopic Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "42",
+    "author": [
+      {
+        "given": "Laurent",
+        "family": "Salomon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Aristotelis G",
+        "family": "Anastasiadis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ran",
+        "family": "Katz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alexandre",
+        "family": "De La Taille",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Fabien",
+        "family": "Saint",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dimitrios",
+        "family": "Vordos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anthony",
+        "family": "Cicco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andras",
+        "family": "Hoznek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dominique",
+        "family": "Chopin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Clement-Claude",
+        "family": "Abbou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1002/pros.2990040506",
+        "article-title": "Radical prostatectomy with preservation of sexual function: anatomical and pathological considerations",
+        "volume": "4",
+        "author": "Walsh",
+        "year": "1983",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "843",
+        "DOI": "10.1016/S0090-4295(01)01441-8",
+        "article-title": "Contemporary update of prostate cancer staging nomograms (partin tables) for the new millenium",
+        "volume": "58",
+        "author": "Partin",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1007",
+        "DOI": "10.1016/S0090-4295(99)80122-8",
+        "article-title": "Effect of radical prostatectomy for prostate cancer on patient quality of life: results from a medicare survey",
+        "volume": "45",
+        "author": "Fowler",
+        "year": "1995",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "2418",
+        "DOI": "10.1016/S0022-5347(01)62202-X",
+        "article-title": "Anatomic radical prostatectomy: evolution of the surgical technique",
+        "volume": "160",
+        "author": "Walsh",
+        "year": "1998",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "849",
+        "DOI": "10.1016/S0090-4295(97)00485-8",
+        "article-title": "Initial experience with extraperitoneal endoscopic radical retropubic prostatectomy",
+        "volume": "50",
+        "author": "Raboy",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1016/S0090-4295(97)00543-8",
+        "article-title": "Laparoscopic radical prostatectomy: initial short term experience",
+        "volume": "50",
+        "author": "Schuessler",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1002/(SICI)1097-0045(19990401)39:1<71::AID-PROS12>3.0.CO;2-K",
+        "article-title": "Laparoscopic radical prostatectomy: initial experience and preliminary assessment after 65 operations",
+        "volume": "39",
+        "author": "Guillonneau",
+        "year": "1999",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB8",
+        "unstructured": "Sulser T, Guillonneau B, Vallancien G, Gaston R, Piechaud T, Türk I et al. Complications and initial experience with 1228 laparoscopic radical prostatectomies at 6 European centers. J. Urol 2001;165(Suppl 150):abstract 615."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1159/000049747",
+        "article-title": "Laparoscopic radical prostatectomy: the Créteil experience",
+        "volume": "40",
+        "author": "Hoznek",
+        "year": "2001",
+        "journal-title": "Eur. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.1159/000019549",
+        "article-title": "Prevalence and impact of incontinence and impotence following total prostatectomy assessed anonymously by the ICS-Male questionnaire",
+        "volume": "33",
+        "author": "Bates",
+        "year": "1998",
+        "journal-title": "Eur. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1988",
+        "DOI": "10.1016/S0022-5347(01)63222-1",
+        "article-title": "Differences in urologist and patient assessments of health related quality of life in men with prostate cancer: results of the CAPSURE database",
+        "volume": "159",
+        "author": "Litwin",
+        "year": "1998",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.3109/00365599609182326",
+        "article-title": "Urinary incontinence and sexual impotence after radical prostatectomy",
+        "volume": "30",
+        "author": "Ojdeby",
+        "year": "1996",
+        "journal-title": "Scand. J. Urol. Nephrol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "242",
+        "DOI": "10.1038/sj.pcan.4500248",
+        "article-title": "Pre-operative and operative factors to predict incontinence",
+        "volume": "5",
+        "author": "Moul",
+        "year": "1998",
+        "journal-title": "Prostate Cancer P D"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1117",
+        "DOI": "10.1093/jnci/89.15.1117",
+        "article-title": "Patient-reported impotence and incontinence after nerve-sparing surgery",
+        "volume": "89",
+        "author": "Talcott",
+        "year": "1997",
+        "journal-title": "J. Natl. Cancer Inst."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "570",
+        "DOI": "10.1016/S0090-4295(01)01261-4",
+        "article-title": "Prospective patient-reported continence after laparoscopic radical prostatectomy",
+        "volume": "58",
+        "author": "Olsson",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB16",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/S0022-5347(05)67890-1",
+        "article-title": "Laparoscopic radical prostatectomy: the Montsouris experience",
+        "volume": "163",
+        "author": "Guillonneau",
+        "year": "2000",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1159/000049748",
+        "article-title": "Laparoscopic radical prostatectomy: technical aspects and experience with 125 cases",
+        "volume": "40",
+        "author": "Türk",
+        "year": "2001",
+        "journal-title": "Eur. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1159/000049750",
+        "article-title": "Extraperitoneal laparoscopic radical prostatectomy: results after 50 cases",
+        "volume": "40",
+        "author": "Bollens",
+        "year": "2001",
+        "journal-title": "Eur. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "2101",
+        "DOI": "10.1016/S0022-5347(05)65514-0",
+        "article-title": "Laparoscopic radical prostatectomy with the Heilbronn technique: an analysis of the first 180 cases",
+        "volume": "166",
+        "author": "Rassweiler",
+        "year": "2001",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1802",
+        "DOI": "10.1016/S0022-5347(05)67547-7",
+        "article-title": "Radical prostatectomy for localized prostate cancer provides durable cancer control with excellent quality of life: a structured debate",
+        "volume": "163",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1097/00005392-199908000-00038",
+        "article-title": "Potency",
+        "volume": "159",
+        "author": "Catalona",
+        "year": "1999",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "998",
+        "DOI": "10.1016/S0022-5347(17)38512-9",
+        "article-title": "Sexual function following radical prostatectomy: influence of preservation of neurovascular bundles",
+        "volume": "145",
+        "author": "Quinlan",
+        "year": "1991",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/S0022-5347(01)67251-3",
+        "article-title": "Nerve sparing radical prostatectomy: a different view",
+        "volume": "154",
+        "author": "Geary",
+        "year": "1995",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/S0090-4295(99)00397-0",
+        "article-title": "Patient-reported urinary continence and sexual function after anatomic radical prostatectomy",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00360-3_BIB25",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.1016/S0022-5347(17)38382-9",
+        "article-title": "Impact of anatomical radical prostatectomy on urinary continence",
+        "volume": "145",
+        "author": "Steiner",
+        "year": "1991",
+        "journal-title": "J. Urol."
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283802003603?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283802003603?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          11
+        ]
+      ],
+      "date-time": "2019-04-11T02:25:24Z",
+      "timestamp": 1554949524000
+    },
+    "score": 62.830986,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283802003603"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          10
+        ]
+      ]
+    },
+    "references-count": 25,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2002,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283802003603"
+    ],
+    "URL": "https://doi.org/10.1016/s0302-2838(02)00360-3",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2002,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2026-03-27T02:42:11Z",
+      "timestamp": 1774579331071,
+      "version": "3.50.1"
+    },
+    "reference-count": 35,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2003-01-01T00:00:00Z",
+          "timestamp": 1041379200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0302-2838(02)00493-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          12,
+          30
+        ]
+      ],
+      "date-time": "2002-12-30T19:08:58Z",
+      "timestamp": 1041275338000
+    },
+    "page": "39-44",
+    "source": "Crossref",
+    "is-referenced-by-count": 86,
+    "title": [
+      "Prognostic Significance of Tumor Volume after Radical Prostatectomy: A Multivariate Analysis of Pathological Prognostic Factors"
+    ],
+    "prefix": "10.1016",
+    "volume": "43",
+    "author": [
+      {
+        "given": "Laurent",
+        "family": "Salomon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Olivier",
+        "family": "Levrel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Aristotelis G.",
+        "family": "Anastasiadis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jacques",
+        "family": "Irani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alexandre",
+        "family": "De La Taille",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Fabien",
+        "family": "Saint",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dimitri",
+        "family": "Vordos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Antony",
+        "family": "Cicco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andras",
+        "family": "Hoznek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dominique",
+        "family": "Chopin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Claude-Clément",
+        "family": "Abbou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/S0094-0143(05)70163-4",
+        "article-title": "Long-term biochemical disease-free and cancer specific survival following anatomic radical retropubic prostatectomy",
+        "volume": "28",
+        "author": "Han",
+        "year": "2001",
+        "journal-title": "Urol. Clin. North Am."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1235",
+        "DOI": "10.1016/S0022-5347(17)42876-X",
+        "article-title": "Morphometric and clinical studies on 68 consecutive radical prostatectomies",
+        "volume": "139",
+        "author": "Stamey",
+        "year": "1988",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB3",
+        "doi-asserted-by": "crossref",
+        "first-page": "60",
+        "DOI": "10.1016/S0140-6736(86)90715-4",
+        "article-title": "Patterns of progression in prostate cancer",
+        "volume": "1",
+        "author": "McNeal",
+        "year": "1986",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1385",
+        "DOI": "10.1001/jama.281.15.1395",
+        "article-title": "Biological determinants of cancer progression in men with prostate cancer",
+        "volume": "281",
+        "author": "Stamey",
+        "year": "1999",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1478",
+        "DOI": "10.1016/S0022-5347(17)36421-2",
+        "article-title": "Is tumor volume an independent predictor of progression following radical prostatectomy? A multivariate analysis of 185 clinical stage B adenocarcinoma of the prostate with 5 years of follow-up",
+        "volume": "149",
+        "author": "Epstein",
+        "year": "1993",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "2212",
+        "DOI": "10.1016/S0022-5347(01)64721-9",
+        "article-title": "Has there been a recent shift in the pathological features and prognosis of patients treated with radical prostatectomy?",
+        "volume": "157",
+        "author": "Soh",
+        "year": "1997",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB7",
+        "first-page": "2412",
+        "article-title": "Histological and clinical findings in 896 consecutive prostates treated only with radical retropubic prostatectomy: epidemiologic significance of annual changes",
+        "volume": "60",
+        "author": "Stamey",
+        "year": "1998",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "843",
+        "DOI": "10.1016/S0090-4295(01)01441-8",
+        "article-title": "Contemporary update of prostate cancer staging nomograms (Partin tables) for the new millennium",
+        "volume": "58",
+        "author": "Partin",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB9",
+        "first-page": "442",
+        "article-title": "Volume et représentation spatiale des tumeurs au sein de la glande prostatique",
+        "volume": "7",
+        "author": "Salomon",
+        "year": "1997",
+        "journal-title": "Prog. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB10",
+        "unstructured": "TNM classification of malignant tumors: International Union Against Cancer. In: Sobin LH, Wittekind C, editors. 5th ed. New York: Wiley; 1997. p. 170–3."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1016/S0094-0143(05)70386-4",
+        "article-title": "Prostate-specific antigen after anatomic radical retropubic prostatectomy",
+        "volume": "24",
+        "author": "Pound",
+        "year": "1997",
+        "journal-title": "Urol. Clin. North Am."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "2440",
+        "DOI": "10.1016/S0022-5347(05)65000-8",
+        "article-title": "Gleason score 7 prostate cancer on needle biopsy: is the prognostic difference in Gleason scores 4 + 3 and 3 + 4 independent of the number of involved cores?",
+        "volume": "167",
+        "author": "Makarov",
+        "year": "2002",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB13",
+        "doi-asserted-by": "crossref",
+        "first-page": "740",
+        "DOI": "10.1016/S0090-4295(02)01654-0",
+        "article-title": "Preoperative parameters for predicting early prostate cancer recurrence after radical prostatectomy",
+        "volume": "59",
+        "author": "Nelson",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "951",
+        "DOI": "10.1200/JCO.20.4.951",
+        "article-title": "Validation study of the accuracy of a postoperative nomogram for recurrence after radical prostatectomy for localized prostate cancer",
+        "volume": "20",
+        "author": "Graefen",
+        "year": "2002",
+        "journal-title": "J. Clin. Oncol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1499",
+        "DOI": "10.1200/JCO.1999.17.5.1499",
+        "article-title": "Postoperative nomogram for disease recurrence after radical prostatectomy for prostate cancer",
+        "volume": "17",
+        "author": "Kattan",
+        "year": "1999",
+        "journal-title": "J. Clin. Oncol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB16",
+        "first-page": "12",
+        "article-title": "Risks factors for progression in patients with prostate cancer treated with radical prostatectomy",
+        "volume": "14",
+        "author": "Lerner",
+        "year": "1996",
+        "journal-title": "Sem. Urol. Oncol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1818",
+        "DOI": "10.1016/S0022-5347(01)66792-2",
+        "article-title": "Prognostic significance of positive surgical margins in radical prostatectomy specimen",
+        "volume": "154",
+        "author": "Ohori",
+        "year": "1995",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "264",
+        "DOI": "10.1016/S0090-4295(02)01728-4",
+        "article-title": "Morphologic and clinical significance of multifocal prostate cancers in radical prostatectomy specimens",
+        "volume": "60",
+        "author": "Wise",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB19",
+        "doi-asserted-by": "crossref",
+        "first-page": "283",
+        "DOI": "10.1016/0090-4295(93)90617-J",
+        "article-title": "Radical prostatectomy for pathologic stage C prostate cancer: influence of pathologic variables and adjuvant treatment on disease outcome",
+        "volume": "42",
+        "author": "Cheng",
+        "year": "1993",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "746",
+        "DOI": "10.1016/S0090-4295(01)01336-X",
+        "article-title": "Does capsular incision at radical retropubic prostatectomy affect disease-free survival in otherwise organ-confined prostate cancer?",
+        "volume": "58",
+        "author": "Barocas",
+        "year": "2001",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB21",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1016/S0022-5347(01)62881-7",
+        "article-title": "Incidence, etiology, location, prevention and treatment of positive surgical margins after radical prostatectomy for prostate cancer",
+        "volume": "160",
+        "author": "Wieder",
+        "year": "1998",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB22",
+        "doi-asserted-by": "crossref",
+        "first-page": "902",
+        "DOI": "10.1002/(SICI)1097-0142(19980301)82:5<902::AID-CNCR15>3.0.CO;2-4",
+        "article-title": "Pathologic classification of prostate carcinoma: the impact of margin status",
+        "volume": "82",
+        "author": "Blute",
+        "year": "1998",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB23",
+        "doi-asserted-by": "crossref",
+        "first-page": "567",
+        "DOI": "10.1016/S0094-0143(05)70164-6",
+        "article-title": "Pathologic assessment of the surgical specimen",
+        "volume": "28",
+        "author": "Epstein",
+        "year": "2001",
+        "journal-title": "Urol. Clin. North Am."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1808",
+        "DOI": "10.1016/S0022-5347(01)66790-9",
+        "article-title": "Tumor volume and prostate specific antigen: implications for early detection and defining a window of curability",
+        "volume": "154",
+        "author": "Babaian",
+        "year": "1995",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB25",
+        "doi-asserted-by": "crossref",
+        "first-page": "887",
+        "DOI": "10.1016/S0090-4295(97)00107-6",
+        "article-title": "Prognostic significance of prostate-specific antigen in stage T1c prostate cancer treated by radical prostatectomy",
+        "volume": "49",
+        "author": "Cookson",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1714",
+        "DOI": "10.1016/S0022-5347(17)32369-8",
+        "article-title": "The pathological features and prognosis of prostate cancer detectable with current diagnostic tests",
+        "volume": "152",
+        "author": "Ohori",
+        "year": "1994",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB27",
+        "doi-asserted-by": "crossref",
+        "first-page": "59",
+        "DOI": "10.1002/(SICI)1097-0045(19970615)32:1<59::AID-PROS8>3.0.CO;2-7",
+        "article-title": "Prostate-specific antigen-detected prostate cancer (stage T1c): an analysis of whole-mount prostatectomy specimens",
+        "volume": "32",
+        "author": "Douglas",
+        "year": "1997",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB28",
+        "doi-asserted-by": "crossref",
+        "first-page": "816",
+        "DOI": "10.1016/S0022-5347(01)66316-X",
+        "article-title": "Prospective characterization of pathological features of prostatic carcinomas detected via serum prostate specific antigen based screening",
+        "volume": "155",
+        "author": "Humphrey",
+        "year": "1996",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB29",
+        "doi-asserted-by": "crossref",
+        "first-page": "572",
+        "DOI": "10.1093/ajcp/102.5.572",
+        "article-title": "Surgical pathology examination of the prostate gland: practice survey by American Society of Clinical Pathologists",
+        "volume": "102",
+        "author": "True",
+        "year": "1994",
+        "journal-title": "Am. J. Clin. Pathol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB30",
+        "doi-asserted-by": "crossref",
+        "first-page": "494",
+        "DOI": "10.1053/hupa.2001.24322",
+        "article-title": "Comparative analysis of sampling for grossing radical prostatectomy specimens performed for nonpalpable (stage T1c) prostatic adenocarcinoma",
+        "volume": "32",
+        "author": "Smith Sehdev",
+        "year": "2001",
+        "journal-title": "Hum. Pathol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB31",
+        "doi-asserted-by": "crossref",
+        "first-page": "748",
+        "DOI": "10.1002/(SICI)1097-0142(19980815)83:4<748::AID-CNCR17>3.0.CO;2-S",
+        "article-title": "The greatest dimension of prostate carcinoma is a simple, inexpensive predictor of prostate specific antigen failure in radical prostatectomy specimens",
+        "volume": "83",
+        "author": "Renshaw",
+        "year": "1998",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB32",
+        "doi-asserted-by": "crossref",
+        "first-page": "1709",
+        "DOI": "10.1016/S0022-5347(17)32368-6",
+        "article-title": "Morphology of prostate cancer: the effects of multifocality on histological grade",
+        "volume": "152",
+        "author": "Miller",
+        "year": "1994",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB33",
+        "doi-asserted-by": "crossref",
+        "first-page": "258",
+        "DOI": "10.1016/0046-8177(92)90106-D",
+        "article-title": "Cancer volume and site of origin of adenocarcinoma in the prostate: Relationship to local and distant spread",
+        "volume": "23",
+        "author": "Mc Neal",
+        "year": "1992",
+        "journal-title": "Hum. Pathol."
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB34",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1002/pros.1117",
+        "article-title": "Patterns of spread of adenocarcinoma in the prostate as related to cancer volume",
+        "volume": "49",
+        "author": "McNeal",
+        "year": "2001",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/S0302-2838(02)00493-1_BIB35",
+        "doi-asserted-by": "crossref",
+        "first-page": "21",
+        "DOI": "10.1038/sj.pcan.4500287",
+        "article-title": "Eight year improvement in pathological results after radical prostatectomy",
+        "volume": "2",
+        "author": "Salomon",
+        "year": "1999",
+        "journal-title": "Prostate Cancer Prostatic Dis."
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283802004931?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283802004931?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2019-04-02T18:21:41Z",
+      "timestamp": 1554229301000
+    },
+    "score": 61.9863,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283802004931"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          1
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283802004931"
+    ],
+    "URL": "https://doi.org/10.1016/s0302-2838(02)00493-1",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          1
+        ]
+      ]
+    }
+  }
+]

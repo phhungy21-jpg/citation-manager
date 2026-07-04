@@ -1,0 +1,297 @@
+{
+  "paper": "Kang 2022.md",
+  "source_file": "..\\TEMP\\Kang 2022.md",
+  "generated": "2026-07-01T07:21:54.984707+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "dry_run_skipped": 24,
+    "unresolved_reference": 3
+  },
+  "flagged": [
+    {
+      "sentence": "In the suspension stitch group, we used the technique described in previous publications [6,8].",
+      "citation_number": 8,
+      "ref_text": "Patel VR, Shah KK, Thaly RK, Lavery H. Robotic-assisted laparoscopic radical prostatectomy: the Ohio State University technique. J Robot Surg 2007;1:51-9.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.urology.2007.06.628",
+        "title": "VID-01.04: Robotic-assisted laparoscopic radical prostatectomy in patients with previous inguinal meshplasty: technique and perioperative outcome",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.46,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "The lengths of hospital stay were not significantly different (8 [8–8] vs. 8 [8–8] days, p=0.527).",
+      "citation_number": 8,
+      "ref_text": "Patel VR, Shah KK, Thaly RK, Lavery H. Robotic-assisted laparoscopic radical prostatectomy: the Ohio State University technique. J Robot Surg 2007;1:51-9.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.urology.2007.06.628",
+        "title": "VID-01.04: Robotic-assisted laparoscopic radical prostatectomy in patients with previous inguinal meshplasty: technique and perioperative outcome",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.46,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "[12], in which the continence rates were 46.3%, 70.4%, 94.4%, and 99.1% at 1, 3, 6, and 12 months after catheter removal, respectively.",
+      "citation_number": 12,
+      "ref_text": "Bianchi L, Turri FM, Larcher A, De Groote R, De Bruyne P, De Coninck V, et al. A novel approach for apical dissection during robot-assisted radical prostatectomy: the \"collar\" technique. Eur Urol Focus 2018;4:677-85.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/s1569-9056(17)31514-2",
+        "title": "A novel approach for apical dissection during robot assisted radical prostatectomy: The “collar” technique",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 1.0,
+        "confident": false
+      }
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "Urinary incontinence is one of the major complications of robot-assisted radical prostatectomy (RARP) that significantly undermines patients’ quality of life [1].",
+      "citation_number": 1,
+      "ref_text": "Carrier J, Edwards D, Harden J. Men's perceptions of the impact of the physical consequences of a radical prostatectomy on their quality of life: a qualitative systematic review. JBI Database System Rev Implement Rep 2018;16:892-972. Investig Clin Urol 2022;63:639-646. **www.icurology.org** 645 ## **Kang et al**",
+      "doi": "10.11124/jbisrir-2017-003566",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Although continence rates from large robotic centers are around 90% **Received:** 15 July, 2022 • **Accepted:** 8 August, 2022 • **Published online:** 26 October, 2022 **Corresponding Author:** Sung Gu Kang https://orcid.org/0000-0001-5791-5410 Department of Urology, Korea University College of Medicine, 73 Goryeodae-ro, Seongbuk-gu, Seoul 02841, Korea TEL: +82-2-920-6845, FAX: +82-2-928-7864, E-mail: kkangsung7@korea.ac.kr > ⓒ The Korean Urological Association ** ** 639 **Kang et al** at 1 year after surgery [2], the recovery of early continence remains a challenge, with rates as low as 23% [3] at 1 month postoperatively at some centers.",
+      "citation_number": 2,
+      "ref_text": "Ficarra V, Novara G, Rosen RC, Artibani W, Carroll PR, Costello A, et al. Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol 2012;62:405-17.",
+      "doi": "10.1016/j.eururo.2012.05.045",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Although continence rates from large robotic centers are around 90% **Received:** 15 July, 2022 • **Accepted:** 8 August, 2022 • **Published online:** 26 October, 2022 **Corresponding Author:** Sung Gu Kang https://orcid.org/0000-0001-5791-5410 Department of Urology, Korea University College of Medicine, 73 Goryeodae-ro, Seongbuk-gu, Seoul 02841, Korea TEL: +82-2-920-6845, FAX: +82-2-928-7864, E-mail: kkangsung7@korea.ac.kr > ⓒ The Korean Urological Association ** ** 639 **Kang et al** at 1 year after surgery [2], the recovery of early continence remains a challenge, with rates as low as 23% [3] at 1 month postoperatively at some centers.",
+      "citation_number": 3,
+      "ref_text": "Stanford JL, Feng Z, Hamilton AS, Gilliland FD, Stephenson RA, Eley JW, et al. Urinary and sexual function after radical prostatectomy for clinically localized prostate cancer: the Prostate Cancer Outcomes Study. JAMA 2000;283:354-60.",
+      "doi": "10.1001/jama.283.3.354",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These techniques include bladder neck reconstruction, posterior reconstruction, anterior suspension stitch, and lateral prostatic fascia preservation [4].",
+      "citation_number": 4,
+      "ref_text": "Kang SG, Shim JS, Onol F, Bhat KRS, Patel VR. Lessons learned from 12,000 robotic radical prostatectomies: is the journey as important as the outcome? Investig Clin Urol 2020;61:1-10.",
+      "doi": "10.4111/icu.2020.61.1.1",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The anterior suspension stitch technique, which was originally described by Walsh in an open radical retropubic prostatectomy series [5], has become one of the most popular techniques for optimizing continence after RARP since Patel et al.",
+      "citation_number": 5,
+      "ref_text": "Walsh PC. Anatomic radical prostatectomy: evolution of the surgical technique. J Urol 1998;160(6 Pt 2):2418-24.",
+      "doi": "10.1016/s0022-5347(01)62202-x",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "[6] first performed it robotically and reported a significant difference in early recovery of continence.",
+      "citation_number": 6,
+      "ref_text": "Patel VR, Coelho RF, Palmer KJ, Rocco B. Periurethral suspension stitch during robot-assisted laparoscopic radical prostatectomy: description of the technique and continence outcomes. Eur Urol 2009;56:472-8.",
+      "doi": "10.1016/j.eururo.2009.06.007",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[7] in which functional outcomes were compared between a conventional RARP group with the anterior suspension stitch and a modified apical dissection and lateral prostatic fascia preservation group without the stitch revealed that the latter showed faster recovery of continence and potency.",
+      "citation_number": 7,
+      "ref_text": "Covas Moschovas M, Bhat S, Onol FF, Rogers T, Roof S, Mazzone E, et al. Modified apical dissection and lateral prostatic fascia preservation improves early postoperative functional recovery in robotic-assisted laparoscopic radical prostatectomy: results from a propensity score-matched analysis. Eur Urol 2020;78:875-84.",
+      "doi": "10.1016/j.eururo.2020.05.041",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In the suspension stitch group, we used the technique described in previous publications [6,8].",
+      "citation_number": 6,
+      "ref_text": "Patel VR, Coelho RF, Palmer KJ, Rocco B. Periurethral suspension stitch during robot-assisted laparoscopic radical prostatectomy: description of the technique and continence outcomes. Eur Urol 2009;56:472-8.",
+      "doi": "10.1016/j.eururo.2009.06.007",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In the suspension stitch group, we used the technique described in previous publications [6,8].",
+      "citation_number": 8,
+      "ref_text": "Patel VR, Shah KK, Thaly RK, Lavery H. Robotic-assisted laparoscopic radical prostatectomy: the Ohio State University technique. J Robot Surg 2007;1:51-9.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.urology.2007.06.628",
+        "title": "VID-01.04: Robotic-assisted laparoscopic radical prostatectomy in patients with previous inguinal meshplasty: technique and perioperative outcome",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.46,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Patients were considered continent if they did not use any pads or if they used one safety pad per day (score 0 or 1 on EPIC-CP questionnaire question 3 [9]).",
+      "citation_number": 9,
+      "ref_text": "Chang P, Szymanski KM, Dunn RL, Chipman JJ, Litwin MS, Nguyen PL, et al. Expanded prostate cancer index composite for clinical practice: development and validation of a practical health related quality of life instrument for use in the routine clinical care of patients with prostate cancer. J Urol 2011;186:865-72.",
+      "doi": "10.1016/j.juro.2011.04.085",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Potency was defined as the ability to achieve and maintain a satisfactory erection firm enough for sexual intercourse in more than 50% of attempts, with or without the use of phosphodiesterase type 5 inhibitors (score ≥4 on Sexual Health Inventory for Men [SHIM] questionnaire questions 2, 3, and 5 [10]).",
+      "citation_number": 10,
+      "ref_text": "Patel VR, Sivaraman A, Coelho RF, Chauhan S, Palmer KJ, Orvieto MA, et al. Pentafecta: a new concept for reporting outcomes of robot-assisted laparoscopic radical prostatectomy. Eur Urol 2011;59:702-7.",
+      "doi": "10.1016/j.eururo.2011.01.032",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The lengths of hospital stay were not significantly different (8 [8–8] vs. 8 [8–8] days, p=0.527).",
+      "citation_number": 8,
+      "ref_text": "Patel VR, Shah KK, Thaly RK, Lavery H. Robotic-assisted laparoscopic radical prostatectomy: the Ohio State University technique. J Robot Surg 2007;1:51-9.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.urology.2007.06.628",
+        "title": "VID-01.04: Robotic-assisted laparoscopic radical prostatectomy in patients with previous inguinal meshplasty: technique and perioperative outcome",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.46,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "[11], in which the continence rates at 1, 2, 4, 6, 12, 24, and 48 weeks after catheter removal were 21%, 36%, 83%, 88%, 91%, 94%, and 95%, respectively, and the “Collar” technique by Bianchi et al.",
+      "citation_number": 11,
+      "ref_text": "Wagaskar VG, Mittal A, Sobotka S, Ratnani P, Lantz A, Falagario UG, et al. Hood technique for robotic radical prostatectomy-preserving periurethral anatomical structures in the space of Retzius and sparing the pouch of Douglas, enabling early return of continence without compromising surgical margin rates. Eur Urol 2021;80:213-21.",
+      "doi": "10.1016/j.eururo.2020.09.044",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[12], in which the continence rates were 46.3%, 70.4%, 94.4%, and 99.1% at 1, 3, 6, and 12 months after catheter removal, respectively.",
+      "citation_number": 12,
+      "ref_text": "Bianchi L, Turri FM, Larcher A, De Groote R, De Bruyne P, De Coninck V, et al. A novel approach for apical dissection during robot-assisted radical prostatectomy: the \"collar\" technique. Eur Urol Focus 2018;4:677-85.",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/s1569-9056(17)31514-2",
+        "title": "A novel approach for apical dissection during robot assisted radical prostatectomy: The “collar” technique",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 1.0,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "[13] recently described the ** ** https://doi.org/10.4111/icu.20220235 642 **Improving functional outcomes with MAD in RARP** **Table 2.** Comparison of perioperative characteristics, and pathological and oncological outcomes, between SS and MAD groups **----- Start of picture text -----**<br> Parameter SS group (n=63) MAD group (n=63) p-value<br>**----- End of picture text -----**<br> |Total operative time (min)|121.98±26.67|129.22±23.46|0.128| |---|---|---|---| |Total console time (min)|87.51±26.57|95.08±23.01|0.095| |Length of hospital stay (d)|8 (8–8)|8 (8–8)|0.527| |Postoperative complications|10 (15.9)|6 (9.5)|0.537| |None|53 (84.1)|57 (90.5)|| |Clavien I|5 (7.9)|2 (3.2)|| |Clavien II|5 (7.9)|4 (6.3)|| |Clavien III|0 (0.0)|0 (0.0)|| |Clavien IV|0 (0.0)|0 (0.0)|| |Clavien V|0 (0.0)|0 (0.0)|| |Type of complications|||NA| |Wound infection|0 (0.0)|1 (1.6)|| |Liver function test elevation|3 (4.8)|1 (1.6)|| |Drug fever|1 (1.6)|0 (0.0)|| |Hyponatremia|1 (1.6)|0 (0.0)|| |Urinary tract infection|1 (1.6)|0 (0.0)|| |Acute urinary retention|3 (4.8)|4 (6.3)|| |Pneumonia|1 (1.6)|0 (0.0)|| |Pathological stage|||0.785| |≤pT2c|44 (69.8)|48 (76.2)|| |pT3a|14 (22.2)|8 (12.7)|| |pT3b|5 (7.9)|7 (11.1)|| |pT4|0 (0.0)|0 (0.0)|| |Nodal stage|||0.285| |pN0|28 (44.4)|22 (34.9)|| |pN1|1 (1.6)|2 (3.2)|| |pNx|34 (54.0)|39 (61.9)|| |Pathological Gleason score|||0.850| |3+3|7 (11.1)|7 (11.1)|| |3+4|34 (54.0)|34 (54.0)|| |4+3|18 (28.6)|17 (27.0)|| |≥4+4|4 (6.3)|4 (6.3)|| |Positive surgical margin|15 (23.8)|14 (22.2)|>0.999| |Positive surgical margin by stage|||| |≤pT2c|9 (20.5)|8 (16.7)|>0.999| |pT3a|5 (35.7)|4 (50.0)|>0.999| |pT3b|1 (20.0)|2 (28.6)|>0.999| |pT4|0 (0.0)|0 (0.0)|NA| |Positive surgical margin site|||0.535| |Apical|3 (4.8)|6 (9.5)|0.508| |Anterior|2 (3.2)|2 (3.2)|| |Posterolateral|4 (6.3)|1 (1.6)|| |Base-bladder neck|2 (3.2)|1 (1.6)|| |Multifocal|4 (6.3)|4 (6.3)|| |BCR at postoperative 3 mo|||0.289| |No|57 (90.5)|61 (96.8)|| |Yes|6 (9.5)|2 (3.2)|| Values are presented as mean±standard deviation, median (interquartile range) or number (%).",
+      "citation_number": 13,
+      "ref_text": "Porpiglia F, Bertolo R, Manfredi M, De Luca S, Checcucci E, Morra I, et el. Total anatomical reconstruction during robotassisted radical prostatectomy: implications on early recovery of urinary continence. Eur Urol 2016;69:485-95.",
+      "doi": "10.1016/j.eururo.2015.08.005",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[7], in which they reported significantly improved early continence rates of 36.9%, 78.4%, and 92% at 1 week, 6 week, and 3 months, respectively.",
+      "citation_number": 7,
+      "ref_text": "Covas Moschovas M, Bhat S, Onol FF, Rogers T, Roof S, Mazzone E, et al. Modified apical dissection and lateral prostatic fascia preservation improves early postoperative functional recovery in robotic-assisted laparoscopic radical prostatectomy: results from a propensity score-matched analysis. Eur Urol 2020;78:875-84.",
+      "doi": "10.1016/j.eururo.2020.05.041",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "For example, levator ani muscle fibers, the contraction of which compresses the urethra when abdominal pressure is raised [14], are well preserved in the modified apical dissection technique.",
+      "citation_number": 14,
+      "ref_text": "Kumagai S, Muraki O, Yoshimura Y. Evaluation of the effect of levator ani muscle contraction on post-prostatectomy urinary incontinence using cine MRI. Neurourol Urodyn 2022;41:61625.",
+      "doi": "10.1002/nau.24861",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Moreover, because some of the key nerve branches that contribute to passive urethral closure enter the urethra from the anterolateral aspects of the lateral fascia, relatively better preservation of the lateral prostatic fascia in 644 ** ** https://doi.org/10.4111/icu.20220235 **Improving functional outcomes with MAD in RARP** the modified apical dissection technique compared with the suspension stitch technique may contribute to higher continence rates [15].",
+      "citation_number": 15,
+      "ref_text": "Karam I, Droupy S, Abd-Alsamad I, Korbage A, Uhl JF, Benoît G, et al. The precise location and nature of the nerves to the male human urethra: histological and immunohistochemical studies with three-dimensional reconstruction. Eur Urol 2005;48:858-64.",
+      "doi": "10.1016/j.eururo.2005.03.016",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Finally, by avoiding a suspension stitch, the modified apical dissection technique leads to less devascularization of the sphincter complex [7] and minimizes tissue disruption lateral to the membranous urethra [16].",
+      "citation_number": 7,
+      "ref_text": "Covas Moschovas M, Bhat S, Onol FF, Rogers T, Roof S, Mazzone E, et al. Modified apical dissection and lateral prostatic fascia preservation improves early postoperative functional recovery in robotic-assisted laparoscopic radical prostatectomy: results from a propensity score-matched analysis. Eur Urol 2020;78:875-84.",
+      "doi": "10.1016/j.eururo.2020.05.041",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Finally, by avoiding a suspension stitch, the modified apical dissection technique leads to less devascularization of the sphincter complex [7] and minimizes tissue disruption lateral to the membranous urethra [16].",
+      "citation_number": 16,
+      "ref_text": "Hwang JJ, Kim BY, Uchio EM. Improving urinary continence after radical prostatectomy: review of surgical modifications. Korean J Urol 2009;50:935-41.",
+      "doi": "10.4111/kju.2009.50.10.935",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "[17] reported potency recovery rates of 53.1% and 86.7% at 1 month and 1 year postoperatively.",
+      "citation_number": 17,
+      "ref_text": "de Carvalho PA, Barbosa JABA, Guglielmetti GB, Cordeiro MD, Rocco B, Nahas WC, et al. Retrograde release of the neurovascular bundle with preservation of dorsal venous complex during robot-assisted radical prostatectomy: optimizing functional outcomes. Eur Urol 2020;77:628-35.",
+      "doi": "10.1016/j.eururo.2018.07.003",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[4] described NVB preservation that was performed in a retrograde manner using the method of toggling.",
+      "citation_number": 4,
+      "ref_text": "Kang SG, Shim JS, Onol F, Bhat KRS, Patel VR. Lessons learned from 12,000 robotic radical prostatectomies: is the journey as important as the outcome? Investig Clin Urol 2020;61:1-10.",
+      "doi": "10.4111/icu.2020.61.1.1",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Our center adopted the techniques of retrograde NVB releasing and toggling and reported in a previous study that the potency recovery rates were higher in the toggling group (82%) than in the group without toggling (75%) at the 1-year follow-up [18].",
+      "citation_number": 18,
+      "ref_text": "Shim JS, Tae JH, Noh TI, Kang SH, Cheon J, Lee JG, et al. Toggling technique allows retrograde early release to facilitate neurovascular bundle sparing during robot-assisted radical prostatectomy: a propensity score-matching study. J Korean Med Sci 2022;37:e6.",
+      "doi": "10.3346/jkms.2022.37.e6",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In addition, preservation of lateral endopelvic fascia results in greater preservation of the anterolateral nerve fibers, which some studies have proved leads to better erectile function [19,20].",
+      "citation_number": 19,
+      "ref_text": "Basourakos SP, Kowalczyk K, Moschovas MC, Dudley V, Hung AJ, Shoag JE, et al. Robot-assisted radical prostatectomy maneuvers to attenuate erectile dysfunction: technical description and video compilation. J Endourol 2021;35:1601-9.",
+      "doi": "10.1089/end.2021.0081",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In addition, preservation of lateral endopelvic fascia results in greater preservation of the anterolateral nerve fibers, which some studies have proved leads to better erectile function [19,20].",
+      "citation_number": 20,
+      "ref_text": "Nielsen ME, Schaeffer EM, Marschke P, Walsh PC. High anterior release of the levator fascia improves sexual function following open radical retropubic prostatectomy. J Urol 2008;180:2557-64; discussion 2564.",
+      "doi": "10.1016/j.juro.2008.08.047",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "(3) The length of hospital stay was longer relative to many other countries [21,22].",
+      "citation_number": 21,
+      "ref_text": "Strother MC, Michel KF, Xia L, McWilliams K, Guzzo TJ, Lee DJ, et al. Prolonged length of stay after robotic prostatectomy: causes and risk factors. Ann Surg Oncol 2020;27:1560-7.",
+      "doi": "10.1245/s10434-020-08266-3",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "(3) The length of hospital stay was longer relative to many other countries [21,22].",
+      "citation_number": 22,
+      "ref_text": "Hajj AE, Labban M, Ploussard G, Zarka J, Abou Heidar N, Mailhac A, et al. Patient characteristics predicting prolonged length of hospital stay following robotic-assisted radical prostatectomy. Ther Adv Urol 2022;14:17562872221080737. **www.icurology.org** https://doi.org/10.4111/icu.20220235 646",
+      "doi": "10.1177/17562872221080737",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    }
+  ]
+}

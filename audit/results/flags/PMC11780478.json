@@ -1,0 +1,527 @@
+{
+  "paper": "PMC11780478",
+  "source_file": "pmcid:11780478",
+  "generated": "2026-07-01T15:14:31.973412+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "dry_run_skipped": 62,
+    "no_abstract_found": 1
+  },
+  "flagged": [
+    {
+      "sentence": "There was no statistical adjustment for multiple comparisons given the exploratory nature of the study.[43],[44] Two-sided hypothesis testing was performed, with the threshold for statistical significance set at P < .05.",
+      "citation_number": 44,
+      "ref_text": "Althouse AD. Adjust for multiple comparisons? it’s not that simple. Ann Thorac Surg. 2016;101(5):1644-1645. doi:10.1016/j.athoracsur.2015.11.024 27106412",
+      "doi": "10.1016/j.athoracsur.2015.11.024",
+      "status": "no_abstract_found",
+      "error": ""
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 1,
+      "ref_text": "Watson RS, Crow SS, Hartman ME, Lacroix J, Odetola FO. Epidemiology and outcomes of pediatric multiple organ dysfunction syndrome. Pediatr Crit Care Med. 2017;18(3_suppl)(suppl 1):S4-S16. doi:10.1097/PCC.000000000000104728248829 PMC5334773",
+      "doi": "10.1097/PCC.0000000000001047",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 2,
+      "ref_text": "Wilkinson JD, Pollack MM, Ruttimann UE, Glass NL, Yeh TS. Outcome of pediatric patients with multiple organ system failure. Crit Care Med. 1986;14(4):271-274. doi:10.1097/00003246-198604000-00002 3956214",
+      "doi": "10.1097/00003246-198604000-00002",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 3,
+      "ref_text": "Wilkinson JD, Pollack MM, Glass NL, Kanter RK, Katz RW, Steinhart CM. Mortality associated with multiple organ system failure and sepsis in pediatric intensive care unit. J Pediatr. 1987;111(3):324-328. doi:10.1016/S0022-3476(87)80448-13625400",
+      "doi": "10.1016/S0022-3476(87)80448-1",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 4,
+      "ref_text": "Proulx F, Fayon M, Farrell CA, Lacroix J, Gauthier M. Epidemiology of sepsis and multiple organ dysfunction syndrome in children. Chest. 1996;109(4):1033-1037. doi:10.1378/chest.109.4.1033 8635327",
+      "doi": "10.1378/chest.109.4.1033",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 5,
+      "ref_text": "Leteurtre S, Duhamel A, Grandbastien B, . Daily estimation of the severity of multiple organ dysfunction syndrome in critically ill children. CMAJ. 2010;182(11):1181-1187. doi:10.1503/cmaj.081715 20547715 PMC2917930",
+      "doi": "10.1503/cmaj.081715",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 6,
+      "ref_text": "Odetola FO, Gebremariam A, Freed GL. Patient and hospital correlates of clinical outcomes and resource utilization in severe pediatric sepsis. Pediatrics. 2007;119(3):487-494. doi:10.1542/peds.2006-2353 17332201",
+      "doi": "10.1542/peds.2006-2353",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 7,
+      "ref_text": "Typpo KV, Petersen NJ, Hallman DM, Markovitz BP, Mariscalco MM. Day 1 multiple organ dysfunction syndrome is associated with poor functional outcome and mortality in the pediatric intensive care unit. Pediatr Crit Care Med. 2009;10(5):562-570. doi:10.1097/PCC.0b013e3181a64be1 19741445 PMC2780005",
+      "doi": "10.1097/PCC.0b013e3181a64be1",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 8,
+      "ref_text": "Leclerc F, Leteurtre S, Duhamel A, . Cumulative influence of organ dysfunctions and septic state on mortality of critically ill children. Am J Respir Crit Care Med. 2005;171(4):348-353. doi:10.1164/rccm.200405-630OC 15516535",
+      "doi": "10.1164/rccm.200405-630OC",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 9,
+      "ref_text": "Leteurtre S, Duhamel A, Salleron J, Grandbastien B, Lacroix J, Leclerc F; Groupe Francophone de Réanimation et d’Urgences Pédiatriques (GFRUP). PELOD-2: an update of the Pediatric Logistic Organ Dysfunction score. Crit Care Med. 2013;41(7):1761-1773. doi:10.1097/CCM.0b013e31828a2bbd 23685639",
+      "doi": "10.1097/CCM.0b013e31828a2bbd",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 10,
+      "ref_text": "Graciano AL, Balko JA, Rahn DS, Ahmad N, Giroir BP. The Pediatric Multiple Organ Dysfunction Score (P-MODS): development and validation of an objective scale to measure the severity of multiple organ dysfunction in critically ill children. Crit Care Med. 2005;33(7):1484-1491. doi:10.1097/01.CCM.0000170943.23633.47 16003052",
+      "doi": "10.1097/01.CCM.0000170943.23633.47",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 11,
+      "ref_text": "Goh A, Lum L. Sepsis, severe sepsis and septic shock in paediatric multiple organ dysfunction syndrome. J Paediatr Child Health. 1999;35(5):488-492. doi:10.1046/j.1440-1754.1999.355409.x 10571765",
+      "doi": "10.1046/j.1440-1754.1999.355409.x",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 12,
+      "ref_text": "Kutko MC, Calarco MP, Flaherty MB, . Mortality rates in pediatric septic shock with and without multiple organ system failure. Pediatr Crit Care Med. 2003;4(3):333-337. doi:10.1097/01.PCC.0000074266.10576.9B 12831416",
+      "doi": "10.1097/01.PCC.0000074266.10576.9B",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 13,
+      "ref_text": "Weiss SL, Fitzgerald JC, Pappachan J, ; Sepsis Prevalence, Outcomes, and Therapies (SPROUT) Study Investigators and Pediatric Acute Lung Injury and Sepsis Investigators (PALISI) Network. Global epidemiology of pediatric severe sepsis: the sepsis prevalence, outcomes, and therapies study. Am J Respir Crit Care Med. 2015;191(10):1147-1157. doi:10.1164/rccm.201412-2323OC 25734408 PMC4451622",
+      "doi": "10.1164/rccm.201412-2323OC",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 14,
+      "ref_text": "Andruszkow H, Fischer J, Sasse M, . Interleukin-6 as inflammatory marker referring to multiple organ dysfunction syndrome in severely injured children. Scand J Trauma Resusc Emerg Med. 2014;22:16. doi:10.1186/1757-7241-22-16 24589345 PMC3942614",
+      "doi": "10.1186/1757-7241-22-16",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 15,
+      "ref_text": "Calkins CM, Bensard DD, Moore EE, . The injured child is resistant to multiple organ failure: a different inflammatory response? J Trauma. 2002;53(6):1058-1063. doi:10.1097/00005373-200212000-00005 12478028",
+      "doi": "10.1097/00005373-200212000-00005",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 16,
+      "ref_text": "Jeschke MG, Pinto R, Kraft R, ; Inflammation and the Host Response to Injury Collaborative Research Program. Morbidity and survival probability in burn patients in modern burn care. Crit Care Med. 2015;43(4):808-815. doi:10.1097/CCM.0000000000000790 25559438 PMC4359665",
+      "doi": "10.1097/CCM.0000000000000790",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 17,
+      "ref_text": "Kraft R, Herndon DN, Finnerty CC, Shahrokhi S, Jeschke MG. Occurrence of multiorgan dysfunction in pediatric burn patients: incidence and clinical outcome. Ann Surg. 2014;259(2):381-387. doi:10.1097/SLA.0b013e31828c4d04 23511841 PMC3731402",
+      "doi": "10.1097/SLA.0b013e31828c4d04",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 18,
+      "ref_text": "Seghaye MC, Engelhardt W, Grabitz RG, . Multiple system organ failure after open heart surgery in infants and children. Thorac Cardiovasc Surg. 1993;41(1):49-53. doi:10.1055/s-2007-1013820 8367856",
+      "doi": "10.1055/s-2007-1013820",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 19,
+      "ref_text": "Feickert HJ, Schepers AK, Rodeck B, Geerlings H, Hoyer PF. Incidence, impact on survival, and risk factors for multi-organ system failure in children following liver transplantation. Pediatr Transplant. 2001;5(4):266-273. doi:10.1034/j.1399-3046.2001.005004266.x 11472605",
+      "doi": "10.1034/j.1399-3046.2001.005004266.x",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 20,
+      "ref_text": "Jacobe SJ, Hassan A, Veys P, Mok Q. Outcome of children requiring admission to an intensive care unit after bone marrow transplantation. Crit Care Med. 2003;31(5):1299-1305. doi:10.1097/01.CCM.0000060011.88230.C8 12771594",
+      "doi": "10.1097/01.CCM.0000060011.88230.C8",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 21,
+      "ref_text": "Lamas A, Otheo E, Ros P, . Prognosis of child recipients of hematopoietic stem cell transplantation requiring intensive care. Intensive Care Med. 2003;29(1):91-96. doi:10.1007/s00134-002-1549-2 12528028",
+      "doi": "10.1007/s00134-002-1549-2",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 22,
+      "ref_text": "Butt W, Shann F, Tibballs J, . Long-term outcome of children after intensive care. Crit Care Med. 1990;18(9):961-965. doi:10.1097/00003246-199009000-00011 2144226",
+      "doi": "10.1097/00003246-199009000-00011",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 23,
+      "ref_text": "Pollack MM, Holubkov R, Funai T, ; Eunice Kennedy Shriver National Institute of Child Health and Human Development Collaborative Pediatric Critical Care Research Network. The pediatric risk of mortality score: update 2015. Pediatr Crit Care Med. 2016;17(1):2-9. doi:10.1097/PCC.0000000000000558 26492059 PMC5048467",
+      "doi": "10.1097/PCC.0000000000000558",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 24,
+      "ref_text": "Leteurtre S, Martinot A, Duhamel A, . Validation of the Paediatric Logistic Organ Dysfunction (PELOD) score: prospective, observational, multicentre study. Lancet. 2003;362(9379):192-197. doi:10.1016/S0140-6736(03)13908-6 12885479",
+      "doi": "10.1016/S0140-6736(03)13908-6",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Multiple organ dysfunction (MOD) syndrome, the concurrent dysfunction of 2 or more organ systems,[1],[2] is a major cause of in-hospital child death and a harbinger of morbidity among children who survive critical illness and injury.[2],[3],[4],[5],[6],[7],[8],[9],[10] The syndrome can result from severe critical illness, such as sepsis[3],[4],[8],[11],[12],[13]; trauma[14],[15],[16],[17]; surgery[18]; and from therapies, including solid organ transplant[19] and hematopoietic stem cell transplant.[20],[21] Although medical advances have contributed to a substantial decline in child mortality from critical illness and injury from 20% in 1982[22] to 1% to 5% in 2012,[23] several studies have reported very low mortality in children without MOD,[2],[24],[25] emphasizing the impact of MOD on child health outcomes.",
+      "citation_number": 25,
+      "ref_text": "Tantaleán JA, León RJ, Santos AA, Sánchez E. Multiple organ dysfunction syndrome in children. Pediatr Crit Care Med. 2003;4(2):181-185. doi:10.1097/01.PCC.0000059421.13161.88 12749649",
+      "doi": "10.1097/01.PCC.0000059421.13161.88",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While prior reports have documented substantial in-hospital child mortality attributable to MOD,[2],[10],[22],[24],[25] there is a paucity of information regarding the long-term health care resource use and costs among survivors of MOD.",
+      "citation_number": 2,
+      "ref_text": "Wilkinson JD, Pollack MM, Ruttimann UE, Glass NL, Yeh TS. Outcome of pediatric patients with multiple organ system failure. Crit Care Med. 1986;14(4):271-274. doi:10.1097/00003246-198604000-00002 3956214",
+      "doi": "10.1097/00003246-198604000-00002",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While prior reports have documented substantial in-hospital child mortality attributable to MOD,[2],[10],[22],[24],[25] there is a paucity of information regarding the long-term health care resource use and costs among survivors of MOD.",
+      "citation_number": 10,
+      "ref_text": "Graciano AL, Balko JA, Rahn DS, Ahmad N, Giroir BP. The Pediatric Multiple Organ Dysfunction Score (P-MODS): development and validation of an objective scale to measure the severity of multiple organ dysfunction in critically ill children. Crit Care Med. 2005;33(7):1484-1491. doi:10.1097/01.CCM.0000170943.23633.47 16003052",
+      "doi": "10.1097/01.CCM.0000170943.23633.47",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While prior reports have documented substantial in-hospital child mortality attributable to MOD,[2],[10],[22],[24],[25] there is a paucity of information regarding the long-term health care resource use and costs among survivors of MOD.",
+      "citation_number": 22,
+      "ref_text": "Butt W, Shann F, Tibballs J, . Long-term outcome of children after intensive care. Crit Care Med. 1990;18(9):961-965. doi:10.1097/00003246-199009000-00011 2144226",
+      "doi": "10.1097/00003246-199009000-00011",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While prior reports have documented substantial in-hospital child mortality attributable to MOD,[2],[10],[22],[24],[25] there is a paucity of information regarding the long-term health care resource use and costs among survivors of MOD.",
+      "citation_number": 24,
+      "ref_text": "Leteurtre S, Martinot A, Duhamel A, . Validation of the Paediatric Logistic Organ Dysfunction (PELOD) score: prospective, observational, multicentre study. Lancet. 2003;362(9379):192-197. doi:10.1016/S0140-6736(03)13908-6 12885479",
+      "doi": "10.1016/S0140-6736(03)13908-6",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While prior reports have documented substantial in-hospital child mortality attributable to MOD,[2],[10],[22],[24],[25] there is a paucity of information regarding the long-term health care resource use and costs among survivors of MOD.",
+      "citation_number": 25,
+      "ref_text": "Tantaleán JA, León RJ, Santos AA, Sánchez E. Multiple organ dysfunction syndrome in children. Pediatr Crit Care Med. 2003;4(2):181-185. doi:10.1097/01.PCC.0000059421.13161.88 12749649",
+      "doi": "10.1097/01.PCC.0000059421.13161.88",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This area of inquiry is important because the life span and quality of life of MOD survivors could be severely compromised by premature mortality or persistent disease burden and morbidity, respectively, long after the initial hospitalization for critical illness.[26] An enhanced understanding of this persistent burden, hitherto understudied, may provide valuable insights to clinicians and raise awareness of the need to not only prevent mortality but also mitigate long-term morbidity and economic burden.",
+      "citation_number": 26,
+      "ref_text": "Czaja AS, Zimmerman JJ, Nathens AB. Readmission and late mortality after pediatric severe sepsis. Pediatrics. 2009;123(3):849-857. doi:10.1542/peds.2008-0856 19255013",
+      "doi": "10.1542/peds.2008-0856",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The database has been previously used for other longitudinal studies.[27],[28] As data are deidentified, the University of Michigan Institutional Review Board deemed the study exempt from review and the need for informed consent.",
+      "citation_number": 27,
+      "ref_text": "Bansal S, Balakrishnan SA, Blachley T, Weizer JS, Lee PP, Stein JD. Subsequent receipt of interventions for glaucoma among a nationwide sample of patients who underwent laser peripheral iridotomy. Am J Ophthalmol. 2015;160(2):275-282.e4. doi:10.1016/j.ajo.2015.04.031 25935096 PMC4756425",
+      "doi": "10.1016/j.ajo.2015.04.031",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The database has been previously used for other longitudinal studies.[27],[28] As data are deidentified, the University of Michigan Institutional Review Board deemed the study exempt from review and the need for informed consent.",
+      "citation_number": 28,
+      "ref_text": "Newman-Casey PA, Blachley T, Lee PP, Heisler M, Farris KB, Stein JD. Patterns of glaucoma medication adherence over four years of follow-up. Ophthalmology. 2015;122(10):2010-2021. doi:10.1016/j.ophtha.2015.06.039 26319441 PMC4581955",
+      "doi": "10.1016/j.ophtha.2015.06.039",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Given reported differences in predisposition to MOD and overall subsequent survival by age,[7],[29] all analyses were conducted separately for infants (aged <1 year) and children (aged 1-18 years).",
+      "citation_number": 7,
+      "ref_text": "Typpo KV, Petersen NJ, Hallman DM, Markovitz BP, Mariscalco MM. Day 1 multiple organ dysfunction syndrome is associated with poor functional outcome and mortality in the pediatric intensive care unit. Pediatr Crit Care Med. 2009;10(5):562-570. doi:10.1097/PCC.0b013e3181a64be1 19741445 PMC2780005",
+      "doi": "10.1097/PCC.0b013e3181a64be1",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Given reported differences in predisposition to MOD and overall subsequent survival by age,[7],[29] all analyses were conducted separately for infants (aged <1 year) and children (aged 1-18 years).",
+      "citation_number": 29,
+      "ref_text": "Bestati N, Leteurtre S, Duhamel A, . Differences in organ dysfunctions between neonates and older children: a prospective, observational, multicenter study. Crit Care. 2010;14(6):R202. doi:10.1186/cc9323 21062434 PMC3219976",
+      "doi": "10.1186/cc9323",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "A cohort of patients with MOD (dysfunction of ≥2 organ systems) during the index hospitalization (MOD cohort) was identified using International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) and International Statistical Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) diagnosis and procedure codes, as previously described[6],[30],[31] (eAppendix 1 in Supplement 1).",
+      "citation_number": 6,
+      "ref_text": "Odetola FO, Gebremariam A, Freed GL. Patient and hospital correlates of clinical outcomes and resource utilization in severe pediatric sepsis. Pediatrics. 2007;119(3):487-494. doi:10.1542/peds.2006-2353 17332201",
+      "doi": "10.1542/peds.2006-2353",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "A cohort of patients with MOD (dysfunction of ≥2 organ systems) during the index hospitalization (MOD cohort) was identified using International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) and International Statistical Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) diagnosis and procedure codes, as previously described[6],[30],[31] (eAppendix 1 in Supplement 1).",
+      "citation_number": 30,
+      "ref_text": "Johnston JA, Yi MS, Britto MT, Mrus JM. Importance of organ dysfunction in determining hospital outcomes in children. J Pediatr. 2004;144(5):595-601. doi:10.1016/j.jpeds.2004.01.045 15126992",
+      "doi": "10.1016/j.jpeds.2004.01.045",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "A cohort of patients with MOD (dysfunction of ≥2 organ systems) during the index hospitalization (MOD cohort) was identified using International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) and International Statistical Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) diagnosis and procedure codes, as previously described[6],[30],[31] (eAppendix 1 in Supplement 1).",
+      "citation_number": 31,
+      "ref_text": "Weycker D, Akhras KS, Edelsberg J, Angus DC, Oster G. Long-term mortality and medical care charges in patients with severe sepsis. Crit Care Med. 2003;31(9):2316-2323. doi:10.1097/01.CCM.0000085178.80226.0B 14501962",
+      "doi": "10.1097/01.CCM.0000085178.80226.0B",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Comorbidities were identified in the year prior to the index hospitalization using ICD-9-CM or ICD-10-CM codes via previously validated algorithms[32],[33] (eAppendix 2 in Supplement 1).",
+      "citation_number": 32,
+      "ref_text": "Feudtner C, Christakis DA, Connell FA. Pediatric deaths attributable to complex chronic conditions: a population-based study of Washington State, 1980-1997. Pediatrics. 2000;106(1 pt 2):205-209. doi:10.1542/peds.106.S1.205 10888693",
+      "doi": "10.1542/peds.106.S1.205",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "Comorbidities were identified in the year prior to the index hospitalization using ICD-9-CM or ICD-10-CM codes via previously validated algorithms[32],[33] (eAppendix 2 in Supplement 1).",
+      "citation_number": 33,
+      "ref_text": "Feudtner C, Feinstein JA, Zhong W, Hall M, Dai D. Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation. BMC Pediatr. 2014;14:199. doi:10.1186/1471-2431-14-199 25102958 PMC4134331",
+      "doi": "10.1186/1471-2431-14-199",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "For the prehospitalization time point, patient characteristics and health care resource use captured within 1 year of the index hospitalization were used for balancing the cohorts on patient comorbidities[32],[33],[34],[35] and measures of prior inpatient and outpatient health care use and costs, which included standardized prior health care costs, number of office visits, number of laboratory tests ordered and number and mean duration of prior hospitalizations.",
+      "citation_number": 32,
+      "ref_text": "Feudtner C, Christakis DA, Connell FA. Pediatric deaths attributable to complex chronic conditions: a population-based study of Washington State, 1980-1997. Pediatrics. 2000;106(1 pt 2):205-209. doi:10.1542/peds.106.S1.205 10888693",
+      "doi": "10.1542/peds.106.S1.205",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "For the prehospitalization time point, patient characteristics and health care resource use captured within 1 year of the index hospitalization were used for balancing the cohorts on patient comorbidities[32],[33],[34],[35] and measures of prior inpatient and outpatient health care use and costs, which included standardized prior health care costs, number of office visits, number of laboratory tests ordered and number and mean duration of prior hospitalizations.",
+      "citation_number": 33,
+      "ref_text": "Feudtner C, Feinstein JA, Zhong W, Hall M, Dai D. Pediatric complex chronic conditions classification system version 2: updated for ICD-10 and complex medical technology dependence and transplantation. BMC Pediatr. 2014;14:199. doi:10.1186/1471-2431-14-199 25102958 PMC4134331",
+      "doi": "10.1186/1471-2431-14-199",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "For the prehospitalization time point, patient characteristics and health care resource use captured within 1 year of the index hospitalization were used for balancing the cohorts on patient comorbidities[32],[33],[34],[35] and measures of prior inpatient and outpatient health care use and costs, which included standardized prior health care costs, number of office visits, number of laboratory tests ordered and number and mean duration of prior hospitalizations.",
+      "citation_number": 34,
+      "ref_text": "Odetola FO, Gebremariam A, Davis MM. Comorbid illnesses among critically ill hospitalized children: impact on hospital resource use and mortality, 1997-2006. Pediatr Crit Care Med. 2010;11(4):457-463. doi:10.1097/PCC.0b013e3181c514fa20595822",
+      "doi": "10.1097/PCC.0b013e3181c514fa",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "For the prehospitalization time point, patient characteristics and health care resource use captured within 1 year of the index hospitalization were used for balancing the cohorts on patient comorbidities[32],[33],[34],[35] and measures of prior inpatient and outpatient health care use and costs, which included standardized prior health care costs, number of office visits, number of laboratory tests ordered and number and mean duration of prior hospitalizations.",
+      "citation_number": 35,
+      "ref_text": "Typpo KV, Petersen NJ, Petersen LA, Mariscalco MM. Children with chronic illness return to their baseline functional status after organ dysfunction on the first day of admission in the pediatric intensive care unit. J Pediatr. 2010;157(1):108-113.e1. doi:10.1016/j.jpeds.2009.12.029 20223474 PMC4406357",
+      "doi": "10.1016/j.jpeds.2009.12.029",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "To ensure comparability between the MOD and non-MOD cohorts and permit unbiased assessment of the study outcomes, inverse probability of treatment (IPT) weighting, a propensity score method,[36],[37] was used to adjust for systematic differences in baseline demographics and prehospitalization characteristics for up to 365 days prior to the index hospitalization between the cohorts.",
+      "citation_number": 36,
+      "ref_text": "Lunceford JK, Davidian M. Stratification and weighting via the propensity score in estimation of causal treatment effects: a comparative study. Stat Med. 2004;23(19):2937-2960. doi:10.1002/sim.1903 15351954",
+      "doi": "10.1002/sim.1903",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "To ensure comparability between the MOD and non-MOD cohorts and permit unbiased assessment of the study outcomes, inverse probability of treatment (IPT) weighting, a propensity score method,[36],[37] was used to adjust for systematic differences in baseline demographics and prehospitalization characteristics for up to 365 days prior to the index hospitalization between the cohorts.",
+      "citation_number": 37,
+      "ref_text": "Linden A, Adams JL. Using propensity score-based weighting in the evaluation of health management programme effectiveness. J Eval Clin Pract. 2010;16(1):175-179. doi:10.1111/j.1365-2753.2009.01219.x 20367829",
+      "doi": "10.1111/j.1365-2753.2009.01219.x",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The propensity score was estimated as the probability of being assigned to the MOD cohort, conditional on baseline demographic characteristics and resource use in the year prior to the index hospitalization.[38],[39] For each child, the cohort assignment (MOD or non-MOD) was regressed on observed covariates in a logistic regression model.",
+      "citation_number": 38,
+      "ref_text": "Becker SO, Ichino A. Estimation of average treatment effects based on propensity scores. Stata J. 2002;2(4):358-377. doi:10.1177/1536867X0200200403",
+      "doi": "10.1177/1536867X0200200403",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "The propensity score was estimated as the probability of being assigned to the MOD cohort, conditional on baseline demographic characteristics and resource use in the year prior to the index hospitalization.[38],[39] For each child, the cohort assignment (MOD or non-MOD) was regressed on observed covariates in a logistic regression model.",
+      "citation_number": 39,
+      "ref_text": "Rubin DB. Estimating causal effects from large data sets using propensity scores. Ann Intern Med. 1997;127(8 Pt 2):757-763. doi:10.7326/0003-4819-127-8_Part_2-199710151-00064 9382394",
+      "doi": "10.7326/0003-4819-127-8_Part_2-199710151-00064",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Standardized mean differences were used to evaluate differences in baseline characteristics between the cohorts (both unweighted and IPT weighted), with a value less than 0.1 considered a small difference between cohorts.[40],[41] Bivariate comparisons of outcomes between cohorts were performed using weighted t test and Kruskal-Wallis test for continuous data with normal and nonparametric distribution, respectively.",
+      "citation_number": 40,
+      "ref_text": "Mamdani M, Sykora K, Li P, . Reader’s guide to critical appraisal of cohort studies: 2. assessing potential for confounding. BMJ. 2005;330(7497):960-962. doi:10.1136/bmj.330.7497.960 15845982 PMC556348",
+      "doi": "10.1136/bmj.330.7497.960",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Standardized mean differences were used to evaluate differences in baseline characteristics between the cohorts (both unweighted and IPT weighted), with a value less than 0.1 considered a small difference between cohorts.[40],[41] Bivariate comparisons of outcomes between cohorts were performed using weighted t test and Kruskal-Wallis test for continuous data with normal and nonparametric distribution, respectively.",
+      "citation_number": 41,
+      "ref_text": "Rodriguez PJ, Goodwin Cartwright BM, Gratzl S, . Semaglutide vs tirzepatide for weight loss in adults with overweight or obesity. JAMA Intern Med. 2024;184(9):1056-1064. doi:10.1001/jamainternmed.2024.2525 38976257 PMC11231910",
+      "doi": "10.1001/jamainternmed.2024.2525",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Weighted generalized estimating equations with γ-distribution were used to account for time trends in total costs between the 2 study cohorts and for clustering at the patient level.[42] Using similar modeling approaches, the study cohorts were compared on their total standardized annual costs monthly for the first year and then annually for up to 5 years.",
+      "citation_number": 42,
+      "ref_text": "Zeger SL, Liang KY, Albert PS. Models for longitudinal data: a generalized estimating equation approach. Biometrics. 1988;44(4):1049-1060. doi:10.2307/2531734 3233245",
+      "doi": "10.2307/2531734",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "There was no statistical adjustment for multiple comparisons given the exploratory nature of the study.[43],[44] Two-sided hypothesis testing was performed, with the threshold for statistical significance set at P < .05.",
+      "citation_number": 43,
+      "ref_text": "Rothman KJ. No adjustments are needed for multiple comparisons. Epidemiology. 1990;1(1):43-46. doi:10.1097/00001648-199001000-00010 2081237",
+      "doi": "10.1097/00001648-199001000-00010",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "There was no statistical adjustment for multiple comparisons given the exploratory nature of the study.[43],[44] Two-sided hypothesis testing was performed, with the threshold for statistical significance set at P < .05.",
+      "citation_number": 44,
+      "ref_text": "Althouse AD. Adjust for multiple comparisons? it’s not that simple. Ann Thorac Surg. 2016;101(5):1644-1645. doi:10.1016/j.athoracsur.2015.11.024 27106412",
+      "doi": "10.1016/j.athoracsur.2015.11.024",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "These findings are an important addition to the growing literature on outcomes after critical pediatric illness and injury, extending the previously reported disparities of higher in-hospital resource burden among patients with MOD compared with those without MOD[30] to life after hospitalization.",
+      "citation_number": 30,
+      "ref_text": "Johnston JA, Yi MS, Britto MT, Mrus JM. Importance of organ dysfunction in determining hospital outcomes in children. J Pediatr. 2004;144(5):595-601. doi:10.1016/j.jpeds.2004.01.045 15126992",
+      "doi": "10.1016/j.jpeds.2004.01.045",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This trajectory of high health care resource use and economic burden among survivors of pediatric MOD and their families is a novel finding that suggests adding economic and health care resource use burden to the domains of physical, cognitive, emotional, and social health previously recommended for assessment of survivors of critical illness.[45],[46] With declines in child mortality from critical illness and injury over time,[23] such longer-term assessments are increasingly important and have been advocated.[46] The evaluation of health care resource use burden separately among infant and child survivors of MOD also revealed noteworthy within- and between-group similarities and differences.",
+      "citation_number": 23,
+      "ref_text": "Pollack MM, Holubkov R, Funai T, ; Eunice Kennedy Shriver National Institute of Child Health and Human Development Collaborative Pediatric Critical Care Research Network. The pediatric risk of mortality score: update 2015. Pediatr Crit Care Med. 2016;17(1):2-9. doi:10.1097/PCC.0000000000000558 26492059 PMC5048467",
+      "doi": "10.1097/PCC.0000000000000558",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This trajectory of high health care resource use and economic burden among survivors of pediatric MOD and their families is a novel finding that suggests adding economic and health care resource use burden to the domains of physical, cognitive, emotional, and social health previously recommended for assessment of survivors of critical illness.[45],[46] With declines in child mortality from critical illness and injury over time,[23] such longer-term assessments are increasingly important and have been advocated.[46] The evaluation of health care resource use burden separately among infant and child survivors of MOD also revealed noteworthy within- and between-group similarities and differences.",
+      "citation_number": 45,
+      "ref_text": "Perry-Eaddy MA, Dervan LA, Manning JC, Watson RS, Curley MAQ. Pediatric critical care outcomes: state of the science. Crit Care Clin. 2023;39(2):309-326. doi:10.1016/j.ccc.2022.09.007 36898776",
+      "doi": "10.1016/j.ccc.2022.09.007",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This trajectory of high health care resource use and economic burden among survivors of pediatric MOD and their families is a novel finding that suggests adding economic and health care resource use burden to the domains of physical, cognitive, emotional, and social health previously recommended for assessment of survivors of critical illness.[45],[46] With declines in child mortality from critical illness and injury over time,[23] such longer-term assessments are increasingly important and have been advocated.[46] The evaluation of health care resource use burden separately among infant and child survivors of MOD also revealed noteworthy within- and between-group similarities and differences.",
+      "citation_number": 46,
+      "ref_text": "Long DA, Fink EL. Transitions from short to long-term outcomes in pediatric critical care: considerations for clinical practice. Transl Pediatr. 2021;10(10):2858-2874. doi:10.21037/tp-21-61 34765507 PMC8578758",
+      "doi": "10.21037/tp-21-61",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This speculation is corroborated by recent reports that child survivors of critical illness are increasingly being discharged home with new medical devices and technology,[47] the care of which may not be fully mastered before discharge from the index hospitalization.",
+      "citation_number": 47,
+      "ref_text": "Yagiela LM, Barbaro RP, Quasney MW, . Outcomes and patterns of healthcare utilization after hospitalization for pediatric critical illness due to respiratory failure. Pediatr Crit Care Med. 2019;20(2):120-127. doi:10.1097/PCC.0000000000001797 30418338",
+      "doi": "10.1097/PCC.0000000000001797",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Supporting this assertion is a prior study that found a substantial occurrence of ED visits and rehospitalizations within 30 days of gastrostomy,[48] one of the organ-supportive technologies evaluated in our study.",
+      "citation_number": 48,
+      "ref_text": "Goldin AB, Heiss KF, Hall M, . Emergency department visits and readmissions among children after gastrostomy tube placement. J Pediatr. 2016;174:139-145.e2. doi:10.1016/j.jpeds.2016.03.032 27079966",
+      "doi": "10.1016/j.jpeds.2016.03.032",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "A prior study among children who survived hospitalization for sepsis, a leading cause of MOD, found an increase in outpatient health care visits compared with before the hospitalization,[49] which may indicate ongoing clinical needs potentially from residual morbidity.",
+      "citation_number": 49,
+      "ref_text": "Carlton EF, Kohne JG, Hensley MK, Prescott HC. Comparison of outpatient health care use before and after pediatric severe sepsis. JAMA Netw Open. 2020;3(9):e2015214. doi:10.1001/jamanetworkopen.2020.15214 32910194 PMC7489846",
+      "doi": "10.1001/jamanetworkopen.2020.15214",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to studies among adult survivors of critical illness,[50],[51] costs were substantially higher in the first year after the index hospitalization than thereafter, suggesting that efforts to mitigate the cost burden for survivors of MOD should be concentrated on the first year after the index hospitalization.",
+      "citation_number": 50,
+      "ref_text": "Lone NI, Seretny M, Wild SH, Rowan KM, Murray GD, Walsh TS. Surviving intensive care: a systematic review of healthcare resource use after hospital discharge. Crit Care Med. 2013;41(8):1832-1843. doi:10.1097/CCM.0b013e31828a409c 23782967",
+      "doi": "10.1097/CCM.0b013e31828a409c",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to studies among adult survivors of critical illness,[50],[51] costs were substantially higher in the first year after the index hospitalization than thereafter, suggesting that efforts to mitigate the cost burden for survivors of MOD should be concentrated on the first year after the index hospitalization.",
+      "citation_number": 51,
+      "ref_text": "Ranzani OT, Zampieri FG, Besen BA, Azevedo LC, Park M. One-year survival and resource use after critical illness: impact of organ failure and residual organ dysfunction in a cohort study in Brazil. Crit Care. 2015;19(1):269. doi:10.1186/s13054-015-0986-6 26108673 PMC4512155",
+      "doi": "10.1186/s13054-015-0986-6",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The absence of an ICU label within the data source precluded the determination of the settings where hospital care was delivered, an important limitation given the knowledge that MOD can arise from ICU treatment.[52] Severity of MOD during the index hospitalization could not be ascertained definitively, precluding the assessment of any dose-response association between the severity of MOD and postdischarge resource use, costs, and economic burden.",
+      "citation_number": 52,
+      "ref_text": "Marshall JC. Critical illness is an iatrogenic disorder. Crit Care Med. 2010;38(10 suppl):S582-S589. doi:10.1097/CCM.0b013e3181f2002a 21164401",
+      "doi": "10.1097/CCM.0b013e3181f2002a",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    }
+  ]
+}

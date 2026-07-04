@@ -1,0 +1,2399 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          27
+        ]
+      ],
+      "date-time": "2026-05-27T14:24:49Z",
+      "timestamp": 1779891889836,
+      "version": "3.53.1"
+    },
+    "reference-count": 45,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              16
+            ]
+          ],
+          "date-time": "2015-04-16T00:00:00Z",
+          "timestamp": 1429142400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "funder": [
+      {
+        "name": "CVS Caremark"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Health Services Research"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:sec><jats:title>Objective</jats:title><jats:p>Despite the proliferation of databases with increasingly rich patient data, prediction of medication adherence remains poor. We proposed and evaluated approaches for improved adherence prediction.</jats:p></jats:sec><jats:sec><jats:title>Data Sources</jats:title><jats:p>We identified Medicare beneficiaries who received prescription drug coverage through <jats:styled-content style=\"fixed-case\">CVS</jats:styled-content> Caremark and initiated a statin.</jats:p></jats:sec><jats:sec><jats:title>Study Design</jats:title><jats:p>A total of 643 variables were identified at baseline from prior claims and linked Census data. In addition, we identified three postbaseline predictors, indicators of adherence to statins during each of the first 3 months of follow‐up. We estimated 10 models predicting subsequent adherence, using logistic regression and boosted logistic regression, a nonparametric data‐mining technique. Models were also estimated within strata defined by the index days supply.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>In 77,703 statin initiators, prediction using baseline variables only was poor with maximum cross‐validated C‐statistics of 0.606 and 0.577 among patients with index supply ≤30 days and &gt;30 days, respectively. Using only indicators of initial statin adherence improved prediction accuracy substantially among patients with shorter initial dispensings (C = 0.827/0.518), and, when combined with investigator‐specified variables, prediction accuracy was further improved (C = 0.842/0.596).</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>Observed adherence immediately after initiation predicted future adherence for patients whose initial dispensings were relatively short.</jats:p></jats:sec>",
+    "DOI": "10.1111/1475-6773.12310",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          16
+        ]
+      ],
+      "date-time": "2015-04-16T10:05:08Z",
+      "timestamp": 1429178708000
+    },
+    "page": "220-239",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 54,
+    "title": [
+      "Observing versus Predicting: Initial Patterns of Filling Predict Long‐Term Adherence More Accurately Than High‐Dimensional Modeling Techniques"
+    ],
+    "prefix": "10.1111",
+    "volume": "51",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8941-4116",
+        "authenticated-orcid": false,
+        "given": "Jessica M.",
+        "family": "Franklin",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics Department of Medicine Brigham and Women's Hospital and Harvard Medical School Boston MA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "William H.",
+        "family": "Shrank",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CVS Caremark Woonsocket RI"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joyce",
+        "family": "Lii",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics Department of Medicine Brigham and Women's Hospital and Harvard Medical School Boston MA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexis K.",
+        "family": "Krumme",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics Department of Medicine Brigham and Women's Hospital and Harvard Medical School Boston MA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Olga S.",
+        "family": "Matlin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CVS Caremark Woonsocket RI"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Troyen A.",
+        "family": "Brennan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CVS Caremark Woonsocket RI"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Niteesh K.",
+        "family": "Choudhry",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics Department of Medicine Brigham and Women's Hospital and Harvard Medical School Boston MA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_6_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/biomet/54.3-4.357"
+      },
+      {
+        "key": "e_1_2_6_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.288.4.455"
+      },
+      {
+        "key": "e_1_2_6_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1010933404324"
+      },
+      {
+        "key": "e_1_2_6_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwm070"
+      },
+      {
+        "issue": "1",
+        "key": "e_1_2_6_6_1",
+        "first-page": "31",
+        "article-title": "Persistence with Treatment for Hypertension in Actual Practice",
+        "volume": "160",
+        "author": "Caro J. J.",
+        "year": "1999",
+        "journal-title": "Canadian Medical Association Journal"
+      },
+      {
+        "key": "e_1_2_6_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-011-1829-z"
+      },
+      {
+        "key": "e_1_2_6_8_1",
+        "unstructured": "Centers for Medicare and Medicaid Services.2013. “Medicare Health & Drug Plan Quality and Performance Ratings: 2013 Part C & Part D Technical Notes” [accessed on March 31 2015]. Available athttps://www.cms.gov/Medicare/Prescription-Drug-Coverage/PrescriptionDrugCovGenIn/Downloads/2013-Part-C-and-D-Preview-2-Technical-Notes-v090612-.pdf"
+      },
+      {
+        "key": "e_1_2_6_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MLR.0b013e3181c132ad"
+      },
+      {
+        "key": "e_1_2_6_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinternmed.2010.495"
+      },
+      {
+        "key": "e_1_2_6_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ahj.2013.09.014"
+      },
+      {
+        "key": "e_1_2_6_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pds.1671"
+      },
+      {
+        "key": "e_1_2_6_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF00994018"
+      },
+      {
+        "key": "e_1_2_6_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MLR.0b013e31818afa1c"
+      },
+      {
+        "key": "e_1_2_6_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1331/JAPhA.2012.10211"
+      },
+      {
+        "key": "e_1_2_6_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/adc.2009.175125"
+      },
+      {
+        "key": "e_1_2_6_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2685844"
+      },
+      {
+        "key": "e_1_2_6_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MLR.0b013e3182984c1f"
+      },
+      {
+        "key": "e_1_2_6_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1214/aos/1013203451"
+      },
+      {
+        "key": "e_1_2_6_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjopharm.2011.02.004"
+      },
+      {
+        "key": "e_1_2_6_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4"
+      },
+      {
+        "key": "e_1_2_6_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-0-387-84858-7"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_6_23_1",
+        "first-page": "CD000011",
+        "article-title": "Interventions for Enhancing Medication Adherence",
+        "volume": "2",
+        "author": "Haynes R. B.",
+        "year": "2008",
+        "journal-title": "Cochrane Database of Systematic Review"
+      },
+      {
+        "key": "e_1_2_6_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/bioinformatics/btl462"
+      },
+      {
+        "key": "e_1_2_6_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MLR.0b013e31817924d2"
+      },
+      {
+        "key": "e_1_2_6_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1524-4733.2009.00543.x"
+      },
+      {
+        "issue": "2",
+        "key": "e_1_2_6_27_1",
+        "first-page": "65",
+        "article-title": "Data Mining Applications in Healthcare",
+        "volume": "19",
+        "author": "Koh H. C.",
+        "year": "2011",
+        "journal-title": "Journal of Healthcare Information Management"
+      },
+      {
+        "key": "e_1_2_6_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjcard.2011.01.013"
+      },
+      {
+        "key": "e_1_2_6_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1345/aph.1P150"
+      },
+      {
+        "key": "e_1_2_6_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2147/PPA.S34711"
+      },
+      {
+        "key": "e_1_2_6_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2146/ajhp090656"
+      },
+      {
+        "key": "e_1_2_6_32_1",
+        "unstructured": "National Committee for Quality Assurance.2014. “2014 HEDIS Measures” [accessed on March 31 2015]. Available athttp://www.ncqa.org/Portals/0/HEDISQM/HEDIS2014/List%20of%20HEDIS%202014%20Measures.pdf"
+      },
+      {
+        "key": "e_1_2_6_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinternmed.2011.1307"
+      },
+      {
+        "key": "e_1_2_6_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMra050100"
+      },
+      {
+        "key": "e_1_2_6_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.2929"
+      },
+      {
+        "key": "e_1_2_6_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001075"
+      },
+      {
+        "key": "e_1_2_6_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwr001"
+      },
+      {
+        "key": "e_1_2_6_38_1",
+        "unstructured": "Ridgeway G.2007. “Generalized Boosted Models: A Guide to the GBM Package” [accessed on March 31 2015]. Available athttp://cran.r-project.org/"
+      },
+      {
+        "key": "e_1_2_6_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1475-6773.2007.00761.x"
+      },
+      {
+        "key": "e_1_2_6_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/EDE.0b013e3181a663cc"
+      },
+      {
+        "key": "e_1_2_6_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.165.20.2414"
+      },
+      {
+        "key": "e_1_2_6_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MLR.0b013e3181d51ddf"
+      },
+      {
+        "key": "e_1_2_6_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCOUTCOMES.108.841635"
+      },
+      {
+        "key": "e_1_2_6_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(01)00341-9"
+      },
+      {
+        "key": "e_1_2_6_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.2517-6161.1996.tb02080.x"
+      },
+      {
+        "key": "e_1_2_6_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1257/jep.28.2.3"
+      }
+    ],
+    "container-title": [
+      "Health Services Research"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2F1475-6773.12310",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/1475-6773.12310",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          3
+        ]
+      ],
+      "date-time": "2023-10-03T12:10:43Z",
+      "timestamp": 1696335043000
+    },
+    "score": 80.79359,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/1475-6773.12310"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          16
+        ]
+      ]
+    },
+    "references-count": 45,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/1475-6773.12310"
+    ],
+    "URL": "https://doi.org/10.1111/1475-6773.12310",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0017-9124",
+      "1475-6773"
+    ],
+    "issn-type": [
+      {
+        "value": "0017-9124",
+        "type": "print"
+      },
+      {
+        "value": "1475-6773",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          16
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2015-04-16",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          27
+        ]
+      ],
+      "date-time": "2026-06-27T12:42:54Z",
+      "timestamp": 1782564174925,
+      "version": "3.54.5"
+    },
+    "reference-count": 13,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "9",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1097/mlr.0b013e3182984c1f",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          17
+        ]
+      ],
+      "date-time": "2013-05-17T10:27:57Z",
+      "timestamp": 1368786477000
+    },
+    "page": "789-796",
+    "source": "Crossref",
+    "is-referenced-by-count": 230,
+    "title": [
+      "Group-based Trajectory Models"
+    ],
+    "prefix": "10.1097",
+    "volume": "51",
+    "author": [
+      {
+        "given": "Jessica M.",
+        "family": "Franklin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "William H.",
+        "family": "Shrank",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Juliana",
+        "family": "Pakes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gabriel",
+        "family": "Sanfélix-Gimeno",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Olga S.",
+        "family": "Matlin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Troyen A.",
+        "family": "Brennan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Niteesh K.",
+        "family": "Choudhry",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "R2-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1056/NEJMra050100",
+        "article-title": "Adherence to medication.",
+        "volume": "353",
+        "author": "Osterberg",
+        "year": "2005",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R7-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "3028",
+        "DOI": "10.1161/CIRCULATIONAHA.108.768986",
+        "article-title": "Medication adherence.",
+        "volume": "119",
+        "author": "Ho",
+        "year": "2009",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "R9-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1016/S0895-4356(96)00268-5",
+        "article-title": "The assessment of refill compliance using pharmacy records: methods, validity, and applications.",
+        "volume": "50",
+        "author": "Steiner",
+        "year": "1997",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "R11-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1037/1082-989X.4.2.139",
+        "article-title": "Analyzing developmental trajectories: a semiparametric, group-based approach.",
+        "volume": "4",
+        "author": "Nagin",
+        "year": "1999",
+        "journal-title": "Psychol Methods"
+      },
+      {
+        "key": "R14-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1093/geront/gnp006",
+        "article-title": "Structural relationships between social activities and longitudinal trajectories of depression among older adults.",
+        "volume": "49",
+        "author": "Hong",
+        "year": "2009",
+        "journal-title": "The Gerontologist"
+      },
+      {
+        "key": "R15-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "503",
+        "DOI": "10.1111/1469-7610.00744",
+        "article-title": "Developmental trajectories of physical aggression from school entry to late adolescence.",
+        "volume": "42",
+        "author": "Brame",
+        "year": "2001",
+        "journal-title": "J Child Psychol Psychiatry"
+      },
+      {
+        "key": "R21-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "430",
+        "DOI": "10.1161/CIRCHEARTFAILURE.111.965152",
+        "article-title": "Predictors of objectively measured medication nonadherence in adults with heart failure.",
+        "volume": "5",
+        "author": "Riegel",
+        "year": "2011",
+        "journal-title": "Circ Heart Fail"
+      },
+      {
+        "key": "R22-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "1078",
+        "DOI": "10.1016/j.jclinepi.2012.04.010",
+        "article-title": "Classifying developmental trajectories over time should be done with great caution: a comparison between methods.",
+        "volume": "65",
+        "author": "Twisk",
+        "year": "2012",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "R32-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "361",
+        "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4",
+        "article-title": "Tutorial in biostatistics multivariable prognostic models: issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors.",
+        "volume": "15",
+        "author": "Harrell",
+        "year": "1996",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R33-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1214/aos/1176344136",
+        "article-title": "Estimating the dimension of a model.",
+        "volume": "6",
+        "author": "Schwarz",
+        "year": "1978",
+        "journal-title": "Ann Stat"
+      },
+      {
+        "key": "R34-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "542",
+        "DOI": "10.1177/0049124106292364",
+        "article-title": "Advances in group-based trajectory modeling and an SAS procedure for estimating them.",
+        "volume": "35",
+        "author": "Jones",
+        "year": "2007",
+        "journal-title": "Sociol Methods Res"
+      },
+      {
+        "key": "R35-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "4087",
+        "DOI": "10.1002/sim.5514",
+        "article-title": "Predicting longitudinal trajectories of health probabilities with random-effects multinomial logit regression.",
+        "volume": "31",
+        "author": "Liu",
+        "year": "2012",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "R37-6-20210211",
+        "doi-asserted-by": "crossref",
+        "first-page": "100",
+        "DOI": "10.2307/2346830",
+        "article-title": "A k-means clustering algorithm.",
+        "volume": "28",
+        "author": "Hartigan",
+        "year": "1979",
+        "journal-title": "Appl Stat"
+      }
+    ],
+    "container-title": [
+      "Medical Care"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.1097/MLR.0b013e3182984c1f",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2021-05-14T03:19:26Z",
+      "timestamp": 1620962366000
+    },
+    "score": 74.09153,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/00005650-201309000-00006"
+      }
+    },
+    "subtitle": [
+      "A New Approach to Classifying and Predicting Long-Term Medication Adherence"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          9
+        ]
+      ]
+    },
+    "references-count": 13,
+    "journal-issue": {
+      "issue": "9",
+      "published-print": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1097/mlr.0b013e3182984c1f",
+    "ISSN": [
+      "0025-7079"
+    ],
+    "issn-type": [
+      {
+        "value": "0025-7079",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          5
+        ]
+      ],
+      "date-time": "2026-03-05T21:39:15Z",
+      "timestamp": 1772746755812,
+      "version": "3.50.1"
+    },
+    "reference-count": 27,
+    "publisher": "Academy of Managed Care Pharmacy",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "JMCP"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.18553/jmcp.2018.24.5.469",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2018-04-25T16:45:13Z",
+      "timestamp": 1524674713000
+    },
+    "page": "469-477",
+    "source": "Crossref",
+    "is-referenced-by-count": 28,
+    "title": [
+      "Predicting Adherence to Chronic Disease Medications in Patients with Long-term Initial Medication Fills Using Indicators of Clinical Events and Health Behaviors"
+    ],
+    "prefix": "10.18553",
+    "volume": "24",
+    "author": [
+      {
+        "given": "Julie C.",
+        "family": "Lauffenburger",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics and Center for Healthcare Delivery Sciences, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jessica M.",
+        "family": "Franklin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alexis A.",
+        "family": "Krumme",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics and Center for Healthcare Delivery Sciences, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "William H.",
+        "family": "Shrank",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Woonsocket Rhode Island."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Olga S.",
+        "family": "Matlin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Woonsocket Rhode Island."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Claire M.",
+        "family": "Spettell",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Data Science, Aetna, Hartford, Connecticut."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gregory",
+        "family": "Brill",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Niteesh K.",
+        "family": "Choudhry",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics and Center for Healthcare Delivery Sciences, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "7818",
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.108.768986"
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ahj.2014.12.014"
+      },
+      {
+        "key": "B3",
+        "first-page": "35",
+        "volume": "7",
+        "author": "Iuga AO",
+        "year": "2014",
+        "journal-title": "Risk Manag Healthc Policy"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.mlr.0000163641.86870.af"
+      },
+      {
+        "issue": "9",
+        "key": "B5",
+        "first-page": "e537",
+        "volume": "21",
+        "author": "Franklin JM",
+        "year": "2015",
+        "journal-title": "Am J Manag Care"
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1475-6773.12310"
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MLR.0b013e3182984c1f"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0079611"
+      },
+      {
+        "issue": "11",
+        "key": "B10",
+        "first-page": "e427",
+        "volume": "17",
+        "author": "Khandelwal N",
+        "year": "2011",
+        "journal-title": "Am J Manag Care"
+      },
+      {
+        "issue": "2",
+        "key": "B11",
+        "first-page": "95",
+        "volume": "4",
+        "author": "Liberman JN",
+        "year": "2011",
+        "journal-title": "Am Health Drug Benefits"
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5600/mmrr.002.03.A04"
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1345/aph.1K671"
+      },
+      {
+        "issue": "7",
+        "key": "B15",
+        "first-page": "457",
+        "volume": "15",
+        "author": "Choudhry NK",
+        "year": "2009",
+        "journal-title": "Am J Manag Care"
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.288.4.455"
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/HYPERTENSIONAHA.109.139816"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1331/JAPhA.2013.13082"
+      },
+      {
+        "issue": "1",
+        "key": "B23",
+        "doi-asserted-by": "crossref",
+        "first-page": "36",
+        "DOI": "10.1080/00031305.1983.10483087",
+        "volume": "37",
+        "author": "Efron B",
+        "year": "1983",
+        "journal-title": "Am Stat"
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4"
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kws208"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(01)00341-9"
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-008-0544-x"
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.112.096156"
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ahj.2013.09.014"
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-157-11-201212040-00538"
+      },
+      {
+        "key": "B31",
+        "first-page": "CD000011",
+        "volume": "11",
+        "author": "Nieuwlaat R",
+        "year": "2014",
+        "journal-title": "Cochrane Database Syst Rev"
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1345/aph.1L496"
+      },
+      {
+        "issue": "12",
+        "key": "B33",
+        "first-page": "929",
+        "volume": "16",
+        "author": "Cutrona SL",
+        "year": "2010",
+        "journal-title": "Am J Manag Care"
+      }
+    ],
+    "container-title": [
+      "Journal of Managed Care &amp; Specialty Pharmacy"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          6
+        ]
+      ],
+      "date-time": "2024-07-06T09:05:41Z",
+      "timestamp": 1720256741000
+    },
+    "score": 69.07869,
+    "resource": {
+      "primary": {
+        "URL": "https://www.jmcp.org/doi/10.18553/jmcp.2018.24.5.469"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.18553/jmcp.2018.24.5.469"
+    ],
+    "URL": "https://doi.org/10.18553/jmcp.2018.24.5.469",
+    "ISSN": [
+      "2376-0540",
+      "2376-1032"
+    ],
+    "issn-type": [
+      {
+        "value": "2376-0540",
+        "type": "print"
+      },
+      {
+        "value": "2376-1032",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          27
+        ]
+      ],
+      "date-time": "2026-06-27T09:59:26Z",
+      "timestamp": 1782554366904,
+      "version": "3.54.5"
+    },
+    "reference-count": 25,
+    "publisher": "Academy of Managed Care Pharmacy",
+    "issue": "4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "JMCP"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.18553/jmcp.2017.23.4.494",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          25
+        ]
+      ],
+      "date-time": "2017-03-25T14:01:54Z",
+      "timestamp": 1490450514000
+    },
+    "page": "494-502",
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "title": [
+      "Predicting 1-Year Statin Adherence Among Prevalent Users: A Retrospective Cohort Study"
+    ],
+    "prefix": "10.18553",
+    "volume": "23",
+    "author": [
+      {
+        "given": "Alexis A.",
+        "family": "Krumme",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jessica M.",
+        "family": "Franklin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Danielle L.",
+        "family": "Isaman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Olga S.",
+        "family": "Matlin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CVS Health, Woonsocket, Rhode Island."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Angela Y.",
+        "family": "Tong",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Claire M.",
+        "family": "Spettell",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Data Science, Aetna, Hartford, Connecticut."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Troyen A.",
+        "family": "Brennan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CVS Health, Woonsocket, Rhode Island."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "William H.",
+        "family": "Shrank",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CVS Health, Woonsocket, Rhode Island."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Niteesh K.",
+        "family": "Choudhry",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women’s Hospital and Harvard Medical School, Boston, Massachusetts."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "7818",
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.279.18.1458"
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.288.4.455"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pds.1671"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00005650-200209000-00009"
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1377/hlthaff.2009.1087"
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/adc.2009.175125"
+      },
+      {
+        "issue": "2",
+        "key": "B7",
+        "first-page": "CD000011",
+        "author": "Haynes RB",
+        "year": "2008",
+        "journal-title": "Cochrane Database Syst Rev."
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2146/ajhp090656"
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinternmed.2011.1307"
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.clinthera.2007.09.022"
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1475-6773.12310"
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwm070"
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwr001"
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/EDE.0b013e3181a663cc"
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ahj.2013.09.014"
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4088/JCP.v64n0204"
+      },
+      {
+        "issue": "1",
+        "key": "B20",
+        "doi-asserted-by": "crossref",
+        "first-page": "36",
+        "DOI": "10.1080/00031305.1983.10483087",
+        "volume": "37",
+        "author": "Efron B",
+        "year": "1983",
+        "journal-title": "Am Stat."
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(01)00341-9"
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1989.00390120085017"
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ahj.2005.01.035"
+      },
+      {
+        "issue": "17",
+        "key": "B25",
+        "first-page": "1566",
+        "volume": "170",
+        "author": "Look AHEAD Research Group",
+        "year": "2010",
+        "journal-title": "Arch Intern Med."
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1348/135910709X477476"
+      },
+      {
+        "issue": "9",
+        "key": "B27",
+        "first-page": "e537",
+        "volume": "21",
+        "author": "Franklin JM",
+        "year": "2015",
+        "journal-title": "Am J Manag Care."
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.106.672402"
+      }
+    ],
+    "container-title": [
+      "Journal of Managed Care &amp; Specialty Pharmacy"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          23
+        ]
+      ],
+      "date-time": "2024-06-23T07:10:01Z",
+      "timestamp": 1719126601000
+    },
+    "score": 63.707523,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jmcp.org/doi/10.18553/jmcp.2017.23.4.494"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    },
+    "references-count": 25,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.18553/jmcp.2017.23.4.494"
+    ],
+    "URL": "https://doi.org/10.18553/jmcp.2017.23.4.494",
+    "ISSN": [
+      "2376-0540",
+      "2376-1032"
+    ],
+    "issn-type": [
+      {
+        "value": "2376-0540",
+        "type": "print"
+      },
+      {
+        "value": "2376-1032",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          27
+        ]
+      ],
+      "date-time": "2026-05-27T14:26:14Z",
+      "timestamp": 1779891974071,
+      "version": "3.53.1"
+    },
+    "reference-count": 32,
+    "publisher": "Wiley",
+    "issue": "10",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              22
+            ]
+          ],
+          "date-time": "2015-04-22T00:00:00Z",
+          "timestamp": 1429660800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              22
+            ]
+          ],
+          "date-time": "2015-04-22T00:00:00Z",
+          "timestamp": 1429660800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "funder": [
+      {
+        "name": "CVS Caremark"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Pharmacoepidemiol Drug Saf"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1002/pds.3787",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          22
+        ]
+      ],
+      "date-time": "2015-04-22T13:07:30Z",
+      "timestamp": 1429708050000
+    },
+    "page": "1105-1113",
+    "source": "Crossref",
+    "is-referenced-by-count": 88,
+    "title": [
+      "Association between trajectories of statin adherence and subsequent cardiovascular events"
+    ],
+    "prefix": "10.1002",
+    "volume": "24",
+    "author": [
+      {
+        "given": "Jessica M.",
+        "family": "Franklin",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine; Brigham and Women's Hospital and Harvard Medical School; Boston MA USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexis A.",
+        "family": "Krumme",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine; Brigham and Women's Hospital and Harvard Medical School; Boston MA USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Angela Y.",
+        "family": "Tong",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine; Brigham and Women's Hospital and Harvard Medical School; Boston MA USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "William H.",
+        "family": "Shrank",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CVS Caremark; Woonsocket RI USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Olga S.",
+        "family": "Matlin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CVS Caremark; Woonsocket RI USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Troyen A.",
+        "family": "Brennan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "CVS Caremark; Woonsocket RI USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Niteesh K.",
+        "family": "Choudhry",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine; Brigham and Women's Hospital and Harvard Medical School; Boston MA USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          22
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "9",
+        "key": "10.1002/pds.3787-BIB0001|pds3787-cit-0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "794",
+        "DOI": "10.1097/00005650-200209000-00009",
+        "article-title": "Patient adherence and medical treatment outcomes: a meta-analysis",
+        "volume": "40",
+        "author": "DiMatteo",
+        "year": "2002",
+        "journal-title": "Med Care"
+      },
+      {
+        "issue": "1",
+        "key": "10.1002/pds.3787-BIB0002|pds3787-cit-0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1377/hlthaff.2009.1087",
+        "article-title": "Medication adherence leads to lower health care use and costs despite increased drug spending",
+        "volume": "30",
+        "author": "Roebuck",
+        "year": "2011",
+        "journal-title": "Health Aff (Millwood)"
+      },
+      {
+        "issue": "18",
+        "key": "10.1002/pds.3787-BIB0003|pds3787-cit-0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "1458",
+        "DOI": "10.1001/jama.279.18.1458",
+        "article-title": "Persistence of use of lipid-lowering medications: a cross-national study",
+        "volume": "279",
+        "author": "Avorn",
+        "year": "1998",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "4",
+        "key": "10.1002/pds.3787-BIB0004|pds3787-cit-0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "455",
+        "DOI": "10.1001/jama.288.4.455",
+        "article-title": "Long-term persistence in use of statin therapy in elderly patients",
+        "volume": "288",
+        "author": "Benner",
+        "year": "2002",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "12",
+        "key": "10.1002/pds.3787-BIB0005|pds3787-cit-0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1189",
+        "DOI": "10.1002/pds.1671",
+        "article-title": "Trends in adherence to secondary prevention medications in elderly post-myocardial infarction patients",
+        "volume": "17",
+        "author": "Choudhry",
+        "year": "2008",
+        "journal-title": "Pharmacoepidemiol Drug Saf"
+      },
+      {
+        "issue": "3",
+        "key": "10.1002/pds.3787-BIB0006|pds3787-cit-0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "381",
+        "DOI": "10.1331/JAPhA.2012.10211",
+        "article-title": "Targeting cardiovascular medication adherence interventions",
+        "volume": "52",
+        "author": "Cutrona",
+        "year": "2012",
+        "journal-title": "J Am Pharm Assoc (2003)"
+      },
+      {
+        "issue": "9",
+        "key": "10.1002/pds.3787-BIB0007|pds3787-cit-0007",
+        "doi-asserted-by": "crossref",
+        "first-page": "1411",
+        "DOI": "10.1016/j.clinthera.2006.09.021",
+        "article-title": "Toward a standard definition and measurement of persistence with drug therapy: examples from research on statin and antihypertensive utilization",
+        "volume": "28",
+        "author": "Caetano",
+        "year": "2006",
+        "journal-title": "Clin Ther"
+      },
+      {
+        "issue": "8",
+        "key": "10.1002/pds.3787-BIB0008|pds3787-cit-0008",
+        "doi-asserted-by": "crossref",
+        "first-page": "565",
+        "DOI": "10.1002/pds.1230",
+        "article-title": "Methods for evaluation of medication adherence and persistence using automated databases",
+        "volume": "15",
+        "author": "Andrade",
+        "year": "2006",
+        "journal-title": "Pharmacoepidemiol Drug Saf"
+      },
+      {
+        "issue": "7-8",
+        "key": "10.1002/pds.3787-BIB0009|pds3787-cit-0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "1280",
+        "DOI": "10.1345/aph.1H018",
+        "article-title": "Measurement of adherence in pharmacy administrative databases: a proposal for standard definitions and preferred measures",
+        "volume": "40",
+        "author": "Hess",
+        "year": "2006",
+        "journal-title": "Ann Pharmacother"
+      },
+      {
+        "issue": "11",
+        "key": "10.1002/pds.3787-BIB0010|pds3787-cit-0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "1125",
+        "DOI": "10.1097/MLR.0b013e31817924d2",
+        "article-title": "An empirical basis for standardizing adherence measures derived from administrative claims data among diabetic patients",
+        "volume": "46",
+        "author": "Karve",
+        "year": "2008",
+        "journal-title": "Med Care"
+      },
+      {
+        "issue": "6",
+        "key": "10.1002/pds.3787-BIB0011|pds3787-cit-0011",
+        "doi-asserted-by": "crossref",
+        "first-page": "989",
+        "DOI": "10.1111/j.1524-4733.2009.00543.x",
+        "article-title": "Prospective validation of eight different adherence measures for use with administrative claims data among patients with schizophrenia",
+        "volume": "12",
+        "author": "Karve",
+        "year": "2009",
+        "journal-title": "Value Health"
+      },
+      {
+        "issue": "1",
+        "key": "10.1002/pds.3787-BIB0012|pds3787-cit-0012",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1016/j.ahj.2013.09.014",
+        "article-title": "Untangling the relationship between medication adherence and post-myocardial infarction outcomes: medication adherence and clinical outcomes",
+        "volume": "167",
+        "author": "Choudhry",
+        "year": "2014",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "issue": "9",
+        "key": "10.1002/pds.3787-BIB0013|pds3787-cit-0013",
+        "doi-asserted-by": "crossref",
+        "first-page": "789",
+        "DOI": "10.1097/MLR.0b013e3182984c1f",
+        "article-title": "Group-based trajectory models: a new approach to classifying and predicting long-term medication adherence",
+        "volume": "51",
+        "author": "Franklin",
+        "year": "2013",
+        "journal-title": "Med Care"
+      },
+      {
+        "issue": "16",
+        "key": "10.1002/pds.3787-BIB0014|pds3787-cit-0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "1669",
+        "DOI": "10.1001/jama.2011.506",
+        "article-title": "Patterns of nonadherence to antiepileptic drug therapy in children with newly diagnosed epilepsy",
+        "volume": "305",
+        "author": "Modi",
+        "year": "2011",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1002/pds.3787-BIB0015|pds3787-cit-0015",
+        "unstructured": "Centers for Medicare and Medicaid Services Medicare Health & Drug Plan Quality and Performance Ratings: 2013 Part C & Part D . Technical Notes 2013 http://www.cms.gov/Medicare/Prescription-Drug-Coverage/PrescriptionDrugCovGenIn/Downloads/2013-Part-C-and-D-Preview-2-Technical-Notes-v090612-.pdf2013"
+      },
+      {
+        "key": "10.1002/pds.3787-BIB0016|pds3787-cit-0016",
+        "unstructured": "National Committee for Quality Assurance HEDIS measures 2014 http://www.ncqa.org/Portals/0/HEDISQM/HEDIS2014/ListofHEDIS2014Measures.pdf"
+      },
+      {
+        "issue": "4",
+        "key": "10.1002/pds.3787-BIB0017|pds3787-cit-0017",
+        "doi-asserted-by": "crossref",
+        "first-page": "542",
+        "DOI": "10.1177/0049124106292364",
+        "article-title": "Advances in group-based trajectory modeling and an SAS procedure for estimating them",
+        "volume": "35",
+        "author": "Jones",
+        "year": "2007",
+        "journal-title": "Socio Meth Res"
+      },
+      {
+        "issue": "2",
+        "key": "10.1002/pds.3787-BIB0018|pds3787-cit-0018",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1037/1082-989X.4.2.139",
+        "article-title": "Analyzing developmental trajectories: a semiparametric, group-based approach",
+        "volume": "4",
+        "author": "Nagin",
+        "year": "1999",
+        "journal-title": "Psychol Methods"
+      },
+      {
+        "issue": "2",
+        "key": "10.1002/pds.3787-BIB0019|pds3787-cit-0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1214/aos/1176344136",
+        "article-title": "Estimating the dimension of a model",
+        "volume": "6",
+        "author": "Schwarz",
+        "year": "1978",
+        "journal-title": "Ann Stat"
+      },
+      {
+        "issue": "10",
+        "key": "10.1002/pds.3787-BIB0020|pds3787-cit-0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "1078",
+        "DOI": "10.1016/j.jclinepi.2012.04.010",
+        "article-title": "Classifying developmental trajectories over time should be done with great caution: a comparison between methods",
+        "volume": "65",
+        "author": "Twisk",
+        "year": "2012",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1002/pds.3787-BIB0021|pds3787-cit-0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "361",
+        "DOI": "10.1002/(SICI)1097-0258(19960229)15:4<361::AID-SIM168>3.0.CO;2-4",
+        "article-title": "Tutorial in biostatistics multivariable prognostic models: issues in developing models, evaluating assumptions and adequacy, and measuring and reducing errors",
+        "volume": "15",
+        "author": "Harrell",
+        "year": "1996",
+        "journal-title": "Stat Med"
+      },
+      {
+        "issue": "1",
+        "key": "10.1002/pds.3787-BIB0022|pds3787-cit-0022",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1002/sim.4085",
+        "article-title": "Extensions of net reclassification improvement calculations to measure usefulness of new biomarkers",
+        "volume": "30",
+        "author": "Pencina",
+        "year": "2011",
+        "journal-title": "Stat Med"
+      },
+      {
+        "issue": "1",
+        "key": "10.1002/pds.3787-BIB0023|pds3787-cit-0023",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1097/EDE.0b013e3181c30fb2",
+        "article-title": "Assessing the performance of prediction models: a framework for some traditional and novel measures",
+        "volume": "21",
+        "author": "Steyerberg",
+        "year": "2010",
+        "journal-title": "Epidemiology (Cambridge, Mass)"
+      },
+      {
+        "issue": "6",
+        "key": "10.1002/pds.3787-BIB0024|pds3787-cit-0024",
+        "doi-asserted-by": "crossref",
+        "first-page": "488",
+        "DOI": "10.1093/aje/kws208",
+        "article-title": "Clinically relevant measures of fit? A note of caution",
+        "volume": "176",
+        "author": "Cook",
+        "year": "2012",
+        "journal-title": "Am J Epidemiol"
+      },
+      {
+        "issue": "13",
+        "key": "10.1002/pds.3787-BIB0025|pds3787-cit-0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "2109",
+        "DOI": "10.1002/sim.1802",
+        "article-title": "Overall C as a measure of discrimination in survival analysis: model specific population value and confidence interval estimation",
+        "volume": "23",
+        "author": "Pencina",
+        "year": "2004",
+        "journal-title": "Stat Med"
+      },
+      {
+        "issue": "14",
+        "key": "10.1002/pds.3787-BIB0026|pds3787-cit-0026",
+        "doi-asserted-by": "crossref",
+        "first-page": "1468",
+        "DOI": "10.2146/ajhp040419",
+        "article-title": "Association between short-term effectiveness of statins and long-term adherence to lipid-lowering therapy",
+        "volume": "62",
+        "author": "Benner",
+        "year": "2005",
+        "journal-title": "Am J Health Syst Pharm"
+      },
+      {
+        "issue": "9",
+        "key": "10.1002/pds.3787-BIB0027|pds3787-cit-0027",
+        "doi-asserted-by": "crossref",
+        "first-page": "2303",
+        "DOI": "10.1185/03007990903126833",
+        "article-title": "Good and poor adherence: optimal cut-point for adherence measures using administrative claims data",
+        "volume": "25",
+        "author": "Karve",
+        "year": "2009",
+        "journal-title": "Curr Med Res Opin"
+      },
+      {
+        "issue": "9",
+        "key": "10.1002/pds.3787-BIB0028|pds3787-cit-0028",
+        "doi-asserted-by": "crossref",
+        "first-page": "2149",
+        "DOI": "10.2337/diacare.27.9.2149",
+        "article-title": "Oral antihyperglycemic medication nonadherence and subsequent hospitalization among individuals with type 2 diabetes",
+        "volume": "27",
+        "author": "Lau",
+        "year": "2004",
+        "journal-title": "Diabetes Care"
+      },
+      {
+        "issue": "11",
+        "key": "10.1002/pds.3787-BIB0029|pds3787-cit-0029",
+        "doi-asserted-by": "crossref",
+        "first-page": "926",
+        "DOI": "10.7326/0003-4819-132-11-200006060-00026",
+        "article-title": "The language of medication-taking",
+        "volume": "132",
+        "author": "Steiner",
+        "year": "2000",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "issue": "8",
+        "key": "10.1002/pds.3787-BIB0030|pds3787-cit-0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "630",
+        "DOI": "10.1097/00005650-200208000-00002",
+        "article-title": "Pharmacy data identify poorly adherent patients with schizophrenia at increased risk for admission",
+        "volume": "40",
+        "author": "Valenstein",
+        "year": "2002",
+        "journal-title": "Med Care"
+      },
+      {
+        "issue": "6",
+        "key": "10.1002/pds.3787-BIB0031|pds3787-cit-0031",
+        "doi-asserted-by": "crossref",
+        "first-page": "864",
+        "DOI": "10.1176/ps.2007.58.6.864",
+        "article-title": "Using pharmacy data on partial adherence to inform clinical care of patients with serious mental illness",
+        "volume": "58",
+        "author": "Woltmann",
+        "year": "2007",
+        "journal-title": "Psychiatr Serv"
+      },
+      {
+        "issue": "2",
+        "key": "10.1002/pds.3787-BIB0032|pds3787-cit-0032",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1214/aos/1176344136",
+        "article-title": "Estimating the dimension of a model",
+        "volume": "6",
+        "author": "Schwarz",
+        "year": "1978",
+        "journal-title": "Ann Stat"
+      }
+    ],
+    "container-title": [
+      "Pharmacoepidemiology and Drug Safety"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fpds.3787",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fpds.3787",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1002/pds.3787/fullpdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          3
+        ]
+      ],
+      "date-time": "2021-07-03T23:40:21Z",
+      "timestamp": 1625355621000
+    },
+    "score": 62.472633,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/pds.3787"
+      }
+    },
+    "subtitle": [
+      "Statin Trajectories and Cardiovascular Events"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          22
+        ]
+      ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+      "issue": "10",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            10
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1002/pds.3787",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "1053-8569"
+    ],
+    "issn-type": [
+      {
+        "value": "1053-8569",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          22
+        ]
+      ]
+    }
+  }
+]

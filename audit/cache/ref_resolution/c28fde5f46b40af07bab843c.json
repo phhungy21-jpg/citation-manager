@@ -1,0 +1,1544 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2025-10-05T00:38:08Z",
+      "timestamp": 1759624688938,
+      "version": "build-2065373602"
+    },
+    "reference-count": 5,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001700",
+        "name": "Ministry of Education, Culture, Sports, Science and Technology",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001700",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001691",
+        "name": "Japan Society for the Promotion of Science",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "JP 20K18964"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "JP 20K18964"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001691",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2020.06.057",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          15
+        ]
+      ],
+      "date-time": "2020-07-15T18:26:31Z",
+      "timestamp": 1594837591000
+    },
+    "page": "e118-e119",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27"
+    ],
+    "prefix": "10.1016",
+    "volume": "78",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8925-2348",
+        "authenticated-orcid": false,
+        "given": "Satoshi",
+        "family": "Funada",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Takashi",
+        "family": "Yoshioka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yan",
+        "family": "Luo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2020.06.057_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "614",
+        "DOI": "10.1016/j.eururo.2020.01.033",
+        "article-title": "Benefits and risks of primary treatments for high-risk localized and locally advanced prostate cancer: an international multidisciplinary systematic review",
+        "volume": "77",
+        "author": "Moris",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.06.057_bib0010",
+        "series-title": "Cochrane handbook for systematic reviews of interventions",
+        "first-page": "595",
+        "article-title": "Including non‐randomized studies on intervention effects",
+        "author": "Reeves",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.06.057_bib0015",
+        "series-title": "Cochrane handbook for systematic reviews of interventions",
+        "first-page": "205",
+        "article-title": "Assessing risk of bias in a randomized trial",
+        "author": "Higgins",
+        "year": "2019"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.06.057_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "290",
+        "DOI": "10.1016/j.eururo.2017.08.016",
+        "article-title": "Key steps in conducting systematic reviews for underpinning clinical practice guidelines: methodology of the European Association of Urology",
+        "volume": "73",
+        "author": "Knoll",
+        "year": "2018",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.06.057_bib0025",
+        "series-title": "Cochrane handbook for systematic reviews of interventions",
+        "first-page": "375",
+        "article-title": "Completing ‘Summary of findings’ tables and grading the certainty of the evidence",
+        "author": "Schünemann",
+        "year": "2019"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820305170?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820305170?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:07:22Z",
+      "timestamp": 1759583242000
+    },
+    "score": 132.64334,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283820305170"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283820305170"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2020.06.057",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-2838"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.06.057",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.07.005",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2025-10-05T00:39:06Z",
+      "timestamp": 1759624746461,
+      "version": "build-2065373602"
+    },
+    "reference-count": 5,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2020-11-01T00:00:00Z",
+          "timestamp": 1604188800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2020-11-01T00:00:00Z",
+          "timestamp": 1604188800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2020.07.031",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          13
+        ]
+      ],
+      "date-time": "2020-08-13T07:52:00Z",
+      "timestamp": 1597305120000
+    },
+    "page": "e192",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27"
+    ],
+    "prefix": "10.1016",
+    "volume": "78",
+    "author": [
+      {
+        "given": "Francesco",
+        "family": "Montorsi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Salonia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alberto",
+        "family": "Briganti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2020.07.031_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "614",
+        "DOI": "10.1016/j.eururo.2020.01.033",
+        "article-title": "Benefits and risks of primary treatments for high-risk localized and locally advanced prostate cancer: an international multidisciplinary systematic review",
+        "volume": "77",
+        "author": "Moris",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.07.031_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1016/j.euo.2018.05.005",
+        "article-title": "Current management of pT3b prostate cancer after robot-assisted laparoscopic prostatectomy",
+        "volume": "2",
+        "author": "Poelaert",
+        "year": "2019",
+        "journal-title": "Eur Urol Oncol"
+      },
+      {
+        "author": "Mottet",
+        "key": "10.1016/j.eururo.2020.07.031_bib0015"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.07.031_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "271",
+        "DOI": "10.1186/1748-717X-8-271",
+        "article-title": "Low rate of lymphedema after extended pelvic lymphadenectomy followed by pelvic irradiation of node-positive prostate cancer",
+        "volume": "8",
+        "author": "Rasmusson",
+        "year": "2013",
+        "journal-title": "Radiat Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.07.031_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "1024",
+        "DOI": "10.1016/j.eururo.2014.06.012",
+        "article-title": "Higher-than-expected severe (grade 3–4) late urinary toxicity after postprostatectomy hypofractionated radiotherapy: a single-institution analysis of 1176 patients",
+        "volume": "66",
+        "author": "Cozzarini",
+        "year": "2014",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820306035?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820306035?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:07:17Z",
+      "timestamp": 1759583237000
+    },
+    "score": 132.62767,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283820306035"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283820306035"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2020.07.031",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-2838"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.07.031",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.07.041",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 Published by Elsevier B.V. on behalf of European Association of Urology.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2025-10-05T00:38:15Z",
+      "timestamp": 1759624695317,
+      "version": "build-2065373602"
+    },
+    "reference-count": 5,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2020.05.034",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          10
+        ]
+      ],
+      "date-time": "2020-06-10T07:48:34Z",
+      "timestamp": 1591775314000
+    },
+    "page": "e114-e115",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27"
+    ],
+    "prefix": "10.1016",
+    "volume": "78",
+    "author": [
+      {
+        "given": "Fabiana",
+        "family": "Gregucci",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Roberta",
+        "family": "Carbonara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alba",
+        "family": "Fiorentino",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2020.05.034_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "614",
+        "DOI": "10.1016/j.eururo.2020.01.033",
+        "article-title": "Benefits and risks of primary treatments for high-risk localized and locally advanced prostate cancer: an international multidisciplinary systematic review",
+        "volume": "77",
+        "author": "Moris",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.05.034_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1007/s00066-018-1338-7",
+        "article-title": "Phase II study of accelerated Linac-based SBRT in five consecutive fractions for localized prostate cancer",
+        "volume": "195",
+        "author": "Alongi",
+        "year": "2019",
+        "journal-title": "Strahlenther Onkol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.05.034_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "553",
+        "DOI": "10.1586/14737140.2014.883282",
+        "article-title": "From radiobiology to technology: what is changing in radiotherapy for prostate cancer",
+        "volume": "14",
+        "author": "De Bari",
+        "year": "2014",
+        "journal-title": "Expert Rev Anticancer Ther"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.05.034_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1001/jama.2019.20675",
+        "article-title": "Patient-reported outcomes through 5 years for active surveillance, surgery, brachytherapy, or external beam radiation with or without androgen deprivation therapy for localized prostate cancer",
+        "volume": "323",
+        "author": "Hoffman",
+        "year": "2020",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.05.034_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "383",
+        "DOI": "10.1016/j.ijrobp.2017.10.024",
+        "article-title": "Cost-effectiveness of primary radiation therapy versus radical prostatectomy for intermediate- to high-risk prostate cancer",
+        "volume": "100",
+        "author": "Dorth",
+        "year": "2018",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820304127?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820304127?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:07:20Z",
+      "timestamp": 1759583240000
+    },
+    "score": 132.47787,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283820304127"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283820304127"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2020.05.034",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-2838"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.05.034",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.05.036",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2025-10-05T00:38:08Z",
+      "timestamp": 1759624688380,
+      "version": "build-2065373602"
+    },
+    "reference-count": 5,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2020.07.005",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          16
+        ]
+      ],
+      "date-time": "2020-07-16T11:23:20Z",
+      "timestamp": 1594898600000
+    },
+    "page": "e120-e121",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Reply to Satoshi Funada, Takashi Yoshioka, and Yan Luo’s Letter to the Editor re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27"
+    ],
+    "prefix": "10.1016",
+    "volume": "78",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3125-3399",
+        "authenticated-orcid": false,
+        "given": "Lisa",
+        "family": "Moris",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Van den Broeck",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Wiegel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2020.07.005_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "614",
+        "DOI": "10.1016/j.eururo.2020.01.033",
+        "article-title": "Benefits and risks of primary treatments for high-risk localized and locally advanced prostate cancer: an international multidisciplinary systematic review",
+        "volume": "77",
+        "author": "Moris",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "year": "2019",
+        "series-title": "Cochrane handbook for systematic reviews of interventions version 6.0 (updated July 2019)",
+        "key": "10.1016/j.eururo.2020.07.005_bib0010"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.07.005_bib0015",
+        "series-title": "EAU guidelines: systematic reviews methods and processes handbook",
+        "first-page": "1",
+        "author": "N’Dow",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.07.005_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "290",
+        "DOI": "10.1016/j.eururo.2017.08.016",
+        "article-title": "Key steps in conducting systematic reviews for underpinning clinical practice guidelines: methodology of the European Association of Urology",
+        "volume": "73",
+        "author": "Knoll",
+        "year": "2018",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "year": "2017",
+        "series-title": "EAU handbook for guidelines development",
+        "author": "European Association of Urology",
+        "key": "10.1016/j.eururo.2020.07.005_bib0025"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820305364?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820305364?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:07:23Z",
+      "timestamp": 1759583243000
+    },
+    "score": 128.67708,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283820305364"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283820305364"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2020.07.005",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-2838"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Reply to Satoshi Funada, Takashi Yoshioka, and Yan Luo’s Letter to the Editor re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.07.005",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.06.057",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2025-10-05T00:36:59Z",
+      "timestamp": 1759624619791,
+      "version": "build-2065373602"
+    },
+    "reference-count": 6,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2020.05.036",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          11
+        ]
+      ],
+      "date-time": "2020-06-11T22:37:06Z",
+      "timestamp": 1591915026000
+    },
+    "page": "e116-e117",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Reply to Fabiana Gregucci, Roberta Carbonara, and Alba Fiorentino’s Letter to the Editor re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27"
+    ],
+    "prefix": "10.1016",
+    "volume": "78",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-3125-3399",
+        "authenticated-orcid": false,
+        "given": "Lisa",
+        "family": "Moris",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nicolas",
+        "family": "Mottet",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Wiegel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2020.05.036_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "614",
+        "DOI": "10.1016/j.eururo.2020.01.033",
+        "article-title": "Benefits and risks of primary treatments for high-risk localized and locally advanced prostate cancer: an international multidisciplinary systematic review",
+        "volume": "77",
+        "author": "Moris",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "year": "2020",
+        "series-title": "EAU-EANM-ESTRO-ESUR-SIOG guidelines on prostate cancer",
+        "author": "Mottet",
+        "key": "10.1016/j.eururo.2020.05.036_bib0010"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.05.036_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "v883",
+        "DOI": "10.1093/annonc/mdz394.042",
+        "article-title": "Timing of radiotherapy (RT) after radical prostatectomy (RP): first results from the RADICALS RT randomised controlled trial (RCT) [NCT00541047]",
+        "volume": "30",
+        "author": "Parker",
+        "year": "2019",
+        "journal-title": "Ann Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.05.036_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1016/j.eururo.2014.03.011",
+        "article-title": "Adjuvant radiotherapy versus wait-and-see after radical prostatectomy: 10-year follow-up of the ARO 96-02/AUO AP 09/95 trial",
+        "volume": "66",
+        "author": "Wiegel",
+        "year": "2014",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.05.036_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "385",
+        "DOI": "10.1016/S0140-6736(19)31131-6",
+        "article-title": "Ultra-hypofractionated versus conventionally fractionated radiotherapy for prostate cancer: 5-year outcomes of the HYPO-RT-PC randomised, non-inferiority, phase 3 trial",
+        "volume": "394",
+        "author": "Widmark",
+        "year": "2019",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.eururo.2020.05.036_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "437",
+        "DOI": "10.1111/j.1464-410X.2012.11597.x",
+        "article-title": "Primary treatments for clinically localized prostate cancer: a comprehensive lifetime cost-utility analysis",
+        "volume": "111",
+        "author": "Cooperberg",
+        "year": "2013",
+        "journal-title": "BJU Int"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820304140?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283820304140?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:07:21Z",
+      "timestamp": 1759583241000
+    },
+    "score": 121.21985,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283820304140"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "references-count": 6,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283820304140"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2020.05.036",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-2838"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Reply to Fabiana Gregucci, Roberta Carbonara, and Alba Fiorentino’s Letter to the Editor re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.05.036",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2020.05.034",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 Published by Elsevier B.V. on behalf of European Association of Urology.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

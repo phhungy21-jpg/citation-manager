@@ -1,0 +1,689 @@
+{
+  "paper": "PMC11751744",
+  "source_file": "pmcid:11751744",
+  "generated": "2026-07-01T14:56:05.782239+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "dry_run_skipped": 58,
+    "unresolved_reference": 7
+  },
+  "flagged": [
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 7,
+      "ref_text": "Measuring surgical systems worldwide. World Bank Group. Accessed March 18, 2024. https://blogs.worldbank.org/opendata/measuring-surgical-systems-worldwide-update",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1596/12813",
+        "title": "Payment Systems Worldwide - A Snapshot : Outcomes of the Global Payment Systems Survey 2010",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.3,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 11,
+      "ref_text": "Cuellar H. Consolidated Appropriations Act, 2021. HR 133; 2020. Accessed December 6, 2024. https://www.congress.gov/bill/116th-congress/house-bill/133",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1038/scientificamerican01031857-133",
+        "title": "Important from Washington—Another New Patent Bill before Congress",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.25,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Prior studies have demonstrated that patients with barriers to timely access to care and inadequate financial risk protection may delay presentation for surgical conditions and are at increased likelihood for presenting with higher complexity disease.[2],[3],[4],[12],[13],[14],[15] Disease complexity at presentation for patients with emergency surgical conditions is thus a potential metric for objectively evaluating access to care,[1],[16] but has not yet been studied in relation to travel time to health care facilities.",
+      "citation_number": 16,
+      "ref_text": "EGS. The American Association for the Surgery of Trauma. Accessed March 8, 2024. https://www.aast.org/resources-detail/egs",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.uncres.2024.100106",
+        "title": "Numerical simulation of thermal performance of H2O-EGS and CO2-EGS based on thermal-hydraulic-mechanical coupling method",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "We defined this using previously published ICD-10 codes that have been used to clinically validate the disease grading system published by the American Association for the Surgery of Trauma.[1],[16] Patients were categorized as having higher or lower complexity emergency general surgery disease at the time of presentation through the use of ICD-10 codes, only including conditions that were flagged as being present on admission in HCUP.",
+      "citation_number": 16,
+      "ref_text": "EGS. The American Association for the Surgery of Trauma. Accessed March 8, 2024. https://www.aast.org/resources-detail/egs",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.uncres.2024.100106",
+        "title": "Numerical simulation of thermal performance of H2O-EGS and CO2-EGS based on thermal-hydraulic-mechanical coupling method",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "The 2021 Consolidated Appropriations Act[11] established the Rural Emergency Hospital designation, which allows eligible rural facilities to close their inpatient units in favor of providing emergency and outpatient services and receive additional federal funding and public payor reimbursement rates.",
+      "citation_number": 11,
+      "ref_text": "Cuellar H. Consolidated Appropriations Act, 2021. HR 133; 2020. Accessed December 6, 2024. https://www.congress.gov/bill/116th-congress/house-bill/133",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1038/scientificamerican01031857-133",
+        "title": "Important from Washington—Another New Patent Bill before Congress",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.25,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "To date, 21 hospitals have adopted Rural Emergency Hospital status.[35] While our data support that access to emergency care may facilitate better outcomes and earlier presentation among emergency general surgery patients, the downstream effects on surgical transfers, access to operative and inpatient care, and capacity at tertiary referral facilities remain major points of concern.[36] Future work must account for potential changes in how patients access and experience care in surgical emergencies as more facilities convert to Rural Emergency Hospitals.",
+      "citation_number": 35,
+      "ref_text": "Rural Emergency Hospitals. Sheps Center. Accessed March 21, 2024. https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-emergency-hospitals/",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1111/j.1748-0361.2005.tb00109.x",
+        "title": "Modeling the Emergency Ambulance Pass-By of Small Rural Hospitals in Victoria, Australia",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.33,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Surgical care may also be impacted by the expansion of quality programs, including the Emergency General Surgery Verification Program that was recently established by the American College of Surgeons.[37] Our findings suggest that the geospatial distribution of quality emergency care may be critical to ensuring better surgical outcomes for all people in the US.",
+      "citation_number": 37,
+      "ref_text": "Emergency general surgery verification program. ACS. Accessed March 21, 2024. https://www.facs.org/quality-programs/accreditation-and-verification/emergency-general-surgery/",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1097/ta.0000000000003756",
+        "title": "Another milestone reached: Emergency general surgery verification program",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.62,
+        "confident": false
+      }
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 1,
+      "ref_text": "Scott JW, Staudenmayer K, Sangji N, Fan Z, Hemmila M, Utter G. Evaluating the association between American Association for the Surgery of Trauma emergency general surgery anatomic severity grades and clinical outcomes using national claims data. J Trauma Acute Care Surg. 2021;90(2):296-304. doi:10.1097/TA.000000000000303033214490",
+      "doi": "10.1097/TA.0000000000003030",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 2,
+      "ref_text": "Scott JW, Neiman PU, Scott KW, . High deductibles are associated with severe disease, catastrophic out-of-pocket payments for emergency surgical conditions. Ann Surg. 2023;278(4):e667-e674. doi:10.1097/SLA.000000000000581936762565",
+      "doi": "10.1097/SLA.0000000000005819",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 3,
+      "ref_text": "Scott JW, Rose JA, Tsai TC, . Impact of ACA insurance coverage expansion on perforated appendix rates among young adults. Med Care. 2016;54(9):818-826. doi:10.1097/MLR.000000000000058627367865 PMC5468100",
+      "doi": "10.1097/MLR.0000000000000586",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 4,
+      "ref_text": "Zogg CK, Scott JW, Bhulani N, . Impact of Affordable Care Act insurance expansion on pre-hospital access to care: changes in adult perforated appendix admission rates after Medicaid expansion and the dependent coverage provision. J Am Coll Surg. 2019;228(1):29-43.e1. doi:10.1016/j.jamcollsurg.2018.09.02230359835",
+      "doi": "10.1016/j.jamcollsurg.2018.09.022",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 5,
+      "ref_text": "Stewart B, Khanduri P, McCord C, . Global disease burden of conditions requiring emergency surgery. Br J Surg. 2014;101(1):e9-e22. doi:10.1002/bjs.932924272924",
+      "doi": "10.1002/bjs.9329",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 6,
+      "ref_text": "Stewart BT, Tansley G, Gyedu A, . Mapping population-level spatial access to essential surgical care in Ghana using availability of bellwether procedures. JAMA Surg. 2016;151(8):e161239. doi:10.1001/jamasurg.2016.123927331865 PMC5577012",
+      "doi": "10.1001/jamasurg.2016.1239",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 7,
+      "ref_text": "Measuring surgical systems worldwide. World Bank Group. Accessed March 18, 2024. https://blogs.worldbank.org/opendata/measuring-surgical-systems-worldwide-update",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1596/12813",
+        "title": "Payment Systems Worldwide - A Snapshot : Outcomes of the Global Payment Systems Survey 2010",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.3,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 8,
+      "ref_text": "Alkire BC, Raykar NP, Shrime MG, . Global access to surgical care: a modelling study. Lancet Glob Health. 2015;3(6):e316-e323. doi:10.1016/S2214-109X(15)70115-425926087 PMC4820251",
+      "doi": "10.1016/S2214-109X(15)70115-4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 9,
+      "ref_text": "Taylor KK, Ibrahim AM, Scott JW. A proposed framework for measuring access to surgical care in the United States. JAMA Surg. 2022;157(12):1075-1077. doi:10.1001/jamasurg.2022.318436129695",
+      "doi": "10.1001/jamasurg.2022.3184",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 10,
+      "ref_text": "Gale SC, Shafi S, Dombrovskiy VY, Arumugam D, Crystal JS. The public health burden of emergency general surgery in the United States: a 10-year analysis of the nationwide inpatient sample—2001 to 2010. J Trauma Acute Care Surg. 2014;77(2):202-208. doi:10.1097/TA.000000000000036225058242",
+      "doi": "10.1097/TA.0000000000000362",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Acute surgical conditions, which account for nearly 10% of annual hospitalizations in the US, are commonly used as a benchmark for emergency service availability, as delays in care can increase the likelihood of complex disease at presentation (eg, appendicitis with perforation or abscess).[1],[2],[3],[4],[5],[6] The World Bank recommends using travel time as a proxy for timely access to care in these surgical emergencies.[7],[8],[9] Despite this, little data guide the application of this metric among emergency surgical patients in the US.[10] As regionalization continues to impact service delivery and policy efforts to promote access to emergency care are instituted at the federal level,[11] robust metrics for timely access to care and its downstream consequences are needed.",
+      "citation_number": 11,
+      "ref_text": "Cuellar H. Consolidated Appropriations Act, 2021. HR 133; 2020. Accessed December 6, 2024. https://www.congress.gov/bill/116th-congress/house-bill/133",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1038/scientificamerican01031857-133",
+        "title": "Important from Washington—Another New Patent Bill before Congress",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.25,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Prior studies have demonstrated that patients with barriers to timely access to care and inadequate financial risk protection may delay presentation for surgical conditions and are at increased likelihood for presenting with higher complexity disease.[2],[3],[4],[12],[13],[14],[15] Disease complexity at presentation for patients with emergency surgical conditions is thus a potential metric for objectively evaluating access to care,[1],[16] but has not yet been studied in relation to travel time to health care facilities.",
+      "citation_number": 1,
+      "ref_text": "Scott JW, Staudenmayer K, Sangji N, Fan Z, Hemmila M, Utter G. Evaluating the association between American Association for the Surgery of Trauma emergency general surgery anatomic severity grades and clinical outcomes using national claims data. J Trauma Acute Care Surg. 2021;90(2):296-304. doi:10.1097/TA.000000000000303033214490",
+      "doi": "10.1097/TA.0000000000003030",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Prior studies have demonstrated that patients with barriers to timely access to care and inadequate financial risk protection may delay presentation for surgical conditions and are at increased likelihood for presenting with higher complexity disease.[2],[3],[4],[12],[13],[14],[15] Disease complexity at presentation for patients with emergency surgical conditions is thus a potential metric for objectively evaluating access to care,[1],[16] but has not yet been studied in relation to travel time to health care facilities.",
+      "citation_number": 2,
+      "ref_text": "Scott JW, Neiman PU, Scott KW, . High deductibles are associated with severe disease, catastrophic out-of-pocket payments for emergency surgical conditions. Ann Surg. 2023;278(4):e667-e674. doi:10.1097/SLA.000000000000581936762565",
+      "doi": "10.1097/SLA.0000000000005819",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Prior studies have demonstrated that patients with barriers to timely access to care and inadequate financial risk protection may delay presentation for surgical conditions and are at increased likelihood for presenting with higher complexity disease.[2],[3],[4],[12],[13],[14],[15] Disease complexity at presentation for patients with emergency surgical conditions is thus a potential metric for objectively evaluating access to care,[1],[16] but has not yet been studied in relation to travel time to health care facilities.",
+      "citation_number": 3,
+      "ref_text": "Scott JW, Rose JA, Tsai TC, . Impact of ACA insurance coverage expansion on perforated appendix rates among young adults. Med Care. 2016;54(9):818-826. doi:10.1097/MLR.000000000000058627367865 PMC5468100",
+      "doi": "10.1097/MLR.0000000000000586",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Prior studies have demonstrated that patients with barriers to timely access to care and inadequate financial risk protection may delay presentation for surgical conditions and are at increased likelihood for presenting with higher complexity disease.[2],[3],[4],[12],[13],[14],[15] Disease complexity at presentation for patients with emergency surgical conditions is thus a potential metric for objectively evaluating access to care,[1],[16] but has not yet been studied in relation to travel time to health care facilities.",
+      "citation_number": 4,
+      "ref_text": "Zogg CK, Scott JW, Bhulani N, . Impact of Affordable Care Act insurance expansion on pre-hospital access to care: changes in adult perforated appendix admission rates after Medicaid expansion and the dependent coverage provision. J Am Coll Surg. 2019;228(1):29-43.e1. doi:10.1016/j.jamcollsurg.2018.09.02230359835",
+      "doi": "10.1016/j.jamcollsurg.2018.09.022",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Prior studies have demonstrated that patients with barriers to timely access to care and inadequate financial risk protection may delay presentation for surgical conditions and are at increased likelihood for presenting with higher complexity disease.[2],[3],[4],[12],[13],[14],[15] Disease complexity at presentation for patients with emergency surgical conditions is thus a potential metric for objectively evaluating access to care,[1],[16] but has not yet been studied in relation to travel time to health care facilities.",
+      "citation_number": 12,
+      "ref_text": "Loehrer AP, Chang DC, Scott JW, . Association of the Affordable Care Act Medicaid expansion with access to and quality of care for surgical conditions. JAMA Surg. 2018;153(3):e175568. doi:10.1001/jamasurg.2017.556829365029 PMC5885934",
+      "doi": "10.1001/jamasurg.2017.5568",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Prior studies have demonstrated that patients with barriers to timely access to care and inadequate financial risk protection may delay presentation for surgical conditions and are at increased likelihood for presenting with higher complexity disease.[2],[3],[4],[12],[13],[14],[15] Disease complexity at presentation for patients with emergency surgical conditions is thus a potential metric for objectively evaluating access to care,[1],[16] but has not yet been studied in relation to travel time to health care facilities.",
+      "citation_number": 13,
+      "ref_text": "Yelorda K, Rose L, Bundorf MK, Muhammad HA, Morris AM. Association between high-deductible health plans and hernia acuity. JAMA Surg. 2022;157(4):321-326. doi:10.1001/jamasurg.2021.756735152285 PMC8842195",
+      "doi": "10.1001/jamasurg.2021.7567",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Prior studies have demonstrated that patients with barriers to timely access to care and inadequate financial risk protection may delay presentation for surgical conditions and are at increased likelihood for presenting with higher complexity disease.[2],[3],[4],[12],[13],[14],[15] Disease complexity at presentation for patients with emergency surgical conditions is thus a potential metric for objectively evaluating access to care,[1],[16] but has not yet been studied in relation to travel time to health care facilities.",
+      "citation_number": 14,
+      "ref_text": "Loehrer AP, Leech MM, Weiss JE, . Association of cost sharing with delayed and complicated presentation of acute appendicitis or diverticulitis. JAMA Health Forum. 2021;2(9):e212324. doi:10.1001/jamahealthforum.2021.232435977177 PMC8796960",
+      "doi": "10.1001/jamahealthforum.2021.2324",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Prior studies have demonstrated that patients with barriers to timely access to care and inadequate financial risk protection may delay presentation for surgical conditions and are at increased likelihood for presenting with higher complexity disease.[2],[3],[4],[12],[13],[14],[15] Disease complexity at presentation for patients with emergency surgical conditions is thus a potential metric for objectively evaluating access to care,[1],[16] but has not yet been studied in relation to travel time to health care facilities.",
+      "citation_number": 15,
+      "ref_text": "Zondlak AN, Oh EJ, Neiman PU, . Association of intellectual disability with delayed presentation and worse outcomes in emergency general surgery. Ann Surg. 2023;278(5):e1118-e1122. doi:10.1097/SLA.000000000000586336994738",
+      "doi": "10.1097/SLA.0000000000005863",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Prior studies have demonstrated that patients with barriers to timely access to care and inadequate financial risk protection may delay presentation for surgical conditions and are at increased likelihood for presenting with higher complexity disease.[2],[3],[4],[12],[13],[14],[15] Disease complexity at presentation for patients with emergency surgical conditions is thus a potential metric for objectively evaluating access to care,[1],[16] but has not yet been studied in relation to travel time to health care facilities.",
+      "citation_number": 16,
+      "ref_text": "EGS. The American Association for the Surgery of Trauma. Accessed March 8, 2024. https://www.aast.org/resources-detail/egs",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.uncres.2024.100106",
+        "title": "Numerical simulation of thermal performance of H2O-EGS and CO2-EGS based on thermal-hydraulic-mechanical coupling method",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) reporting guideline were followed.[17] This cohort study was approved by the institutional review board of the University of Washington.",
+      "citation_number": 17,
+      "ref_text": "von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP; STROBE Initiative. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. Lancet. 2007;370(9596):1453-1457. doi:10.1016/S0140-6736(07)61602-X18064739",
+      "doi": "10.1016/S0140-6736(07)61602-X",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These conditions have been used to identify delays in access to emergency general surgery care in previous studies.[2],[13],[15] We used the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) codes to identify patients meeting diagnostic criteria for inclusion in the emergency general surgery cohort.[1],[18] The American Association for the Surgery of Trauma disease grading scale for each condition was used to define disease complexity at presentation by identifying ICD-10 codes corresponding to higher and lower complexity disease.[1],[18],[19] Only patients with a home zip code and hospital information available were included.",
+      "citation_number": 1,
+      "ref_text": "Scott JW, Staudenmayer K, Sangji N, Fan Z, Hemmila M, Utter G. Evaluating the association between American Association for the Surgery of Trauma emergency general surgery anatomic severity grades and clinical outcomes using national claims data. J Trauma Acute Care Surg. 2021;90(2):296-304. doi:10.1097/TA.000000000000303033214490",
+      "doi": "10.1097/TA.0000000000003030",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These conditions have been used to identify delays in access to emergency general surgery care in previous studies.[2],[13],[15] We used the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) codes to identify patients meeting diagnostic criteria for inclusion in the emergency general surgery cohort.[1],[18] The American Association for the Surgery of Trauma disease grading scale for each condition was used to define disease complexity at presentation by identifying ICD-10 codes corresponding to higher and lower complexity disease.[1],[18],[19] Only patients with a home zip code and hospital information available were included.",
+      "citation_number": 2,
+      "ref_text": "Scott JW, Neiman PU, Scott KW, . High deductibles are associated with severe disease, catastrophic out-of-pocket payments for emergency surgical conditions. Ann Surg. 2023;278(4):e667-e674. doi:10.1097/SLA.000000000000581936762565",
+      "doi": "10.1097/SLA.0000000000005819",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These conditions have been used to identify delays in access to emergency general surgery care in previous studies.[2],[13],[15] We used the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) codes to identify patients meeting diagnostic criteria for inclusion in the emergency general surgery cohort.[1],[18] The American Association for the Surgery of Trauma disease grading scale for each condition was used to define disease complexity at presentation by identifying ICD-10 codes corresponding to higher and lower complexity disease.[1],[18],[19] Only patients with a home zip code and hospital information available were included.",
+      "citation_number": 13,
+      "ref_text": "Yelorda K, Rose L, Bundorf MK, Muhammad HA, Morris AM. Association between high-deductible health plans and hernia acuity. JAMA Surg. 2022;157(4):321-326. doi:10.1001/jamasurg.2021.756735152285 PMC8842195",
+      "doi": "10.1001/jamasurg.2021.7567",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These conditions have been used to identify delays in access to emergency general surgery care in previous studies.[2],[13],[15] We used the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) codes to identify patients meeting diagnostic criteria for inclusion in the emergency general surgery cohort.[1],[18] The American Association for the Surgery of Trauma disease grading scale for each condition was used to define disease complexity at presentation by identifying ICD-10 codes corresponding to higher and lower complexity disease.[1],[18],[19] Only patients with a home zip code and hospital information available were included.",
+      "citation_number": 15,
+      "ref_text": "Zondlak AN, Oh EJ, Neiman PU, . Association of intellectual disability with delayed presentation and worse outcomes in emergency general surgery. Ann Surg. 2023;278(5):e1118-e1122. doi:10.1097/SLA.000000000000586336994738",
+      "doi": "10.1097/SLA.0000000000005863",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These conditions have been used to identify delays in access to emergency general surgery care in previous studies.[2],[13],[15] We used the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) codes to identify patients meeting diagnostic criteria for inclusion in the emergency general surgery cohort.[1],[18] The American Association for the Surgery of Trauma disease grading scale for each condition was used to define disease complexity at presentation by identifying ICD-10 codes corresponding to higher and lower complexity disease.[1],[18],[19] Only patients with a home zip code and hospital information available were included.",
+      "citation_number": 18,
+      "ref_text": "Utter GH, Miller PR, Mowery NT, . ICD-9-CM and ICD-10-CM mapping of the AAST Emergency General Surgery disease severity grading systems: conceptual approach, limitations, and recommendations for the future. J Trauma Acute Care Surg. 2015;78(5):1059-1065. doi:10.1097/TA.000000000000060825909431",
+      "doi": "10.1097/TA.0000000000000608",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "These conditions have been used to identify delays in access to emergency general surgery care in previous studies.[2],[13],[15] We used the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10) codes to identify patients meeting diagnostic criteria for inclusion in the emergency general surgery cohort.[1],[18] The American Association for the Surgery of Trauma disease grading scale for each condition was used to define disease complexity at presentation by identifying ICD-10 codes corresponding to higher and lower complexity disease.[1],[18],[19] Only patients with a home zip code and hospital information available were included.",
+      "citation_number": 19,
+      "ref_text": "Tominaga GT, Staudenmayer KL, Shafi S, ; American Association for the Surgery of Trauma Committee on Patient Assessment. The American Association for the Surgery of Trauma grading scale for 16 emergency general surgery conditions: disease-specific criteria characterizing anatomic severity grading. J Trauma Acute Care Surg. 2016;81(3):593-602. doi:10.1097/TA.000000000000112727257696",
+      "doi": "10.1097/TA.0000000000001127",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "For the purpose of this study, we categorized these into Hispanic, non-Hispanic Black, non-Hispanic White, and non-Hispanic other (including patients reporting non-Hispanic ethnicity and any racial identification other than White or Black) to allow for analysis.[20] Medical comorbidities were aggregated into the Elixhauser comorbidity index and subsequently categorized (less than 0, 0, 1 to 5, 6 to 13, and 14 or more).[21],[22] Our primary exposure was the travel time in minutes from the patient’s home to the hospital where they first sought emergency care, regardless of whether those facilities provided definitive surgical care or transferred the patient.",
+      "citation_number": 20,
+      "ref_text": "Flanagin A, Frey T, Christiansen SL; AMA Manual of Style Committee. Updated guidance on the reporting of race and ethnicity in medical and science journals. JAMA. 2021;326(7):621-627. doi:10.1001/jama.2021.1330434402850",
+      "doi": "10.1001/jama.2021.13304",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "For the purpose of this study, we categorized these into Hispanic, non-Hispanic Black, non-Hispanic White, and non-Hispanic other (including patients reporting non-Hispanic ethnicity and any racial identification other than White or Black) to allow for analysis.[20] Medical comorbidities were aggregated into the Elixhauser comorbidity index and subsequently categorized (less than 0, 0, 1 to 5, 6 to 13, and 14 or more).[21],[22] Our primary exposure was the travel time in minutes from the patient’s home to the hospital where they first sought emergency care, regardless of whether those facilities provided definitive surgical care or transferred the patient.",
+      "citation_number": 21,
+      "ref_text": "Elixhauser A, Steiner C, Harris DR, Coffey RM. Comorbidity measures for use with administrative data. Med Care. 1998;36(1):8-27. doi:10.1097/00005650-199801000-000049431328",
+      "doi": "10.1097/00005650-199801000-00004",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "For the purpose of this study, we categorized these into Hispanic, non-Hispanic Black, non-Hispanic White, and non-Hispanic other (including patients reporting non-Hispanic ethnicity and any racial identification other than White or Black) to allow for analysis.[20] Medical comorbidities were aggregated into the Elixhauser comorbidity index and subsequently categorized (less than 0, 0, 1 to 5, 6 to 13, and 14 or more).[21],[22] Our primary exposure was the travel time in minutes from the patient’s home to the hospital where they first sought emergency care, regardless of whether those facilities provided definitive surgical care or transferred the patient.",
+      "citation_number": 22,
+      "ref_text": "van Walraven C, Austin PC, Jennings A, Quan H, Forster AJ. A modification of the Elixhauser comorbidity measures into a point system for hospital death using administrative data. Med Care. 2009;47(6):626-633. doi:10.1097/MLR.0b013e31819432e519433995",
+      "doi": "10.1097/MLR.0b013e31819432e5",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The use of zip code population centroids may be a more accurate method to estimate travel time compared with geometry-based methods and has been validated in administrative databases.[23],[24] Hospital details, including addresses, were obtained via linkage of the American Hospital Association Annual Survey database with HCUP data.",
+      "citation_number": 23,
+      "ref_text": "Berke EM, Shi X. Computing travel time when the exact address is unknown: a comparison of point and polygon ZIP code approximation methods. Int J Health Geogr. 2009;8:23. doi:10.1186/1476-072X-8-2319400969 PMC2683820",
+      "doi": "10.1186/1476-072X-8-23",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The use of zip code population centroids may be a more accurate method to estimate travel time compared with geometry-based methods and has been validated in administrative databases.[23],[24] Hospital details, including addresses, were obtained via linkage of the American Hospital Association Annual Survey database with HCUP data.",
+      "citation_number": 24,
+      "ref_text": "Jarman MP, Sturgeon D, Mathews I, Uribe-Leitz T, Haider AH. Validation of Zip code-based estimates of ambulance driving distance to control for access to care in emergency surgery research. JAMA Surg. 2019;154(10):970-971. doi:10.1001/jamasurg.2019.217931339529 PMC6659149",
+      "doi": "10.1001/jamasurg.2019.2179",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We used the georoute package in Stata version 18.0 (StataCorp) to obtain travel time in minutes required to drive by car between these 2 points under normal traffic conditions.[25] Travel time was then categorized into 15 minutes or less, 16 to 30 minutes, 31 to 60 minutes, 61 to 120 minutes, and more than 120 minutes for our primary analysis and into a binary of less than 60 minutes and 60 minutes or more in our secondary analyses.[26],[27] Rurality of the patient’s home address was defined by linking each patient’s home zip code to its corresponding Rural-Urban Commuting Area (RUCA) code.",
+      "citation_number": 25,
+      "ref_text": "Weber S, Péclat M, Warren A. Travel distance and travel time using Stata: new features and major improvements in georoute. Stata J. Published online April 5, 2022. doi:10.1177/1536867X221083857",
+      "doi": "10.1177/1536867X221083857",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "We used the georoute package in Stata version 18.0 (StataCorp) to obtain travel time in minutes required to drive by car between these 2 points under normal traffic conditions.[25] Travel time was then categorized into 15 minutes or less, 16 to 30 minutes, 31 to 60 minutes, 61 to 120 minutes, and more than 120 minutes for our primary analysis and into a binary of less than 60 minutes and 60 minutes or more in our secondary analyses.[26],[27] Rurality of the patient’s home address was defined by linking each patient’s home zip code to its corresponding Rural-Urban Commuting Area (RUCA) code.",
+      "citation_number": 26,
+      "ref_text": "Choi J, Karr S, Jain A, Harris TC, Chavez JC, Spain DA. Access to American College of Surgeons Committee on trauma-verified trauma centers in the US, 2013-2019. JAMA. 2022;328(4):391-393. doi:10.1001/jama.2022.809735881133 PMC9327571",
+      "doi": "10.1001/jama.2022.8097",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We used the georoute package in Stata version 18.0 (StataCorp) to obtain travel time in minutes required to drive by car between these 2 points under normal traffic conditions.[25] Travel time was then categorized into 15 minutes or less, 16 to 30 minutes, 31 to 60 minutes, 61 to 120 minutes, and more than 120 minutes for our primary analysis and into a binary of less than 60 minutes and 60 minutes or more in our secondary analyses.[26],[27] Rurality of the patient’s home address was defined by linking each patient’s home zip code to its corresponding Rural-Urban Commuting Area (RUCA) code.",
+      "citation_number": 27,
+      "ref_text": "McCrum ML, Allen CM, Han J, Iantorno SE, Presson AP, Wan N. Greater spatial access to care is associated with lower mortality for emergency general surgery. J Trauma Acute Care Surg. 2023;94(2):264-272. doi:10.1097/TA.000000000000383736694335 PMC10069479",
+      "doi": "10.1097/TA.0000000000003837",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We defined this using previously published ICD-10 codes that have been used to clinically validate the disease grading system published by the American Association for the Surgery of Trauma.[1],[16] Patients were categorized as having higher or lower complexity emergency general surgery disease at the time of presentation through the use of ICD-10 codes, only including conditions that were flagged as being present on admission in HCUP.",
+      "citation_number": 1,
+      "ref_text": "Scott JW, Staudenmayer K, Sangji N, Fan Z, Hemmila M, Utter G. Evaluating the association between American Association for the Surgery of Trauma emergency general surgery anatomic severity grades and clinical outcomes using national claims data. J Trauma Acute Care Surg. 2021;90(2):296-304. doi:10.1097/TA.000000000000303033214490",
+      "doi": "10.1097/TA.0000000000003030",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We defined this using previously published ICD-10 codes that have been used to clinically validate the disease grading system published by the American Association for the Surgery of Trauma.[1],[16] Patients were categorized as having higher or lower complexity emergency general surgery disease at the time of presentation through the use of ICD-10 codes, only including conditions that were flagged as being present on admission in HCUP.",
+      "citation_number": 16,
+      "ref_text": "EGS. The American Association for the Surgery of Trauma. Accessed March 8, 2024. https://www.aast.org/resources-detail/egs",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.uncres.2024.100106",
+        "title": "Numerical simulation of thermal performance of H2O-EGS and CO2-EGS based on thermal-hydraulic-mechanical coupling method",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "The development of any in-hospital complication was identified using ICD-10 codes that were not present on admission.[2],[15] Operative intervention was defined as an encounter during which any emergency general surgery–related surgical procedure was performed, using ICD-10-Procedure Codes.[15] We defined inpatient admission as those encounters included in only the state inpatient database.",
+      "citation_number": 2,
+      "ref_text": "Scott JW, Neiman PU, Scott KW, . High deductibles are associated with severe disease, catastrophic out-of-pocket payments for emergency surgical conditions. Ann Surg. 2023;278(4):e667-e674. doi:10.1097/SLA.000000000000581936762565",
+      "doi": "10.1097/SLA.0000000000005819",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The development of any in-hospital complication was identified using ICD-10 codes that were not present on admission.[2],[15] Operative intervention was defined as an encounter during which any emergency general surgery–related surgical procedure was performed, using ICD-10-Procedure Codes.[15] We defined inpatient admission as those encounters included in only the state inpatient database.",
+      "citation_number": 15,
+      "ref_text": "Zondlak AN, Oh EJ, Neiman PU, . Association of intellectual disability with delayed presentation and worse outcomes in emergency general surgery. Ann Surg. 2023;278(5):e1118-e1122. doi:10.1097/SLA.000000000000586336994738",
+      "doi": "10.1097/SLA.0000000000005863",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Interfacility transfers were identified in HCUP using previously published methods that leveraged the VisitLink variable.[28] Finally, we evaluated total charges and total length of stay for each encounter.",
+      "citation_number": 28,
+      "ref_text": "Teng CY, Davis BS, Kahn JM, Rosengart MR, Brown JB. Factors associated with potentially avoidable interhospital transfers in emergency general surgery-A call for quality improvement efforts. Surgery. 2021;170(5):1298-1307. doi:10.1016/j.surg.2021.05.02134147261 PMC8550996",
+      "doi": "10.1016/j.surg.2021.05.021",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Travel time has been used for decades in the global health literature as a measure of health care accessibility,[6],[8],[29] and has been proposed as a potential metric in the US context.[9] However, prior studies evaluating travel time to care in surgical disease have had 2 major limitations.",
+      "citation_number": 6,
+      "ref_text": "Stewart BT, Tansley G, Gyedu A, . Mapping population-level spatial access to essential surgical care in Ghana using availability of bellwether procedures. JAMA Surg. 2016;151(8):e161239. doi:10.1001/jamasurg.2016.123927331865 PMC5577012",
+      "doi": "10.1001/jamasurg.2016.1239",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Travel time has been used for decades in the global health literature as a measure of health care accessibility,[6],[8],[29] and has been proposed as a potential metric in the US context.[9] However, prior studies evaluating travel time to care in surgical disease have had 2 major limitations.",
+      "citation_number": 8,
+      "ref_text": "Alkire BC, Raykar NP, Shrime MG, . Global access to surgical care: a modelling study. Lancet Glob Health. 2015;3(6):e316-e323. doi:10.1016/S2214-109X(15)70115-425926087 PMC4820251",
+      "doi": "10.1016/S2214-109X(15)70115-4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Travel time has been used for decades in the global health literature as a measure of health care accessibility,[6],[8],[29] and has been proposed as a potential metric in the US context.[9] However, prior studies evaluating travel time to care in surgical disease have had 2 major limitations.",
+      "citation_number": 9,
+      "ref_text": "Taylor KK, Ibrahim AM, Scott JW. A proposed framework for measuring access to surgical care in the United States. JAMA Surg. 2022;157(12):1075-1077. doi:10.1001/jamasurg.2022.318436129695",
+      "doi": "10.1001/jamasurg.2022.3184",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "Travel time has been used for decades in the global health literature as a measure of health care accessibility,[6],[8],[29] and has been proposed as a potential metric in the US context.[9] However, prior studies evaluating travel time to care in surgical disease have had 2 major limitations.",
+      "citation_number": 29,
+      "ref_text": "Thaddeus S, Maine D. Too far to walk: maternal mortality in context. Soc Sci Med. 1994;38(8):1091-1110. doi:10.1016/0277-9536(94)90226-78042057",
+      "doi": "10.1016/0277-9536(94)90226-7",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "First, they have predominantly evaluated smaller geographic regions, limiting applicability to the unique geographic and health care landscape of the US.[30] Second, they have predominantly evaluated associations between travel time and mortality from surgical disease.",
+      "citation_number": 30,
+      "ref_text": "Wohlgemut JM, Ramsay G, Bekheit M, Scott NW, Watson AJM, Jansen JO. Emergency general surgery: impact of distance and rurality on mortality. BJS Open. 2022;6(2):zrac032. doi:10.1093/bjsopen/zrac03235466374 PMC9035437",
+      "doi": "10.1093/bjsopen/zrac032",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Patients with other clinical, financial, or systematic barriers to receiving surgical care were more likely to present with higher complexity surgical disease.[2],[4],[13],[14],[15],[31] Collectively, our study suggests that timeliness should be considered alongside affordability and equity as essential components of health care access.",
+      "citation_number": 2,
+      "ref_text": "Scott JW, Neiman PU, Scott KW, . High deductibles are associated with severe disease, catastrophic out-of-pocket payments for emergency surgical conditions. Ann Surg. 2023;278(4):e667-e674. doi:10.1097/SLA.000000000000581936762565",
+      "doi": "10.1097/SLA.0000000000005819",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Patients with other clinical, financial, or systematic barriers to receiving surgical care were more likely to present with higher complexity surgical disease.[2],[4],[13],[14],[15],[31] Collectively, our study suggests that timeliness should be considered alongside affordability and equity as essential components of health care access.",
+      "citation_number": 4,
+      "ref_text": "Zogg CK, Scott JW, Bhulani N, . Impact of Affordable Care Act insurance expansion on pre-hospital access to care: changes in adult perforated appendix admission rates after Medicaid expansion and the dependent coverage provision. J Am Coll Surg. 2019;228(1):29-43.e1. doi:10.1016/j.jamcollsurg.2018.09.02230359835",
+      "doi": "10.1016/j.jamcollsurg.2018.09.022",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Patients with other clinical, financial, or systematic barriers to receiving surgical care were more likely to present with higher complexity surgical disease.[2],[4],[13],[14],[15],[31] Collectively, our study suggests that timeliness should be considered alongside affordability and equity as essential components of health care access.",
+      "citation_number": 13,
+      "ref_text": "Yelorda K, Rose L, Bundorf MK, Muhammad HA, Morris AM. Association between high-deductible health plans and hernia acuity. JAMA Surg. 2022;157(4):321-326. doi:10.1001/jamasurg.2021.756735152285 PMC8842195",
+      "doi": "10.1001/jamasurg.2021.7567",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Patients with other clinical, financial, or systematic barriers to receiving surgical care were more likely to present with higher complexity surgical disease.[2],[4],[13],[14],[15],[31] Collectively, our study suggests that timeliness should be considered alongside affordability and equity as essential components of health care access.",
+      "citation_number": 14,
+      "ref_text": "Loehrer AP, Leech MM, Weiss JE, . Association of cost sharing with delayed and complicated presentation of acute appendicitis or diverticulitis. JAMA Health Forum. 2021;2(9):e212324. doi:10.1001/jamahealthforum.2021.232435977177 PMC8796960",
+      "doi": "10.1001/jamahealthforum.2021.2324",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Patients with other clinical, financial, or systematic barriers to receiving surgical care were more likely to present with higher complexity surgical disease.[2],[4],[13],[14],[15],[31] Collectively, our study suggests that timeliness should be considered alongside affordability and equity as essential components of health care access.",
+      "citation_number": 15,
+      "ref_text": "Zondlak AN, Oh EJ, Neiman PU, . Association of intellectual disability with delayed presentation and worse outcomes in emergency general surgery. Ann Surg. 2023;278(5):e1118-e1122. doi:10.1097/SLA.000000000000586336994738",
+      "doi": "10.1097/SLA.0000000000005863",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Patients with other clinical, financial, or systematic barriers to receiving surgical care were more likely to present with higher complexity surgical disease.[2],[4],[13],[14],[15],[31] Collectively, our study suggests that timeliness should be considered alongside affordability and equity as essential components of health care access.",
+      "citation_number": 31,
+      "ref_text": "Leech MM, Briggs A, Loehrer AP. Surgical diseases are common and complicated for criminal justice involved populations. J Surg Res. 2021;265:27-32. doi:10.1016/j.jss.2021.02.05033872846",
+      "doi": "10.1016/j.jss.2021.02.050",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Prior studies have shown that patients living in rural areas utilized more health care resources,[32],[33] but these studies have not accounted for hospital proximity.",
+      "citation_number": 32,
+      "ref_text": "Barthold LK, Burney CP, Baumann LE, Briggs A. Complexity of transferred geriatric adults requiring emergency general surgery: a rural tertiary center experience. J Surg Res. 2023;283:640-647. doi:10.1016/j.jss.2022.10.08836455417",
+      "doi": "10.1016/j.jss.2022.10.088",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Prior studies have shown that patients living in rural areas utilized more health care resources,[32],[33] but these studies have not accounted for hospital proximity.",
+      "citation_number": 33,
+      "ref_text": "Fernandes-Taylor S, Yang DY, Schumacher J, Ljumani F, Fertel BS, Ingraham A. Factors associated with interhospital transfers of emergency general surgery patients from emergency departments. Am J Emerg Med. 2021;40:83-88. doi:10.1016/j.ajem.2020.12.01233360394 PMC8074541",
+      "doi": "10.1016/j.ajem.2020.12.012",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "For example, many rural hospitals are both accessible in a timely manner and capable of providing high-quality care to their communities.[34] Using timeliness as a measure for access may therefore identify communities at risk for delayed presentation for emergency care that are masked by rural or urban classifications alone.",
+      "citation_number": 34,
+      "ref_text": "Ibrahim AM, Hughes TG, Thumma JR, Dimick JB. Association of hospital critical access status with surgical outcomes and expenditures among Medicare beneficiaries. JAMA. 2016;315(19):2095-2103. doi:10.1001/jama.2016.561827187302",
+      "doi": "10.1001/jama.2016.5618",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The 2021 Consolidated Appropriations Act[11] established the Rural Emergency Hospital designation, which allows eligible rural facilities to close their inpatient units in favor of providing emergency and outpatient services and receive additional federal funding and public payor reimbursement rates.",
+      "citation_number": 11,
+      "ref_text": "Cuellar H. Consolidated Appropriations Act, 2021. HR 133; 2020. Accessed December 6, 2024. https://www.congress.gov/bill/116th-congress/house-bill/133",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1038/scientificamerican01031857-133",
+        "title": "Important from Washington—Another New Patent Bill before Congress",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.25,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "To date, 21 hospitals have adopted Rural Emergency Hospital status.[35] While our data support that access to emergency care may facilitate better outcomes and earlier presentation among emergency general surgery patients, the downstream effects on surgical transfers, access to operative and inpatient care, and capacity at tertiary referral facilities remain major points of concern.[36] Future work must account for potential changes in how patients access and experience care in surgical emergencies as more facilities convert to Rural Emergency Hospitals.",
+      "citation_number": 35,
+      "ref_text": "Rural Emergency Hospitals. Sheps Center. Accessed March 21, 2024. https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-emergency-hospitals/",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1111/j.1748-0361.2005.tb00109.x",
+        "title": "Modeling the Emergency Ambulance Pass-By of Small Rural Hospitals in Victoria, Australia",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.33,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "To date, 21 hospitals have adopted Rural Emergency Hospital status.[35] While our data support that access to emergency care may facilitate better outcomes and earlier presentation among emergency general surgery patients, the downstream effects on surgical transfers, access to operative and inpatient care, and capacity at tertiary referral facilities remain major points of concern.[36] Future work must account for potential changes in how patients access and experience care in surgical emergencies as more facilities convert to Rural Emergency Hospitals.",
+      "citation_number": 36,
+      "ref_text": "Schaefer SL, Mullens CL, Ibrahim AM. The Emergence of rural emergency hospitals: safely implementing new models of care. JAMA. 2023;329(13):1059-1060. doi:10.1001/jama.2023.195636928469 PMC10163821",
+      "doi": "10.1001/jama.2023.1956",
+      "status": "dry_run_skipped",
+      "abstract_source": "crossref"
+    },
+    {
+      "sentence": "Surgical care may also be impacted by the expansion of quality programs, including the Emergency General Surgery Verification Program that was recently established by the American College of Surgeons.[37] Our findings suggest that the geospatial distribution of quality emergency care may be critical to ensuring better surgical outcomes for all people in the US.",
+      "citation_number": 37,
+      "ref_text": "Emergency general surgery verification program. ACS. Accessed March 21, 2024. https://www.facs.org/quality-programs/accreditation-and-verification/emergency-general-surgery/",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1097/ta.0000000000003756",
+        "title": "Another milestone reached: Emergency general surgery verification program",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.62,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "We attempted to address this by using clinically validated coding schemata that has used national data to measure various degrees of disease severity using ICD-10 diagnosis codes.[1] Second, although our analysis included 2 large, geographically and culturally diverse states, further investigation is necessary to determine whether similar patterns exist nationwide, particularly when evaluating the policy relevance of these findings.",
+      "citation_number": 1,
+      "ref_text": "Scott JW, Staudenmayer K, Sangji N, Fan Z, Hemmila M, Utter G. Evaluating the association between American Association for the Surgery of Trauma emergency general surgery anatomic severity grades and clinical outcomes using national claims data. J Trauma Acute Care Surg. 2021;90(2):296-304. doi:10.1097/TA.000000000000303033214490",
+      "doi": "10.1097/TA.0000000000003030",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While this is a common metric for geospatial access to care in global health literature,[38],[39],[40] it does not account for differences in available modes of transportation that are available to individuals.",
+      "citation_number": 38,
+      "ref_text": "Raykar NP, Bowder AN, Liu C, . Geospatial mapping to estimate timely access to surgical care in nine low-income and middle-income countries. Lancet. 2015;385(suppl 2):S16. doi:10.1016/S0140-6736(15)60811-X26313062",
+      "doi": "10.1016/S0140-6736(15)60811-X",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While this is a common metric for geospatial access to care in global health literature,[38],[39],[40] it does not account for differences in available modes of transportation that are available to individuals.",
+      "citation_number": 39,
+      "ref_text": "Karrison TG, Philip Schumm L, Kocherginsky M, Thisted R, Dirschl DR, Rogers S. Effects of driving distance and transport time on mortality among Level I and II traumas occurring in a metropolitan area. J Trauma Acute Care Surg. 2018;85(4):756-765. doi:10.1097/TA.000000000000204130086071",
+      "doi": "10.1097/TA.0000000000002041",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While this is a common metric for geospatial access to care in global health literature,[38],[39],[40] it does not account for differences in available modes of transportation that are available to individuals.",
+      "citation_number": 40,
+      "ref_text": "Weiss DJ, Nelson A, Vargas-Ruiz CA, . Global maps of travel time to healthcare facilities. Nat Med. 2020;26(12):1835-1838. doi:10.1038/s41591-020-1059-132989313",
+      "doi": "10.1038/s41591-020-1059-1",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Future studies would benefit from evaluating the intersection of geospatial distance to surgical care and transportation difficulties, which are a known barrier to timely access to care.[41],[42] Finally, while our study specifically aimed to evaluate timely access to emergency care, we were agnostic as to whether index facilities were the closest facility to the patient’s home, and capable of providing definitive surgical care for the patients’ condition.",
+      "citation_number": 41,
+      "ref_text": "McDonald-Lopez K, Murphy AK, Gould-Werth A, Griffin J, Bader MDM, Kovski N. A driver in health outcomes: developing discrete categories of transportation insecurity. Am J Epidemiol. 2023;192(11):1854-1863. doi:10.1093/aje/kwad14537365831 PMC10631295",
+      "doi": "10.1093/aje/kwad145",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Future studies would benefit from evaluating the intersection of geospatial distance to surgical care and transportation difficulties, which are a known barrier to timely access to care.[41],[42] Finally, while our study specifically aimed to evaluate timely access to emergency care, we were agnostic as to whether index facilities were the closest facility to the patient’s home, and capable of providing definitive surgical care for the patients’ condition.",
+      "citation_number": 42,
+      "ref_text": "Eder M, Henninger M, Durbin S, . Screening and interventions for social risk factors: technical brief to support the US Preventive Services Task Force. JAMA. 2021;326(14):1416-1428. doi:10.1001/jama.2021.1282534468710",
+      "doi": "10.1001/jama.2021.12825",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "While some work has suggested that patients lacking geospatial access to care may choose to bypass the closest facilities,[43] our results represent a pragmatic assessment of where patients received emergency care regardless of preference or proximity to other facilities and may better represent the current status of emergency care.",
+      "citation_number": 43,
+      "ref_text": "Han J, Wan N, Brewer SC, . Spatial access to Emergency General Surgery (EGS) services and EGS bypass behaviours in California. Ann GIS. 2023;29:75-85. doi:10.1080/19475683.2023.2165546",
+      "doi": "10.1080/19475683.2023.2165546",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    }
+  ]
+}

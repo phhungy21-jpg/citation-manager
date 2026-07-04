@@ -1,0 +1,765 @@
+{
+  "best_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2023-08-25",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehad193/51716381/ehad193.pdf",
+    "url_for_landing_page": "https://doi.org/10.1093/eurheartj/ehad193",
+    "url_for_pdf": "https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehad193/51716381/ehad193.pdf",
+    "version": "publishedVersion"
+  },
+  "data_standard": 2,
+  "doi": "10.1093/eurheartj/ehad193",
+  "doi_url": "https://doi.org/10.1093/eurheartj/ehad193",
+  "first_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2023-08-25",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehad193/51716381/ehad193.pdf",
+    "url_for_landing_page": "https://doi.org/10.1093/eurheartj/ehad193",
+    "url_for_pdf": "https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehad193/51716381/ehad193.pdf",
+    "version": "publishedVersion"
+  },
+  "genre": "journal-article",
+  "has_repository_copy": true,
+  "is_oa": true,
+  "is_paratext": false,
+  "journal_is_in_doaj": false,
+  "journal_is_oa": false,
+  "journal_issn_l": "0195-668X",
+  "journal_issns": "0195-668X,1522-9645",
+  "journal_name": "European Heart Journal",
+  "oa_locations": [
+    {
+      "endpoint_id": null,
+      "evidence": "deprecated",
+      "host_type": "publisher",
+      "is_best": true,
+      "license": null,
+      "oa_date": "2023-08-25",
+      "pmh_id": null,
+      "repository_institution": null,
+      "updated": "deprecated",
+      "url": "https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehad193/51716381/ehad193.pdf",
+      "url_for_landing_page": "https://doi.org/10.1093/eurheartj/ehad193",
+      "url_for_pdf": "https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehad193/51716381/ehad193.pdf",
+      "version": "publishedVersion"
+    },
+    {
+      "endpoint_id": null,
+      "evidence": "deprecated",
+      "host_type": null,
+      "is_best": false,
+      "license": "other-oa",
+      "oa_date": "2023-08-25",
+      "pmh_id": "oai:pure.atira.dk:publications/e42750ce-4ddd-4970-a54d-e1540f7c1ce1",
+      "repository_institution": null,
+      "updated": "deprecated",
+      "url": "https://pure.au.dk/portal/en/publications/e42750ce-4ddd-4970-a54d-e1540f7c1ce1",
+      "url_for_landing_page": "https://pure.au.dk/portal/en/publications/e42750ce-4ddd-4970-a54d-e1540f7c1ce1",
+      "url_for_pdf": null,
+      "version": "publishedVersion"
+    },
+    {
+      "endpoint_id": "43ec3b81887564776c7",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": "other-oa",
+      "oa_date": "2023-08-25",
+      "pmh_id": "oai:boa.unimib.it:10281/436142",
+      "repository_institution": "University of Milano-Bicocca",
+      "updated": "deprecated",
+      "url": "https://boa.unimib.it/bitstream/10281/436142/1/Delgado-2023-Eur%20Heart%20J-VoR.pdf",
+      "url_for_landing_page": "https://hdl.handle.net/10281/436142",
+      "url_for_pdf": "https://boa.unimib.it/bitstream/10281/436142/1/Delgado-2023-Eur%20Heart%20J-VoR.pdf",
+      "version": "submittedVersion"
+    },
+    {
+      "endpoint_id": "aeb030e0234929b4830",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": null,
+      "oa_date": "2023-08-25",
+      "pmh_id": "oai:scholarlypublications.universiteitleiden.nl:item_3722059",
+      "repository_institution": "Leiden University",
+      "updated": "deprecated",
+      "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3722060/view",
+      "url_for_landing_page": "https://hdl.handle.net/1887/3722059",
+      "url_for_pdf": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3722060/view",
+      "version": "submittedVersion"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "oa_status": "bronze",
+  "published_date": "2023-08-25",
+  "publisher": "Oxford University Press (OUP)",
+  "title": "2023 ESC Guidelines for the management of endocarditis",
+  "updated": "2026-03-04T09:23:25Z",
+  "year": 2023,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "(Spain)"
+      ],
+      "raw_author_name": "Victoria Delgado"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "(Netherlands)"
+      ],
+      "raw_author_name": "Nina Ajmone Marsan"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "(Germany)"
+      ],
+      "raw_author_name": "Suzanne de Waha"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Austria)"
+      ],
+      "raw_author_name": "Nikolaos Bonaros"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Croatia)"
+      ],
+      "raw_author_name": "Margarita Brida"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Switzerland)"
+      ],
+      "raw_author_name": "Haran Burri"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Switzerland)"
+      ],
+      "raw_author_name": "Stefano Caselli"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Germany)"
+      ],
+      "raw_author_name": "Torsten Doenst"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(France)"
+      ],
+      "raw_author_name": "Stephane Ederhy"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Italy)"
+      ],
+      "raw_author_name": "Paola Anna Erba"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Denmark)"
+      ],
+      "raw_author_name": "Dan Foldager"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Denmark)"
+      ],
+      "raw_author_name": "Emil L Fosbøl"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(United Kingdom)"
+      ],
+      "raw_author_name": "Jan Kovac"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(South Africa)"
+      ],
+      "raw_author_name": "Carlos A Mestres"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(United Kingdom)"
+      ],
+      "raw_author_name": "Owen I Miller"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Spain)"
+      ],
+      "raw_author_name": "Jose M Miro"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Czech Republic)"
+      ],
+      "raw_author_name": "Michal Pazdernik"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Spain)"
+      ],
+      "raw_author_name": "Maria Nazarena Pizzi"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Spain)"
+      ],
+      "raw_author_name": "Eduard Quintana"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Denmark)"
+      ],
+      "raw_author_name": "Trine Bernholdt Rasmussen"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Serbia)"
+      ],
+      "raw_author_name": "Arsen D Ristić"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Canada)"
+      ],
+      "raw_author_name": "Josep Rodés-Cabau"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(Spain)"
+      ],
+      "raw_author_name": "Alessandro Sionis"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "(South Africa)"
+      ],
+      "raw_author_name": "Liesl Joanna Zühlke"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "(Germany)"
+      ],
+      "raw_author_name": "Michael A Borger"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "ESC Scientific Document Group"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Bernard Iung"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Bernard Prendergast"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Magdy Abdelhamid"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Marianna Adamo"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Riccardo Asteggiano"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Larry M Baddour"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Jelena Čelutkienė"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "John Chambers"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Jean-Claude Deharo"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Wolfram Doehner"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Laura Dos Subira"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Xavier Duval"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Volkmar Falk"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Laurent Fauchier"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Nuria Fernandez-Hidalgo"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Christian Giske"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Anežka Gombošová"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Gilbert Habib"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Borja Ibanez"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Tiny Jaarsma"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Lars Køber"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Konstantinos C Koskinas"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Dipak Kotecha"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Ulf Landmesser"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Sandra B Lauck"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Basil S Lewis"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Maja-Lisa Løchen"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "John William McEvoy"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Borislava Mihaylova"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Richard Mindham"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Lis Neubeck"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Jens Cosedis Nielsen"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Jean-François Obadia"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Agnes A Pasquet"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Steffen Petersen"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Eva Prescott"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Susanna Price"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Amina Rakisheva"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Archana Rao"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "François Rouzet"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Jonathan Sandoe"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Renate B Schnabel"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Christine Selton-Suty"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Lars Sondergaard"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Martin Thornhill"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Konstantinos Toutouzas"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Nico Van de Veire"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Isidre Vilacosta"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Christiaan Vrints"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Olaf Wendler"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Yasmina Benchabi"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Aram Chilingaryan"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Sebastian J Reinstadler"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Fuad Samadov"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Bernard Paelinck"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Zumreta Kušljugić"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Elena Kinova"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Maja Cikes"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Ioannis Michaloliakos"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Martin Mates"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Jonas Agerlund Povlsen"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Mohammad Abdelghani"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Liisi Küünal-Arge"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Helena Rajala"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Christine Selton-Suty"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Zurab Pagava"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Marcus Franz"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Alexandros Patrianakos"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Judit Barta"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Þórdís Jóna Hrafnkelsdóttir"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "David Moore"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Katia Orvin"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Fabrizio Oliva"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [],
+      "raw_author_name": "Gyulnar Zhussupova"
+    }
+  ]
+}

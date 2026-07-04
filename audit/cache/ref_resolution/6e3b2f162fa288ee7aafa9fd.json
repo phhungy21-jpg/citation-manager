@@ -1,0 +1,647 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          15
+        ]
+      ],
+      "date-time": "2026-06-15T13:51:12Z",
+      "timestamp": 1781531472429,
+      "version": "3.54.5"
+    },
+    "reference-count": 0,
+    "publisher": "World Bank, Washington, DC",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "DOI": "10.1596/12813",
+    "type": "book",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          7
+        ]
+      ],
+      "date-time": "2025-05-07T09:03:18Z",
+      "timestamp": 1746608598000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Payment Systems Worldwide - A Snapshot : Outcomes of the Global Payment Systems Survey 2010"
+    ],
+    "prefix": "10.1596",
+    "author": [
+      {
+        "name": "World Bank",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "558",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          3,
+          21
+        ]
+      ]
+    },
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          7
+        ]
+      ],
+      "date-time": "2025-05-07T09:03:18Z",
+      "timestamp": 1746608598000
+    },
+    "score": 42.347855,
+    "resource": {
+      "primary": {
+        "URL": "https://hdl.handle.net/10986/12813"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1596/12813",
+    "published": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2026-03-12T04:50:05Z",
+      "timestamp": 1773291005579,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "World Bank, Washington, DC",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": "10.1596/25187",
+    "type": "book",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2016-10-27T22:23:47Z",
+      "timestamp": 1477607027000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 22,
+    "title": [
+      "Measuring Rural Access"
+    ],
+    "prefix": "10.1596",
+    "author": [
+      {
+        "name": "World Bank Group",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "558",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          18
+        ]
+      ]
+    },
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          9
+        ]
+      ],
+      "date-time": "2024-10-09T07:29:28Z",
+      "timestamp": 1728458968000
+    },
+    "score": 42.299747,
+    "resource": {
+      "primary": {
+        "URL": "https://hdl.handle.net/10986/25187"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1596/25187",
+    "published": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T00:32:02Z",
+      "timestamp": 1648773122383
+    },
+    "reference-count": 7,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2008-07-01T00:00:00Z",
+          "timestamp": 1214870400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "ATZ Elektron Worldw"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1007/bf03242182",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          19
+        ]
+      ],
+      "date-time": "2018-09-19T22:00:13Z",
+      "timestamp": 1537394413000
+    },
+    "page": "24-29",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Compatible measuring systems"
+    ],
+    "prefix": "10.1007",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Dieter",
+        "family": "Barz",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Reinhard",
+        "family": "Drews",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "BF03242182_CR1",
+        "unstructured": "CORRSYS-DATRON GmbH, Charlotte-Bamberg-Str. 1, D-35578 Wetzlar, \n                    http://www.corrsys-datron.de"
+      },
+      {
+        "key": "BF03242182_CR2",
+        "unstructured": "GeneSys Elektronik GmbH, In der Spöck 10, D-77656 Offenburg, \n                    http://www.genesys-offenburg.de"
+      },
+      {
+        "key": "BF03242182_CR3",
+        "unstructured": "Kistler Instrumente AG, Eulachstr. 22, CH-8408 Winterthur, \n                    http://www.kistler.com"
+      },
+      {
+        "key": "BF03242182_CR4",
+        "unstructured": "TÜV SÜD Automotive GmbH, Daimlerstr. 11, D-85748 Garching, \n                    http://www.tuev-sued.de/fahrwerk"
+      },
+      {
+        "key": "BF03242182_CR5",
+        "unstructured": "Dewetron Ges.m.b.H., Parkring 4, A-8074 Graz-Grambach, \n                    http://www.dewetron.com"
+      },
+      {
+        "key": "BF03242182_CR6",
+        "first-page": "606",
+        "volume-title": "Handbuch Kraftfahrzeugtechnik",
+        "author": "Braess/Seiffert",
+        "year": "2007",
+        "unstructured": "Braess/Seiffert: Handbuch Kraftfahrzeugtechnik, Vieweg, 2007,p. 606–612"
+      },
+      {
+        "key": "BF03242182_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "142",
+        "DOI": "10.1007/978-3-8348-9151-8",
+        "volume-title": "Fahrwerk-Handbuch",
+        "author": "Heißing/Ersoy",
+        "year": "2007",
+        "unstructured": "Heißing/Ersoy: Fahrwerk-Handbuch, Vieweg, 2007, p. 142–144"
+      }
+    ],
+    "container-title": [
+      "ATZelektronik worldwide"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/BF03242182.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/BF03242182/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/BF03242182.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/BF03242182",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          22
+        ]
+      ],
+      "date-time": "2019-05-22T05:03:22Z",
+      "timestamp": 1558501402000
+    },
+    "score": 41.41578,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/BF03242182"
+      }
+    },
+    "subtitle": [
+      "Synchronous measuring of different driving dynamics tasks"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          7
+        ]
+      ]
+    },
+    "references-count": 7,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "BF03242182"
+    ],
+    "URL": "https://doi.org/10.1007/bf03242182",
+    "ISSN": [
+      "2192-9092"
+    ],
+    "issn-type": [
+      {
+        "value": "2192-9092",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          31
+        ]
+      ],
+      "date-time": "2025-10-31T07:40:18Z",
+      "timestamp": 1761896418165
+    },
+    "reference-count": 6,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2002,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2002-06-01T00:00:00Z",
+          "timestamp": 1022889600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "ATZ Worldw"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2002,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1007/bf03225167",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          16
+        ]
+      ],
+      "date-time": "2016-11-16T21:47:49Z",
+      "timestamp": 1479332869000
+    },
+    "page": "17-20",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Inertial measuring systems with fibre-optic gyroscopes"
+    ],
+    "prefix": "10.1007",
+    "volume": "104",
+    "author": [
+      {
+        "given": "Edgar",
+        "family": "von Hinüber",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "BF03225167_CR1",
+        "unstructured": "v. Hinüber, E.; Janocha, H.: Inertiales Messsystem in Strapdown-Technik für Kraftfahrzeug-Anwendungen. In: Proceedings SENSOR’ 93, Nürnberg 1993"
+      },
+      {
+        "key": "BF03225167_CR2",
+        "first-page": "30ff",
+        "volume": "97",
+        "author": "E. Hinüber v.",
+        "year": "1995",
+        "unstructured": "v. Hinüber, E.; Janocha, H.: Leistungspotenzial moderner inertialer Messsysteme. In: ATZ 97 (1995) 1, S. 30ff",
+        "journal-title": "ATZ worldwide"
+      },
+      {
+        "key": "BF03225167_CR3",
+        "unstructured": "v. Hinüber, E.; Kühl, B.: Faserkreisel für Industrieanwendungen. In: Sensor-Technik Heft 10/1997, S. 45–47"
+      },
+      {
+        "key": "BF03225167_CR4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gevatter, H.-J. (Hrsg); v. Hinüber, E. u.a.: Handbuch der Mess- und Automatisierungstechnik. Springer, 1999, S. 99ff",
+        "DOI": "10.1007/978-3-662-07701-6"
+      },
+      {
+        "key": "BF03225167_CR5",
+        "first-page": "410ff",
+        "volume": "102",
+        "author": "D. u.a. Apold",
+        "year": "2000",
+        "unstructured": "Apold, D. u.a.: Mobile Ermittlung von topologischen Straßendaten für dynamische Prüfstandsversuche und Rechnersimulationen. In: ATZ 102 (2000) 6, S. 410ff",
+        "journal-title": "ATZ worldwide"
+      },
+      {
+        "key": "BF03225167_CR6",
+        "unstructured": "v. Hinüber, E.: New Approaches in High-Performance Navigation Solutions for AUVs. In: Underwater Magazine, Dec. 2001"
+      }
+    ],
+    "container-title": [
+      "ATZ worldwide"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/BF03225167.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/BF03225167/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/BF03225167.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/BF03225167",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          9,
+          15
+        ]
+      ],
+      "date-time": "2019-09-15T13:30:50Z",
+      "timestamp": 1568554250000
+    },
+    "score": 39.275356,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/BF03225167"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          6
+        ]
+      ]
+    },
+    "references-count": 6,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2002,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "BF03225167"
+    ],
+    "URL": "https://doi.org/10.1007/bf03225167",
+    "ISSN": [
+      "2192-9076"
+    ],
+    "issn-type": [
+      {
+        "value": "2192-9076",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2002,
+          6
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "best_oa_location": null,
+  "data_standard": 2,
+  "doi": "10.1007/s15010-020-01402-x",
+  "doi_url": "https://doi.org/10.1007/s15010-020-01402-x",
+  "first_oa_location": null,
+  "genre": "journal-article",
+  "has_repository_copy": false,
+  "is_oa": false,
+  "is_paratext": false,
+  "journal_is_in_doaj": false,
+  "journal_is_oa": false,
+  "journal_issn_l": "0300-8126",
+  "journal_issns": "0300-8126,1439-0973",
+  "journal_name": "Infection",
+  "oa_locations": [],
+  "oa_locations_embargoed": [],
+  "oa_status": "closed",
+  "published_date": "2020-02-25",
+  "publisher": "Springer Science and Business Media LLC",
+  "title": "Left-sided infective endocarditis in persons who inject drugs",
+  "updated": "2025-05-22T18:42:22Z",
+  "year": 2020,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Wake Forest Baptist Health, Winston-Salem, NC, 27157, USA"
+      ],
+      "raw_author_name": "Glen Huang"
+    },
+    {
+      "author_position": "additional",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Pharmacy, Wake Forest Baptist Health, Winston-Salem, NC, 27157, USA"
+      ],
+      "raw_author_name": "Kyle A. Davis"
+    },
+    {
+      "author_position": "additional",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Sections On Cardiology, Wake Forest Baptist Health, Winston-Salem, NC, 27157, USA"
+      ],
+      "raw_author_name": "S. Allan Petty"
+    },
+    {
+      "author_position": "additional",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Wake Forest Baptist Health, Winston-Salem, NC, 27157, USA",
+        "Sections On Cardiology, Wake Forest Baptist Health, Winston-Salem, NC, 27157, USA"
+      ],
+      "raw_author_name": "Walter A. Tan"
+    },
+    {
+      "author_position": "additional",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Wake Forest Baptist Health, Winston-Salem, NC, 27157, USA",
+        "Infectious Diseases, Wake Forest Baptist Health, Winston-Salem, NC, 27157, USA"
+      ],
+      "raw_author_name": "Erin W. Barnes"
+    },
+    {
+      "author_position": "last",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Internal Medicine, Wake Forest Baptist Health, Winston-Salem, NC, 27157, USA",
+        "Infectious Diseases, Wake Forest Baptist Health, Winston-Salem, NC, 27157, USA"
+      ],
+      "raw_author_name": "James E. Peacock"
+    }
+  ]
+}

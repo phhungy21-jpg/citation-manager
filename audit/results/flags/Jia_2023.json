@@ -1,0 +1,541 @@
+{
+  "paper": "Jia 2023.md",
+  "source_file": "..\\TEMP\\Jia 2023.md",
+  "generated": "2026-07-01T06:57:22.333312+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "unresolved_reference": 3,
+    "dry_run_skipped": 54
+  },
+  "flagged": [
+    {
+      "sentence": "Radical prostatectomy (RP) is one of the most common treatments for localised and locally advanced prostate cancer (PCa) as it provides excellent oncological results [1].",
+      "citation_number": 1,
+      "ref_text": "Moris L, Cumberbatch MG, Van den Broeck T et al. Benefits and risks of primary treatments for high-risk localized and locally advanced prostate cancer: An international multidisciplinary systematic review. Eur Urol 2020; 77: 614–27",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.eururo.2020.07.031",
+        "title": "Re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false,
+        "rejected_reason": "commentary_article_title"
+      }
+    },
+    {
+      "sentence": "Notably, nerve-sparing was performed according to the preoperative risk stratification (low- to intermediate-risk PCa based on the European Association of Urology [EAU] risk group classification) [16].",
+      "citation_number": 16,
+      "ref_text": "Mottet N, Bellmunt J, Bolla M et al. EAU-ESTRO-SIOG guidelines on prostate cancer. Part 1: Screening, diagnosis, and local treatment with curative intent. Eur Urol 2017; 71: 618–29",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.eururo.2021.02.005",
+        "title": "Re: Nicolas Mottet, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer—2020 Update. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2021;79:243–62",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false,
+        "rejected_reason": "commentary_article_title"
+      }
+    },
+    {
+      "sentence": "Although we noted that bladder neck reconstruction, as reported by other studies, resulted in early UC recovery with a 3-month continence rate reaching 60%–69% [10,24], these results require additional high-level evidence.",
+      "citation_number": 24,
+      "ref_text": "Izadpanahi MH, Honarmand R, Khorrami MH, Najarzadegan MR, Sichani MM, Alizadeh F. A comparison of bladder neck preservation and bladder neck reconstruction for urinary incontinence after radical retro pubic prostatectomy. J Res Med Sci 2014; 19: 1140–4",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.4103/uros.uros_12_22",
+        "title": "Single Session Pre-Operative Pelvic Floor Muscle Training with Biofeedback on Urinary Incontinence and Quality of Life after Radical Prostatectomy",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.31,
+        "confident": false
+      }
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "Radical prostatectomy (RP) is one of the most common treatments for localised and locally advanced prostate cancer (PCa) as it provides excellent oncological results [1].",
+      "citation_number": 1,
+      "ref_text": "Moris L, Cumberbatch MG, Van den Broeck T et al. Benefits and risks of primary treatments for high-risk localized and locally advanced prostate cancer: An international multidisciplinary systematic review. Eur Urol 2020; 77: 614–27",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.eururo.2020.07.031",
+        "title": "Re: Lisa Moris, Marcus G. Cumberbatch, Thomas Van den Broeck, et al. Benefits and Risks of Primary Treatments for High-risk Localized and Locally Advanced Prostate Cancer: An International Multidisciplinary Systematic Review. Eur Urol 2020;77:614–27",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false,
+        "rejected_reason": "commentary_article_title"
+      }
+    },
+    {
+      "sentence": "However, functional outcomes, especially urinary continence (UC), markedly affect the quality of life (QoL) of patients [2,3].",
+      "citation_number": 2,
+      "ref_text": "Ficarra V, Novara G, Rosen RC et al. Systematic review and metaanalysis of studies reporting urinary continence recovery after robotassisted radical prostatectomy. Eur Urol 2012; 62: 405–17",
+      "doi": "10.1016/j.eururo.2012.05.045",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "However, functional outcomes, especially urinary continence (UC), markedly affect the quality of life (QoL) of patients [2,3].",
+      "citation_number": 3,
+      "ref_text": "Dalela D, Jeong W, Prasad MA et al. A pragmatic randomized controlled trial examining the impact of the Retzius-sparing approach on early urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol 2017; 72: 677–85",
+      "doi": "10.1016/j.eururo.2017.04.029",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "BJU International SFUR improves early UC after RARP Postoperative urinary incontinence is directly associated with damage to anatomical structures related to UC, such as urethral supporting structures, urethral sphincter complex, and its innervations [4], and the surgical technique is believed to be the only modifiable parameter compared with multiple patient-wise factors [5].",
+      "citation_number": 4,
+      "ref_text": "Walz J, Epstein JI, Ganzer R et al. A critical analysis of the current knowledge of surgical anatomy of the prostate related to optimisation of cancer control and preservation of continence and erection in candidates for radical prostatectomy: An update. Eur Urol 2016; 70: 301–11",
+      "doi": "10.1016/j.eururo.2016.01.026",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "BJU International SFUR improves early UC after RARP Postoperative urinary incontinence is directly associated with damage to anatomical structures related to UC, such as urethral supporting structures, urethral sphincter complex, and its innervations [4], and the surgical technique is believed to be the only modifiable parameter compared with multiple patient-wise factors [5].",
+      "citation_number": 5,
+      "ref_text": "Sridhar AN, Abozaid M, Rajan P et al. Surgical techniques to optimize early urinary continence recovery post robot assisted radical prostatectomy for prostate cancer. Curr Urol Rep 2017; 18: 71",
+      "doi": "10.1007/s11934-017-0717-4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "With the increasing utilisation of robotic techniques and accumulation of surgical experience, the 1-year UC recovery rates could reach >90% [2].",
+      "citation_number": 2,
+      "ref_text": "Ficarra V, Novara G, Rosen RC et al. Systematic review and metaanalysis of studies reporting urinary continence recovery after robotassisted radical prostatectomy. Eur Urol 2012; 62: 405–17",
+      "doi": "10.1016/j.eururo.2012.05.045",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Nevertheless, early UC recovery rates after standard RP are typically much lower and vary widely in the literature (26%– 51% at 3 months after RP) [2].",
+      "citation_number": 2,
+      "ref_text": "Ficarra V, Novara G, Rosen RC et al. Systematic review and metaanalysis of studies reporting urinary continence recovery after robotassisted radical prostatectomy. Eur Urol 2012; 62: 405–17",
+      "doi": "10.1016/j.eururo.2012.05.045",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "To address this problem, novel surgical techniques have been introduced to facilitate UC recovery and can be broadly divided in two categories: preservation and reconstruction [5].",
+      "citation_number": 5,
+      "ref_text": "Sridhar AN, Abozaid M, Rajan P et al. Surgical techniques to optimize early urinary continence recovery post robot assisted radical prostatectomy for prostate cancer. Curr Urol Rep 2017; 18: 71",
+      "doi": "10.1007/s11934-017-0717-4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Preservation includes bladder neck preservation [6], full functional-length urethra preservation [7], Retzius-sparing approach [3], fascia preservation [8] and nerve-sparing [9]; whereas reconstruction includes bladder neck reconstruction [10] and posterior, anterior, and total reconstruction [11,12].",
+      "citation_number": 3,
+      "ref_text": "Dalela D, Jeong W, Prasad MA et al. A pragmatic randomized controlled trial examining the impact of the Retzius-sparing approach on early urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol 2017; 72: 677–85",
+      "doi": "10.1016/j.eururo.2017.04.029",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Preservation includes bladder neck preservation [6], full functional-length urethra preservation [7], Retzius-sparing approach [3], fascia preservation [8] and nerve-sparing [9]; whereas reconstruction includes bladder neck reconstruction [10] and posterior, anterior, and total reconstruction [11,12].",
+      "citation_number": 6,
+      "ref_text": "Nyarangi-Dix JN, Radtke JP, Hadaschik B, Pahernik S, Hohenfellner M. Impact of complete bladder neck preservation on urinary continence, quality of life and surgical margins after radical prostatectomy: A randomized, controlled, single blind trial. J Urol 2013; 189: 891–8",
+      "doi": "10.1016/j.juro.2012.09.082",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Preservation includes bladder neck preservation [6], full functional-length urethra preservation [7], Retzius-sparing approach [3], fascia preservation [8] and nerve-sparing [9]; whereas reconstruction includes bladder neck reconstruction [10] and posterior, anterior, and total reconstruction [11,12].",
+      "citation_number": 7,
+      "ref_text": "Schlomm T, Heinzer H, Steuber T et al. Full functional-length urethral sphincter preservation during radical prostatectomy. Eur Urol 2011; 60: 320–9",
+      "doi": "10.1016/j.eururo.2011.02.040",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Preservation includes bladder neck preservation [6], full functional-length urethra preservation [7], Retzius-sparing approach [3], fascia preservation [8] and nerve-sparing [9]; whereas reconstruction includes bladder neck reconstruction [10] and posterior, anterior, and total reconstruction [11,12].",
+      "citation_number": 8,
+      "ref_text": "van der Poel HG, de Blok W, Joshi N, van Muilekom E. Preservation of lateral prostatic fascia is associated with urine continence after roboticassisted prostatectomy. Eur Urol 2009; 55: 892–900",
+      "doi": "10.1016/j.eururo.2009.01.021",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Preservation includes bladder neck preservation [6], full functional-length urethra preservation [7], Retzius-sparing approach [3], fascia preservation [8] and nerve-sparing [9]; whereas reconstruction includes bladder neck reconstruction [10] and posterior, anterior, and total reconstruction [11,12].",
+      "citation_number": 9,
+      "ref_text": "Reeves F, Preece P, Kapoor J et al. Preservation of the neurovascular bundles is associated with improved time to continence after radical prostatectomy but not long-term continence rates: Results of a systematic review and meta-analysis. Eur Urol 2015; 68: 692–704",
+      "doi": "10.1016/j.eururo.2014.10.020",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Preservation includes bladder neck preservation [6], full functional-length urethra preservation [7], Retzius-sparing approach [3], fascia preservation [8] and nerve-sparing [9]; whereas reconstruction includes bladder neck reconstruction [10] and posterior, anterior, and total reconstruction [11,12].",
+      "citation_number": 10,
+      "ref_text": "Seaman EK, Benson MC. Improved continence with tubularized bladder neck reconstruction following radical retropubic prostatectomy. Urology 1996; 47: 532–5",
+      "doi": "10.1016/s0090-4295(99)80490-7",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Preservation includes bladder neck preservation [6], full functional-length urethra preservation [7], Retzius-sparing approach [3], fascia preservation [8] and nerve-sparing [9]; whereas reconstruction includes bladder neck reconstruction [10] and posterior, anterior, and total reconstruction [11,12].",
+      "citation_number": 11,
+      "ref_text": "Manfredi M, Checcucci E, Fiori C et al. Total anatomical reconstruction during robot-assisted radical prostatectomy: Focus on urinary continence recovery and related complications after 1000 procedures. BJU Int 2019; 124: 477–86",
+      "doi": "10.1111/bju.14716",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Preservation includes bladder neck preservation [6], full functional-length urethra preservation [7], Retzius-sparing approach [3], fascia preservation [8] and nerve-sparing [9]; whereas reconstruction includes bladder neck reconstruction [10] and posterior, anterior, and total reconstruction [11,12].",
+      "citation_number": 12,
+      "ref_text": "Checcucci E, Pecoraro A, Cillis DES et al. The importance of anatomical reconstruction for continence recovery after robot assisted radical prostatectomy: A systematic review and pooled analysis from referral centers. Minerva Urol Nephrol 2021; 73: 165–77",
+      "doi": "10.23736/s2724-6051.20.04146-6",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "However, most of the surgical techniques are only indicated for specific subpopulations, and early UC recovery for those with high-risk disease, a large prostate, or tumours located at the base of the prostate remains unclear [3,13].",
+      "citation_number": 3,
+      "ref_text": "Dalela D, Jeong W, Prasad MA et al. A pragmatic randomized controlled trial examining the impact of the Retzius-sparing approach on early urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol 2017; 72: 677–85",
+      "doi": "10.1016/j.eururo.2017.04.029",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "However, most of the surgical techniques are only indicated for specific subpopulations, and early UC recovery for those with high-risk disease, a large prostate, or tumours located at the base of the prostate remains unclear [3,13].",
+      "citation_number": 13,
+      "ref_text": "Bellangino M, Verrill C, Leslie T, Bell RW, Hamdy FC, Lamb AD. Systematic review of studies reporting positive surgical margins after bladder neck sparing radical prostatectomy. Curr Urol Rep 2017; 18: 99",
+      "doi": "10.1007/s11934-017-0745-0",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Featuring tubular bladder neck reconstruction and periurethral peritoneal flap reinforcement, patient-reported outcomes and follow-up radiological results of the initial retrospective study indicated that SFUR markedly improved early UC recovery rates while having comparable operative times and comorbidities [14].",
+      "citation_number": 14,
+      "ref_text": "Jia Z, Chang Y, Wang Y et al. Sustainable functional urethral reconstruction: Maximizing early continence recovery in robotic-assisted radical prostatectomy. Asian J Urol 2021; 8: 126–33",
+      "doi": "10.1016/j.ajur.2020.01.003",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Determination of sample size was based on the observed 1- month UC recovery rates of 62.3% and 27.5% in the SFUR and standard groups, respectively, in our previous retrospective study [14].",
+      "citation_number": 14,
+      "ref_text": "Jia Z, Chang Y, Wang Y et al. Sustainable functional urethral reconstruction: Maximizing early continence recovery in robotic-assisted radical prostatectomy. Asian J Urol 2021; 8: 126–33",
+      "doi": "10.1016/j.ajur.2020.01.003",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Randomisation was stratified by nerve-sparing procedures (yes vs no) considering that they were statistically relevant with better UC recovery in the retrospective study [14].",
+      "citation_number": 14,
+      "ref_text": "Jia Z, Chang Y, Wang Y et al. Sustainable functional urethral reconstruction: Maximizing early continence recovery in robotic-assisted radical prostatectomy. Asian J Urol 2021; 8: 126–33",
+      "doi": "10.1016/j.ajur.2020.01.003",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The surgical techniques in the standard group were conventional RARP procedures similar to those described previously [15].",
+      "citation_number": 15,
+      "ref_text": "Ghani KR, Trinh QD, Menon M. Vattikuti institute prostatectomytechnique in 2012. J Endourol 2012; 26: 1558–65",
+      "doi": "10.1089/end.2012.0455",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The detailed procedures of the SFUR technique have been described previously [14].",
+      "citation_number": 14,
+      "ref_text": "Jia Z, Chang Y, Wang Y et al. Sustainable functional urethral reconstruction: Maximizing early continence recovery in robotic-assisted radical prostatectomy. Asian J Urol 2021; 8: 126–33",
+      "doi": "10.1016/j.ajur.2020.01.003",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Notably, nerve-sparing was performed according to the preoperative risk stratification (low- to intermediate-risk PCa based on the European Association of Urology [EAU] risk group classification) [16].",
+      "citation_number": 16,
+      "ref_text": "Mottet N, Bellmunt J, Bolla M et al. EAU-ESTRO-SIOG guidelines on prostate cancer. Part 1: Screening, diagnosis, and local treatment with curative intent. Eur Urol 2017; 71: 618–29",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.eururo.2021.02.005",
+        "title": "Re: Nicolas Mottet, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer—2020 Update. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2021;79:243–62",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false,
+        "rejected_reason": "commentary_article_title"
+      }
+    },
+    {
+      "sentence": "Urinary outcomes were assessed by the number of pads per day and 24-h pad weight gain for more accurate quantification of urine leakage [17].",
+      "citation_number": 17,
+      "ref_text": "Tsui JF, Shah MB, Weinberger JM et al. Pad count is a poor measure of the severity of urinary incontinence. J Urol 2013; 190: 1787–90",
+      "doi": "10.1016/j.juro.2013.05.055",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Early UC recovery is increasingly being considered as an essential and integral part of postoperative rehabilitation after RP [18].",
+      "citation_number": 18,
+      "ref_text": "Patel VR, Sivaraman A, Coelho RF et al. Pentafecta: A new concept for reporting outcomes of robot-assisted laparoscopic radical prostatectomy. Eur Urol 2011; 59: 702–7",
+      "doi": "10.1016/j.eururo.2011.01.032",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Despite the advancements in surgical techniques, early UC recovery after conventional RARP remains BJU International unsatisfactory [2].",
+      "citation_number": 2,
+      "ref_text": "Ficarra V, Novara G, Rosen RC et al. Systematic review and metaanalysis of studies reporting urinary continence recovery after robotassisted radical prostatectomy. Eur Urol 2012; 62: 405–17",
+      "doi": "10.1016/j.eururo.2012.05.045",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "As research continues to explore mechanisms of male continence [4], novel surgical techniques and approaches have been developed.",
+      "citation_number": 4,
+      "ref_text": "Walz J, Epstein JI, Ganzer R et al. A critical analysis of the current knowledge of surgical anatomy of the prostate related to optimisation of cancer control and preservation of continence and erection in candidates for radical prostatectomy: An update. Eur Urol 2016; 70: 301–11",
+      "doi": "10.1016/j.eururo.2016.01.026",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The Retzius-sparing or posterior approach, which is a novel RARP technique aimed at preserving the anatomical integrity of the anterior compartment, was shown to result in early UC recovery in several prospective studies [3,19].",
+      "citation_number": 3,
+      "ref_text": "Dalela D, Jeong W, Prasad MA et al. A pragmatic randomized controlled trial examining the impact of the Retzius-sparing approach on early urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol 2017; 72: 677–85",
+      "doi": "10.1016/j.eururo.2017.04.029",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The Retzius-sparing or posterior approach, which is a novel RARP technique aimed at preserving the anatomical integrity of the anterior compartment, was shown to result in early UC recovery in several prospective studies [3,19].",
+      "citation_number": 19,
+      "ref_text": "Qiu X, Li Y, Chen M et al. Retzius-sparing robot-assisted radical prostatectomy improves early recovery of urinary continence: A randomized, controlled, single-blind trial with a 1-year follow-up. BJU Int 2020; 126: 633–40",
+      "doi": "10.1111/bju.15195",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Moreover, the ‘hood technique’, which preserves the anterior prostatic–urethral support structures through the anterior approach, also resulted in excellent early urinary outcomes [20].",
+      "citation_number": 20,
+      "ref_text": "Wagaskar VG, Mittal A, Sobotka S et al. Hood technique for robotic radical prostatectomy-preserving Periurethral anatomical structures in the space of Retzius and sparing the pouch of Douglas, enabling early return of continence without compromising surgical margin rates. Eur Urol 2021; 80: 213–21",
+      "doi": "10.1016/j.eururo.2020.09.044",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Considering the broad applicability and satisfactory urinary outcomes of SFUR in a retrospective study [14], we designed a prospective RCT to further assess the impact of SFUR on short-term (≤3 months) UC recovery.",
+      "citation_number": 14,
+      "ref_text": "Jia Z, Chang Y, Wang Y et al. Sustainable functional urethral reconstruction: Maximizing early continence recovery in robotic-assisted radical prostatectomy. Asian J Urol 2021; 8: 126–33",
+      "doi": "10.1016/j.ajur.2020.01.003",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We noted that the 1-month UC recovery rate increased from 49% to 73% after SFUR-RARP, which was confirmed by the conservative intent-to-treat analysis and is consistent with the result of our previous study [14].",
+      "citation_number": 14,
+      "ref_text": "Jia Z, Chang Y, Wang Y et al. Sustainable functional urethral reconstruction: Maximizing early continence recovery in robotic-assisted radical prostatectomy. Asian J Urol 2021; 8: 126–33",
+      "doi": "10.1016/j.ajur.2020.01.003",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[21], our data showed the same conclusion even when continence was defined as 0 pads/day.",
+      "citation_number": 21,
+      "ref_text": "Salazar A, Regis L, Planas J et al. A randomised controlled trial to assess the benefit of posterior Rhabdosphincter reconstruction in early urinary BJU International continence recovery after robot-assisted radical prostatectomy. Eur Urol Oncol 2022; 5: 460–3",
+      "doi": "10.1016/j.euo.2021.02.005",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Moreover, we quantified the continence outcomes using the 24-h pad weight due to its higher accuracy as shown in prior studies [3,6].",
+      "citation_number": 3,
+      "ref_text": "Dalela D, Jeong W, Prasad MA et al. A pragmatic randomized controlled trial examining the impact of the Retzius-sparing approach on early urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol 2017; 72: 677–85",
+      "doi": "10.1016/j.eururo.2017.04.029",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Moreover, we quantified the continence outcomes using the 24-h pad weight due to its higher accuracy as shown in prior studies [3,6].",
+      "citation_number": 6,
+      "ref_text": "Nyarangi-Dix JN, Radtke JP, Hadaschik B, Pahernik S, Hohenfellner M. Impact of complete bladder neck preservation on urinary continence, quality of life and surgical margins after radical prostatectomy: A randomized, controlled, single blind trial. J Urol 2013; 189: 891–8",
+      "doi": "10.1016/j.juro.2012.09.082",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "First, similar to full functional length urethra preservation [7] and bladder neck-sparing technique [6], reshaping the anterior lip of the bladder into a tube creates an adequate length for a tubular functional urethra and relieves anastomotic tension.",
+      "citation_number": 6,
+      "ref_text": "Nyarangi-Dix JN, Radtke JP, Hadaschik B, Pahernik S, Hohenfellner M. Impact of complete bladder neck preservation on urinary continence, quality of life and surgical margins after radical prostatectomy: A randomized, controlled, single blind trial. J Urol 2013; 189: 891–8",
+      "doi": "10.1016/j.juro.2012.09.082",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "First, similar to full functional length urethra preservation [7] and bladder neck-sparing technique [6], reshaping the anterior lip of the bladder into a tube creates an adequate length for a tubular functional urethra and relieves anastomotic tension.",
+      "citation_number": 7,
+      "ref_text": "Schlomm T, Heinzer H, Steuber T et al. Full functional-length urethral sphincter preservation during radical prostatectomy. Eur Urol 2011; 60: 320–9",
+      "doi": "10.1016/j.eururo.2011.02.040",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Besides, the utility of a peritoneal flap can also reduce the incidence of postoperative lymphoceles and the frequency of symptomatic lymphoceles [22].",
+      "citation_number": 22,
+      "ref_text": "Gloger S, Ubrig B, Boy A et al. Bilateral peritoneal flaps reduce incidence and complications of lymphoceles after robotic radical prostatectomy with pelvic lymph node dissection-results of the prospective randomized multicenter trial ProLy. J Urol 2022; 208: 333–40",
+      "doi": "10.1097/ju.0000000000002693",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Bladder neck preservation has received increasing attention considering the value of the proximal urethral sphincter in continence [4].",
+      "citation_number": 4,
+      "ref_text": "Walz J, Epstein JI, Ganzer R et al. A critical analysis of the current knowledge of surgical anatomy of the prostate related to optimisation of cancer control and preservation of continence and erection in candidates for radical prostatectomy: An update. Eur Urol 2016; 70: 301–11",
+      "doi": "10.1016/j.eururo.2016.01.026",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[6], bladder neck preservation increased the 3-month continence rate from 55% to 84%.",
+      "citation_number": 6,
+      "ref_text": "Nyarangi-Dix JN, Radtke JP, Hadaschik B, Pahernik S, Hohenfellner M. Impact of complete bladder neck preservation on urinary continence, quality of life and surgical margins after radical prostatectomy: A randomized, controlled, single blind trial. J Urol 2013; 189: 891–8",
+      "doi": "10.1016/j.juro.2012.09.082",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[23] even suggested that it was the preservation of the bladder neck rather than the Retzius space that led to early continence recovery for patients who underwent Retziussparing RP.",
+      "citation_number": 23,
+      "ref_text": "Sood A, Grauer R, Jeong W et al. Evaluating post radical prostatectomy mechanisms of early continence. Prostate 2022; 82: 1186–95",
+      "doi": "10.1002/pros.24371",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Although we noted that bladder neck reconstruction, as reported by other studies, resulted in early UC recovery with a 3-month continence rate reaching 60%–69% [10,24], these results require additional high-level evidence.",
+      "citation_number": 10,
+      "ref_text": "Seaman EK, Benson MC. Improved continence with tubularized bladder neck reconstruction following radical retropubic prostatectomy. Urology 1996; 47: 532–5",
+      "doi": "10.1016/s0090-4295(99)80490-7",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Although we noted that bladder neck reconstruction, as reported by other studies, resulted in early UC recovery with a 3-month continence rate reaching 60%–69% [10,24], these results require additional high-level evidence.",
+      "citation_number": 24,
+      "ref_text": "Izadpanahi MH, Honarmand R, Khorrami MH, Najarzadegan MR, Sichani MM, Alizadeh F. A comparison of bladder neck preservation and bladder neck reconstruction for urinary incontinence after radical retro pubic prostatectomy. J Res Med Sci 2014; 19: 1140–4",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.4103/uros.uros_12_22",
+        "title": "Single Session Pre-Operative Pelvic Floor Muscle Training with Biofeedback on Urinary Incontinence and Quality of Life after Radical Prostatectomy",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.31,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Additionally, various reconstruction techniques, including anterior, posterior, and total reconstruction, have been introduced [12].",
+      "citation_number": 12,
+      "ref_text": "Checcucci E, Pecoraro A, Cillis DES et al. The importance of anatomical reconstruction for continence recovery after robot assisted radical prostatectomy: A systematic review and pooled analysis from referral centers. Minerva Urol Nephrol 2021; 73: 165–77",
+      "doi": "10.23736/s2724-6051.20.04146-6",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[11], conferred excellent results for early continence recovery in a large population.",
+      "citation_number": 11,
+      "ref_text": "Manfredi M, Checcucci E, Fiori C et al. Total anatomical reconstruction during robot-assisted radical prostatectomy: Focus on urinary continence recovery and related complications after 1000 procedures. BJU Int 2019; 124: 477–86",
+      "doi": "10.1111/bju.14716",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "However, the effects of these reconstruction techniques on early continence recovery are mixed and require additional prospective studies [12,21,25].",
+      "citation_number": 12,
+      "ref_text": "Checcucci E, Pecoraro A, Cillis DES et al. The importance of anatomical reconstruction for continence recovery after robot assisted radical prostatectomy: A systematic review and pooled analysis from referral centers. Minerva Urol Nephrol 2021; 73: 165–77",
+      "doi": "10.23736/s2724-6051.20.04146-6",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "However, the effects of these reconstruction techniques on early continence recovery are mixed and require additional prospective studies [12,21,25].",
+      "citation_number": 21,
+      "ref_text": "Salazar A, Regis L, Planas J et al. A randomised controlled trial to assess the benefit of posterior Rhabdosphincter reconstruction in early urinary BJU International continence recovery after robot-assisted radical prostatectomy. Eur Urol Oncol 2022; 5: 460–3",
+      "doi": "10.1016/j.euo.2021.02.005",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "However, the effects of these reconstruction techniques on early continence recovery are mixed and require additional prospective studies [12,21,25].",
+      "citation_number": 25,
+      "ref_text": "Sutherland DE, Linder B, Guzman AM et al. Posterior rhabdosphincter reconstruction during robotic assisted radical prostatectomy: Results from a phase II randomized clinical trial. J Urol 2011; 185: 1262–7",
+      "doi": "10.1016/j.juro.2010.11.085",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Generally, RP is associated with a decline in urinary function, such as obstructive voiding symptoms and overactive bladder syndrome especially in the short term after surgery, and bladder neck reconstruction and vesico–urethral anastomosis may increase the risk of urinary function decline [3,26,27].",
+      "citation_number": 3,
+      "ref_text": "Dalela D, Jeong W, Prasad MA et al. A pragmatic randomized controlled trial examining the impact of the Retzius-sparing approach on early urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol 2017; 72: 677–85",
+      "doi": "10.1016/j.eururo.2017.04.029",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Generally, RP is associated with a decline in urinary function, such as obstructive voiding symptoms and overactive bladder syndrome especially in the short term after surgery, and bladder neck reconstruction and vesico–urethral anastomosis may increase the risk of urinary function decline [3,26,27].",
+      "citation_number": 26,
+      "ref_text": "Thiruchelvam N, Cruz F, Kirby M, Tubaro A, Chapple CR, Sievert KD. A review of detrusor overactivity and the overactive bladder after radical prostate cancer treatment. BJU Int 2015; 116: 853–61",
+      "doi": "10.1111/bju.13078",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Generally, RP is associated with a decline in urinary function, such as obstructive voiding symptoms and overactive bladder syndrome especially in the short term after surgery, and bladder neck reconstruction and vesico–urethral anastomosis may increase the risk of urinary function decline [3,26,27].",
+      "citation_number": 27,
+      "ref_text": "Biers S, Sievert KD, Thiruchelvam N. Overactive bladder syndrome and lower urinary tract symptoms after prostate cancer treatment. Curr Opin Urol 2017; 27: 307–13",
+      "doi": "10.1097/mou.0000000000000391",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[3].",
+      "citation_number": 3,
+      "ref_text": "Dalela D, Jeong W, Prasad MA et al. A pragmatic randomized controlled trial examining the impact of the Retzius-sparing approach on early urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol 2017; 72: 677–85",
+      "doi": "10.1016/j.eururo.2017.04.029",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Additionally, the SFUR technique had no impact on micturition-related bother, which is different from other published results [3,6].",
+      "citation_number": 3,
+      "ref_text": "Dalela D, Jeong W, Prasad MA et al. A pragmatic randomized controlled trial examining the impact of the Retzius-sparing approach on early urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol 2017; 72: 677–85",
+      "doi": "10.1016/j.eururo.2017.04.029",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Additionally, the SFUR technique had no impact on micturition-related bother, which is different from other published results [3,6].",
+      "citation_number": 6,
+      "ref_text": "Nyarangi-Dix JN, Radtke JP, Hadaschik B, Pahernik S, Hohenfellner M. Impact of complete bladder neck preservation on urinary continence, quality of life and surgical margins after radical prostatectomy: A randomized, controlled, single blind trial. J Urol 2013; 189: 891–8",
+      "doi": "10.1016/j.juro.2012.09.082",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In this study, the PSM rate in the SFUR group was 27%, which was slightly higher than that in the control group (15%, P = 0.13) and in another study (16%) [28].",
+      "citation_number": 28,
+      "ref_text": "Patel VR, Coelho RF, Rocco B et al. Positive surgical margins after robotic assisted radical prostatectomy: A multi-institutional study. J Urol 2011; 186: 511–6",
+      "doi": "10.1016/j.juro.2011.03.112",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This difference may be associated with the SFUR group having a higher pathological stage, which was identified as one of the most important independent predictive factors for a PSM [28].",
+      "citation_number": 28,
+      "ref_text": "Patel VR, Coelho RF, Rocco B et al. Positive surgical margins after robotic assisted radical prostatectomy: A multi-institutional study. J Urol 2011; 186: 511–6",
+      "doi": "10.1016/j.juro.2011.03.112",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    }
+  ]
+}

@@ -1,0 +1,874 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2022-04-05T04:27:31Z",
+      "timestamp": 1649132851060
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2008-03-01T00:00:00Z",
+          "timestamp": 1204329600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(08)61054-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          3,
+          14
+        ]
+      ],
+      "date-time": "2008-03-14T14:16:12Z",
+      "timestamp": 1205504172000
+    },
+    "page": "339",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "MANAGEMENT OF DIFFICULT ANATOMY DURING ROBOTIC ASSISTED LAPAROSCOPIC RADICAL PROSTATECTOMY"
+    ],
+    "prefix": "10.1016",
+    "volume": "7",
+    "author": [
+      {
+        "given": "K.J.",
+        "family": "Palmer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "G.",
+        "family": "Coughlin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.S.",
+        "family": "Samavedi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "N.N.",
+        "family": "Patil",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P.P.",
+        "family": "Dangle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "V.R.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905608610544?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905608610544?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2018-12-31T01:58:38Z",
+      "timestamp": 1546221518000
+    },
+    "score": 70.896255,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905608610544"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905608610544"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(08)61054-4",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2022-04-05T21:07:29Z",
+      "timestamp": 1649192849426
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2008-03-01T00:00:00Z",
+          "timestamp": 1204329600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(08)60925-2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          3,
+          14
+        ]
+      ],
+      "date-time": "2008-03-14T14:16:12Z",
+      "timestamp": 1205504172000
+    },
+    "page": "303",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "OPERATIVE COMPLICATIONS OF ROBOTIC-ASSISTED RADICAL PROSTATECTOMY"
+    ],
+    "prefix": "10.1016",
+    "volume": "7",
+    "author": [
+      {
+        "given": "P.",
+        "family": "Dangle",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "N.",
+        "family": "Patil",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Palmer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Samavedi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "G.",
+        "family": "Coughlin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "V.R.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905608609252?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905608609252?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2018-12-31T02:00:27Z",
+      "timestamp": 1546221627000
+    },
+    "score": 66.10885,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905608609252"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905608609252"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(08)60925-2",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2023-09-13T19:10:56Z",
+      "timestamp": 1694632256117
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "4S",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2008-04-01T00:00:00Z",
+          "timestamp": 1207008000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0022-5347(08)61442-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          3,
+          21
+        ]
+      ],
+      "date-time": "2008-03-21T14:23:00Z",
+      "timestamp": 1206109380000
+    },
+    "page": "490-490",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "MANAGEMENT OF DIFFICULT ANATOMY DURING ROBOTIC ASSISTED LAPAROSCOPIC RADICAL PROSTATECTOMY"
+    ],
+    "prefix": "10.1097",
+    "volume": "179",
+    "author": [
+      {
+        "given": "Nilesh N",
+        "family": "Patil",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Geoff",
+        "family": "Coughlin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Srinivas",
+        "family": "Samavedi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kenneth J",
+        "family": "Palmer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Pankaj P",
+        "family": "Dangle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Vipul R",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S0022534708614421?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S0022534708614421?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/S0022-5347%2808%2961442-1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2022-04-28T17:04:17Z",
+      "timestamp": 1651165457000
+    },
+    "score": 64.87043,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/S0022-5347%2808%2961442-1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4S",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/S0022-5347(08)61442-1"
+    ],
+    "URL": "https://doi.org/10.1016/s0022-5347(08)61442-1",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2025-09-25T16:54:41Z",
+      "timestamp": 1758819281606
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2007-09-01T00:00:00Z",
+          "timestamp": 1188604800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2007.06.510",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2007-09-17T08:21:21Z",
+      "timestamp": 1190017281000
+    },
+    "page": "136",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "special_numbering": "S",
+    "title": [
+      "MP-18.04: Robotic-assisted laparoscopic radical prostatectomy: perioperative outcomes of 1500 consecutive cases"
+    ],
+    "prefix": "10.1016",
+    "volume": "70",
+    "author": [
+      {
+        "given": "K.J.",
+        "family": "Palmer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "K.",
+        "family": "Shah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Thaly",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "V.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429507011740?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429507011740?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          3
+        ]
+      ],
+      "date-time": "2019-01-03T21:28:48Z",
+      "timestamp": 1546550928000
+    },
+    "score": 64.64706,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429507011740"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429507011740"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2007.06.510",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    }
+  }
+]

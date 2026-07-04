@@ -1,0 +1,3744 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          23
+        ]
+      ],
+      "date-time": "2026-04-23T07:22:03Z",
+      "timestamp": 1776928923262,
+      "version": "3.51.2"
+    },
+    "reference-count": 62,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "S1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              3
+            ]
+          ],
+          "date-time": "2024-01-03T00:00:00Z",
+          "timestamp": 1704240000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              3
+            ]
+          ],
+          "date-time": "2024-01-03T00:00:00Z",
+          "timestamp": 1704240000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Indian J Thorac Cardiovasc Surg"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1007/s12055-023-01668-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          3
+        ]
+      ],
+      "date-time": "2024-01-03T07:02:32Z",
+      "timestamp": 1704265352000
+    },
+    "page": "16-28",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Role of echocardiography in the diagnosis and clinical management of infective endocarditis"
+    ],
+    "prefix": "10.1007",
+    "volume": "40",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1166-7877",
+        "authenticated-orcid": false,
+        "given": "Jeppe Kofoed",
+        "family": "Petersen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lauge",
+        "family": "Østergaard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Emil Loldrup",
+        "family": "Fosbøl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1668_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.1016/j.ijcard.2020.10.029",
+        "volume": "326",
+        "author": "AD Jensen",
+        "year": "2021",
+        "unstructured": "Jensen AD, Bundgaard H, Butt JH, Bruun NE, Voldstedlund M, Torp-Pedersen C, et al. Temporal changes in the incidence of infective endocarditis in Denmark 1997–2017: a nationwide study. Int J Cardiol. 2021;326:145–52.",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "1668_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "3075",
+        "DOI": "10.1093/eurheartj/ehv319",
+        "volume": "36",
+        "author": "G Habib",
+        "year": "2015",
+        "unstructured": "Habib G, Lancellotti P, Antunes MJ, Bongiorni MG, Casalta J-P, Del Zotti F, et al. 2015 ESC Guidelines for the management of infective endocarditis: the Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC)Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). Eur Heart J. 2015;36:3075–128.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "1668_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "24",
+        "DOI": "10.1093/ehjqcco/qcac011",
+        "volume": "9",
+        "author": "AD Jensen",
+        "year": "2022",
+        "unstructured": "Jensen AD, Østergaard L, Petersen JK, Graversen PL, Butt JH, Hadji-Turdeghal K, et al. Temporal trends of mortality in patients with infective endocarditis: a nationwide study. Eur Heart J Qual Care Clin Outcomes. 2022;9:24–33.",
+        "journal-title": "Eur Heart J Qual Care Clin Outcomes"
+      },
+      {
+        "key": "1668_CR4",
+        "first-page": "e72",
+        "volume": "143",
+        "author": "CM Otto",
+        "year": "2021",
+        "unstructured": "Otto CM, Nishimura RA, Bonow RO, Carabello BA, Erwin JP, Gentile F, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72–227.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1668_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "1435",
+        "DOI": "10.1161/CIR.0000000000000296",
+        "volume": "132",
+        "author": "LM Baddour",
+        "year": "2015",
+        "unstructured": "Baddour LM, Wilson WR, Bayer AS, Fowler VG Jr, Tleyjeh IM, Rybak MJ, et al. Infective endocarditis in adults: diagnosis, antimicrobial therapy, and management of complications: a scientific statement for healthcare professionals from the American Heart Association. Circulation. 2015;132:1435–86.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1668_CR6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Delgado V, Ajmone Marsan N, de Waha S, Bonaros N, Brida M, Burri H, et al. 2023 ESC guidelines for the management of endocarditis: developed by the task force on the management of endocarditis of the European Society of Cardiology (ESC) Endorsed by the European Association for Cardio-Thoracic Surgery (EACTS) and the European Association of Nuclear Medicine (EANM). Eur Heart J. 2023;44:4780.",
+        "DOI": "10.1093/eurheartj/ehad625"
+      },
+      {
+        "key": "1668_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "891",
+        "DOI": "10.1016/j.jcmg.2021.09.029",
+        "volume": "15",
+        "author": "V Dilsizian",
+        "year": "2022",
+        "unstructured": "Dilsizian V, Budde RPJ, Chen W, Mankad SV, Lindner JR, Nieman K. Best practices for imaging cardiac device-related infections and endocarditis: a JACC: Cardiovascular Imaging Expert Panel Statement. JACC Cardiovasc Imaging. 2022;15:891–911.",
+        "journal-title": "JACC Cardiovasc Imaging"
+      },
+      {
+        "key": "1668_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "202",
+        "DOI": "10.1093/ejechocard/jeq004",
+        "volume": "11",
+        "author": "G Habib",
+        "year": "2010",
+        "unstructured": "Habib G, Badano L, Tribouilloy C, Vilacosta I, Zamorano JL, Galderisi M, et al. Recommendations for the practice of echocardiography in infective endocarditis. Eur J Echocardiogr. 2010;11:202–19.",
+        "journal-title": "Eur J Echocardiogr"
+      },
+      {
+        "key": "1668_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "415",
+        "DOI": "10.1056/NEJMoa1808312",
+        "volume": "380",
+        "author": "K Iversen",
+        "year": "2018",
+        "unstructured": "Iversen K, Ihlemann N, Gill SU, Madsen T, Elming H, Jensen KT, et al. Partial oral versus intravenous antibiotic treatment of endocarditis. N Engl J Med. 2018;380:415–24.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "1668_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "3237",
+        "DOI": "10.1093/eurheartj/ehz327",
+        "volume": "40",
+        "author": "L Østergaard",
+        "year": "2019",
+        "unstructured": "Østergaard L, Bruun NE, Voldstedlund M, Arpi M, Andersen CØ, Schønheyder HC, et al. Prevalence of infective endocarditis in patients with positive blood cultures: a Danish nationwide study. Eur Heart J. 2019;40:3237–44.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "1668_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "414",
+        "DOI": "10.1093/ejechocard/jer023",
+        "volume": "12",
+        "author": "RV Rasmussen",
+        "year": "2011",
+        "unstructured": "Rasmussen RV, Høst U, Arpi M, Hassager C, Johansen HK, Korup E, et al. Prevalence of infective endocarditis in patients with Staphylococcus aureus bacteraemia: the value of screening with echocardiography. Eur J Echocardiogr. 2011;12:414–20.",
+        "journal-title": "Eur J Echocardiogr"
+      },
+      {
+        "key": "1668_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1086/599376",
+        "volume": "49",
+        "author": "LA Mermel",
+        "year": "2009",
+        "unstructured": "Mermel LA, Allon M, Bouza E, Craven DE, Flynn P, O’Grady NP, et al. Clinical practice guidelines for the diagnosis and management of intravascular catheter-related infection: 2009 update by the Infectious Diseases Society of America. Clin Infect Dis. 2009;49:1–45.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "1668_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "720",
+        "DOI": "10.1161/CIRCULATIONAHA.120.046723",
+        "volume": "142",
+        "author": "S Chamat-Hedemand",
+        "year": "2020",
+        "unstructured": "Chamat-Hedemand S, Dahl A, Østergaard L, Arpi M, Fosbøl E, Boel J, et al. Prevalence of infective endocarditis in streptococcal bloodstream infections is dependent on streptococcal species. Circulation. 2020;142:720–30.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1668_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "193",
+        "DOI": "10.1016/j.jacc.2019.04.059",
+        "volume": "74",
+        "author": "A Dahl",
+        "year": "2019",
+        "unstructured": "Dahl A, Iversen K, Tonder N, Hoest N, Arpi M, Dalsgaard M, et al. Prevalence of infective endocarditis in Enterococcus faecalis bacteremia. J Am Coll Cardiol. 2019;74:193–201.",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "1668_CR15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fowler VG Jr, Durack DT, Selton-Suty C, Athan E, Bayer AS, Chamis AL, et al. The 2023 Duke-ISCVID criteria for infective endocarditis: updating the modified Duke Criteria. Clin Infect Dis. 2023;77:518–26.",
+        "DOI": "10.1093/cid/ciad271"
+      },
+      {
+        "key": "1668_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "127",
+        "DOI": "10.1007/s11886-017-0928-9",
+        "volume": "19",
+        "author": "L Afonso",
+        "year": "2017",
+        "unstructured": "Afonso L, Kottam A, Reddy V, Penumetcha A. Echocardiography in infective endocarditis: state of the art. Curr Cardiol Rep. 2017;19:127.",
+        "journal-title": "Curr Cardiol Rep"
+      },
+      {
+        "key": "1668_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "639",
+        "DOI": "10.1016/j.echo.2017.03.007",
+        "volume": "30",
+        "author": "AD Bai",
+        "year": "2017",
+        "unstructured": "Bai AD, Steinberg M, Showler A, Burry L, Bhatia RS, Tomlinson GA, et al. Diagnostic accuracy of transthoracic echocardiography for infective endocarditis findings using transesophageal echocardiography as the reference standard: a meta-analysis. J Am Soc Echocardiogr. 2017;30:639-46.e8.",
+        "journal-title": "J Am Soc Echocardiogr"
+      },
+      {
+        "key": "1668_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "937",
+        "DOI": "10.1007/s11739-018-1831-0",
+        "volume": "13",
+        "author": "M Bonzi",
+        "year": "2018",
+        "unstructured": "Bonzi M, Cernuschi G, Solbiati M, Giusti G, Montano N, Ceriani E. Diagnostic accuracy of transthoracic echocardiography to identify native valve infective endocarditis: a systematic review and meta-analysis. Intern Emerg Med. 2018;13:937–46.",
+        "journal-title": "Intern Emerg Med"
+      },
+      {
+        "key": "1668_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "614",
+        "DOI": "10.1136/hrt.2003.029868",
+        "volume": "90",
+        "author": "A Evangelista",
+        "year": "2004",
+        "unstructured": "Evangelista A, Gonzalez-Alujas MT. Echocardiography in infective endocarditis. Heart. 2004;90:614–7.",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "1668_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "624",
+        "DOI": "10.1093/eurheartj/eht274",
+        "volume": "35",
+        "author": "NE Bruun",
+        "year": "2014",
+        "unstructured": "Bruun NE, Habib G, Thuny F, Sogaard P. Cardiac imaging in infectious endocarditis. Eur Heart J. 2014;35:624–32.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "1668_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "414",
+        "DOI": "10.2459/JCM.0b013e3282ee73f6",
+        "volume": "9",
+        "author": "E Cecchi",
+        "year": "2008",
+        "unstructured": "Cecchi E, Imazio M, Trinchero R. Infective endocarditis: diagnostic issues and practical clinical approach based on echocardiography. J Cardiovasc Med (Hagerstown). 2008;9:414–8.",
+        "journal-title": "J Cardiovasc Med (Hagerstown)"
+      },
+      {
+        "key": "1668_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "265",
+        "DOI": "10.1007/s11886-010-0107-8",
+        "volume": "12",
+        "author": "A Ansari",
+        "year": "2010",
+        "unstructured": "Ansari A, Rigolin VH. Infective endocarditis: an update on the role of echocardiography. Curr Cardiol Rep. 2010;12:265–71.",
+        "journal-title": "Curr Cardiol Rep"
+      },
+      {
+        "key": "1668_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "2125",
+        "DOI": "10.1007/s00330-015-3605-7",
+        "volume": "25",
+        "author": "J Habets",
+        "year": "2015",
+        "unstructured": "Habets J, Tanis W, Reitsma JB, van den Brink RB, Mali WP, Chamuleau SA, et al. Are novel non-invasive imaging techniques needed in patients with suspected prosthetic heart valve endocarditis? A systematic review and meta-analysis. Eur Radiol. 2015;25:2125–33.",
+        "journal-title": "Eur Radiol"
+      },
+      {
+        "key": "1668_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "911",
+        "DOI": "10.1080/14787210.2020.1773260",
+        "volume": "18",
+        "author": "NE Castillo Almeida",
+        "year": "2020",
+        "unstructured": "Castillo Almeida NE, Gurram P, Esquer Garrigos Z, Mahmood M, Baddour LM, Sohail MR. Diagnostic imaging in infective endocarditis: a contemporary perspective. Expert Rev Anti Infect Ther. 2020;18:911–25.",
+        "journal-title": "Expert Rev Anti Infect Ther"
+      },
+      {
+        "key": "1668_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "773",
+        "DOI": "10.1016/S0733-8651(05)70179-X",
+        "volume": "18",
+        "author": "EW Ryan",
+        "year": "2000",
+        "unstructured": "Ryan EW, Bolger AF. Transesophageal echocardiography (TEE) in the evaluation of infective endocarditis. Cardiol Clin. 2000;18:773–87.",
+        "journal-title": "Cardiol Clin"
+      },
+      {
+        "key": "1668_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "1060",
+        "DOI": "10.1002/jcu.23346",
+        "volume": "50",
+        "author": "B Ivanovic",
+        "year": "2022",
+        "unstructured": "Ivanovic B, Popovic J, Dukic D, Petkovic A, Petrovic O. The role of imaging in infective endocarditis. J Clin Ultrasound. 2022;50:1060–5.",
+        "journal-title": "J Clin Ultrasound"
+      },
+      {
+        "key": "1668_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "799",
+        "DOI": "10.1016/j.mayocp.2014.02.013",
+        "volume": "89",
+        "author": "TL Barton",
+        "year": "2014",
+        "unstructured": "Barton TL, Mottram PM, Stuart RL, Cameron JD, Moir S. Transthoracic echocardiography is still useful in the initial evaluation of patients with suspected infective endocarditis: evaluation of a large cohort at a tertiary referral center. Mayo Clin Proc. 2014;89:799–805.",
+        "journal-title": "Mayo Clin Proc"
+      },
+      {
+        "key": "1668_CR28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ammannaya GKK. Lambl’s excrescences: current diagnosis and management. Cardiol Res. 2019;10:207–10.",
+        "DOI": "10.14740/cr892"
+      },
+      {
+        "key": "1668_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "124",
+        "DOI": "10.1136/hrt.2005.063719",
+        "volume": "92",
+        "author": "G Habib",
+        "year": "2006",
+        "unstructured": "Habib G. Management of infective endocarditis. Heart. 2006;92:124–30.",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "1668_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "436",
+        "DOI": "10.1016/j.jacc.2008.01.077",
+        "volume": "53",
+        "author": "GM Feuchtner",
+        "year": "2009",
+        "unstructured": "Feuchtner GM, Stolzmann P, Dichtl W, Schertler T, Bonatti J, Scheffel H, et al. Multislice computed tomography in infective endocarditis: comparison with transesophageal echocardiography and intraoperative findings. J Am Coll Cardiol. 2009;53:436–44.",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "1668_CR31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gomes A, Glaudemans AWJM, Touw DJ, van Melle JP, Willems TP, Maass AH, et al. Diagnostic value of imaging in infective endocarditis: a systematic review. Lancet Infect Dis. 2017;17:e1–14.",
+        "DOI": "10.1016/S1473-3099(16)30141-4"
+      },
+      {
+        "key": "1668_CR32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCIMAGING.120.008956",
+        "volume": "13",
+        "author": "SJ Horgan",
+        "year": "2020",
+        "unstructured": "Horgan SJ, Mediratta A, Gillam LD. Cardiovascular imaging in infective endocarditis: a multimodality approach. Circ Cardiovasc Imaging. 2020;13: e008956.",
+        "journal-title": "Circ Cardiovasc Imaging"
+      },
+      {
+        "key": "1668_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "199",
+        "DOI": "10.1093/ehjci/jex010",
+        "volume": "19",
+        "author": "HJ Koo",
+        "year": "2018",
+        "unstructured": "Koo HJ, Yang DH, Kang JW, Lee JY, Kim DH, Song JM, et al. Demonstration of infective endocarditis by cardiac CT and transoesophageal echocardiography: comparison with intra-operative findings. Eur Heart J Cardiovasc Imaging. 2018;19:199–207.",
+        "journal-title": "Eur Heart J Cardiovasc Imaging"
+      },
+      {
+        "key": "1668_CR34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1148/ryct.2020190189",
+        "volume": "2",
+        "author": "M Oliveira",
+        "year": "2020",
+        "unstructured": "Oliveira M, Guittet L, Hamon M, Hamon M. Comparative value of cardiac CT and transesophageal echocardiography in infective endocarditis: a systematic review and meta-analysis. Radiol Cardiothorac Imaging. 2020;2: e190189.",
+        "journal-title": "Radiol Cardiothorac Imaging"
+      },
+      {
+        "key": "1668_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "1008",
+        "DOI": "10.1016/j.jcmg.2013.07.004",
+        "volume": "6",
+        "author": "W Tanis",
+        "year": "2013",
+        "unstructured": "Tanis W, Scholtens A, Habets J, van den Brink RB, van Herwerden LA, Chamuleau SA, et al. CT angiography and 18F-FDG-PET fusion imaging for prosthetic heart valve endocarditis. JACC Cardiovasc Imaging. 2013;6:1008–13.",
+        "journal-title": "JACC Cardiovasc Imaging"
+      },
+      {
+        "key": "1668_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "910",
+        "DOI": "10.1016/j.echo.2022.04.007",
+        "volume": "35",
+        "author": "JJ Silbiger",
+        "year": "2022",
+        "unstructured": "Silbiger JJ, Rashed E, Chen H, Wiesenfeld E, Robinson SE, Cagliostro M. Cardiac imaging for diagnosis and management of infective endocarditis. J Am Soc Echocardiogr. 2022;35:910–24.",
+        "journal-title": "J Am Soc Echocardiogr"
+      },
+      {
+        "key": "1668_CR37",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Carević V, Mladenović Z, Perković-Avelini R, Bečić T, Radić M, Fabijanić D. Three-dimensional transesophageal echocardiography in the diagnosis and treatment of mitral prosthetic valve endocarditis-a narrative review. Medicina (Kaunas). 2021;58:23.",
+        "DOI": "10.3390/medicina58010023"
+      },
+      {
+        "key": "1668_CR38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCIMAGING.120.010600",
+        "volume": "13",
+        "author": "TKM Wang",
+        "year": "2020",
+        "unstructured": "Wang TKM, Sánchez-Nadales A, Igbinomwanhia E, Cremer P, Griffin B, Xu B. Diagnosis of infective endocarditis by subtype using (18)F-fluorodeoxyglucose positron emission tomography/computed tomography: a contemporary meta-analysis. Circ Cardiovasc Imaging. 2020;13: e010600.",
+        "journal-title": "Circ Cardiovasc Imaging"
+      },
+      {
+        "key": "1668_CR39",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ho CB, Vejlstrup NG, De Backer O, Søndergaard L. Intracardiac echocardiogram to diagnose infective endocarditis after transcatheter aortic valve-in-valve implantation. Catheter Cardiovasc Interv. 2023;102:155–8.",
+        "DOI": "10.1002/ccd.30694"
+      },
+      {
+        "key": "1668_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "1558",
+        "DOI": "10.1016/j.echo.2019.06.016",
+        "volume": "32",
+        "author": "L Østergaard",
+        "year": "2019",
+        "unstructured": "Østergaard L, Vejlstrup N, Køber L, Fosbøl EL, Søndergaard L, Ihlemann N. Diagnostic potential of intracardiac echocardiography in patients with suspected prosthetic valve endocarditis. J Am Soc Echocardiogr. 2019;32:1558-64.e3.",
+        "journal-title": "J Am Soc Echocardiogr"
+      },
+      {
+        "key": "1668_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "425",
+        "DOI": "10.1016/j.ijcard.2013.10.016",
+        "volume": "169",
+        "author": "G Cheung",
+        "year": "2013",
+        "unstructured": "Cheung G, Vejlstrup N, Ihlemann N, Arnous S, Franzen O, Bundgaard H, et al. Infective endocarditis following percutaneous pulmonary valve replacement: diagnostic challenges and application of intra-cardiac echocardiography. Int J Cardiol. 2013;169:425–9.",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "1668_CR42",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Olsen NT, De Backer O, Thyregod HG, Vejlstrup N, Bundgaard H, Søndergaard L, et al. Prosthetic valve endocarditis after transcatheter aortic valve implantation. Circ Cardiovasc Interv. 2015;8:e001939.",
+        "DOI": "10.1161/CIRCINTERVENTIONS.114.001939"
+      },
+      {
+        "key": "1668_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "1349",
+        "DOI": "10.1161/CIRCULATIONAHA.106.678664",
+        "volume": "116",
+        "author": "D Klug",
+        "year": "2007",
+        "unstructured": "Klug D, Balde M, Pavin D, Hidden-Lucet F, Clementy J, Sadoul N, et al. Risk factors related to infections of implanted pacemakers and cardioverter-defibrillators: results of a large prospective study. Circulation. 2007;116:1349–55.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1668_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "88",
+        "DOI": "10.1016/j.jacep.2021.06.006",
+        "volume": "8",
+        "author": "VR Vaidya",
+        "year": "2022",
+        "unstructured": "Vaidya VR, Asirvatham R, Kowlgi GN, Dai MY, Cochuyt JJ, Hodge DO, et al. Trends in cardiovascular implantable electronic device insertion between 1988 and 2018 in Olmsted county. JACC Clin Electrophysiol. 2022;8:88–100.",
+        "journal-title": "JACC Clin Electrophysiol"
+      },
+      {
+        "key": "1668_CR45",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hernández-Meneses M, Llopis J, Sandoval E, Ninot S, Almela M, Falces C, et al. Forty-year trends in cardiac implantable electronic device infective endocarditis. Open Forum Infect Dis. 2022;9:ofac547.",
+        "DOI": "10.1093/ofid/ofac547"
+      },
+      {
+        "key": "1668_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "1398",
+        "DOI": "10.1016/j.jacc.2012.12.041",
+        "volume": "61",
+        "author": "ML Narducci",
+        "year": "2013",
+        "unstructured": "Narducci ML, Pelargonio G, Russo E, Marinaccio L, Di Monaco A, Perna F, et al. Usefulness of intracardiac echocardiography for the diagnosis of cardiovascular implantable electronic device-related endocarditis. J Am Coll Cardiol. 2013;61:1398–405.",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "1668_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "2012",
+        "DOI": "10.1093/eurheartj/ehaa010",
+        "volume": "41",
+        "author": "C Blomström-Lundqvist",
+        "year": "2020",
+        "unstructured": "Blomström-Lundqvist C, Traykov V, Erba PA, Burri H, Nielsen JC, Bongiorni MG, et al. European Heart Rhythm Association (EHRA) international consensus document on how to prevent, diagnose, and treat cardiac implantable electronic device infections—endorsed by the Heart Rhythm Society (HRS), the Asia Pacific Heart Rhythm Society (APHRS), the Latin American Heart Rhythm Society (LAHRS), International Society for Cardiovascular Infectious Diseases (ISCVID), and the European Society of Clinical Microbiology and Infectious Diseases (ESCMID) in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2020;41:2012–32.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "1668_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "673",
+        "DOI": "10.1016/j.jcmg.2009.12.016",
+        "volume": "3",
+        "author": "Y Le Dolley",
+        "year": "2010",
+        "unstructured": "Le Dolley Y, Thuny F, Mancini J, Casalta JP, Riberi A, Gouriet F, et al. Diagnosis of cardiac device-related infective endocarditis after device removal. JACC Cardiovasc Imaging. 2010;3:673–81.",
+        "journal-title": "JACC Cardiovasc Imaging"
+      },
+      {
+        "key": "1668_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "807",
+        "DOI": "10.1016/j.echo.2012.05.016",
+        "volume": "25",
+        "author": "JA San Román",
+        "year": "2012",
+        "unstructured": "San Román JA, Vilacosta I, López J, Revilla A, Arnold R, Sevilla T, et al. Role of transthoracic and transesophageal echocardiography in right-sided endocarditis: one echocardiographic modality does not fit all. J Am Soc Echocardiogr. 2012;25:807–14.",
+        "journal-title": "J Am Soc Echocardiogr"
+      },
+      {
+        "key": "1668_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "313",
+        "DOI": "10.1016/j.jcct.2020.11.008",
+        "volume": "15",
+        "author": "V Jain",
+        "year": "2021",
+        "unstructured": "Jain V, Wang TKM, Bansal A, Farwati M, Gad M, Montane B, et al. Diagnostic performance of cardiac computed tomography versus transesophageal echocardiography in infective endocarditis: a contemporary comparative meta-analysis. J Cardiovasc Comput Tomogr. 2021;15:313–21.",
+        "journal-title": "J Cardiovasc Comput Tomogr"
+      },
+      {
+        "key": "1668_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "749",
+        "DOI": "10.1007/s10554-018-1487-x",
+        "volume": "35",
+        "author": "K Holcman",
+        "year": "2019",
+        "unstructured": "Holcman K, Szot W, Rubiś P, Leśniak-Sobelga A, Hlawaty M, Wiśniowska-Śmiałek S, et al. 99mTc-HMPAO-labeled leukocyte SPECT/CT and transthoracic echocardiography diagnostic value in infective endocarditis. Int J Cardiovasc Imaging. 2019;35:749–58.",
+        "journal-title": "Int J Cardiovasc Imaging"
+      },
+      {
+        "key": "1668_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "338",
+        "DOI": "10.1186/s12872-022-02761-z",
+        "volume": "22",
+        "author": "AD Jensen",
+        "year": "2022",
+        "unstructured": "Jensen AD, Østergaard L, Petersen JK, Graversen P, Butt JH, Bundgaard H, et al. Surgical treatment of patients with infective endocarditis: changes in temporal use, patient characteristics, and mortality-a nationwide study. BMC Cardiovasc Disord. 2022;22:338.",
+        "journal-title": "BMC Cardiovasc Disord"
+      },
+      {
+        "key": "1668_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "1617",
+        "DOI": "10.1093/eurheartj/ehab898",
+        "volume": "43",
+        "author": "A Wang",
+        "year": "2022",
+        "unstructured": "Wang A, Fosbøl EL. Current recommendations and uncertainties for surgical treatment of infective endocarditis: a comparison of American and European cardiovascular guidelines. Eur Heart J. 2022;43:1617–25.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "1668_CR54",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Davierwala PM, Marin-Cuartas M, Misfeld M, Borger MA. The value of an “endocarditis team.” Ann Cardiothorac Surg. 2019;8:621–9.",
+        "DOI": "10.21037/acs.2019.09.03"
+      },
+      {
+        "key": "1668_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "69",
+        "DOI": "10.1161/CIRCULATIONAHA.104.493155",
+        "volume": "112",
+        "author": "F Thuny",
+        "year": "2005",
+        "unstructured": "Thuny F, Di Salvo G, Belliard O, Avierinos JF, Pergola V, Rosenberg V, et al. Risk of embolism and death in infective endocarditis: prognostic value of echocardiography: a prospective multicenter study. Circulation. 2005;112:69–75.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1668_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "149",
+        "DOI": "10.1161/CIRCIMAGING.113.000938",
+        "volume": "7",
+        "author": "J Berdejo",
+        "year": "2014",
+        "unstructured": "Berdejo J, Shibayama K, Harada K, Tanaka J, Mihara H, Gurudevan SV, et al. Evaluation of vegetation size and its relationship with embolism in infective endocarditis: a real-time 3-dimensional transesophageal echocardiography study. Circ Cardiovasc Imaging. 2014;7:149–54.",
+        "journal-title": "Circ Cardiovasc Imaging"
+      },
+      {
+        "key": "1668_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "660",
+        "DOI": "10.2459/01.JCM.0000242998.74923.4d",
+        "volume": "7",
+        "author": "C Cicioni",
+        "year": "2006",
+        "unstructured": "Cicioni C, Di Luzio V, Di Emidio L, De Remigis F, Fragassi G, Gregorini R, et al. Limitations and discrepancies of transthoracic and transoesophageal echocardiography compared with surgical findings in patients submitted to surgery for complications of infective endocarditis. J Cardiovasc Med (Hagerstown). 2006;7:660–6.",
+        "journal-title": "J Cardiovasc Med (Hagerstown)"
+      },
+      {
+        "key": "1668_CR58",
+        "first-page": "299",
+        "volume": "9",
+        "author": "Y Shapira",
+        "year": "2007",
+        "unstructured": "Shapira Y, Weisenberg DE, Vaturi M, Sharoni E, Raanani E, Sahar G, et al. The impact of intraoperative transesophageal echocardiography in infective endocarditis. Isr Med Assoc J. 2007;9:299–302.",
+        "journal-title": "Isr Med Assoc J"
+      },
+      {
+        "key": "1668_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "67",
+        "DOI": "10.1016/j.ijcard.2019.06.059",
+        "volume": "293",
+        "author": "L Østergaard",
+        "year": "2019",
+        "unstructured": "Østergaard L, Dahl A, Fosbøl E, Bruun NE, Oestergaard LB, Lauridsen TK, et al. Residual vegetation after treatment for left-sided infective endocarditis and subsequent risk of stroke and recurrence of endocarditis. Int J Cardiol. 2019;293:67–72.",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "1668_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "34",
+        "DOI": "10.1016/j.ijid.2020.03.005",
+        "volume": "94",
+        "author": "V Houard",
+        "year": "2020",
+        "unstructured": "Houard V, Porte L, Delon C, Carrié D, Delobel P, Galinier M, et al. Prognostic value of residual vegetation after antibiotic treatment for infective endocarditis: a retrospective cohort study. Int J Infect Dis. 2020;94:34–40.",
+        "journal-title": "Int J Infect Dis"
+      },
+      {
+        "key": "1668_CR61",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bernard J, Yanamala N, Shah R, Seetharam K, Altes A, Dupuis M, et al. Integrating echocardiography parameters with explainable artificial intelligence for data-driven clustering of primary mitral regurgitation phenotypes. JACC Cardiovasc Imaging. 2023;16:1253–67.",
+        "DOI": "10.1016/j.jcmg.2023.02.016"
+      },
+      {
+        "key": "1668_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "6",
+        "DOI": "10.1007/s12410-017-9400-x",
+        "volume": "10",
+        "author": "M Kircher",
+        "year": "2017",
+        "unstructured": "Kircher M, Lapa C. Novel noninvasive nuclear medicine imaging techniques for cardiac inflammation. Curr Cardiovasc Imaging Rep. 2017;10:6.",
+        "journal-title": "Curr Cardiovasc Imaging Rep"
+      }
+    ],
+    "container-title": [
+      "Indian Journal of Thoracic and Cardiovascular Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12055-023-01668-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s12055-023-01668-4/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12055-023-01668-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2024-05-30T10:04:48Z",
+      "timestamp": 1717063488000
+    },
+    "score": 87.404076,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s12055-023-01668-4"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          3
+        ]
+      ]
+    },
+    "references-count": 62,
+    "journal-issue": {
+      "issue": "S1",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1668"
+    ],
+    "URL": "https://doi.org/10.1007/s12055-023-01668-4",
+    "ISSN": [
+      "0970-9134",
+      "0973-7723"
+    ],
+    "issn-type": [
+      {
+        "value": "0970-9134",
+        "type": "print"
+      },
+      {
+        "value": "0973-7723",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "9 August 2023",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "12 December 2023",
+        "order": 2,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "12 December 2023",
+        "order": 3,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "3 January 2024",
+        "order": 4,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Informed consent"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval"
+        }
+      },
+      {
+        "value": "Jeppe Kofoed Petersen: NoneLauge Østergaard: Independent research grant from Novo Nordisk FoundationEmil Fosbøl: Independent research grant from Novo Nordisk Foundation",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 5,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Statement of human and animal rights"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T14:21:42Z",
+      "timestamp": 1740147702060,
+      "version": "3.37.3"
+    },
+    "reference-count": 12,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "S1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2024-05-01T00:00:00Z",
+          "timestamp": 1714521600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2024-05-01T00:00:00Z",
+          "timestamp": 1714521600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Indian J Thorac Cardiovasc Surg"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1007/s12055-024-01751-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2024-05-16T08:02:31Z",
+      "timestamp": 1715846551000
+    },
+    "page": "1-3",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Infective endocarditis—whose baby? Everyone’s!"
+    ],
+    "prefix": "10.1007",
+    "volume": "40",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-5088-7226",
+        "authenticated-orcid": false,
+        "given": "Om Prakash",
+        "family": "Yadava",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1751_CR1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmed.2021.641243",
+        "author": "G Cuervo",
+        "year": "2021",
+        "unstructured": "Cuervo G, Escrihuela-Vidal F, Gudiol C, Carratala J. Current challenges in the management of infective endocarditis. Front Med. 2021. https://doi.org/10.3389/fmed.2021.641243.",
+        "journal-title": "Front Med"
+      },
+      {
+        "key": "1751_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "6844",
+        "DOI": "10.1016/j.sjbs.2021.07.060",
+        "volume": "28",
+        "author": "MKA Abdullah",
+        "year": "2021",
+        "unstructured": "Abdullah MKA, Mohammed AAA. Infective endocarditis: role of molecular techniques in early diagnosis. Saudi J Biol Sci. 2021;28:6844–52.",
+        "journal-title": "Saudi J Biol Sci"
+      },
+      {
+        "key": "1751_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "3075",
+        "DOI": "10.1093/eurheartj/ehv319",
+        "volume": "36",
+        "author": "G Habib",
+        "year": "2015",
+        "unstructured": "Habib G, Lancellotti P, Antunes MJ, Bongiorni MG, Casalta JP, Del Zotti F, et al. 2015 ESC guidelines for the management of infective endocarditis: the task force for the management of infective endocarditis of the European Society of Cardiology (ESC) endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). Eur Heart J. 2015;36:3075–128. https://doi.org/10.1093/eurheartj/ehv319.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "1751_CR4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12350-019-01963-x",
+        "author": "AR Wahadat",
+        "year": "2019",
+        "unstructured": "Wahadat AR, Tanis W, Swart LE, Scholtens A, Krestin GP, van Mieghem NMDA, et al. Added value of 18F-FDG-PET/CT and cardiac CTA in suspected transcatheter aortic valve endocarditis. J Nucl Cardiol. 2019. https://doi.org/10.1007/s12350-019-01963-x.",
+        "journal-title": "J Nucl Cardiol"
+      },
+      {
+        "key": "1751_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "405",
+        "DOI": "10.1016/j.jmoldx.2019.12.006",
+        "volume": "22",
+        "author": "C Grumaz",
+        "year": "2020",
+        "unstructured": "Grumaz C, Hoffmann A, Vainshtein Y, Kopp M, Grumaz S, Stevens P, et al. Rapid next-generation sequencing-based diagnostics of bacteremia in septic patients. J Mol Diagnostics JMD. 2020;22:405–18.",
+        "journal-title": "J Mol Diagnostics JMD"
+      },
+      {
+        "key": "1751_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "468",
+        "DOI": "10.1515/cdbme-2021-2119",
+        "volume": "7",
+        "author": "V Bruns",
+        "year": "2021",
+        "unstructured": "Bruns V, Franz D, Kuritcyn P, Wiesmann V, Rathke M, Wittenberg T, et al. Towards computer aided diagnosis of infective endocarditis in whole-slide images of heart valve tissue using FISH. Curr Dir Biomed Eng. 2021;7:468–71. https://doi.org/10.1515/cdbme-2021-2119.",
+        "journal-title": "Curr Dir Biomed Eng"
+      },
+      {
+        "key": "1751_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "2466",
+        "DOI": "10.1056/NEJMoa1112843",
+        "volume": "366",
+        "author": "D-H Kang",
+        "year": "2012",
+        "unstructured": "Kang D-H, Kim Y-J, Kim S-H, Sun BJ, Kim D-H, Yun S-C, et al. Early surgery vs. conventional treatment for infective endocarditis. N Engl J Med. 2012;366:2466–73. https://doi.org/10.1056/NEJMoa1112843.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "1751_CR8",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Martinez ML, Plata-Menchaca EP, Ruiz-Rodriguez JC, Ferrer R. An approach to antibiotic treatment in patients with sepsis. J Thorac Dis. 2020;12. https://doi.org/10.21037/jtd.2020.01.47",
+        "DOI": "10.21037/jtd.2020.01.47"
+      },
+      {
+        "key": "1751_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "1602",
+        "DOI": "10.1007/s00134-017-4782-4",
+        "volume": "43",
+        "author": "F Bloos",
+        "year": "2017",
+        "unstructured": "Bloos F, Ruddel H, Thomas-Ruddel D, Schwarzkopf D, Pausch C, Harbarth S, et al. Effect of a multifaceted educational intervention for anti-infectious measures on sepsis mortality: a cluster randomized trial. Intensive Care Med. 2017;43:1602–12.",
+        "journal-title": "Intensive Care Med"
+      },
+      {
+        "key": "1751_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "621",
+        "DOI": "10.21037/acs.2019.09.03",
+        "volume": "8",
+        "author": "PM Davierwala",
+        "year": "2019",
+        "unstructured": "Davierwala PM, Marin-Cuartas M, Misfeld M, Borger MA. The value of an “endocarditis team.” Ann Cardiothorac Surg. 2019;8:621–9. https://doi.org/10.21037/acs.2019.09.03.",
+        "journal-title": "Ann Cardiothorac Surg"
+      },
+      {
+        "key": "1751_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1290",
+        "DOI": "10.1001/archinternmed.2009.192",
+        "volume": "169",
+        "author": "E Botelho-Nevers",
+        "year": "2009",
+        "unstructured": "Botelho-Nevers E, Thuny F, Casalta JP, Richet H, Gouriet F, Collart F, et al. Dramatic reduction in infective endocarditis-related mortality with a management-based approach. Arch Intern Med. 2009;169:1290–8. https://doi.org/10.1001/archinternmed.2009.192.",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "1751_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "3075",
+        "DOI": "10.1093/eurheartj/ehv319",
+        "volume": "36",
+        "author": "G Habib",
+        "year": "2015",
+        "unstructured": "Habib G, Lancellotti P, Antunes MJ, Bongiorni MG, Casalta JP, Zotti FD, et al. ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC). Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). Eur Heart J. 2015;36:3075–128. https://doi.org/10.1093/eurheartj/ehv319.",
+        "journal-title": "Eur Heart J"
+      }
+    ],
+    "container-title": [
+      "Indian Journal of Thoracic and Cardiovascular Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12055-024-01751-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s12055-024-01751-4/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12055-024-01751-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2024-05-30T09:31:14Z",
+      "timestamp": 1717061474000
+    },
+    "score": 56.975883,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s12055-024-01751-4"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "references-count": 12,
+    "journal-issue": {
+      "issue": "S1",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1751"
+    ],
+    "URL": "https://doi.org/10.1007/s12055-024-01751-4",
+    "ISSN": [
+      "0970-9134",
+      "0973-7723"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0970-9134"
+      },
+      {
+        "type": "electronic",
+        "value": "0973-7723"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "16 May 2024",
+        "order": 1,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval"
+        }
+      },
+      {
+        "value": "Not required.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Informed consent statement"
+        }
+      },
+      {
+        "value": "None.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 5,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Statement of human and animal rights"
+        }
+      },
+      {
+        "value": "This content has been made available to all.",
+        "name": "free",
+        "label": "Free to read"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2026-03-12T17:59:24Z",
+      "timestamp": 1773338364891,
+      "version": "3.50.1"
+    },
+    "reference-count": 60,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "S1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              22
+            ]
+          ],
+          "date-time": "2023-11-22T00:00:00Z",
+          "timestamp": 1700611200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              11,
+              22
+            ]
+          ],
+          "date-time": "2023-11-22T00:00:00Z",
+          "timestamp": 1700611200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Indian J Thorac Cardiovasc Surg"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1007/s12055-023-01627-z",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          22
+        ]
+      ],
+      "date-time": "2023-11-22T05:01:35Z",
+      "timestamp": 1700629295000
+    },
+    "page": "8-15",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Uncommon pathogens causing infective endocarditis"
+    ],
+    "prefix": "10.1007",
+    "volume": "40",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5836-7177",
+        "authenticated-orcid": false,
+        "given": "Thangam",
+        "family": "Menon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          22
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1627_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "463",
+        "DOI": "10.1001/archinternmed.2008.603",
+        "volume": "169",
+        "author": "DR Murdoch",
+        "year": "2009",
+        "unstructured": "Murdoch DR, Corey GR, Hoen B, Miró JM, Fowler VG Jr, Bayer AS, et al. International Collaboration on Endocarditis- Prospective Cohort Study (ICE–PCS) Investigators. Clinical presentation, etiology, and outcome of infective endocarditis in the 21st century: the International Collaboration on Endocarditis- Prospective Cohort Study. Arch Intern Med. 2009;169:463–73.",
+        "journal-title": "Arch Intern Med."
+      },
+      {
+        "key": "1627_CR2",
+        "first-page": "1",
+        "volume": "9",
+        "author": "AJ Hackett",
+        "year": "2020",
+        "unstructured": "Hackett AJ, Stuart J. Infective endocarditis: identification and management in the emergency department. Emerg Med Pract. 2020;9:1–24.",
+        "journal-title": "Emerg Med Pract."
+      },
+      {
+        "key": "1627_CR3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fowler VG, Jr, Durack DT, Selton–Suty C, Athan E, Bayer AS, Chamis AL, et al. The 2023 Duke–ISCVID criteria for infective endocarditis: updating the modified Duke Criteria, Clin Infect Dis. 2023; 77:518-526",
+        "DOI": "10.1093/cid/ciad271"
+      },
+      {
+        "key": "1627_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1148",
+        "DOI": "10.1016/S0140-6736(16)31602-6",
+        "volume": "388",
+        "author": "R Barnett",
+        "year": "2016",
+        "unstructured": "Barnett R. Infective endocarditis. Lancet. 2016;388:1148.",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "1627_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "1227",
+        "DOI": "10.1007/s10096-016-2660-6",
+        "volume": "35",
+        "author": "CT Vogkou",
+        "year": "2016",
+        "unstructured": "Vogkou CT, Vlachogiannis NI, Palaiodimos L, Kousoulis AA. The causative agents in infective endocarditis: a systematic review comprising 33,214 cases. Eur J Clin Microbiol Infect Dis. 2016;35:1227–45.",
+        "journal-title": "Eur J Clin Microbiol Infect Dis."
+      },
+      {
+        "key": "1627_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1037",
+        "DOI": "10.1016/j.amjmed.2016.05.012",
+        "volume": "129",
+        "author": "AK Pasha",
+        "year": "2016",
+        "unstructured": "Pasha AK, Lee JZ, Low SW, Desai H, Lee KS, Al MM. Fungal endocarditis: update on diagnosis and management. Am J Med. 2016;129:1037–43.",
+        "journal-title": "Am J Med."
+      },
+      {
+        "key": "1627_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "196",
+        "DOI": "10.1093/eurheartj/ehl427",
+        "volume": "28",
+        "author": "EE Hill",
+        "year": "2007",
+        "unstructured": "Hill EE, Herijgers P, Claus P, Vanderschueren S, Herregods MC, Peetermans WE. Infective endocarditis: changing epidemiology and predictors of 6- month mortality: a prospective cohort study. Eur Heart J. 2007;28:196–203.",
+        "journal-title": "Eur Heart J."
+      },
+      {
+        "key": "1627_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "S43",
+        "DOI": "10.1016/j.nmni.2018.05.004",
+        "volume": "26",
+        "author": "F Gouriet",
+        "year": "2018",
+        "unstructured": "Gouriet F, Chaudet H, Gautret P, Pellegrin L, de Santi VP, Savini H, et al. Endocarditis in the Mediterranean Basin. New Microbes New Infect. 2018;26:S43–51.",
+        "journal-title": "New Microbes New Infect."
+      },
+      {
+        "key": "1627_CR9",
+        "first-page": "60",
+        "volume": "66",
+        "author": "R Madhumitha",
+        "year": "2018",
+        "unstructured": "Madhumitha R, Ramasubramanian V, Nambi PS, Ramakrishnan B, Gopalakrishnan R, Sathyamurthy. Profile of infective endocarditis: at a tertiary care referral centre. J Assoc Physicians India. 2018;66:60–5.",
+        "journal-title": "J Assoc Physicians India."
+      },
+      {
+        "key": "1627_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "869",
+        "DOI": "10.1007/s15010-022-01929-1",
+        "volume": "51",
+        "author": "S Chamat-Hedemand",
+        "year": "2023",
+        "unstructured": "Chamat-Hedemand S, Dahl A, Hassager C, Arpi M, Ostergaard L, Bundgaard H, et al. Streptococcal infective endocarditis: clinical features and outcomes according to species. Infection. 2023;51:869–79.",
+        "journal-title": "Infection"
+      },
+      {
+        "key": "1627_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "177",
+        "DOI": "10.1128/CMR.14.1.177-207.2001",
+        "volume": "14",
+        "author": "P Brouqui",
+        "year": "2001",
+        "unstructured": "Brouqui P, Raoult D. Endocarditis due to rare and fastidious bacteria. Clin Microbiol Rev. 2001;14:177–207.",
+        "journal-title": "Clin Microbiol Rev"
+      },
+      {
+        "key": "1627_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "2733",
+        "DOI": "10.1128/jcm.35.11.2733-2739.1997",
+        "volume": "35",
+        "author": "D Goldenberger",
+        "year": "1997",
+        "unstructured": "Goldenberger D, Künzli A, Vogt P, Zbinden R, Altwegg M. Molecular diagnosis of bacterial endocarditis by broad–range PCR amplification and direct sequencing. J Clin Microbiol. 1997;35:2733–9.",
+        "journal-title": "J Clin Microbiol."
+      },
+      {
+        "key": "1627_CR13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Raoult D, Casalta JP, Richet H, Khan M, Bernit E, Rovery C. Contribution of systematic serological testing in diagnosis of infective endocarditis. J Clin Microbiol. 2005;43:5238–42.",
+        "DOI": "10.1128/JCM.43.10.5238-5242.2005"
+      },
+      {
+        "key": "1627_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "162",
+        "DOI": "10.1097/01.md.0000165658.82869.17",
+        "volume": "84",
+        "author": "P Houpikian",
+        "year": "2005",
+        "unstructured": "Houpikian P, Raoult D. Blood culture- negative endocarditis in a reference center: etiologic diagnosis of 348 cases. Medicine. 2005;84:162–73.",
+        "journal-title": "Medicine"
+      },
+      {
+        "key": "1627_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "315",
+        "DOI": "10.1016/j.ijmmb.2022.01.009",
+        "volume": "40",
+        "author": "R Balasubramanian",
+        "year": "2022",
+        "unstructured": "Balasubramanian R, Fournier PE, Ganesan PS, Menon T. Q fever endocarditis in India: a report of two cases. Indian J Med Microbiol. 2022;40:315–6.",
+        "journal-title": "Indian J Med Microbiol."
+      },
+      {
+        "key": "1627_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "245",
+        "DOI": "10.1097/00005792-200107000-00003",
+        "volume": "80",
+        "author": "PE Fournier",
+        "year": "2001",
+        "unstructured": "Fournier PE, Lelievre H, Eykyn SJ, Mainardi JL, Marrie TJ, Bruneel F. Epidemiologic and clinical characteristics of Bartonella quintana and Bartonella henselae endocarditis: a study of 48 patients. Medicine. 2001;80:245–51.",
+        "journal-title": "Medicine."
+      },
+      {
+        "key": "1627_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "254",
+        "DOI": "10.1097/IPC.0000000000000384",
+        "volume": "24",
+        "author": "JE Raybould",
+        "year": "2016",
+        "unstructured": "Raybould JE, Raybould AL, Morales MK, Megan K, Misbah Z, Lipkowitz MS, et al. Bartonella endocarditis and Pauci–immune glomerulonephritis: a case report and review of the literature. Infect Dis Clin Pract. 2016;24:254–60.",
+        "journal-title": "Infect Dis Clin Pract."
+      },
+      {
+        "key": "1627_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "473",
+        "DOI": "10.3201/eid2003.131059",
+        "volume": "20",
+        "author": "G Watt",
+        "year": "2014",
+        "unstructured": "Watt G, Pachirat O, Baggett HC, Maloney SA, Lulitanond V, Raoult D. Infective endocarditis in Northeastern Thailand. Emerging Infect Dis. 2014;20:473–6.",
+        "journal-title": "Emerging Infect Dis."
+      },
+      {
+        "key": "1627_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "1168",
+        "DOI": "10.3201/eid1407.071374",
+        "volume": "14",
+        "author": "N Balakrishnan",
+        "year": "2008",
+        "unstructured": "Balakrishnan N, Menon T, Fournier PE, Raoult D. Bartonella quintana and Coxiella burnetii as causes of endocarditis. India. Emerg Infect Dis. 2008;14:1168–9.",
+        "journal-title": "India. Emerg Infect Dis."
+      },
+      {
+        "key": "1627_CR20",
+        "first-page": "DR01–DR03",
+        "volume": "14",
+        "author": "R Balasubramanian",
+        "year": "2020",
+        "unstructured": "Balasubramanian R, Fournier PE, Ganesan PS, Menon T. Bartonella endocarditis: a case series from Chennai, India. J Clin Diagn Res. 2020;14:DR01–DR03.",
+        "journal-title": "J Clin Diagn Res."
+      },
+      {
+        "key": "1627_CR21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Rattanavong S, Fournier PE, Chu V, Frichitthavong K, Kesone P, et al. Bartonella henselae endocarditis in Laos – 'the unsought will go undetected'. PLoS Negl Trop Dis. 2014;8:e3385.",
+        "DOI": "10.1371/journal.pntd.0003385"
+      },
+      {
+        "key": "1627_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "188",
+        "DOI": "10.18683/germs.2019.1176",
+        "volume": "9",
+        "author": "D Youssef",
+        "year": "2019",
+        "unstructured": "Youssef D, Marroush TS, Levine MT, Sharma M. Endocarditis due to Neisseria elongata: a case report and review of the literature. Germs. 2019;9:188–92.",
+        "journal-title": "Germs."
+      },
+      {
+        "key": "1627_CR23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Banjari M, Haddad E, Bonnet I, Legrand L, Cohen F, Caumes E, et al. Infective endocarditis due to Neisseria elongata: a case report and literature review. Infect Dis Now. 2021;51:622–6.",
+        "DOI": "10.1016/j.idnow.2021.01.013"
+      },
+      {
+        "key": "1627_CR24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Watkins R, Marincowitz C, Locke T, Hunter S. An unusual cause of endocarditis. BMJ Case Rep. 2022;15:e249214.",
+        "DOI": "10.1136/bcr-2022-249214"
+      },
+      {
+        "key": "1627_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "907",
+        "DOI": "10.1186/s12879-020-05652-w",
+        "volume": "20",
+        "author": "A de Santis",
+        "year": "2020",
+        "unstructured": "de Santis A, Siciliano RF, Sampaio RO, Akamine M, Veronese ET, de Almeida Magalhaes FM, et al. Non-toxigenic Corynebacterium diphtheriae infective endocarditis with embolic events: a case report. BMC Infect Dis. 2020;20:907.",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "key": "1627_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "829",
+        "DOI": "10.7326/0003-4819-147-12-200712180-00002",
+        "volume": "147",
+        "author": "S Morpeth",
+        "year": "2007",
+        "unstructured": "Morpeth S, Murdoch D, Cabell CH, Karchmer AW, Pappas P, Levine D, et al. Non - HACEK gram - negative bacillus endocarditis. Ann Intern Med. 2007;147:829–35.",
+        "journal-title": "Ann Intern Med."
+      },
+      {
+        "key": "1627_CR27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.idcr.2020.e00787",
+        "volume": "M;21",
+        "author": "S Ramireddy",
+        "year": "2020",
+        "unstructured": "Ramireddy S, Gudipati S, Zervos M. Expect the Unexpected: A Rare Case of Pseudomonas aeruginosa Endocarditis. IDCases. 2020;M;21:e00787.",
+        "journal-title": "IDCases."
+      },
+      {
+        "key": "1627_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "545",
+        "DOI": "10.3109/00365548.2011.554432",
+        "volume": "43",
+        "author": "TK Lauridsen",
+        "year": "2011",
+        "unstructured": "Lauridsen TK, Arpi M, Fritz-Hansen T, Frimodt-Møller N, Bruun NE. Infectious endocarditis caused by Escherichia coli. Scand J Infect Dis. 2011;43:545–6.",
+        "journal-title": "Scand J Infect Dis."
+      },
+      {
+        "key": "1627_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "401",
+        "DOI": "10.1111/j.1469-0691.2006.01375.x",
+        "volume": "12",
+        "author": "R Micol",
+        "year": "2006",
+        "unstructured": "Micol R, Lortholary O, Jaureguy F, Bonacorsi S, Bingen E, Lefort A, et al. Escherichia coli native valve endocarditis. Clin Microbiol Infect. 2006;12:401–3.",
+        "journal-title": "Clin Microbiol Infect."
+      },
+      {
+        "key": "1627_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "195",
+        "DOI": "10.1186/s12872-018-0929-7",
+        "volume": "18",
+        "author": "N Akuzawa",
+        "year": "2018",
+        "unstructured": "Akuzawa N, Kurabayashi M. Native valve endocarditis due to Escherichia coli infection: a case report and review of the literature. BMC Cardiovasc Disord. 2018;18:195.",
+        "journal-title": "BMC Cardiovasc Disord."
+      },
+      {
+        "key": "1627_CR31",
+        "first-page": "DD05",
+        "volume": "11",
+        "author": "T Menon",
+        "year": "2017",
+        "unstructured": "Menon T, Balakrishnan N, Somasundaram S, Dhandapani P. Native valve endocarditis caused by Escherichia Coli. J Clin Diagn Res. 2017;11:DD05–6.",
+        "journal-title": "J Clin Diagn Res."
+      },
+      {
+        "key": "1627_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1080/1120009X.2021.1959786",
+        "volume": "34",
+        "author": "P Ioannou",
+        "year": "2022",
+        "unstructured": "Ioannou P, Vamvoukaki R, Kofteridis DP. Infective endocarditis by Enterobacter cloacae: a systematic review and meta–analysis. J Chemother. 2022;34:1–8.",
+        "journal-title": "J Chemother"
+      },
+      {
+        "key": "1627_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "203",
+        "DOI": "10.1080/1120009X.2020.1812804",
+        "volume": "33",
+        "author": "P Ioannou",
+        "year": "2021",
+        "unstructured": "Ioannou P, Mavrikaki V, Kofteridis DP. Infective endocarditis by Acinetobacter species: a systematic review. J Chemother. 2021;33:203–15.",
+        "journal-title": "J Chemother."
+      },
+      {
+        "key": "1627_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "573",
+        "DOI": "10.4103/0377-4929.43773",
+        "volume": "51",
+        "author": "SS Kumar",
+        "year": "2008",
+        "unstructured": "Kumar SS, Vengadassalapathy L, Menon T. Prosthetic valve endocarditis caused by Acinetobacter baumannii complex. Indian J Pathol Microbiol. 2008;51:573.",
+        "journal-title": "Indian J Pathol Microbiol."
+      },
+      {
+        "key": "1627_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "347",
+        "DOI": "10.1080/1120009X.2022.2043513",
+        "volume": "34",
+        "author": "P Ioannou",
+        "year": "2022",
+        "unstructured": "Ioannou P, Alexakis K, Spentzouri D, Kofteridis DP. Infective endocarditis by Serratia species: a systematic review. J Chemother. 2022;34:347–59.",
+        "journal-title": "J Chemother."
+      },
+      {
+        "key": "1627_CR36",
+        "first-page": "98",
+        "volume": "78",
+        "author": "T Riangwiwat",
+        "year": "2019",
+        "unstructured": "Riangwiwat T, Dworkin J. Tricuspid valve infective endocarditis due to Klebsiella pneumoniae in intravenous drug user. Hawaii J Med Public Health. 2019;78:98–102.",
+        "journal-title": "Hawaii J Med Public Health."
+      },
+      {
+        "key": "1627_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "312",
+        "DOI": "10.1007/s42399-020-00721-2",
+        "volume": "3",
+        "author": "B Tiri",
+        "year": "2021",
+        "unstructured": "Tiri B, Priante G, Mariottini A, Sensi E, Gioia S, Constantini M, et al. Endocarditis of native valve due to Proteus mirabilis: case report and literature review. SN Compr Clin. Med. 2021;3:312–6.",
+        "journal-title": "SN Compr Clin. Med."
+      },
+      {
+        "key": "1627_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "19",
+        "DOI": "10.3390/tropicalmed6010019",
+        "volume": "6",
+        "author": "P Ioannou",
+        "year": "2021",
+        "unstructured": "Ioannou P, Vougiouklakis G, Baliou S, Miliara E, Kofteridis DP. Infective endocarditis by Yersinia species: a systematic review. Trop Med Infect Dis. 2021;6:19.",
+        "journal-title": "Trop Med Infect Dis."
+      },
+      {
+        "key": "1627_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "798",
+        "DOI": "10.1099/00207713-45-4-798",
+        "volume": "45",
+        "author": "Y Kawamura",
+        "year": "1995",
+        "unstructured": "Kawamura Y, Hou XG, Sultana F, Liu S, Yamamoto H, Ezaki T. Transfer of Streptococcus adjacens and Streptococcus defectivus to Abiotrophia gen. nov. as Abiotrophia adiacens comb. nov. and Abiotrophia defectiva comb. nov., respectively. Int J Syst Bacteriol. 1995;45:798–803.",
+        "journal-title": "Int J Syst Bacteriol."
+      },
+      {
+        "key": "1627_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "2458",
+        "DOI": "10.1128/jcm.35.10.2458-2463.1997",
+        "volume": "35",
+        "author": "Y Ohara-Nemoto",
+        "year": "1997",
+        "unstructured": "Ohara-Nemoto Y, Tajika S, Sasaki M, Kaneko M. Identification of Abiotrophia adiacens and Abiotrophia defectiva by 16S rRNA gene PCR and restriction fragment length polymorphism analysis. J Clin Microbiol. 1997;35:2458–63.",
+        "journal-title": "J Clin Microbiol."
+      },
+      {
+        "key": "1627_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "100",
+        "DOI": "10.1128/JCM.36.1.100-104.1998",
+        "volume": "36",
+        "author": "A Roggenkamp",
+        "year": "1998",
+        "unstructured": "Roggenkamp A, Abele-Horn M, Trebesius KH, Tretter U, Autenrieth IB, Heesemann J. Abiotrophia elegans sp. nov., a possible pathogen in patients with culture–negative endocarditis. J Clin Microbiol. 1998;36:100–4.",
+        "journal-title": "J Clin Microbiol."
+      },
+      {
+        "key": "1627_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "365",
+        "DOI": "10.1099/00207713-50-1-365",
+        "volume": "50",
+        "author": "MD Collins",
+        "year": "2000",
+        "unstructured": "Collins MD, Lawson PA. The genus Abiotrophia (Kawamura et al.) is not monophyletic: proposal of Granulicatella gen. nov., Granulicatella adiacens comb. nov., Granulicatella elegans comb. nov. and Granulicatella balaenopterae comb. nov. Int J Syst Evol Microbiol. 2000;50:365–9.",
+        "journal-title": "Int J Syst Evol Microbiol"
+      },
+      {
+        "key": "1627_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "56",
+        "DOI": "10.1016/j.ijid.2014.10.023",
+        "volume": "31",
+        "author": "EL Adam",
+        "year": "2015",
+        "unstructured": "Adam EL, Siciliano RF, Gualandro DM, Calderaro D, Issa VS, Rossi F, et al. Case series of infective endocarditis caused by Granulicatella species. Int J Infect Dis. 2015;31:56–8.",
+        "journal-title": "Int J Infect Dis."
+      },
+      {
+        "key": "1627_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "908",
+        "DOI": "10.1093/clinids/9.5.908",
+        "volume": "9",
+        "author": "DS Stein",
+        "year": "1987",
+        "unstructured": "Stein DS, Nelson KE. Endocarditis due to nutritionally deficient streptococci: therapeutic dilemma. Rev Infect Dis. 1987;9:908–16.",
+        "journal-title": "Rev Infect Dis"
+      },
+      {
+        "key": "1627_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/0196-4399(90)90077-O",
+        "volume": "12",
+        "author": "K Ruoff",
+        "year": "1990",
+        "unstructured": "Ruoff K. Gemella: a tale of two species (and five genera). Clin Microbiol Newsl. 1990;12:1–4.",
+        "journal-title": "Clin Microbiol Newsl."
+      },
+      {
+        "key": "1627_CR46",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kariyanna T, Sutarjono B, Ellanti NP, Jayarangaiah A, Jayarangaiah A, Chandrakumar HP, et al. Risk factors and patient profile of infective endocarditis due to Gemella spp. Am J Med Case Rep. 2021;9:103–15.",
+        "DOI": "10.12691/ajmcr-9-2-4"
+      },
+      {
+        "key": "1627_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "581",
+        "DOI": "10.1007/s15010-012-0251-8",
+        "volume": "40",
+        "author": "T Menon",
+        "year": "2012",
+        "unstructured": "Menon T, Naveenkumar V. Catonella morbi as a cause of native valve endocarditis in Chennai. India. Infection. 2012;40:581–2.",
+        "journal-title": "India. Infection"
+      },
+      {
+        "key": "1627_CR48",
+        "first-page": "ofy330",
+        "volume": "6",
+        "author": "M McGee",
+        "year": "2018",
+        "unstructured": "McGee M, Brienesse S, Chong B, Levendel A, Lai K. Tropheryma whipplei endocarditis: case presentation and review of the literature. Open Forum. Infect Dis. 2018;6:ofy330.",
+        "journal-title": "Infect Dis."
+      },
+      {
+        "key": "1627_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "e01555",
+        "DOI": "10.1016/j.idcr.2022.e01555",
+        "volume": "29",
+        "author": "PM Patel",
+        "year": "2022",
+        "unstructured": "Patel PM, Camps NS, Rivera CI, Gomez I, Tuda CD. Cutibacterium acnes: an emerging pathogen in culture negative bacterial prosthetic valve infective endocarditis (IE). IDCases. 2022;29:e01555.",
+        "journal-title": "IDCases."
+      },
+      {
+        "key": "1627_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "2300",
+        "DOI": "10.1016/S0735-1097(22)03291-0",
+        "volume": "79",
+        "author": "J O'Brien",
+        "year": "2022",
+        "unstructured": "O'Brien J, Paul C, Ridley D. Rat bite fever: a surreptitious cause of infective endocarditis. J Am Coll Cardiol. 2022;79:2300.",
+        "journal-title": "J Am Coll Cardiol."
+      },
+      {
+        "key": "1627_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "7731",
+        "DOI": "10.4081/idr.2018.7731",
+        "volume": "10",
+        "author": "D Torres-Miranda",
+        "year": "2018",
+        "unstructured": "Torres-Miranda D, Moshgriz M, Siegel M. Streptobacillus moniliformis mitral valve endocarditis and septic arthritis: the challenges of diagnosing rat-bite fever endocarditis. Infect Dis Rep. 2018;10:7731.",
+        "journal-title": "Infect Dis Rep."
+      },
+      {
+        "key": "1627_CR52",
+        "first-page": "e7740",
+        "volume": "12",
+        "author": "S Deliwala",
+        "year": "2020",
+        "unstructured": "Deliwala S, Beere T, Samji V, Mcdonald PJ, Bachuwa G. When zoonotic organisms cross over-Trueperella pyogenes endocarditis presenting as a septic embolic stroke. Cureus. 2020;12:e7740.",
+        "journal-title": "Cureus."
+      },
+      {
+        "key": "1627_CR53",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Thompson GR 3rd, Jenks JD, Baddley JW, Lewis JS II, Egger M, Schwartz IS, et al. Fungal endocarditis: pathophysiology, epidemiology, clinical presentation, diagnosis, and management. Clin Microbiol Rev. 2023:e0001923.",
+        "DOI": "10.1128/cmr.00019-23"
+      },
+      {
+        "key": "1627_CR54",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Habib G, Lancellotti P, Antunes MJ, Bongiorni MG, Casalta JP, Zotti FD, et al. ESC Scientific Document Group 2015 ESC Guidelines for the management of infective endocarditis: The Task Force for the Management of Infective Endocarditis of the European Society of Cardiology. European Heart Journal, 2015; 36 : 3075–3128.",
+        "DOI": "10.1093/eurheartj/ehv319"
+      },
+      {
+        "key": "1627_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "177",
+        "DOI": "10.1128/CMR.14.1.177-207.2001",
+        "volume": "14",
+        "author": "P Brouqui",
+        "year": "2001",
+        "unstructured": "Brouqui P, Raoult D. Endocarditis due to rare and fastidious bacteria. Clin Microbiol Rev. 2001;14:177–207.",
+        "journal-title": "Clin Microbiol Rev."
+      },
+      {
+        "key": "1627_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "730",
+        "DOI": "10.2165/00003495-199754050-00005",
+        "volume": "54",
+        "author": "D Stamboulian",
+        "year": "1997",
+        "unstructured": "Stamboulian D, Carbone E. Recognition, management and prophylaxis of endocarditis. Drugs. 1997;54:730–44.",
+        "journal-title": "Drugs."
+      },
+      {
+        "key": "1627_CR57",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Brouqui P, Tissot-Dupont H, Drancourt M, Berland Y, Etienne J, Leport C, et al. Chronic Q fever: ninety-two cases from France, including 27 without endocarditis. Arch Intern Med. 1993;153:642–8.",
+        "DOI": "10.1001/archinte.153.5.642"
+      },
+      {
+        "key": "1627_CR58",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hoen B, Beguinot I, Rabaud C, Jaussand R, Selton-Suty C, May T, et al. The Duke criteria for diagnosing infective endocarditis are specific: analysis of 100 patients with acute fever or fever of unknown origin. Clin Infect Dis. 1996;23:298–302.",
+        "DOI": "10.1093/clinids/23.2.298"
+      },
+      {
+        "key": "1627_CR59",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Mallmann C, Siemoneit S, Schmiedel D, Petrich A, Gescher DM, Halle E, et al. Fluorescence in situ hybridization to improve the diagnosis of endocarditis: a pilot study. Clin Microbiol Infect. 2010;16:767-773.",
+        "DOI": "10.1111/j.1469-0691.2009.02936.x"
+      },
+      {
+        "key": "1627_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "393",
+        "DOI": "10.1016/S0891-5520(01)00002-2",
+        "volume": "16",
+        "author": "G Lisby",
+        "year": "2002",
+        "unstructured": "Lisby G, Gutschik E, Durack DT. Molecular methods for diagnosis of infective endocarditis. Infect Dis Clin North Am. 2002;16:393–412.",
+        "journal-title": "Infect Dis Clin North Am."
+      }
+    ],
+    "container-title": [
+      "Indian Journal of Thoracic and Cardiovascular Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12055-023-01627-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s12055-023-01627-z/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12055-023-01627-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2024-05-30T10:04:34Z",
+      "timestamp": 1717063474000
+    },
+    "score": 56.620502,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s12055-023-01627-z"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          22
+        ]
+      ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+      "issue": "S1",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1627"
+    ],
+    "URL": "https://doi.org/10.1007/s12055-023-01627-z",
+    "ISSN": [
+      "0970-9134",
+      "0973-7723"
+    ],
+    "issn-type": [
+      {
+        "value": "0970-9134",
+        "type": "print"
+      },
+      {
+        "value": "0973-7723",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          22
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "14 August 2023",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "9 October 2023",
+        "order": 2,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "10 October 2023",
+        "order": 3,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "22 November 2023",
+        "order": 4,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "NA, all data drawn from published work.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval"
+        }
+      },
+      {
+        "value": "The authors have no competing interests to declare that are relevant to the content of this article.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      },
+      {
+        "value": "NA, all data drawn from published work.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent to participate"
+        }
+      },
+      {
+        "value": "NA, all data drawn from published work.",
+        "order": 5,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent for publication"
+        }
+      },
+      {
+        "value": "NA, all data drawn from published work.",
+        "order": 6,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Informed consent and Statement of human and animal rights"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T14:22:43Z",
+      "timestamp": 1740147763713,
+      "version": "3.37.3"
+    },
+    "reference-count": 29,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "S1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              26
+            ]
+          ],
+          "date-time": "2024-01-26T00:00:00Z",
+          "timestamp": 1706227200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              26
+            ]
+          ],
+          "date-time": "2024-01-26T00:00:00Z",
+          "timestamp": 1706227200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100004765",
+        "name": "University of the Free State",
+        "doi-asserted-by": "crossref",
+        "id": [
+          {
+            "id": "10.13039/501100004765",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Indian J Thorac Cardiovasc Surg"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1007/s12055-024-01691-z",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          26
+        ]
+      ],
+      "date-time": "2024-01-26T08:02:02Z",
+      "timestamp": 1706256122000
+    },
+    "page": "4-7",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The changing scenario of infective endocarditis"
+    ],
+    "prefix": "10.1007",
+    "volume": "40",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8148-9044",
+        "authenticated-orcid": false,
+        "given": "Carlos A.",
+        "family": "Mestres",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5386-7463",
+        "authenticated-orcid": false,
+        "given": "Eduard",
+        "family": "Quintana",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          26
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1691_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "965",
+        "DOI": "10.1016/S0140-6736(11)60755-1",
+        "volume": "379",
+        "author": "F Thuny",
+        "year": "2012",
+        "unstructured": "Thuny F, Grisoli D, Collart F, Habib G, Raoult D. Lancet. 2012;379:965–75.",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "1691_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "1141",
+        "DOI": "10.1161/CIRCULATIONAHA.108.773598",
+        "volume": "121",
+        "author": "BD Prendergast",
+        "year": "2010",
+        "unstructured": "Prendergast BD, Tornos P. Surgery for infective endocarditis: who and when? Circulation. 2010;121:1141–52.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1691_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "450",
+        "DOI": "10.1161/01.CIR.31.3.450",
+        "volume": "31",
+        "author": "AG Wallace",
+        "year": "1965",
+        "unstructured": "Wallace AG, Young WG Jr, Osterhout S. Treatment of acute nacterial endocarditis of acute bacterial endocarditis by valve excision and replacement. Circulation. 1965;31:450–3.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1691_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "592",
+        "DOI": "10.1172/JCI107220",
+        "volume": "52",
+        "author": "DT Durack",
+        "year": "1973",
+        "unstructured": "Durack DT, Petersdorf RG. Chemotherapy of experimental streptococcal endocarditis. I. Comparison of commonly recommended prophylactic regimens. J Clin Invest. 1973;52:592–8.",
+        "journal-title": "J Clin Invest"
+      },
+      {
+        "key": "1691_CR5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fowler VG Jr, Miro JM, Hoen B, Cabell CH, Abrutyn E, Rubinstein E, et al. ICE Investigators. Staphylococcus aureus endocarditis: a consequence of medical progress. JAMA. 2005;293:3012–21.",
+        "DOI": "10.1001/jama.293.24.3012"
+      },
+      {
+        "key": "1691_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "498",
+        "DOI": "10.1093/icvts/ivy127",
+        "volume": "27",
+        "author": "J Bustamante-Munguira",
+        "year": "2018",
+        "unstructured": "Bustamante-Munguira J, Mestres CA, Alvarez P, Figuerola-Tejerina A, EirosBachiller R, Gomez-Sanchez E, et al. Surgery for acute infective endocarditis: epidemiological data from a Spanish nationwide hospital-based registry. Interact Cardiovasc Thorac Surg. 2018;27:498–504.",
+        "journal-title": "Interact Cardiovasc Thorac Surg"
+      },
+      {
+        "key": "1691_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "463",
+        "DOI": "10.1001/archinternmed.2008.603",
+        "volume": "169",
+        "author": "DR Murdoch",
+        "year": "2009",
+        "unstructured": "Murdoch DR, Corey GR, Hoen B, Miró JM, Fowler VG Jr, Bayer AS, International Collaboration on Endocarditis-Prospective Cohort Study (ICE-PCS) Investigators. Clinical presentation, etiology, and outcome of infective endocarditis in the 21st century: the International Collaboration on Endocarditis-Prospective Cohort Study. Arch Intern Med. 2009;169:463–73.",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "1691_CR8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ambrosioni J, Hernández-Meneses M, Durante-Mangoni E, Tattevin P, Olaison L, Freiberger T, et al. International collaboration for endocarditis (ICE) investigators. Epidemiological changes and improvement in outcomes of infective endocarditis in europe in the twenty-first century: an international collaboration on Endocarditis (ICE) Prospective Cohort Study (2000-2012). Infect Dis Ther. 2023;12:1083–101.",
+        "DOI": "10.1007/s40121-023-00763-8"
+      },
+      {
+        "key": "1691_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "505",
+        "DOI": "10.7326/0003-4819-94-4-505",
+        "volume": "94",
+        "author": "CF Von Reyn",
+        "year": "1981",
+        "unstructured": "Von Reyn CF, Levy BS, Arbeit RD, Friedland G, Crumpacker CS. Infective endocarditis: an analysis based on strict case definitions. Ann Intern Med. 1981;94:505–18.",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "1691_CR10",
+        "first-page": "200",
+        "volume": "96",
+        "author": "DT Durack",
+        "year": "1994",
+        "unstructured": "Durack DT, Lukes AS, Bright DK. New criteria for diagnosis of infective endocarditis: utilization of specific echocardiographic findings. Duke Endocarditis Service Am J Med. 1994;96:200–9.",
+        "journal-title": "Duke Endocarditis Service Am J Med"
+      },
+      {
+        "key": "1691_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "633",
+        "DOI": "10.1086/313753",
+        "volume": "30",
+        "author": "JS Li",
+        "year": "2000",
+        "unstructured": "Li JS, Sexton DJ, Mick N, Nettles R, Fowler VG Jr, Ryan T, et al. Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis. Clin Infect Dis. 2000;30:633–8.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "1691_CR12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Habib G, Lancellotti P, Antunes MJ, Bongiorni MG, Casalta JP, Del Zotti F, et al. ESC Scientific document group. 2015 ESC Guidelines for the management of infective endocarditis: the task force for the management of infective endocarditis of the european society of cardiology (ESC). Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). Eur Heart J. 2015;36:3075–128.",
+        "DOI": "10.1093/eurheartj/ehv319"
+      },
+      {
+        "key": "1691_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "518",
+        "DOI": "10.1093/cid/ciad271",
+        "volume": "77",
+        "author": "VG Fowler",
+        "year": "2023",
+        "unstructured": "Fowler VG, Durack DT, Selton-Suty C, Athan E, Bayer AS, Chamis AL, et al. The 2023 Duke-International Society for Cardiovascular Infectious Diseases Criteria for Infective Endocarditis: updating the Modified Duke Criteria. Clin Infect Dis. 2023;77:518–26.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "1691_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "ciae003",
+        "DOI": "10.1093/cid/ciae003",
+        "volume": "3",
+        "author": "M Papadimitriou-Olivgeris",
+        "year": "2024",
+        "unstructured": "Papadimitriou-Olivgeris M, Monney P, Frank M, Tzimas G, Tozzi P, Kirsch M, et al. Evaluation of the 2023 Duke-ISCVID and 2023 Duke-ESC clinical criteria for the diagnosis of infective endocarditis in a multicenter cohort of patients with Staphylococcus aureus bacteremia. Clin Infect Dis. 2024;3:ciae003. https://doi.org/10.1093/cid/ciae003.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "1691_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "S89",
+        "DOI": "10.1093/clind/15.Supplement_1.S89",
+        "volume": "15",
+        "author": "WR Wilson",
+        "year": "1992",
+        "unstructured": "Wilson WR, Gilbert DN, Bisno AL, Freedman LR, Smith C, Drusano LR, et al. Evaluation of new anti-infective drugs for the treatment of infective endocarditis Infectious Diseases Society of America and the Food and Drug Administration. Clin Infect Dis. 1992;15:S89-95.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "1691_CR16",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wilson WR, Gewitz M, Lockhart PB, Bolger AF, DeSimone DC, Kazi DS, et al. American heart association young hearts rheumatic fever, endocarditis and kawasaki disease committee of the council on lifelong congenital heart disease and heart health in the young; council on cardiovascular and stroke nursing; and the council on quality of care and outcomes research. prevention of viridans group streptococcal infective endocarditis: a scientific statement from the American heart association. Circulation. 2021;143:e963–78.",
+        "DOI": "10.1161/CIR.0000000000000969"
+      },
+      {
+        "key": "1691_CR17",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Baddour LM, Weimer MB, Wurcel AG, McElhinney DB, Marks LR, Fanucchi LC, et al. American heart association rheumatic fever, endocarditis and kawasaki disease committee of the council on lifelong congenital heart disease and heart health in the young; council on cardiovascular surgery and anesthesia; council on cardiovascular and stroke nursing; council on clinical cardiology; and council on peripheral vascular disease. Management of infective endocarditis in people who inject drugs: a scientific statement from the american heart association. Circulation. 2022;146:e187–201.",
+        "DOI": "10.1161/CIR.0000000000001090"
+      },
+      {
+        "key": "1691_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "1384",
+        "DOI": "10.1016/S0300-8932(00)75245-6",
+        "volume": "53",
+        "author": "F Vallés",
+        "year": "2000",
+        "unstructured": "Vallés F, Anguita M, Escribano MP, Pérez Casar F, Pousibet H, Tornos P, et al. Practice guidelines of the Spanish Society of Cardiology on endocarditis. Rev Esp Cardiol. 2000;53:1384–96.",
+        "journal-title": "Rev Esp Cardiol"
+      },
+      {
+        "key": "1691_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "929",
+        "DOI": "10.1080/00365540701534517",
+        "volume": "39",
+        "author": "K Westling",
+        "year": "2007",
+        "unstructured": "Westling K, Aufwerber E, Ekdahl C, Friman G, Gårdlund B, Julander I, et al. Swedish guidelines for diagnosis and treatment of infective endocarditis. Scand J Infect Dis. 2007;39:929–46.",
+        "journal-title": "Scand J Infect Dis"
+      },
+      {
+        "key": "1691_CR20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wilson WR, Taubert KA, Gewitz M, Lockhart PB, Baddour LM, Levison M, et al. American heart association rheumatic fever, endocarditis and kawasaki disease committee of the council on cardiovascular disease in the young; american heart association council on clinical cardiology; council on cardiovascular surgery and anesthesia; quality of care and outcomes research interdisciplinary working group. Prevention of infective endocarditis: guidelines from the American Heart Association: a guideline american heart association rheumatic fever, endocarditis and kawasaki disease committee of the council on cardiovascular disease in the young; american heart association council on clinical cardiology; council on cardiovascular surgery and anesthesia, and the quality of care and outcomes research interdisciplinary working group. Circulation. 2007;116:1736–54.",
+        "DOI": "10.1161/CIRCULATIONAHA.106.183095"
+      },
+      {
+        "key": "1691_CR21",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Habib G, Lancellotti P, Antunes MJ, Bongiorni MG, Casalta JP, Del Zotti F, et al. ESC Scientific document group. 2015 ESC Guidelines for the management of infective endocarditis: the task force for the management of infective endocarditis of the european society of cardiology (ESC). Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the european association of nuclear medicine (EANM). Eur Heart J. 2015;36:3075–128.",
+        "DOI": "10.1093/eurheartj/ehv319"
+      },
+      {
+        "key": "1691_CR22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "AATS Surgical Treatment of Infective Endocarditis Consensus Guidelines Writing Committee Chairs; Pettersson GB, Coselli JS; Writing Committee; Pettersson GB, Coselli JS, Hussain ST, Griffin B, Blackstone EH, Gordon SM, et al. AATS Surgical treatment of infective endocarditis consensus guidelines writing committee. J Thorac Cardiovasc Surg. 2017;153:1241–58.",
+        "DOI": "10.1016/j.jtcvs.2016.09.093"
+      },
+      {
+        "key": "1691_CR23",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Delgado V, Ajmone Marsan N, de Waha S, Bonaros N, Brida M, Burri H, et al. ESC Scientific Document Group. 2023 ESC Guidelines for the management of endocarditis. Eur Heart J 2023;44:3948–4042.",
+        "DOI": "10.1093/eurheartj/ehad193"
+      },
+      {
+        "key": "1691_CR24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00059-023-05225-y",
+        "author": "S de Waha",
+        "year": "2023",
+        "unstructured": "de Waha S, Desch S, Tilz R, Vogler J, Uhlemann M, Marín-Cuartas M, et al. ESC guidelines 2023 on the management of endocarditis: what is new? Herz. 2023. https://doi.org/10.1007/s00059-023-05225-y.",
+        "journal-title": "Herz"
+      },
+      {
+        "key": "1691_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.12968/hmed.2020.0263",
+        "volume": "81",
+        "author": "MJ Dayer",
+        "year": "2020",
+        "unstructured": "Dayer MJ, Prendergast BD, Thornhill MH, Baddour LM. Why are we seeing an increasing incidence of infective endocarditis in the UK? Br J Hosp Med (Lond). 2020;81:1–4.",
+        "journal-title": "Br J Hosp Med (Lond)"
+      },
+      {
+        "key": "1691_CR26",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Miller PC, Schulte LJ, Marghitu T, Huang S, Kaneko T, Damiano RJ, et al. Outcomes of double-valve surgery for infective endocarditis are improving in the modern era. J Thorac Cardiovasc Surg. 2023;4:S0022–5223(23)00898-X. https://doi.org/10.1016/j.jtcvs.2023.09.072.",
+        "DOI": "10.1016/j.jtcvs.2023.09.072."
+      },
+      {
+        "key": "1691_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "109",
+        "DOI": "10.1001/jamasurg.2013.3066",
+        "volume": "149",
+        "author": "A Noorani",
+        "year": "2014",
+        "unstructured": "Noorani A, Hippelainen M, Nashef SA. Time until treatment equipoise: a new concept in surgical decision making. JAMA Surg. 2014;149:109–11.",
+        "journal-title": "JAMA Surg"
+      },
+      {
+        "key": "1691_CR28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lalani T, Cabell CH, Benjamin DK, Lasca O, Naber C, Fowler VG Jr, et al. International collaboration on endocarditis-prospective cohort study (ICE-PCS) investigators. Analysis of the impact of early surgery on in-hospital mortality of native valve endocarditis: use of propensity score and instrumental variable methods to adjust for treatment-selection bias. Circulation. 2010;121:1005–13.",
+        "DOI": "10.1161/CIRCULATIONAHA.109.864488"
+      },
+      {
+        "key": "1691_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "335",
+        "DOI": "10.1007/s12055-020-00979-0",
+        "volume": "36",
+        "author": "SK Nair",
+        "year": "2020",
+        "unstructured": "Nair SK. Surgical excellence-an ongoing quest. Indian J Thorac Cardiovasc Surg. 2020;36:335–43.",
+        "journal-title": "Indian J Thorac Cardiovasc Surg"
+      }
+    ],
+    "container-title": [
+      "Indian Journal of Thoracic and Cardiovascular Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12055-024-01691-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s12055-024-01691-z/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12055-024-01691-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2024-05-30T09:30:16Z",
+      "timestamp": 1717061416000
+    },
+    "score": 55.093002,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s12055-024-01691-z"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          26
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "S1",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1691"
+    ],
+    "URL": "https://doi.org/10.1007/s12055-024-01691-z",
+    "ISSN": [
+      "0970-9134",
+      "0973-7723"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0970-9134"
+      },
+      {
+        "type": "electronic",
+        "value": "0973-7723"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          26
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "6 January 2024",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "11 January 2024",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "26 January 2024",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "This study did not require Ethics Committee/Institutional review Board approval as it did not represent human research.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Informed consent statement"
+        }
+      },
+      {
+        "value": "The authors declare that they have no conflict of interest in this study.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T14:22:42Z",
+      "timestamp": 1740147762699,
+      "version": "3.37.3"
+    },
+    "reference-count": 60,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "S1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              17
+            ]
+          ],
+          "date-time": "2024-02-17T00:00:00Z",
+          "timestamp": 1708128000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              17
+            ]
+          ],
+          "date-time": "2024-02-17T00:00:00Z",
+          "timestamp": 1708128000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Indian J Thorac Cardiovasc Surg"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1007/s12055-024-01700-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2024-02-17T05:02:11Z",
+      "timestamp": 1708146131000
+    },
+    "page": "29-39",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Diagnostic work-up and current management strategies for infective endocarditis in the pediatric population"
+    ],
+    "prefix": "10.1007",
+    "volume": "40",
+    "author": [
+      {
+        "given": "Yasin",
+        "family": "Essa",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2193-0314",
+        "authenticated-orcid": false,
+        "given": "Sameh M.",
+        "family": "Said",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "1700_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "629",
+        "DOI": "10.1016/j.mayocp.2012.02.023",
+        "volume": "87",
+        "author": "JA Johnson",
+        "year": "2012",
+        "unstructured": "Johnson JA, Boyce TG, Cetta F, Steckelberg JM, Johnson JN. Infective endocarditis in the pediatric patient: a 60-year single-institution review. Mayo Clin Proc. 2012;87:629–35.",
+        "journal-title": "Mayo Clin Proc"
+      },
+      {
+        "key": "1700_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "51",
+        "DOI": "10.1016/j.jsha.2018.11.003",
+        "volume": "31",
+        "author": "BA Nasser",
+        "year": "2019",
+        "unstructured": "Nasser BA, Al Qwaee A, Almesned AR, Akhfash A, Mohamad T, Chaikhouni F, et al. Infective endocarditis in children with normal heart: indication for surgical intervention. J Saudi Heart Assoc. 2019;31:51–6.",
+        "journal-title": "J Saudi Heart Assoc"
+      },
+      {
+        "key": "1700_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "e57",
+        "DOI": "10.1016/j.jacc.2014.02.536",
+        "volume": "63",
+        "author": "RA Nishimura",
+        "year": "2014",
+        "unstructured": "Nishimura RA, Otto CM, Bonow RO, Carabello BA, Erwin JP 3rd, Guyton RA, et al. 2014 AHA/ACC guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2014;63:e57-185.",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "1700_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "617",
+        "DOI": "10.1097/INF.0000000000003110",
+        "volume": "40",
+        "author": "M Mahony",
+        "year": "2021",
+        "unstructured": "Mahony M, Lean D, Pham L, Horvath R, Suna J, Ward C, et al. Infective endocarditis in children in Queensland, Australia: epidemiology, clinical features and outcome. Pediatr Infect Dis J. 2021;40:617–22.",
+        "journal-title": "Pediatr Infect Dis J"
+      },
+      {
+        "key": "1700_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "196",
+        "DOI": "10.1111/chd.12425",
+        "volume": "12",
+        "author": "S Gupta",
+        "year": "2017",
+        "unstructured": "Gupta S, Sakhuja A, McGrath E, Asmar B. Trends, microbiology, and outcomes of infective endocarditis in children during 2000–2010 in the United States. Congenit Heart Dis. 2017;12:196–201.",
+        "journal-title": "Congenit Heart Dis"
+      },
+      {
+        "key": "1700_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "670",
+        "DOI": "10.1136/archdischild-2017-312621",
+        "volume": "103",
+        "author": "J Jortveit",
+        "year": "2018",
+        "unstructured": "Jortveit J, Klcovansky J, Eskedal L, Birkeland S, Døhlen G, Holmstrøm H. Endocarditis in children and adolescents with congenital heart defects: a Norwegian nationwide register-based cohort study. Arch Dis Child. 2018;103:670–4.",
+        "journal-title": "Arch Dis Child"
+      },
+      {
+        "key": "1700_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1149",
+        "DOI": "10.1016/j.jacc.2010.03.085",
+        "volume": "56",
+        "author": "P Khairy",
+        "year": "2010",
+        "unstructured": "Khairy P, Ionescu-Ittu R, Mackie AS, Abrahamowicz M, Pilote L, Marelli AJ. Changing mortality in congenital heart disease. J Am Coll Cardiol. 2010;56:1149–57.",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "1700_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "74",
+        "DOI": "10.1016/j.ijcard.2017.10.085",
+        "volume": "252",
+        "author": "K Thom",
+        "year": "2018",
+        "unstructured": "Thom K, Hanslik A, Russell JL, Williams S, Sivaprakasam P, Allen U, et al. Incidence of infective endocarditis and its thromboembolic complications in a pediatric population over 30years. Int J Cardiol. 2018;252:74–9.",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "1700_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "1111",
+        "DOI": "10.1007/s00431-011-1520-8",
+        "volume": "170",
+        "author": "W Knirsch",
+        "year": "2011",
+        "unstructured": "Knirsch W, Nadal D. Infective endocarditis in congenital heart disease. Eur J Pediatr. 2011;170:1111–27.",
+        "journal-title": "Eur J Pediatr"
+      },
+      {
+        "key": "1700_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "1399",
+        "DOI": "10.1016/j.jtcvs.2019.06.024",
+        "volume": "158",
+        "author": "B Khoo",
+        "year": "2019",
+        "unstructured": "Khoo B, Buratto E, Fricke TA, Gelbart B, Brizard CP, Brink J, et al. Outcomes of surgery for infective endocarditis in children: a 30-year experience. J Thorac Cardiovasc Surg. 2019;158:1399–409.",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "1700_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "625",
+        "DOI": "10.1002/ccd.28474",
+        "volume": "94",
+        "author": "S Sadeghi",
+        "year": "2019",
+        "unstructured": "Sadeghi S, Wadia S, Lluri G, Tarabay J, Fernando A, Salem M, et al. Risk factors for infective endocarditis following transcatheter pulmonary valve replacements in patients with congenital heart disease. Catheter Cardiovasc Interv. 2019;94:625–35.",
+        "journal-title": "Catheter Cardiovasc Interv"
+      },
+      {
+        "key": "1700_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "865",
+        "DOI": "10.1161/CIRCULATIONAHA.108.798751",
+        "volume": "119",
+        "author": "MD Day",
+        "year": "2009",
+        "unstructured": "Day MD, Gauvreau K, Shulman S, Newburger JW. Characteristics of children hospitalized with infective endocarditis. Circulation. 2009;119:865–70.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1700_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "56",
+        "DOI": "10.1016/j.pediatrneurol.2018.07.001",
+        "volume": "90",
+        "author": "GF Cao",
+        "year": "2019",
+        "unstructured": "Cao GF, Bi Q. Pediatric infective endocarditis and stroke: a 13-year single-center review. Pediatr Neurol. 2019;90:56–60.",
+        "journal-title": "Pediatr Neurol"
+      },
+      {
+        "key": "1700_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1487",
+        "DOI": "10.1161/CIR.0000000000000298",
+        "volume": "132",
+        "author": "RS Baltimore",
+        "year": "2015",
+        "unstructured": "Baltimore RS, Gewitz M, Baddour LM, Beerman LB, Jackson MA, Lockhart PB, et al. Infective endocarditis in childhood: 2015 update: a scientific statement from the American Heart Association. Circulation. 2015;132:1487–515.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1700_CR15",
+        "first-page": "200",
+        "volume": "96",
+        "author": "DT Durack",
+        "year": "1994",
+        "unstructured": "Durack DT, Lukes AS, Bright DK. New criteria for diagnosis of infective endocarditis: utilization of specific echocardiographic findings. Duke Endocarditis Service Am J Med. 1994;96:200–9.",
+        "journal-title": "Duke Endocarditis Service Am J Med"
+      },
+      {
+        "key": "1700_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "518",
+        "DOI": "10.1093/cid/ciad271",
+        "volume": "77",
+        "author": "VG Fowler",
+        "year": "2023",
+        "unstructured": "Fowler VG, Durack DT, Selton-Suty C, Athan E, Bayer AS, Chamis AL. The 2023 Duke-International Society for Cardiovascular Infectious Diseases Criteria for Infective Endocarditis: updating the Modified Duke Criteria. Clin Infect Dis. 2023;77:518–26.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "1700_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "3948",
+        "DOI": "10.1093/eurheartj/ehad193",
+        "volume": "44",
+        "author": "V Delgado",
+        "year": "2023",
+        "unstructured": "Delgado V, Ajmone Marsan N, de Waha S, Bonaros N, Brida M, Burri H, et al. ESC Scientific Document Group 2023. ESC Guidelines for the management of endocarditis. Eur Heart J. 2023;44:3948–4042.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "1700_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "3075",
+        "DOI": "10.1093/eurheartj/ehv319",
+        "volume": "36",
+        "author": "G Habib",
+        "year": "2015",
+        "unstructured": "Habib G, Lancellotti P, Antunes MJ, Bongiorni MG, Casalta JP, Del Zotti F, et al. 2015 ESC Guidelines for the management of infective endocarditis: the Task Force for the Management of Infective Endocarditis of the European Society of Cardiology (ESC). Endorsed by: European Association for Cardio-Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM). Eur Heart J. 2015;36:3075–128.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "1700_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "2599",
+        "DOI": "10.1128/JCM.00635-17",
+        "volume": "55",
+        "author": "RM Liesman",
+        "year": "2017",
+        "unstructured": "Liesman RM, Pritt BS, Maleszewski JJ, Patel R. Laboratory diagnosis of infective endocarditis. J Clin Microbiol. 2017;55:2599–608.",
+        "journal-title": "J Clin Microbiol"
+      },
+      {
+        "key": "1700_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "459",
+        "DOI": "10.1007/s15010-015-0863-x",
+        "volume": "44",
+        "author": "CC Lamas",
+        "year": "2016",
+        "unstructured": "Lamas CC, Fournier PE, Zappa M, Brandão TJD, Januário-da-Silva CA, Correia MG, et al. Diagnosis of blood culture-negative endocarditis and clinical comparison between blood culture negative and blood culture-positive cases. Infection. 2016;44:459–66.",
+        "journal-title": "Infection"
+      },
+      {
+        "key": "1700_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "374",
+        "DOI": "10.1111/cei.13266",
+        "volume": "196",
+        "author": "T Ris",
+        "year": "2019",
+        "unstructured": "Ris T, Teixeira-Carvalho A, Coelho RMP, Brandao-de-Resende C, Gomes MS, Amaral LR, et al. Inflammatory biomarkers in infective endocarditis: machine learning to predict mortality. Clin Exp Immunol. 2019;196:374–82.",
+        "journal-title": "Clin Exp Immunol"
+      },
+      {
+        "key": "1700_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "114",
+        "DOI": "10.1111/echo.12602",
+        "volume": "32",
+        "author": "W Tanis",
+        "year": "2015",
+        "unstructured": "Tanis W, Teske AJ, van Herwerden LA, Chamuleau S, Meijboom F, Budde RPJ, et al. The additional value of three-dimensional transesophageal echocardiography in complex aortic prosthetic heart valve endocarditis. Echocardiography. 2015;32:114–25.",
+        "journal-title": "Echocardiography"
+      },
+      {
+        "key": "1700_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "2466",
+        "DOI": "10.1056/NEJMoa1112843",
+        "volume": "366",
+        "author": "DH Kang",
+        "year": "2012",
+        "unstructured": "Kang DH, Kim YJ, Kim SH, Sun BJ, Kim DH, Yun SC, et al. Early surgery versus conventional treatment for infective endocarditis. N Engl J Med. 2012;366:2466–73.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "1700_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "506",
+        "DOI": "10.1016/j.jtcvs.2012.12.001",
+        "volume": "146",
+        "author": "P Shamszad",
+        "year": "2013",
+        "unstructured": "Shamszad P, Khan MS, Rossano JW, Fraser CD Jr. Early surgical therapy of infective endocarditis in children: a 15-year experience. J Thorac Cardiovasc Surg. 2013;146:506–11.",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "1700_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "1403",
+        "DOI": "10.1016/S0140-6736(00)02844-0",
+        "volume": "356",
+        "author": "P Bonhoeffer",
+        "year": "2000",
+        "unstructured": "Bonhoeffer P, Boudjemline Y, Saliba Z, Merckx J, Aggoun Y, Bonnet D, et al. Percutaneous replacement of pulmonary valve in a right-ventricle to pulmonary-artery prosthetic conduit with valve dysfunction. Lancet. 2000;356:1403–5.",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "1700_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "425",
+        "DOI": "10.1016/j.ijcard.2013.10.016",
+        "volume": "169",
+        "author": "G Cheung",
+        "year": "2013",
+        "unstructured": "Cheung G, Vejlstrup N, Ihlemann N, Arnous S, Franzen O, Bundgaard H, et al. Infective endocarditis following percutaneous pulmonary valve replacement: diagnostic challenges and application of intra-cardiac echocardiography. Int J Cardiol. 2013;169:425–9.",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "1700_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "1964",
+        "DOI": "10.1161/CIRCULATIONAHA.107.735779",
+        "volume": "117",
+        "author": "P Lurz",
+        "year": "2008",
+        "unstructured": "Lurz P, Coats L, Khambadkone S, Nordmeyer J, Boudjemline Y, Schievano S, et al. Percutaneous pulmonary valve implantation: impact of evolving technology and learning curve on clinical outcome. Circulation. 2008;117:1964–72.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1700_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "301",
+        "DOI": "10.1161/CIRCINTERVENTIONS.112.000348",
+        "volume": "6",
+        "author": "J Buber",
+        "year": "2013",
+        "unstructured": "Buber J, Bergersen L, Lock JE, Gauvreau K, Esch JJ, Landzberg MJ, et al. Bloodstream infections occurring in patients with percutaneously implanted bioprosthetic pulmonary valve: a single-center experience. Circ Cardiovasc Interv. 2013;6:301–10.",
+        "journal-title": "Circ Cardiovasc Interv"
+      },
+      {
+        "key": "1700_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "1960",
+        "DOI": "10.1161/CIRCULATIONAHA.114.013588",
+        "volume": "131",
+        "author": "JP Cheatham",
+        "year": "2015",
+        "unstructured": "Cheatham JP, Hellenbrand WE, Zahn EM, Jones TK, Berman DP, Vincent JA, et al. Clinical and hemodynamic outcomes up to 7 years after transcatheter pulmonary valve replacement in the US melody valve investigational device exemption trial. Circulation. 2015;131:1960–70.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1700_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "294",
+        "DOI": "10.1017/S1047951116000494",
+        "volume": "27",
+        "author": "C O’Donnell",
+        "year": "2017",
+        "unstructured": "O’Donnell C, Holloway R, Tilton E, Stirling J, Finucane K, Wilson N. Infective endocarditis following Melody valve implantation: comparison with a surgical cohort. Cardiol Young. 2017;27:294–301.",
+        "journal-title": "Cardiol Young"
+      },
+      {
+        "key": "1700_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "201",
+        "DOI": "10.1016/j.ijcard.2015.07.004",
+        "volume": "198",
+        "author": "Z Jalal",
+        "year": "2015",
+        "unstructured": "Jalal Z, Galmiche L, Lebeaux D, Villemain O, Brugada G, Patel M, et al. Selective propensity of bovine jugular vein material to bacterial adhesions: an in-vitro study. Int J Cardiol. 2015;198:201–5.",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "1700_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "788",
+        "DOI": "10.1136/heartjnl-2014-306761",
+        "volume": "101",
+        "author": "I Van Dijck",
+        "year": "2015",
+        "unstructured": "Van Dijck I, Budts W, Cools B, Eyskens B, Boshoff D, Heying R, et al. Infective endocarditis of a transcatheter pulmonary valve in comparison with surgical implants. Heart. 2015;101:788–93.",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "1700_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "749",
+        "DOI": "10.1136/heartjnl-2014-307287",
+        "volume": "101",
+        "author": "A Uebing",
+        "year": "2015",
+        "unstructured": "Uebing A, Rigby ML. The problem of infective endocarditis after transcatheter pulmonary valve implantation. Heart. 2015;101:749–51.",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "1700_CR34",
+        "doi-asserted-by": "crossref",
+        "first-page": "e124",
+        "DOI": "10.1093/ejcts/ezv245",
+        "volume": "48",
+        "author": "M Vollroth",
+        "year": "2015",
+        "unstructured": "Vollroth M, Daehnert I, Kostelka M, Wagner R. First case of blood-culture proven Staphylococcus aureus endocarditis of a Sapien1 XT valve after percutaneous pulmonary valve implantation. Eur J Cardiothorac Surg. 2015;48:e124–5.",
+        "journal-title": "Eur J Cardiothorac Surg"
+      },
+      {
+        "key": "1700_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "e326",
+        "DOI": "10.1161/CIRCULATIONAHA.107.754069",
+        "volume": "117",
+        "author": "TC Slesnick",
+        "year": "2008",
+        "unstructured": "Slesnick TC, Nugent AW, Fraser CD Jr, Cannon BC. Incomplete endothelialization and late development of acute bacterial endocarditis after implantation of an Amplatzer septal occluder device. Circulation. 2008;117:e326–7.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "1700_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "e11",
+        "DOI": "10.1016/j.cjca.2016.02.068",
+        "volume": "32",
+        "author": "Z Jalal",
+        "year": "2016",
+        "unstructured": "Jalal Z, Hascoet S, Baruteau AE, Iriart X, Kreitmann B, Boudjemline Y, et al. Long-term complications after transcatheter atrial septal defect closure: a review of the medical literature. Can J Cardiol. 2016;32:e11–8.",
+        "journal-title": "Can J Cardiol"
+      },
+      {
+        "key": "1700_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "e1256",
+        "DOI": "10.1542/peds.2005-2498",
+        "volume": "117",
+        "author": "O Scheuerman",
+        "year": "2006",
+        "unstructured": "Scheuerman O, Bruckheimer E, Marcus N, Hoffer V, Garty BZ. Endocarditis after closure of ventricular septal defect by transcatheter device. Pediatrics. 2006;117:e1256–8.",
+        "journal-title": "Pediatrics"
+      },
+      {
+        "key": "1700_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "463",
+        "DOI": "10.1001/archinternmed.2008.603",
+        "volume": "169",
+        "author": "DR Murdoch",
+        "year": "2009",
+        "unstructured": "Murdoch DR, Corey GR, Hoen B, Miró JM, Fowler VG Jr, Bayer AS, et al. Clinical presentation, etiology, and outcome of infective endocarditis in the 21st century: the International Collaboration on Endocarditis-Prospective Cohort Study. Arch Intern Med. 2009;169:463–73.",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "1700_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "1109",
+        "DOI": "10.1097/INF.0b013e31822d320b",
+        "volume": "30",
+        "author": "JS Penk",
+        "year": "2011",
+        "unstructured": "Penk JS, Webb CL, Shulman ST, Anderson EJ. Echocardiography in pediatric infective endocarditis. Pediatr Infect Dis J. 2011;30:1109–11.",
+        "journal-title": "Pediatr Infect Dis J"
+      },
+      {
+        "key": "1700_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "515",
+        "DOI": "10.1093/europace/euz246",
+        "volume": "22",
+        "author": "C Blomström-Lundqvist",
+        "year": "2020",
+        "unstructured": "Blomström-Lundqvist C, Traykov V, Erba PA, Burri H, Nielsen JC, Bongiorni MG, et al. European Heart Rhythm Association (EHRA) international consensus document on how to prevent, diagnose, and treat cardiac implantable electronic device infections-endorsed by the Heart Rhythm Society (HRS), the Asia Pacific Heart Rhythm Society (APHRS), the Latin American Heart Rhythm Society (LAHRS), International Society for Cardiovascular Infectious Diseases (ISCVID) and the European Society of Clinical Microbiology and Infectious Diseases (ESCMID) in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS). Europace. 2020;22:515–49.",
+        "journal-title": "Europace"
+      },
+      {
+        "key": "1700_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "172",
+        "DOI": "10.21470/1678-9741-2020-0035",
+        "volume": "36",
+        "author": "K Yakut",
+        "year": "2021",
+        "unstructured": "Yakut K, Ecevit, Tokel NK, Varan B, Ozkan M. Infective endocarditis in childhood: a single-center experience of 18 years. Braz J Cardiovasc Surg. 2021;36:172–82.",
+        "journal-title": "Braz J Cardiovasc Surg."
+      },
+      {
+        "key": "1700_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "70",
+        "DOI": "10.1016/j.ahj.2019.05.014",
+        "volume": "215",
+        "author": "TJ Cahill",
+        "year": "2019",
+        "unstructured": "Cahill TJ, Jewell PD, Denne L, Franklin RC, Frigiola A, Orchard E, et al. Contemporary epidemiology of infective endocarditis in patients with congenital heart disease: a UK prospective study. Am Heart J. 2019;215:70–7.",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "key": "1700_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "ytad433",
+        "DOI": "10.1093/ehjcr/ytad433",
+        "volume": "7",
+        "author": "M Abumehdi",
+        "year": "2023",
+        "unstructured": "Abumehdi M, Spada MF, Semple T, di Salvo G, Fraisse A. Case report: septic embolism through patent foramen ovale in mitral valve endocarditis. Eur Heart J Case Rep. 2023;7:ytad433.",
+        "journal-title": "Eur Heart J Case Rep"
+      },
+      {
+        "key": "1700_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "e007145",
+        "DOI": "10.1161/CIRCINTERVENTIONS.118.007145",
+        "volume": "11",
+        "author": "FR Pluchinotta",
+        "year": "2018",
+        "unstructured": "Pluchinotta FR, Piekarski BL, Milani V, Kretschmar O, Burch PT, Hakami L, et al. Surgical atrioventricular valve replacement with melody valve in infants and children. Circ Cardiovasc Interv. 2018;11:e007145.",
+        "journal-title": "Circ Cardiovasc Interv."
+      },
+      {
+        "key": "1700_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "339",
+        "DOI": "10.1053/j.semtcvs.2022.05.003",
+        "volume": "35",
+        "author": "DM Wu",
+        "year": "2023",
+        "unstructured": "Wu DM, Buratto E, Schulz A, Zhu MZL, Ivanov Y, Ishigami S, et al. Outcomes of mitral valve repair in children with infective endocarditis: a single-center experience. Semin Thorac Cardiovasc Surg. 2023;35:339–47.",
+        "journal-title": "Semin Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "1700_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "65",
+        "DOI": "10.1016/j.jtcvs.2013.07.038",
+        "volume": "148",
+        "author": "S Fukushima",
+        "year": "2014",
+        "unstructured": "Fukushima S, Tesar PJ, Pearse B, Jalali H, Sparks L, Fraser JF, et al. Long-term clinical outcomes after aortic valve replacement using cryopreserved aortic allograft. J Thorac Cardioavasc Surg. 2014;148:65–72.",
+        "journal-title": "J Thorac Cardioavasc Surg"
+      },
+      {
+        "key": "1700_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "623",
+        "DOI": "10.1016/j.jtcvs.2008.02.080",
+        "volume": "136",
+        "author": "RC Elkins",
+        "year": "2008",
+        "unstructured": "Elkins RC, Thompson DM, Lane MM, Elkins CC, Peyton MD. Ross operation: 16-year experience. J Thorac Cardiovasc Surg. 2008;136:623–30.",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "1700_CR48",
+        "first-page": "21",
+        "volume": "22",
+        "author": "O Korun",
+        "year": "2019",
+        "unstructured": "Korun O, Selcuk A, Yurdakök O, Altın HF, Cicek M, Kılıç Y, et al. Ross operation early and mid-term results in children and young adults. Anatol J Cardiol. 2019;22:21–5.",
+        "journal-title": "Anatol J Cardiol"
+      },
+      {
+        "key": "1700_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "1462",
+        "DOI": "10.1017/S1047951122004267",
+        "volume": "33",
+        "author": "M Yilmaz",
+        "year": "2023",
+        "unstructured": "Yilmaz M, Pamuk U, Gursu HA, Atalay A. Urgent aortic valve neocuspidization using the Ozaki procedure in an infant with native aortic valve endocarditis. Cardiol Young. 2023;33:1462–4.",
+        "journal-title": "Cardiol Young"
+      },
+      {
+        "key": "1700_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.ahj.2022.09.003",
+        "volume": "255",
+        "author": "KS Mylonas",
+        "year": "2023",
+        "unstructured": "Mylonas KS, Tasoudis PT, Pavlopoulos D, Kanakis M, Stavridis GT, Avgerinos DV. Aortic valve neocuspidization using the Ozaki technique: a meta-analysis of reconstructed patient-level data. Am Heart J. 2023;255:1–11.",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "key": "1700_CR51",
+        "first-page": "00038",
+        "volume": "S1043–0679",
+        "author": "DM Wu",
+        "year": "2023",
+        "unstructured": "Wu DM, Zhu MZL, Buratto E, Brizard CP, Konstantinov IE. Aortic valve surgery in children with infective endocarditis. Semin Thorac Cardiovasc Surg. 2023;S1043–0679:00038–2.",
+        "journal-title": "Semin Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "1700_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "1929",
+        "DOI": "10.1007/s00246-022-02938-5",
+        "volume": "43",
+        "author": "AM Butensky",
+        "year": "2022",
+        "unstructured": "Butensky AM, Channing A, Handel AS, Kalfa D, Holzer S. Tricuspid valve endocarditis in four patients with unrepaired restrictive perimembranous ventricular septal defects. Pediatr Cardiol. 2022;43:1929–33.",
+        "journal-title": "Pediatr Cardiol"
+      },
+      {
+        "key": "1700_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "1374",
+        "DOI": "10.1016/j.athoracsur.2013.05.046",
+        "volume": "96",
+        "author": "JG Gaca",
+        "year": "2013",
+        "unstructured": "Gaca JG, Sheng S, Daneshmand M, Rankin JS, Williams ML, O’Brien SM, et al. Current outcomes for tricuspid valve infective endocarditis surgery in North America. Ann Thorac Surg. 2013;96:1374–81.",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "1700_CR54",
+        "first-page": "18",
+        "volume": "20",
+        "author": "K Charkiewicz-Szeremeta",
+        "year": "2023",
+        "unstructured": "Charkiewicz-Szeremeta K, Matlak K, Garbowska M, Hirnle G, Kralisz P, Kocañda S, et al. Infective endocarditis of the tricuspid valve. Surgical treatment with pericardial cylinder implantation. Kardiochir Torakochirurgia Pol. 2023;20:18–23.",
+        "journal-title": "Kardiochir Torakochirurgia Pol."
+      },
+      {
+        "key": "1700_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "3042",
+        "DOI": "10.1016/j.jtcvs.2014.06.092",
+        "volume": "148",
+        "author": "MW Gerdisch",
+        "year": "2014",
+        "unstructured": "Gerdisch MW, Boyd WD, Harlan JL, Richardson JB Jr, Flack JE 3rd, Palafox BA, et al. Early experience treating tricuspid valve endocarditis with a novel extracellular matrix cylinder reconstruction. J Thorac Cardiovasc Surg. 2014;148:3042–8.",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "1700_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "3222",
+        "DOI": "10.1093/eurheartj/ehz620",
+        "volume": "40",
+        "author": "G Habib",
+        "year": "2019",
+        "unstructured": "Habib G, Erba PA, Iung B, Donal E, Cosyns B, Laroche C, et al. Clinical presentation, etiology and outcome of infective endocarditis. Results of the ESC-EORP EURO-ENDO (European infective endocarditis) registry: A prospective cohort study. Eur Heart J. 2019;40:3222–32.",
+        "journal-title": "Eur Heart J."
+      },
+      {
+        "key": "1700_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "496",
+        "DOI": "10.4103/apc.apc_14_21",
+        "volume": "14",
+        "author": "S Sharma",
+        "year": "2021",
+        "unstructured": "Sharma S, Malavia GA. Pulmonary valve infective endocarditis: a case series. Ann Pediatr Cardiol. 2021;14:496–500.",
+        "journal-title": "Ann Pediatr Cardiol"
+      },
+      {
+        "key": "1700_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "1725",
+        "DOI": "10.1111/jocs.14659",
+        "volume": "35",
+        "author": "R Kumar",
+        "year": "2020",
+        "unstructured": "Kumar R, Halder V, Gourav KP, Patel R, Munirathimnam GK, Mandal B, et al. Pulmonary valve neocuspidization with glutaraldehyde-treated autologous pericardium- a novel technique in pulmonary valve endocarditis. J Card Surg. 2020;35:1725–8.",
+        "journal-title": "J Card Surg"
+      },
+      {
+        "key": "1700_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "392",
+        "DOI": "10.1542/peds.71.3.392",
+        "volume": "71",
+        "author": "DG Oelberg",
+        "year": "1983",
+        "unstructured": "Oelberg DG, Fisher DJ, Gross DM, Denson SE, Adcock EW 3rd. Endocarditis in high-risk neonates. Pediatrics. 1983;71:392–7.",
+        "journal-title": "Pediatrics"
+      },
+      {
+        "key": "1700_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "99",
+        "DOI": "10.1177/000331970405500115",
+        "volume": "55",
+        "author": "M Bilge",
+        "year": "2004",
+        "unstructured": "Bilge M, Üner A, Özeren A, Aydin M, Demirel F, Ermiş B, et al. Pulmonary endarteritis and subsequent embolization to the lung as a complication of a patent ductus arteriosus: a case report. Angiology. 2004;55:99–102.",
+        "journal-title": "Angiology"
+      }
+    ],
+    "container-title": [
+      "Indian Journal of Thoracic and Cardiovascular Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12055-024-01700-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s12055-024-01700-1/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s12055-024-01700-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2024-05-30T10:04:53Z",
+      "timestamp": 1717063493000
+    },
+    "score": 54.596222,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s12055-024-01700-1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          17
+        ]
+      ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+      "issue": "S1",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1700"
+    ],
+    "URL": "https://doi.org/10.1007/s12055-024-01700-1",
+    "ISSN": [
+      "0970-9134",
+      "0973-7723"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0970-9134"
+      },
+      {
+        "type": "electronic",
+        "value": "0973-7723"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          17
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "22 October 2023",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "19 January 2024",
+        "order": 2,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "23 January 2024",
+        "order": 3,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "17 February 2024",
+        "order": 4,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "Not applicable due to the review nature of the current manuscript.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Informed consent"
+        }
+      },
+      {
+        "value": "Not applicable due to the review nature of the current manuscript.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics comm approval"
+        }
+      },
+      {
+        "value": "The author (SMS) is a consultant for Abbott, Artivion, and JOMDD.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      },
+      {
+        "value": "Not applicable due to the review nature of the current manuscript.",
+        "order": 5,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Human and animal rights"
+        }
+      }
+    ]
+  }
+]

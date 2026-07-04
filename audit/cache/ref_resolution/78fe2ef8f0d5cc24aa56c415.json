@@ -1,0 +1,1405 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2025-10-27T15:55:38Z",
+      "timestamp": 1761580538368
+    },
+    "reference-count": 22,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              9,
+              25
+            ]
+          ],
+          "date-time": "2007-09-25T00:00:00Z",
+          "timestamp": 1190678400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              9,
+              25
+            ]
+          ],
+          "date-time": "2007-09-25T00:00:00Z",
+          "timestamp": 1190678400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Prostate Cancer Prostatic Dis"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1038/sj.pcan.4501015",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2007-09-25T10:26:24Z",
+      "timestamp": 1190715984000
+    },
+    "page": "280-287",
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Prostate cancer outcomes among older men: insurance status comparisons results from CaPSURE database"
+    ],
+    "prefix": "10.1038",
+    "volume": "11",
+    "author": [
+      {
+        "given": "N",
+        "family": "Sadetsky",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "E P",
+        "family": "Elkin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D M",
+        "family": "Latini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J",
+        "family": "DuChane",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P R",
+        "family": "Carroll",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "name": "and the CaPSURE Investigators",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2007,
+          9,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "BF4501015_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "674",
+        "DOI": "10.1136/pgmj.2005.032813",
+        "volume": "81",
+        "author": "LA Siminoff",
+        "year": "2005",
+        "unstructured": "Siminoff LA, Ross L . Access and equity to cancer care in the USA: a review and assessment. Postgrad Med J 2005; 81: 674–679.",
+        "journal-title": "Postgrad Med J"
+      },
+      {
+        "key": "BF4501015_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "1409",
+        "DOI": "10.1093/jnci/91.16.1409",
+        "volume": "91",
+        "author": "RG Roetzheim",
+        "year": "1999",
+        "unstructured": "Roetzheim RG, Pal N, Tennant C, Voti L, Ayanian JZ, Schwabe A et al. Effects of health insurance and race on early detection of cancer. J Natl Cancer Inst 1999; 91: 1409–1415.",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "BF4501015_CR3",
+        "first-page": "241",
+        "volume": "102",
+        "author": "BE Drake",
+        "year": "2006",
+        "unstructured": "Drake BE, Keane TE, Mosley CM, Adams SA, Elder KT, Modayil MV et al. Prostate cancer disparities in South Carolina: early detection, special programs, and descriptive epidemiology. J S C Med Assoc 2006; 102: 241–249.",
+        "journal-title": "J S C Med Assoc"
+      },
+      {
+        "key": "BF4501015_CR4",
+        "volume-title": "Health Insurance Coverage in the United States: 2002",
+        "author": "R Mills",
+        "year": "2003",
+        "unstructured": "Mills R, Bhandari S . Health Insurance Coverage in the United States: 2002. US Census Bureau: Washington, DC, 2003."
+      },
+      {
+        "key": "BF4501015_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "8",
+        "DOI": "10.3322/canjclin.54.1.8",
+        "volume": "54",
+        "author": "A Jemal",
+        "year": "2004",
+        "unstructured": "Jemal A, Tiwari RC, Murray T, Ghafoor A, Samuels A, Ward E et al. Cancer statistics, 2004. CA Cancer J Clin 2004; 54: 8–29.",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "key": "BF4501015_CR6",
+        "unstructured": "National Comprehensive Cancer Network: Guidelines for Treatment of Cancer by Site. National Comprehensive Cancer Network: Jenkintown, PA, 2003."
+      },
+      {
+        "key": "BF4501015_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1596",
+        "DOI": "10.1200/JCO.2006.10.1949",
+        "volume": "25",
+        "author": "D Loblaw",
+        "year": "2007",
+        "unstructured": "Loblaw D, Virgo K, Nam R, Somerfield M, Ben-Josef E, Mendelson D et al. Initial hormonal management of androgen-sensitive metastatic, recurrent, or progressive prostate cancer: 2006. Update of an American Society of Clinical Oncology Practice Guideline. J Clin Oncol 2007; 25: 1596.",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "BF4501015_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1580",
+        "DOI": "10.1016/S0022-5347(01)62621-1",
+        "volume": "160",
+        "author": "R Millikan",
+        "year": "1998",
+        "unstructured": "Millikan R, Logothetis C . Update of the NCCN Guidelines for Treatment of Prostate Cancer. J Urol 1998; 160: 1580.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "BF4501015_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "2144",
+        "DOI": "10.1016/S0022-5347(01)66718-1",
+        "volume": "154",
+        "author": "RG Middleton",
+        "year": "1995",
+        "unstructured": "Middleton RG, Thompson IM, Austenfeld MS, Cooner WH, Correa RJ, Gibbons RP et al. Prostate Cancer Clinical Guidelines Panel Summary report on the management of clinically localized prostate cancer. The American Urological Association. J Urol 1995; 154: 2144–2148.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "BF4501015_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "9079",
+        "DOI": "10.1200/JCO.2004.00.1297",
+        "volume": "23",
+        "author": "LC Harlan",
+        "year": "2005",
+        "unstructured": "Harlan LC, Greene AL, Clegg LX, Mooney M, Stevens JL, Brown ML . Insurance status and the use of guideline therapy in the treatment of selected cancers. J Clin Oncol 2005; 23: 9079–9088.",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "BF4501015_CR11",
+        "first-page": "255",
+        "volume": "156",
+        "author": "X Wu",
+        "year": "2004",
+        "unstructured": "Wu X, Chen VW, Andrews PA, Chen L, Hsieh M, Fontham ET . Treatment patterns for stage III colon cancer and factors related to receipt of postoperative chemotherapy in Louisiana. J La State Med Soc 2004; 156: 255–261.",
+        "journal-title": "J La State Med Soc"
+      },
+      {
+        "key": "BF4501015_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "2187",
+        "DOI": "10.1002/cncr.20624",
+        "volume": "101",
+        "author": "RR Kelz",
+        "year": "2004",
+        "unstructured": "Kelz RR, Gimotty PA, Polsky D, Norman S, Fraker D, DeMichele A . Morbidity and mortality of colorectal carcinoma surgery differs by insurance status. Cancer 2004; 101: 2187–2194.",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "BF4501015_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "10",
+        "DOI": "10.1258/1355819042248116",
+        "volume": "9",
+        "author": "S Hall",
+        "year": "2004",
+        "unstructured": "Hall S, Holman CD, Sheiner H, Hendrie D . The influence of socio-economic and locational disadvantage on survival after a diagnosis of lung or breast cancer in Western Australia. J Health Serv Res Policy 2004; 9(Suppl 2): 10–16.",
+        "journal-title": "J Health Serv Res Policy"
+      },
+      {
+        "key": "BF4501015_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1099",
+        "DOI": "10.2105/AJPH.82.8.1099",
+        "volume": "82",
+        "author": "HP Greenwald",
+        "year": "1992",
+        "unstructured": "Greenwald HP, Henke CJ . HMO membership, treatment, and mortality risk among prostatic cancer patients. Am J Public Health 1992; 82: 1099–1104.",
+        "journal-title": "Am J Public Health"
+      },
+      {
+        "key": "BF4501015_CR15",
+        "first-page": "525",
+        "volume": "34",
+        "author": "AL Potosky",
+        "year": "1999",
+        "unstructured": "Potosky AL, Merrill RM, Riley GF, Taplin SH, Barlow W, Fireman BH et al. Prostate cancer treatment and ten-year survival among group/staff HMO and fee-for-service Medicare patients. Health Serv Res 1999; 34: 525–546.",
+        "journal-title": "Health Serv Res"
+      },
+      {
+        "key": "BF4501015_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "2135",
+        "DOI": "10.1001/archinte.163.18.2135",
+        "volume": "163",
+        "author": "K McDavid",
+        "year": "2003",
+        "unstructured": "McDavid K, Tucker TC, Sloggett A, Coleman MP . Cancer survival in Kentucky and health insurance coverage. Arch Intern Med 2003; 163: 2135–2144.",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "BF4501015_CR17",
+        "first-page": "188",
+        "volume": "157",
+        "author": "X Wu",
+        "year": "2005",
+        "unstructured": "Wu X, Chen VW, Andrews PA, Chen L, Ahmed MN, Schmidit B et al. Initial treatment patterns for clinically localized prostate cancer and factors associated with the treatment in Louisiana. J La State Med Soc 2005; 157: 188–194.",
+        "journal-title": "J La State Med Soc"
+      },
+      {
+        "key": "BF4501015_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "9",
+        "DOI": "10.1111/j.1475-6773.2005.00463.x",
+        "volume": "41",
+        "author": "NL Keating",
+        "year": "2006",
+        "unstructured": "Keating NL, Landrum MB, Meara E, Ganz PA, Guadagnoli E . Managed care market share and primary treatment for cancer. Health Serv Res 2006; 41: 9–22.",
+        "journal-title": "Health Serv Res"
+      },
+      {
+        "key": "BF4501015_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "594",
+        "DOI": "10.1002/1097-0142(19930715)72:2<594::AID-CNCR2820720243>3.0.CO;2-#",
+        "volume": "72",
+        "author": "JS Goodwin",
+        "year": "1993",
+        "unstructured": "Goodwin JS, Hunt WC, Samet JM . Determinants of cancer therapy in elderly patients. Cancer 1993; 72: 594–601.",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "BF4501015_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "503",
+        "DOI": "10.1023/A:1008951009959",
+        "volume": "10",
+        "author": "CR Morris",
+        "year": "1999",
+        "unstructured": "Morris CR, Snipes KP, Schlag R, Wright WE . Sociodemographic factors associated with prostatectomy utilization and concordance with the physician data query for prostate cancer (United States). Cancer Causes Control 1999; 10: 503–511.",
+        "journal-title": "Cancer Causes Control"
+      },
+      {
+        "key": "BF4501015_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "350",
+        "DOI": "10.1016/S0895-4356(00)00312-7",
+        "volume": "54",
+        "author": "DF Penson",
+        "year": "2001",
+        "unstructured": "Penson DF, Stoddard ML, Pasta DJ, Lubeck DP, Flanders SC, Litwin MS . The association between socioeconomic status, health insurance coverage, and quality of life in men with prostate cancer. J Clin Epidemiol 2001; 54: 350–358.",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "BF4501015_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "905",
+        "DOI": "10.1097/01.ju.0000081200.63275.0b",
+        "volume": "170",
+        "author": "MR Cooperberg",
+        "year": "2003",
+        "unstructured": "Cooperberg MR, Lubeck DP, Penson DF, Mehta SS, Carroll PR, Kane CJ . Sociodemographic and clinical risk characteristics of patients with prostate cancer within the Veterans Affairs health care system: data from CaPSURE. J Urol 2003; 170: 905–908.",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Prostate Cancer and Prostatic Diseases"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/4501015.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/4501015",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/4501015.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          30
+        ]
+      ],
+      "date-time": "2022-03-30T22:14:02Z",
+      "timestamp": 1648678442000
+    },
+    "score": 72.36521,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/4501015"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          9,
+          25
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "BF4501015"
+    ],
+    "URL": "https://doi.org/10.1038/sj.pcan.4501015",
+    "ISSN": [
+      "1365-7852",
+      "1476-5608"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1365-7852"
+      },
+      {
+        "type": "electronic",
+        "value": "1476-5608"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          9,
+          25
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "17 May 2007",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "21 August 2007",
+        "order": 2,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "22 August 2007",
+        "order": 3,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "25 September 2007",
+        "order": 4,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T19:09:55Z",
+      "timestamp": 1761764995375
+    },
+    "reference-count": 12,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2008-01-01T00:00:00Z",
+          "timestamp": 1199145600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2007.08.126",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          12,
+          5
+        ]
+      ],
+      "date-time": "2007-12-05T23:31:01Z",
+      "timestamp": 1196897461000
+    },
+    "page": "136-140",
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "title": [
+      "Prostate Biopsy Patterns in the CaPSURE Database: Evolution With Time and Impact on Outcome After Prostatectomy"
+    ],
+    "prefix": "10.1097",
+    "volume": "179",
+    "author": [
+      {
+        "given": "Jay B.",
+        "family": "Shah",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Departments of Urology, Columbia University Medical Center, New York, New York, and University of California-San Francisco and Urologic Outcomes Research Group, University of California-San Francisco Comprehensive Cancer Center, San Francisco, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "James M.",
+        "family": "McKiernan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departments of Urology, Columbia University Medical Center, New York, New York, and University of California-San Francisco and Urologic Outcomes Research Group, University of California-San Francisco Comprehensive Cancer Center, San Francisco, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eric P.",
+        "family": "Elkin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departments of Urology, Columbia University Medical Center, New York, New York, and University of California-San Francisco and Urologic Outcomes Research Group, University of California-San Francisco Comprehensive Cancer Center, San Francisco, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Peter R.",
+        "family": "Carroll",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departments of Urology, Columbia University Medical Center, New York, New York, and University of California-San Francisco and Urologic Outcomes Research Group, University of California-San Francisco Comprehensive Cancer Center, San Francisco, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maxwell V.",
+        "family": "Meng",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Departments of Urology, Columbia University Medical Center, New York, New York, and University of California-San Francisco and Urologic Outcomes Research Group, University of California-San Francisco Comprehensive Cancer Center, San Francisco, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "name": "CaPSURE Investigators",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.3322/canjclin.55.1.10",
+        "article-title": "Cancer Statistics, 2005",
+        "volume": "55",
+        "author": "Jemal",
+        "year": "2005",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "163",
+        "DOI": "10.1016/S0022-5347(05)67995-5",
+        "article-title": "The optimal systematic prostate biopsy scheme should include 8 rather than 6 biopsies: results of a prospective clinical trial",
+        "volume": "163",
+        "author": "Presti",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.1016/S0022-5347(06)00493-9",
+        "article-title": "Impact of increased number of biopsies on the risk of the identified prostate cancer",
+        "volume": "176",
+        "author": "Meng",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1938",
+        "DOI": "10.1097/01.ju.0000158155.33890.e7",
+        "article-title": "The University of California, San Francisco Cancer of the Prostate Risk Assessment score: a straightforward and reliable preoperative predictor of disease recurrence after radical prostatectomy",
+        "volume": "173",
+        "author": "Cooperberg",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "368",
+        "DOI": "10.1016/j.urology.2005.08.036",
+        "article-title": "Does year of radical prostatectomy independently predict outcome in prostate cancer?",
+        "volume": "67",
+        "author": "Mitchell",
+        "year": "2006",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "773",
+        "DOI": "10.1016/S0090-4295(96)00226-9",
+        "article-title": "The CaPSURE database: a methodology for clinical practice and research in prostate cancer",
+        "volume": "48",
+        "author": "Lubeck",
+        "year": "1996",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1393",
+        "DOI": "10.1097/01.ju.0000107247.81471.06",
+        "article-title": "The contemporary management of prostate cancer in the United States: lessons from the Cancer of the Prostate Strategic Urologic Research Endeavor (CaPSURE), a national disease registry",
+        "volume": "171",
+        "author": "Cooperberg",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1016/S0022-5347(17)38664-0",
+        "article-title": "Random systematic versus directed ultrasound guided transrectal core biopsies of the prostate",
+        "volume": "142",
+        "author": "Hodge",
+        "year": "1989",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "152",
+        "DOI": "10.1016/S0022-5347(05)67993-1",
+        "article-title": "A comparative analysis of sextant and an extended 11-core multisite directed biopsy strategy",
+        "volume": "163",
+        "author": "Babaian",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "2224",
+        "DOI": "10.1097/01.ju.0000144456.67352.63",
+        "article-title": "Increased accuracy of biopsy Gleason score obtained by extended needle biopsy",
+        "volume": "172",
+        "author": "Emiliozzi",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1789",
+        "DOI": "10.1097/01.ju.0000177465.11299.02",
+        "article-title": "Independent impact of extended-pattern biopsy on prostate cancer stage migration",
+        "volume": "174",
+        "author": "Master",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2007.08.126_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "2215",
+        "DOI": "10.1097/01.ju.0000124463.13319.0a",
+        "article-title": "Preoperative model for predicting prostate specific antigen recurrence after radical prostatectomy using percent of biopsy tissue with cancer, biopsy Gleason grade and serum prostate specific antigen",
+        "volume": "171",
+        "author": "Freedland",
+        "year": "2004",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S0022534707022926?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S0022534707022926?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2007.08.126",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T01:27:03Z",
+      "timestamp": 1651195623000
+    },
+    "score": 62.475803,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2007.08.126"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          1
+        ]
+      ]
+    },
+    "references-count": 12,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2007.08.126"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2007.08.126",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0022-5347"
+      },
+      {
+        "type": "electronic",
+        "value": "1527-3792"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          31
+        ]
+      ],
+      "date-time": "2025-10-31T07:06:31Z",
+      "timestamp": 1761894391247
+    },
+    "reference-count": 20,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2006,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2006-10-01T00:00:00Z",
+          "timestamp": 1159660800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2006.06.001",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          9,
+          4
+        ]
+      ],
+      "date-time": "2006-09-04T11:12:26Z",
+      "timestamp": 1157368346000
+    },
+    "page": "1382-1386",
+    "source": "Crossref",
+    "is-referenced-by-count": 63,
+    "title": [
+      "Changing Patterns of Pelvic Lymphadenectomy for Prostate Cancer: Results From CaPSURE™"
+    ],
+    "prefix": "10.1097",
+    "volume": "176",
+    "author": [
+      {
+        "given": "Jun",
+        "family": "Kawakami",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Urologic Outcomes Research Group, Program in Urologic Oncology, Department of Urology, University of California-San Francisco Comprehensive Cancer Center, University of California-San Francisco, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maxwell V.",
+        "family": "Meng",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Urologic Outcomes Research Group, Program in Urologic Oncology, Department of Urology, University of California-San Francisco Comprehensive Cancer Center, University of California-San Francisco, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Natalia",
+        "family": "Sadetsky",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Urologic Outcomes Research Group, Program in Urologic Oncology, Department of Urology, University of California-San Francisco Comprehensive Cancer Center, University of California-San Francisco, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "David M.",
+        "family": "Latini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Urologic Outcomes Research Group, Program in Urologic Oncology, Department of Urology, University of California-San Francisco Comprehensive Cancer Center, University of California-San Francisco, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Janeen",
+        "family": "Duchane",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Urologic Outcomes Research Group, Program in Urologic Oncology, Department of Urology, University of California-San Francisco Comprehensive Cancer Center, University of California-San Francisco, California"
+          },
+          {
+            "name": "TAP Pharmaceutical Products, Inc., Lake Forest, Illinois"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Peter R.",
+        "family": "Carroll",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Urologic Outcomes Research Group, Program in Urologic Oncology, Department of Urology, University of California-San Francisco Comprehensive Cancer Center, University of California-San Francisco, California"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "name": "CaPSURE™ Investigators",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "300",
+        "DOI": "10.1016/j.urolonc.2003.11.011",
+        "article-title": "Continuing trends in pathological stage migration in radical prostatectomy specimens",
+        "volume": "22",
+        "author": "Derweesh",
+        "year": "2004",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "773",
+        "DOI": "10.1016/S0090-4295(96)00226-9",
+        "article-title": "The CaPSURE database: a methodology for clinical practice and research in prostate cancer. CaPSURE Research Panel. Cancer of the Prostate Strategic Urologic Research Endeavor",
+        "volume": "48",
+        "author": "Lubeck",
+        "year": "1996",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1280",
+        "DOI": "10.1001/jama.284.10.1280",
+        "article-title": "Biochemical outcome following external beam radiation therapy with or without androgen suppression therapy for clinically localized prostate cancer",
+        "volume": "284",
+        "author": "D’Amico",
+        "year": "2000",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1798",
+        "DOI": "10.1097/01.ju.0000091805.98960.13",
+        "article-title": "A preoperative nomogram identifying decreased risk of positive pelvic lymph nodes in patients with prostate cancer",
+        "volume": "170",
+        "author": "Cagiannos",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "2105",
+        "DOI": "10.1002/(SICI)1097-0142(20000501)88:9<2105::AID-CNCR16>3.0.CO;2-3",
+        "article-title": "The use of artificial intelligence technology to predict lymph node spread in men with clinically localized prostate carcinoma",
+        "volume": "88",
+        "author": "Crawford",
+        "year": "2000",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "528",
+        "DOI": "10.1016/j.urology.2003.09.064",
+        "article-title": "No difference in six-year biochemical failure rates with or without pelvic lymph node dissection during radical prostatectomy in low-risk patients with localized prostate cancer",
+        "volume": "63",
+        "author": "Bhatta-Dhar",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1159/000052359",
+        "article-title": "Nondissection of pelvic lymph nodes does not influence the results of perineal radical prostatectomy in selected patients",
+        "volume": "37",
+        "author": "Salomon",
+        "year": "2000",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "514",
+        "DOI": "10.1016/S0022-5347(05)64670-8",
+        "article-title": "Is a limited lymph node dissection an adequate staging procedure for prostate cancer?",
+        "volume": "168",
+        "author": "Bader",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1016/S0302-2838(02)00243-9",
+        "article-title": "Reliability of preoperative values to determine the need for lymphadenectomy in patients with prostate cancer and meticulous lymph node dissection",
+        "volume": "42",
+        "author": "Burkhard",
+        "year": "2002",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1046/j.1445-2197.2003.t01-1-02612.x",
+        "article-title": "Intraoperative lymph node staging of prostate cancer",
+        "volume": "73",
+        "author": "Garrett",
+        "year": "2003",
+        "journal-title": "Aust N Z J Surg"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1681",
+        "DOI": "10.1016/S0022-5347(05)65177-4",
+        "article-title": "Extended pelvic lymphadenectomy in patients undergoing radical prostatectomy",
+        "volume": "167",
+        "author": "Heidenreich",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/S0022-5347(05)64055-4",
+        "article-title": "Randomized prospective evaluation of extended versus limited lymph node dissection in patients with clinically localized prostate cancer",
+        "volume": "169",
+        "author": "Clark",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "352",
+        "DOI": "10.1016/S0090-4295(99)80219-2",
+        "article-title": "Open pelvic lymph node dissection for prostate cancer",
+        "volume": "46",
+        "author": "Campbell",
+        "year": "1995",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1707",
+        "DOI": "10.1007/s00330-004-2374-5",
+        "article-title": "Cost-analysis of staging methods for lymph nodes in patients with prostate cancer",
+        "volume": "14",
+        "author": "Hovels",
+        "year": "2004",
+        "journal-title": "Eur Radiol"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1016/0090-4295(81)90009-1",
+        "article-title": "Lymphocele after pelvic lymphadenectomy for urologic cancer",
+        "volume": "17",
+        "author": "Sogani",
+        "year": "1981",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1840",
+        "DOI": "10.1097/01.ju.0000140912.45821.1d",
+        "article-title": "Anatomical extent of lymph node dissection",
+        "volume": "172",
+        "author": "Allaf",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "849",
+        "DOI": "10.1097/01.ju.0000049032.38743.c7",
+        "article-title": "Disease progression and survival of patients with positive lymph nodes after radical prostatectomy. Is there a chance of cure?",
+        "volume": "169",
+        "author": "Bader",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib18",
+        "first-page": "4662",
+        "article-title": "Comparison of immunohistochemistry with reverse transcription-PCR for the detection of micrometastatic prostate cancer in lymph nodes",
+        "volume": "63",
+        "author": "Shariat",
+        "year": "2003",
+        "journal-title": "Cancer Res"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "132",
+        "DOI": "10.1016/S0302-2838(02)00450-5",
+        "article-title": "The influence of serial sections, immunohistochemistry, and extension of pelvic lymph node dissection on the lymph node status in clinically localized prostate cancer",
+        "volume": "43",
+        "author": "Wawroschek",
+        "year": "2003",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2006.06.001_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1121",
+        "DOI": "10.1097/01.ju.0000155533.93528.4c",
+        "article-title": "The extent of lymphadenectomy for pTXNO prostate cancer does not affect prostate cancer outcome in the prostate specific antigen era",
+        "volume": "173",
+        "author": "DiMarco",
+        "year": "2005",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S0022534706013681?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S0022534706013681?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2006.06.001",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T01:43:32Z",
+      "timestamp": 1651196612000
+    },
+    "score": 59.40079,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2006.06.001"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          10
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2006.06.001"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2006.06.001",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0022-5347"
+      },
+      {
+        "type": "electronic",
+        "value": "1527-3792"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          10
+        ]
+      ]
+    }
+  }
+]

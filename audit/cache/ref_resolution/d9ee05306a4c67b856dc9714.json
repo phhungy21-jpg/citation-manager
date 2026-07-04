@@ -1,0 +1,986 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          26
+        ]
+      ],
+      "date-time": "2026-02-26T15:47:14Z",
+      "timestamp": 1772120834233,
+      "version": "3.50.1"
+    },
+    "reference-count": 31,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2009-04-01T00:00:00Z",
+          "timestamp": 1238544000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2009.01.021",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2009-01-22T04:26:52Z",
+      "timestamp": 1232598412000
+    },
+    "page": "892-901",
+    "source": "Crossref",
+    "is-referenced-by-count": 87,
+    "title": [
+      "Preservation of Lateral Prostatic Fascia is Associated with Urine Continence after Robotic-Assisted Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "55",
+    "author": [
+      {
+        "given": "Henk G.",
+        "family": "van der Poel",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Willem",
+        "family": "de Blok",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Neil",
+        "family": "Joshi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eric",
+        "family": "van Muilekom",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1032",
+        "DOI": "10.1016/S0022-5347(05)64568-5",
+        "article-title": "Urinary continence after radical retropubic prostatectomy: relationship with membranous urethral length on preoperative endorectal magnetic resonance imaging",
+        "volume": "168",
+        "author": "Coakley",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1907",
+        "DOI": "10.1016/j.juro.2008.01.036",
+        "article-title": "Surgical technique to overcome anatomical shortcoming: balancing post-prostatectomy continence outcomes of urethral sphincter lengths on preoperative magnetic resonance imaging",
+        "volume": "179",
+        "author": "Nguyen",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1761",
+        "DOI": "10.1016/S0022-5347(05)67537-4",
+        "article-title": "Effect of radical prostatectomy on sensory threshold and pressure transmission",
+        "volume": "163",
+        "author": "John",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "233",
+        "DOI": "10.1016/S0022-5347(01)65334-5",
+        "article-title": "Urodynamic evaluation of changes in urinary control after radical retropubic prostatectomy",
+        "volume": "157",
+        "author": "Hammerer",
+        "year": "1997",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1127",
+        "DOI": "10.1016/j.urology.2007.07.042",
+        "article-title": "Nerve-sparing surgery significantly affects long-term continence after radical prostatectomy",
+        "volume": "70",
+        "author": "Nandipati",
+        "year": "2007",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1016/S0022-5347(06)00574-X",
+        "article-title": "Nerve sparing open radical retropubic prostatectomy—does it have an impact on urinary continence?",
+        "volume": "176",
+        "author": "Burkhard",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1016/S0022-5347(05)68578-3",
+        "article-title": "Potency, continence and complication rates in 1,870 consecutive radical retropubic prostatectomies",
+        "volume": "162",
+        "author": "Catalona",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "2227",
+        "DOI": "10.1097/01.ju.0000145222.94455.73",
+        "article-title": "Potency, continence and complications in 3,477 consecutive radical retropubic prostatectomies",
+        "volume": "172",
+        "author": "Kundu",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "488",
+        "DOI": "10.1016/j.juro.2007.03.100",
+        "article-title": "Impact of nerve sparing technique on patient self-assessed outcomes after radical perineal prostatectomy",
+        "volume": "178",
+        "author": "Kubler",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1005",
+        "DOI": "10.1016/S0022-5347(02)80325-1",
+        "article-title": "Impotence following radical prostatectomy: insight into etiology and prevention. 1982",
+        "volume": "167",
+        "author": "Walsh",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1139",
+        "DOI": "10.1097/01.ju.0000152316.51995.fc",
+        "article-title": "Intraoperative electrophysiological confirmation of urinary continence after radical prostatectomy",
+        "volume": "173",
+        "author": "Kaiho",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1065",
+        "DOI": "10.1016/j.eururo.2006.02.050",
+        "article-title": "Robotic radical prostatectomy with the “Veil of Aphrodite” technique: histologic evidence of enhanced nerve sparing",
+        "volume": "49",
+        "author": "Savera",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib13",
+        "unstructured": "Van der Poel HG, de Blok W. Role of the extent of fascia preservation and erectile function after robot-assisted laparoscopic prostatectomy. Urology. In press."
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "337",
+        "DOI": "10.1097/00005392-199502000-00012",
+        "article-title": "Neuroanatomy of the external urethral sphincter: implications for urinary continence preservation during radical prostate surgery",
+        "volume": "153",
+        "author": "Narayan",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "613",
+        "DOI": "10.1016/S0022-5347(17)60028-4",
+        "article-title": "A new theory of the innervation of bladder musculature. 2. Innervation of the vesicourethral junction and external urethral sphincter",
+        "volume": "111",
+        "author": "Elbadawi",
+        "year": "1974",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "960",
+        "DOI": "10.1016/S0090-4295(98)00128-9",
+        "article-title": "Preservation of putative continence nerves during radical retropubic prostatectomy leads to more rapid return of urinary continence",
+        "volume": "51",
+        "author": "Hollabaugh",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "R660",
+        "DOI": "10.1152/ajpregu.00270.2007",
+        "article-title": "Role of pudendal afferents in voiding efficiency in the rat",
+        "volume": "294",
+        "author": "Peng",
+        "year": "2008",
+        "journal-title": "Am J Physiol Regul Integr Comp Physiol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "2527",
+        "DOI": "10.1016/j.juro.2008.08.020",
+        "article-title": "The role of membranous urethral afferent autonomic innervation in the continence mechanism after nerve sparing radical prostatectomy: a clinical and prospective study",
+        "volume": "180",
+        "author": "Catarin",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1712",
+        "DOI": "10.1097/00005392-199805000-00099",
+        "article-title": "Innervation of the striated muscle of the membranous urethra of the male dog",
+        "volume": "159",
+        "author": "Creed",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "858",
+        "DOI": "10.1016/j.eururo.2005.03.016",
+        "article-title": "The precise location and nature of the nerves to the male human urethra: histological and immunohistochemical studies with three-dimensional reconstruction",
+        "volume": "48",
+        "author": "Karam",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "376",
+        "DOI": "10.1016/j.eururo.2007.01.109",
+        "article-title": "Early continence recovery after open radical prostatectomy with restoration of the posterior aspect of the rhabdosphincter",
+        "volume": "52",
+        "author": "Rocco",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "871",
+        "DOI": "10.1111/j.1464-410X.2008.07424.x",
+        "article-title": "Total reconstruction of the vesico-urethral junction",
+        "volume": "101",
+        "author": "Tewari",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1135",
+        "DOI": "10.1111/j.1464-410X.2007.07425.x",
+        "article-title": "Early continence outcomes of posterior musculofascial plate reconstruction during robotic and laparoscopic prostatectomy",
+        "volume": "101",
+        "author": "Nguyen",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "1018",
+        "DOI": "10.1016/j.juro.2008.05.046",
+        "article-title": "Assessment of early continence after reconstruction of the periprostatic tissues in patients undergoing computer assisted (robotic) prostatectomy: results of a 2 group parallel randomized controlled trial",
+        "volume": "180",
+        "author": "Menon",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "729",
+        "DOI": "10.1111/j.1442-2042.2008.02096.x",
+        "article-title": "Topographical relationship between urethral rhabdosphincter and rectourethralis muscle: a better understanding of the apical dissection and the posterior stitches in radical prostatectomy",
+        "volume": "15",
+        "author": "Soga",
+        "year": "2008",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "444",
+        "DOI": "10.1046/j.1464-410X.1997.00373.x",
+        "article-title": "Urinary continence after radical retropubic prostatectomy. Analysis and synthesis of contributing factors: a unified concept",
+        "volume": "80",
+        "author": "Kaye",
+        "year": "1997",
+        "journal-title": "Br J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1234",
+        "DOI": "10.1111/j.1464-410X.2006.06185.x",
+        "article-title": "Urinary incontinence after radical prostatectomy: incidence by definition, risk factors and temporal trend in a large series with a long-term follow-up",
+        "volume": "97",
+        "author": "Sacco",
+        "year": "2006",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "2448",
+        "DOI": "10.1016/j.juro.2006.07.153",
+        "article-title": "Age stratified functional outcomes after laparoscopic radical prostatectomy",
+        "volume": "176",
+        "author": "Rogers",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1216",
+        "DOI": "10.1097/01.ju.0000113964.68020.a7",
+        "article-title": "The impact of open radical retropubic prostatectomy on continence and lower urinary tract symptoms: a prospective assessment using validated self-administered outcome instruments",
+        "volume": "171",
+        "author": "Lepor",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1002/nau.20190",
+        "article-title": "Urinary incontinence and voiding dysfunction after radical retropubic prostatectomy (prospective urodynamic study)",
+        "volume": "25",
+        "author": "Majoros",
+        "year": "2006",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.021_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1097/01.ju.0000147190.67218.1b",
+        "article-title": "Health related quality of life before and after laparoscopic radical prostatectomy",
+        "volume": "173",
+        "author": "Link",
+        "year": "2005",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283809000359?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283809000359?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          17
+        ]
+      ],
+      "date-time": "2019-05-17T08:30:47Z",
+      "timestamp": 1558081847000
+    },
+    "score": 138.19098,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283809000359"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    },
+    "references-count": 31,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283809000359"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2009.01.021",
+    "relation": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.717977404.793470864",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2022-04-03T12:19:51Z",
+      "timestamp": 1648988391905
+    },
+    "reference-count": 5,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2009-04-01T00:00:00Z",
+          "timestamp": 1238544000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2009.01.022",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2009-01-22T09:26:52Z",
+      "timestamp": 1232616412000
+    },
+    "page": "900-901",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Editorial Comment on: Preservation of Lateral Prostatic Fascia is Associated with Urine Continence after Robotic-Assisted Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "55",
+    "author": [
+      {
+        "given": "W. Stuart",
+        "family": "Reynolds",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Scott E.",
+        "family": "Eggener",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2009.01.022_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "892",
+        "DOI": "10.1016/j.eururo.2009.01.021",
+        "article-title": "Preservation of lateral prostatic fascia is associated with urine continence after robotic-assisted prostatectomy",
+        "volume": "55",
+        "author": "Van der Poel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.022_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "648",
+        "DOI": "10.1016/j.eururo.2006.10.055",
+        "article-title": "Vattikuti Institute prostatectomy: contemporary technique and analysis of results",
+        "volume": "51",
+        "author": "Menon",
+        "year": "2007",
+        "journal-title": "Euro Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.022_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "871",
+        "DOI": "10.1111/j.1464-410X.2008.07424.x",
+        "article-title": "Total reconstruction of the vesico-urethral junction",
+        "volume": "101",
+        "author": "Tewari",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.022_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1135",
+        "DOI": "10.1111/j.1464-410X.2007.07425.x",
+        "article-title": "Early continence outcomes of posterior musculofascial plate reconstruction during robotic and laparoscopic prostatectomy",
+        "volume": "101",
+        "author": "Nguyen",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.022_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1018",
+        "DOI": "10.1016/j.juro.2008.05.046",
+        "article-title": "Assessment of early continence after reconstruction of the periprostatic tissues in patients undergoing computer assisted (robotic) prostatectomy: results of a 2 group parallel randomized controlled trial",
+        "volume": "180",
+        "author": "Menon",
+        "year": "2008",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283809000396?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283809000396?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2018-12-22T09:59:28Z",
+      "timestamp": 1545472768000
+    },
+    "score": 84.88788,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283809000396"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283809000396"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2009.01.022",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2022-04-03T14:03:40Z",
+      "timestamp": 1648994620951
+    },
+    "reference-count": 5,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2009-04-01T00:00:00Z",
+          "timestamp": 1238544000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2009.01.023",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2009-01-22T04:26:52Z",
+      "timestamp": 1232598412000
+    },
+    "page": "901",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Editorial Comment on: Preservation of Lateral Prostatic Fascia is Associated with Urine Continence after Robotic-Assisted Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "55",
+    "author": [
+      {
+        "given": "Oliver W.",
+        "family": "Hakenberg",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2009.01.023_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "892",
+        "DOI": "10.1016/j.eururo.2009.01.021",
+        "article-title": "Preservation of lateral prostatic fascia is associated with urine continence after robotic-assisted prostatectomy",
+        "volume": "55",
+        "author": "Van der Poel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.023_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "648",
+        "DOI": "10.1016/j.eururo.2006.10.055",
+        "article-title": "Vattikuti Institute prostatectomy: contemporary technique and analysis of results",
+        "volume": "51",
+        "author": "Menon",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.023_bib3",
+        "unstructured": "Van der Poel HG, de Blok W. Role of the extent of fascia preservation and erectile function after robot-assisted laparoscopic prostatectomy. Urology. In press."
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.023_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1159/000127333",
+        "article-title": "Learning curve and preliminary experience with da Vinci-assisted laparoscopic radical prostatectomy",
+        "volume": "80",
+        "author": "Artibani",
+        "year": "2008",
+        "journal-title": "Urol Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2009.01.023_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "746",
+        "DOI": "10.1016/j.eururo.2007.02.029",
+        "article-title": "Robot-assisted laparoscopic radical prostatectomy: oncologic and functional results of 184 cases",
+        "volume": "52",
+        "author": "Mottrie",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283809000402?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283809000402?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2018-12-22T04:59:28Z",
+      "timestamp": 1545454768000
+    },
+    "score": 80.902885,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283809000402"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283809000402"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2009.01.023",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          4
+        ]
+      ]
+    }
+  }
+]

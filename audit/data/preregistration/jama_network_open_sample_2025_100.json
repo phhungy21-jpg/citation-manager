@@ -1,0 +1,917 @@
+{
+  "generated": "2026-07-01T13:04:24.552415+00:00",
+  "sample_frame": {
+    "journal": "JAMA Network Open",
+    "publication_date_window": "2025-01-01 to 2025-12-31",
+    "inclusion_heading": "Original Investigation",
+    "min_body_chars": 3000,
+    "min_references": 10,
+    "random_seed": 42
+  },
+  "n_candidates_pool": 429,
+  "n_failed_batches": 0,
+  "n_records_skipped_due_to_failed_batches": 0,
+  "n_sampled": 100,
+  "articles": [
+    {
+      "pmcid": "PMC11707628",
+      "pmid": "39777439",
+      "doi": "10.1001/jamanetworkopen.2024.53466",
+      "title": "Surgeon Recommendation and Outcomes of Decompression With vs Without Fusion in Patients With Degenerative Spondylolisthesis",
+      "heading": "Original Investigation",
+      "n_references": 38,
+      "body_chars": 30820
+    },
+    {
+      "pmcid": "PMC11707635",
+      "pmid": "39777444",
+      "doi": "10.1001/jamanetworkopen.2024.52789",
+      "title": "Mental Health Care Utilization and Prescription Rates Among Children, Adolescents, and Young Adults in France",
+      "heading": "Original Investigation",
+      "n_references": 47,
+      "body_chars": 25623
+    },
+    {
+      "pmcid": "PMC11718558",
+      "pmid": "39786777",
+      "doi": "10.1001/jamanetworkopen.2024.53252",
+      "title": "Trends in Ethnic Disparities in Stroke Care and Long-Term Outcomes",
+      "heading": "Original Investigation",
+      "n_references": 40,
+      "body_chars": 30728
+    },
+    {
+      "pmcid": "PMC11742521",
+      "pmid": "39821393",
+      "doi": "10.1001/jamanetworkopen.2024.55165",
+      "title": "Neural Variability and Cognitive Control in Individuals With Opioid Use Disorder",
+      "heading": "Original Investigation",
+      "n_references": 55,
+      "body_chars": 29274
+    },
+    {
+      "pmcid": "PMC11742528",
+      "pmid": "39821394",
+      "doi": "10.1001/jamanetworkopen.2024.55158",
+      "title": "Anthropometric Trajectories in Children Prior to Development of Inflammatory Bowel Disease",
+      "heading": "Original Investigation",
+      "n_references": 40,
+      "body_chars": 25041
+    },
+    {
+      "pmcid": "PMC11742536",
+      "pmid": "39821397",
+      "doi": "10.1001/jamanetworkopen.2024.54969",
+      "title": "Delivering Guideline-Concordant Care for Patients With High-Risk HPV and Normal Cytologic Findings",
+      "heading": "Original Investigation",
+      "n_references": 33,
+      "body_chars": 43376
+    },
+    {
+      "pmcid": "PMC11751744",
+      "pmid": "39836423",
+      "doi": "10.1001/jamanetworkopen.2024.55258",
+      "title": "Travel Time as an Indicator of Poor Access to Care in Surgical Emergencies",
+      "heading": "Original Investigation",
+      "n_references": 43,
+      "body_chars": 27878
+    },
+    {
+      "pmcid": "PMC11774089",
+      "pmid": "39869337",
+      "doi": "10.1001/jamanetworkopen.2024.56392",
+      "title": "Pharmacy Subscription Program and Medication Refills, Days’ Supply, and Out-of-Pocket Costs",
+      "heading": "Original Investigation",
+      "n_references": 37,
+      "body_chars": 27485
+    },
+    {
+      "pmcid": "PMC11780474",
+      "pmid": "39878978",
+      "doi": "10.1001/jamanetworkopen.2024.57079",
+      "title": "Sensitivity to Environmental Stress and Adversity and Lung Cancer",
+      "heading": "Original Investigation",
+      "n_references": 24,
+      "body_chars": 15042
+    },
+    {
+      "pmcid": "PMC11780478",
+      "pmid": "39878981",
+      "doi": "10.1001/jamanetworkopen.2024.56246",
+      "title": "Health Care Resource Use and Costs After Hospitalization With Multiple Organ Dysfunction in Children",
+      "heading": "Original Investigation",
+      "n_references": 52,
+      "body_chars": 27356
+    },
+    {
+      "pmcid": "PMC11783195",
+      "pmid": "39883461",
+      "doi": "10.1001/jamanetworkopen.2024.57310",
+      "title": "Community Racial and Ethnic Representation Among Physicians in US Internal Medicine Residency Programs",
+      "heading": "Original Investigation",
+      "n_references": 57,
+      "body_chars": 28050
+    },
+    {
+      "pmcid": "PMC11815522",
+      "pmid": "39932711",
+      "doi": "10.1001/jamanetworkopen.2024.58834",
+      "title": "Attention-Deficit/Hyperactivity Disorder Symptoms and Later E-Cigarette and Tobacco Use in US Youths",
+      "heading": "Original Investigation",
+      "n_references": 49,
+      "body_chars": 31038
+    },
+    {
+      "pmcid": "PMC11822542",
+      "pmid": "39937480",
+      "doi": "10.1001/jamanetworkopen.2024.57477",
+      "title": "Challenges to Video Visits for Patients With Non–English Language Preference",
+      "heading": "Original Investigation",
+      "n_references": 45,
+      "body_chars": 33826
+    },
+    {
+      "pmcid": "PMC11826356",
+      "pmid": "39946126",
+      "doi": "10.1001/jamanetworkopen.2024.59692",
+      "title": "Trends in Axillary Lymph Node Dissection After Mastectomy Among Patients With Limited Nodal Burden",
+      "heading": "Original Investigation",
+      "n_references": 29,
+      "body_chars": 31167
+    },
+    {
+      "pmcid": "PMC11836756",
+      "pmid": "39964680",
+      "doi": "10.1001/jamanetworkopen.2024.60465",
+      "title": "A Spanish-Language Patient-Reported Outcome Measure for Trust in Pregnancy Care Clinician",
+      "heading": "Original Investigation",
+      "n_references": 54,
+      "body_chars": 28620
+    },
+    {
+      "pmcid": "PMC11836762",
+      "pmid": "39964686",
+      "doi": "10.1001/jamanetworkopen.2024.59929",
+      "title": "Digital Physiotherapeutic Scoliosis-Specific Exercises for Adolescent Idiopathic Scoliosis",
+      "heading": "Original Investigation",
+      "n_references": 43,
+      "body_chars": 29521
+    },
+    {
+      "pmcid": "PMC11843370",
+      "pmid": "39976969",
+      "doi": "10.1001/jamanetworkopen.2024.58311",
+      "title": "Spending Changes After Moving to Areas With Greater ACO Participation Among Nonattributed Medicare Beneficiaries",
+      "heading": "Original Investigation",
+      "n_references": 33,
+      "body_chars": 26232
+    },
+    {
+      "pmcid": "PMC11851239",
+      "pmid": "39992655",
+      "doi": "10.1001/jamanetworkopen.2024.61055",
+      "title": "Tetramethylpyrazine Nitrone in Amyotrophic Lateral Sclerosis",
+      "heading": "Original Investigation",
+      "n_references": 32,
+      "body_chars": 33474
+    },
+    {
+      "pmcid": "PMC11851243",
+      "pmid": "39992652",
+      "doi": "10.1001/jamanetworkopen.2024.61409",
+      "title": "Acute Alcohol Use and Suicide",
+      "heading": "Original Investigation",
+      "n_references": 55,
+      "body_chars": 32745
+    },
+    {
+      "pmcid": "PMC11866031",
+      "pmid": "40009381",
+      "doi": "10.1001/jamanetworkopen.2024.61639",
+      "title": "Genetic Alterations, Therapy Response, and Survival Among Patients With Triple-Negative Breast Cancer",
+      "heading": "Original Investigation",
+      "n_references": 53,
+      "body_chars": 26630
+    },
+    {
+      "pmcid": "PMC11871541",
+      "pmid": "40019763",
+      "doi": "10.1001/jamanetworkopen.2024.62130",
+      "title": "A Measure of Nutrition Security Using the National Health and Nutrition Examination Survey Dataset",
+      "heading": "Original Investigation",
+      "n_references": 41,
+      "body_chars": 34479
+    },
+    {
+      "pmcid": "PMC11889470",
+      "pmid": "40053352",
+      "doi": "10.1001/jamanetworkopen.2025.0268",
+      "title": "Prevalence of Depression and Anxiety Among Adults With Chronic Pain",
+      "heading": "Original Investigation",
+      "n_references": 47,
+      "body_chars": 31349
+    },
+    {
+      "pmcid": "PMC11907311",
+      "pmid": "40080018",
+      "doi": "10.1001/jamanetworkopen.2025.0747",
+      "title": "Area Socioeconomic Status, Vaccination Access, and Female Human Papillomavirus Vaccination",
+      "heading": "Original Investigation",
+      "n_references": 43,
+      "body_chars": 26325
+    },
+    {
+      "pmcid": "PMC11915064",
+      "pmid": "40094667",
+      "doi": "10.1001/jamanetworkopen.2025.0069",
+      "title": "Multicomponent Intervention for Distressed Informal Caregivers of People With Dementia",
+      "heading": "Original Investigation",
+      "n_references": 45,
+      "body_chars": 54449
+    },
+    {
+      "pmcid": "PMC11947833",
+      "pmid": "40136300",
+      "doi": "10.1001/jamanetworkopen.2025.2002",
+      "title": "Education Levels and Poststroke Cognitive Trajectories",
+      "heading": "Original Investigation",
+      "n_references": 33,
+      "body_chars": 33688
+    },
+    {
+      "pmcid": "PMC11950896",
+      "pmid": "40146104",
+      "doi": "10.1001/jamanetworkopen.2025.2668",
+      "title": "Late-Onset Immune-Related Adverse Events After Immune Checkpoint Inhibitor Therapy",
+      "heading": "Original Investigation",
+      "n_references": 31,
+      "body_chars": 26861
+    },
+    {
+      "pmcid": "PMC11966309",
+      "pmid": "40172888",
+      "doi": "10.1001/jamanetworkopen.2025.2875",
+      "title": "Increased Utilization of Overtime and Agency Nurses and Patient Safety",
+      "heading": "Original Investigation",
+      "n_references": 42,
+      "body_chars": 31575
+    },
+    {
+      "pmcid": "PMC11969281",
+      "pmid": "40178855",
+      "doi": "10.1001/jamanetworkopen.2025.3111",
+      "title": "Border Region Emergency Medical Services in Migrant Emergency Care",
+      "heading": "Original Investigation",
+      "n_references": 16,
+      "body_chars": 35760
+    },
+    {
+      "pmcid": "PMC11971671",
+      "pmid": "40184065",
+      "doi": "10.1001/jamanetworkopen.2025.3326",
+      "title": "Fine Particulate Matter From 2020 California Wildfires and Mental Health–Related Emergency Department Visits",
+      "heading": "Original Investigation",
+      "n_references": 31,
+      "body_chars": 25065
+    },
+    {
+      "pmcid": "PMC11976493",
+      "pmid": "40193078",
+      "doi": "10.1001/jamanetworkopen.2025.3455",
+      "title": "Cytokine Storms in COVID-19, Hemophagocytic Lymphohistiocytosis, and CAR-T Therapy",
+      "heading": "Original Investigation",
+      "n_references": 40,
+      "body_chars": 30978
+    },
+    {
+      "pmcid": "PMC11979726",
+      "pmid": "40198073",
+      "doi": "10.1001/jamanetworkopen.2025.3698",
+      "title": "Yoga or Strengthening Exercise for Knee Osteoarthritis",
+      "heading": "Original Investigation",
+      "n_references": 37,
+      "body_chars": 36104
+    },
+    {
+      "pmcid": "PMC11986769",
+      "pmid": "40208594",
+      "doi": "10.1001/jamanetworkopen.2025.4462",
+      "title": "Influenza Vaccination Among People With Medicare by Race and Ethnicity, Education, and Rurality",
+      "heading": "Original Investigation",
+      "n_references": 22,
+      "body_chars": 23850
+    },
+    {
+      "pmcid": "PMC11986774",
+      "pmid": "40208589",
+      "doi": "10.1001/jamanetworkopen.2025.4715",
+      "title": "Childcare Barriers and Appointment Nonadherence Among Women in a Safety-Net Health System",
+      "heading": "Original Investigation",
+      "n_references": 60,
+      "body_chars": 27652
+    },
+    {
+      "pmcid": "PMC11992607",
+      "pmid": "40214993",
+      "doi": "10.1001/jamanetworkopen.2025.4129",
+      "title": "Kidney Function Following COVID-19 in Children and Adolescents",
+      "heading": "Original Investigation",
+      "n_references": 27,
+      "body_chars": 29324
+    },
+    {
+      "pmcid": "PMC11997728",
+      "pmid": "40227681",
+      "doi": "10.1001/jamanetworkopen.2025.4852",
+      "title": "Housing Instability and Type 2 Diabetes Outcomes",
+      "heading": "Original Investigation",
+      "n_references": 54,
+      "body_chars": 29596
+    },
+    {
+      "pmcid": "PMC12006867",
+      "pmid": "40244586",
+      "doi": "10.1001/jamanetworkopen.2025.5308",
+      "title": "Tirofiban on First-Pass Recanalization in Acute Stroke Endovascular Thrombectomy",
+      "heading": "Original Investigation",
+      "n_references": 27,
+      "body_chars": 34113
+    },
+    {
+      "pmcid": "PMC12006873",
+      "pmid": "40244583",
+      "doi": "10.1001/jamanetworkopen.2025.5532",
+      "title": "COVID-19 Pandemic–Related Exposures and Cognitive Function in Middle-Aged Women",
+      "heading": "Original Investigation",
+      "n_references": 54,
+      "body_chars": 29926
+    },
+    {
+      "pmcid": "PMC12019524",
+      "pmid": "40266617",
+      "doi": "10.1001/jamanetworkopen.2025.6637",
+      "title": "Detection Bias in EHR-Based Research on Clinical Exposures and Dementia",
+      "heading": "Original Investigation",
+      "n_references": 39,
+      "body_chars": 30287
+    },
+    {
+      "pmcid": "PMC12042057",
+      "pmid": "40299381",
+      "doi": "10.1001/jamanetworkopen.2025.7831",
+      "title": "AI-Enabled Screening for Retinopathy of Prematurity in Low-Resource Settings",
+      "heading": "Original Investigation",
+      "n_references": 26,
+      "body_chars": 22067
+    },
+    {
+      "pmcid": "PMC12062907",
+      "pmid": "40338545",
+      "doi": "10.1001/jamanetworkopen.2025.9433",
+      "title": "Treatment Patterns and Survival Among Veterans With De Novo Metastatic Hormone-Sensitive Prostate Cancer",
+      "heading": "Original Investigation",
+      "n_references": 31,
+      "body_chars": 27434
+    },
+    {
+      "pmcid": "PMC12062911",
+      "pmid": "40338547",
+      "doi": "10.1001/jamanetworkopen.2025.9246",
+      "title": "Depression and Heart Failure in US Veterans",
+      "heading": "Original Investigation",
+      "n_references": 52,
+      "body_chars": 30095
+    },
+    {
+      "pmcid": "PMC12065041",
+      "pmid": "40343698",
+      "doi": "10.1001/jamanetworkopen.2025.8322",
+      "title": "Effectiveness and Safety of Respiratory Syncytial Virus Vaccine for US Adults Aged 60 Years or Older",
+      "heading": "Original Investigation",
+      "n_references": 13,
+      "body_chars": 26024
+    },
+    {
+      "pmcid": "PMC12082373",
+      "pmid": "40372751",
+      "doi": "10.1001/jamanetworkopen.2025.10717",
+      "title": "Long-Term Survival in Patients With Low-Risk Cervical Cancer After Simple, Modified, or Radical Hysterectomy",
+      "heading": "Original Investigation",
+      "n_references": 43,
+      "body_chars": 32909
+    },
+    {
+      "pmcid": "PMC12084848",
+      "pmid": "40377941",
+      "doi": "10.1001/jamanetworkopen.2025.10781",
+      "title": "Racial and Ethnic Disparities in Mother’s Milk Provision Among Mothers of Preterm Infants",
+      "heading": "Original Investigation",
+      "n_references": 56,
+      "body_chars": 26027
+    },
+    {
+      "pmcid": "PMC12100453",
+      "pmid": "40402498",
+      "doi": "10.1001/jamanetworkopen.2025.11764",
+      "title": "Cardiac Events in Adults Hospitalized for Respiratory Syncytial Virus vs COVID-19 or Influenza",
+      "heading": "Original Investigation",
+      "n_references": 41,
+      "body_chars": 38878
+    },
+    {
+      "pmcid": "PMC12117457",
+      "pmid": "40423970",
+      "doi": "10.1001/jamanetworkopen.2025.12279",
+      "title": "Hydrocortisone and Risk Factors for Kidney Replacement Therapy in Septic Shock",
+      "heading": "Original Investigation",
+      "n_references": 25,
+      "body_chars": 27796
+    },
+    {
+      "pmcid": "PMC12138722",
+      "pmid": "40465298",
+      "doi": "10.1001/jamanetworkopen.2025.13584",
+      "title": "Social Determinants of Health and Injury Among Children",
+      "heading": "Original Investigation",
+      "n_references": 48,
+      "body_chars": 27420
+    },
+    {
+      "pmcid": "PMC12150188",
+      "pmid": "40489111",
+      "doi": "10.1001/jamanetworkopen.2025.14316",
+      "title": "Active Travel Mode and Incident Dementia and Brain Structure",
+      "heading": "Original Investigation",
+      "n_references": 38,
+      "body_chars": 32252
+    },
+    {
+      "pmcid": "PMC12159773",
+      "pmid": "40498483",
+      "doi": "10.1001/jamanetworkopen.2025.14864",
+      "title": "ERBB2-Low Expression by Race and Ethnicity Among Patients With Triple-Negative Breast Cancer",
+      "heading": "Original Investigation",
+      "n_references": 46,
+      "body_chars": 30058
+    },
+    {
+      "pmcid": "PMC12171935",
+      "pmid": "40522662",
+      "doi": "10.1001/jamanetworkopen.2025.15685",
+      "title": "Feasibility of a Mind-Body Program for Chronic Pain",
+      "heading": "Original Investigation",
+      "n_references": 45,
+      "body_chars": 36664
+    },
+    {
+      "pmcid": "PMC12175025",
+      "pmid": "40526382",
+      "doi": "10.1001/jamanetworkopen.2025.16359",
+      "title": "Expansion and Marketing of Medicare Advantage to Persons With End-Stage Kidney Disease",
+      "heading": "Original Investigation",
+      "n_references": 30,
+      "body_chars": 63766
+    },
+    {
+      "pmcid": "PMC12175031",
+      "pmid": "40526384",
+      "doi": "10.1001/jamanetworkopen.2025.16318",
+      "title": "Erenumab for Chronic Cluster Headache",
+      "heading": "Original Investigation",
+      "n_references": 39,
+      "body_chars": 27917
+    },
+    {
+      "pmcid": "PMC12177656",
+      "pmid": "40531536",
+      "doi": "10.1001/jamanetworkopen.2025.15046",
+      "title": "Engagement in the National Diabetes Prevention Program Among Hispanic Men",
+      "heading": "Original Investigation",
+      "n_references": 34,
+      "body_chars": 28581
+    },
+    {
+      "pmcid": "PMC12186510",
+      "pmid": "40549384",
+      "doi": "10.1001/jamanetworkopen.2025.17056",
+      "title": "Cost-Effectiveness of Trimodal Therapy and Radical Cystectomy for Muscle-Invasive Bladder Cancer",
+      "heading": "Original Investigation",
+      "n_references": 29,
+      "body_chars": 21138
+    },
+    {
+      "pmcid": "PMC12188358",
+      "pmid": "40553473",
+      "doi": "10.1001/jamanetworkopen.2025.16947",
+      "title": "Breast Cancer Incidence Trends in Older US Women by Race, Ethnicity, Geography, and Stage",
+      "heading": "Original Investigation",
+      "n_references": 28,
+      "body_chars": 27131
+    },
+    {
+      "pmcid": "PMC12203280",
+      "pmid": "40569593",
+      "doi": "10.1001/jamanetworkopen.2025.17749",
+      "title": "Patients’ Perspectives on Breast Reconstruction in Sub-Saharan Africa",
+      "heading": "Original Investigation",
+      "n_references": 42,
+      "body_chars": 27446
+    },
+    {
+      "pmcid": "PMC12238904",
+      "pmid": "40627352",
+      "doi": "10.1001/jamanetworkopen.2025.19467",
+      "title": "Postoperative Delirium in Older Adults Undergoing Noncardiac Surgery",
+      "heading": "Original Investigation",
+      "n_references": 49,
+      "body_chars": 33597
+    },
+    {
+      "pmcid": "PMC12261005",
+      "pmid": "40658418",
+      "doi": "10.1001/jamanetworkopen.2025.20498",
+      "title": "Delayed Hypertension Diagnosis and Its Association With Cardiovascular Treatment and Outcomes",
+      "heading": "Original Investigation",
+      "n_references": 22,
+      "body_chars": 29646
+    },
+    {
+      "pmcid": "PMC12268484",
+      "pmid": "40668583",
+      "doi": "10.1001/jamanetworkopen.2025.17204",
+      "title": "AI Workflow, External Validation, and Development in Eye Disease Diagnosis",
+      "heading": "Original Investigation",
+      "n_references": 33,
+      "body_chars": 22335
+    },
+    {
+      "pmcid": "PMC12281241",
+      "pmid": "40690216",
+      "doi": "10.1001/jamanetworkopen.2025.22080",
+      "title": "Military Inhalational Exposures Outside the Theater of Conflict and Chronic Respiratory Symptoms",
+      "heading": "Original Investigation",
+      "n_references": 39,
+      "body_chars": 33233
+    },
+    {
+      "pmcid": "PMC12287857",
+      "pmid": "40699574",
+      "doi": "10.1001/jamanetworkopen.2025.22211",
+      "title": "Distinct Patterns of Weight Gain, Age, and Subcortical Microstructure in Early Adolescence",
+      "heading": "Original Investigation",
+      "n_references": 58,
+      "body_chars": 33996
+    },
+    {
+      "pmcid": "PMC12305388",
+      "pmid": "40720124",
+      "doi": "10.1001/jamanetworkopen.2025.23441",
+      "title": "Interval Colorectal Cancers in a Fecal Immunochemical Test–Based Screening Program",
+      "heading": "Original Investigation",
+      "n_references": 39,
+      "body_chars": 28591
+    },
+    {
+      "pmcid": "PMC12344534",
+      "pmid": "40794410",
+      "doi": "10.1001/jamanetworkopen.2025.26310",
+      "title": "Work Impairment and Financial Outcomes Among Adults With vs Without Long COVID",
+      "heading": "Original Investigation",
+      "n_references": 22,
+      "body_chars": 28809
+    },
+    {
+      "pmcid": "PMC12362223",
+      "pmid": "40824639",
+      "doi": "10.1001/jamanetworkopen.2025.27418",
+      "title": "Pharmacy Barriers to Receiving Buprenorphine Among Patients Undergoing Telemedicine Addiction Treatment",
+      "heading": "Original Investigation",
+      "n_references": 32,
+      "body_chars": 28006
+    },
+    {
+      "pmcid": "PMC12374221",
+      "pmid": "40844778",
+      "doi": "10.1001/jamanetworkopen.2025.27769",
+      "title": "Dual Immune Checkpoint Inhibition Plus Neoadjuvant Chemoradiotherapy in Rectal Cancer",
+      "heading": "Original Investigation",
+      "n_references": 61,
+      "body_chars": 28666
+    },
+    {
+      "pmcid": "PMC12381672",
+      "pmid": "40857004",
+      "doi": "10.1001/jamanetworkopen.2025.28868",
+      "title": "Body Composition, Fitness, and Mental Health in Preadolescent Children",
+      "heading": "Original Investigation",
+      "n_references": 68,
+      "body_chars": 25317
+    },
+    {
+      "pmcid": "PMC12406062",
+      "pmid": "40892414",
+      "doi": "10.1001/jamanetworkopen.2025.28013",
+      "title": "Anaplastic Large Cell Lymphoma of the Breast by Race and Ethnicity",
+      "heading": "Original Investigation",
+      "n_references": 40,
+      "body_chars": 22962
+    },
+    {
+      "pmcid": "PMC12423855",
+      "pmid": "40928780",
+      "doi": "10.1001/jamanetworkopen.2025.31182",
+      "title": "Sexual Orientation and Exposure to Close Others’ Self-Injurious Thoughts and Behaviors",
+      "heading": "Original Investigation",
+      "n_references": 40,
+      "body_chars": 32380
+    },
+    {
+      "pmcid": "PMC12439063",
+      "pmid": "40952738",
+      "doi": "10.1001/jamanetworkopen.2025.32008",
+      "title": "Global Trends and Disparities in Social Isolation",
+      "heading": "Original Investigation",
+      "n_references": 52,
+      "body_chars": 22344
+    },
+    {
+      "pmcid": "PMC12457983",
+      "pmid": "40986300",
+      "doi": "10.1001/jamanetworkopen.2025.33339",
+      "title": "Neuromelanin-Sensitive MRI Contrast and Chronic Depression in Young Women",
+      "heading": "Original Investigation",
+      "n_references": 46,
+      "body_chars": 30836
+    },
+    {
+      "pmcid": "PMC12464792",
+      "pmid": "40996759",
+      "doi": "10.1001/jamanetworkopen.2025.33815",
+      "title": "Olfactory Dysfunction After SARS-CoV-2 Infection in the RECOVER Adult Cohort",
+      "heading": "Original Investigation",
+      "n_references": 55,
+      "body_chars": 29641
+    },
+    {
+      "pmcid": "PMC12481227",
+      "pmid": "41021225",
+      "doi": "10.1001/jamanetworkopen.2025.34485",
+      "title": "SGLT2 Inhibitors and External Genital Infection in Male Patients With Type 2 Diabetes",
+      "heading": "Original Investigation",
+      "n_references": 70,
+      "body_chars": 30763
+    },
+    {
+      "pmcid": "PMC12495494",
+      "pmid": "41042507",
+      "doi": "10.1001/jamanetworkopen.2025.35408",
+      "title": "Medicare Savings Program Take-Up Estimates and Profile of Enrolled and Unenrolled Individuals",
+      "heading": "Original Investigation",
+      "n_references": 38,
+      "body_chars": 25613
+    },
+    {
+      "pmcid": "PMC12508997",
+      "pmid": "41060652",
+      "doi": "10.1001/jamanetworkopen.2025.36348",
+      "title": "Comparative Clinical Outcomes of Nusinersen and Gene Therapy in Spinal Muscular Atrophy Type 1",
+      "heading": "Original Investigation",
+      "n_references": 36,
+      "body_chars": 26677
+    },
+    {
+      "pmcid": "PMC12511991",
+      "pmid": "41066122",
+      "doi": "10.1001/jamanetworkopen.2025.36655",
+      "title": "Lung Cancer Incidence After September 11, 2001, Among World Trade Center Responders",
+      "heading": "Original Investigation",
+      "n_references": 32,
+      "body_chars": 29603
+    },
+    {
+      "pmcid": "PMC12514615",
+      "pmid": "41071548",
+      "doi": "10.1001/jamanetworkopen.2025.37092",
+      "title": "Screen Time and Standardized Academic Achievement Tests in Elementary School",
+      "heading": "Original Investigation",
+      "n_references": 56,
+      "body_chars": 33446
+    },
+    {
+      "pmcid": "PMC12534849",
+      "pmid": "41105411",
+      "doi": "10.1001/jamanetworkopen.2025.37729",
+      "title": "Factors Associated With Persistent Symptoms Following Mild Traumatic Brain Injury",
+      "heading": "Original Investigation",
+      "n_references": 37,
+      "body_chars": 30111
+    },
+    {
+      "pmcid": "PMC12534854",
+      "pmid": "41105410",
+      "doi": "10.1001/jamanetworkopen.2025.37880",
+      "title": "Electromagnetic Stimulation to Reduce Disability After Ischemic Stroke",
+      "heading": "Original Investigation",
+      "n_references": 36,
+      "body_chars": 32879
+    },
+    {
+      "pmcid": "PMC12543401",
+      "pmid": "39775805",
+      "doi": "10.1001/jamanetworkopen.2024.53684",
+      "title": "Academic Detailing Interventions and Evidence-Based Prescribing",
+      "heading": "Original Investigation",
+      "n_references": 135,
+      "body_chars": 46465
+    },
+    {
+      "pmcid": "PMC12550639",
+      "pmid": "41129151",
+      "doi": "10.1001/jamanetworkopen.2025.38770",
+      "title": "Health System Affiliation and Care for Dual-Eligible and Non–Dual-Eligible Medicare Beneficiaries",
+      "heading": "Original Investigation",
+      "n_references": 44,
+      "body_chars": 31003
+    },
+    {
+      "pmcid": "PMC12569706",
+      "pmid": "41148137",
+      "doi": "10.1001/jamanetworkopen.2025.39870",
+      "title": "Incomplete Family History and Meeting Algorithmic Criteria for Genetic Evaluation of Hereditary Cancer",
+      "heading": "Original Investigation",
+      "n_references": 50,
+      "body_chars": 33015
+    },
+    {
+      "pmcid": "PMC12576487",
+      "pmid": "41165704",
+      "doi": "10.1001/jamanetworkopen.2025.40720",
+      "title": "Nirsevimab Treatment of RSV Bronchiolitis in Pediatric Emergency Departments",
+      "heading": "Original Investigation",
+      "n_references": 23,
+      "body_chars": 17795
+    },
+    {
+      "pmcid": "PMC12579353",
+      "pmid": "41171271",
+      "doi": "10.1001/jamanetworkopen.2025.40907",
+      "title": "Maternal Psychological Distress Before and After Childbirth and Neurodevelopmental Delay in Toddlers",
+      "heading": "Original Investigation",
+      "n_references": 78,
+      "body_chars": 33712
+    },
+    {
+      "pmcid": "PMC12593129",
+      "pmid": "41196593",
+      "doi": "10.1001/jamanetworkopen.2025.42140",
+      "title": "Cord Blood Appetite Hormones and Early-Life Growth and Childhood Adiposity in the ENVIRONAGE Cohort",
+      "heading": "Original Investigation",
+      "n_references": 60,
+      "body_chars": 29243
+    },
+    {
+      "pmcid": "PMC12595540",
+      "pmid": "41201802",
+      "doi": "10.1001/jamanetworkopen.2025.42269",
+      "title": "Heat- and Cold-Related Mortality Burden in the US From 2000 to 2020",
+      "heading": "Original Investigation",
+      "n_references": 33,
+      "body_chars": 26016
+    },
+    {
+      "pmcid": "PMC12598512",
+      "pmid": "41206899",
+      "doi": "10.1001/jamanetworkopen.2025.42135",
+      "title": "Prenatal Care and Perinatal Regionalization for Congenital Heart Defects",
+      "heading": "Original Investigation",
+      "n_references": 41,
+      "body_chars": 31744
+    },
+    {
+      "pmcid": "PMC12619100",
+      "pmid": "41236741",
+      "doi": "10.1001/jamanetworkopen.2025.41264",
+      "title": "Instability in End-of-Life Goals and Preferences of Patients Who Are Seriously Ill",
+      "heading": "Original Investigation",
+      "n_references": 59,
+      "body_chars": 23722
+    },
+    {
+      "pmcid": "PMC12635884",
+      "pmid": "41264266",
+      "doi": "10.1001/jamanetworkopen.2025.46222",
+      "title": "Age-Based Screening for Lung Cancer Surveillance in the US",
+      "heading": "Original Investigation",
+      "n_references": 45,
+      "body_chars": 32960
+    },
+    {
+      "pmcid": "PMC12639482",
+      "pmid": "41269693",
+      "doi": "10.1001/jamanetworkopen.2025.44623",
+      "title": "Parathyroidectomy and Cardiometabolic Risks in Patients With Primary Hyperparathyroidism",
+      "heading": "Original Investigation",
+      "n_references": 28,
+      "body_chars": 27037
+    },
+    {
+      "pmcid": "PMC12676350",
+      "pmid": "41335435",
+      "doi": "10.1001/jamanetworkopen.2025.46812",
+      "title": "Travel Time to Treating Facility and Mortality in Men With Prostate Cancer",
+      "heading": "Original Investigation",
+      "n_references": 42,
+      "body_chars": 28364
+    },
+    {
+      "pmcid": "PMC12676364",
+      "pmid": "41335440",
+      "doi": "10.1001/jamanetworkopen.2025.45862",
+      "title": "Longitudinal Blood-Based Biomarkers and Clinical Progression in Subjective Cognitive Decline",
+      "heading": "Original Investigation",
+      "n_references": 28,
+      "body_chars": 30974
+    },
+    {
+      "pmcid": "PMC12679323",
+      "pmid": "41343211",
+      "doi": "10.1001/jamanetworkopen.2025.46883",
+      "title": "Travel From Native Lands to US Abortion Facilities Before and After the Dobbs v Jackson Women’s Health Organization Decision",
+      "heading": "Original Investigation",
+      "n_references": 25,
+      "body_chars": 24617
+    },
+    {
+      "pmcid": "PMC12687098",
+      "pmid": "41359335",
+      "doi": "10.1001/jamanetworkopen.2025.46556",
+      "title": "Home-Based Gamma Transcranial Alternating Current Stimulation in Patients With Alzheimer Disease",
+      "heading": "Original Investigation",
+      "n_references": 30,
+      "body_chars": 29556
+    },
+    {
+      "pmcid": "PMC12699355",
+      "pmid": "41379444",
+      "doi": "10.1001/jamanetworkopen.2025.48715",
+      "title": "Subsequent Meningiomas Among Survivors of Childhood Cancer",
+      "heading": "Original Investigation",
+      "n_references": 40,
+      "body_chars": 27981
+    },
+    {
+      "pmcid": "PMC12706684",
+      "pmid": "41396606",
+      "doi": "10.1001/jamanetworkopen.2025.47590",
+      "title": "Multidisciplinary Team Support for Patients With Head and Neck Cancer Receiving Radiotherapy",
+      "heading": "Original Investigation",
+      "n_references": 35,
+      "body_chars": 30646
+    },
+    {
+      "pmcid": "PMC12712731",
+      "pmid": "41405886",
+      "doi": "10.1001/jamanetworkopen.2025.44153",
+      "title": "Adherence to the Planetary Health Diet Index and Fetal Body Composition",
+      "heading": "Original Investigation",
+      "n_references": 36,
+      "body_chars": 30958
+    },
+    {
+      "pmcid": "PMC12723549",
+      "pmid": "41632135",
+      "doi": "10.1001/jamanetworkopen.2025.50467",
+      "title": "Liver Metastases and Survival Among Patients With Colorectal Cancer",
+      "heading": "Original Investigation",
+      "n_references": 36,
+      "body_chars": 27915
+    },
+    {
+      "pmcid": "PMC12728656",
+      "pmid": "41632145",
+      "doi": "10.1001/jamanetworkopen.2025.49118",
+      "title": "Neighborhood Deprivation and Days Spent at Home After Fall-Related Hip Fracture",
+      "heading": "Original Investigation",
+      "n_references": 52,
+      "body_chars": 24252
+    },
+    {
+      "pmcid": "PMC12743273",
+      "pmid": "41632161",
+      "doi": "10.1001/jamanetworkopen.2025.49130",
+      "title": "Guideline-Concordant Care and Clinician and Clinic Characteristics for Patients With Schizophrenia",
+      "heading": "Original Investigation",
+      "n_references": 49,
+      "body_chars": 31215
+    },
+    {
+      "pmcid": "PMC12743284",
+      "pmid": "41632156",
+      "doi": "10.1001/jamanetworkopen.2025.51337",
+      "title": "Population-Level Health Benefits and Harms Associated With Buprenorphine/Naloxone vs Methadone",
+      "heading": "Original Investigation",
+      "n_references": 56,
+      "body_chars": 32111
+    }
+  ]
+}

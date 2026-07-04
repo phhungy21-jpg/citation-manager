@@ -1,0 +1,2896 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          30
+        ]
+      ],
+      "date-time": "2025-07-30T15:45:28Z",
+      "timestamp": 1753890328200,
+      "version": "3.41.2"
+    },
+    "reference-count": 26,
+    "publisher": "XMLink",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2022-01-01T00:00:00Z",
+          "timestamp": 1640995200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100002642",
+        "name": "Korea University",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100002642",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "jkms.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J Korean Med Sci"
+    ],
+    "DOI": "10.3346/jkms.2022.37.e6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2021-12-16T02:01:33Z",
+      "timestamp": 1639620093000
+    },
+    "update-policy": "https://doi.org/10.3346/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Toggling Technique Allows Retrograde Early Release to Facilitate Neurovascular Bundle Sparing During Robot-Assisted Radical Prostatectomy: A Propensity Score-Matching Study"
+    ],
+    "prefix": "10.3346",
+    "volume": "37",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6745-1776",
+        "authenticated-orcid": false,
+        "given": "Ji Sung",
+        "family": "Shim",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5826-3469",
+        "authenticated-orcid": false,
+        "given": "Jong Hyun",
+        "family": "Tae",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5278-7672",
+        "authenticated-orcid": false,
+        "given": "Tae Il",
+        "family": "Noh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1524-5233",
+        "authenticated-orcid": false,
+        "given": "Seok Ho",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3000-6329",
+        "authenticated-orcid": false,
+        "given": "Jun",
+        "family": "Cheon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0467-4913",
+        "authenticated-orcid": false,
+        "given": "Jeong Gu",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8802-9734",
+        "authenticated-orcid": false,
+        "given": "Vipul R.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital-Celebration Health Celebration, University of Central Florida School of Medicine, Orlando, FL, USA."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7289-1269",
+        "authenticated-orcid": false,
+        "given": "Sung Gu",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "18617",
+    "published-online": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "8",
+        "key": "10.3346/jkms.2022.37.e6_ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1051",
+        "DOI": "10.1016/S1470-2045(18)30357-7",
+        "volume": "19",
+        "author": "Coughlin",
+        "year": "2018",
+        "journal-title": "Lancet Oncol"
+      },
+      {
+        "issue": "5",
+        "key": "10.3346/jkms.2022.37.e6_ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "628",
+        "DOI": "10.1016/j.eururo.2018.07.003",
+        "volume": "77",
+        "author": "de Carvalho",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "10",
+        "key": "10.3346/jkms.2022.37.e6_ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1484",
+        "DOI": "10.1111/j.1464-410X.2009.08546.x",
+        "volume": "104",
+        "author": "Finley",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "1",
+        "key": "10.3346/jkms.2022.37.e6_ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1016/j.urology.2008.08.491",
+        "volume": "73",
+        "author": "Hakimi",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "5",
+        "key": "10.3346/jkms.2022.37.e6_ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1210",
+        "DOI": "10.1016/j.juro.2017.11.115",
+        "volume": "199",
+        "author": "Menon",
+        "year": "2018",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "5",
+        "key": "10.3346/jkms.2022.37.e6_ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "696",
+        "DOI": "10.1111/j.1464-410X.2010.09541.x",
+        "volume": "106",
+        "author": "Patel",
+        "year": "2010",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "4",
+        "key": "10.3346/jkms.2022.37.e6_ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "618",
+        "DOI": "10.1016/j.eururo.2017.08.015",
+        "volume": "73",
+        "author": "Sooriakumaran",
+        "year": "2018",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "6",
+        "key": "10.3346/jkms.2022.37.e6_ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1303",
+        "DOI": "10.1089/end.2008.0009",
+        "volume": "22",
+        "author": "Zorn",
+        "year": "2008",
+        "journal-title": "J Endourol"
+      },
+      {
+        "issue": "3",
+        "key": "10.3346/jkms.2022.37.e6_ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "536",
+        "DOI": "10.1016/j.eururo.2011.05.001",
+        "volume": "60",
+        "author": "Kowalczyk",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "10.3346/jkms.2022.37.e6_ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1371",
+        "DOI": "10.1016/S0022-5347(05)65303-7",
+        "volume": "167",
+        "author": "Mulhall",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "8",
+        "key": "10.3346/jkms.2022.37.e6_ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1013",
+        "DOI": "10.1111/j.1464-410X.2008.07456.x",
+        "volume": "101",
+        "author": "Tewari",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "6 Pt 2",
+        "key": "10.3346/jkms.2022.37.e6_ref12",
+        "first-page": "2418",
+        "volume": "160",
+        "author": "Walsh",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "1",
+        "key": "10.3346/jkms.2022.37.e6_ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1016/j.eururo.2006.06.017",
+        "volume": "51",
+        "author": "Ficarra",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "4",
+        "key": "10.3346/jkms.2022.37.e6_ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "796",
+        "DOI": "10.1016/j.eururo.2011.12.048",
+        "volume": "61",
+        "author": "Schatloff",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "6 Pt 2",
+        "key": "10.3346/jkms.2022.37.e6_ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "984",
+        "DOI": "10.1111/j.1464-410X.2011.10565.x",
+        "volume": "108",
+        "author": "Tewari",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "1",
+        "key": "10.3346/jkms.2022.37.e6_ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.4111/icu.2020.61.1.1",
+        "volume": "61",
+        "author": "Kang",
+        "year": "2020",
+        "journal-title": "Investig Clin Urol"
+      },
+      {
+        "issue": "1",
+        "key": "10.3346/jkms.2022.37.e6_ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1007/s11701-009-0127-9",
+        "volume": "3",
+        "author": "Coughlin",
+        "year": "2009",
+        "journal-title": "J Robot Surg"
+      },
+      {
+        "issue": "3",
+        "key": "10.3346/jkms.2022.37.e6_ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1016/j.eururo.2009.06.007",
+        "volume": "56",
+        "author": "Patel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "6",
+        "key": "10.3346/jkms.2022.37.e6_ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1490",
+        "DOI": "10.1111/jsm.12844",
+        "volume": "12",
+        "author": "Kang",
+        "year": "2015",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "issue": "4",
+        "key": "10.3346/jkms.2022.37.e6_ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "711",
+        "DOI": "10.1016/j.eururo.2006.06.009",
+        "volume": "50",
+        "author": "Dubbelman",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "4",
+        "key": "10.3346/jkms.2022.37.e6_ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1510",
+        "DOI": "10.1016/j.juro.2007.11.064",
+        "volume": "179",
+        "author": "Levinson",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "1",
+        "key": "10.3346/jkms.2022.37.e6_ref22",
+        "doi-asserted-by": "crossref",
+        "first-page": "227",
+        "DOI": "10.1016/S0022-5347(06)00632-X",
+        "volume": "176",
+        "author": "Michl",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "4",
+        "key": "10.3346/jkms.2022.37.e6_ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "816",
+        "DOI": "10.1016/j.urology.2008.09.082",
+        "volume": "73",
+        "author": "van der Poel",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "4",
+        "key": "10.3346/jkms.2022.37.e6_ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "691",
+        "DOI": "10.1016/j.urology.2008.09.085",
+        "volume": "73",
+        "author": "Finley",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "6",
+        "key": "10.3346/jkms.2022.37.e6_ref25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1336",
+        "DOI": "10.1016/j.urology.2008.10.077",
+        "volume": "73",
+        "author": "Abel",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "6",
+        "key": "10.3346/jkms.2022.37.e6_ref26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1222",
+        "DOI": "10.1016/j.eururo.2012.02.053",
+        "volume": "61",
+        "author": "Alemozaffar",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "Journal of Korean Medical Science"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://jkms.org/pdf/10.3346/jkms.2022.37.e6",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://jkms.org/DOIx.php?id=10.3346/jkms.2022.37.e6",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://jkms.org/DOIx.php?id=10.3346/jkms.2022.37.e6",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          3
+        ]
+      ],
+      "date-time": "2022-01-03T00:00:40Z",
+      "timestamp": 1641168040000
+    },
+    "score": 160.94978,
+    "resource": {
+      "primary": {
+        "URL": "https://jkms.org/DOIx.php?id=10.3346/jkms.2022.37.e6"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "references-count": 26,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.3346/jkms.2022.37.e6",
+    "ISSN": [
+      "1011-8934",
+      "1598-6357"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1011-8934"
+      },
+      {
+        "type": "electronic",
+        "value": "1598-6357"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2021-07-22",
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-11-11",
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-12-01",
+        "name": "published_online",
+        "label": "Published online",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "© 2022 The Korean Academy of Medical Sciences.",
+        "name": "copyright",
+        "label": "Copyright",
+        "group": {
+          "name": "Copyright_and_licensing",
+          "label": "Copyright and Licensing"
+        }
+      },
+      {
+        "value": "This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (https://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+        "name": "license",
+        "label": "License",
+        "explanation": {
+          "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        },
+        "group": {
+          "name": "Copyright_and_licensing",
+          "label": "Copyright and Licensing"
+        }
+      }
+    ],
+    "article-number": "e6"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          22
+        ]
+      ],
+      "date-time": "2026-06-22T14:59:47Z",
+      "timestamp": 1782140387426,
+      "version": "3.54.5"
+    },
+    "reference-count": 20,
+    "publisher": "SAGE Publications",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2022-05-01T00:00:00Z",
+          "timestamp": 1651363200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.liebertpub.com/nv/resources-tools/text-and-data-mining-policy/121/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Endourology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1089/end.2021.0660",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          4
+        ]
+      ],
+      "date-time": "2021-12-04T01:22:18Z",
+      "timestamp": 1638580938000
+    },
+    "page": "661-667",
+    "source": "Crossref",
+    "is-referenced-by-count": 35,
+    "title": [
+      "Single-Port\n                    <i>vs</i>\n                    Multiport Robot-Assisted Radical Prostatectomy: A Propensity Score Matching Comparative Study"
+    ],
+    "prefix": "10.1177",
+    "volume": "36",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5278-7672",
+        "authenticated-orcid": false,
+        "given": "Tae Il",
+        "family": "Noh",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology and Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Young Jin",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Pathology, Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ji Sung",
+        "family": "Shim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology and Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Seok Ho",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology and Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jun",
+        "family": "Cheon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology and Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeong Gu",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology and Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sung Gu",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology and Anam Hospital, Korea University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0000000000015770"
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aju.2018.06.006"
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4111/icu.2020.61.1.1"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2020.09.009"
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2008.07949.x"
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2010.06.040"
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2014.06.039"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2020.01.005"
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2018.11.044"
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bju.15069"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/end.2020.0649"
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2020.11.042"
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11701-009-0127-9"
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2018.07.003"
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jsm.12844"
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2011.12.048"
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21037/tau.2019.11.05"
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2019.04.001"
+      },
+      {
+        "key": "B19",
+        "first-page": "10263",
+        "volume": "27",
+        "author": "Jones R",
+        "year": "2020",
+        "journal-title": "Can J Urol"
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2020.03.031"
+      }
+    ],
+    "container-title": [
+      "Journal of Endourology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.liebertpub.com/doi/full-xml/10.1089/end.2021.0660",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.liebertpub.com/doi/pdf/10.1089/end.2021.0660",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2026-04-28T20:14:14Z",
+      "timestamp": 1777407254000
+    },
+    "score": 79.745605,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/full/10.1089/end.2021.0660"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          1
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1089/end.2021.0660"
+    ],
+    "URL": "https://doi.org/10.1089/end.2021.0660",
+    "ISSN": [
+      "0892-7790",
+      "1557-900X"
+    ],
+    "issn-type": [
+      {
+        "value": "0892-7790",
+        "type": "print"
+      },
+      {
+        "value": "1557-900X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          5,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          9
+        ]
+      ],
+      "date-time": "2024-09-09T06:45:29Z",
+      "timestamp": 1725864329611
+    },
+    "publisher-location": "Cham",
+    "reference-count": 39,
+    "publisher": "Springer International Publishing",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9783319326399"
+      },
+      {
+        "type": "electronic",
+        "value": "9783319326412"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2016-01-01T00:00:00Z",
+          "timestamp": 1451606400000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-319-32641-2_7",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          7
+        ]
+      ],
+      "date-time": "2016-09-07T08:52:45Z",
+      "timestamp": 1473238365000
+    },
+    "page": "75-84",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Partial Neurovascular Bundle Sparing During Robot-Assisted Radical Prostatectomy"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Marcelo A.",
+        "family": "Orvieto",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Surena F.",
+        "family": "Matin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "7_CR1",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "volume": "128",
+        "author": "PC Walsh",
+        "year": "1982",
+        "unstructured": "Walsh PC, Donker PJ. Impotence following radical prostatectomy: insight into etiology and prevention. J Urol. 1982;128:492–7.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "3",
+        "key": "7_CR2",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/S0094-0143(05)70163-4",
+        "volume": "28",
+        "author": "M Han",
+        "year": "2001",
+        "unstructured": "Han M, Partin AW, Pound CR, Epstein JI, Walsh PC. Long-term biochemical disease-free and cancer-specific survival following anatomic radical retropubic prostatectomy. The 15-year Johns Hopkins experience. Urol Clin North Am. 2001;28(3):555–65.",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "issue": "5 Suppl",
+        "key": "7_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1016/j.urology.2005.06.116",
+        "volume": "66",
+        "author": "FJ Bianco Jr",
+        "year": "2005",
+        "unstructured": "Bianco Jr FJ, Scardino PT, Eastham JA. Radical prostatectomy: long-term cancer control and recovery of sexual and urinary function (“trifecta”). Urology. 2005;66(5 Suppl):83–94.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "7_CR4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Carlsson S, Drevin L, Loeb S, Widmark A, Franck Lissbrant I, Robinson D, Johansson E, Stattin P, Fransson P. Population-based study of long-term functional outcomes after prostate cancer treatment. BJU Int. 2015. Ahead of Print.",
+        "DOI": "10.1111/bju.13179"
+      },
+      {
+        "issue": "5",
+        "key": "7_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "658",
+        "DOI": "10.1111/j.1743-6109.2005.00117.x",
+        "volume": "2",
+        "author": "F Montorsi",
+        "year": "2005",
+        "unstructured": "Montorsi F, McCullough A. Efficacy of sildenafil citrate in men with erectile dysfunction following radical prostatectomy: a systematic review of clinical data. J Sex Med. 2005;2(5):658–67.",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "issue": "1",
+        "key": "7_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1038/ijir.2011.40",
+        "volume": "24",
+        "author": "A Tewari",
+        "year": "2012",
+        "unstructured": "Tewari A, Srivastava A, Sooriakumaran P, Grover S, Dorsey P, Leung R. Technique of traction-free nerve-sparing robotic prostatectomy: delicate tissue handling by real-time penile oxygen monitoring. Int J Impot Res. 2012;24(1):11–9.",
+        "journal-title": "Int J Impot Res"
+      },
+      {
+        "issue": "1",
+        "key": "7_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1111/bju.12663",
+        "volume": "114",
+        "author": "TE Ahlering",
+        "year": "2014",
+        "unstructured": "Ahlering TE, Skarecky DW. Reserving sexual function after robotic radical prostatectomy: avoiding thermal energy near nerves. BJU Int. 2014;114(1):131–2.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "2",
+        "key": "7_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "76",
+        "DOI": "10.1177/145749690909800203",
+        "volume": "98",
+        "author": "MA Orvieto",
+        "year": "2009",
+        "unstructured": "Orvieto MA, Patel VR. Evolution of robot-assisted radical prostatectomy. Scand J Surg. 2009;98(2):76–88.",
+        "journal-title": "Scand J Surg"
+      },
+      {
+        "key": "7_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1199",
+        "DOI": "10.1111/j.1464-410X.2006.06563.x",
+        "volume": "98",
+        "author": "MA Orvieto",
+        "year": "2006",
+        "unstructured": "Orvieto MA, Alsikafi NF, Shalhav AL, et al. Impact of surgical margin status on long-term cancer control after radical prostatectomy. BJU Int. 2006;98:1199–203.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "1",
+        "key": "7_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1810",
+        "DOI": "10.1016/j.urolonc.2014.09.006",
+        "volume": "33",
+        "author": "MA Preston",
+        "year": "2015",
+        "unstructured": "Preston MA, Breau RH, Lantz AG, Morash C, Gerridzen RG, Doucette S, Mallick R, Eastham JA, Cagiannos I. The association between nerve sparing and a positive surgical margin during radical prostatectomy. Urol Oncol. 2015;33(1):1810.",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "issue": "3",
+        "key": "7_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "869",
+        "DOI": "10.1016/j.juro.2010.10.057",
+        "volume": "185",
+        "author": "SE Eggener",
+        "year": "2011",
+        "unstructured": "Eggener SE, Scardino PT, Walsh PC, Han M, Partin AW, Trock BJ, Feng Z, Wood DP, Eastham JA, Yossepowitch O, Rabah DM, Kattan MW, Yu C, Klein EA, Stephenson AJ. Predicting 15-year prostate cancer specific mortality after radical prostatectomy. J Urol. 2011;185(3):869–75.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "2",
+        "key": "7_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1016/S0022-5347(17)48885-9",
+        "volume": "133",
+        "author": "H Lepor",
+        "year": "1985",
+        "unstructured": "Lepor H, Gregerman M, Crosby R, Mostofi FK, Walsh PC. Precise localization of the autonomic nerves from the pelvic plexus to the corpora cavernosa: a detailed anatomical study of the adult male pelvis. J Urol. 1985;133(2):207–12.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "2",
+        "key": "7_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "314",
+        "DOI": "10.1111/j.1464-410X.2006.06266.x",
+        "volume": "98",
+        "author": "A Tewari",
+        "year": "2006",
+        "unstructured": "Tewari A, Takenaka A, Mtui E, et al. The proximal neurovascular plate and the tri-zonal neural architecture around the prostate gland: importance in the athermal robotic technique of nerve-sparing prostatectomy. BJU Int. 2006;98(2):314–23.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "3",
+        "key": "7_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1032",
+        "DOI": "10.1097/01.ju.0000135648.33110.df",
+        "volume": "172",
+        "author": "A Takenaka",
+        "year": "2004",
+        "unstructured": "Takenaka A, Murakami G, Soga H, Han SH, Arai Y, Fujisawa M. Anatomical analysis of the neurovascular bundle supplying penile cavernous tissue to ensure a reliable nerve graft after radical prostatectomy. J Urol. 2004;172(3):1032–5.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "7",
+        "key": "7_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1071",
+        "DOI": "10.1111/j.1464-410X.2004.05106.x",
+        "volume": "94",
+        "author": "AJ Costello",
+        "year": "2004",
+        "unstructured": "Costello AJ, Brooks M, Cole OJ. Anatomical studies of the neurovascular bundle and cavernosal nerves. BJU Int. 2004;94(7):1071–6.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "2",
+        "key": "7_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "398",
+        "DOI": "10.1016/j.urology.2008.12.076",
+        "volume": "74",
+        "author": "R Ganzer",
+        "year": "2009",
+        "unstructured": "Ganzer R, Blana A, Stolzenburg JU, Rabenalt R, Fritsche HM, Wieland WF, Denzinger S. Nerve quantification and computerized planimetry to evaluate periprostatic nerve distribution-does size matter? Urology. 2009;74(2):398–403.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "2",
+        "key": "7_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "160",
+        "DOI": "10.1016/0090-4295(85)90051-2",
+        "volume": "26",
+        "author": "JP Weiss",
+        "year": "1985",
+        "unstructured": "Weiss JP, Schlecker BA, Wein AJ, Hanno PM. Preservation of periprostatic autonomic nerves during total perineal prostatectomy by intrafascial dissection. Urology. 1985;26(2):160–3.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "3",
+        "key": "7_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1016/j.eururo.2006.11.012",
+        "volume": "51",
+        "author": "JU Stolzenburg",
+        "year": "2007",
+        "unstructured": "Stolzenburg JU, Schwalenberg T, Horn LC, Neuhaus J, Constantinides C, Liatsikos EN. Anatomical landmarks of radical prostatecomy. Eur Urol. 2007;51(3):629–39.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "6",
+        "key": "7_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1303",
+        "DOI": "10.1089/end.2008.0009",
+        "volume": "22",
+        "author": "KC Zorn",
+        "year": "2008",
+        "unstructured": "Zorn KC, Gofrit ON, Steinberg GP, Taxy JB, Zagaja GP, Shalhav AL. Planned nerve preservation to reduce positive surgical margins during robot-assisted laparoscopic radical prostatectomy. J Endourol. 2008;22(6):1303–9.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "issue": "3",
+        "key": "7_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "611",
+        "DOI": "10.1016/j.urology.2009.01.092",
+        "volume": "74",
+        "author": "S Shikanov",
+        "year": "2009",
+        "unstructured": "Shikanov S, Woo J, Al-Ahmadie H, Katz MH, Zagaja GP, Shalhav AL, Zorn KC. Extrafascial versus interfascial nerve-sparing technique for robotic-assisted laparoscopic prostatectomy: comparison of functional outcomes and positive surgical margins characteristics. Urology. 2009;74(3):611–6.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "1",
+        "key": "7_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.1016/j.urolonc.2009.11.023",
+        "volume": "30",
+        "author": "HJ Lavery",
+        "year": "2012",
+        "unstructured": "Lavery HJ, Nabizada-Pace F, Carlucci JR, Brajtbord JS, Samadi DB. Nerve-sparing robotic prostatectomy in preoperatively high-risk patients is safe and efficacious. Urol Oncol. 2012;30(1):26–32.",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "issue": "4 Pt 1",
+        "key": "7_CR22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1328",
+        "DOI": "10.1097/01.ju.0000138681.64035.dc",
+        "volume": "172",
+        "author": "JF Ward",
+        "year": "2004",
+        "unstructured": "Ward JF, Zincke H, Bergstralh EJ, Slezak JM, Myers RP, Blute ML. The impact of surgical approach (nerve bundle preservation versus wide local excision) on surgical margins and biochemical recurrence following radical prostatectomy. J Urol. 2004;172(4 Pt 1):1328–32.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "5",
+        "key": "7_CR23",
+        "doi-asserted-by": "crossref",
+        "first-page": "487",
+        "DOI": "10.1016/j.urolonc.2008.09.042",
+        "volume": "28",
+        "author": "TJ Bradford",
+        "year": "2010",
+        "unstructured": "Bradford TJ, Weizer AZ, Gilbert SM, Dunn RL, Wojno K, Shah R, Wood DP. Is residual neurovascular tissue on prostatectomy specimens associated with surgeon intent at nerve-sparing and postoperative quality of life measures? Urol Oncol. 2010;28(5):487–91.",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "issue": "3",
+        "key": "7_CR24",
+        "doi-asserted-by": "crossref",
+        "first-page": "367",
+        "DOI": "10.1111/j.1464-410X.2012.11403.x",
+        "volume": "111",
+        "author": "KH Kim",
+        "year": "2013",
+        "unstructured": "Kim KH, Rha KH. Pathological confirmation of nerve-sparing types performed during robot-assisted radical prostatectomy (RARP). BJU Int. 2013;111(3):367–8.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "7_CR25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Andino L, Davis JW, Wei W, Prokhorova I, Troncoso P, Matin SF. Correlation of histomorphologic findings and partial neurovascular bundle preservation during laparoscopic and robotic radical prostatectomy. J R Soc. 2011. Online",
+        "DOI": "10.1007/s11701-011-0323-2"
+      },
+      {
+        "issue": "3",
+        "key": "7_CR26",
+        "doi-asserted-by": "crossref",
+        "first-page": "571",
+        "DOI": "10.1016/j.eururo.2011.12.047",
+        "volume": "61",
+        "author": "VR Patel",
+        "year": "2012",
+        "unstructured": "Patel VR, Schatloff O, Chauhan S, Sivaraman A, Valero R, Coelho RF, Rocco B, Palmer KJ, Kameh D. The role of the prostatic vasculature as a landmark for nerve sparing during robot-assisted radical prostatectomy. Eur Urol. 2012;61(3):571–6.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "4",
+        "key": "7_CR27",
+        "doi-asserted-by": "crossref",
+        "first-page": "796",
+        "DOI": "10.1016/j.eururo.2011.12.048",
+        "volume": "61",
+        "author": "O Schatloff",
+        "year": "2012",
+        "unstructured": "Schatloff O, Chauhan S, Sivaraman A, Kameh D, Palmer KJ, Patel VR. Anatomic grading of nerve sparing during robot-assisted radical prostatectomy. Eur Urol. 2012;61(4):796–802.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "7_CR28",
+        "doi-asserted-by": "crossref",
+        "first-page": "596",
+        "DOI": "10.1016/j.urology.2011.11.029",
+        "volume": "79",
+        "author": "O Schatloff",
+        "year": "2012",
+        "unstructured": "Schatloff O, Chauhan S, Kameh D, Valero R, Ko YH, Sivaraman A, Coelho RF, Marquinez J, Palmer KJ, Patel VR. Cavernosal nerve preservation during robot-assisted radical prostatectomy is a graded rather than an all-or-none phenomenon: objective demonstration by assessment of residual nerve tissue on surgical specimens. Urology. 2012;79(3):596–600.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "6 Pt 2",
+        "key": "7_CR29",
+        "doi-asserted-by": "crossref",
+        "first-page": "984",
+        "DOI": "10.1111/j.1464-410X.2011.10565.x",
+        "volume": "108",
+        "author": "AK Tewari",
+        "year": "2011",
+        "unstructured": "Tewari AK, Srivastava A, Huang MW, Robinson BD, Shevchuk MM, Durand M, Sooriakumaran P, Grover S, Yadav R, Mishra N, Mohan S, Brooks DC, Shaikh N, Khanna A, Leung R. Anatomical grades of nerve sparing: a risk-stratified approach to neural-hammock sparing during robot-assisted radical prostatectomy (RARP). BJU Int. 2011;108(6 Pt 2):984–92.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "3",
+        "key": "7_CR30",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/S0090-4295(99)00458-6",
+        "volume": "55",
+        "author": "C Sohayda",
+        "year": "2006",
+        "unstructured": "Sohayda C, Kupelian PA, Levin HS, Klein EA. Extent of extracapsular extension in localized prostate cancer. Urology. 2006;55(3):382–6.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "7",
+        "key": "7_CR31",
+        "doi-asserted-by": "crossref",
+        "first-page": "833",
+        "DOI": "10.1111/j.1464-410X.2007.07409.x",
+        "volume": "101",
+        "author": "R Ayyathurai",
+        "year": "2008",
+        "unstructured": "Ayyathurai R, Manoharan M, Nieder AM, Kava B, Soloway MS. Factors affecting erectile function after radical retropubic prostatectomy: results from 1620 consecutive patients. BJU Int. 2008;101(7):833–6.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "2",
+        "key": "7_CR32",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1016/j.juro.2008.10.047",
+        "volume": "181",
+        "author": "JP Mulhall",
+        "year": "2009",
+        "unstructured": "Mulhall JP. Defining and reporting erectile function outcomes after radical prostatectomy: challenges and misconceptions. J Urol. 2009;181(2):462–71.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "7_CR33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Levinson AW, Pavlovich CP, Ward NT, Link RE, Mettee LZ, Su LM. Association of surgeon subjective characterization of nerve sparing quality with potency following laparoscopic radical prostatectomy. J Urol. 2008;179(4):1510–4.",
+        "DOI": "10.1016/j.juro.2007.11.064"
+      },
+      {
+        "key": "7_CR34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ko WJ, Hruby GW, Turk AT, Landman J, Badani KK. Pathological confirmation of nerve-sparing types performed during robot-assisted radical prostatectomy (RARP). BJU Int. 2013;111(3):451–8.",
+        "DOI": "10.1111/j.1464-410X.2012.11393.x"
+      },
+      {
+        "key": "7_CR35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Tewari AK, Srivastava A, Huang MW, Robinson BD, Shevchuk MM, Durand M, et al. Anatomical grades of nerve sparing: a risk-stratified approach to neural-hammock sparing during robot-assisted radical prostatectomy (RARP). BJU Int. 2011;108(6 Pt 2):984–92",
+        "DOI": "10.1111/j.1464-410X.2011.10565.x"
+      },
+      {
+        "issue": "5",
+        "key": "7_CR36",
+        "doi-asserted-by": "crossref",
+        "first-page": "1135",
+        "DOI": "10.1016/j.eururo.2008.08.051",
+        "volume": "55",
+        "author": "JW Davis",
+        "year": "2008",
+        "unstructured": "Davis JW, Chang DW, Chevray P, Wang R, Shen Y, Wen S, Pettaway CA, Pisters LL, Swanson DA, Madsen LT, Huber N, Troncoso P, Babaian RJ, Wood CG. Randomized phase II trial evaluation of erectile function after attempted unilateral cavernous nerve-sparing retropubic radical prostatectomy with versus without unilateral sural nerve grafting for clinically localized prostate cancer. Eur Urol. 2008;55(5):1135–43.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "7_CR37",
+        "doi-asserted-by": "crossref",
+        "first-page": "204",
+        "DOI": "10.1016/j.brachy.2011.12.013",
+        "volume": "12",
+        "author": "TJ Pugh",
+        "year": "2013",
+        "unstructured": "Pugh TJ, Frank SJ, Achim M, Kuban DA, Lee AK, Hoffman KE, McGuire SE, Swanson DA, Kudchadker R, Davis JW. Endorectal magnetic resonance imaging for predicting pathologic T3 disease in Gleason score 7 prostate cancer: Implications for prostate brachytherapy. Brachytherapy. 2013;12(3):204–9.",
+        "journal-title": "Brachytherapy"
+      },
+      {
+        "key": "7_CR38",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1016/j.eururo.2012.04.046",
+        "volume": "62",
+        "author": "A Salonia",
+        "year": "2012",
+        "unstructured": "Salonia A, Burnett AL, Graefen M, et al. Prevention and management of postprostatectomy sexual dysfunction part 1: choosing the right patient at the right time for the right surgery. Eur Urol. 2012;62:261–72.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "7_CR39",
+        "doi-asserted-by": "crossref",
+        "first-page": "260",
+        "DOI": "10.1111/iju.12021",
+        "volume": "20",
+        "author": "N Hinata",
+        "year": "2013",
+        "unstructured": "Hinata N, Sejima T, Takenaka A. Progress in pelvic anatomy from the viewpoint of radical prostatectomy. Int J Urol. 2013;20:260–70.",
+        "journal-title": "Int J Urol"
+      }
+    ],
+    "container-title": [
+      "Robot-Assisted Radical Prostatectomy"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-32641-2_7",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2019-09-13T03:30:24Z",
+      "timestamp": 1568345424000
+    },
+    "score": 75.64363,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/978-3-319-32641-2_7"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "ISBN": [
+      "9783319326399",
+      "9783319326412"
+    ],
+    "references-count": 39,
+    "URL": "https://doi.org/10.1007/978-3-319-32641-2_7",
+    "published": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          10
+        ]
+      ],
+      "date-time": "2026-03-10T01:02:15Z",
+      "timestamp": 1773104535094,
+      "version": "3.50.1"
+    },
+    "reference-count": 17,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2022-06-01T00:00:00Z",
+          "timestamp": 1654041600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2022-06-01T00:00:00Z",
+          "timestamp": 1654041600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              30
+            ]
+          ],
+          "date-time": "2021-10-30T00:00:00Z",
+          "timestamp": 1635552000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Prostate International"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.prnil.2021.10.003",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2022-01-05T05:34:22Z",
+      "timestamp": 1641360862000
+    },
+    "page": "85-91",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Initial experience of single-port robot-assisted radical prostatectomy: A single surgeon's experience with technique description"
+    ],
+    "prefix": "10.1016",
+    "volume": "10",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5278-7672",
+        "authenticated-orcid": false,
+        "given": "Tae Il",
+        "family": "Noh",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jong Hyun",
+        "family": "Tae",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ji Sung",
+        "family": "Shim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Seok Ho",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jun",
+        "family": "Cheon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jeong Gu",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sung Gu",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib1",
+        "article-title": "Robot-assisted and laparoscopic vs open radical prostatectomy in clinically localized prostate cancer: perioperative, functional, and oncological outcomes: A Systematic review and meta-analysis",
+        "volume": "98",
+        "author": "Cao",
+        "year": "2019",
+        "journal-title": "Medicine (Baltim)"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "293",
+        "DOI": "10.1016/j.aju.2018.06.006",
+        "article-title": "A brief overview of the development of robot-assisted radical prostatectomy",
+        "volume": "16",
+        "author": "Hakenberg",
+        "year": "2018",
+        "journal-title": "Arab J Urol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.4111/icu.2020.61.1.1",
+        "article-title": "Lessons learned from 12,000 robotic radical prostatectomies: Is the journey as important as the outcome?",
+        "volume": "61",
+        "author": "Kang",
+        "year": "2020",
+        "journal-title": "Investig Clin Urol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "366",
+        "DOI": "10.1111/j.1464-410X.2008.07949.x",
+        "article-title": "Robotic single-port transumbilical surgery in humans: initial report",
+        "volume": "103",
+        "author": "Kaouk",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "544",
+        "DOI": "10.1016/j.eururo.2010.06.040",
+        "article-title": "Robotic laparoendoscopic single-site radical prostatectomy: technique and early outcomes",
+        "volume": "58",
+        "author": "White",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "684",
+        "DOI": "10.1016/j.eururo.2018.11.044",
+        "article-title": "Robotic Urologic Surgical Interventions Performed with the Single Port Dedicated Platform: First Clinical Investigation",
+        "volume": "75",
+        "author": "Kaouk",
+        "year": "2019",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1111/bju.15069",
+        "article-title": "Single-port robot-assisted radical prostatectomy: a systematic review and pooled analysis of the preliminary experiences",
+        "volume": "126",
+        "author": "Checcucci",
+        "year": "2020",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1033",
+        "DOI": "10.1016/j.eururo.2014.06.039",
+        "article-title": "A novel robotic system for single-port urologic surgery: first clinical investigation",
+        "volume": "66",
+        "author": "Kaouk",
+        "year": "2014",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "114",
+        "DOI": "10.1111/bju.15158",
+        "article-title": "Early outcomes of single-port robot-assisted radical prostatectomy: lessons learned from the learning-curve experience",
+        "volume": "127",
+        "author": "Covas Moschovas",
+        "year": "2021",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "898",
+        "DOI": "10.21037/tau.2019.11.05",
+        "article-title": "Single port robotic radical prostatectomy: a systematic review",
+        "volume": "9",
+        "author": "Lai",
+        "year": "2020",
+        "journal-title": "Transl Androl Urol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib11",
+        "first-page": "1135",
+        "article-title": "Extraperitoneal versus Transperitoneal Single Port Robotic Radical Prostatectomy: A Comparative Analysis of Perioperative Outcomes",
+        "volume": "203",
+        "author": "Kaouk",
+        "year": "2020",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1016/j.eururo.2019.04.001",
+        "article-title": "Initial Experience with da Vinci Single-port Robot-assisted Radical Prostatectomies",
+        "volume": "77",
+        "author": "Agarwal",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1089/end.2015.0465",
+        "article-title": "When Should a Positive Surgical Margin Ring a Bell? An Analysis of a Multi-Institutional Robot-Assisted Laparoscopic Radical Prostatectomy Database",
+        "volume": "30",
+        "author": "Abdollah",
+        "year": "2016",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib14",
+        "first-page": "490",
+        "article-title": "Perioperative Outcomes of Single vs Multi-Port Robotic Assisted Radical Prostatectomy: A Single Institutional Experience",
+        "volume": "204",
+        "author": "Saidian",
+        "year": "2020",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "671",
+        "DOI": "10.1016/j.eururo.2020.03.031",
+        "article-title": "A Comparison of Perioperative Outcomes Between Single-port and Multiport Robot-assisted Laparoscopic Prostatectomy",
+        "volume": "77",
+        "author": "Vigneswaran",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "415",
+        "DOI": "10.1016/j.eururo.2020.01.005",
+        "article-title": "Technical Modifications Necessary to Implement the da Vinci Single-port Robotic System",
+        "volume": "78",
+        "author": "Covas Moschovas",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.prnil.2021.10.003_bib17",
+        "article-title": "Width of spared neurovascular bundle after robot-assisted laparoscopic prostatectomy in patients with prostate cancer: is it a reliable factor for predicting postoperative sexual outcome?",
+        "author": "Yoo",
+        "year": "2020",
+        "journal-title": "Prostate Int."
+      }
+    ],
+    "container-title": [
+      "Prostate International"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2287888221000581?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2287888221000581?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          6
+        ]
+      ],
+      "date-time": "2025-11-06T09:00:49Z",
+      "timestamp": 1762419649000
+    },
+    "score": 72.96731,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2287888221000581"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          6
+        ]
+      ]
+    },
+    "references-count": 17,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S2287888221000581"
+    ],
+    "URL": "https://doi.org/10.1016/j.prnil.2021.10.003",
+    "ISSN": [
+      "2287-8882"
+    ],
+    "issn-type": [
+      {
+        "value": "2287-8882",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Initial experience of single-port robot-assisted radical prostatectomy: A single surgeon's experience with technique description",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Prostate International",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.prnil.2021.10.003",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2022 Asian Pacific Prostate Society. Publishing services by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          15
+        ]
+      ],
+      "date-time": "2026-06-15T18:04:36Z",
+      "timestamp": 1781546676888,
+      "version": "3.54.5"
+    },
+    "reference-count": 41,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              12,
+              23
+            ]
+          ],
+          "date-time": "2022-12-23T00:00:00Z",
+          "timestamp": 1671753600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 261,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              6
+            ]
+          ],
+          "date-time": "2022-04-06T00:00:00Z",
+          "timestamp": 1649203200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              3
+            ]
+          ],
+          "date-time": "2022-03-03T00:00:00Z",
+          "timestamp": 1646265600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "smoa.jsexmed.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          6,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Background</jats:title><jats:p>Despite the widespread practice of nerve-sparing robot-assisted radical prostatectomy (nsRARP) for the treatment of localized prostate cancer (PCa), erectile dysfunction remains a significant sequela of radical prostatectomy.</jats:p></jats:sec><jats:sec><jats:title>Aim</jats:title><jats:p>This study aimed to compare the efficacy of tadalafil 5 mg once daily for erectile function recovery in patients who underwent nsRARP according to the timing of rehabilitation initiation.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>In this double-blind, prospective pilot study, a total of 41 patients who underwent nsRARP were randomly assigned into 2 groups according to the timing of rehabilitation initiation. In the preRARP group (n = 20), tadalafil was started 2 weeks before nsRARP, and in the postRARP group (n = 21), it was started 4 weeks after nsRARP. Erectile function recovery after nsRARP was defined as an International Index of Erectile Function (IIEF-5) score of ≥17.</jats:p></jats:sec><jats:sec><jats:title>Outcomes</jats:title><jats:p>The measures of EF recovery were the changes in IIEF-5 score.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>The rate of erectile function recovery at 12-month follow-up was 80.0% and 71.4% in the preRARP and postRARP groups, respectively. The mean differences between baseline and postoperative IIEF-5 scores at 1-, 3-, 6-, and 12-month follow-up were −11.7 ± 3.2, −7.4 ± 3.2, −5.6 ± 1.5, and −4.1 ± 1.1 in the preRARP group and −14.7 ± 4.7, −12.0 ± 5.0, −9.7 ± 3.9, and −6.0 ± 3.1 in the postRARP group, respectively (1-month, P = .259; 3-months, P = .077; 6-months, P = .014; 12-months, P = .007).</jats:p></jats:sec><jats:sec><jats:title>Clinical implications</jats:title><jats:p>Preoperative tadalafil 5 mg once a day could be used effectively and safely as a strategy for penile rehabilitation after nsRARP.</jats:p></jats:sec><jats:sec><jats:title>Strengths and Limitations</jats:title><jats:p>This study is the first prospective trial of penile rehabilitation with tadalafil 5 mg once a day prior to nsRARP. This is a pilot study with the limitations of a small sample; further and large-scale studies with multiple cohorts, such as an untreated control group and an early immediate rehabilitation group for EF recovery, are needed.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>This study suggests that preoperative penile rehabilitation using tadalafil may lead to better erectile function recovery than postoperative penile rehabilitation using tadalafil.</jats:p></jats:sec>",
+    "DOI": "10.1016/j.esxm.2022.100508",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          6
+        ]
+      ],
+      "date-time": "2022-04-06T03:53:10Z",
+      "timestamp": 1649217190000
+    },
+    "page": "1-9",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Efficacy of Tadalafil in Penile Rehabilitation Started Before Nerve-Sparing Robot-Assisted Radical Prostatectomy: A Double-Blind Pilot Study"
+    ],
+    "prefix": "10.1093",
+    "volume": "10",
+    "author": [
+      {
+        "given": "Tae Il",
+        "family": "Noh",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Korea University College of Medicine , Seoul , Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ji Sung",
+        "family": "Shim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Korea University College of Medicine , Seoul , Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sung Gu",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Korea University College of Medicine , Seoul , Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jun",
+        "family": "Cheon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Korea University College of Medicine , Seoul , Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeong Gu",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Korea University College of Medicine , Seoul , Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Seok Ho",
+        "family": "Kang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Korea University College of Medicine , Seoul , Korea"
+          },
+          {
+            "name": "Department of Urology, Korea University College of Medicine , Seoul , Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          6
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2023011903543476600_bib0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "e15770",
+        "DOI": "10.1097/MD.0000000000015770",
+        "article-title": "Robot-assisted and laparoscopic vs open radical prostatectomy in clinically localized prostate cancer: perioperative, functional, and oncological outcomes: A systematic review and meta-analysis",
+        "volume": "98",
+        "author": "Cao",
+        "year": "2019",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "key": "2023011903543476600_bib0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "1051",
+        "DOI": "10.1016/S1470-2045(18)30357-7",
+        "article-title": "Robot-assisted laparoscopic prostatectomy versus open radical retropubic prostatectomy: 24-month outcomes from a randomised controlled study",
+        "volume": "19",
+        "author": "Coughlin",
+        "year": "2018",
+        "journal-title": "Lancet Oncol"
+      },
+      {
+        "key": "2023011903543476600_bib0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy: Insight into etiology and prevention",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1016/j.eururo.2016.01.026",
+        "article-title": "A critical analysis of the current knowledge of surgical anatomy of the prostate related to optimisation of cancer control and preservation of continence and erection in candidates for radical prostatectomy: An update",
+        "volume": "70",
+        "author": "Walz",
+        "year": "2016",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "760",
+        "DOI": "10.1016/j.juro.2017.02.3344",
+        "article-title": "The risks and benefits of cavernous neurovascular bundle sparing during radical prostatectomy: A systematic review and meta-analysis",
+        "volume": "198",
+        "author": "Nguyen",
+        "year": "2017",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "401",
+        "DOI": "10.1038/s41443-020-00374-8",
+        "article-title": "Prevalence of post-prostatectomy erectile dysfunction and a review of the recommended therapeutic modalities",
+        "volume": "33",
+        "author": "Lima",
+        "year": "2021",
+        "journal-title": "Int J Impot Res"
+      },
+      {
+        "key": "2023011903543476600_bib0007",
+        "doi-asserted-by": "crossref",
+        "first-page": "848",
+        "DOI": "10.1016/j.eururo.2016.09.030",
+        "article-title": "High chance of late recovery of urinary and erectile function beyond 12 months after radical prostatectomy",
+        "volume": "71",
+        "author": "Mandel",
+        "year": "2017",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0008",
+        "doi-asserted-by": "crossref",
+        "first-page": "899",
+        "DOI": "10.1016/j.eururo.2015.07.074",
+        "article-title": "Unexpected long-term improvements in urinary and erectile function in a large cohort of men with self-reported outcomes following radical prostatectomy",
+        "volume": "68",
+        "author": "Lee",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "924",
+        "DOI": "10.1016/j.eururo.2008.06.083",
+        "article-title": "Effect of nightly versus on-demand vardenafil on recovery of erectile function in men following bilateral nerve-sparing radical prostatectomy",
+        "volume": "54",
+        "author": "Montorsi",
+        "year": "2008",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "323",
+        "DOI": "10.1038/s41443-019-0187-y",
+        "article-title": "Efficacy of a preprostatectomy multi-modal penile rehabilitation regimen on recovery of postoperative erectile function",
+        "volume": "32",
+        "author": "Osadchiy",
+        "year": "2020",
+        "journal-title": "Int J Impot Res"
+      },
+      {
+        "key": "2023011903543476600_bib0011",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fsurg.2021.648345",
+        "article-title": "Is it worth starting sexual rehabilitation before radical prostatectomy? Results from a systematic review of the literature",
+        "volume": "8",
+        "author": "Schoentgen",
+        "year": "2021",
+        "journal-title": "Front Surg"
+      },
+      {
+        "key": "2023011903543476600_bib0012",
+        "doi-asserted-by": "crossref",
+        "first-page": "1018",
+        "DOI": "10.1097/JU.0000000000001584",
+        "article-title": "Penile rehabilitation strategy after nerve sparing radical prostatectomy: A systematic review and network meta-analysis of randomized trials",
+        "volume": "205",
+        "author": "Sari Motlagh",
+        "year": "2021",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0013",
+        "doi-asserted-by": "crossref",
+        "first-page": "108",
+        "DOI": "10.1016/j.esxm.2017.12.005",
+        "article-title": "Efficacy and safety of tadalafil 5 mg once daily for the treatment of erectile dysfunction after robot-assisted laparoscopic radical prostatectomy: A 2-year follow-up",
+        "volume": "6",
+        "author": "Kim",
+        "year": "2018",
+        "journal-title": "Sex Med"
+      },
+      {
+        "key": "2023011903543476600_bib0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "587",
+        "DOI": "10.1016/j.eururo.2013.09.051",
+        "article-title": "Effects of tadalafil treatment on erectile function recovery following bilateral nerve-sparing radical prostatectomy: A randomised placebo-controlled study (REACTT)",
+        "volume": "65",
+        "author": "Montorsi",
+        "year": "2014",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1016/j.jsxm.2016.11.325",
+        "article-title": "Sexual rehabilitation after treatment for prostate cancer-part 1: Recommendations From the Fourth International Consultation for Sexual Medicine (ICSM 2015)",
+        "volume": "14",
+        "author": "Salonia",
+        "year": "2017",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "2023011903543476600_bib0016",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1016/j.juro.2018.05.004",
+        "article-title": "Erectile dysfunction: AUA Guideline",
+        "volume": "200",
+        "author": "Burnett",
+        "year": "2018",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0017",
+        "doi-asserted-by": "crossref",
+        "first-page": "319",
+        "DOI": "10.1038/sj.ijir.3900472",
+        "article-title": "Development and evaluation of an abridged, 5-item version of the International Index of Erectile Function (IIEF-5) as a diagnostic tool for erectile dysfunction",
+        "volume": "11",
+        "author": "Rosen",
+        "year": "1999",
+        "journal-title": "Int J Impot Res"
+      },
+      {
+        "key": "2023011903543476600_bib0018",
+        "first-page": "535",
+        "article-title": "Validation of an abridged Korean version of the International Index of Erectile Function (IIEF-5) as a diagnostic tool for erectile dysfunction",
+        "volume": "42",
+        "author": "Ahn",
+        "year": "2001",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "714",
+        "DOI": "10.4143/crt.2019.716",
+        "article-title": "Diagnostic accuracy and value of magnetic resonance imaging-ultrasound fusion transperineal targeted and template systematic prostate biopsy based on bi-parametric magnetic resonance imaging",
+        "volume": "52",
+        "author": "Noh",
+        "year": "2020",
+        "journal-title": "Cancer Res Treat"
+      },
+      {
+        "key": "2023011903543476600_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "1148",
+        "DOI": "10.4143/crt.2020.1068",
+        "article-title": "A predictive model based on bi-parametric magnetic resonance imaging and clinical parameters for clinically significant prostate cancer in the Korean population",
+        "volume": "53",
+        "author": "Noh",
+        "year": "2020",
+        "journal-title": "Cancer Res Treat"
+      },
+      {
+        "key": "2023011903543476600_bib0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "796",
+        "DOI": "10.1016/j.eururo.2011.12.048",
+        "article-title": "Anatomic grading of nerve sparing during robot-assisted radical prostatectomy",
+        "volume": "61",
+        "author": "Schatloff",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0022",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.psychres.2020.113558",
+        "article-title": "Accuracy of machine learning-based prediction of medication adherence in clinical research",
+        "volume": "294",
+        "author": "Koesmahargyo",
+        "year": "2020",
+        "journal-title": "Psychiatry Res"
+      },
+      {
+        "key": "2023011903543476600_bib0023",
+        "doi-asserted-by": "crossref",
+        "first-page": "757",
+        "DOI": "10.1161/01.HYP.2.6.757",
+        "article-title": "Can simple clinical measurements detect patient noncompliance?",
+        "volume": "2",
+        "author": "Haynes",
+        "year": "1980",
+        "journal-title": "Hypertension"
+      },
+      {
+        "key": "2023011903543476600_bib0024",
+        "doi-asserted-by": "crossref",
+        "first-page": "618",
+        "DOI": "10.1016/j.eururo.2016.08.003",
+        "article-title": "EAU-ESTRO-SIOG Guidelines on Prostate Cancer. Part 1: Screening, diagnosis, and local treatment with curative intent",
+        "volume": "71",
+        "author": "Mottet",
+        "year": "2017",
+        "journal-title": "Eur Urol."
+      },
+      {
+        "key": "2023011903543476600_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "104",
+        "DOI": "10.1016/j.eururo.2020.09.009",
+        "article-title": "Technical refinements in superextended robot-assisted radical prostatectomy for locally advanced prostate cancer patients at multiparametric magnetic resonance imaging",
+        "volume": "80",
+        "author": "Mazzone",
+        "year": "2021",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0026",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1016/j.eururo.2015.02.029",
+        "article-title": "Urinary incontinence and erectile dysfunction after robotic versus open radical prostatectomy: A prospective, controlled, nonrandomised trial",
+        "volume": "68",
+        "author": "Haglind",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0027",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1016/j.eururo.2009.11.009",
+        "article-title": "A critical analysis of the current knowledge of surgical anatomy related to optimization of cancer control and preservation of continence and erection in candidates for radical prostatectomy",
+        "volume": "57",
+        "author": "Walz",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0028",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1007/s11701-016-0607-7",
+        "article-title": "Current status of various neurovascular bundle-sparing techniques in robot-assisted radical prostatectomy",
+        "volume": "10",
+        "author": "Kumar",
+        "year": "2016",
+        "journal-title": "J Robot Surg"
+      },
+      {
+        "key": "2023011903543476600_bib0029",
+        "doi-asserted-by": "crossref",
+        "first-page": "6",
+        "DOI": "10.1007/s00276-002-0083-9",
+        "article-title": "The inferior hypogastric plexus (pelvic plexus): Its importance in neural preservation techniques",
+        "volume": "25",
+        "author": "Mauroy",
+        "year": "2003",
+        "journal-title": "Surg Radiol Anat"
+      },
+      {
+        "key": "2023011903543476600_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1002/ca.10105",
+        "article-title": "Topography of the pelvic autonomic nervous system and its potential impact on surgical intervention in the pelvis",
+        "volume": "16",
+        "author": "Baader",
+        "year": "2003",
+        "journal-title": "Clin Anat"
+      },
+      {
+        "key": "2023011903543476600_bib0031",
+        "doi-asserted-by": "crossref",
+        "first-page": "1490",
+        "DOI": "10.1111/jsm.12844",
+        "article-title": "Does surgeon subjective nerve sparing score predict recovery time of erectile function following robot-assisted radical prostatectomy?",
+        "volume": "12",
+        "author": "Kang",
+        "year": "2015",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "2023011903543476600_bib0032",
+        "doi-asserted-by": "crossref",
+        "first-page": "339",
+        "DOI": "10.1016/j.jsxm.2020.11.011",
+        "article-title": "Sexual satisfaction in men suffering from erectile dysfunction after robot-assisted radical prostatectomy for prostate cancer: An observational study",
+        "volume": "18",
+        "author": "Albers",
+        "year": "2021",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "2023011903543476600_bib0033",
+        "doi-asserted-by": "crossref",
+        "first-page": "998",
+        "DOI": "10.1111/bju.12228",
+        "article-title": "Penile rehabilitation after radical prostatectomy: What the evidence really says",
+        "volume": "112",
+        "author": "Fode",
+        "year": "2013",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "2023011903543476600_bib0034",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.2147/CIA.S122273",
+        "article-title": "Efficacy and safety of short- and long-term, regular and on-demand regimens of phosphodiesterase type 5 inhibitors in treating erectile dysfunction after nerve-sparing radical prostatectomy: A systematic review and meta-analysis",
+        "volume": "12",
+        "author": "Tian",
+        "year": "2017",
+        "journal-title": "Clin Interv Aging"
+      },
+      {
+        "key": "2023011903543476600_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "1673",
+        "DOI": "10.1097/01.ju.0000154356.76027.4f",
+        "article-title": "Histological alterations in cavernous tissue after radical prostatectomy",
+        "volume": "173",
+        "author": "Iacono",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0036",
+        "doi-asserted-by": "crossref",
+        "first-page": "1031",
+        "DOI": "10.1007/s00345-014-1377-3",
+        "article-title": "Effects of tadalafil once daily or on demand versus placebo on time to recovery of erectile function in patients after bilateral nerve-sparing radical prostatectomy",
+        "volume": "33",
+        "author": "Moncada",
+        "year": "2015",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0037",
+        "doi-asserted-by": "crossref",
+        "first-page": "1600",
+        "DOI": "10.1016/j.juro.2017.12.060",
+        "article-title": "Effect of starting penile rehabilitation with sildenafil immediately after robot-assisted laparoscopic radical prostatectomy on erectile function recovery: A prospective randomized trial",
+        "volume": "199",
+        "author": "Jo",
+        "year": "2018",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0038",
+        "doi-asserted-by": "crossref",
+        "first-page": "1036",
+        "DOI": "10.1097/01.ju.0000136448.71773.2b",
+        "article-title": "Tadalafil in the treatment of erectile dysfunction following bilateral nerve sparing radical retropubic prostatectomy: A randomized, double-blind, placebo controlled trial",
+        "volume": "172",
+        "author": "Montorsi",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "2023011903543476600_bib0039",
+        "doi-asserted-by": "crossref",
+        "first-page": "608",
+        "DOI": "10.1111/j.1743-6109.2011.02580.x",
+        "article-title": "Choosing the best candidates for penile rehabilitation after bilateral nerve-sparing radical prostatectomy",
+        "volume": "9",
+        "author": "Briganti",
+        "year": "2012",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "2023011903543476600_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "650",
+        "DOI": "10.1016/j.sxmr.2020.09.006",
+        "article-title": "Surgeon experience and erectile function after radical prostatectomy: A systematic review",
+        "volume": "9",
+        "author": "Ju",
+        "year": "2021",
+        "journal-title": "Sex Med Rev"
+      },
+      {
+        "key": "2023011903543476600_bib0041"
+      }
+    ],
+    "container-title": [
+      "Sexual Medicine"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2050116122000228?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2050116122000228?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://academic.oup.com/smoa/article-pdf/10/3/1/48762246/smoa_10_3_1g.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/smoa/article-pdf/10/3/1/48762246/smoa_10_3_1g.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2023-11-19T17:56:33Z",
+      "timestamp": 1700416593000
+    },
+    "score": 71.3528,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/smoa/article/10/3/1/6825613"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          6
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            6,
+            1
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1016/j.esxm.2022.100508",
+    "ISSN": [
+      "2050-1161"
+    ],
+    "issn-type": [
+      {
+        "value": "2050-1161",
+        "type": "electronic"
+      }
+    ],
+    "published-other": {
+      "date-parts": [
+        [
+          2022,
+          6
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Efficacy of Tadalafil in Penile Rehabilitation Started Before Nerve-Sparing Robot-Assisted Radical Prostatectomy: A Double-Blind Pilot Study",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Sexual Medicine",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.esxm.2022.100508",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2022 The Authors. Published by Elsevier Inc. on behalf of the International Society for Sexual Medicine.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

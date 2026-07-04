@@ -1,0 +1,14 @@
+{
+  "paper": "Kang 2022.md",
+  "args": {
+    "manuscript": "..\\TEMP\\Kang 2022.md",
+    "limit": null,
+    "dry_run": true
+  },
+  "counts": {
+    "reference_not_in_list": 75
+  },
+  "n_claims": 24,
+  "n_checks": 75,
+  "flags_output": "C:\\Users\\Hung\\Desktop\\citation-pipeline\\audit\\results\\flags\\Kang_2022.json"
+}

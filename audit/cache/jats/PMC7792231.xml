@@ -1,0 +1,1701 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="pmc-domain-id">1888</journal-id><journal-id journal-id-type="pmc-domain">jaha</journal-id><journal-id journal-id-type="nlm-id">101580524</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7792231</article-id><article-id pub-id-type="pmcid-ver">PMC7792231.1</article-id><article-id pub-id-type="pmcaid">7792231</article-id><article-id pub-id-type="pmcaiid">7792231</article-id><article-id pub-id-type="pmid">32700630</article-id><article-id pub-id-type="doi">10.1161/JAHA.120.017293</article-id><article-id pub-id-type="publisher-id">JAH35245</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Contemporary Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Contemporary Reviews</subject></subj-group></article-categories><title-group><article-title>Right‐Sided Infective Endocarditis 2020: Challenges and Updates in Diagnosis and Treatment</article-title></title-group><contrib-group><contrib id="jah35245-cr-0001" contrib-type="author"><name name-style="western"><surname>Shmueli</surname><given-names initials="H">Hezzy</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah35245-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah35245-cr-0002" contrib-type="author"><name name-style="western"><surname>Thomas</surname><given-names initials="F">Felix</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah35245-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah35245-cr-0003" contrib-type="author"><name name-style="western"><surname>Flint</surname><given-names initials="N">Nir</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah35245-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah35245-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah35245-cr-0004" contrib-type="author"><name name-style="western"><surname>Setia</surname><given-names initials="G">Gayatri</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah35245-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah35245-cr-0005" contrib-type="author"><name name-style="western"><surname>Janjic</surname><given-names initials="A">Aleksandar</given-names></name><degrees>RDCS</degrees><xref ref-type="aff" rid="jah35245-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah35245-cr-0006" contrib-type="author" corresp="yes"><name name-style="western"><surname>Siegel</surname><given-names initials="RJ">Robert J.</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1552-0928</contrib-id><xref ref-type="aff" rid="jah35245-aff-0001">
+<sup>1</sup>
+</xref><address><email>robert.siegel@cshs.org</email></address></contrib></contrib-group><aff id="jah35245-aff-0001">
+<label><sup>1</sup></label>
+<institution>Smidt Heart Institute</institution>
+<institution>Cedars‐Sinai Medical Center</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">CA</named-content>
+</aff><aff id="jah35245-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>Tel Aviv Sourasky Medical Center Affiliated to the Sackler Faculty of Medicine</institution>
+<institution>Tel Aviv University</institution>
+<city>Tel Aviv</city>
+<country country="IL">Israel</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence to: Robert J. Siegel, MD, FAHA, Smidt Heart Institute, Cedars‐Sinai Medical Center, 8700 Beverly Blvd, AHSP, Los Angeles, CA 90048. E‐mail: <email>robert.siegel@cshs.org</email></corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>7</month><year>2020</year></pub-date><pub-date pub-type="collection"><day>04</day><month>8</month><year>2020</year></pub-date><volume>9</volume><issue>15</issue><issue-id pub-id-type="pmc-issue-id">372496</issue-id><issue-id pub-id-type="doi">10.1002/jah3.v9.15</issue-id><elocation-id>e017293</elocation-id><history><date date-type="received"><day>13</day><month>2</month><year>2020</year></date><date date-type="accepted"><day>15</day><month>6</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>04</day><month>08</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>15</day><month>01</month><year>2021</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2021-01-16 00:16:28.470"><day>16</day><month>01</month><year>2021</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley. </copyright-statement><license license-type="creativeCommonsBy-nc"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JAH3-9-e017293.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JAH3-9-e017293.pdf"/><abstract id="jah35245-abs-0001"><title>Abstract</title><p>Compared with the extensive data on left‐sided infective endocarditis (<styled-content style="fixed-case" toggle="no">IE</styled-content>), there is much less published information on the features and management of right‐sided <styled-content style="fixed-case" toggle="no">IE</styled-content>. Right‐sided <styled-content style="fixed-case" toggle="no">IE</styled-content> accounts for 5% to 10% of all <styled-content style="fixed-case" toggle="no">IE</styled-content> cases, and compared with left‐sided <styled-content style="fixed-case" toggle="no">IE</styled-content>, it is more often associated with intravenous drug use, intracardiac devices, and central venous catheters, all of which has become more prevalent over the past 20 years. In this manuscript on right‐sided <styled-content style="fixed-case" toggle="no">IE</styled-content> we provide an up‐to‐date overview on the epidemiology, etiology, microbiology, potential locations of infection in the right heart, diagnosis, imaging, common complications, management, and prognosis. We present updated information on the treatment of pacemaker and device infections, infected fibrin sheaths that appear to be an easily missed source of infection after central line as well as pacemaker removal. We review current data on the AngioVac percutaneous aspiration device, which can obviate the need for surgery in patients with infected pacemaker leads and fibrin sheaths. We also focused on advanced diagnostic modalities, such as positron emission tomography/computed tomography. All of these are supported by specific case examples with detailed echocardiographic imaging from our experience.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah35245-kwd-0001">echocardiography</kwd><kwd id="jah35245-kwd-0002">infective endocarditis</kwd><kwd id="jah35245-kwd-0003">right‐sided infective endocarditis</kwd><kwd id="jah35245-kwd-0004">tricuspid</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Infectious Endocarditis</kwd></kwd-group><counts><fig-count count="5"/><table-count count="4"/><page-count count="11"/><word-count count="8986"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>04 August 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.3 mode:remove_FC converted:10.11.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah35245-cit-1001">(<source xml:lang="en">J Am Heart Assoc</source>. <year>2020</year>;<volume>9</volume>:<elocation-id>e017293</elocation-id> DOI: <pub-id pub-id-type="doi">10.1161/JAHA.120.017293</pub-id>.)<pub-id pub-id-type="pmid">32700630</pub-id><pub-id pub-id-type="pmcid">PMC7792231</pub-id></mixed-citation>
+</p><fn-group id="jah35245-ntgp-0001"><fn fn-type="funding" id="jah35245-note-1002"><p>For Sources of Funding and Disclosures, see page 10.</p></fn></fn-group></notes></front><body id="jah35245-body-0001"><def-list list-content="abbreviations" id="jah35245-dl-0001"><title>Nonstandard Abbreviations and Acronyms</title><def-item><term>IE</term><def><p>infective endocarditis</p></def></def-item><def-item><term>IVDU</term><def><p>intravenous drug use</p></def></def-item><def-item><term>RA</term><def><p>right atrium</p></def></def-item><def-item><term>SVC</term><def><p>superior vena cava</p></def></def-item><def-item><term>TEE</term><def><p>transesophageal echocardiography</p></def></def-item><def-item><term>TTE</term><def><p>transthoracic echocardiography</p></def></def-item><def-item><term>TV</term><def><p>tricuspid valve</p></def></def-item></def-list><p>Infective endocarditis (IE) involves native or prosthetic valves, any intracardiac devices within the heart, and more rarely nonfunctional embryonic remnants that are present in the right atrium (RA). It is caused by the seeding of any of these structures by bacterial or, less commonly, fungal organisms.<xref rid="jah35245-bib-0001" ref-type="ref">1</xref> Despite advances in diagnostic capabilities and treatment options, IE continues to be a growing health concern with a 1‐year mortality rate of 30%, which has remained unchanged over several decades.<xref rid="jah35245-bib-0002" ref-type="ref">2</xref>
+</p><p>The overall incidence of IE in the United States is steadily increasing. Between 2000 and 2011, IE incidence has grown from 11 to 15 cases per 100 000 people per year, despite updates in IE prophylaxis guidelines.<xref rid="jah35245-bib-0003" ref-type="ref">3</xref> Men constitute a higher proportion of IE cases; however, the incidence of IE in women is increasing.<xref rid="jah35245-bib-0004" ref-type="ref">4</xref>, <xref rid="jah35245-bib-0005" ref-type="ref">5</xref> In recent decades, there has been a shift in the patient population: the proportion of patients with IE and underlying rheumatic heart disease has decreased whereas the proportion of patients with prosthetic valves and implanted heart devices has increased.<xref rid="jah35245-bib-0006" ref-type="ref">6</xref> The increasing incidence of IE has also been attributed to longer survival of patients with risk factors for IE such as congenital heart disease, HIV, diabetes mellitus, immunosuppressive therapy, and end‐stage renal disease requiring dialysis.<xref rid="jah35245-bib-0007" ref-type="ref">7</xref>, <xref rid="jah35245-bib-0008" ref-type="ref">8</xref>, <xref rid="jah35245-bib-0009" ref-type="ref">9</xref>
+</p><p>The diagnosis of IE is based on clinical, imaging, and laboratory criteria. The Duke major criteria, the mainstay of IE diagnosis, were developed to facilitate the diagnosis of IE and consist of positive blood cultures of typical microorganisms (commonly staphylococci or streptococci) and the presence of valvular vegetations detected by echocardiography.<xref rid="jah35245-bib-0010" ref-type="ref">10</xref>
+</p><p>IE can be further classified according to the cardiac structures and chambers involved. Endocarditis affecting the right heart chambers and valves has typical etiologies and epidemiology as well as unique diagnostic and therapeutic options. Compared with the extensive data on left‐sided IE, much less information has been published on the features and management of right‐sided IE.</p><p>In this review we provide an up‐to‐date overview on the etiology, diagnosis, imaging, management, and prognosis of right‐sided IE as well as new therapeutic options and representative cases from our experience.</p><sec id="jah35245-sec-0002"><title>Epidemiology and Natural History of Right‐Sided IE</title><p>Right‐sided IE accounts for 5% to 10% of all IE cases, and compared with left‐sided IE, it is often associated with intravenous drug use (IVDU), intracardiac devices, and central venous catheters, all of which have become more prevalent in the United States over the past 20 years.<xref rid="jah35245-bib-0010" ref-type="ref">10</xref>, <xref rid="jah35245-bib-0011" ref-type="ref">11</xref>, <xref rid="jah35245-bib-0012" ref-type="ref">12</xref>
+</p><p>The lower incidence of right‐sided IE, compared with left‐sided IE, can be explained by the relatively low prevalence of pathological conditions affecting right‐sided valves including congenital malformations, differences in the properties of and vascularity of the right‐sided endothelium as well as lower pressure gradients and jet velocities across the right‐sided valves and lower right‐sided wall stress and reduced oxygen content in venous blood.<xref rid="jah35245-bib-0013" ref-type="ref">13</xref>, <xref rid="jah35245-bib-0014" ref-type="ref">14</xref> The echocardiographic anatomy of the right heart cavities and structures is shown in Figure <xref rid="jah35245-fig-0001" ref-type="fig">1</xref>. IVDU is the most common predisposition for right‐sided IE and is responsible for the increasing incidence of IE in developed countries. The overall incidence of IE among IVDU patients ranges between 2% and 5% per year. With the rise in intravenous heroin use in the United States, the proportion of IE admissions related to drug use has doubled from 6% in 2000 to 12% in 2013.<xref rid="jah35245-bib-0015" ref-type="ref">15</xref> Between 2010 to 2015, the proportion of IVDU in all IE cases increased from 15% to 29%, and consequently IE is affecting younger populations.<xref rid="jah35245-bib-0016" ref-type="ref">16</xref> When added to the ongoing opioid epidemic, this is a concerning trend. Up to 86% of IE cases among IVDU involve the right heart, most commonly (90%) the tricuspid valve (TV).<xref rid="jah35245-bib-0012" ref-type="ref">12</xref> Among IVDU patients who present with fever, 13% will have echocardiographic evidence of IE and when concomitant bacteremia is present, up to 41% will show evidence of IE.<xref rid="jah35245-bib-0017" ref-type="ref">17</xref> IVDU patients who are coinfected with HIV are more than twice as likely to develop IE relative to HIV‐negative individuals, with the risk increasing 8‐fold if CD4 counts are below 350 cells/μL.<xref rid="jah35245-bib-0018" ref-type="ref">18</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="jah35245-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Echocardiographic imaging of the right heart anatomy.</title><p>
+<bold>A</bold>, Three‐dimensional (3D) <styled-content style="fixed-case" toggle="no">TTE</styled-content> four chamber view of the right chambers and tricuspid valve. <bold>B</bold>, 3D <styled-content style="fixed-case" toggle="no">TTE</styled-content> showing the tricuspid valve leaflets, from the <styled-content style="fixed-case" toggle="no">RA</styled-content> perspective. <bold>C</bold>, I 3D <styled-content style="fixed-case" toggle="no">TTE</styled-content> four chamber view. The red arrow points to the prominent crista terminalis. <bold>D</bold>,<styled-content style="fixed-case" toggle="no"> TEE</styled-content> four chamber view focused on the right heart chambers. The blue arrow points to the prominent eustachian valve. <styled-content style="fixed-case" toggle="no">AL</styled-content> indicates anterior leaflet; <styled-content style="fixed-case" toggle="no">LA</styled-content>, left atrium; <styled-content style="fixed-case" toggle="no">LV</styled-content>, left ventricle; <styled-content style="fixed-case" toggle="no">PL</styled-content>, posterior leaflet; <styled-content style="fixed-case" toggle="no">RA</styled-content>, right atrium; <styled-content style="fixed-case" toggle="no">RV</styled-content>, right ventricle; <styled-content style="fixed-case" toggle="no">SL</styled-content>, septal leaflet; <styled-content style="fixed-case" toggle="no">TEE</styled-content>, transesophageal echocardiography; <styled-content style="fixed-case" toggle="no">TTE</styled-content>, transthoracic echocardiography; and <styled-content style="fixed-case" toggle="no">TV</styled-content>, tricuspid valve.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-1" position="float" orientation="portrait" xlink:href="JAH3-9-e017293-g001.jpg"/></fig><p>Repetitive use of injected drugs can lead to structural abnormalities of the TV detected by transthoracic echocardiography (TTE) such as focal thickening, valve prolapse, and regurgitation. These findings are likely the result of particles contaminating the illicit drugs being injected intravenously.<xref rid="jah35245-bib-0019" ref-type="ref">19</xref>
+</p><p>Catheter‐related bloodstream infections are usually associated with central venous catheters. IE related to peripheral venous lines is uncommon. However, local cellulitis, use of infusion pumps, and insertion of a cannula in the lower extremity have been shown to be independent risk factors for right‐sided IE.<xref rid="jah35245-bib-0020" ref-type="ref">20</xref>
+</p><p>Cardiac device‐related IE is a severe type of right‐sided IE that typically involves the TV or contiguous endocardium in the right ventricle. The infection can spread from an infected subcutaneous pacemaker pocket or through bacterial seeding. Its incidence has risen because of the growing use of intracardiac devices and an aging patient population. One study with data on 4.2 million pacemakers and defibrillators implantations reported an increase in the incidence of cardiac device‐related IE by 210% between 1993 to 2008. This was observed concurrently with a 96% increase in device implantation over the same time period.<xref rid="jah35245-bib-0021" ref-type="ref">21</xref> The latest data imply that 9.9% of all IE cases included in the recently published EURObservational Research Programme‐Euro‐Endo registry have been device‐related cases.<xref rid="jah35245-bib-0022" ref-type="ref">22</xref> The risk of infection following implantation of a cardiac pacemaker is 0.5% to 1% in the first 6 to 12 months and rises with increasing complexity of the implanted device. Namely, infection rate for implantable cardioverter‐defibrillator implantations is 1.7% and even higher for cardiac resynchronization therapy implantations. Compared with primary implantation, the risk of infection in the case of device replacement or revision procedures is between 2‐ and 4‐fold higher.<xref rid="jah35245-bib-0023" ref-type="ref">23</xref> In a recent cohort study among 8060 patients admitted with a cardiac device‐related IE, 379 (4.7%) patients died during the hospitalization, and renal failure was the leading risk factor.<xref rid="jah35245-bib-0024" ref-type="ref">24</xref>
+</p></sec><sec id="jah35245-sec-0003"><title>Typical Microorganisms of Right‐Sided IE</title><p>The typical microorganisms causing right‐sided IE are listed in Table <xref rid="jah35245-tbl-0001" ref-type="table">1</xref>. <italic toggle="yes">Staphylococcus aureus</italic> is the predominant organism (60–90% of cases) in right‐sided IE, with a steadily increasing proportion of methicillin‐resistant <italic toggle="yes">Staphylococcus aureus</italic> strains and polymicrobial infections.<xref rid="jah35245-bib-0010" ref-type="ref">10</xref> Streptococcal and coagulase‐negative staphylococcal infections are also frequent causes of right‐sided IE, with <italic toggle="yes">S. pneumoniae</italic> IE occurring more commonly in the setting of chronic alcoholism, regardless of IVDU. However, <italic toggle="yes">S. pneumoniae</italic> is still more likely to involve the left side of the heart, with right‐sided IE accounting for &lt;10% of cases.<xref rid="jah35245-bib-0012" ref-type="ref">12</xref> Increased prevalence of <italic toggle="yes">Pseudomonas aeruginosa</italic> and other gram‐negative bacteria has been reported in right‐sided IE.<xref rid="jah35245-bib-0012" ref-type="ref">12</xref>, <xref rid="jah35245-bib-0025" ref-type="ref">25</xref>, <xref rid="jah35245-bib-0026" ref-type="ref">26</xref> Fungal endocarditis, generally associated with very high mortality, comprises about 3% of all IE cases and only rarely involves the right heart.<xref rid="jah35245-bib-0012" ref-type="ref">12</xref>, <xref rid="jah35245-bib-0027" ref-type="ref">27</xref> However, increasing numbers of immunocompromised patients and the use of intravascular and intracardiac devices may lead to a rise in right‐sided fungal IE. In a study of 78 patients with fungal endocarditis, 19 had isolated right‐sided endocarditis and the overall mortality was 54%.<xref rid="jah35245-bib-0027" ref-type="ref">27</xref> Prosthetic valve IE and cardiac device‐related IE have a distinct distribution of causal microorganisms, as coagulase‐negative staphylococcal infections are responsible for 25% of cardiac device‐related IE cases.<xref rid="jah35245-bib-0025" ref-type="ref">25</xref> The presence of a central venous catheter as well as a peripherally inserted central catheter can increase the likelihood of right‐sided IE. One study reported that in central venous catheter‐associated IE, right‐sided involvement was observed in up to two‐thirds of cases and in most of them the responsible microorganisms were <italic toggle="yes">S. aureus</italic> and <italic toggle="yes">coagulase‐negative staphylococci</italic>.<xref rid="jah35245-bib-0028" ref-type="ref">28</xref> In immunocompromised patients with prosthetic valves or intracardiac devices (central lines, pacemakers, etc), less common microorganisms such as <italic toggle="yes">Proteus mirabilis</italic>
+<xref rid="jah35245-bib-0029" ref-type="ref">29</xref> and <italic toggle="yes">Bartonella quintana</italic> may cause IE.<xref rid="jah35245-bib-0030" ref-type="ref">30</xref> Right‐sided IE caused by <italic toggle="yes">Coxiella burnetii</italic> infection has been described in pediatric patients following correction of congenital heart defects, as well as in bioprosthetic valves.<xref rid="jah35245-bib-0031" ref-type="ref">31</xref> For prosthetic valve‐associated IE, <italic toggle="yes">S. aureus</italic> is the predominant organism and is more likely to cause an invasive disease even when affecting right‐sided prosthetic valves.<xref rid="jah35245-bib-0026" ref-type="ref">26</xref>
+</p><table-wrap id="jah35245-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Common Causative Microorganisms for Right‐Sided Infective Endocarditis</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Organism</th><th align="left" valign="top" rowspan="1" colspan="1">Features</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Staphylococcus aureus</italic>
+</td><td align="left" rowspan="1" colspan="1">Most prevalent pathogen (60–90% of cases), increase in methicillin‐resistant <italic toggle="yes">Staphylococcus aureus</italic> predominantly in intravenous drug use</td></tr><tr><td align="left" rowspan="1" colspan="1">Coagulase‐negative Staphylococcus</td><td align="left" rowspan="1" colspan="1">Risk factors: alcoholism, prosthetic valves, vascular catheters</td></tr><tr><td align="left" rowspan="1" colspan="1">Streptococci (especially <italic toggle="yes">S. pneumoniae</italic>)</td><td align="left" rowspan="1" colspan="1">Prevalent in alcoholics, still more dominant in left‐sided infective endocarditis</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic toggle="yes">Pseudomonas aeruginosa</italic> and other gram‐negative bacteria</td><td align="left" rowspan="1" colspan="1">Increasing prevalence</td></tr><tr><td align="left" rowspan="1" colspan="1">Fungi</td><td align="left" rowspan="1" colspan="1">Relatively high mortality, incidence rising due to immunocompromised, aging population and intracardiac devices</td></tr></tbody></table></table-wrap></sec><sec id="jah35245-sec-0004"><title>Imaging of Right‐Sided IE</title><p>Echocardiography is the primary imaging technique used to detect right‐sided IE. TTE provides valuable information because right‐sided structures are located anteriorly and close to the TTE transducer. However, in some patients anatomic factors may lead to suboptimal imaging and limit the sensitivity of TTE. In addition to standard views, including subcostal imaging, modified views are often necessary to get a clear overview of the right ventricular inflow and outflow tracts, the eustachian valve, and the posterior leaflet of the tricuspid valve. Right atrial thrombus and old noninfected vegetations from previous disease may also cause diagnostic confusion. In the right atrium, the crista terminalis as well as the moderator band in the right ventricle should be recognized as normal variants and not as vegetations. The sensitivity of TTE and transesophageal echocardiography (TEE) was compared in 47 patients with right‐sided cardiac lesions, TEE provided a significantly higher diagnostic yield than did TTE. However, in another contemporary study in young IVDU patients, the sensitivity of TTE and TEE was similar. TEE and recently intracardiac echocardiography are important tools for diagnosing cardiac‐device related IE, as TTE has a limited sensitivity for detecting vegetations attached to pacemaker leads.<xref rid="jah35245-bib-0032" ref-type="ref">32</xref> Because it can be difficult to visualize all parts of the leads with TTE, especially areas close to or within the superior vena cava (SVC) where vegetations are often located, TEE is mandatory, as its sensitivity is superior to that of TTE, 70–90% versus 20–30%. However, the frequency of cardiac device‐related IE may be overestimated with both TTE and TEE, because lead aggregations from thrombi that appear very similar to vegetations are found in up to 20% of pacemaker patients without infection.<xref rid="jah35245-bib-0033" ref-type="ref">33</xref>
+</p><p>The evaluation of patients with IE is no longer limited to conventional echocardiography but should include several other imaging techniques such as computed tomography (CT), 18F‐fluorodeoxyglucose positron emission tomography/CT or other functional imaging modalities. CT can detect abscesses/pseudoaneurysms with a diagnostic accuracy similar to TEE and is possibly superior in the providing information regarding the extent and consequences of any perivalvular extension, including the anatomy of pseudoaneurysms, abscesses, and fistulae. For cardiac device‐related IE related infective endocarditis, 18F‐fluorodeoxyglucose positron emission tomography/CT is very specific when tracer uptake is visualized (only if applied late after implantation), but its sensitivity is very low—(16.3% in the European Society of Cardiology‐EURObservational Research Programme Euro‐Endo Registry).<xref rid="jah35245-bib-0022" ref-type="ref">22</xref> However, radiolabeled white blood cells scintigraphy (single‐photon emission CT/CT) has high sensitivity and specificity for the detection and localization of cardiac device‐related IE (94% and 100%, respectively).<xref rid="jah35245-bib-0034" ref-type="ref">34</xref>
+</p><p>In pulmonary/right‐sided endocarditis, CT is also useful for identifying concomitant pulmonary parenchymal disease, including abscesses and infarcts. A number of pathological conditions can mimic the pattern of focally increased 18F‐fluorodeoxyglucose uptake that is typically observed in IE, such as active thrombi, soft atherosclerotic plaques, postsurgical inflammation, etc. Therefore, the Duke criteria are difficult to apply in these patients because of lower sensitivity. According to European Society of Cardiology guidelines, modifications of the Duke criteria have been proposed, including local signs of infection and pulmonary embolism as major criteria.<xref rid="jah35245-bib-0010" ref-type="ref">10</xref>
+</p></sec><sec id="jah35245-sec-0005"><title>Right‐Sided IE Not Involving the Tricuspid Valve</title><p>Vegetations can be found any place on the endocardium but are typically located on the atrial side of the tricuspid valve or on cardiac device leads and on the ventricular side of the pulmonic valve, which is much less frequently involved compared with the tricuspid valve.<xref rid="jah35245-bib-0033" ref-type="ref">33</xref>
+</p><p>The TV is involved in 90% most right‐sided IE cases related to IVDU.<xref rid="jah35245-bib-0035" ref-type="ref">35</xref> However, other right‐sided structures may also become infected. Pulmonic valve IE may occur concomitantly with tricuspid valve IE.<xref rid="jah35245-bib-0013" ref-type="ref">13</xref> Isolated pulmonic valve IE is rare and accounts for &lt;2% of patients with IE,<xref rid="jah35245-bib-0014" ref-type="ref">14</xref> with only 70 reports of isolated pulmonic valve IE published between 1979 and 2013.<xref rid="jah35245-bib-0036" ref-type="ref">36</xref> In another study of patients who underwent surgery for active IE (138 right sided and 1224 left sided), only 7 had pulmonic valve involvement.<xref rid="jah35245-bib-0026" ref-type="ref">26</xref> Percutaneous pulmonary valve replacement is becoming more common. McElhinney et al<xref rid="jah35245-bib-0037" ref-type="ref">37</xref> reported on the prevalence of IE in 309 patients who underwent transcatheter pulmonary valve replacement with a Melody valve (Medtronic, Dublin, Ireland). In a median follow‐up duration of 5.1 years, pulmonic valve IE was diagnosed in 46 (14.9%) patients. All patients with endocarditis were treated with antibiotics except for 2, who died before treatment could be initiated. A total of 5 patients died as a result of the infectious episode, 4 had a septic syndrome and 1 had pulmonary embolus. Predisposing factors for pulmonic valve IE include IVDU, alcoholism, sepsis, immunosuppression, and catheter‐related infections,<xref rid="jah35245-bib-0038" ref-type="ref">38</xref>, <xref rid="jah35245-bib-0039" ref-type="ref">39</xref> but up to 28% of cases of pulmonic valve IE have no identified predisposing factors.<xref rid="jah35245-bib-0040" ref-type="ref">40</xref> Figure <xref rid="jah35245-fig-0002" ref-type="fig">2</xref>A and <xref rid="jah35245-fig-0002" ref-type="fig">2</xref>B shows an example of a patient with pulmonic valve IE with a history of the Ross procedure (aortic valve replacement using a pulmonary autograft and a homograft to replace the pulmonic valve).</p><fig fig-type="Figure" xml:lang="en" id="jah35245-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Infective endocarditis involving right heart structures other than the tricuspid valve.</title><p>
+<bold>A</bold> and <bold>B</bold>, A 72‐year‐old male, status post Ross procedure was admitted due to fever, weight loss and elevated inflammatory markers. A large mobile vegetation (green arrow) was seen attached to the pulmonic valve on both two‐dimensional (2D) <styled-content style="fixed-case" toggle="no">TEE</styled-content> (<bold>A</bold>) and three‐dimensional (3D) <styled-content style="fixed-case" toggle="no">TEE</styled-content> (<bold>B</bold>) imaging. <bold>C</bold> through <bold>E</bold>, A 39‐year‐old male was admitted for shortness of breath and fever. On <styled-content style="fixed-case" toggle="no">TTE</styled-content> at 4 chamber view (<bold>C</bold>) a large mobile vegetation (red arrow) was seen attached to the Eustachian valve (yellow arrow). This was confirmed by following <styled-content style="fixed-case" toggle="no">TEE</styled-content> showing a clear Eustachian valve vegetation seen from the 4‐chamber view (<bold>D</bold>) and bicaval view (<bold>E</bold>). <bold>F</bold> and <bold>G</bold>, A 36‐year‐old female patient with history of systemic lupus erythematosus and end‐stage renal disease on dialysis, presented with sepsis and methicillin‐resistant Staphylococcus aureus bacteremia. Consequently her dialysis central line was removed as it was a potential source of infection. Initial <styled-content style="fixed-case" toggle="no">TTE</styled-content> did not reveal any vegetations. Because of high clinical suspicion, <styled-content style="fixed-case" toggle="no">TEE</styled-content> was done that did not reveal any valvular vegetations; however, in a focused interrogation of the <styled-content style="fixed-case" toggle="no">SVC</styled-content> in 2D and 3D bicaval view, a tubular mobile structure was seen, consistent with an infective endovascular fibrin sheath vegetation (<bold>F</bold> and <bold>G</bold>, blue arrows), at the site of the removed dialysis catheter. She underwent successful aspiration of the vegetation with percutaneous aspiration device. <styled-content style="fixed-case" toggle="no">AO</styled-content> indicates aorta; <styled-content style="fixed-case" toggle="no">AV</styled-content>, aortic valve; <styled-content style="fixed-case" toggle="no">EV</styled-content>, eustachian valve; <styled-content style="fixed-case" toggle="no">LA</styled-content>, left atrium; <styled-content style="fixed-case" toggle="no">LV</styled-content>, left ventricle; <styled-content style="fixed-case" toggle="no">PA</styled-content>, pulmonary artery; <styled-content style="fixed-case" toggle="no">PV</styled-content>, pulmonic valve; <styled-content style="fixed-case" toggle="no">RA</styled-content>, right atrium; <styled-content style="fixed-case" toggle="no">RV</styled-content>, right ventricle; <styled-content style="fixed-case" toggle="no">RVOT</styled-content>, right ventricle outflow tract; and <styled-content style="fixed-case" toggle="no">SVC</styled-content>, superior vena cava.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="JAH3-9-e017293-g002.jpg"/></fig><p>Nonfunctional embryonic remnants that are present in the RA, such as crista terminalis, eustachian valve, Chiari network, and Thebesian valve, can mimic thrombi, tumors, or vegetation, but they can also be a nidus for IE.<xref rid="jah35245-bib-0041" ref-type="ref">41</xref>, <xref rid="jah35245-bib-0042" ref-type="ref">42</xref> The prevalence of IE affecting these structures is thought to be underreported and underestimated because of the difficulty with detection by TTE as well as the paucity of reports describing them.<xref rid="jah35245-bib-0043" ref-type="ref">43</xref> It has been recommended that these structures should be closely imaged in cases with a high likelihood of IE and no evidence of TV involvement,<xref rid="jah35245-bib-0010" ref-type="ref">10</xref>, <xref rid="jah35245-bib-0044" ref-type="ref">44</xref> and Moral et al suggested some imaging guidance for these structures.<xref rid="jah35245-bib-0045" ref-type="ref">45</xref> Figure <xref rid="jah35245-fig-0002" ref-type="fig">2</xref>C, <xref rid="jah35245-fig-0002" ref-type="fig">2</xref>D, and <xref rid="jah35245-fig-0002" ref-type="fig">2</xref>E presents a case of eustachian valve IE. Case series of eustachian valve IE reported similar risk factors to those of TV IE such as IVDU or central catheters as well as similar microbiological causatives.<xref rid="jah35245-bib-0044" ref-type="ref">44</xref>, <xref rid="jah35245-bib-0046" ref-type="ref">46</xref>, <xref rid="jah35245-bib-0047" ref-type="ref">47</xref>, <xref rid="jah35245-bib-0048" ref-type="ref">48</xref> In a study by Cresti et al of 33 patients with right‐sided IE, 15% had embryonic remnants involvement, most commonly the eustachian and Thebesian valves. TEE was superior to TTE for diagnosis in these cases because of better imaging of atrial structures.<xref rid="jah35245-bib-0043" ref-type="ref">43</xref> Conversely, San Roman et al described 5 cases of eustachian valve vegetations among 152 patients with right‐sided endocarditis (3.3%) and they found that TEE did not add any new information to that obtained by TTE; rather, it confirmed the TTE findings.<xref rid="jah35245-bib-0049" ref-type="ref">49</xref>
+</p><p>IE originating from an infected fibrin sheath extending from the SVC into the RA has been described. A fibrin sheath is a circumferential sleeve of endothelium that forms around the external surface of a central venous catheter. When the central line is removed, the fibrin sheath can remain intact within the SVC and become infected, as shown in Figure <xref rid="jah35245-fig-0002" ref-type="fig">2</xref>F, <xref rid="jah35245-fig-0002" ref-type="fig">2</xref>G and Videos <xref rid="jah35245-sup-0001" ref-type="supplementary-material">[Link]</xref>, <xref rid="jah35245-sup-0002" ref-type="supplementary-material">[Link]</xref> through <xref rid="jah35245-sup-0003" ref-type="supplementary-material">S3</xref>. Tang et al described a case series (n=11) of patients with bacteremia and evidence by TEE of endovascular fibrin sheath vegetations. This condition was associated with high mortality and can be easily missed unless thorough interrogation of the SVC and RA/SVC junction is performed by TEE.<xref rid="jah35245-bib-0050" ref-type="ref">50</xref> Thus, it is important to look for these structures in patients with bacteremia who previously had or currently have a central line.</p></sec><sec id="jah35245-sec-0006"><title>Complications of Right‐Sided IE</title><p>The major complications of right‐sided IE are summarized in Table <xref rid="jah35245-tbl-0002" ref-type="table">2</xref> and demonstrated in representative case shown in Figure <xref rid="jah35245-fig-0003" ref-type="fig">3</xref>A through <xref rid="jah35245-fig-0003" ref-type="fig">3</xref>three‐dimensional and Videos <xref rid="jah35245-sup-0004" ref-type="supplementary-material">[Link]</xref>, <xref rid="jah35245-sup-0005" ref-type="supplementary-material">[Link]</xref> through <xref rid="jah35245-sup-0006" ref-type="supplementary-material">S6</xref>.</p><table-wrap id="jah35245-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Major Complications of Right‐Sided Infective Endocarditis</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Valvular/Local</th><th align="left" valign="top" rowspan="1" colspan="1">Nonvalvular/Peripheral</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Valvular insufficiency (tricuspid regurgitation&gt;&gt;pulmonic regurgitation)</td><td align="left" rowspan="1" colspan="1">Pulmonary: embolism, infiltrates, exudates, abscess, cavitation, aneurysms, and pleural effusion</td></tr><tr><td align="left" rowspan="1" colspan="1">Valvular stenosis</td><td align="left" rowspan="1" colspan="1">Systemic embolism and infarcts (most often paradoxical embolus via patent foramen ovale or intracardiac shunt)</td></tr><tr><td align="left" rowspan="1" colspan="1">Valve destruction</td><td align="left" rowspan="1" colspan="1">High degree atrioventricular block</td></tr><tr><td align="left" rowspan="1" colspan="1">Valve leaflet perforation</td><td align="left" rowspan="1" colspan="1">Septic shock</td></tr><tr><td align="left" rowspan="1" colspan="1">Valve annulus abscess formation</td><td align="left" rowspan="1" colspan="1">Multiorgan failure</td></tr></tbody></table></table-wrap><fig fig-type="Figure" xml:lang="en" id="jah35245-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Complications of right‐sided <styled-content style="fixed-case" toggle="no">IE</styled-content> seen on echocardiography.</title><p>
+<bold>A</bold> through <bold>D</bold>, A 27‐year‐old <styled-content style="fixed-case" toggle="no">IVDU</styled-content> patient presented with septic shock and methicillin‐sensitive <italic toggle="yes">Staphylococcus aureus</italic> (<styled-content style="fixed-case" toggle="no">MSSA</styled-content>) bacteremia. On 2‐D <styled-content style="fixed-case" toggle="no">TEE</styled-content> (<bold>A</bold>) several large vegetations (green arrows) are seen on the tricuspid valve leaflets, and very severe tricuspid regurgitation with turbulent flow suggestive of tricuspid stenosis are seen on color Doppler (<bold>B</bold>). The vegetation mass seen on 3‐D 4‐chamber view (<bold>C</bold>) caused valve destruction. Following these findings, the patient underwent successful valve repair surgery. Unfortunately, the patient continued his heroin use and was readmitted 5 months later in a similar clinical scenario with recurrent vegetations on his repaired valve on two‐dimensional (2D) <styled-content style="fixed-case" toggle="no">TEE</styled-content> (<bold>D</bold>). <bold>E</bold> through <bold>I</bold>, A 68‐year‐old patient with ischemic cardiomyopathy was admitted for <italic toggle="yes">Staphylococcus aureus</italic> bacteremia and stroke. Large vegetation (red arrows) was seen adherent to the tricuspid valve (red arrows) and to the pacemaker lead (blue arrows) on <styled-content style="fixed-case" toggle="no">TEE</styled-content> 2D (<bold>E</bold> and <bold>G</bold>) and three‐dimensional (3D) (<bold>F</bold> and <bold>H</bold>) short axis view and 4‐chamber view, respectively. Another vegetation was seen attached to the right atrium wall (<bold>I</bold>, yellow arrow). As the patient had an early positive saline bubble study suggestive of patent foramen ovale, a paradoxical septic embolus from the right‐sided vegetation was likely the source of the patient's stroke. <styled-content style="fixed-case" toggle="no">AV</styled-content> indicates aortic valve; <styled-content style="fixed-case" toggle="no">IVDU</styled-content>, intravenous drug user; <styled-content style="fixed-case" toggle="no">LA</styled-content>, left atrium; <styled-content style="fixed-case" toggle="no">LV</styled-content>, left ventricle; <styled-content style="fixed-case" toggle="no">RA</styled-content>, right atrium; <styled-content style="fixed-case" toggle="no">RV</styled-content>, right ventricle; and <styled-content style="fixed-case" toggle="no">TV</styled-content>, tricuspid valve.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="JAH3-9-e017293-g003.jpg"/></fig><p>The most common complications include valvular insufficiency, abscess formation, and septic pulmonary embolism.<xref rid="jah35245-bib-0051" ref-type="ref">51</xref> In a recent review, a mean of 1.6 complications per right‐sided IE patient were reported, and the most common complications were valvular insufficiency, embolic events, and abscess formation.<xref rid="jah35245-bib-0052" ref-type="ref">52</xref> Pulmonary involvement occurred in 80% of these cases and varied from minor atelectasis to large infiltrates, pleural exudates, and cavitation, generally involving the lower lobes.<xref rid="jah35245-bib-0052" ref-type="ref">52</xref>
+</p><p>Other than valvular vegetations, several other echocardiographic findings may qualify as major diagnostic criteria for IE. This includes evidence of abscess, pseudoaneurysm, fistulae, new dehiscence of a prosthetic valve, leaflet perforation, and valve aneurysm.<xref rid="jah35245-bib-0053" ref-type="ref">53</xref> Evidence of extracardiac involvement by other imaging modalities such as CT can be used to support IE diagnosis. Specifically for right‐sided IE, IE‐associated pulmonary pathologies such as parenchymal opacities, nodules, cavitation, abscesses, and pleural effusions are strongly suggestive of right‐sided IE.<xref rid="jah35245-bib-0054" ref-type="ref">54</xref>
+</p><p>Invasive disease, such as the formation of cardiac abscesses, cavities, or pseudo‐aneurysms, is rare in right‐sided IE (0.7%) and the infection is usually limited to the TV leaflets and does not extend beyond the annulus. In contrast, invasive IE is significantly more common in aortic valve IE (65%) and mitral valve IE (31%). It has been hypothesized that the development of cardiac abscesses, cavities, or pseudoaneurysms requires high intracavitary pressures and thus almost never occur in the low‐pressure right‐sided chambers.<xref rid="jah35245-bib-0026" ref-type="ref">26</xref> In the setting of right‐sided IE, septic emboli may cause acute RV pressure overload leading to right‐to‐left shunting through a patent foramen ovale, as shown in Figure <xref rid="jah35245-fig-0003" ref-type="fig">3</xref>E through <xref rid="jah35245-fig-0003" ref-type="fig">3</xref>I. Studies have shown that pulmonary embolism may occur in patients with cardiac device‐related IE infection before or after transvenous lead removal procedure.<xref rid="jah35245-bib-0055" ref-type="ref">55</xref>, <xref rid="jah35245-bib-0056" ref-type="ref">56</xref> Moreover, stroke is a devastating complication in patients with cardiac device‐related IE, and this is most commonly seen with transvenous lead removal in the setting of a patent foramen ovale.<xref rid="jah35245-bib-0057" ref-type="ref">57</xref> In an analysis of cases with cardiac device‐related IE who underwent a transvenous lead removal, the overall stroke rate was 1.9% and a patent foramen ovale was identified in 13.6% of the 774 cases in this study.<xref rid="jah35245-bib-0057" ref-type="ref">57</xref> Starck et al reported 101 cases of cardiac device‐related IE patients who underwent aspiration of large vegetations (mean size 30.7±13.5 mm) followed by transvenous lead removal that showed complete procedural success of 94%.<xref rid="jah35245-bib-0058" ref-type="ref">58</xref>
+</p></sec><sec id="jah35245-sec-0007"><title>Management of Right‐Sided IE</title><p>Intravenous antibiotics are the cornerstone of treatment for right‐sided IE affecting the TV. However, surgical intervention may be warranted in several situations, as described in Table <xref rid="jah35245-tbl-0003" ref-type="table">3</xref>.<xref rid="jah35245-bib-0010" ref-type="ref">10</xref> The proportion of patients who are reported to undergo surgery for right‐sided IE ranges from 5% to 40%.<xref rid="jah35245-bib-0059" ref-type="ref">59</xref> Surgical techniques consist of vegetation removal, radical debridement of vegetations, and infected tissue and valve repair. The use of prosthetic material (ie, valve replacement) should be avoided when possible.<xref rid="jah35245-bib-0035" ref-type="ref">35</xref> Surgical techniques can be also divided into “prosthetic” (tricuspid valve replacement or ring annuloplasty) or “nonprosthetic” (annuloplasty, bicuspidization, vegectomy [solely removing the vegetation], or valvectomy [removal of tricuspid valve leaflet]). For right‐sided IE associated with IVDU, surgical management should strive to avoid artificial material and focus on vegetation removal and valve repair, which are associated with better late survival.<xref rid="jah35245-bib-0035" ref-type="ref">35</xref> In a systematic review by Yanagawa et al of 1165 patients who underwent surgery for TV endocarditis, the most common indications for surgery were septic pulmonary embolism, concomitant left‐sided IE, right heart failure, and persistent bacteremia despite antimicrobial therapy. Nearly 60% underwent TV repair and 40% had TV replacement, mostly with a bioprostheses (83%). The authors concluded that TV repair and replacement offer comparable long‐term survival; however, TV repair should be the preferred approach as it offers longer freedom from recurrent IE and reoperation, as well as lower rates of pacemaker implantation.<xref rid="jah35245-bib-0060" ref-type="ref">60</xref> Operative mortality for TV surgery in the setting of right‐sided IE ranges between 6% and 10%.<xref rid="jah35245-bib-0061" ref-type="ref">61</xref>, <xref rid="jah35245-bib-0062" ref-type="ref">62</xref>, <xref rid="jah35245-bib-0063" ref-type="ref">63</xref> Although TV replacement increases the risk of valve‐related complications and recurrent IE, especially with IVDU, complete resection of the TV may result in high morbidity related to right heart failure.<xref rid="jah35245-bib-0064" ref-type="ref">64</xref>, <xref rid="jah35245-bib-0065" ref-type="ref">65</xref>, <xref rid="jah35245-bib-0066" ref-type="ref">66</xref>, <xref rid="jah35245-bib-0067" ref-type="ref">67</xref> In a multicenter registry with a 25‐year follow‐up, Di Mauro et al reported 157 cases (38% associated with IVDU) of isolated TV IE that were treated surgically. Forty‐nine percent underwent TV repair, 46% underwent TV replacement with a bioprosthesis, and the remainder (5%) had a TV replacement with a mechanical valve. Early postoperative mortality was reported to be 11%. The risk factors for poor outcomes were older age, mycotic infection, IVDU, TV replacement, presence of intracardiac implantable devices, and a redo procedure. No significant difference in short‐ and long‐term survival was found between TV repair versus replacement.<xref rid="jah35245-bib-0068" ref-type="ref">68</xref> Overall, the incidence of tissue valve thromboses is reported to be between 0.1% and 6% per year, with bioprosthetic aortic or mitral valves but as high as 20% with bioprosthetic tricuspid valve.<xref rid="jah35245-bib-0069" ref-type="ref">69</xref>, <xref rid="jah35245-bib-0070" ref-type="ref">70</xref> The increased risk of tricuspid bioprosthetic valve thromboses is thought to be related to lower pressures on the right side of the heart and thus slower blood flow across the valve and more potential for stasis.<xref rid="jah35245-bib-0071" ref-type="ref">71</xref>
+</p><table-wrap id="jah35245-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Indications for Surgical Interventions for Right‐Sided Infective Endocarditis</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">Microorganisms difficult to eradicate (eg, persistent fungi)</td><td align="left" rowspan="1" colspan="1">Persistent bacteremia for &gt;7 d (eg, <italic toggle="yes">Staphylococcus aureus, Pseudomonas aeruginosa</italic>) despite adequate antimicrobial therapy</td></tr><tr><td align="left" rowspan="1" colspan="1">Large, persistent tricuspid valve vegetations (&gt;20 mm)</td><td align="left" rowspan="1" colspan="1">Recurrent pulmonary emboli with or without concomitant right heart failure</td></tr><tr><td align="left" rowspan="1" colspan="1">Right heart failure secondary to severe tricuspid regurgitation</td><td align="left" rowspan="1" colspan="1">Abscess (more common in the setting of prosthetic valve)</td></tr></tbody></table></table-wrap><p>In the setting of an implantable device or pacemaker lead, in addition to appropriate antibiotic therapy, all infections represent an indication to remove the device and all implanted leads. Early diagnosis of cardiac device related infection, including pocket abscess, erosion, bacteremia, lead vegetation, and endocarditis, and performing lead extraction within 3 days of diagnosis are associated with lower in‐hospital mortality.<xref rid="jah35245-bib-0072" ref-type="ref">72</xref> Because of its high success rate of 96.7% at a complication rate of 1.7% to 1.8% and an intraprocedural mortality rate of 0.3% to 0.4%, interventional transvenous extraction of pacemaker leads is favored over surgical extraction.<xref rid="jah35245-bib-0023" ref-type="ref">23</xref> As an alternative to surgery, several case series have described the use of percutaneous, vacuum‐assisted devices for the removal of right‐sided intracardiac masses.<xref rid="jah35245-bib-0073" ref-type="ref">73</xref>, <xref rid="jah35245-bib-0074" ref-type="ref">74</xref>, <xref rid="jah35245-bib-0075" ref-type="ref">75</xref>, <xref rid="jah35245-bib-0076" ref-type="ref">76</xref>, <xref rid="jah35245-bib-0077" ref-type="ref">77</xref> The use of percutaneous aspiration devices is effective in removing large TV vegetations in cases where the risk of tricuspid surgery is prohibitive. In 2014, the US Food and Drug Administration approved the AngioVac system (AngioDynamics, Latham, NY) for the removal of unwanted intravascular materials (thrombi and emboli).<xref rid="jah35245-bib-0073" ref-type="ref">73</xref> Figure <xref rid="jah35245-fig-0004" ref-type="fig">4</xref> demonstrates the system, which is composed of a venous drainage cannula and a reinfusion (venous return) cannula, which are connected to an extracorporeal circuit pump head and bubble trap. When the bypass pump is started, a suction force is created, which facilitates the aspiration of blood and thrombotic/vegetation materials into the tip of the cannula and then circulating the blood through a filter. After filtration, the drained blood is returned to the patient via a second percutaneously placed reinfusion venous cannula through the internal jugular or femoral vein.<xref rid="jah35245-bib-0078" ref-type="ref">78</xref> Figure <xref rid="jah35245-fig-0005" ref-type="fig">5</xref>A through <xref rid="jah35245-fig-0005" ref-type="fig">5</xref>D shows a case where percutaneous aspiration device was successfully used to remove a large TV vegetation. George et al retrospectively analyzed 33 patients with TV IE that underwent debulking of large vegetations (2.1±0.7 cm on average) using a percutaneous aspiration device. Reduction in vegetation size was observed in 61% of cases and 91% of patients were discharged home.<xref rid="jah35245-bib-0079" ref-type="ref">79</xref> Patel et al reported that the use of percutaneous aspiration device prior to percutaneous lead extraction may reduce the incidence of septic pulmonary emboli, in cases of cardiac device‐related IE with a large vegetation adhered to the intracardiac lead.<xref rid="jah35245-bib-0075" ref-type="ref">75</xref> Although the European Society of Cardiology guidelines recommend surgery in candida‐associated IE, Jones et al reported on a 25‐year‐old woman with severe cardiomyopathy (ejection fraction=10%), an implantable defibrillator, and <italic toggle="yes">Candida albicans</italic> fungemia. The patient had a large vegetation extending from the SVC into the RA, and a second mobile echo density was observed within the RA. The patient was felt to be too high risk for surgery; consequently an AngioVac was used and it successfully aspirated the vegetation. The patient's symptoms resolved and blood cultures remained negative for over 8 months under antifungal therapy with fluconazole.<xref rid="jah35245-bib-0080" ref-type="ref">80</xref> Parmar et al provided data on a 49‐year‐old IVDU patient with a large (2.5×1.2 cm) TV vegetation for which surgery has been recommended as the standard of care per current European Society of Cardiology guidelines.<xref rid="jah35245-bib-0081" ref-type="ref">81</xref> Following successful vegetation debulking using AngioVac, the patient had a small residual vegetation (0.8×0.6 cm) that was treated successfully with antibiotics. In another case series, Schaerf et al reported on 20 patients at high surgical risk with sepsis and cardiac device‐related IE vegetations despite medical therapy. All patients underwent vegetation aspiration with AngioVac in addition to antimicrobial treatment with subsequent resolution of their infection.<xref rid="jah35245-bib-0082" ref-type="ref">82</xref> As discussed previously, Starck et al showed a very high success rate in using AngioVac prior to infected lead extraction, which further supports the use of percutaneous aspiration as it is highly effective and is associated with a low complication rate. The aspiration of vegetations immediately prior and during the lead extraction procedure may prevent septic embolization into the pulmonary circulation, and this may lead to better short‐ and long‐term survival.<xref rid="jah35245-bib-0058" ref-type="ref">58</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="jah35245-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><title>AngioVac system. AngioVac system (courtesy of Angiodynamics, Latham, <styled-content style="fixed-case" toggle="no">NY</styled-content>).</title></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="JAH3-9-e017293-g004.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="jah35245-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Tricuspid valve methicillin‐sensitive <italic toggle="yes">Staphylococcus aureus </italic>
+<styled-content style="fixed-case" toggle="no">MSSA IE</styled-content> and pacemaker‐lead Staphylococcus <styled-content style="fixed-case" toggle="no">IE</styled-content> cases treated with AngioVac system.</title><p>
+<bold>A</bold> through <bold>D</bold>, A 28‐year old female with a history of congenital long <styled-content style="fixed-case" toggle="no">QT</styled-content> syndrome and prophylactic implantable cardioverter defibrillator implantation at the age of 14. She underwent several generator replacements and lead revisions, with the last one occurring 1 month prior to her admission. She was admitted due to fever and chills, a new systolic murmur and splenomegaly on physical examination. Blood cultures were positive for coagulase negative staphylococcus. <styled-content style="fixed-case" toggle="no">TTE</styled-content> was nondiagnostic; however, two‐dimensional (2D) (<bold>A</bold>) and three‐dimensional (3D) (<bold>B</bold>) <styled-content style="fixed-case" toggle="no">TEE</styled-content> showed a large adherent mass on the pacemaker lead (blue arrow). The patient underwent lead extraction; however, following the procedure she developed pulmonary emboli. Repeated <styled-content style="fixed-case" toggle="no">TEE</styled-content> showed a large residual tricuspid vegetation (<bold>C</bold>, red arrow). Therefore, a percutaneous vacuum‐assisted aspiration device was used to successfully remove the residual tricuspid vegetation. Following the aspiration procedure, no vegetations were observed by <styled-content style="fixed-case" toggle="no">TEE</styled-content> (<bold>D</bold>), and the patient's infection completely resolved. <bold>E</bold> and <bold>F</bold>, A 33‐year‐old female with history of <styled-content style="fixed-case" toggle="no">IVDU</styled-content> was admitted due to fever. Blood cultures were positive for methicillin‐sensitive <italic toggle="yes">Staphylococcus aureus</italic> (<styled-content style="fixed-case" toggle="no">MSSA</styled-content>), which did not respond to oxacillin treatment. <styled-content style="fixed-case" toggle="no">TEE</styled-content> revealed a large tricuspid valve vegetation (<bold>E</bold>, yellow arrow) with significant tricuspid regurgitation. Her hospital course was complicated by septic pulmonary emboli and hemoptysis. She was considered high risk for surgery and therefore underwent a successful percutaneous vacuum‐assisted aspiration of her tricuspid vegetation. On follow‐up <styled-content style="fixed-case" toggle="no">TEE</styled-content> a few days after there were no evidence of any tricuspid vegetation and only mild tricuspid regurgitation (<bold>F</bold>). Her condition gradually improved, and she was discharged home. Nine months later, her follow‐up <styled-content style="fixed-case" toggle="no">TTE</styled-content> showed no evidence of vegetations. 3D indicates three‐dimensional; <styled-content style="fixed-case" toggle="no">AV</styled-content>, aortic valve; <styled-content style="fixed-case" toggle="no">IVDU</styled-content>, intravenous drug user; <styled-content style="fixed-case" toggle="no">LA</styled-content>, left atrium; <styled-content style="fixed-case" toggle="no">LV</styled-content>, left ventricle; <styled-content style="fixed-case" toggle="no">RA</styled-content>, right atrium; <styled-content style="fixed-case" toggle="no">RV</styled-content>, right ventricle; <styled-content style="fixed-case" toggle="no">TEE</styled-content>, transesophageal echocardiography; and <styled-content style="fixed-case" toggle="no">TTE</styled-content>, transthoracic echocardiography.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="JAH3-9-e017293-g005.jpg"/></fig><p>Figure <xref rid="jah35245-fig-0005" ref-type="fig">5</xref>E and <xref rid="jah35245-fig-0005" ref-type="fig">5</xref>F demonstrates a case of pacemaker‐lead associated IE, and Figure <xref rid="jah35245-fig-0002" ref-type="fig">2</xref>F and <xref rid="jah35245-fig-0002" ref-type="fig">2</xref>G shows a case of fibrin sheath IE in SVC, both of which were treated successfully with AngioVac.</p><p>However, percutaneous vacuum‐assisted devices have its own potential adverse risk, such as disruption of the vegetation leading to pulmonary embolization and vascular access complications such as bleeding and potential infection. Abubakar et al reported that the risk of septic pulmonary embolism remains significant at 34% to 55% in this subset of patients with vegetations &gt;1 cm, as it predisposes to further infectious complications including pulmonary abscesses and refractory sepsis.<xref rid="jah35245-bib-0078" ref-type="ref">78</xref> However, to date there is no prospective blinded head‐to‐head comparison of AngioVac with either medical therapy or surgery, and no guidelines references have been made yet.</p></sec><sec id="jah35245-sec-0008"><title>Prognosis</title><p>The main risk factors for an adverse outcome in right‐sided IE are summarized in Table <xref rid="jah35245-tbl-0004" ref-type="table">4</xref>.</p><table-wrap id="jah35245-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Factors Associated With Poor Prognosis in Right‐Sided Infective Endocarditis</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" rowspan="1" colspan="1">Persistent infection that does not respond to antibiotic therapy</td></tr><tr><td align="left" rowspan="1" colspan="1">Patients with worsening tricuspid regurgitation contributing to deteriorating right heart failure</td></tr><tr><td align="left" rowspan="1" colspan="1">Increase in vegetation size despite antibiotic treatment</td></tr><tr><td align="left" rowspan="1" colspan="1">Fungal etiology</td></tr><tr><td align="left" rowspan="1" colspan="1">Recurrent septic pulmonary emboli</td></tr><tr><td align="left" rowspan="1" colspan="1">Septic shock</td></tr><tr><td align="left" rowspan="1" colspan="1">Multivalvular involvement</td></tr></tbody></table></table-wrap><p>Right‐sided IE is associated with better clinical outcomes compared with left‐sided IE. This is likely the consequence of multiple factors including right‐sided IE patients being younger; tricuspid valve dysfunction has fewer hemodynamic consequences than mitral or aortic valve IE; there is less systemic embolization, less abscess formation, and less drug‐resistant infection and thus is clinically better tolerated.<xref rid="jah35245-bib-0083" ref-type="ref">83</xref>, <xref rid="jah35245-bib-0084" ref-type="ref">84</xref> Several reports showed that most right‐sided IE cases respond to appropriate antibiotic therapy without complications from extravalvular extension, and mortality rates are generally &lt;5% to 10%, even without surgery.<xref rid="jah35245-bib-0012" ref-type="ref">12</xref>, <xref rid="jah35245-bib-0085" ref-type="ref">85</xref>, <xref rid="jah35245-bib-0086" ref-type="ref">86</xref> In a retrospective study of patients with IE (N=215), Stavi et al reported that in‐hospital mortality was lower among patients with right‐sided IE compared with left‐sided IE (2.6% versus 17%, <italic toggle="yes">P</italic>=0.037).<xref rid="jah35245-bib-0087" ref-type="ref">87</xref> In addition, left‐sided IE has higher rates of local invasiveness and systemic embolization. Vegetation length &gt;20 mm and fungal etiology were the main predictors of mortality in a large retrospective cohort of right‐sided IE in IVDU. In HIV‐infected patients, a CD4 count lower than 200 cells/mL is a predictor of adverse outcome.<xref rid="jah35245-bib-0012" ref-type="ref">12</xref> Despite relatively low in‐hospital mortality, right‐sided IE is associated with a high risk of recurrence, specifically in IVDU.<xref rid="jah35245-bib-0010" ref-type="ref">10</xref> The major risk factors for cardiac device‐related IE are renal failure, history of device infection, procedure duration, multiple repeated procedures, lead repositioning due to lead dislocation, postoperative pacemaker pocket hematoma formation, fever &lt;24 hours preimplantation, and corticosteroid therapy.<xref rid="jah35245-bib-0023" ref-type="ref">23</xref>, <xref rid="jah35245-bib-0088" ref-type="ref">88</xref>
+</p></sec><sec id="jah35245-sec-0009"><title>Conclusions</title><p>Right‐sided IE has several unique features, which differ from left‐sided IE, such as the population at risk, causative microorganisms, type of complications, response to medical therapy, and prognosis. Imaging with TTE and TEE for nonstandard locations of right‐sided IE (ie, right‐sided embryonic remnants, SVC fibrin sheath) should be performed when clinical suspicion for right‐sided IE is high and TV vegetations are not detected. As the prevalence of IVDU and intracardiac device implantation is increasing, clinicians are likely to encounter more patients with right‐sided IE and thus should have a high index of diagnostic suspicion as well as awareness of newer therapeutic options (ie, percutaneous aspiration devices). More studies are required to establish the role of positron emission tomography/CT in diagnosis of right‐sided IE, and on the use of the percutaneous aspiration devices in the management of right‐sided IE and cardiac device related IE.</p></sec><sec id="jah35245-sec-0010"><title>Sources of Funding</title><p>None.</p></sec><sec id="jah35245-sec-0011"><title>Disclosures</title><p>None.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jah35245-sup-0001" position="float" orientation="portrait"><caption><p>
+<bold>Video S1</bold>
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JAH3-9-e017293-s001.avi" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jah35245-sup-0002" position="float" orientation="portrait"><caption><p>
+<bold>Video S2</bold>
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JAH3-9-e017293-s002.avi" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jah35245-sup-0003" position="float" orientation="portrait"><caption><p>
+<bold>Video S3</bold>
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JAH3-9-e017293-s003.avi" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jah35245-sup-0004" position="float" orientation="portrait"><caption><p>
+<bold>Video S4</bold>
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JAH3-9-e017293-s004.avi" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jah35245-sup-0005" position="float" orientation="portrait"><caption><p>
+<bold>Video S5</bold>
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JAH3-9-e017293-s005.avi" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jah35245-sup-0006" position="float" orientation="portrait"><caption><p>
+<bold>Video S6</bold>
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JAH3-9-e017293-s006.avi" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ref-list content-type="cited-references" id="jah35245-bibl-0001"><title>References</title><ref id="jah35245-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah35245-cit-0001">
+<string-name name-style="western">
+<surname>Geller</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>Infective endocarditis: a history of the development of its understanding</article-title>. <source xml:lang="en">Autops Case Rep</source>. <year>2013</year>;<volume>3</volume>:<fpage>5</fpage>–<lpage>12</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.4322/acr.2013.033</pub-id><pub-id pub-id-type="pmcid">PMC5453655</pub-id><pub-id pub-id-type="pmid">28584801</pub-id></mixed-citation></ref><ref id="jah35245-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah35245-cit-0002">
+<string-name name-style="western">
+<surname>Cahill</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prendergast</surname>
+<given-names>BD</given-names>
+</string-name>. <article-title>Infective endocarditis</article-title>. <source xml:lang="en">Lancet</source>. <year>2016</year>;<volume>387</volume>:<fpage>882</fpage>–<lpage>893</lpage>.<pub-id pub-id-type="pmid">26341945</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(15)00067-7</pub-id></mixed-citation></ref><ref id="jah35245-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah35245-cit-0003">
+<string-name name-style="western">
+<surname>Pant</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deshmukh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Golwala</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Badheka</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hirsch</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehta</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>Trends in infective endocarditis incidence, microbiology, and valve replacement in the United States from 2000 to 2011</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2015</year>;<volume>65</volume>:<fpage>2070</fpage>–<lpage>2076</lpage>.<pub-id pub-id-type="pmid">25975469</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2015.03.518</pub-id></mixed-citation></ref><ref id="jah35245-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah35245-cit-0004">
+<string-name name-style="western">
+<surname>Sambola</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandez‐Hidalgo</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almirante</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roca</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gonzalez‐Alujas</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Serra</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pahissa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcia‐Dorado</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tornos</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Sex differences in native‐valve infective endocarditis in a single tertiary‐care hospital</article-title>. <source xml:lang="en">Am J Cardiol</source>. <year>2010</year>;<volume>106</volume>:<fpage>92</fpage>–<lpage>98</lpage>.<pub-id pub-id-type="pmid">20609654</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amjcard.2010.02.019</pub-id></mixed-citation></ref><ref id="jah35245-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah35245-cit-0005">
+<string-name name-style="western">
+<surname>Correa de Sa</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tleyjeh</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anavekar</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schultz</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lahr</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bachuwar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pazdernik</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steckelberg</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>WR</given-names>
+</string-name>, et al. <article-title>Epidemiological trends of infective endocarditis: a population‐based study in Olmsted County, Minnesota</article-title>. <source xml:lang="en">Mayo Clin Proc</source>. <year>2010</year>;<volume>85</volume>:<fpage>422</fpage>–<lpage>426</lpage>.<pub-id pub-id-type="pmid">20435834</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4065/mcp.2009.0585</pub-id><pub-id pub-id-type="pmcid">PMC2861970</pub-id></mixed-citation></ref><ref id="jah35245-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah35245-cit-0006">
+<string-name name-style="western">
+<surname>Tleyjeh</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abdel‐Latif</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rahbi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scott</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bailey</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Steckelberg</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baddour</surname>
+<given-names>LM</given-names>
+</string-name>. <article-title>A systematic review of population‐based studies of infective endocarditis</article-title>. <source xml:lang="en">Chest</source>. <year>2007</year>;<volume>132</volume>:<fpage>1025</fpage>–<lpage>1035</lpage>.<pub-id pub-id-type="pmid">17873196</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1378/chest.06-2048</pub-id></mixed-citation></ref><ref id="jah35245-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah35245-cit-0007">
+<string-name name-style="western">
+<surname>Gebo</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burkey</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lucas</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moore</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilson</surname>
+<given-names>LE</given-names>
+</string-name>. <article-title>Incidence of, risk factors for, clinical presentation, and 1‐year outcomes of infective endocarditis in an urban HIV cohort</article-title>. <source xml:lang="en">J Acquir Immune Defic Syndr</source>. <year>2006</year>;<volume>43</volume>:<fpage>426</fpage>–<lpage>432</lpage>.<pub-id pub-id-type="pmid">17099314</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/01.qai.0000243120.67529.78</pub-id></mixed-citation></ref><ref id="jah35245-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah35245-cit-0008">
+<string-name name-style="western">
+<surname>Chirillo</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bacchion</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pedrocco</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scotton</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Leo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rocco</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Valfre</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olivari</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Infective endocarditis in patients with diabetes mellitus</article-title>. <source xml:lang="en">J Heart Valve Dis</source>. <year>2010</year>;<volume>19</volume>:<fpage>312</fpage>–<lpage>320</lpage>.<pub-id pub-id-type="pmid">20583393</pub-id></mixed-citation></ref><ref id="jah35245-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah35245-cit-0009">
+<string-name name-style="western">
+<surname>Abbott</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agodoa</surname>
+<given-names>LY</given-names>
+</string-name>. <article-title>Hospitalizations for bacterial endocarditis after initiation of chronic dialysis in the United States</article-title>. <source xml:lang="en">Nephron</source>. <year>2002</year>;<volume>91</volume>:<fpage>203</fpage>–<lpage>209</lpage>.<pub-id pub-id-type="pmid">12053054</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000058393</pub-id></mixed-citation></ref><ref id="jah35245-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah35245-cit-0010">
+<string-name name-style="western">
+<surname>Habib</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lancellotti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Antunes</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bongiorni</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casalta</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Del Zotti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dulgheru</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>El Khoury</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Erba</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iung</surname>
+<given-names>B</given-names>
+</string-name>, et al.; <collab collab-type="authors">Group ESCSD</collab>
+. <article-title>2015 ESC guidelines for the management of infective endocarditis: the task force for the management of infective endocarditis of the European Society of Cardiology (ESC). Endorsed by: European Association for Cardio‐Thoracic Surgery (EACTS), the European Association of Nuclear Medicine (EANM)</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2015</year>;<volume>36</volume>:<fpage>3075</fpage>–<lpage>3128</lpage>.<pub-id pub-id-type="pmid">26320109</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehv319</pub-id></mixed-citation></ref><ref id="jah35245-bib-0011"><label>11</label><mixed-citation publication-type="miscellaneous" id="jah35245-cit-0011">
+<collab collab-type="authors">U.S. Department of Health and Human Services SAaMHSA, Center for Behavioral Health Statistics and Quality</collab>
+. <article-title>Results from the 2013 National Survey on Drug Use and Health: summary of national findings</article-title>. <year>2014</year>.</mixed-citation></ref><ref id="jah35245-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah35245-cit-0012">
+<string-name name-style="western">
+<surname>Akinosoglou</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Apostolakis</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marangos</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pasvol</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Native valve right sided infective endocarditis</article-title>. <source xml:lang="en">Eur J Intern Med</source>. <year>2013</year>;<volume>24</volume>:<fpage>510</fpage>–<lpage>519</lpage>.<pub-id pub-id-type="pmid">23369408</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ejim.2013.01.010</pub-id></mixed-citation></ref><ref id="jah35245-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah35245-cit-0013">
+<string-name name-style="western">
+<surname>Goud</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abdelqader</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dahagam</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Padmanabhan</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Isolated pulmonic valve endocarditis presenting as neck pain</article-title>. <source xml:lang="en">J Community Hosp Intern Med Perspect</source>. <year>2015</year>;<volume>5</volume>:<fpage>29647</fpage>.<pub-id pub-id-type="pmid">26653697</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3402/jchimp.v5.29647</pub-id><pub-id pub-id-type="pmcid">PMC4677583</pub-id></mixed-citation></ref><ref id="jah35245-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah35245-cit-0014">
+<string-name name-style="western">
+<surname>Ramadan</surname>
+<given-names>FB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beanlands</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burwash</surname>
+<given-names>IG</given-names>
+</string-name>. <article-title>Isolated pulmonic valve endocarditis in healthy hearts: a case report and review of the literature</article-title>. <source xml:lang="en">Can J Cardiol</source>. <year>2000</year>;<volume>16</volume>:<fpage>1282</fpage>–<lpage>1288</lpage>.<pub-id pub-id-type="pmid">11064303</pub-id></mixed-citation></ref><ref id="jah35245-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah35245-cit-0015">
+<string-name name-style="western">
+<surname>Wurcel</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anderson</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chui</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Skinner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Knox</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snydman</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stopka</surname>
+<given-names>TJ</given-names>
+</string-name>. <article-title>Increasing infectious endocarditis admissions among young people who inject drugs</article-title>. <source xml:lang="en">Open Forum Infect Dis</source>. <year>2016</year>;<volume>3</volume>:<fpage>ofw157</fpage>.<pub-id pub-id-type="pmid">27800528</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ofid/ofw157</pub-id><pub-id pub-id-type="pmcid">PMC5084714</pub-id></mixed-citation></ref><ref id="jah35245-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah35245-cit-0016">
+<string-name name-style="western">
+<surname>Rudasill</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanaiha</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mardock</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khoury</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xing</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Antonios</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKinnell</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benharash</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Clinical outcomes of infective endocarditis in injection drug users</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2019</year>;<volume>73</volume>:<fpage>559</fpage>–<lpage>570</lpage>.<pub-id pub-id-type="pmid">30732709</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2018.10.082</pub-id></mixed-citation></ref><ref id="jah35245-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah35245-cit-0017">
+<string-name name-style="western">
+<surname>Moss</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munt</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Injection drug use and right sided endocarditis</article-title>. <source xml:lang="en">Heart</source>. <year>2003</year>;<volume>89</volume>:<fpage>577</fpage>–<lpage>581</lpage>.<pub-id pub-id-type="pmid">12695478</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/heart.89.5.577</pub-id><pub-id pub-id-type="pmcid">PMC1767660</pub-id></mixed-citation></ref><ref id="jah35245-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah35245-cit-0018">
+<string-name name-style="western">
+<surname>Manoff</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vlahov</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herskowitz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Solomon</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munoz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Willoughby</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nelson</surname>
+<given-names>KE</given-names>
+</string-name>. <article-title>Human immunodeficiency virus infection and infective endocarditis among injecting drug users</article-title>. <source xml:lang="en">Epidemiology</source>. <year>1996</year>;<volume>7</volume>:<fpage>566</fpage>–<lpage>570</lpage>.<pub-id pub-id-type="pmid">8899380</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00001648-199611000-00001</pub-id></mixed-citation></ref><ref id="jah35245-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah35245-cit-0019">
+<string-name name-style="western">
+<surname>Pons‐Llado</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carreras</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borras</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cadafalch</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fuster</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guardia</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casas</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Findings on Doppler echocardiography in asymptomatic intravenous heroin users</article-title>. <source xml:lang="en">Am J Cardiol</source>. <year>1992</year>;<volume>69</volume>:<fpage>238</fpage>–<lpage>241</lpage>.<pub-id pub-id-type="pmid">1731465</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0002-9149(92)91312-r</pub-id></mixed-citation></ref><ref id="jah35245-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah35245-cit-0020">
+<string-name name-style="western">
+<surname>Baidya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ganakumar</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jadon</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ranjan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Manchanda</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sood</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Septic pulmonary emboli as a complication of peripheral venous cannula insertion</article-title>. <source xml:lang="en">Drug Discov Ther</source>. <year>2018</year>;<volume>12</volume>:<fpage>111</fpage>–<lpage>113</lpage>.<pub-id pub-id-type="pmid">29760338</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.5582/ddt.2018.01016</pub-id></mixed-citation></ref><ref id="jah35245-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah35245-cit-0021">
+<string-name name-style="western">
+<surname>Greenspon</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lau</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ochoa</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frisch</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ho</surname>
+<given-names>RT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pavri</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kurtz</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>16‐year trends in the infection burden for pacemakers and implantable cardioverter‐defibrillators in the United States 1993 to 2008</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2011</year>;<volume>58</volume>:<fpage>1001</fpage>–<lpage>1006</lpage>.<pub-id pub-id-type="pmid">21867833</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2011.04.033</pub-id></mixed-citation></ref><ref id="jah35245-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah35245-cit-0022">
+<string-name name-style="western">
+<surname>Habib</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Erba</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Iung</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Donal</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cosyns</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laroche</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Popescu</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prendergast</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tornos</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sadeghpour</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Clinical presentation, aetiology and outcome of infective endocarditis. Results of the ESC‐EORP EURO‐ENDO (European infective endocarditis) registry: a prospective cohort study</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2019</year>;<volume>40</volume>:<fpage>3222</fpage>–<lpage>3232</lpage>.<pub-id pub-id-type="pmid">31504413</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehz620</pub-id></mixed-citation></ref><ref id="jah35245-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah35245-cit-0023">
+<string-name name-style="western">
+<surname>Doring</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Richter</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hindricks</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The diagnosis and treatment of pacemaker‐associated infection</article-title>. <source xml:lang="en">Dtsch Arztebl Int</source>. <year>2018</year>;<volume>115</volume>:<fpage>445</fpage>–<lpage>452</lpage>.<pub-id pub-id-type="pmid">30017027</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3238/arztebl.2018.0445</pub-id><pub-id pub-id-type="pmcid">PMC6071306</pub-id></mixed-citation></ref><ref id="jah35245-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah35245-cit-0024">
+<string-name name-style="western">
+<surname>Rennert‐May</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chew</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuriachan</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Somayaji</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Epidemiology of cardiac implantable electronic device infections in the United States: a population‐based cohort study</article-title>. <source xml:lang="en">Heart Rhythm</source>. <year>2020</year> Available at: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.heartrhythmjournal.com/article/S1547‐​5271(20)30114‐4/fulltext">https://www.heartrhythmjournal.com/article/S1547‐​5271(20)30114‐4/fulltext</ext-link>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.hrthm.2020.02.012</pub-id><pub-id pub-id-type="pmid">32087358</pub-id></mixed-citation></ref><ref id="jah35245-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah35245-cit-0025">
+<string-name name-style="western">
+<surname>Hussain</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Witten</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shrestha</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blackstone</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pettersson</surname>
+<given-names>GB</given-names>
+</string-name>. <article-title>Tricuspid valve endocarditis</article-title>. <source xml:lang="en">Ann Cardiothorac Surg</source>. <year>2017</year>;<volume>6</volume>:<fpage>255</fpage>–<lpage>261</lpage>.<pub-id pub-id-type="pmid">28706868</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.21037/acs.2017.03.09</pub-id><pub-id pub-id-type="pmcid">PMC5494428</pub-id></mixed-citation></ref><ref id="jah35245-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah35245-cit-0026">
+<string-name name-style="western">
+<surname>Hussain</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shrestha</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Witten</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gordon</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Houghtaling</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tingleff</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Navia</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blackstone</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pettersson</surname>
+<given-names>GB</given-names>
+</string-name>. <article-title>Rarity of invasiveness in right‐sided infective endocarditis</article-title>. <source xml:lang="en">J Thorac Cardiovasc Surg</source>. <year>2018</year>;<volume>155</volume>:<fpage>54</fpage>–<lpage>61</lpage>.e51.<pub-id pub-id-type="pmid">28951083</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jtcvs.2017.07.068</pub-id></mixed-citation></ref><ref id="jah35245-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah35245-cit-0027">
+<string-name name-style="western">
+<surname>Siciliano</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gualandro</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sejas</surname>
+<given-names>ONE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ignoto</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Caramelli</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mansur</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sampaio</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pierrotti</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barbosa</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Golebiovski</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Outcomes in patients with fungal endocarditis: a multicenter observational cohort study</article-title>. <source xml:lang="en">Int J Infect Dis</source>. <year>2018</year>;<volume>77</volume>:<fpage>48</fpage>–<lpage>52</lpage>.<pub-id pub-id-type="pmid">30248465</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijid.2018.09.016</pub-id></mixed-citation></ref><ref id="jah35245-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah35245-cit-0028">
+<string-name name-style="western">
+<surname>Chrissoheris</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Libertin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ali</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ghantous</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bekui</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Donohue</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Endocarditis complicating central venous catheter bloodstream infections: a unique form of health care associated endocarditis</article-title>. <source xml:lang="en">Clin Cardiol</source>. <year>2009</year>;<volume>32</volume>:<fpage>E48</fpage>–<lpage>E54</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/clc.20498</pub-id><pub-id pub-id-type="pmcid">PMC6652999</pub-id><pub-id pub-id-type="pmid">20014189</pub-id></mixed-citation></ref><ref id="jah35245-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah35245-cit-0029">
+<string-name name-style="western">
+<surname>Salsano</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sportelli</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borile</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santini</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>
+<italic toggle="yes">Proteus mirabilis</italic> bioprosthetic tricuspid valve endocarditis with massive right ventricular vegetation: a new entity in the prosthetic valve endocarditis aetiology</article-title>. <source xml:lang="en">Eur J Cardiothorac Surg</source>. <year>2016</year>;<volume>50</volume>:<fpage>581</fpage>–<lpage>582</lpage>.<pub-id pub-id-type="pmid">27113093</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ejcts/ezw126</pub-id></mixed-citation></ref><ref id="jah35245-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah35245-cit-0030">
+<string-name name-style="western">
+<surname>Bruneel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Estanque</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fournier</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arlet</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thuong</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolff</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bedos</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lariven</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Regnier</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Isolated right‐sided <italic toggle="yes">Bartonella quintana</italic> endocarditis in an immunocompetent adult</article-title>. <source xml:lang="en">Scand J Infect Dis</source>. <year>1998</year>;<volume>30</volume>:<fpage>424</fpage>–<lpage>425</lpage>.<pub-id pub-id-type="pmid">9817529</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/00365549850160783</pub-id></mixed-citation></ref><ref id="jah35245-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah35245-cit-0031">
+<string-name name-style="western">
+<surname>Alhadhoud</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vel</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al Qbandi</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Q fever endocarditis after right ventricle to pulmonary artery conduit insertion: case series and review of the literature</article-title>. <source xml:lang="en">Ann Pediatr Cardiol</source>. <year>2018</year>;<volume>11</volume>:<fpage>60</fpage>–<lpage>63</lpage>.<pub-id pub-id-type="pmid">29440832</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/apc.APC_37_17</pub-id><pub-id pub-id-type="pmcid">PMC5803979</pub-id></mixed-citation></ref><ref id="jah35245-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jah35245-cit-0032">
+<string-name name-style="western">
+<surname>Caiati</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pollice</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lepera</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Favale</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Pacemaker lead endocarditis investigated with intracardiac echocardiography: factors modulating the size of vegetations and larger vegetation embolic risk during lead extraction</article-title>. <source xml:lang="en">Antibiotics (Basel)</source>. <year>2019</year>;<volume>8</volume>:<fpage>228</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/antibiotics8040228</pub-id><pub-id pub-id-type="pmcid">PMC6963371</pub-id><pub-id pub-id-type="pmid">31752363</pub-id></mixed-citation></ref><ref id="jah35245-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jah35245-cit-0033">
+<string-name name-style="western">
+<surname>Bruun</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Habib</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Thuny</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sogaard</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Cardiac imaging in infectious endocarditis</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2014</year>;<volume>35</volume>:<fpage>624</fpage>–<lpage>632</lpage>.<pub-id pub-id-type="pmid">23900698</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/eht274</pub-id></mixed-citation></ref><ref id="jah35245-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah35245-cit-0034">
+<string-name name-style="western">
+<surname>Erba</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sollini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Conti</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bandera</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tascini</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Tommasi</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zucchelli</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Doria</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Menichetti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bongiorni</surname>
+<given-names>MG</given-names>
+</string-name>, et al. <article-title>Radiolabeled WBC scintigraphy in the diagnostic workup of patients with suspected device‐related infections</article-title>. <source xml:lang="en">JACC Cardiovasc Imaging</source>. <year>2013</year>;<volume>6</volume>:<fpage>1075</fpage>–<lpage>1086</lpage>.<pub-id pub-id-type="pmid">24011775</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jcmg.2013.08.001</pub-id></mixed-citation></ref><ref id="jah35245-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jah35245-cit-0035">
+<string-name name-style="western">
+<surname>Akinosoglou</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Apostolakis</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koutsogiannis</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leivaditis</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gogos</surname>
+<given-names>CA</given-names>
+</string-name>. <article-title>Right‐sided infective endocarditis: surgical management</article-title>. <source xml:lang="en">Eur J Cardiothorac Surg</source>. <year>2012</year>;<volume>42</volume>:<fpage>470</fpage>–<lpage>479</lpage>.<pub-id pub-id-type="pmid">22427390</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ejcts/ezs084</pub-id></mixed-citation></ref><ref id="jah35245-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jah35245-cit-0036">
+<string-name name-style="western">
+<surname>Chowdhury</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moukarbel</surname>
+<given-names>GV</given-names>
+</string-name>. <article-title>Isolated pulmonary valve endocarditis</article-title>. <source xml:lang="en">Cardiology</source>. <year>2016</year>;<volume>133</volume>:<fpage>79</fpage>–<lpage>82</lpage>.<pub-id pub-id-type="pmid">26501696</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000440857</pub-id></mixed-citation></ref><ref id="jah35245-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jah35245-cit-0037">
+<string-name name-style="western">
+<surname>McElhinney</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sondergaard</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Armstrong</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bergersen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Padera</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balzer</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lung</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berger</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zahn</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gray</surname>
+<given-names>RG</given-names>
+</string-name>, et al. <article-title>Endocarditis after transcatheter pulmonary valve replacement</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2018</year>;<volume>72</volume>:<fpage>2717</fpage>–<lpage>2728</lpage>.<pub-id pub-id-type="pmid">30497557</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2018.09.039</pub-id></mixed-citation></ref><ref id="jah35245-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jah35245-cit-0038">
+<string-name name-style="western">
+<surname>Vu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Harrison</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeStephano</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Odell</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Endocarditis, vegetation, and perforation of the pulmonary valve</article-title>. <source xml:lang="en">J Cardiothorac Vasc Anesth</source>. <year>2008</year>;<volume>22</volume>:<fpage>261</fpage>–<lpage>262</lpage>.<pub-id pub-id-type="pmid">18375331</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1053/j.jvca.2007.01.021</pub-id></mixed-citation></ref><ref id="jah35245-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jah35245-cit-0039">
+<string-name name-style="western">
+<surname>Lamas</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eykyn</surname>
+<given-names>SJ</given-names>
+</string-name>. <article-title>Hospital acquired native valve endocarditis: analysis of 22 cases presenting over 11 years</article-title>. <source xml:lang="en">Heart</source>. <year>1998</year>;<volume>79</volume>:<fpage>442</fpage>–<lpage>447</lpage>.<pub-id pub-id-type="pmid">9659189</pub-id><pub-id pub-id-type="pmcid">PMC1728707</pub-id></mixed-citation></ref><ref id="jah35245-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jah35245-cit-0040">
+<string-name name-style="western">
+<surname>Schroeder</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Pulmonic valve endocarditis in a normal heart</article-title>. <source xml:lang="en">J Am Soc Echocardiogr</source>. <year>2005</year>;<volume>18</volume>:<fpage>197</fpage>–<lpage>198</lpage>.<pub-id pub-id-type="pmid">15682062</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.echo.2004.08.006</pub-id></mixed-citation></ref><ref id="jah35245-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jah35245-cit-0041">
+<string-name name-style="western">
+<surname>Roldan</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vargas‐Barron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Espinola‐Zavaleta</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Romero‐Cardenas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vazquez‐Antona</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burgueno</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munoz‐Castellanos</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zabalgoitia</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Three‐dimensional echocardiography of the right atrial embryonic remnants</article-title>. <source xml:lang="en">Am J Cardiol</source>. <year>2002</year>;<volume>89</volume>:<fpage>99</fpage>–<lpage>101</lpage>.<pub-id pub-id-type="pmid">11779538</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0002-9149(01)02178-6</pub-id></mixed-citation></ref><ref id="jah35245-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jah35245-cit-0042">
+<string-name name-style="western">
+<surname>Kim</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jung</surname>
+<given-names>HO</given-names>
+</string-name>. <article-title>Anatomic variants mimicking pathology on echocardiography: differential diagnosis</article-title>. <source xml:lang="en">J Cardiovasc Ultrasound</source>. <year>2013</year>;<volume>21</volume>:<fpage>103</fpage>–<lpage>112</lpage>.<pub-id pub-id-type="pmid">24198915</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4250/jcu.2013.21.3.103</pub-id><pub-id pub-id-type="pmcid">PMC3816159</pub-id></mixed-citation></ref><ref id="jah35245-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jah35245-cit-0043">
+<string-name name-style="western">
+<surname>Cresti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baratta</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Sensi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Aiello</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Costoli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Limbruno</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>Frequency and clinical significance of right atrial embryonic remnants involvement in infective endocarditis</article-title>. <source xml:lang="en">J Heart Valve Dis</source>. <year>2017</year>;<volume>26</volume>:<fpage>700</fpage>–<lpage>707</lpage>.<pub-id pub-id-type="pmid">30207121</pub-id></mixed-citation></ref><ref id="jah35245-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jah35245-cit-0044">
+<string-name name-style="western">
+<surname>Hammad</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saleh</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Almaghraby</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abdel‐Hay</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Eustachian valve infective endocarditis</article-title>. <source xml:lang="en">BMJ Case Rep</source>. <year>2019</year>;<volume>12</volume>:<elocation-id>e228653</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bcr-2018-228653</pub-id><pub-id pub-id-type="pmcid">PMC6506062</pub-id><pub-id pub-id-type="pmid">30975780</pub-id></mixed-citation></ref><ref id="jah35245-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jah35245-cit-0045">
+<string-name name-style="western">
+<surname>Moral</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ballesteros</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huguet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Panaro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Palet</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Evangelista</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Differential diagnosis and clinical implications of remnants of the right valve of the sinus venosus</article-title>. <source xml:lang="en">J Am Soc Echocardiogr</source>. <year>2016</year>;<volume>29</volume>:<fpage>183</fpage>–<lpage>194</lpage>.<pub-id pub-id-type="pmid">26787493</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.echo.2015.11.018</pub-id></mixed-citation></ref><ref id="jah35245-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jah35245-cit-0046">
+<string-name name-style="western">
+<surname>Kumar</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Haider</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sood</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahmoud</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mostafa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Afonso</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kottam</surname>
+<given-names>AR</given-names>
+</string-name>. <article-title>Right‐sided endocarditis: eustachian valve and coronary sinus involvement</article-title>. <source xml:lang="en">Echocardiography</source>. <year>2017</year>;<volume>34</volume>:<fpage>143</fpage>–<lpage>144</lpage>.<pub-id pub-id-type="pmid">27550778</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/echo.13345</pub-id></mixed-citation></ref><ref id="jah35245-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jah35245-cit-0047">
+<string-name name-style="western">
+<surname>Youssef</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marroush</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tanveer</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>A case report of eustachian valve endocarditis due to <italic toggle="yes">Salmonella typhimurium</italic> in an AIDS patient</article-title>. <source xml:lang="en">Germs</source>. <year>2019</year>;<volume>9</volume>:<fpage>154</fpage>–<lpage>157</lpage>.<pub-id pub-id-type="pmid">31646146</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18683/germs.2019.1170</pub-id><pub-id pub-id-type="pmcid">PMC6783637</pub-id></mixed-citation></ref><ref id="jah35245-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jah35245-cit-0048">
+<string-name name-style="western">
+<surname>Fan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le</surname>
+<given-names>PTN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>BD</given-names>
+</string-name>. <article-title>Eustachian valve endocarditis</article-title>. <source xml:lang="en">Proc (Bayl Univ Med Cent)</source>. <year>2019</year>;<volume>32</volume>:<fpage>572</fpage>–<lpage>573</lpage>.<pub-id pub-id-type="pmid">31656424</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/08998280.2019.1646595</pub-id><pub-id pub-id-type="pmcid">PMC6793972</pub-id></mixed-citation></ref><ref id="jah35245-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jah35245-cit-0049">
+<string-name name-style="western">
+<surname>San Roman</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vilacosta</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sarria</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garcimartin</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rollan</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandez‐Aviles</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Eustachian valve endocarditis: is it worth searching for?</article-title>
+<source xml:lang="en">Am Heart J</source>. <year>2001</year>;<volume>142</volume>:<fpage>1037</fpage>–<lpage>1040</lpage>.<pub-id pub-id-type="pmid">11717609</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1067/mhj.2001.119125</pub-id></mixed-citation></ref><ref id="jah35245-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jah35245-cit-0050">
+<string-name name-style="western">
+<surname>Tang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beigel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arsanjani</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Larson</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luthringer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siegel</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Infective endovascular fibrin sheath vegetations‐a new cause of bacteremia detected by transesophageal echocardiogram</article-title>. <source xml:lang="en">Am J Med</source>. <year>2015</year>;<volume>128</volume>:<fpage>1029</fpage>–<lpage>1038</lpage>.<pub-id pub-id-type="pmid">25865922</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.amjmed.2015.03.019</pub-id></mixed-citation></ref><ref id="jah35245-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jah35245-cit-0051">
+<string-name name-style="western">
+<surname>Galili</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lytle</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carlan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madruga</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Bilateral pneumothoraces: a rare complication of septic pulmonary emboli in intravenous drug abusers</article-title>. <source xml:lang="en">Am J Case Rep</source>. <year>2018</year>;<volume>19</volume>:<fpage>829</fpage>–<lpage>832</lpage>.<pub-id pub-id-type="pmid">30006503</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.12659/AJCR.910371</pub-id><pub-id pub-id-type="pmcid">PMC6066966</pub-id></mixed-citation></ref><ref id="jah35245-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jah35245-cit-0052">
+<string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>Right‐sided infective endocarditis: recent epidemiologic changes</article-title>. <source xml:lang="en">Int J Clin Exp Med</source>. <year>2014</year>;<volume>7</volume>:<fpage>199</fpage>–<lpage>218</lpage>.<pub-id pub-id-type="pmid">24482708</pub-id><pub-id pub-id-type="pmcid">PMC3902260</pub-id></mixed-citation></ref><ref id="jah35245-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jah35245-cit-0053">
+<string-name name-style="western">
+<surname>Vilacosta</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Olmos</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Agustín</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>López</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Islas</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sarriá</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrera</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ortiz‐Bautista</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sánchez‐Enrique</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vivas</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>The diagnostic ability of echocardiography for infective endocarditis and its associated complications</article-title>. <source xml:lang="en">Expert Rev Cardiovasc Ther</source>. <year>2015</year>;<volume>13</volume>:<fpage>1225</fpage>–<lpage>1236</lpage>.<pub-id pub-id-type="pmid">26471429</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1586/14779072.2015.1096780</pub-id></mixed-citation></ref><ref id="jah35245-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jah35245-cit-0054">
+<string-name name-style="western">
+<surname>Song</surname>
+<given-names>XY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>ZJ</given-names>
+</string-name>. <article-title>Cardiac septic pulmonary embolism: a retrospective analysis of 20 cases in a Chinese population</article-title>. <source xml:lang="en">Medicine (Baltimore)</source>. <year>2016</year>;<volume>95</volume>:<elocation-id>e3846</elocation-id>.<pub-id pub-id-type="pmid">27336870</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MD.0000000000003846</pub-id><pub-id pub-id-type="pmcid">PMC4998308</pub-id></mixed-citation></ref><ref id="jah35245-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jah35245-cit-0055">
+<string-name name-style="western">
+<surname>Grammes</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schulze</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Bataineh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yesenosky</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saari</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vrabel</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horrow</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chowdhury</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fontaine</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kutalek</surname>
+<given-names>SP</given-names>
+</string-name>. <article-title>Percutaneous pacemaker and implantable cardioverter‐defibrillator lead extraction in 100 patients with intracardiac vegetations defined by transesophageal echocardiogram</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2010</year>;<volume>55</volume>:<fpage>886</fpage>–<lpage>894</lpage>.<pub-id pub-id-type="pmid">20185039</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2009.11.034</pub-id></mixed-citation></ref><ref id="jah35245-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jah35245-cit-0056">
+<string-name name-style="western">
+<surname>Meier‐Ewert</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gray</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>John</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>Endocardial pacemaker or defibrillator leads with infected vegetations: a single‐center experience and consequences of transvenous extraction</article-title>. <source xml:lang="en">Am Heart J</source>. <year>2003</year>;<volume>146</volume>:<fpage>339</fpage>–<lpage>344</lpage>.<pub-id pub-id-type="pmid">12891205</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0002-8703(03)00188-1</pub-id></mixed-citation></ref><ref id="jah35245-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="jah35245-cit-0057">
+<string-name name-style="western">
+<surname>Lee</surname>
+<given-names>JZ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agasthi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pasha</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tarin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tseng</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diehl</surname>
+<given-names>NN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hodge</surname>
+<given-names>DO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeSimone</surname>
+<given-names>CV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Killu</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brady</surname>
+<given-names>PA</given-names>
+</string-name>, et al. <article-title>Stroke in patients with cardiovascular implantable electronic device infection undergoing transvenous lead removal</article-title>. <source xml:lang="en">Heart Rhythm</source>. <year>2018</year>;<volume>15</volume>:<fpage>1593</fpage>–<lpage>1600</lpage>.<pub-id pub-id-type="pmid">30654978</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.hrthm.2018.08.008</pub-id></mixed-citation></ref><ref id="jah35245-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="jah35245-cit-0058">
+<string-name name-style="western">
+<surname>Starck</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schaerf</surname>
+<given-names>RHM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Breitenstein</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Najibi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Conrad</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berendt</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Esmailian</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eulert‐Grehn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dreizler</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Falk</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Transcatheter aspiration of large pacemaker and implantable cardioverter‐defibrillator lead vegetations facilitating safe transvenous lead extraction</article-title>. <source xml:lang="en">Europace</source>. <year>2020</year>;<volume>22</volume>:<fpage>133</fpage>–<lpage>138</lpage>.<pub-id pub-id-type="pmid">31638648</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/europace/euz283</pub-id></mixed-citation></ref><ref id="jah35245-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="jah35245-cit-0059">
+<string-name name-style="western">
+<surname>Weber</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gassa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eghbalzadeh</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merkle</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Djordjevic</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maier</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabashnikov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deppe</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuhn</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rahmanian</surname>
+<given-names>PB</given-names>
+</string-name>, . <article-title>Characteristics and outcomes of patients with right‐sided endocarditis undergoing cardiac surgery</article-title>. <source xml:lang="en">Ann Cardiothorac Surg</source>. <year>2019</year>;<volume>8</volume>:<fpage>645</fpage>–<lpage>653</lpage>.<pub-id pub-id-type="pmid">31832354</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.21037/acs.2019.08.02</pub-id><pub-id pub-id-type="pmcid">PMC6892730</pub-id></mixed-citation></ref><ref id="jah35245-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="jah35245-cit-0060">
+<string-name name-style="western">
+<surname>Yanagawa</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elbatarny</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Verma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hill</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mazine</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Puskas</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Friedrich</surname>
+<given-names>JO</given-names>
+</string-name>. <article-title>Surgical management of tricuspid valve infective endocarditis: a systematic review and meta‐analysis</article-title>. <source xml:lang="en">Ann Thorac Surg</source>. <year>2018</year>;<volume>106</volume>:<fpage>708</fpage>–<lpage>714</lpage>.<pub-id pub-id-type="pmid">29750928</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.athoracsur.2018.04.012</pub-id></mixed-citation></ref><ref id="jah35245-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="jah35245-cit-0061">
+<string-name name-style="western">
+<surname>Gaca</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daneshmand</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rankin</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name name-style="western">
+<surname>O'Brien</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gammie</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Current outcomes for tricuspid valve infective endocarditis surgery in North America</article-title>. <source xml:lang="en">Ann Thorac Surg</source>. <year>2013</year>;<volume>96</volume>:<fpage>1374</fpage>–<lpage>1381</lpage>.<pub-id pub-id-type="pmid">23968767</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.athoracsur.2013.05.046</pub-id></mixed-citation></ref><ref id="jah35245-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="jah35245-cit-0062">
+<string-name name-style="western">
+<surname>Thourani</surname>
+<given-names>VH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sarin</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kilgo</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lattouf</surname>
+<given-names>OM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Puskas</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guyton</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Short‐ and long‐term outcomes in patients undergoing valve surgery with end‐stage renal failure receiving chronic hemodialysis</article-title>. <source xml:lang="en">J Thorac Cardiovasc Surg</source>. <year>2012</year>;<volume>144</volume>:<fpage>117</fpage>–<lpage>123</lpage>.<pub-id pub-id-type="pmid">21868043</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jtcvs.2011.07.057</pub-id></mixed-citation></ref><ref id="jah35245-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="jah35245-cit-0063">
+<string-name name-style="western">
+<surname>Kamalakannan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pai</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gardin</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saravolatz</surname>
+<given-names>LD</given-names>
+</string-name>. <article-title>Epidemiology and clinical outcomes of infective endocarditis in hemodialysis patients</article-title>. <source xml:lang="en">Ann Thorac Surg</source>. <year>2007</year>;<volume>83</volume>:<fpage>2081</fpage>–<lpage>2086</lpage>.<pub-id pub-id-type="pmid">17532401</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.athoracsur.2007.02.033</pub-id></mixed-citation></ref><ref id="jah35245-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="jah35245-cit-0064">
+<string-name name-style="western">
+<surname>Arbulu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Holmes</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Asfaw</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Surgical treatment of intractable right‐sided infective endocarditis in drug addicts: 25 years experience</article-title>. <source xml:lang="en">J Heart Valve Dis</source>. <year>1993</year>;<volume>2</volume>:<fpage>129</fpage>–<lpage>137</lpage>; discussion 138‐129.<pub-id pub-id-type="pmid">8261149</pub-id></mixed-citation></ref><ref id="jah35245-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="jah35245-cit-0065">
+<string-name name-style="western">
+<surname>Stern</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sisto</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strom</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soeiro</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frater</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>Immediate tricuspid valve replacement for endocarditis. Indications and results</article-title>. <source xml:lang="en">J Thorac Cardiovasc Surg</source>. <year>1986</year>;<volume>91</volume>:<fpage>163</fpage>–<lpage>167</lpage>.<pub-id pub-id-type="pmid">3945082</pub-id></mixed-citation></ref><ref id="jah35245-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="jah35245-cit-0066">
+<string-name name-style="western">
+<surname>Carozza</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Della Corte</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ursomando</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cotrufo</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The choice of valve prosthesis for infective endocarditis in intravenous drug users: between evidence and preference</article-title>. <source xml:lang="en">Ann Thorac Surg</source>. <year>2008</year>;<volume>85</volume>:<fpage>1141</fpage>; author reply 1142<pub-id pub-id-type="pmid">18291230</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.athoracsur.2007.04.090</pub-id></mixed-citation></ref><ref id="jah35245-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="jah35245-cit-0067">
+<string-name name-style="western">
+<surname>Kaiser</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Melby</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zierer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schuessler</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moon</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Moazami</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pasque</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huddleston</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Damiano</surname>
+<given-names>RJ</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Lawton</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Long‐term outcomes in valve replacement surgery for infective endocarditis</article-title>. <source xml:lang="en">Ann Thorac Surg</source>. <year>2007</year>;<volume>83</volume>:<fpage>30</fpage>–<lpage>35</lpage>.<pub-id pub-id-type="pmid">17184626</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.athoracsur.2006.07.037</pub-id></mixed-citation></ref><ref id="jah35245-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="jah35245-cit-0068">
+<string-name name-style="western">
+<surname>Di Mauro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Foschi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dato</surname>
+<given-names>GMA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Centofanti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barili</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Corte</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ratta</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cugola</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Galletti</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santini</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Surgical treatment of isolated tricuspid valve infective endocarditis: 25‐year results from a multicenter registry</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2019</year>;<volume>292</volume>:<fpage>62</fpage>–<lpage>67</lpage>.<pub-id pub-id-type="pmid">31130281</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijcard.2019.05.020</pub-id></mixed-citation></ref><ref id="jah35245-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="jah35245-cit-0069">
+<string-name name-style="western">
+<surname>Butany</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahluwalia</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Munroe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fayet</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ahn</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blit</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kepron</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cusimano</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leask</surname>
+<given-names>RL</given-names>
+</string-name>. <article-title>Mechanical heart valve prostheses: identification and evaluation (erratum)</article-title>. <source xml:lang="en">Cardiovasc Pathol</source>. <year>2003</year>;<volume>12</volume>:<fpage>322</fpage>–<lpage>344</lpage>.<pub-id pub-id-type="pmid">14630298</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1054-8807(03)00105-4</pub-id></mixed-citation></ref><ref id="jah35245-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="jah35245-cit-0070">
+<string-name name-style="western">
+<surname>Vongpatanasin</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hillis</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lange</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Prosthetic heart valves</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>1996</year>;<volume>335</volume>:<fpage>407</fpage>–<lpage>416</lpage>.<pub-id pub-id-type="pmid">8676934</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJM199608083350607</pub-id></mixed-citation></ref><ref id="jah35245-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="jah35245-cit-0071">
+<string-name name-style="western">
+<surname>Caceres‐Loriga</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perez‐Lopez</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Santos‐Gracia</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morlans‐Hernandez</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Prosthetic heart valve thrombosis: pathogenesis, diagnosis and management</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2006</year>;<volume>110</volume>:<fpage>1</fpage>–<lpage>6</lpage>.<pub-id pub-id-type="pmid">16038994</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijcard.2005.06.051</pub-id></mixed-citation></ref><ref id="jah35245-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="jah35245-cit-0072">
+<string-name name-style="western">
+<surname>Kusumoto</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schoenfeld</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilkoff</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berul</surname>
+<given-names>CI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Birgersdotter‐Green</surname>
+<given-names>UM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carrillo</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cha</surname>
+<given-names>YM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clancy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deharo</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ellenbogen</surname>
+<given-names>KA</given-names>
+</string-name>, et al. <article-title>2017 HRS expert consensus statement on cardiovascular implantable electronic device lead management and extraction</article-title>. <source xml:lang="en">Heart Rhythm</source>. <year>2017</year>;<volume>14</volume>:<fpage>e503</fpage>–<lpage>e551</lpage>.<pub-id pub-id-type="pmid">28919379</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.hrthm.2017.09.001</pub-id></mixed-citation></ref><ref id="jah35245-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="jah35245-cit-0073">
+<string-name name-style="western">
+<surname>Divekar</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scholz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fernandez</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>Novel percutaneous transcatheter intervention for refractory active endocarditis as a bridge to surgery‐AngioVac aspiration system</article-title>. <source xml:lang="en">Catheter Cardiovasc Interv</source>. <year>2013</year>;<volume>81</volume>:<fpage>1008</fpage>–<lpage>1012</lpage>.<pub-id pub-id-type="pmid">22887769</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ccd.24593</pub-id></mixed-citation></ref><ref id="jah35245-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="jah35245-cit-0074">
+<string-name name-style="western">
+<surname>Todoran</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sobieszczyk</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Levy</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Perry</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shook</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kinlay</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Davidson</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eisenhauer</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>Percutaneous extraction of right atrial mass using the AngioVac aspiration system</article-title>. <source xml:lang="en">J Vasc Interv Radiol</source>. <year>2011</year>;<volume>22</volume>:<fpage>1345</fpage>–<lpage>1347</lpage>.<pub-id pub-id-type="pmid">21856509</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jvir.2011.04.004</pub-id></mixed-citation></ref><ref id="jah35245-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="jah35245-cit-0075">
+<string-name name-style="western">
+<surname>Patel</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azemi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zaeem</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Underhill</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gallagher</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hagberg</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sadiq</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Vacuum assisted vegetation extraction for the management of large lead vegetations</article-title>. <source xml:lang="en">J Card Surg</source>. <year>2013</year>;<volume>28</volume>:<fpage>321</fpage>–<lpage>324</lpage>.<pub-id pub-id-type="pmid">23445461</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jocs.12087</pub-id></mixed-citation></ref><ref id="jah35245-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="jah35245-cit-0076">
+<string-name name-style="western">
+<surname>Dudiy</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kronzon</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cohen</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruiz</surname>
+<given-names>CE</given-names>
+</string-name>. <article-title>Vacuum thrombectomy of large right atrial thrombus</article-title>. <source xml:lang="en">Catheter Cardiovasc Interv</source>. <year>2012</year>;<volume>79</volume>:<fpage>344</fpage>–<lpage>347</lpage>.<pub-id pub-id-type="pmid">22162328</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ccd.23190</pub-id></mixed-citation></ref><ref id="jah35245-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="jah35245-cit-0077">
+<string-name name-style="western">
+<surname>Makdisi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casciani</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wozniak</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Roe</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hashmi</surname>
+<given-names>ZA</given-names>
+</string-name>. <article-title>A successful percutaneous mechanical vegetation debulking used as a bridge to surgery in acute tricuspid valve endocarditis</article-title>. <source xml:lang="en">J Thorac Dis</source>. <year>2016</year>;<volume>8</volume>:<fpage>E137</fpage>–<lpage>E139</lpage>.<pub-id pub-id-type="pmid">26904243</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3978/j.issn.2072-1439.2016.01.02</pub-id><pub-id pub-id-type="pmcid">PMC4740158</pub-id></mixed-citation></ref><ref id="jah35245-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="jah35245-cit-0078">
+<string-name name-style="western">
+<surname>Abubakar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rashed</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Subahi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yassin</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shokr</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elder</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>AngioVac system used for vegetation debulking in a patient with tricuspid valve endocarditis: a case report and review of the literature</article-title>. <source xml:lang="en">Case Rep Cardiol</source>. <year>2017</year>;<volume>2017</volume>:<fpage>1923505</fpage>.<pub-id pub-id-type="pmid">29238620</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1155/2017/1923505</pub-id><pub-id pub-id-type="pmcid">PMC5697122</pub-id></mixed-citation></ref><ref id="jah35245-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="jah35245-cit-0079">
+<string-name name-style="western">
+<surname>George</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Voelkel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Leventhal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gurley</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>A novel approach to percutaneous removal of large tricuspid valve vegetations using suction filtration and veno‐venous bypass: a single center experience</article-title>. <source xml:lang="en">Catheter Cardiovasc Interv</source>. <year>2017</year>;<volume>90</volume>:<fpage>1009</fpage>–<lpage>1015</lpage>.<pub-id pub-id-type="pmid">28471095</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ccd.27097</pub-id></mixed-citation></ref><ref id="jah35245-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="jah35245-cit-0080">
+<string-name name-style="western">
+<surname>Jones</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wazni</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rehm</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shishehbor</surname>
+<given-names>MH</given-names>
+</string-name>. <article-title>Fighting fungus with a laser and a hose: management of a giant <italic toggle="yes">Candida albicans</italic> implantable cardioverter‐defibrillator lead vegetation with simultaneous AngioVac aspiration and laser sheath lead extraction</article-title>. <source xml:lang="en">Catheter Cardiovasc Interv</source>. <year>2018</year>;<volume>91</volume>:<fpage>318</fpage>–<lpage>321</lpage>.<pub-id pub-id-type="pmid">28722286</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ccd.27153</pub-id></mixed-citation></ref><ref id="jah35245-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="jah35245-cit-0081">
+<string-name name-style="western">
+<surname>Parmar</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Basman</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kliger</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mehla</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kronzon</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Tricuspid valve vegetectomy using percutaneous aspiration catheter</article-title>. <source xml:lang="en">Eur Heart J Cardiovasc Imaging</source>. <year>2018</year>;<volume>19</volume>:<fpage>709</fpage>.<pub-id pub-id-type="pmid">29566136</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ehjci/jey017</pub-id></mixed-citation></ref><ref id="jah35245-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="jah35245-cit-0082">
+<string-name name-style="western">
+<surname>Schaerf</surname>
+<given-names>RHM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Najibi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Conrad</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Percutaneous vacuum‐assisted thrombectomy device used for removal of large vegetations on infected pacemaker and defibrillator leads as an adjunct to lead extraction</article-title>. <source xml:lang="en">J Atr Fibrillation</source>. <year>2016</year>;<volume>9</volume>:<fpage>1455</fpage>.<pub-id pub-id-type="pmid">28496930</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4022/jafib.1455</pub-id><pub-id pub-id-type="pmcid">PMC5368550</pub-id></mixed-citation></ref><ref id="jah35245-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="jah35245-cit-0083">
+<string-name name-style="western">
+<surname>Welton</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Young</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gentry</surname>
+<given-names>WO</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raizner</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alexander</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chahine</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miller</surname>
+<given-names>RR</given-names>
+</string-name>. <article-title>Recurrent infective endocarditis: analysis of predisposing factors and clinical features</article-title>. <source xml:lang="en">Am J Med</source>. <year>1979</year>;<volume>66</volume>:<fpage>932</fpage>–<lpage>938</lpage>.<pub-id pub-id-type="pmid">453226</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0002-9343(79)90447-9</pub-id></mixed-citation></ref><ref id="jah35245-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="jah35245-cit-0084">
+<string-name name-style="western">
+<surname>Kamaledeen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Young</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Attia</surname>
+<given-names>RQ</given-names>
+</string-name>. <article-title>What are the differences in outcomes between right‐sided active infective endocarditis with and without left‐sided infection?</article-title>
+<source xml:lang="en">Interact Cardiovasc Thorac Surg</source>. <year>2012</year>;<volume>14</volume>:<fpage>205</fpage>–<lpage>208</lpage>.<pub-id pub-id-type="pmid">22159232</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/icvts/ivr012</pub-id><pub-id pub-id-type="pmcid">PMC3279982</pub-id></mixed-citation></ref><ref id="jah35245-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="jah35245-cit-0085">
+<string-name name-style="western">
+<surname>Robbins</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frater</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Soeiro</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frishman</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strom</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Influence of vegetation size on clinical outcome of right‐sided infective endocarditis</article-title>. <source xml:lang="en">Am J Med</source>. <year>1986</year>;<volume>80</volume>:<fpage>165</fpage>–<lpage>171</lpage>.<pub-id pub-id-type="pmid">3946431</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0002-9343(86)90004-5</pub-id></mixed-citation></ref><ref id="jah35245-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="jah35245-cit-0086">
+<string-name name-style="western">
+<surname>Miro</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>del Rio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mestres</surname>
+<given-names>CA</given-names>
+</string-name>. <article-title>Infective endocarditis and cardiac surgery in intravenous drug abusers and HIV‐1 infected patients</article-title>. <source xml:lang="en">Cardiol Clin</source>. <year>2003</year>;<volume>21</volume>:<fpage>167</fpage>–<lpage>184</lpage>, v–vi.<pub-id pub-id-type="pmid">12874891</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0733-8651(03)00025-0</pub-id></mixed-citation></ref><ref id="jah35245-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="jah35245-cit-0087">
+<string-name name-style="western">
+<surname>Stavi</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brandstaetter</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sagy</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sapunar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nevzorov</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartal</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barski</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Comparison of clinical characteristics and prognosis in patients with right‐ and left‐sided infective endocarditis</article-title>. <source xml:lang="en">Rambam Maimonides Med J</source>. <year>2019</year>;<volume>10</volume>:<elocation-id>e0003</elocation-id>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.5041/RMMJ.10338</pub-id><pub-id pub-id-type="pmcid">PMC6363375</pub-id><pub-id pub-id-type="pmid">29993361</pub-id></mixed-citation></ref><ref id="jah35245-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="jah35245-cit-0088">
+<string-name name-style="western">
+<surname>Blomstrom‐Lundqvist</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Traykov</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Erba</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burri</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nielsen</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bongiorni</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poole</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boriani</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Costa</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deharo</surname>
+<given-names>JC</given-names>
+</string-name>, et al. <article-title>European Heart Rhythm Association (EHRA) international consensus document on how to prevent, diagnose, and treat cardiac implantable electronic device infections‐endorsed by the Heart Rhythm Society (HRS), the Asia Pacific Heart Rhythm Society (APHRS), the Latin American Heart Rhythm Society (LAHRS), International Society for Cardiovascular Infectious Diseases (ISCVID) and the European Society of Clinical Microbiology and Infectious Diseases (ESCMID) in collaboration with the European Association for Cardio‐Thoracic Surgery (EACTS)</article-title>. <source xml:lang="en">Europace</source>. <year>2020</year>;<volume>22</volume>:<fpage>515</fpage>–<lpage>549</lpage>.<pub-id pub-id-type="pmid">31702000</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/europace/euz246</pub-id><pub-id pub-id-type="pmcid">PMC7132545</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

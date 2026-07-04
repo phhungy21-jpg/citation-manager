@@ -1,0 +1,1462 @@
+[
+  {
+    "institution": [
+      {
+        "name": "American Psychological Association",
+        "acronym": [
+          "APA"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          14
+        ]
+      ],
+      "date-time": "2024-02-14T00:11:38Z",
+      "timestamp": 1707869498752
+    },
+    "reference-count": 0,
+    "publisher": "American Psychological Association (APA)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "DOI": "10.1037/e636742011-048",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2013-02-19T20:51:55Z",
+      "timestamp": 1361307115000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A randomized controlled trial of financial incentives for weight loss"
+    ],
+    "prefix": "10.1037",
+    "author": [
+      {
+        "given": "Kevin",
+        "family": "Volpp",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Leslie",
+        "family": "John",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Troxel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Laurie",
+        "family": "Norton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer",
+        "family": "Fassbender",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "George",
+        "family": "Loewenstein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "15",
+    "container-title": [
+      "PsycEXTRA Dataset"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2024-02-13T17:04:33Z",
+      "timestamp": 1707843873000
+    },
+    "score": 49.61331,
+    "resource": {
+      "primary": {
+        "URL": "https://doi.apa.org/doi/10.1037/e636742011-048"
+      }
+    },
+    "subtitle": [
+      "(636742011-048)"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "636742011-048"
+    ],
+    "URL": "https://doi.org/10.1037/e636742011-048",
+    "published": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2022-04-05T07:32:31Z",
+      "timestamp": 1649143951767
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2009-05-01T00:00:00Z",
+          "timestamp": 1241136000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              3
+            ]
+          ],
+          "date-time": "2013-10-03T00:00:00Z",
+          "timestamp": 1380758400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 1616,
+        "URL": "https://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Vascular Surgery"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jvs.2009.03.023",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2009-04-25T09:41:08Z",
+      "timestamp": 1240652468000
+    },
+    "page": "1358-1359",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A Randomized Controlled Trial of Financial Incentives for Smoking Cessation"
+    ],
+    "prefix": "10.1016",
+    "volume": "49",
+    "author": [
+      {
+        "given": "K.G.",
+        "family": "Volpp",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.B.",
+        "family": "Troxel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.V.",
+        "family": "Pauly",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Journal of Vascular Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0741521409006764?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0741521409006764?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          20
+        ]
+      ],
+      "date-time": "2018-12-20T08:22:53Z",
+      "timestamp": 1545294173000
+    },
+    "score": 46.41193,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0741521409006764"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0741521409006764"
+    ],
+    "URL": "https://doi.org/10.1016/j.jvs.2009.03.023",
+    "ISSN": [
+      "0741-5214"
+    ],
+    "issn-type": [
+      {
+        "value": "0741-5214",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2026-04-28T11:20:35Z",
+      "timestamp": 1777375235697,
+      "version": "3.51.4"
+    },
+    "reference-count": 21,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              21
+            ]
+          ],
+          "date-time": "2016-10-21T00:00:00Z",
+          "timestamp": 1477008000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Am J Health Promot"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose:</jats:title>\n                    <jats:p>To examine the effect of an opt-out default recruitment strategy compared to a conventional opt-in strategy on enrollment and adherence to a behavioral intervention for poorly controlled diabetic patients.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design:</jats:title>\n                    <jats:p>Randomized controlled trial.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Setting:</jats:title>\n                    <jats:p>University of Pennsylvania primary care practices.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Participants:</jats:title>\n                    <jats:p>Participants of this trial included those with (1) age 18 to 80 years; (2) diabetes diagnosis; and (3) a measured hemoglobin A1c (HbA1c) greater than 8% in the past 12 months.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Intervention:</jats:title>\n                    <jats:p>We randomized eligible patients into opt-in and opt-out arms prior to enrollment. Those in the opt-out arm received a letter stating that they were enrolled into a diabetes research study with the option to opt out, and those in the opt-in arm received a standard recruitment letter.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Measures:</jats:title>\n                    <jats:p>Main end points include enrollment rate, defined as the proportion of participants who attended the baseline visit, and adherence to daily glycemic monitoring.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Analysis:</jats:title>\n                    <jats:p>We powered our study to detect a 20% difference in adherence to device usage between arms and account for a 10% attrition rate.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results:</jats:title>\n                    <jats:p>Of the 569 eligible participants who received a recruitment letter, 496 were randomized to the opt-in arm and 73 to the opt-out arm. Enrollment rates were 38% in the opt-out arm and 13% in the opt-in arm ( P &lt; .001).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions:</jats:title>\n                    <jats:p>Opt-out defaults, where clinically appropriate, could be a useful approach for increasing the generalizability of low-risk trials testing behavioral interventions in clinical settings.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1177/0890117116671673",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2016-10-22T00:17:18Z",
+      "timestamp": 1477095438000
+    },
+    "page": "745-752",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 28,
+    "title": [
+      "A Randomized Controlled Trial of Opt-In Versus Opt-Out Enrollment Into a Diabetes Behavioral Intervention"
+    ],
+    "prefix": "10.1177",
+    "volume": "32",
+    "author": [
+      {
+        "given": "Jaya",
+        "family": "Aysola",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of General Internal Medicine, Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA"
+          },
+          {
+            "name": "Center for Health Incentives and Behavioral Economics (CHIBE) at the Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Emin",
+        "family": "Tahirovic",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Biostatistics and Epidemiology, Center for Clinical Epidemiology and Biostatistics (CCEB), University of Pennsylvania, Philadelphia, PA, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrea B.",
+        "family": "Troxel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Health Incentives and Behavioral Economics (CHIBE) at the Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, USA"
+          },
+          {
+            "name": "Department of Biostatistics and Epidemiology, Center for Clinical Epidemiology and Biostatistics (CCEB), University of Pennsylvania, Philadelphia, PA, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "David A.",
+        "family": "Asch",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of General Internal Medicine, Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA"
+          },
+          {
+            "name": "Center for Health Incentives and Behavioral Economics (CHIBE) at the Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, USA"
+          },
+          {
+            "name": "Department of Medical Ethics and Health Policy, University of Pennsylvania, Philadelphia, PA, USA"
+          },
+          {
+            "name": "Center for Health Equity Research and Promotion, Philadelphia VA Medical Center, Philadelphia, PA, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kelsey",
+        "family": "Gangemi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Health Incentives and Behavioral Economics (CHIBE) at the Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Amanda T.",
+        "family": "Hodlofski",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Health Incentives and Behavioral Economics (CHIBE) at the Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jingsan",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Health Incentives and Behavioral Economics (CHIBE) at the Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kevin",
+        "family": "Volpp",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of General Internal Medicine, Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, USA"
+          },
+          {
+            "name": "Center for Health Incentives and Behavioral Economics (CHIBE) at the Leonard Davis Institute of Health Economics, University of Pennsylvania, Philadelphia, PA, USA"
+          },
+          {
+            "name": "Department of Medical Ethics and Health Policy, University of Pennsylvania, Philadelphia, PA, USA"
+          },
+          {
+            "name": "Center for Health Equity Research and Promotion, Philadelphia VA Medical Center, Philadelphia, PA, USA"
+          },
+          {
+            "name": "University of Pennsylvania Prevention Research Center, Philadelphia, PA, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          21
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.289.10.1278"
+      },
+      {
+        "key": "bibr2-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cncr.28168"
+      },
+      {
+        "key": "bibr3-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2010.1592"
+      },
+      {
+        "key": "bibr4-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMsb071595"
+      },
+      {
+        "key": "bibr5-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1091721"
+      },
+      {
+        "key": "bibr6-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1467-9280.2006.01721.x"
+      },
+      {
+        "key": "bibr7-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/003355301753265543"
+      },
+      {
+        "key": "bibr8-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2010.892"
+      },
+      {
+        "key": "bibr9-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0272989X13507339"
+      },
+      {
+        "key": "bibr10-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1377/hlthaff.2012.0895"
+      },
+      {
+        "key": "bibr11-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.h6895"
+      },
+      {
+        "key": "bibr12-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M13-3001"
+      },
+      {
+        "key": "bibr13-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/medethics-2011-100145"
+      },
+      {
+        "key": "bibr14-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.38583.625613.AE"
+      },
+      {
+        "key": "bibr15-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMp1203869"
+      },
+      {
+        "key": "bibr16-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-014-2778-0"
+      },
+      {
+        "key": "bibr17-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1475-6773.2005.00438.x"
+      },
+      {
+        "key": "bibr18-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1751-7176.2008.07572.x"
+      },
+      {
+        "key": "bibr19-0890117116671673",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/2531734"
+      },
+      {
+        "key": "bibr20-0890117116671673",
+        "unstructured": "R. Development Core Team. R: a language and environment for statistical computing. 2008. R Foundation for Statistical Computing. http://www.r-project.org/. Accessed September 29, 2016."
+      },
+      {
+        "key": "bibr21-0890117116671673",
+        "unstructured": "Selker H, Grossmann C, Adams A, The Common Rule and Continuous Improvement in Health Care: A Learning Health System Perspective. 2011. http://iom.edu/Activities/Quality/∼/media/Files/Activity%20Files/Quality/VSRT/Discussion%20Papers/CommonRule.pdf. Accessed September 29, 2016."
+      }
+    ],
+    "container-title": [
+      "American Journal of Health Promotion"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0890117116671673",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0890117116671673",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0890117116671673",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2026-04-28T09:01:10Z",
+      "timestamp": 1777366870000
+    },
+    "score": 40.533447,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/0890117116671673"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          21
+        ]
+      ]
+    },
+    "references-count": 21,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1177/0890117116671673"
+    ],
+    "URL": "https://doi.org/10.1177/0890117116671673",
+    "ISSN": [
+      "0890-1171",
+      "2168-6602"
+    ],
+    "issn-type": [
+      {
+        "value": "0890-1171",
+        "type": "print"
+      },
+      {
+        "value": "2168-6602",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          21
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2026-02-20T23:44:35Z",
+      "timestamp": 1771631075732,
+      "version": "3.50.1"
+    },
+    "reference-count": 20,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              20
+            ]
+          ],
+          "date-time": "2011-01-20T00:00:00Z",
+          "timestamp": 1295481600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J GEN INTERN MED"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1007/s11606-010-1628-y",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          19
+        ]
+      ],
+      "date-time": "2011-01-19T14:08:24Z",
+      "timestamp": 1295446104000
+    },
+    "page": "621-626",
+    "source": "Crossref",
+    "is-referenced-by-count": 271,
+    "title": [
+      "Financial Incentives for Extended Weight Loss: A Randomized, Controlled Trial"
+    ],
+    "prefix": "10.1007",
+    "volume": "26",
+    "author": [
+      {
+        "given": "Leslie K.",
+        "family": "John",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "George",
+        "family": "Loewenstein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrea B.",
+        "family": "Troxel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Laurie",
+        "family": "Norton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer E.",
+        "family": "Fassbender",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kevin G.",
+        "family": "Volpp",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          20
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "15",
+        "key": "1628_CR1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1549",
+        "DOI": "10.1001/jama.295.13.1549",
+        "volume": "393",
+        "author": "C Ogden",
+        "year": "2006",
+        "unstructured": "Ogden C, Carroll M, Curtin L, McDowell M, Tabak C, Flegal K. Prevalence of overweight and obesity in the United States. J Am Med Assoc. 2006;393(15):1549–55.",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "issue": "5",
+        "key": "1628_CR2",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.1016/0005-7967(78)90005-0",
+        "volume": "16",
+        "author": "RW Jeffery",
+        "year": "1978",
+        "unstructured": "Jeffery RW, Thompson PD, Wing RR. Effects on weight reduction of strong monetary contracts for calorie restriction or weight loss. Behav Res Ther. 1978;16(5):363–9.",
+        "journal-title": "Behav Res Ther"
+      },
+      {
+        "issue": "1 Suppl",
+        "key": "1628_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1037/0278-6133.19.Suppl1.5",
+        "volume": "19",
+        "author": "R Jeffery",
+        "year": "2000",
+        "unstructured": "Jeffery R, Drewnowski A, Epstein L. Long-term maintenance of weight loss. Health Psychol. 2000;19(1 Suppl):5–16.",
+        "journal-title": "Health Psychol"
+      },
+      {
+        "key": "1628_CR4",
+        "unstructured": "NIH. (United States Department of Health and Human Services). NIH Guide: Findings of Scientific Misconduct. 2001 December 13, 2001."
+      },
+      {
+        "issue": "289",
+        "key": "1628_CR5",
+        "first-page": "14",
+        "volume": "2003",
+        "author": "S Heshka",
+        "year": "2003",
+        "unstructured": "Heshka S, Anderson J, Atkinson R, et al. Weight loss with self-help compared with a structured commercial program: a randomized trial. J Am Med Assoc. 2003;2003(289):14.",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "issue": "20",
+        "key": "1628_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "2415",
+        "DOI": "10.1001/jama.298.20.2415",
+        "volume": "298",
+        "author": "G Loewenstein",
+        "year": "2007",
+        "unstructured": "Loewenstein G, Brennan T, Volpp KG. Asymmetric paternalism to improve health behaviors. J Am Med Assoc. 2007;298(20):2415–7.",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "issue": "22",
+        "key": "1628_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "2631",
+        "DOI": "10.1001/jama.2008.804",
+        "volume": "300",
+        "author": "K Volpp",
+        "year": "2008",
+        "unstructured": "Volpp K, John L, Troxel AB, Norton L, Fassbender J, Loewenstein G. Financial incentive-based approaches for weight loss: a randomized trial. J Am Med Assoc. 2008;300(22):2631–7.",
+        "journal-title": "J Am Med Assoc"
+      },
+      {
+        "key": "1628_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.2307/1914185",
+        "volume": "47",
+        "author": "D Kahneman",
+        "year": "1979",
+        "unstructured": "Kahneman D, Tversky A. Prospect theory: an analysis of decision making under risk. Econometrica. 1979;47:263–91.",
+        "journal-title": "Econometrica"
+      },
+      {
+        "issue": "5",
+        "key": "1628_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "610",
+        "DOI": "10.1016/S0197-2456(03)00064-3",
+        "volume": "24",
+        "author": "D Ryan",
+        "year": "2003",
+        "unstructured": "Ryan D, Espeland M, Foster G, et al. Look AHEAD (Action for Health in Diabetes): design and methods for a clinical trial of weight loss for the prevention of cardiovascular disease in type 2 diabetes. Control Clin Trials. 2003;24(5):610–28.",
+        "journal-title": "Control Clin Trials"
+      },
+      {
+        "issue": "3",
+        "key": "1628_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1111/1467-9280.00441",
+        "volume": "13",
+        "author": "D Ariely",
+        "year": "2002",
+        "unstructured": "Ariely D, Wertenbroch K. Procrastination, deadlines, and performance: self-control by precommitment. Psychol Sci. 2002;13(3):219–24.",
+        "journal-title": "Psychol Sci"
+      },
+      {
+        "issue": "6",
+        "key": "1628_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "393",
+        "DOI": "10.1056/NEJMoa012512",
+        "volume": "346",
+        "author": "WC Knowler",
+        "year": "2002",
+        "unstructured": "Knowler WC, Barrett-Connor E, Fowler SE, et al. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med. 2002;346(6):393–403.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "1628_CR12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Svenson O, Fischhoff B, MacGregor D. Perceived driving safety and seatbelt usage. Accident Analysis & Prevention. 1985;17(2):119-133.",
+        "DOI": "10.1016/0001-4575(85)90015-6"
+      },
+      {
+        "key": "1628_CR13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Weinstein ND. Unrealistic optimism about susceptibility to health problems: Conclusions from a community-wide sample Journal of Behavioral Medicine. 1987;10(5):1573-3521.",
+        "DOI": "10.1007/BF00846146"
+      },
+      {
+        "issue": "4",
+        "key": "1628_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1039",
+        "DOI": "10.2307/2937956",
+        "volume": "106",
+        "author": "A Tversky",
+        "year": "1991",
+        "unstructured": "Tversky A, Kahneman D. Loss aversion in riskless choice: a reference-dependent model. Q J Econ. 1991;106(4):1039–61.",
+        "journal-title": "Q J Econ"
+      },
+      {
+        "key": "1628_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1037/h0076860",
+        "volume": "82",
+        "author": "G Ainslie",
+        "year": "1975",
+        "unstructured": "Ainslie G. Specious reward: a behavioral theory of impulsiveness and impulse control. Psychol Bull. 1975;82:463–96.",
+        "journal-title": "Psychol Bull"
+      },
+      {
+        "key": "1628_CR16",
+        "first-page": "165",
+        "volume": "23",
+        "author": "RH Thaler",
+        "year": "1981",
+        "unstructured": "Thaler RH. Some empirical evidence on time inconsistency. Rev Econ Stud. 1981;23:165–80.",
+        "journal-title": "Rev Econ Stud"
+      },
+      {
+        "key": "1628_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "573",
+        "DOI": "10.2307/2118482",
+        "volume": "107",
+        "author": "G Loewenstein",
+        "year": "1992",
+        "unstructured": "Loewenstein G, Prelec D. Anomalies in intertemporal choice: evidence and an interpretation. Q J Econ. 1992;107:573–97.",
+        "journal-title": "Q J Econ"
+      },
+      {
+        "key": "1628_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1037/0096-3445.126.1.54",
+        "volume": "126",
+        "author": "K Kirby",
+        "year": "1997",
+        "unstructured": "Kirby K. Bidding on the future: evidence against normative discounting of delayed rewards. J Exp Psychol Gen. 1997;126:54–70.",
+        "journal-title": "J Exp Psychol Gen"
+      },
+      {
+        "key": "1628_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1006/cogp.1998.0707",
+        "volume": "38",
+        "author": "D Griffin",
+        "year": "1999",
+        "unstructured": "Griffin D, Buehler R. Frequency, probability, and prediction: easy solutions to cognitive illusions? Cogn Psychol. 1999;38:48–78.",
+        "journal-title": "Cogn Psychol"
+      },
+      {
+        "key": "1628_CR20",
+        "volume-title": "A theory of goal setting and task performance Englewood Cliffs",
+        "author": "EA Locke",
+        "year": "1990",
+        "unstructured": "Locke EA, Latham GP. A theory of goal setting and task performance Englewood Cliffs. NJ: Prentice Hall; 1990."
+      }
+    ],
+    "container-title": [
+      "Journal of General Internal Medicine"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11606-010-1628-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s11606-010-1628-y/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11606-010-1628-y",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          8
+        ]
+      ],
+      "date-time": "2019-06-08T00:16:15Z",
+      "timestamp": 1559952975000
+    },
+    "score": 40.43896,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/s11606-010-1628-y"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          20
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1628"
+    ],
+    "URL": "https://doi.org/10.1007/s11606-010-1628-y",
+    "ISSN": [
+      "0884-8734",
+      "1525-1497"
+    ],
+    "issn-type": [
+      {
+        "value": "0884-8734",
+        "type": "print"
+      },
+      {
+        "value": "1525-1497",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          20
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2026-06-25T17:21:56Z",
+      "timestamp": 1782408116322,
+      "version": "3.54.5"
+    },
+    "reference-count": 0,
+    "publisher": "American Medical Association (AMA)",
+    "issue": "22",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "JAMA"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1001/jama.2008.804",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          9
+        ]
+      ],
+      "date-time": "2008-12-09T22:09:47Z",
+      "timestamp": 1228860587000
+    },
+    "page": "2631",
+    "source": "Crossref",
+    "is-referenced-by-count": 720,
+    "title": [
+      "Financial Incentive–Based Approaches for Weight Loss"
+    ],
+    "prefix": "10.1001",
+    "volume": "300",
+    "author": [
+      {
+        "given": "Kevin G.",
+        "family": "Volpp",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Leslie K.",
+        "family": "John",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrea B.",
+        "family": "Troxel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laurie",
+        "family": "Norton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer",
+        "family": "Fassbender",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "George",
+        "family": "Loewenstein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "10",
+    "container-title": [
+      "JAMA"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://jamanetwork.com/journals/jama/fullarticle/183047",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          15
+        ]
+      ],
+      "date-time": "2016-12-15T19:47:39Z",
+      "timestamp": 1481831259000
+    },
+    "score": 39.8904,
+    "resource": {
+      "primary": {
+        "URL": "http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2008.804"
+      }
+    },
+    "subtitle": [
+      "A Randomized Trial"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          10
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "22",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            12,
+            10
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1001/jama.2008.804",
+    "ISSN": [
+      "0098-7484"
+    ],
+    "issn-type": [
+      {
+        "value": "0098-7484",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          10
+        ]
+      ]
+    }
+  }
+]

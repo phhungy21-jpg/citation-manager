@@ -1,0 +1,486 @@
+{
+  "paper": "PMC11707628",
+  "source_file": "pmcid:11707628",
+  "generated": "2026-07-01T13:26:47.295349+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "no_abstract_found": 1,
+    "dry_run_skipped": 53,
+    "unresolved_reference": 1
+  },
+  "flagged": [
+    {
+      "sentence": "Degenerative spondylolisthesis is a forward slip of one vertebra relative to the vertebra below caused by age-related changes in the intervertebral disks, the facet joints, and the surrounding ligaments.[1] A concomitant narrowed spinal canal (ie, spinal stenosis) often causes leg and back pain, especially in the upright position.[2] Surgical decompression of the stenotic segment is recommended in patients with significant symptoms after nonsurgical treatment.[3] It is still debated whether some patients may benefit from the addition of instrumented fusion (stabilization with screws, rods, and bone grafts to achieve a bony union between the slipped vertebra and the vertebra below) as part of standard treatment.[4] Fusion may reduce the risk of further slippage and the recurrence of stenosis but can also lead to implant failure and constitutes an expansion of the procedure and increased costs.[2],[5] Evidence from other trials supports decompression alone as the recommended treatment.[6],[7],[8],[9] Randomized clinical trials are acknowledged as the ideal source of data for comparing treatment efficacy.",
+      "citation_number": 1,
+      "ref_text": "Newman PH. Degenerative spondylolisthesis. Orthop Clin North Am. 1975;6(1):197-198. doi:10.1016/S0030-5898(20)31211-6 1089933",
+      "doi": "10.1016/S0030-5898(20)31211-6",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "Still, this study design may be limited by a lack of pragmatism.[10] For instance, it discounts surgeons’ expertise regarding choice of treatment, particularly in heterogeneous patient populations, such as individuals with degenerative spondylolisthesis.[11] Thus, one might hypothesize that patients will fare better if surgeons choose the most appropriate treatment for each individual based on clinical characteristics and radiologic variables.[4],[10] In this survey, alongside the Norwegian Degenerative Spondylolisthesis and Spinal Stenosis (NORDSTEN-DS) trial,[12] we investigated whether following the spine surgeons’ recommendations for type of surgery resulted in superior clinical outcomes compared with contradictory treatment allocation.",
+      "citation_number": 12,
+      "ref_text": "ClinicalTrials.gov. The NORDSTEN study—degenerative spondylolisthesis (NORDSTEN/DS). NCT02051374. Accessed November 12, 2024. https://clinicaltrials.gov/ct2/show/NCT02051374",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1186/s12891-018-2384-0",
+        "title": "Decompression alone versus decompression with instrumental fusion the NORDSTEN degenerative spondylolisthesis trial (NORDSTEN-DS); study protocol for a randomized controlled trial",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.41,
+        "confident": false
+      }
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "Degenerative spondylolisthesis is a forward slip of one vertebra relative to the vertebra below caused by age-related changes in the intervertebral disks, the facet joints, and the surrounding ligaments.[1] A concomitant narrowed spinal canal (ie, spinal stenosis) often causes leg and back pain, especially in the upright position.[2] Surgical decompression of the stenotic segment is recommended in patients with significant symptoms after nonsurgical treatment.[3] It is still debated whether some patients may benefit from the addition of instrumented fusion (stabilization with screws, rods, and bone grafts to achieve a bony union between the slipped vertebra and the vertebra below) as part of standard treatment.[4] Fusion may reduce the risk of further slippage and the recurrence of stenosis but can also lead to implant failure and constitutes an expansion of the procedure and increased costs.[2],[5] Evidence from other trials supports decompression alone as the recommended treatment.[6],[7],[8],[9] Randomized clinical trials are acknowledged as the ideal source of data for comparing treatment efficacy.",
+      "citation_number": 1,
+      "ref_text": "Newman PH. Degenerative spondylolisthesis. Orthop Clin North Am. 1975;6(1):197-198. doi:10.1016/S0030-5898(20)31211-6 1089933",
+      "doi": "10.1016/S0030-5898(20)31211-6",
+      "status": "no_abstract_found",
+      "error": ""
+    },
+    {
+      "sentence": "Degenerative spondylolisthesis is a forward slip of one vertebra relative to the vertebra below caused by age-related changes in the intervertebral disks, the facet joints, and the surrounding ligaments.[1] A concomitant narrowed spinal canal (ie, spinal stenosis) often causes leg and back pain, especially in the upright position.[2] Surgical decompression of the stenotic segment is recommended in patients with significant symptoms after nonsurgical treatment.[3] It is still debated whether some patients may benefit from the addition of instrumented fusion (stabilization with screws, rods, and bone grafts to achieve a bony union between the slipped vertebra and the vertebra below) as part of standard treatment.[4] Fusion may reduce the risk of further slippage and the recurrence of stenosis but can also lead to implant failure and constitutes an expansion of the procedure and increased costs.[2],[5] Evidence from other trials supports decompression alone as the recommended treatment.[6],[7],[8],[9] Randomized clinical trials are acknowledged as the ideal source of data for comparing treatment efficacy.",
+      "citation_number": 2,
+      "ref_text": "Katz JN, Zimmerman ZE, Mass H, Makhni MC. Diagnosis and management of lumbar spinal stenosis: a review. JAMA. 2022;327(17):1688-1699. doi:10.1001/jama.2022.5921 35503342",
+      "doi": "10.1001/jama.2022.5921",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Degenerative spondylolisthesis is a forward slip of one vertebra relative to the vertebra below caused by age-related changes in the intervertebral disks, the facet joints, and the surrounding ligaments.[1] A concomitant narrowed spinal canal (ie, spinal stenosis) often causes leg and back pain, especially in the upright position.[2] Surgical decompression of the stenotic segment is recommended in patients with significant symptoms after nonsurgical treatment.[3] It is still debated whether some patients may benefit from the addition of instrumented fusion (stabilization with screws, rods, and bone grafts to achieve a bony union between the slipped vertebra and the vertebra below) as part of standard treatment.[4] Fusion may reduce the risk of further slippage and the recurrence of stenosis but can also lead to implant failure and constitutes an expansion of the procedure and increased costs.[2],[5] Evidence from other trials supports decompression alone as the recommended treatment.[6],[7],[8],[9] Randomized clinical trials are acknowledged as the ideal source of data for comparing treatment efficacy.",
+      "citation_number": 3,
+      "ref_text": "Matz PG, Meagher RJ, Lamer T, . Guideline summary review: an evidence-based clinical guideline for the diagnosis and treatment of degenerative lumbar spondylolisthesis. Spine J. 2016;16(3):439-448. doi:10.1016/j.spinee.2015.11.055 26681351",
+      "doi": "10.1016/j.spinee.2015.11.055",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Degenerative spondylolisthesis is a forward slip of one vertebra relative to the vertebra below caused by age-related changes in the intervertebral disks, the facet joints, and the surrounding ligaments.[1] A concomitant narrowed spinal canal (ie, spinal stenosis) often causes leg and back pain, especially in the upright position.[2] Surgical decompression of the stenotic segment is recommended in patients with significant symptoms after nonsurgical treatment.[3] It is still debated whether some patients may benefit from the addition of instrumented fusion (stabilization with screws, rods, and bone grafts to achieve a bony union between the slipped vertebra and the vertebra below) as part of standard treatment.[4] Fusion may reduce the risk of further slippage and the recurrence of stenosis but can also lead to implant failure and constitutes an expansion of the procedure and increased costs.[2],[5] Evidence from other trials supports decompression alone as the recommended treatment.[6],[7],[8],[9] Randomized clinical trials are acknowledged as the ideal source of data for comparing treatment efficacy.",
+      "citation_number": 4,
+      "ref_text": "Chan AK, Ghogawala Z, Mummaneni PV. Is “decompression vs fusion for spondylolisthesis” the right question? Neurosurgery. 2022;90(2):e54. doi:10.1227/NEU.0000000000001805 34995266",
+      "doi": "10.1227/NEU.0000000000001805",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Degenerative spondylolisthesis is a forward slip of one vertebra relative to the vertebra below caused by age-related changes in the intervertebral disks, the facet joints, and the surrounding ligaments.[1] A concomitant narrowed spinal canal (ie, spinal stenosis) often causes leg and back pain, especially in the upright position.[2] Surgical decompression of the stenotic segment is recommended in patients with significant symptoms after nonsurgical treatment.[3] It is still debated whether some patients may benefit from the addition of instrumented fusion (stabilization with screws, rods, and bone grafts to achieve a bony union between the slipped vertebra and the vertebra below) as part of standard treatment.[4] Fusion may reduce the risk of further slippage and the recurrence of stenosis but can also lead to implant failure and constitutes an expansion of the procedure and increased costs.[2],[5] Evidence from other trials supports decompression alone as the recommended treatment.[6],[7],[8],[9] Randomized clinical trials are acknowledged as the ideal source of data for comparing treatment efficacy.",
+      "citation_number": 5,
+      "ref_text": "Lafuente J, Patino JD, Capo L. Management of low and high grades spondylolisthesis. Adv Tech Stand Neurosurg. 2024;49:51-72. doi:10.1007/978-3-031-42398-7_4 38700680",
+      "doi": "10.1007/978-3-031-42398-7_4",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Degenerative spondylolisthesis is a forward slip of one vertebra relative to the vertebra below caused by age-related changes in the intervertebral disks, the facet joints, and the surrounding ligaments.[1] A concomitant narrowed spinal canal (ie, spinal stenosis) often causes leg and back pain, especially in the upright position.[2] Surgical decompression of the stenotic segment is recommended in patients with significant symptoms after nonsurgical treatment.[3] It is still debated whether some patients may benefit from the addition of instrumented fusion (stabilization with screws, rods, and bone grafts to achieve a bony union between the slipped vertebra and the vertebra below) as part of standard treatment.[4] Fusion may reduce the risk of further slippage and the recurrence of stenosis but can also lead to implant failure and constitutes an expansion of the procedure and increased costs.[2],[5] Evidence from other trials supports decompression alone as the recommended treatment.[6],[7],[8],[9] Randomized clinical trials are acknowledged as the ideal source of data for comparing treatment efficacy.",
+      "citation_number": 6,
+      "ref_text": "Austevoll IM, Hermansen E, Fagerland MW, ; NORDSTEN-DS Investigators. Decompression with or without fusion in degenerative lumbar spondylolisthesis. N Engl J Med. 2021;385(6):526-538. doi:10.1056/NEJMoa2100990 34347953",
+      "doi": "10.1056/NEJMoa2100990",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Degenerative spondylolisthesis is a forward slip of one vertebra relative to the vertebra below caused by age-related changes in the intervertebral disks, the facet joints, and the surrounding ligaments.[1] A concomitant narrowed spinal canal (ie, spinal stenosis) often causes leg and back pain, especially in the upright position.[2] Surgical decompression of the stenotic segment is recommended in patients with significant symptoms after nonsurgical treatment.[3] It is still debated whether some patients may benefit from the addition of instrumented fusion (stabilization with screws, rods, and bone grafts to achieve a bony union between the slipped vertebra and the vertebra below) as part of standard treatment.[4] Fusion may reduce the risk of further slippage and the recurrence of stenosis but can also lead to implant failure and constitutes an expansion of the procedure and increased costs.[2],[5] Evidence from other trials supports decompression alone as the recommended treatment.[6],[7],[8],[9] Randomized clinical trials are acknowledged as the ideal source of data for comparing treatment efficacy.",
+      "citation_number": 7,
+      "ref_text": "Försth P, Ólafsson G, Carlsson T, . A randomized, controlled trial of fusion surgery for lumbar spinal stenosis. N Engl J Med. 2016;374(15):1413-1423. doi:10.1056/NEJMoa1513721 27074066",
+      "doi": "10.1056/NEJMoa1513721",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Degenerative spondylolisthesis is a forward slip of one vertebra relative to the vertebra below caused by age-related changes in the intervertebral disks, the facet joints, and the surrounding ligaments.[1] A concomitant narrowed spinal canal (ie, spinal stenosis) often causes leg and back pain, especially in the upright position.[2] Surgical decompression of the stenotic segment is recommended in patients with significant symptoms after nonsurgical treatment.[3] It is still debated whether some patients may benefit from the addition of instrumented fusion (stabilization with screws, rods, and bone grafts to achieve a bony union between the slipped vertebra and the vertebra below) as part of standard treatment.[4] Fusion may reduce the risk of further slippage and the recurrence of stenosis but can also lead to implant failure and constitutes an expansion of the procedure and increased costs.[2],[5] Evidence from other trials supports decompression alone as the recommended treatment.[6],[7],[8],[9] Randomized clinical trials are acknowledged as the ideal source of data for comparing treatment efficacy.",
+      "citation_number": 8,
+      "ref_text": "Ghogawala Z, Dziura J, Butler WE, . Laminectomy plus fusion versus laminectomy alone for lumbar spondylolisthesis. N Engl J Med. 2016;374(15):1424-1434. doi:10.1056/NEJMoa1508788 27074067",
+      "doi": "10.1056/NEJMoa1508788",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Degenerative spondylolisthesis is a forward slip of one vertebra relative to the vertebra below caused by age-related changes in the intervertebral disks, the facet joints, and the surrounding ligaments.[1] A concomitant narrowed spinal canal (ie, spinal stenosis) often causes leg and back pain, especially in the upright position.[2] Surgical decompression of the stenotic segment is recommended in patients with significant symptoms after nonsurgical treatment.[3] It is still debated whether some patients may benefit from the addition of instrumented fusion (stabilization with screws, rods, and bone grafts to achieve a bony union between the slipped vertebra and the vertebra below) as part of standard treatment.[4] Fusion may reduce the risk of further slippage and the recurrence of stenosis but can also lead to implant failure and constitutes an expansion of the procedure and increased costs.[2],[5] Evidence from other trials supports decompression alone as the recommended treatment.[6],[7],[8],[9] Randomized clinical trials are acknowledged as the ideal source of data for comparing treatment efficacy.",
+      "citation_number": 9,
+      "ref_text": "Inose H, Kato T, Yuasa M, . Comparison of decompression, decompression plus fusion, and decompression plus stabilization for degenerative spondylolisthesis: a prospective, randomized study. Clin Spine Surg. 2018;31(7):E347-E352. doi:10.1097/BSD.0000000000000659 29877872 PMC6072383",
+      "doi": "10.1097/BSD.0000000000000659",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Still, this study design may be limited by a lack of pragmatism.[10] For instance, it discounts surgeons’ expertise regarding choice of treatment, particularly in heterogeneous patient populations, such as individuals with degenerative spondylolisthesis.[11] Thus, one might hypothesize that patients will fare better if surgeons choose the most appropriate treatment for each individual based on clinical characteristics and radiologic variables.[4],[10] In this survey, alongside the Norwegian Degenerative Spondylolisthesis and Spinal Stenosis (NORDSTEN-DS) trial,[12] we investigated whether following the spine surgeons’ recommendations for type of surgery resulted in superior clinical outcomes compared with contradictory treatment allocation.",
+      "citation_number": 4,
+      "ref_text": "Chan AK, Ghogawala Z, Mummaneni PV. Is “decompression vs fusion for spondylolisthesis” the right question? Neurosurgery. 2022;90(2):e54. doi:10.1227/NEU.0000000000001805 34995266",
+      "doi": "10.1227/NEU.0000000000001805",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Still, this study design may be limited by a lack of pragmatism.[10] For instance, it discounts surgeons’ expertise regarding choice of treatment, particularly in heterogeneous patient populations, such as individuals with degenerative spondylolisthesis.[11] Thus, one might hypothesize that patients will fare better if surgeons choose the most appropriate treatment for each individual based on clinical characteristics and radiologic variables.[4],[10] In this survey, alongside the Norwegian Degenerative Spondylolisthesis and Spinal Stenosis (NORDSTEN-DS) trial,[12] we investigated whether following the spine surgeons’ recommendations for type of surgery resulted in superior clinical outcomes compared with contradictory treatment allocation.",
+      "citation_number": 10,
+      "ref_text": "Frieden TR. Evidence for health decision making—beyond randomized, controlled trials. N Engl J Med. 2017;377(5):465-475. doi:10.1056/NEJMra1614394 28767357",
+      "doi": "10.1056/NEJMra1614394",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Still, this study design may be limited by a lack of pragmatism.[10] For instance, it discounts surgeons’ expertise regarding choice of treatment, particularly in heterogeneous patient populations, such as individuals with degenerative spondylolisthesis.[11] Thus, one might hypothesize that patients will fare better if surgeons choose the most appropriate treatment for each individual based on clinical characteristics and radiologic variables.[4],[10] In this survey, alongside the Norwegian Degenerative Spondylolisthesis and Spinal Stenosis (NORDSTEN-DS) trial,[12] we investigated whether following the spine surgeons’ recommendations for type of surgery resulted in superior clinical outcomes compared with contradictory treatment allocation.",
+      "citation_number": 11,
+      "ref_text": "Resnick DK, Schmidt BT, Momin E, Hetzel SJ, Ghogawala Z. Interobserver variance and patient heterogeneity influencing the treatment of grade I spondylolisthesis. Spine J. 2020;20(12):1934-1939. doi:10.1016/j.spinee.2020.06.001 32534135",
+      "doi": "10.1016/j.spinee.2020.06.001",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Still, this study design may be limited by a lack of pragmatism.[10] For instance, it discounts surgeons’ expertise regarding choice of treatment, particularly in heterogeneous patient populations, such as individuals with degenerative spondylolisthesis.[11] Thus, one might hypothesize that patients will fare better if surgeons choose the most appropriate treatment for each individual based on clinical characteristics and radiologic variables.[4],[10] In this survey, alongside the Norwegian Degenerative Spondylolisthesis and Spinal Stenosis (NORDSTEN-DS) trial,[12] we investigated whether following the spine surgeons’ recommendations for type of surgery resulted in superior clinical outcomes compared with contradictory treatment allocation.",
+      "citation_number": 12,
+      "ref_text": "ClinicalTrials.gov. The NORDSTEN study—degenerative spondylolisthesis (NORDSTEN/DS). NCT02051374. Accessed November 12, 2024. https://clinicaltrials.gov/ct2/show/NCT02051374",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1186/s12891-018-2384-0",
+        "title": "Decompression alone versus decompression with instrumental fusion the NORDSTEN degenerative spondylolisthesis trial (NORDSTEN-DS); study protocol for a randomized controlled trial",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.41,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "This cohort study is a secondary analysis of surgeons’ recommendations for optimal treatment performed alongside the NORDSTEN-DS trial, which is an investigator-initiated, multicenter, randomized, open-label, parallel group, noninferiority trial comparing patients with degenerative spondylolisthesis surgically treated with decompression alone or decompression with fusion.[6] The Regional Committee for Medical and Health Research Ethics of Central Norway approved the trial.",
+      "citation_number": 6,
+      "ref_text": "Austevoll IM, Hermansen E, Fagerland MW, ; NORDSTEN-DS Investigators. Decompression with or without fusion in degenerative lumbar spondylolisthesis. N Engl J Med. 2021;385(6):526-538. doi:10.1056/NEJMoa2100990 34347953",
+      "doi": "10.1056/NEJMoa2100990",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The trial protocol and the 2-year results of the primary analysis have been previously published.[6],[13] We defined the objective of this cohort study before the trial began and followed the statistical plan from the efficacy trial for the primary and secondary outcomes but did not include the plan in the published trial protocol.",
+      "citation_number": 6,
+      "ref_text": "Austevoll IM, Hermansen E, Fagerland MW, ; NORDSTEN-DS Investigators. Decompression with or without fusion in degenerative lumbar spondylolisthesis. N Engl J Med. 2021;385(6):526-538. doi:10.1056/NEJMoa2100990 34347953",
+      "doi": "10.1056/NEJMoa2100990",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The trial protocol and the 2-year results of the primary analysis have been previously published.[6],[13] We defined the objective of this cohort study before the trial began and followed the statistical plan from the efficacy trial for the primary and secondary outcomes but did not include the plan in the published trial protocol.",
+      "citation_number": 13,
+      "ref_text": "Austevoll IM, Hermansen E, Fagerland M, . Decompression alone versus decompression with instrumental fusion the NORDSTEN degenerative spondylolisthesis trial (NORDSTEN-DS): study protocol for a randomized controlled trial. BMC Musculoskelet Disord. 2019;20(1):7. doi:10.1186/s12891-018-2384-0 30611229 PMC6320633",
+      "doi": "10.1186/s12891-018-2384-0",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This study followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) reporting guideline.[14] For the primary outcome of the trial, the sample size (232 patients) was based on an assumed noninferiority of decompression alone with a noninferiority margin of 15%.[6],[13] For this secondary analysis, sample size was determined by the completeness of the data for the survey question, constituting 222 patient-surgeon pairs.",
+      "citation_number": 6,
+      "ref_text": "Austevoll IM, Hermansen E, Fagerland MW, ; NORDSTEN-DS Investigators. Decompression with or without fusion in degenerative lumbar spondylolisthesis. N Engl J Med. 2021;385(6):526-538. doi:10.1056/NEJMoa2100990 34347953",
+      "doi": "10.1056/NEJMoa2100990",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This study followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) reporting guideline.[14] For the primary outcome of the trial, the sample size (232 patients) was based on an assumed noninferiority of decompression alone with a noninferiority margin of 15%.[6],[13] For this secondary analysis, sample size was determined by the completeness of the data for the survey question, constituting 222 patient-surgeon pairs.",
+      "citation_number": 13,
+      "ref_text": "Austevoll IM, Hermansen E, Fagerland M, . Decompression alone versus decompression with instrumental fusion the NORDSTEN degenerative spondylolisthesis trial (NORDSTEN-DS): study protocol for a randomized controlled trial. BMC Musculoskelet Disord. 2019;20(1):7. doi:10.1186/s12891-018-2384-0 30611229 PMC6320633",
+      "doi": "10.1186/s12891-018-2384-0",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "This study followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) reporting guideline.[14] For the primary outcome of the trial, the sample size (232 patients) was based on an assumed noninferiority of decompression alone with a noninferiority margin of 15%.[6],[13] For this secondary analysis, sample size was determined by the completeness of the data for the survey question, constituting 222 patient-surgeon pairs.",
+      "citation_number": 14,
+      "ref_text": "von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP; STROBE Initiative. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. Lancet. 2007;370(9596):1453-1457. doi:10.1016/S0140-6736(07)61602-X 18064739",
+      "doi": "10.1016/S0140-6736(07)61602-X",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Patients were not included if they had a deformed nerve root in the intervertebral foramen on MRI (foraminal stenosis grade 3 according to Lee classification),[15] were previously operated on at the index level, had a former fracture or fusion surgery in the thoracolumbar region, had an isthmic defect in the pars interarticularis, or had spondylolisthesis in more than 1 level.",
+      "citation_number": 15,
+      "ref_text": "Lee S, Lee JW, Yeom JS, . A practical MRI grading system for lumbar foraminal stenosis. AJR Am J Roentgenol. 2010;194(4):1095-1098. doi:10.2214/AJR.09.2772 20308517",
+      "doi": "10.2214/AJR.09.2772",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We used the same patient-reported outcomes as the primary analysis,[6] all translated and validated for the Norwegian population.[16],[17],[18] The outcomes were predefined in a statistical analysis plan, published before database lock and unblinding.",
+      "citation_number": 6,
+      "ref_text": "Austevoll IM, Hermansen E, Fagerland MW, ; NORDSTEN-DS Investigators. Decompression with or without fusion in degenerative lumbar spondylolisthesis. N Engl J Med. 2021;385(6):526-538. doi:10.1056/NEJMoa2100990 34347953",
+      "doi": "10.1056/NEJMoa2100990",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We used the same patient-reported outcomes as the primary analysis,[6] all translated and validated for the Norwegian population.[16],[17],[18] The outcomes were predefined in a statistical analysis plan, published before database lock and unblinding.",
+      "citation_number": 16,
+      "ref_text": "Grotle M, Brox JI, Vøllestad NK. Cross-cultural adaptation of the Norwegian versions of the Roland-Morris Disability Questionnaire and the Oswestry Disability Index. J Rehabil Med. 2003;35(5):241-247. doi:10.1080/1650197030609414582557",
+      "doi": "10.1080/16501970306094",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We used the same patient-reported outcomes as the primary analysis,[6] all translated and validated for the Norwegian population.[16],[17],[18] The outcomes were predefined in a statistical analysis plan, published before database lock and unblinding.",
+      "citation_number": 17,
+      "ref_text": "Solberg TK, Olsen JA, Ingebrigtsen T, Hofoss D, Nygaard OP. Health-related quality of life assessment by the EuroQol-5D can provide cost-utility data in the field of low-back surgery. Eur Spine J. 2005;14(10):1000-1007. doi:10.1007/s00586-005-0898-2 15843969",
+      "doi": "10.1007/s00586-005-0898-2",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We used the same patient-reported outcomes as the primary analysis,[6] all translated and validated for the Norwegian population.[16],[17],[18] The outcomes were predefined in a statistical analysis plan, published before database lock and unblinding.",
+      "citation_number": 18,
+      "ref_text": "Thornes E, Grotle M. Cross-cultural adaptation of the Norwegian version of the spinal stenosis measure. Eur Spine J. 2008;17(3):456-462. doi:10.1007/s00586-007-0576-7 18193302 PMC2270389",
+      "doi": "10.1007/s00586-007-0576-7",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The primary outcome was a reduction of at least 30% in the Oswestry Disability Index (ODI) score, version 2.0, from baseline to 2-year follow-up.[19],[20] The ODI comprises 10 items, with a total score ranging from 0 (no impairment) to 100 (maximum impairment).",
+      "citation_number": 19,
+      "ref_text": "Austevoll IM, Gjestad R, Grotle M, . Follow-up score, change score or percentage change score for determining clinical important outcome following surgery? an observational study from the Norwegian registry for Spine surgery evaluating patient reported outcome measures in lumbar spinal stenosis and lumbar degenerative spondylolisthesis. BMC Musculoskelet Disord. 2019;20(1):31. doi:10.1186/s12891-018-2386-y 30658613 PMC6339296",
+      "doi": "10.1186/s12891-018-2386-y",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The primary outcome was a reduction of at least 30% in the Oswestry Disability Index (ODI) score, version 2.0, from baseline to 2-year follow-up.[19],[20] The ODI comprises 10 items, with a total score ranging from 0 (no impairment) to 100 (maximum impairment).",
+      "citation_number": 20,
+      "ref_text": "Fairbank JC, Pynsent PB. The Oswestry Disability Index. Spine (Phila Pa 1976). 2000;25(22):2940-2952. doi:10.1097/00007632-200011150-00017 11074683",
+      "doi": "10.1097/00007632-200011150-00017",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Secondary outcomes were mean change from baseline to 2 years of follow-up for ODI scores, the Zürich Claudication Questionnaire responses,[21] the numeric rating scale scores for leg pain and back pain,[22] and the EuroQol 5-Dimension[23] score.",
+      "citation_number": 21,
+      "ref_text": "Tuli SK, Yerby SA, Katz JN. Methodological approaches to developing criteria for improvement in lumbar spinal stenosis surgery. Spine (Phila Pa 1976). 2006;31(11):1276-1280. doi:10.1097/01.brs.0000217615.20018.6c 16688044",
+      "doi": "10.1097/01.brs.0000217615.20018.6c",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Secondary outcomes were mean change from baseline to 2 years of follow-up for ODI scores, the Zürich Claudication Questionnaire responses,[21] the numeric rating scale scores for leg pain and back pain,[22] and the EuroQol 5-Dimension[23] score.",
+      "citation_number": 22,
+      "ref_text": "Hjermstad MJ, Fayers PM, Haugen DF, ; European Palliative Care Research Collaborative (EPCRC). Studies comparing Numerical Rating Scales, Verbal Rating Scales, and Visual Analogue Scales for assessment of pain intensity in adults: a systematic literature review. J Pain Symptom Manage. 2011;41(6):1073-1093. doi:10.1016/j.jpainsymman.2010.08.016 21621130",
+      "doi": "10.1016/j.jpainsymman.2010.08.016",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Secondary outcomes were mean change from baseline to 2 years of follow-up for ODI scores, the Zürich Claudication Questionnaire responses,[21] the numeric rating scale scores for leg pain and back pain,[22] and the EuroQol 5-Dimension[23] score.",
+      "citation_number": 23,
+      "ref_text": "EuroQol Group. EuroQol–a new facility for the measurement of health-related quality of life. Health Policy. 1990;16(3):199-208. doi:10.1016/0168-8510(90)90421-9 10109801",
+      "doi": "10.1016/0168-8510(90)90421-9",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The numeric rating scale for leg pain and back pain assesses pain during the past week on an 11-point Likert scale (range of 0 to 10, indicating lowest to highest pain).[22] The EuroQol 5-Dimension 3-Level questionnaire[22] assesses health-related quality of life on 5 dimensions (mobility, self-care, usual activities, pain and discomfort, and anxiety and depression).",
+      "citation_number": 22,
+      "ref_text": "Hjermstad MJ, Fayers PM, Haugen DF, ; European Palliative Care Research Collaborative (EPCRC). Studies comparing Numerical Rating Scales, Verbal Rating Scales, and Visual Analogue Scales for assessment of pain intensity in adults: a systematic literature review. J Pain Symptom Manage. 2011;41(6):1073-1093. doi:10.1016/j.jpainsymman.2010.08.016 21621130",
+      "doi": "10.1016/j.jpainsymman.2010.08.016",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "The primary outcome (ODI improvement ≥30%) and the sensitivity analysis were the same as in the analyses of treatment efficacy.[6] The primary research hypothesis was that the clinical results during the 2-year follow-up were similar between the agreement and disagreement groups.",
+      "citation_number": 6,
+      "ref_text": "Austevoll IM, Hermansen E, Fagerland MW, ; NORDSTEN-DS Investigators. Decompression with or without fusion in degenerative lumbar spondylolisthesis. N Engl J Med. 2021;385(6):526-538. doi:10.1056/NEJMoa2100990 34347953",
+      "doi": "10.1056/NEJMoa2100990",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "On the basis of suggestions from current literature, we included the following variables in the model: age, sex, smoking habits, body mass index, predominant back pain, the degree of spondylolisthesis, the presence of radiologic dynamic instability (ie, increase in slippage or increased segmental angulation on dynamic radiographs), disk height, facet joint orientation, and the presence of facet joint fluid.[24],[25] We analyzed binary outcomes using Newcombe hybrid score CIs.[26] For the repeated-measures continuous patient-reported outcome measure scores, we used linear mixed models to estimate mean values with 95% CIs at baseline, 3 months, and 2 years postoperatively; the change from baseline to 2 years; and the between-group difference (with 95% CI) in change from baseline to 2 years.",
+      "citation_number": 24,
+      "ref_text": "Caelers IJMH, Mannion AF, Haschtmann D, . Factors associated with an increased risk of developing postoperative symptomatic lumbar spondylolisthesis after decompression surgery: an explorative two-centre international cohort study. Eur Spine J. 2023;32(2):462-474. doi:10.1007/s00586-022-07403-8 36308544",
+      "doi": "10.1007/s00586-022-07403-8",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "On the basis of suggestions from current literature, we included the following variables in the model: age, sex, smoking habits, body mass index, predominant back pain, the degree of spondylolisthesis, the presence of radiologic dynamic instability (ie, increase in slippage or increased segmental angulation on dynamic radiographs), disk height, facet joint orientation, and the presence of facet joint fluid.[24],[25] We analyzed binary outcomes using Newcombe hybrid score CIs.[26] For the repeated-measures continuous patient-reported outcome measure scores, we used linear mixed models to estimate mean values with 95% CIs at baseline, 3 months, and 2 years postoperatively; the change from baseline to 2 years; and the between-group difference (with 95% CI) in change from baseline to 2 years.",
+      "citation_number": 25,
+      "ref_text": "Morse KW, Steinhaus M, Bovonratwet P, . Current treatment and decision-making factors leading to fusion vs decompression for one-level degenerative spondylolisthesis: survey results from members of the Lumbar Spine Research Society and Society of Minimally Invasive Spine Surgery. Spine J. 2022;22(11):1778-1787. doi:10.1016/j.spinee.2022.07.095 35878759 PMC13170704",
+      "doi": "10.1016/j.spinee.2022.07.095",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "On the basis of suggestions from current literature, we included the following variables in the model: age, sex, smoking habits, body mass index, predominant back pain, the degree of spondylolisthesis, the presence of radiologic dynamic instability (ie, increase in slippage or increased segmental angulation on dynamic radiographs), disk height, facet joint orientation, and the presence of facet joint fluid.[24],[25] We analyzed binary outcomes using Newcombe hybrid score CIs.[26] For the repeated-measures continuous patient-reported outcome measure scores, we used linear mixed models to estimate mean values with 95% CIs at baseline, 3 months, and 2 years postoperatively; the change from baseline to 2 years; and the between-group difference (with 95% CI) in change from baseline to 2 years.",
+      "citation_number": 26,
+      "ref_text": "Fagerland MW, Lydersen S, Laake P. Recommended confidence intervals for two independent binomial proportions. Stat Methods Med Res. 2015;24(2):224-254. doi:10.1177/0962280211415469 21996567",
+      "doi": "10.1177/0962280211415469",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Previous studies have shown that spine surgeons consider a variety of factors in clinical decision-making (eg, sex, age, comorbidity, symptom patterns, and clinical and radiologic findings).[27],[28],[29],[30] It has been argued that randomized clinical trials may disguise subgroup effects and prohibit individualized treatment.",
+      "citation_number": 27,
+      "ref_text": "Glennie RA, Bailey CS, Abraham E, . Variation in surgical treatment of degenerative spondylolisthesis in Canada: surgeon assessment of stability and impact on treatment. Eur Spine J. 2021;30(12):3709-3719. doi:10.1007/s00586-021-06928-8 34327542",
+      "doi": "10.1007/s00586-021-06928-8",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Previous studies have shown that spine surgeons consider a variety of factors in clinical decision-making (eg, sex, age, comorbidity, symptom patterns, and clinical and radiologic findings).[27],[28],[29],[30] It has been argued that randomized clinical trials may disguise subgroup effects and prohibit individualized treatment.",
+      "citation_number": 28,
+      "ref_text": "Gonzalez GA, Porto G, Hines K, . Clinical outcomes with and without adherence to evidence-based medicine guidelines for lumbar degenerative spondylolisthesis fusion patients. J Clin Med. 2023;12(3):1200. doi:10.3390/jcm12031200 36769851 PMC9917667",
+      "doi": "10.3390/jcm12031200",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Previous studies have shown that spine surgeons consider a variety of factors in clinical decision-making (eg, sex, age, comorbidity, symptom patterns, and clinical and radiologic findings).[27],[28],[29],[30] It has been argued that randomized clinical trials may disguise subgroup effects and prohibit individualized treatment.",
+      "citation_number": 29,
+      "ref_text": "Schneider N, Fisher C, Glennie A, . Lumbar degenerative spondylolisthesis: factors associated with the decision to fuse. Spine J. 2021;21(5):821-828. doi:10.1016/j.spinee.2020.11.010 33248271",
+      "doi": "10.1016/j.spinee.2020.11.010",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Previous studies have shown that spine surgeons consider a variety of factors in clinical decision-making (eg, sex, age, comorbidity, symptom patterns, and clinical and radiologic findings).[27],[28],[29],[30] It has been argued that randomized clinical trials may disguise subgroup effects and prohibit individualized treatment.",
+      "citation_number": 30,
+      "ref_text": "Spina N, Schoutens C, Martin BI, Brodke DS, Lawrence B, Spiker WR. Defining instability in degenerative spondylolisthesis: surgeon views. Clin Spine Surg. 2019;32(10):E434-E439. doi:10.1097/BSD.0000000000000874 31490244 PMC6889058",
+      "doi": "10.1097/BSD.0000000000000874",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Although a randomized clinical trial reveals no differences in efficacy between 2 treatment groups, the results could differ between subgroups determined by whether patients were treated according to participating surgeons’ recommendations.[10] In the NORDSTEN-DS trial, there were no significant differences in 2-year clinical outcomes between decompression alone and decompression with fusion.[6] However, the results of the agreement group could have differed from those of the disagreement group.",
+      "citation_number": 6,
+      "ref_text": "Austevoll IM, Hermansen E, Fagerland MW, ; NORDSTEN-DS Investigators. Decompression with or without fusion in degenerative lumbar spondylolisthesis. N Engl J Med. 2021;385(6):526-538. doi:10.1056/NEJMoa2100990 34347953",
+      "doi": "10.1056/NEJMoa2100990",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Although a randomized clinical trial reveals no differences in efficacy between 2 treatment groups, the results could differ between subgroups determined by whether patients were treated according to participating surgeons’ recommendations.[10] In the NORDSTEN-DS trial, there were no significant differences in 2-year clinical outcomes between decompression alone and decompression with fusion.[6] However, the results of the agreement group could have differed from those of the disagreement group.",
+      "citation_number": 10,
+      "ref_text": "Frieden TR. Evidence for health decision making—beyond randomized, controlled trials. N Engl J Med. 2017;377(5):465-475. doi:10.1056/NEJMra1614394 28767357",
+      "doi": "10.1056/NEJMra1614394",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 6,
+      "ref_text": "Austevoll IM, Hermansen E, Fagerland MW, ; NORDSTEN-DS Investigators. Decompression with or without fusion in degenerative lumbar spondylolisthesis. N Engl J Med. 2021;385(6):526-538. doi:10.1056/NEJMoa2100990 34347953",
+      "doi": "10.1056/NEJMoa2100990",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 7,
+      "ref_text": "Försth P, Ólafsson G, Carlsson T, . A randomized, controlled trial of fusion surgery for lumbar spinal stenosis. N Engl J Med. 2016;374(15):1413-1423. doi:10.1056/NEJMoa1513721 27074066",
+      "doi": "10.1056/NEJMoa1513721",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 8,
+      "ref_text": "Ghogawala Z, Dziura J, Butler WE, . Laminectomy plus fusion versus laminectomy alone for lumbar spondylolisthesis. N Engl J Med. 2016;374(15):1424-1434. doi:10.1056/NEJMoa1508788 27074067",
+      "doi": "10.1056/NEJMoa1508788",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 9,
+      "ref_text": "Inose H, Kato T, Yuasa M, . Comparison of decompression, decompression plus fusion, and decompression plus stabilization for degenerative spondylolisthesis: a prospective, randomized study. Clin Spine Surg. 2018;31(7):E347-E352. doi:10.1097/BSD.0000000000000659 29877872 PMC6072383",
+      "doi": "10.1097/BSD.0000000000000659",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 25,
+      "ref_text": "Morse KW, Steinhaus M, Bovonratwet P, . Current treatment and decision-making factors leading to fusion vs decompression for one-level degenerative spondylolisthesis: survey results from members of the Lumbar Spine Research Society and Society of Minimally Invasive Spine Surgery. Spine J. 2022;22(11):1778-1787. doi:10.1016/j.spinee.2022.07.095 35878759 PMC13170704",
+      "doi": "10.1016/j.spinee.2022.07.095",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 30,
+      "ref_text": "Spina N, Schoutens C, Martin BI, Brodke DS, Lawrence B, Spiker WR. Defining instability in degenerative spondylolisthesis: surgeon views. Clin Spine Surg. 2019;32(10):E434-E439. doi:10.1097/BSD.0000000000000874 31490244 PMC6889058",
+      "doi": "10.1097/BSD.0000000000000874",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 31,
+      "ref_text": "Austevoll IM, Gjestad R, Solberg T, . Comparative effectiveness of microdecompression alone vs decompression plus instrumented fusion in lumbar degenerative spondylolisthesis. JAMA Netw Open. 2020;3(9):e2015015. doi:10.1001/jamanetworkopen.2020.15015 32910195 PMC7489859",
+      "doi": "10.1001/jamanetworkopen.2020.15015",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 32,
+      "ref_text": "Lønne G, Fritzell P, Hägg O, . Lumbar spinal stenosis: comparison of surgical practice variation and clinical outcome in three national spine registries. Spine J. 2019;19(1):41-49. doi:10.1016/j.spinee.2018.05.028 29792994",
+      "doi": "10.1016/j.spinee.2018.05.028",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 33,
+      "ref_text": "Martin BI, Mirza SK, Spina N, Spiker WR, Lawrence B, Brodke DS. Trends in lumbar fusion procedure rates and associated hospital costs for degenerative spinal diseases in the United States, 2004 to 2015. Spine (Phila Pa 1976). 2019;44(5):369-376. doi:10.1097/BRS.0000000000002822 30074971",
+      "doi": "10.1097/BRS.0000000000002822",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 34,
+      "ref_text": "Gadjradj PS, Basilious M, Goldberg JL, . Decompression alone versus decompression with fusion in patients with lumbar spinal stenosis with degenerative spondylolisthesis: a systematic review and meta-analysis. Eur Spine J. 2023;32(3):1054-1067. doi:10.1007/s00586-022-07507-1 36609887",
+      "doi": "10.1007/s00586-022-07507-1",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 35,
+      "ref_text": "Kaiser R, Kantorová L, Langaufová A, . Decompression alone versus decompression with instrumented fusion in the treatment of lumbar degenerative spondylolisthesis: a systematic review and meta-analysis of randomised trials. J Neurol Neurosurg Psychiatry. 2023;94(8):657-666. doi:10.1136/jnnp-2022-330158 36849239 PMC10359551",
+      "doi": "10.1136/jnnp-2022-330158",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 36,
+      "ref_text": "Wei FL, Zhou CP, Gao QY, . Decompression alone or decompression and fusion in degenerative lumbar spondylolisthesis. EClinicalMedicine. 2022;51:101559. doi:10.1016/j.eclinm.2022.101559 35865739 PMC9294267",
+      "doi": "10.1016/j.eclinm.2022.101559",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Similar to the current survey of the surgeons’ preferences, some surveys report that the degree of the slip and dynamic instability are considered reasons for adding fusion to decompression.[25],[30] Our analysis and previous studies show that Norwegian surgeons’ preferences were distributed equally between decompression alone and decompression with fusion.[31],[32] This result contrasts with reports from other countries.[32],[33] Despite some randomized clinical trials[6],[7],[8],[9] and meta-analyses[34],[35],[36] concluding that fusion surgery seems to be superfluous for most patients operated on for degenerative spondylolisthesis, a shift in surgical practice has yet to occur.[37] One reason may be that surgeons tend to maintain treatment traditions they are familiar with and rely on their own expertise to evaluate each patient.",
+      "citation_number": 37,
+      "ref_text": "Sastry RA, Chen JS, Shao B, . Patterns in decompression and fusion procedures for patients with lumbar stenosis after major clinical trial results, 2016 to 2019. JAMA Netw Open. 2023;6(7):e2326357. doi:10.1001/jamanetworkopen.2023.26357 37523184 PMC10391306",
+      "doi": "10.1001/jamanetworkopen.2023.26357",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In the absence of known variables able to modify treatment effect,[38] surgeons should rely on the evidence that adding fusion to decompression is unnecessary in most patients with degenerative spondylolisthesis.",
+      "citation_number": 38,
+      "ref_text": "Hellum C, Rekeland F, Småstuen MC, . Surgery in degenerative spondylolisthesis: does fusion improve outcome in subgroups? a secondary analysis from a randomized trial (NORDSTEN trial). Spine J. 2023;23(11):1613-1622. doi:10.1016/j.spinee.2023.06.386 37355044",
+      "doi": "10.1016/j.spinee.2023.06.386",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Although evidence regarding treatment effect modifiers is sparse,[38] we cannot rule out that some patients may benefit from additional fusion.",
+      "citation_number": 38,
+      "ref_text": "Hellum C, Rekeland F, Småstuen MC, . Surgery in degenerative spondylolisthesis: does fusion improve outcome in subgroups? a secondary analysis from a randomized trial (NORDSTEN trial). Spine J. 2023;23(11):1613-1622. doi:10.1016/j.spinee.2023.06.386 37355044",
+      "doi": "10.1016/j.spinee.2023.06.386",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    }
+  ]
+}

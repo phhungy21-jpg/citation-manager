@@ -1,0 +1,818 @@
+[
+  {
+    "institution": [
+      {
+        "name": "L&M Policy Research LLC with partners OM1 and IQVIA"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          2
+        ]
+      ],
+      "date-time": "2026-06-02T13:07:05Z",
+      "timestamp": 1780405625169,
+      "version": "3.54.1"
+    },
+    "reference-count": 0,
+    "publisher": "Agency for Healthcare Research and Quality (AHRQ)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.23970/ahrqepcregistries3addendum2",
+    "type": "report",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          10
+        ]
+      ],
+      "date-time": "2019-12-10T15:48:45Z",
+      "timestamp": 1575992925000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 35,
+    "title": [
+      "Tools and Technologies for Registry Interoperability, 2nd addendum of Registries for Evaluating Patient Outcomes, A User's Guide, 3rd ed"
+    ],
+    "prefix": "10.23970",
+    "member": "10057",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          4
+        ]
+      ]
+    },
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          10
+        ]
+      ],
+      "date-time": "2019-12-10T15:48:47Z",
+      "timestamp": 1575992927000
+    },
+    "score": 121.90888,
+    "resource": {
+      "primary": {
+        "URL": "https://effectivehealthcare.ahrq.gov/products/registries-guide-3rd-edition-2nd-addendum/research"
+      }
+    },
+    "editor": [
+      {
+        "given": "Richard E.",
+        "family": "Gliklich",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      },
+      {
+        "given": "Michelle B.",
+        "family": "Leavy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      },
+      {
+        "given": "Nancy A.",
+        "family": "Dreyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.23970/ahrqepcregistries3addendum2",
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "L&M Policy Research, LLC, with partners OM1 and QuintilesIMS"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          4
+        ]
+      ],
+      "date-time": "2026-06-04T06:02:30Z",
+      "timestamp": 1780552950215,
+      "version": "3.54.1"
+    },
+    "reference-count": 0,
+    "publisher": "Agency for Healthcare Research and Quality (AHRQ)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.23970/ahrqregistriesebook",
+    "type": "report",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2018-01-22T16:22:20Z",
+      "timestamp": 1516638140000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 22,
+    "title": [
+      "21st Century Patient Registries, Ebook Addendum to Registries for Evaluating Patient Outcomes: A User's Guide, 3rd Edition"
+    ],
+    "prefix": "10.23970",
+    "author": [
+      {
+        "given": "Richard E.",
+        "family": "Gliklich",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nancy A.",
+        "family": "Dreyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michelle B.",
+        "family": "Leavy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer B.",
+        "family": "Christian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "10057",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2018-01-22T16:22:21Z",
+      "timestamp": 1516638141000
+    },
+    "score": 98.70161,
+    "resource": {
+      "primary": {
+        "URL": "https://effectivehealthcare.ahrq.gov/topics/registries-guide-4th-edition/white-paper-2016-4"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.23970/ahrqregistriesebook",
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          9
+        ]
+      ],
+      "date-time": "2025-04-09T06:43:45Z",
+      "timestamp": 1744181025996
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2013-05-01T00:00:00Z",
+          "timestamp": 1367366400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2014-05-01T00:00:00Z",
+          "timestamp": 1398902400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 365,
+        "URL": "https://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Value in Health"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jval.2013.03.1359",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          3
+        ]
+      ],
+      "date-time": "2013-05-03T09:37:38Z",
+      "timestamp": 1367573858000
+    },
+    "page": "A265",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Registry Of Patient Registries (ROPR): Purpose, Design And Early Experience"
+    ],
+    "prefix": "10.1016",
+    "volume": "16",
+    "author": [
+      {
+        "given": "R.E.",
+        "family": "Gliklich",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Levy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.M.",
+        "family": "Campion",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.B.",
+        "family": "Leavy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Karl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "E.",
+        "family": "Berliner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "T.",
+        "family": "Taylor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "W.",
+        "family": "Hossfeld",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "L.L.",
+        "family": "Khurana",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Thompson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Value in Health"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1098301513014307?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1098301513014307?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          16
+        ]
+      ],
+      "date-time": "2018-10-16T07:01:19Z",
+      "timestamp": 1539673279000
+    },
+    "score": 54.227375,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1098301513014307"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1098301513014307"
+    ],
+    "URL": "https://doi.org/10.1016/j.jval.2013.03.1359",
+    "ISSN": [
+      "1098-3015"
+    ],
+    "issn-type": [
+      {
+        "value": "1098-3015",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          8
+        ]
+      ],
+      "date-time": "2025-12-08T22:25:13Z",
+      "timestamp": 1765232713601,
+      "version": "3.40.5"
+    },
+    "reference-count": 13,
+    "publisher": "Springer Science and Business Media LLC",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              3,
+              27
+            ]
+          ],
+          "date-time": "2019-03-27T00:00:00Z",
+          "timestamp": 1553644800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Drug Inf J"
+    ],
+    "DOI": "10.1177/2168479019837520",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          28
+        ]
+      ],
+      "date-time": "2019-03-28T01:05:08Z",
+      "timestamp": 1553735108000
+    },
+    "page": "216847901983752",
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Assessing Real-World Data Quality: The Application of Patient Registry Quality Criteria to Real-World Data and Real-World Evidence"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Richard E.",
+        "family": "Gliklich",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "OM1, Inc, Boston, MA, USA"
+          },
+          {
+            "name": "Harvard Medical School, Boston, MA, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1927-7248",
+        "authenticated-orcid": false,
+        "given": "Michelle B.",
+        "family": "Leavy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "OM1, Inc, Boston, MA, USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "volume-title": "Real-World Evidence Generation and Evaluation of Therapeutics: Proceedings of a Workshop",
+        "year": "2017",
+        "key": "bibr3-2168479019837520"
+      },
+      {
+        "key": "bibr6-2168479019837520",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrd.2017.25"
+      },
+      {
+        "key": "bibr7-2168479019837520",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMsb1609216"
+      },
+      {
+        "key": "bibr8-2168479019837520",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpt.1086"
+      },
+      {
+        "key": "bibr9-2168479019837520",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2017.9991"
+      },
+      {
+        "issue": "6",
+        "key": "bibr10-2168479019837520",
+        "first-page": "467",
+        "volume": "16",
+        "author": "Dreyer NA",
+        "year": "2010",
+        "journal-title": "Am J Manag Care"
+      },
+      {
+        "key": "bibr11-2168479019837520",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1524-4733.2003.00242.x"
+      },
+      {
+        "key": "bibr13-2168479019837520",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pds.4297"
+      },
+      {
+        "key": "bibr15-2168479019837520",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0125620"
+      },
+      {
+        "key": "bibr16-2168479019837520",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijsu.2014.07.013"
+      },
+      {
+        "key": "bibr17-2168479019837520",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pds.1471"
+      },
+      {
+        "key": "bibr18-2168479019837520",
+        "volume-title": "Registries for Evaluating Patient Outcomes: A User’s Guide",
+        "author": "Gliklich R",
+        "year": "2014",
+        "edition": "3"
+      },
+      {
+        "key": "bibr32-2168479019837520",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/cpt.946"
+      }
+    ],
+    "container-title": [
+      "Therapeutic Innovation &amp; Regulatory Science"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://journals.sagepub.com/doi/pdf/10.1177/2168479019837520",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://journals.sagepub.com/doi/full-xml/10.1177/2168479019837520",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://journals.sagepub.com/doi/pdf/10.1177/2168479019837520",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          2
+        ]
+      ],
+      "date-time": "2020-01-02T14:04:02Z",
+      "timestamp": 1577973842000
+    },
+    "score": 49.953957,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.sagepub.com/doi/10.1177/2168479019837520"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          27
+        ]
+      ]
+    },
+    "references-count": 13,
+    "alternative-id": [
+      "10.1177/2168479019837520"
+    ],
+    "URL": "https://doi.org/10.1177/2168479019837520",
+    "ISSN": [
+      "2168-4790",
+      "2168-4804"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "2168-4790"
+      },
+      {
+        "type": "electronic",
+        "value": "2168-4804"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          27
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,805 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          7
+        ]
+      ],
+      "date-time": "2026-05-07T16:07:30Z",
+      "timestamp": 1778170050710,
+      "version": "3.51.4"
+    },
+    "reference-count": 18,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "6 Part 2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1998,
+              12,
+              1
+            ]
+          ],
+          "date-time": "1998-12-01T00:00:00Z",
+          "timestamp": 912470400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0022-5347(01)62202-x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2006-01-17T21:55:41Z",
+      "timestamp": 1137534941000
+    },
+    "page": "2418-2424",
+    "source": "Crossref",
+    "is-referenced-by-count": 405,
+    "title": [
+      "ANATOMIC RADICAL PROSTATECTOMY"
+    ],
+    "prefix": "10.1097",
+    "volume": "160",
+    "author": [
+      {
+        "given": "PATRICK CRAIG",
+        "family": "WALSH",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "From the James Buchanan Brady Urological Institute, Johns Hopkins Medical Institutions, Baltimore, Maryland"
+          },
+          {
+            "name": "Supported by The Fund for Research and Progress in Urology, Johns Hopkins University."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib1",
+        "first-page": "315",
+        "article-title": "The early diagnosis and radical cure of carcinoma of the prostate: being a study of 40 cases and presentations of a radical operation which was carried out in 4 cases",
+        "volume": "16",
+        "author": "Young",
+        "year": "1905",
+        "journal-title": "Johns Hopkins Hosp. Bull."
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib2",
+        "series-title": "Retropubic Urinary Surgery",
+        "author": "Millin",
+        "year": "1947"
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "198",
+        "DOI": "10.1016/S0022-5347(17)56718-X",
+        "article-title": "An anatomical approach to the surgical management of the dorsal vein and Santorini's plexus during radical retropubic surgery",
+        "volume": "121",
+        "author": "Reiner",
+        "year": "1979",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy: insight into etiology and prevention",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1016/S0022-5347(17)48885-9",
+        "article-title": "Precise localization of the autonomic nerves from the pelvic plexus to the corpora cavernosa: a detailed anatomical study of the adult male pelvis",
+        "volume": "133",
+        "author": "Lepor",
+        "year": "1985",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1402",
+        "DOI": "10.1016/S0022-5347(17)43655-X",
+        "article-title": "Neuroanatomical approach to radical cystoprostatectomy with preservation of sexual function",
+        "volume": "138",
+        "author": "Schlegel",
+        "year": "1987",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib7",
+        "first-page": "2565",
+        "article-title": "Anatomic radical retropubic prostatectomy",
+        "volume": "vol 1",
+        "author": "Walsh",
+        "year": "1998"
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1002/aja.1001580211",
+        "article-title": "The urethral sphincter muscle in the male",
+        "volume": "158",
+        "author": "Oelrich",
+        "year": "1980",
+        "journal-title": "Amer. J. Anat."
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "543",
+        "DOI": "10.1016/S0022-5347(17)43253-8",
+        "article-title": "Prostate shape, external striated urethral sphincter and radical prostatectomy: the apical dissection",
+        "volume": "138",
+        "author": "Myers",
+        "year": "1987",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "679",
+        "DOI": "10.1016/S0094-0143(21)00980-0",
+        "article-title": "Radical retropubic prostatectomy-improved anastomosis and urinary continence",
+        "volume": "17",
+        "author": "Walsh",
+        "year": "1990",
+        "journal-title": "Urol. Clin. N. Amer."
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1002/pros.2990040506",
+        "article-title": "Radical prostatectomy with preservation of sexual function: anatomical and pathological considerations",
+        "volume": "4",
+        "author": "Walsh",
+        "year": "1983",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "663",
+        "DOI": "10.1016/S0094-0143(21)01546-9",
+        "article-title": "Radical prostatectomy, preservation of sexual function, cancer control. The controversy",
+        "volume": "14",
+        "author": "Walsh",
+        "year": "1987",
+        "journal-title": "Urol. Clin. N. Amer."
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1016/S0094-0143(05)70386-4",
+        "article-title": "Prostate-specific antigen after anatomic radical retropubic prostatectomy",
+        "volume": "24",
+        "author": "Pound",
+        "year": "1997",
+        "journal-title": "Urol. Clin. N. Amer."
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1016/S0022-5347(17)35410-1",
+        "article-title": "The use of prostate specific antigen, clinical stage and Gleason score to predict pathological stage in men with localized prostate cancer",
+        "volume": "150",
+        "author": "Partin",
+        "year": "1993",
+        "journal-title": "J. Urol."
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "11733",
+        "DOI": "10.1073/pnas.91.24.11733",
+        "article-title": "Cytidine methylation of regulatory sequences near the rr-class glutathione S-transferase gene accompanies human prostatic carcinogenesis",
+        "volume": "91",
+        "author": "Lee",
+        "year": "1994",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "6319",
+        "DOI": "10.1073/pnas.89.14.6319",
+        "article-title": "Androgen receptor gene mutations in human prostate cancer",
+        "volume": "89",
+        "author": "Newmark",
+        "year": "1992",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "8751",
+        "DOI": "10.1073/pnas.87.22.8751",
+        "article-title": "Allelic loss of chromosomes 16q and 10q in human prostate cancer",
+        "volume": "87",
+        "author": "Carter",
+        "year": "1990",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "10.1016/S0022-5347(01)62202-X_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1371",
+        "DOI": "10.1126/science.274.5291.1371",
+        "article-title": "Major susceptibility locus for prostate cancer on chromosome 1 suggested by a genome-wide search",
+        "volume": "274",
+        "author": "Smith",
+        "year": "1996",
+        "journal-title": "Science"
+      }
+    ],
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S002253470162202X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://api.elsevier.com/content/article/PII:S002253470162202X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/S0022-5347%2801%2962202-X",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2022-04-28T14:04:40Z",
+      "timestamp": 1651154680000
+    },
+    "score": 72.96168,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/S0022-5347%2801%2962202-X"
+      }
+    },
+    "subtitle": [
+      "EVOLUTION OF THE SURGICAL TECHNIQUE"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    },
+    "references-count": 18,
+    "journal-issue": {
+      "issue": "6 Part 2",
+      "published-print": {
+        "date-parts": [
+          [
+            1998,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/S0022-5347(01)62202-X"
+    ],
+    "URL": "https://doi.org/10.1016/s0022-5347(01)62202-x",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2026-06-29T06:37:11Z",
+      "timestamp": 1782715031985,
+      "version": "3.54.5"
+    },
+    "reference-count": 16,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1998,
+              12,
+              1
+            ]
+          ],
+          "date-time": "1998-12-01T00:00:00Z",
+          "timestamp": 912470400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "The Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1097/00005392-199812020-00010",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          11,
+          18
+        ]
+      ],
+      "date-time": "2003-11-18T19:02:31Z",
+      "timestamp": 1069182151000
+    },
+    "page": "2418-2424",
+    "source": "Crossref",
+    "is-referenced-by-count": 38,
+    "title": [
+      "ANATOMIC RADICAL PROSTATECTOMY"
+    ],
+    "prefix": "10.1097",
+    "author": [
+      {
+        "given": "PATRICK CRAIG",
+        "family": "WALSH",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "R1-10",
+        "first-page": "315",
+        "volume": "16",
+        "author": "Young",
+        "year": "1905",
+        "journal-title": "Johns Hopkins Hosp Bull"
+      },
+      {
+        "key": "R2-10",
+        "first-page": "ivingstone",
+        "volume": "L",
+        "author": "Millin",
+        "year": "1947",
+        "journal-title": "London"
+      },
+      {
+        "key": "R3-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "198",
+        "DOI": "10.1016/S0022-5347(17)56718-X",
+        "volume": "121",
+        "author": "Reiner",
+        "year": "1979",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R4-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R5-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "207",
+        "DOI": "10.1016/S0022-5347(17)48885-9",
+        "volume": "133",
+        "author": "Lepor",
+        "year": "1985",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R6-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1402",
+        "DOI": "10.1016/S0022-5347(17)43655-X",
+        "volume": "138",
+        "author": "Schlegel",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R8-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1002/aja.1001580211",
+        "volume": "158",
+        "author": "Oelrich",
+        "year": "1980",
+        "journal-title": "Amer J Anat"
+      },
+      {
+        "key": "R9-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "543",
+        "DOI": "10.1016/S0022-5347(17)43253-8",
+        "volume": "138",
+        "author": "Myers",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R10-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "679",
+        "DOI": "10.1016/S0094-0143(21)00980-0",
+        "volume": "17",
+        "author": "Walsh",
+        "year": "1990",
+        "journal-title": "Urol Clin N Amer"
+      },
+      {
+        "key": "R11-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1002/pros.2990040506",
+        "volume": "4",
+        "author": "Walsh",
+        "year": "1983",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "R13-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "395",
+        "DOI": "10.1016/S0094-0143(05)70386-4",
+        "volume": "24",
+        "author": "Pound",
+        "year": "1997",
+        "journal-title": "Urol Clin N Amer"
+      },
+      {
+        "key": "R14-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1016/S0022-5347(17)35410-1",
+        "volume": "150",
+        "author": "Partin",
+        "year": "1993",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R15-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "11733",
+        "DOI": "10.1073/pnas.91.24.11733",
+        "volume": "91",
+        "author": "Lee",
+        "year": "1994",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "R16-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "6319",
+        "DOI": "10.1073/pnas.89.14.6319",
+        "volume": "89",
+        "author": "Newmark",
+        "year": "1992",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "R17-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "8751",
+        "DOI": "10.1073/pnas.87.22.8751",
+        "volume": "87",
+        "author": "Carter",
+        "year": "1990",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "R18-10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1371",
+        "DOI": "10.1126/science.274.5291.1371",
+        "volume": "274",
+        "author": "Smith",
+        "year": "1996",
+        "journal-title": "Science"
+      }
+    ],
+    "container-title": [
+      "The Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://journals.lww.com/00076734-199812020-00010",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          4
+        ]
+      ],
+      "date-time": "2022-03-04T19:05:29Z",
+      "timestamp": 1646420729000
+    },
+    "score": 69.92327,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.lww.com/00005392-199812020-00010"
+      }
+    },
+    "subtitle": [
+      "EVOLUTION OF THE SURGICAL TECHNIQUE"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    },
+    "references-count": 16,
+    "URL": "https://doi.org/10.1097/00005392-199812020-00010",
+    "ISSN": [
+      "0022-5347"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1998,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T05:57:13Z",
+      "timestamp": 1648706233670
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Current Opinion in Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1999,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1097/00042307-199905000-00027",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          4,
+          27
+        ]
+      ],
+      "date-time": "2003-04-27T08:28:01Z",
+      "timestamp": 1051432081000
+    },
+    "page": "265",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Anatomic radical prostatectomy: evolution of the surgical technique"
+    ],
+    "prefix": "10.1097",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Neil",
+        "family": "Oakley",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Current Opinion in Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/00042307-199905000-00027",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          16
+        ]
+      ],
+      "date-time": "2021-06-16T03:03:46Z",
+      "timestamp": 1623812626000
+    },
+    "score": 44.554092,
+    "resource": {
+      "primary": {
+        "URL": "http://journals.lww.com/00042307-199905000-00027"
+      }
+    },
+    "subtitle": [
+      ""
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3"
+    },
+    "URL": "https://doi.org/10.1097/00042307-199905000-00027",
+    "ISSN": [
+      "0963-0643"
+    ],
+    "issn-type": [
+      {
+        "value": "0963-0643",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1999,
+          5
+        ]
+      ]
+    }
+  }
+]

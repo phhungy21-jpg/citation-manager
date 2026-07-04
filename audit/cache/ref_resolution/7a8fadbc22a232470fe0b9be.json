@@ -1,0 +1,1816 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2023-09-13T20:27:49Z",
+      "timestamp": 1694636869000
+    },
+    "reference-count": 52,
+    "publisher": "XMLink",
+    "issue": "10",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2009-01-01T00:00:00Z",
+          "timestamp": 1230768000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/3.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Korean J Urol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "DOI": "10.4111/kju.2009.50.10.935",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          10,
+          27
+        ]
+      ],
+      "date-time": "2009-10-27T06:55:37Z",
+      "timestamp": 1256626537000
+    },
+    "page": "935",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Improving Urinary Continence after Radical Prostatectomy: Review of Surgical Modifications"
+    ],
+    "prefix": "10.4111",
+    "volume": "50",
+    "author": [
+      {
+        "given": "Jonathan J.",
+        "family": "Hwang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Georgetown University School of Medicine, Washington, DC, USA."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bo Young",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Georgetown University School of Medicine, Washington, DC, USA."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Edward M.",
+        "family": "Uchio",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Yale University School of Medicine, New Haven, CT, USA."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "18617",
+    "reference": [
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "958",
+        "DOI": "10.1016/S0022-5347(05)65872-7",
+        "volume": "166",
+        "author": "Kielb",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "354",
+        "DOI": "10.1001/jama.283.3.354",
+        "volume": "283",
+        "author": "Stanford",
+        "year": "2000",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "622",
+        "DOI": "10.1016/0090-4295(93)90524-E",
+        "volume": "42",
+        "author": "Fowler",
+        "year": "1993",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "726",
+        "DOI": "10.1016/j.urology.2006.12.028",
+        "volume": "69",
+        "author": "Tewari",
+        "year": "2007",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1007",
+        "DOI": "10.1016/S0090-4295(99)80122-8",
+        "volume": "45",
+        "author": "Fowler",
+        "year": "1995",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1212",
+        "DOI": "10.1097/01.ju.0000110631.81774.9c",
+        "volume": "171",
+        "author": "Lepor",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "744",
+        "DOI": "10.1016/S0022-5347(05)67294-1",
+        "volume": "164",
+        "author": "Wei",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1988",
+        "DOI": "10.1016/S0022-5347(01)63222-1",
+        "volume": "159",
+        "author": "Litwin",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1216",
+        "DOI": "10.1097/01.ju.0000113964.68020.a7",
+        "volume": "171",
+        "author": "Lepor",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1157",
+        "DOI": "10.1016/j.urology.2007.02.003",
+        "volume": "69",
+        "author": "Katz",
+        "year": "2007",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1016/S0090-4295(96)00216-6",
+        "volume": "48",
+        "author": "Jonler",
+        "year": "1996",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "137",
+        "DOI": "10.1016/j.urology.2006.01.021",
+        "volume": "68",
+        "author": "Lee",
+        "year": "2006",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "208",
+        "DOI": "10.1016/j.juro.2007.03.044",
+        "volume": "178",
+        "author": "Song",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1907",
+        "DOI": "10.1016/j.juro.2008.01.036",
+        "volume": "179",
+        "author": "Nguyen",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1032",
+        "DOI": "10.1016/S0022-5347(05)64568-5",
+        "volume": "168",
+        "author": "Coakley",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1234",
+        "DOI": "10.1111/j.1464-410X.2006.06185.x",
+        "volume": "97",
+        "author": "Sacco",
+        "year": "2006",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "444",
+        "DOI": "10.1046/j.1464-410X.1997.00373.x",
+        "volume": "80",
+        "author": "Kaye",
+        "year": "1997",
+        "journal-title": "Br J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1007/s11934-000-0031-3",
+        "volume": "1",
+        "author": "Steiner",
+        "year": "2000",
+        "journal-title": "Curr Urol Rep"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "2418",
+        "DOI": "10.1016/S0022-5347(01)62202-X",
+        "volume": "160",
+        "author": "Walsh",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "530",
+        "DOI": "10.1016/S0090-4295(94)80052-9",
+        "volume": "44",
+        "author": "Steiner",
+        "year": "1994",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref21",
+        "doi-asserted-by": "crossref",
+        "first-page": "2137",
+        "DOI": "10.1016/S0022-5347(01)68180-1",
+        "volume": "158",
+        "author": "Lowe",
+        "year": "1997",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref22",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.1159/000048429",
+        "volume": "68",
+        "author": "Campenni",
+        "year": "2002",
+        "journal-title": "Urol Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref23",
+        "doi-asserted-by": "crossref",
+        "first-page": "958",
+        "DOI": "10.1111/j.1464-410X.2008.07759.x",
+        "volume": "102",
+        "author": "Noguchi",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref24",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1111/j.1442-2042.2006.01313.x",
+        "volume": "13",
+        "author": "Noguchi",
+        "year": "2006",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref25",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1016/j.eururo.2009.06.007",
+        "volume": "56",
+        "author": "Patel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref26",
+        "doi-asserted-by": "crossref",
+        "first-page": "613",
+        "DOI": "10.1016/S0022-5347(17)60028-4",
+        "volume": "111",
+        "author": "Elbadawi",
+        "year": "1974",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref27",
+        "doi-asserted-by": "crossref",
+        "first-page": "337",
+        "DOI": "10.1097/00005392-199502000-00012",
+        "volume": "153",
+        "author": "Narayan",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref28",
+        "doi-asserted-by": "crossref",
+        "first-page": "858",
+        "DOI": "10.1016/j.eururo.2005.03.016",
+        "volume": "48",
+        "author": "Karam",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref29",
+        "doi-asserted-by": "crossref",
+        "first-page": "648",
+        "DOI": "10.1016/j.eururo.2006.10.055",
+        "volume": "51",
+        "author": "Menon",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref30",
+        "doi-asserted-by": "crossref",
+        "first-page": "892",
+        "DOI": "10.1016/j.eururo.2009.01.021",
+        "volume": "55",
+        "author": "van der Poel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref31",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1002/aja.1001580211",
+        "volume": "158",
+        "author": "Oelrich",
+        "year": "1980",
+        "journal-title": "Am J Anat"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref32",
+        "doi-asserted-by": "crossref",
+        "first-page": "211",
+        "DOI": "10.1016/S0094-0143(21)00989-7",
+        "volume": "18",
+        "author": "Myers",
+        "year": "1991",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref33",
+        "first-page": "51",
+        "volume": "18",
+        "author": "Soloway",
+        "year": "2000",
+        "journal-title": "Semin Urol Oncol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref34",
+        "doi-asserted-by": "crossref",
+        "first-page": "855",
+        "DOI": "10.1016/S0090-4295(02)01956-8",
+        "volume": "60",
+        "author": "Deliveliotis",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref35",
+        "doi-asserted-by": "crossref",
+        "first-page": "815",
+        "DOI": "10.1016/S0022-5347(05)66534-2",
+        "volume": "165",
+        "author": "Srougi",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref36",
+        "doi-asserted-by": "crossref",
+        "first-page": "934",
+        "DOI": "10.1016/S0090-4295(02)01596-0",
+        "volume": "59",
+        "author": "Walsh",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref37",
+        "doi-asserted-by": "crossref",
+        "first-page": "744",
+        "DOI": "10.1016/S0022-5347(17)54023-9",
+        "volume": "127",
+        "author": "Woodside",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref38",
+        "doi-asserted-by": "crossref",
+        "first-page": "434",
+        "DOI": "10.1016/S0022-5347(17)39483-1",
+        "volume": "144",
+        "author": "Elder",
+        "year": "1990",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref39",
+        "doi-asserted-by": "crossref",
+        "first-page": "926",
+        "DOI": "10.1016/S0022-5347(01)65085-7",
+        "volume": "157",
+        "author": "Jorion",
+        "year": "1997",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref40",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1159/000224862",
+        "volume": "83",
+        "author": "Altinova",
+        "year": "2009",
+        "journal-title": "Urol Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref41",
+        "doi-asserted-by": "crossref",
+        "first-page": "308",
+        "DOI": "10.1111/j.1464-410X.2006.06220.x",
+        "volume": "98",
+        "author": "Westney",
+        "year": "2006",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref42",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1016/S0090-4295(97)00479-2",
+        "volume": "51",
+        "author": "Poore",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref43",
+        "doi-asserted-by": "crossref",
+        "first-page": "975",
+        "DOI": "10.1016/S0022-5347(17)40155-8",
+        "volume": "143",
+        "author": "Presti",
+        "year": "1990",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref44",
+        "doi-asserted-by": "crossref",
+        "first-page": "444",
+        "DOI": "10.1046/j.1464-410X.1997.00373.x",
+        "volume": "80",
+        "author": "Kaye",
+        "year": "1997",
+        "journal-title": "Br J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref45",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1038/sj.pcan.4500726",
+        "volume": "7",
+        "author": "van Randenborgh",
+        "year": "2004",
+        "journal-title": "Prostate Cancer Prostatic Dis"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref46",
+        "doi-asserted-by": "crossref",
+        "first-page": "1032",
+        "DOI": "10.1016/S0022-5347(05)64568-5",
+        "volume": "168",
+        "author": "Coakley",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref47",
+        "doi-asserted-by": "crossref",
+        "first-page": "233",
+        "DOI": "10.1016/S0022-5347(01)65334-5",
+        "volume": "157",
+        "author": "Hammerer",
+        "year": "1997",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref48",
+        "doi-asserted-by": "crossref",
+        "first-page": "2201",
+        "DOI": "10.1016/S0022-5347(06)00262-X",
+        "volume": "175",
+        "author": "Rocco",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref49",
+        "doi-asserted-by": "crossref",
+        "first-page": "376",
+        "DOI": "10.1016/j.eururo.2007.01.109",
+        "volume": "52",
+        "author": "Rocco",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref50",
+        "doi-asserted-by": "crossref",
+        "first-page": "1018",
+        "DOI": "10.1016/j.juro.2008.05.046",
+        "volume": "180",
+        "author": "Menon",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref51",
+        "doi-asserted-by": "crossref",
+        "first-page": "489",
+        "DOI": "10.1089/end.2008.0222",
+        "volume": "23",
+        "author": "Berry",
+        "year": "2009",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.10.935_ref52",
+        "doi-asserted-by": "crossref",
+        "first-page": "820",
+        "DOI": "10.1016/S0090-4295(00)00547-1",
+        "volume": "55",
+        "author": "John",
+        "year": "2000",
+        "journal-title": "Urology"
+      }
+    ],
+    "container-title": [
+      "Korean Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://synapse.koreamed.org/DOIx.php?id=10.4111/kju.2009.50.10.935",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://synapse.koreamed.org/pdf/10.4111/kju.2009.50.10.935",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/kju.2009.50.10.935",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          12
+        ]
+      ],
+      "date-time": "2021-10-12T21:59:12Z",
+      "timestamp": 1634075952000
+    },
+    "score": 116.274864,
+    "resource": {
+      "primary": {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/kju.2009.50.10.935"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "references-count": 52,
+    "journal-issue": {
+      "issue": "10",
+      "published-print": {
+        "date-parts": [
+          [
+            2009
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.4111/kju.2009.50.10.935",
+    "ISSN": [
+      "2005-6737"
+    ],
+    "issn-type": [
+      {
+        "value": "2005-6737",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T17:30:06Z",
+      "timestamp": 1648834206537
+    },
+    "reference-count": 20,
+    "publisher": "The Korean Urological Association",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2009-01-01T00:00:00Z",
+          "timestamp": 1230768000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/3.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Korean J Urol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "DOI": "10.4111/kju.2009.50.12.1203",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          12,
+          21
+        ]
+      ],
+      "date-time": "2009-12-21T05:12:15Z",
+      "timestamp": 1261372335000
+    },
+    "page": "1203",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Effect of Posterior Urethral Reconstruction (PUR) in Early Recovery of Urinary Continence after Robotic-Assisted Radical Prostatectomy"
+    ],
+    "prefix": "10.4111",
+    "volume": "50",
+    "author": [
+      {
+        "given": "Soo Dong",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology, College of Medicine, Dong-A University, Busan, Korea,"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tae Hyo",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, College of Medicine, Dong-A University, Busan, Korea,"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jae Wook",
+        "family": "Cho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, College of Medicine, Dong-A University, Busan, Korea,"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Youn Chul",
+        "family": "You",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, College of Medicine, Dong-A University, Busan, Korea,"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gyung Tak",
+        "family": "Sung",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, College of Medicine, Dong-A University, Busan, Korea,"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2595",
+    "reference": [
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "2101",
+        "DOI": "10.1016/S0022-5347(05)65514-0",
+        "volume": "166",
+        "author": "Rassweiler",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "876",
+        "DOI": "10.1046/j.1464-410X.2002.03049.x",
+        "volume": "90",
+        "author": "Eden",
+        "year": "2002",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1261",
+        "DOI": "10.1097/01.ju.0000055141.36916.be",
+        "volume": "169",
+        "author": "Guillonneau",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "338",
+        "DOI": "10.1016/S0302-2838(02)00360-3",
+        "volume": "42",
+        "author": "Salomon",
+        "year": "2002",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1046/j.1464-410X.2002.02824.x",
+        "volume": "90",
+        "author": "Peyromaure",
+        "year": "2002",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref6",
+        "first-page": "353",
+        "volume": "46",
+        "author": "Kong",
+        "year": "2005",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "376",
+        "DOI": "10.1016/j.eururo.2007.01.109",
+        "volume": "52",
+        "author": "Rocco",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "996",
+        "DOI": "10.1016/j.eururo.2006.10.014",
+        "volume": "51",
+        "author": "Rocco",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1482",
+        "DOI": "10.1111/j.1464-410X.2008.08090.x",
+        "volume": "102",
+        "author": "Coughlin",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "699",
+        "DOI": "10.1016/S0090-4295(02)02543-8",
+        "volume": "61",
+        "author": "Van Velthoven",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "2201",
+        "DOI": "10.1016/S0022-5347(06)00262-X",
+        "volume": "175",
+        "author": "Rocco",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "612",
+        "DOI": "10.1016/j.eururo.2005.12.054",
+        "volume": "49",
+        "author": "Rassweiler",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1072",
+        "DOI": "10.1097/01.ju.0000154970.63147.90",
+        "volume": "173",
+        "author": "Trabulsi",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1016/j.eururo.2005.10.002",
+        "volume": "49",
+        "author": "Stolzenburg",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "938",
+        "DOI": "10.1016/j.eururo.2005.09.004",
+        "volume": "48",
+        "author": "Montorsi",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1016/j.eururo.2005.10.008",
+        "volume": "49",
+        "author": "Graefen",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1016/S0022-5347(06)00574-X",
+        "volume": "176",
+        "author": "Burkhard",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1016/S0022-5347(05)68578-3",
+        "volume": "162",
+        "author": "Catalona",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1216",
+        "DOI": "10.1097/01.ju.0000113964.68020.a7",
+        "volume": "171",
+        "author": "Lepor",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1301",
+        "DOI": "10.1016/S0022-5347(01)62521-7",
+        "volume": "160",
+        "author": "Burnett",
+        "year": "1998",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Korean Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://synapse.koreamed.org/DOIx.php?id=10.4111/kju.2009.50.12.1203",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://synapse.koreamed.org/pdf/10.4111/kju.2009.50.12.1203",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/kju.2009.50.12.1203",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2020-05-15T05:09:06Z",
+      "timestamp": 1589519346000
+    },
+    "score": 59.615128,
+    "resource": {
+      "primary": {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/kju.2009.50.12.1203"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "12",
+      "published-print": {
+        "date-parts": [
+          [
+            2009
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.4111/kju.2009.50.12.1203",
+    "ISSN": [
+      "2005-6737"
+    ],
+    "issn-type": [
+      {
+        "value": "2005-6737",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T11:08:33Z",
+      "timestamp": 1648724913670
+    },
+    "reference-count": 0,
+    "publisher": "FapUNIFESP (SciELO)",
+    "issue": "4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Int. braz j urol."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1590/s1677-55382010000400017",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          10,
+          17
+        ]
+      ],
+      "date-time": "2010-10-17T01:34:54Z",
+      "timestamp": 1287279294000
+    },
+    "page": "503-503",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Evaluating urinary continence and preoperative predictors of urinary continence after robot assisted laparoscopic radical prostatectomy"
+    ],
+    "prefix": "10.1590",
+    "volume": "36",
+    "author": [
+      {
+        "given": "Fernando J.",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Univ. Colorado Health Sci. Ctr.,  USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "530",
+    "container-title": [
+      "International braz j urol"
+    ],
+    "link": [
+      {
+        "URL": "http://www.scielo.br/pdf/ibju/v36n4/v36n4a17.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          21
+        ]
+      ],
+      "date-time": "2017-05-21T09:42:31Z",
+      "timestamp": 1495359751000
+    },
+    "score": 56.332855,
+    "resource": {
+      "primary": {
+        "URL": "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1677-55382010000400017&lng=en&tlng=en"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          8
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1677-55382010000400017"
+    ],
+    "URL": "https://doi.org/10.1590/s1677-55382010000400017",
+    "ISSN": [
+      "1677-5538"
+    ],
+    "issn-type": [
+      {
+        "value": "1677-5538",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T10:07:47Z",
+      "timestamp": 1648721267504
+    },
+    "reference-count": 15,
+    "publisher": "The Korean Urological Association",
+    "issue": "11",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2009-01-01T00:00:00Z",
+          "timestamp": 1230768000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/3.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Korean J Urol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "DOI": "10.4111/kju.2009.50.11.1095",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2009-11-19T08:46:51Z",
+      "timestamp": 1258620411000
+    },
+    "page": "1095",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Laparoscopic Radical Prostatectomy: Learning Curves for Surgical, Oncological, and Functional Outcome"
+    ],
+    "prefix": "10.4111",
+    "volume": "50",
+    "author": [
+      {
+        "given": "In Sik",
+        "family": "Hwang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Seoul National University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yong Hyun",
+        "family": "Park",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Seoul National University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cheol",
+        "family": "Kwak",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Seoul National University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hyeon Hoe",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Seoul National University College of Medicine, Seoul, Korea."
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2595",
+    "reference": [
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "343",
+        "DOI": "10.1089/lps.1991.1.343",
+        "volume": "1",
+        "author": "Clayman",
+        "year": "1991",
+        "journal-title": "J Laparoendosc Surg"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1016/S0090-4295(97)00543-8",
+        "volume": "50",
+        "author": "Schuessler",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "2319",
+        "DOI": "10.1089/end.2008.9714",
+        "volume": "22",
+        "author": "Stolzenburg",
+        "year": "2008",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "104",
+        "DOI": "10.1016/S0302-2838(02)00263-4",
+        "volume": "42",
+        "author": "Salomon",
+        "year": "2002",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "612",
+        "DOI": "10.1016/S0090-4295(02)02416-0",
+        "volume": "61",
+        "author": "Bhayani",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1253",
+        "DOI": "10.1016/j.urology.2006.08.1054",
+        "volume": "68",
+        "author": "Dahl",
+        "year": "2006",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1224",
+        "DOI": "10.1111/j.1464-410X.2008.08169.x",
+        "volume": "103",
+        "author": "Eden",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "79",
+        "DOI": "10.1097/01.mou.0000160620.28613.b1",
+        "volume": "15",
+        "author": "Bollens",
+        "year": "2005",
+        "journal-title": "Curr Opin Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref9",
+        "first-page": "239",
+        "volume": "55",
+        "author": "Trabulsi",
+        "year": "2003",
+        "journal-title": "Minerva Urol Nefrol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/S0090-4295(99)00397-0",
+        "volume": "55",
+        "author": "Walsh",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1643",
+        "DOI": "10.1016/S0022-5347(05)67512-X",
+        "volume": "163",
+        "author": "Guillonneau",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "879",
+        "DOI": "10.4111/kju.2008.49.10.879",
+        "volume": "49",
+        "author": "Kim",
+        "year": "2008",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "18",
+        "DOI": "10.4111/kju.2008.49.1.18",
+        "volume": "49",
+        "author": "Kang",
+        "year": "2008",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1806",
+        "DOI": "10.1002/pros.20848",
+        "volume": "68",
+        "author": "Veltri",
+        "year": "2008",
+        "journal-title": "Prostate"
+      },
+      {
+        "key": "10.4111/kju.2009.50.11.1095_ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "475",
+        "DOI": "10.1016/S1470-2045(09)70079-8",
+        "volume": "10",
+        "author": "Vickers",
+        "year": "2009",
+        "journal-title": "Lancet Oncol"
+      }
+    ],
+    "container-title": [
+      "Korean Journal of Urology"
+    ],
+    "language": "ko",
+    "link": [
+      {
+        "URL": "https://synapse.koreamed.org/DOIx.php?id=10.4111/kju.2009.50.11.1095",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://synapse.koreamed.org/pdf/10.4111/kju.2009.50.11.1095",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/kju.2009.50.11.1095",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2020-05-15T05:08:58Z",
+      "timestamp": 1589519338000
+    },
+    "score": 55.457443,
+    "resource": {
+      "primary": {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/kju.2009.50.11.1095"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "references-count": 15,
+    "journal-issue": {
+      "issue": "11",
+      "published-print": {
+        "date-parts": [
+          [
+            2009
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.4111/kju.2009.50.11.1095",
+    "ISSN": [
+      "2005-6737"
+    ],
+    "issn-type": [
+      {
+        "value": "2005-6737",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          4
+        ]
+      ],
+      "date-time": "2026-05-04T05:01:22Z",
+      "timestamp": 1777870882909,
+      "version": "3.51.4"
+    },
+    "reference-count": 0,
+    "publisher": "S. Karger AG",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              1,
+              27
+            ]
+          ],
+          "date-time": "2010-01-27T00:00:00Z",
+          "timestamp": 1264550400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://karger.com/pages/terms-and-conditions"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              1,
+              27
+            ]
+          ],
+          "date-time": "2010-01-27T00:00:00Z",
+          "timestamp": 1264550400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://karger.com/pages/terms-and-conditions"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urol Int"
+    ],
+    "abstract": "<jats:p>After radical prostatectomy – the own curable treatment in prostatic carcinoma – there is a great incidence of postoperative urinary incontinence. By forming a tube of the ‘base plate’ after Hutch’s description, it is possible to get a new urinary sphincter. We have proven this facts with urodynamic and radiologic investigations.</jats:p>",
+    "DOI": "10.1159/000280125",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          1,
+          29
+        ]
+      ],
+      "date-time": "2010-01-29T06:49:58Z",
+      "timestamp": 1264747798000
+    },
+    "page": "149-160",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Urinary Continence after Radical Prostatectomy"
+    ],
+    "prefix": "10.1159",
+    "author": [
+      {
+        "given": "D.",
+        "family": "Hauri",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "127",
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          1,
+          27
+        ]
+      ]
+    },
+    "container-title": [
+      "Urologia Internationalis"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://karger.com/article-pdf/doi/10.1159/000280125",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          30
+        ]
+      ],
+      "date-time": "2026-04-30T16:49:14Z",
+      "timestamp": 1777567754000
+    },
+    "score": 53.55481,
+    "resource": {
+      "primary": {
+        "URL": "https://karger.com/article/doi/10.1159/000280125"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          1,
+          27
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1159/000280125",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0042-1138",
+      "1423-0399"
+    ],
+    "issn-type": [
+      {
+        "value": "0042-1138",
+        "type": "print"
+      },
+      {
+        "value": "1423-0399",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          1,
+          27
+        ]
+      ]
+    }
+  }
+]

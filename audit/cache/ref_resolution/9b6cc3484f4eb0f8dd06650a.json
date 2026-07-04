@@ -1,0 +1,494 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          8
+        ]
+      ],
+      "date-time": "2024-07-08T12:55:44Z",
+      "timestamp": 1720443344406
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2007-09-01T00:00:00Z",
+          "timestamp": 1188604800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2007.06.628",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2007-09-17T08:21:33Z",
+      "timestamp": 1190017293000
+    },
+    "page": "171-172",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S",
+    "title": [
+      "VID-01.04: Robotic-assisted laparoscopic radical prostatectomy in patients with previous inguinal meshplasty: technique and perioperative outcome"
+    ],
+    "prefix": "10.1016",
+    "volume": "70",
+    "author": [
+      {
+        "given": "K.J.",
+        "family": "Palmer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Thaly",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "K.",
+        "family": "Shah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "V.R.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429507012393?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429507012393?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          3
+        ]
+      ],
+      "date-time": "2019-01-03T22:31:03Z",
+      "timestamp": 1546554663000
+    },
+    "score": 71.93147,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429507012393"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429507012393"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2007.06.628",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          8
+        ]
+      ],
+      "date-time": "2024-07-08T12:56:18Z",
+      "timestamp": 1720443378461
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2007-09-01T00:00:00Z",
+          "timestamp": 1188604800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2007.06.010",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2007-09-17T12:21:33Z",
+      "timestamp": 1190031693000
+    },
+    "page": "2",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "special_numbering": "S",
+    "title": [
+      "POD-01.05: The advanced learning curve in robotic-assisted laparoscopic radical prostatectomy: a multi-institutional survey"
+    ],
+    "prefix": "10.1016",
+    "volume": "70",
+    "author": [
+      {
+        "given": "H.J.",
+        "family": "Lavery",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "T.",
+        "family": "Ahlering",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Tewari",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.A.",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Shalhav",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Albala",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Wiklund",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.J.",
+        "family": "Costello",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "K.J.",
+        "family": "Palmer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "K.",
+        "family": "Shah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Thaly",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "V.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429507006735?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429507006735?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          4
+        ]
+      ],
+      "date-time": "2019-01-04T03:29:17Z",
+      "timestamp": 1546572557000
+    },
+    "score": 66.75515,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429507006735"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429507006735"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2007.06.010",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          9
+        ]
+      ]
+    }
+  }
+]

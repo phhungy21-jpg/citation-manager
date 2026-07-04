@@ -1,0 +1,808 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2026-02-13T13:15:06Z",
+      "timestamp": 1770988506603,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "SAGE Publications",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Biotechnology Law Report"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1997,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1089/blr.1997.16.356",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          3,
+          17
+        ]
+      ],
+      "date-time": "2009-03-17T02:15:28Z",
+      "timestamp": 1237256128000
+    },
+    "page": "356-356",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "{BLR 2401} Generic Drugs"
+    ],
+    "prefix": "10.1177",
+    "volume": "16",
+    "member": "179",
+    "container-title": [
+      "Biotechnology Law Report"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.liebertpub.com/doi/pdf/10.1089/blr.1997.16.356",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2026-02-13T12:13:21Z",
+      "timestamp": 1770984801000
+    },
+    "score": 90.35132,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/full/10.1089/blr.1997.16.356"
+      }
+    },
+    "subtitle": [
+      "FDA\n                    <scp>Begins Electronic Submission of Bioequivalence Data for Generic Drugs</scp>"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            1997,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1089/blr.1997.16.356"
+    ],
+    "URL": "https://doi.org/10.1089/blr.1997.16.356",
+    "ISSN": [
+      "0730-031X",
+      "1557-8704"
+    ],
+    "issn-type": [
+      {
+        "value": "0730-031X",
+        "type": "print"
+      },
+      {
+        "value": "1557-8704",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1997,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2026-02-13T13:07:43Z",
+      "timestamp": 1770988063293,
+      "version": "3.50.1"
+    },
+    "reference-count": 10,
+    "publisher": "SAGE Publications",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Biotechnology Law Report"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1089/073003103321542051",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          4,
+          11
+        ]
+      ],
+      "date-time": "2003-04-11T03:49:35Z",
+      "timestamp": 1050032975000
+    },
+    "page": "97-108",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "FDA Approval of Generic Drugs: Instituting a First Successful Defense Requirement for Generic Exclusivity"
+    ],
+    "prefix": "10.1177",
+    "volume": "22",
+    "author": [
+      {
+        "given": "James C.",
+        "family": "Mason",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "reference": [
+      {
+        "key": "p_5",
+        "first-page": "2020",
+        "volume": "199",
+        "author": "Although",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "p_10",
+        "first-page": "36263",
+        "volume": "60",
+        "author": "In F.",
+        "year": "1995",
+        "journal-title": "Fed. Reg."
+      },
+      {
+        "key": "p_14",
+        "first-page": "1560",
+        "volume": "51",
+        "author": "In",
+        "year": "1995",
+        "journal-title": "Brana"
+      },
+      {
+        "key": "p_17",
+        "first-page": "179",
+        "volume": "17",
+        "author": "Ernest L.",
+        "year": "1994",
+        "journal-title": "Organic Compounds"
+      },
+      {
+        "key": "p_30",
+        "first-page": "856",
+        "volume": "200",
+        "author": "Welage L",
+        "journal-title": "J. Am. Pharm. Assoc. (Wash)"
+      },
+      {
+        "key": "p_34",
+        "first-page": "965",
+        "volume": "119",
+        "author": "In",
+        "year": "1997",
+        "journal-title": "Lonardo"
+      },
+      {
+        "key": "p_42",
+        "first-page": "321",
+        "volume": "55",
+        "author": "David A.",
+        "year": "2000",
+        "journal-title": "Food Drug L.J."
+      },
+      {
+        "key": "p_50",
+        "first-page": "837",
+        "volume": "467",
+        "author": "Id",
+        "year": "1984",
+        "journal-title": "Natural Resources Defense Council"
+      },
+      {
+        "key": "p_58",
+        "first-page": "245",
+        "volume": "54",
+        "author": "Terry G.",
+        "year": "1999",
+        "journal-title": "Food Drug L.J."
+      },
+      {
+        "key": "p_60",
+        "first-page": "1316",
+        "volume": "182",
+        "author": "Abbot Laboratories",
+        "year": "1999",
+        "journal-title": "Geneva Pharm."
+      }
+    ],
+    "container-title": [
+      "Biotechnology Law Report"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.liebertpub.com/doi/pdf/10.1089/073003103321542051",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2026-02-13T12:11:35Z",
+      "timestamp": 1770984695000
+    },
+    "score": 88.84956,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/full/10.1089/073003103321542051"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          4
+        ]
+      ]
+    },
+    "references-count": 10,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1089/073003103321542051"
+    ],
+    "URL": "https://doi.org/10.1089/073003103321542051",
+    "ISSN": [
+      "0730-031X",
+      "1557-8704"
+    ],
+    "issn-type": [
+      {
+        "value": "0730-031X",
+        "type": "print"
+      },
+      {
+        "value": "1557-8704",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2026-04-18T05:52:53Z",
+      "timestamp": 1776491573227,
+      "version": "3.51.2"
+    },
+    "reference-count": 0,
+    "publisher": "Vienna, Austria : United Nations Office on Drugs and Crime (UNODC).",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "DOI": "10.29171/acku_serial_hv5800_u55_2007",
+    "type": "monograph",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2026-04-18T05:17:32Z",
+      "timestamp": 1776489452000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "United Nations Office on Drugs and Crime (UNODC). /Annual report / United Nations Office on Drugs and Crime."
+    ],
+    "prefix": "10.29171",
+    "member": "11719",
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          18
+        ]
+      ],
+      "date-time": "2026-04-18T05:17:32Z",
+      "timestamp": 1776489452000
+    },
+    "score": 84.33833,
+    "resource": {
+      "primary": {
+        "URL": "https://drive.google.com/file/d/1ExD5QkMOrDZmNX9GSeXFObw8mrQT2fGW"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.29171/acku_serial_hv5800_u55_2007",
+    "published": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "National Bureau of Economic Research",
+        "acronym": [
+          "NBER"
+        ],
+        "place": [
+          "Cambridge, MA"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2022-03-29T04:04:07Z",
+      "timestamp": 1648526647955
+    },
+    "publisher-location": "Cambridge, MA",
+    "reference-count": 0,
+    "publisher": "National Bureau of Economic Research",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.3386/w6143",
+    "type": "report",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2007-10-24T14:37:28Z",
+      "timestamp": 1193236648000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Objectives of the FDA's Office of Generic Drugs"
+    ],
+    "prefix": "10.3386",
+    "author": [
+      {
+        "given": "Fiona Scott",
+        "family": "Morton",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1960",
+    "published-online": {
+      "date-parts": [
+        [
+          1997,
+          8
+        ]
+      ]
+    },
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          27
+        ]
+      ],
+      "date-time": "2020-09-27T02:36:26Z",
+      "timestamp": 1601174186000
+    },
+    "score": 83.905,
+    "resource": {
+      "primary": {
+        "URL": "http://www.nber.org/papers/w6143.pdf"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          1997,
+          8
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.3386/w6143",
+    "published": {
+      "date-parts": [
+        [
+          1997,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          5
+        ]
+      ],
+      "date-time": "2026-06-05T05:20:15Z",
+      "timestamp": 1780636815911,
+      "version": "3.54.1"
+    },
+    "edition-number": "1",
+    "reference-count": 20,
+    "publisher": "Wiley",
+    "isbn-type": [
+      {
+        "value": "9781119691693",
+        "type": "print"
+      },
+      {
+        "value": "9781119913276",
+        "type": "electronic"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              11
+            ]
+          ],
+          "date-time": "2022-08-11T00:00:00Z",
+          "timestamp": 1660176000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1002/9781119913276.ch22",
+    "type": "other",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          11
+        ]
+      ],
+      "date-time": "2022-08-11T13:35:28Z",
+      "timestamp": 1660224928000
+    },
+    "page": "403-417",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Generic Drugs and the Generic Industry"
+    ],
+    "prefix": "10.1002",
+    "author": [
+      {
+        "given": "Robert G.",
+        "family": "Bell",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_1_2_1",
+        "unstructured": "21 CFR § 314.3(b)(2022).CFR – Code of Federal Regulations Title 21 21 CFR § 314.3(b) https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?fr=314.3(6 January 2022)."
+      },
+      {
+        "key": "e_1_2_1_3_1",
+        "unstructured": "21 Largest Generic Drug Companies(n.d.).https://finance.yahoo.com/news/21‐largest‐generic‐drug‐companies‐185756541.html."
+      },
+      {
+        "key": "e_1_2_1_4_1",
+        "unstructured": "Approved Drug Products with Therapeutic Equivalence Evaluations(2020).40th Edition U.S. Department of Health and Human Services Food and Drug Administration Office of Medical Products and Tobacco Center for Drug and Food Evaluation and Research Office of Generic Drugs Office of Generic Policy."
+      },
+      {
+        "key": "e_1_2_1_5_1",
+        "unstructured": "Barr‐833‐5‐373(n.d.).https://www.drugs.com/imprints/barr‐833‐5‐373.html(Courtesy of Jeff Harrison ofDrug.com)."
+      },
+      {
+        "key": "e_1_2_1_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.apsb.2013.07.004"
+      },
+      {
+        "key": "e_1_2_1_7_1",
+        "unstructured": "Coumadin‐5‐2650(2022).https://www.drugs.com/imprints/coumadin‐5‐2650.html(Courtesy of Jeff Harrison of Drugs.com) 7 March 2022."
+      },
+      {
+        "key": "e_1_2_1_8_1",
+        "unstructured": "Drug Price Competition and Patent Term Restoration Act of 1984(1984). Pub. L. 98‐417 98 Stat. 1585."
+      },
+      {
+        "key": "e_1_2_1_9_1",
+        "unstructured": "Food and Drug Administration(2009).Consumer Education: What You Should Know About Buying and Using Generic Drugs."
+      },
+      {
+        "key": "e_1_2_1_10_1",
+        "unstructured": "Generic(2021).Merriam‐Webster.comDictionary Merriam‐Webster https://www.merriam‐webster.com/dictionary/generic(accessed 1 January 2021)."
+      },
+      {
+        "key": "e_1_2_1_11_1",
+        "volume-title": "Generic Drug Savings in the U.S",
+        "year": "2015"
+      },
+      {
+        "key": "e_1_2_1_12_1",
+        "unstructured": "Guidance for Industry(2001).Statistical Approaches to Establishing Bioequivalence. U.S. Department of Health and Human Services Food and Drug Administration Center for Drug Evaluation and Research (CDER). 3616fnl.PDF (fda.gov)."
+      },
+      {
+        "key": "e_1_2_1_13_1",
+        "unstructured": "Matej Mikulic. Branded vs. generic U.S. drug prescriptions dispensed 2005–2018(2019).Statista. (https://www.statista.com/statistics/205042/proportion‐of‐brand‐to‐generic‐prescriptions‐dispensed)."
+      },
+      {
+        "key": "e_1_2_1_14_1",
+        "volume-title": "In‐Vivo Correlation of the Pharmacodynamic and Pharmacokinetic Behavior of Warfarin Sodium Tablets",
+        "author": "Mengler C.J.",
+        "year": "1998"
+      },
+      {
+        "key": "e_1_2_1_15_1",
+        "first-page": "49",
+        "article-title": "A randomized crossover study to compare the efficacy and tolerability of Barr warfarin sodium to the currently available Coumadin",
+        "volume": "19",
+        "author": "Neutel J.M.",
+        "year": "1998",
+        "journal-title": "Cardiovascular Reviews and Reports"
+      },
+      {
+        "key": "e_1_2_1_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamainternmed.2017.3601"
+      },
+      {
+        "key": "e_1_2_1_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001802"
+      },
+      {
+        "key": "e_1_2_1_18_1",
+        "unstructured": "State Policy Options To Reduce Prescription Drug Spending(2020).https://www.americanprogress.org/issues/healthcare/reports/2020/02/13/480415/state‐policy‐options‐reduce‐prescription‐drug‐spending(13 February 2020)."
+      },
+      {
+        "key": "e_1_2_1_19_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "U.S. Food and Drug Administration(2009).Generic Drugs: Myths and Facts.",
+        "DOI": "10.1097/01.NURSE.0000358563.39209.ec"
+      },
+      {
+        "key": "e_1_2_1_20_1",
+        "unstructured": "US Generic Drug Market(2019).Industry Trends Share Size Growth Opportunity and Forecast 2020‐2025. IMARC Group.IMARC Services Private Limited.https://www.imarcgroup.com/us‐generics‐market#:~:text=The%20US%20generic%20drug%20market effects%2C%20and%20route%20of%20administration."
+      },
+      {
+        "key": "e_1_2_1_21_1",
+        "unstructured": "Warfarin Sodium Tablet Monograph(2020).United States Pharmacopeia 43‐National Formulary 38."
+      }
+    ],
+    "container-title": [
+      "Fundamentals of Drug Development"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119913276.ch22",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119913276.ch22",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          25
+        ]
+      ],
+      "date-time": "2023-11-25T14:24:52Z",
+      "timestamp": 1700922292000
+    },
+    "score": 83.34581,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/9781119913276.ch22"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          11
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781119691693",
+      "9781119913276"
+    ],
+    "references-count": 20,
+    "alternative-id": [
+      "10.1002/9781119913276.ch22",
+      "10.1002/9781119913276"
+    ],
+    "URL": "https://doi.org/10.1002/9781119913276.ch22",
+    "archive": [
+      "Portico"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          11
+        ]
+      ]
+    }
+  }
+]

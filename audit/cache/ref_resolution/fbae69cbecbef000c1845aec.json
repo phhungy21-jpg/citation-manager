@@ -1,0 +1,1004 @@
+[
+  {
+    "institution": [
+      {
+        "name": "L&M Policy Research LLC with partners OM1 and IQVIA"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          2
+        ]
+      ],
+      "date-time": "2026-06-02T13:07:05Z",
+      "timestamp": 1780405625169,
+      "version": "3.54.1"
+    },
+    "reference-count": 0,
+    "publisher": "Agency for Healthcare Research and Quality (AHRQ)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.23970/ahrqepcregistries3addendum2",
+    "type": "report",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          10
+        ]
+      ],
+      "date-time": "2019-12-10T15:48:45Z",
+      "timestamp": 1575992925000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 35,
+    "title": [
+      "Tools and Technologies for Registry Interoperability, 2nd addendum of Registries for Evaluating Patient Outcomes, A User's Guide, 3rd ed"
+    ],
+    "prefix": "10.23970",
+    "member": "10057",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          4
+        ]
+      ]
+    },
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          10
+        ]
+      ],
+      "date-time": "2019-12-10T15:48:47Z",
+      "timestamp": 1575992927000
+    },
+    "score": 138.13434,
+    "resource": {
+      "primary": {
+        "URL": "https://effectivehealthcare.ahrq.gov/products/registries-guide-3rd-edition-2nd-addendum/research"
+      }
+    },
+    "editor": [
+      {
+        "given": "Richard E.",
+        "family": "Gliklich",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      },
+      {
+        "given": "Michelle B.",
+        "family": "Leavy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      },
+      {
+        "given": "Nancy A.",
+        "family": "Dreyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.23970/ahrqepcregistries3addendum2",
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "L&M Policy Research, LLC, with partners OM1 and QuintilesIMS"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          4
+        ]
+      ],
+      "date-time": "2026-06-04T06:02:30Z",
+      "timestamp": 1780552950215,
+      "version": "3.54.1"
+    },
+    "reference-count": 0,
+    "publisher": "Agency for Healthcare Research and Quality (AHRQ)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.23970/ahrqregistriesebook",
+    "type": "report",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2018-01-22T16:22:20Z",
+      "timestamp": 1516638140000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 22,
+    "title": [
+      "21st Century Patient Registries, Ebook Addendum to Registries for Evaluating Patient Outcomes: A User's Guide, 3rd Edition"
+    ],
+    "prefix": "10.23970",
+    "author": [
+      {
+        "given": "Richard E.",
+        "family": "Gliklich",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nancy A.",
+        "family": "Dreyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michelle B.",
+        "family": "Leavy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jennifer B.",
+        "family": "Christian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "10057",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2018-01-22T16:22:21Z",
+      "timestamp": 1516638141000
+    },
+    "score": 120.28413,
+    "resource": {
+      "primary": {
+        "URL": "https://effectivehealthcare.ahrq.gov/topics/registries-guide-4th-edition/white-paper-2016-4"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.23970/ahrqregistriesebook",
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "institution": [
+      {
+        "name": "L&M Policy Research, LLC, with partners OM1 and IQVIA"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          26
+        ]
+      ],
+      "date-time": "2026-06-26T04:26:06Z",
+      "timestamp": 1782447966841,
+      "version": "3.54.5"
+    },
+    "reference-count": 0,
+    "publisher": "Agency for Healthcare Research and Quality (AHRQ)",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.23970/ahrqepcregistries4",
+    "type": "report",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          21
+        ]
+      ],
+      "date-time": "2020-09-21T16:51:02Z",
+      "timestamp": 1600707062000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 147,
+    "title": [
+      "Registries for Evaluating Patient Outcomes: A User’s Guide"
+    ],
+    "prefix": "10.23970",
+    "member": "10057",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          21
+        ]
+      ]
+    },
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          21
+        ]
+      ],
+      "date-time": "2020-09-21T19:10:42Z",
+      "timestamp": 1600715442000
+    },
+    "score": 101.14614,
+    "resource": {
+      "primary": {
+        "URL": "https://effectivehealthcare.ahrq.gov/products/registries-guide-4th-edition/users-guide"
+      }
+    },
+    "editor": [
+      {
+        "given": "Richard E.",
+        "family": "Gliklich",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      },
+      {
+        "given": "Michelle B.",
+        "family": "Leavy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      },
+      {
+        "given": "Nancy A.",
+        "family": "Dreyer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          21
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.23970/ahrqepcregistries4",
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          21
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          9
+        ]
+      ],
+      "date-time": "2025-04-09T06:43:45Z",
+      "timestamp": 1744181025996
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2013-05-01T00:00:00Z",
+          "timestamp": 1367366400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2014-05-01T00:00:00Z",
+          "timestamp": 1398902400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 365,
+        "URL": "https://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Value in Health"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jval.2013.03.1359",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          3
+        ]
+      ],
+      "date-time": "2013-05-03T09:37:38Z",
+      "timestamp": 1367573858000
+    },
+    "page": "A265",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Registry Of Patient Registries (ROPR): Purpose, Design And Early Experience"
+    ],
+    "prefix": "10.1016",
+    "volume": "16",
+    "author": [
+      {
+        "given": "R.E.",
+        "family": "Gliklich",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Levy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.M.",
+        "family": "Campion",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.B.",
+        "family": "Leavy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Karl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "E.",
+        "family": "Berliner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "T.",
+        "family": "Taylor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "W.",
+        "family": "Hossfeld",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "L.L.",
+        "family": "Khurana",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Thompson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Value in Health"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1098301513014307?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1098301513014307?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          16
+        ]
+      ],
+      "date-time": "2018-10-16T07:01:19Z",
+      "timestamp": 1539673279000
+    },
+    "score": 62.9195,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1098301513014307"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1098301513014307"
+    ],
+    "URL": "https://doi.org/10.1016/j.jval.2013.03.1359",
+    "ISSN": [
+      "1098-3015"
+    ],
+    "issn-type": [
+      {
+        "value": "1098-3015",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          12
+        ]
+      ],
+      "date-time": "2026-04-12T05:04:15Z",
+      "timestamp": 1775970255418,
+      "version": "3.50.1"
+    },
+    "reference-count": 21,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2008-09-01T00:00:00Z",
+          "timestamp": 1220227200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Drug Information J"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1177/009286150804200502",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          7,
+          15
+        ]
+      ],
+      "date-time": "2017-07-15T22:01:59Z",
+      "timestamp": 1500156119000
+    },
+    "page": "421-428",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Good Practices for Handling Adverse Events Detected through Patient Registries"
+    ],
+    "prefix": "10.1007",
+    "volume": "42",
+    "author": [
+      {
+        "given": "Nancy A.",
+        "family": "Dreyer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Neha",
+        "family": "Sheth",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anne",
+        "family": "Trontell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Richard E.",
+        "family": "Gliklich",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          30
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "42050421_CR1",
+        "unstructured": "Gliklich RE, Dreyer NA. Registries for Evaluating Patient Outcomes: A User’s Guide. (Prepared by Outcome DEcIDE Center [Outcome Sciences, Inc. dba Outcome] under Contract No. HHSA 29020050035ITO1.) AHRQ Publication No. 07-EHC001-1. Rockville, MD: Agency for Healthcare Research and Quality; April 2007."
+      },
+      {
+        "key": "42050421_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "891",
+        "DOI": "10.1161/CIRCULATIONAHA.105.569657",
+        "volume": "113",
+        "author": "DS Baim",
+        "year": "2006",
+        "unstructured": "Baim DS, Mehran R, Kereiakes DJ, et al. Postmarket surveillance for drug-eluting coronary stents: a comprehensive approach. Circulation. 2006; 113:891–897.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "42050421_CR3",
+        "unstructured": "US Food and Drug Administration. Medical Device Reporting. See http://www.fda.gov/cdrh/mdr/cdrh/mdr."
+      },
+      {
+        "key": "42050421_CR4",
+        "first-page": "61",
+        "volume-title": "The Bionic Patient: Health Promotion for People With Implanted Prosthetic Devices",
+        "author": "TP Gross",
+        "year": "2005",
+        "unstructured": "Gross TP, Witten CM, Uldriks C, Regnault WF. A view from the US Food and Drug Administration. In: Johnson FE, Goldstone J, Virgo KS, Eds. The Bionic Patient: Health Promotion for People With Implanted Prosthetic Devices. Totowa, NJ: Humana; 2005: 61–87."
+      },
+      {
+        "key": "42050421_CR5",
+        "unstructured": "Code of Federal Regulations. 21 CFR 314.80."
+      },
+      {
+        "key": "42050421_CR6",
+        "unstructured": "ICH E2A: Clinical Safety Data Management: Definitions and Standards for Expedited Reporting; and 21 CFR 310.305: Records and Reports Concerning Adverse Drug Experiences on Marketed Products."
+      },
+      {
+        "key": "42050421_CR7",
+        "unstructured": "FDA Pharmacovigilance Guidance. Available at: http://www.fda.gov/cdrh/osb/guidance/316.pdf/cdrh/osb/guidance/316.pdf."
+      },
+      {
+        "key": "42050421_CR8",
+        "unstructured": "Guidance for Industry: Establishing Pregnancy Exposure Registries, available at: http://www.fda.gov/cder/guidance/3626fnl.pdf/cder/guidance/3626fnl.pdf; and Postmarketing Adverse Experience Reporting for Human Drug and Licensed Biological Products: Clarification of What to Report, available at: http://www.fda.gov/cder/guidance/1830fn1.pdf/cder/guidance/1830fn1.pdf."
+      },
+      {
+        "key": "42050421_CR9",
+        "unstructured": "Guidance for Industry Postmarketing Adverse Experience Reporting for Human Drug and Licensed Biological Products: Clarification of What to Report. USDHHS, FDA, CDER, and CBER. CLIN4 August 1997."
+      },
+      {
+        "key": "42050421_CR10",
+        "unstructured": "See http://www.fda.gov/medwatch/SAFETY/medwatch/SAFETY. for summaries of new safety information."
+      },
+      {
+        "key": "42050421_CR11",
+        "unstructured": "US Food and Drug Administration. MedWatch to manufacturer program. Available at: http://www.fda.gov/medwatch/report/mmp.htm/medwatch/report/mmp.htm."
+      },
+      {
+        "key": "42050421_CR12",
+        "unstructured": "See Code of Federal Regulations, 21 CFR 314.80."
+      },
+      {
+        "key": "42050421_CR13",
+        "unstructured": "US Food and Drug Administration. MedWatch. Available at: http://www.fda.gov/medwatch/medwatch."
+      },
+      {
+        "key": "42050421_CR14",
+        "unstructured": "Vaccine Adverse Event Reporting System. Available at: http://vaers.hhs.gov."
+      },
+      {
+        "key": "42050421_CR15",
+        "unstructured": "Council for International Organizations of Medical Sciences. Available at: http://www.cioms.ch."
+      },
+      {
+        "key": "42050421_CR16",
+        "unstructured": "Code of Federal Regulations. 21 CFR 312.32."
+      },
+      {
+        "key": "42050421_CR17",
+        "unstructured": "Code of Federal Regulations. 21 CFR 314.80(f)(1)."
+      },
+      {
+        "key": "42050421_CR18",
+        "unstructured": "Safety Reporting Requirements for Human Drug and Biological Products; Proposed Rule. 21 CFR Parts 310, 312 et al. Available at: http://www.fda.gov/cber/rules/safereport.pdf/cber/rules/safereport.pdf."
+      },
+      {
+        "key": "42050421_CR19",
+        "unstructured": "ICH Topic E 2 A. Clinical Safety Data Management: Definitions and Standards for Expedited Reporting. European Medicines Agency. CPMP/ICH/377/95. June 1995."
+      },
+      {
+        "key": "42050421_CR20",
+        "unstructured": "ICH Topic E 2 D. Post Approval Safety Data Management. European Medicines Agency. CPMP/ICH/3945/03. May 2004."
+      },
+      {
+        "key": "42050421_CR21",
+        "unstructured": "ICH E2C R1: Clinical Safety Data Management: Periodic Updated Safety Reports for Marketed Drugs. European Medicines Agency. CPMP/ICH/288/95. June 1997."
+      }
+    ],
+    "container-title": [
+      "Drug Information Journal"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1177/009286150804200502.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1177/009286150804200502/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://journals.sagepub.com/doi/pdf/10.1177/009286150804200502",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1177/009286150804200502.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          20
+        ]
+      ],
+      "date-time": "2020-08-20T20:33:58Z",
+      "timestamp": 1597955638000
+    },
+    "score": 58.245487,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1177/009286150804200502"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    },
+    "references-count": 21,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "42050421"
+    ],
+    "URL": "https://doi.org/10.1177/009286150804200502",
+    "ISSN": [
+      "0092-8615",
+      "2164-9200"
+    ],
+    "issn-type": [
+      {
+        "value": "0092-8615",
+        "type": "print"
+      },
+      {
+        "value": "2164-9200",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    }
+  }
+]

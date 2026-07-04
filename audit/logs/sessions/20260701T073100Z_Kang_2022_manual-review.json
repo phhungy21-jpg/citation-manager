@@ -1,0 +1,34 @@
+{
+  "paper": "Kang 2022.md",
+  "provenance": "manual_human_review",
+  "reviewer": "claude (interactive session, not automated API call)",
+  "pipeline_version": null,
+  "preceding_dry_run_sessions": [
+    "20260701T071235Z_Kang_2022.json",
+    "20260701T072007Z_Kang_2022.json",
+    "20260701T072154Z_Kang_2022.json"
+  ],
+  "n_checks_reviewed": 27,
+  "n_resolved": 24,
+  "n_unresolved": 3,
+  "verdict_counts": {
+    "SUPPORTED": 12,
+    "PARTIALLY_SUPPORTED": 10,
+    "UNSUPPORTED": 1,
+    "NOT_EVALUABLE": 1
+  },
+  "gate2_fulltext_checks_attempted": 2,
+  "gate2_results": [
+    {"citation": "[3] Stanford/JAMA", "result": "FAILED — OA marked available (Unpaywall) but PDF fetch failed (JAMA landing page, not direct PDF)", "doi": "10.1001/jama.283.3.354"},
+    {"citation": "[10] Patel pentafecta", "result": "FAILED — OA link was an institutional repository landing page, not a direct PDF", "doi": "10.1016/j.eururo.2011.01.032"}
+  ],
+  "pipeline_bugs_found_during_this_run": [
+    "Bold markdown heading '## **REFERENCES**' not matched by heading regex — 0 references parsed, all 75 citations fell through as reference_not_in_list. Fixed in ref_resolver.py and check_claims.py.",
+    "Statistical IQR range '[13-41]' (from '15 [13-41] vs. 85 [30.50-195] days') misread as a citation range spanning references 13 through 41, generating 19 fake missing-reference flags. Fixed by capping citation-range width at 15 in expand_marker()."
+  ],
+  "output_files": {
+    "manual_preview": "audit/results/preview/Kang_2022.manual-preview.json",
+    "combined_summary": "audit/results/preview/three_paper_review_summary.md"
+  },
+  "notes": "Second of two additional calibration papers requested after Jia 2023. Picked as one of the two smallest remaining TEMP/ files, not cherry-picked for ease."
+}

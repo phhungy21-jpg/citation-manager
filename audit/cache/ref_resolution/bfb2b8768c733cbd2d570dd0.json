@@ -1,0 +1,1468 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2026-06-25T21:42:25Z",
+      "timestamp": 1782423745695,
+      "version": "3.54.5"
+    },
+    "reference-count": 107,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "14",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n            <jats:title>Background:</jats:title>\n            <jats:p>The American Heart Association has sponsored both guidelines and scientific statements that address the diagnosis, management, and prevention of infective endocarditis. As a result of the unprecedented and increasing incidence of infective endocarditis cases among people who inject drugs, the American Heart Association sponsored this original scientific statement. It provides a more in-depth focus on the management of infective endocarditis among this unique population than what has been provided in prior American Heart Association infective endocarditis–related documents.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Methods:</jats:title>\n            <jats:p>A writing group was named and consisted of recognized experts in the fields of infectious diseases, cardiology, addiction medicine, and cardiovascular surgery in October 2021. A literature search was conducted in Embase on November 19, 2021, and multiple terms were used, with 1345 English-language articles identified after removal of duplicates.</jats:p>\n          </jats:sec>\n          <jats:sec>\n            <jats:title>Conclusions:</jats:title>\n            <jats:p>Management of infective endocarditis in people who inject drugs is complex and requires a unique approach in all aspects of care. Clinicians must appreciate that it requires involvement of a variety of specialists and that consultation by addiction-trained clinicians is as important as that of more traditional members of the endocarditis team to improve infective endocarditis outcomes. Preventive measures are critical in people who inject drugs and are cured of an initial bout of infective endocarditis because they remain at extremely high risk for subsequent bouts of infective endocarditis, regardless of whether injection drug use is continued.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1161/cir.0000000000001090",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          31
+        ]
+      ],
+      "date-time": "2022-08-31T09:00:27Z",
+      "timestamp": 1661936427000
+    },
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 115,
+    "title": [
+      "Management of Infective Endocarditis in People Who Inject Drugs: A Scientific Statement From the American Heart Association"
+    ],
+    "prefix": "10.1161",
+    "volume": "146",
+    "author": [
+      {
+        "given": "Larry M.",
+        "family": "Baddour",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Melissa B.",
+        "family": "Weimer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alysse G.",
+        "family": "Wurcel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Doff B.",
+        "family": "McElhinney",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laura R.",
+        "family": "Marks",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laura C.",
+        "family": "Fanucchi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zerelda",
+        "family": "Esquer Garrigos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gosta B.",
+        "family": "Pettersson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel C.",
+        "family": "DeSimone",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "on behalf of the American Heart Association Rheumatic Fever, Endocarditis and Kawasaki Disease Committee of the Council on Lifelong Congenital Heart Disease and Heart Health in the Young; Council on Cardiovascular Surgery and Anesthesia; Council on Cardiovascular and Stroke Nursing; Council on Clinical Cardiology; and Council on Peripheral Vascular Disease",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "e_1_3_1_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313753"
+      },
+      {
+        "key": "e_1_3_1_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIR.0000000000000296"
+      },
+      {
+        "key": "e_1_3_1_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/ehv319"
+      },
+      {
+        "key": "e_1_3_1_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/ADM.0000000000000916"
+      },
+      {
+        "key": "e_1_3_1_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40429-019-00267-x"
+      },
+      {
+        "key": "e_1_3_1_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00952990.2018.1546862"
+      },
+      {
+        "key": "e_1_3_1_8_2",
+        "unstructured": "Centers for Disease Control and Prevention. Drug overdose deaths in the U.S. top 100 000 annually. November 17 2021. Accessed April 20 2022. https://www.cdc.gov/nchs/pressroom/nchs_press_releases/2021/20211117.htm"
+      },
+      {
+        "key": "e_1_3_1_9_2",
+        "first-page": "443",
+        "article-title": "Community outbreak of HIV infection linked to injection drug use of oxymorphone–Indiana, 2015.",
+        "volume": "64",
+        "author": "Conrad C",
+        "year": "2015",
+        "unstructured": "Conrad, C, Bradley, HM, Broz, D, Buddha, S, Chapman, EL, Galang, RR, Hillman, D, Hon, J, Hoover, KW, Patel, MR, et al; Centers for Disease Control and Prevention (CDC). Community outbreak of HIV infection linked to injection drug use of oxymorphone–Indiana, 2015. MMWR Morb Mortal Wkly Rep. 2015;64:443–444.",
+        "journal-title": "MMWR Morb Mortal Wkly Rep"
+      },
+      {
+        "key": "e_1_3_1_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2105/AJPH.2019.305366"
+      },
+      {
+        "key": "e_1_3_1_11_2",
+        "first-page": "453",
+        "article-title": "Increases in hepatitis C virus infection related to injection drug use among persons aged ≤30 years–Kentucky, Tennessee, Virginia, and West Virginia, 2006-2012.",
+        "volume": "64",
+        "author": "Zibbell JE",
+        "year": "2015",
+        "unstructured": "Zibbell, JE, Iqbal, K, Patel, RC, Suryaprasad, A, Sanders, KJ, Moore-Moravian, L, Serrecchia, J, Blankenship, S, Ward, JW, Holtzman, D; Centers for Disease Control and Prevention (CDC). Increases in hepatitis C virus infection related to injection drug use among persons aged ≤30 years–Kentucky, Tennessee, Virginia, and West Virginia, 2006-2012. MMWR Morb Mortal Wkly Rep. 2015;64:453–458.",
+        "journal-title": "MMWR Morb Mortal Wkly Rep"
+      },
+      {
+        "key": "e_1_3_1_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1377/hlthaff.2015.1424"
+      },
+      {
+        "key": "e_1_3_1_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/08897077.2018.1452326"
+      },
+      {
+        "key": "e_1_3_1_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/AITC202201180"
+      },
+      {
+        "key": "e_1_3_1_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mcna.2021.08.002"
+      },
+      {
+        "key": "e_1_3_1_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-009-0928-6"
+      },
+      {
+        "key": "e_1_3_1_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-015-3391-6"
+      },
+      {
+        "key": "e_1_3_1_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/M16-0317"
+      },
+      {
+        "key": "e_1_3_1_19_2",
+        "volume-title": "Diagnostic and Statistical Manual of Mental Disorders (DSM-5)",
+        "year": "2013",
+        "unstructured": "Diagnostic and Statistical Manual of Mental Disorders (DSM-5). 5th ed. American Psychiatric Association; 2013.",
+        "edition": "5"
+      },
+      {
+        "key": "e_1_3_1_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02791072.2003.10400007"
+      },
+      {
+        "key": "e_1_3_1_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/10826084.2018.1467453"
+      },
+      {
+        "key": "e_1_3_1_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/ADM.0000000000000673"
+      },
+      {
+        "key": "e_1_3_1_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/ADM.0000000000000674"
+      },
+      {
+        "key": "e_1_3_1_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.m772"
+      },
+      {
+        "key": "e_1_3_1_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.j1550"
+      },
+      {
+        "key": "e_1_3_1_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mcna.2021.08.009"
+      },
+      {
+        "key": "e_1_3_1_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mcna.2021.08.011"
+      },
+      {
+        "key": "e_1_3_1_28_2",
+        "unstructured": "ANKORS. Resources. Accessed April 21 2022. https://ankors.bc.ca/resources/"
+      },
+      {
+        "key": "e_1_3_1_29_2",
+        "unstructured": "Next Distro. Getting started with safe injections. Accessed April 22 2022. https://nextdistro.org/resources-collection/getting-started-with-safe-injection"
+      },
+      {
+        "key": "e_1_3_1_30_2",
+        "unstructured": "National Harm Reduction Coalition. Getting off right: a safety manual for injection drug users. Accessed March 26 2022. https://harmreduction.org/issues/safer-drug-use/injection-safety-manual/"
+      },
+      {
+        "key": "e_1_3_1_31_2",
+        "unstructured": "Wishik G. Educating clients on safer injection practices. Accessed March 27 2022. https://www.youtube.com/watch?v=2PeaPqOsKgc&ab_channel=EducationalVideosforAddictionCareTeams"
+      },
+      {
+        "key": "e_1_3_1_32_2",
+        "unstructured": "ANKORS. Safer injection demonstration. Accessed April 22 2022. https://www.youtube.com/watch?v=E8LfW9GWKWY"
+      },
+      {
+        "key": "e_1_3_1_33_2",
+        "unstructured": "Project Inform. What kills hepatitis C? Harm reduction and prevention tips. Accessed April 22 2022. https://static1.squarespace.com/static/5a4691e19f07f5d01c0a3df3/t/5e8b3c37b1c38a5f6c602de5/1586183224708/Patient+What+Kills.pdf"
+      },
+      {
+        "key": "e_1_3_1_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mcna.2021.09.002"
+      },
+      {
+        "key": "e_1_3_1_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12954-019-0312-8"
+      },
+      {
+        "key": "e_1_3_1_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofab631"
+      },
+      {
+        "key": "e_1_3_1_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofab633"
+      },
+      {
+        "key": "e_1_3_1_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.drugalcdep.2020.108169"
+      },
+      {
+        "key": "e_1_3_1_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/ADM.0000000000000648"
+      },
+      {
+        "key": "e_1_3_1_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsat.2018.06.011"
+      },
+      {
+        "key": "e_1_3_1_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofaa074"
+      },
+      {
+        "key": "e_1_3_1_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.genhosppsych.2021.02.007"
+      },
+      {
+        "key": "e_1_3_1_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjmed.2021.08.007"
+      },
+      {
+        "key": "e_1_3_1_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/dar.12270"
+      },
+      {
+        "key": "e_1_3_1_45_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1503/cmaj.202124"
+      },
+      {
+        "key": "e_1_3_1_46_2",
+        "unstructured": "Canadian Research Initiative in Substance Misuse. Guidance document on the management of substance use in acute care. Accessed March 27 2022. https://crismprairies.ca/management-of-substance-use-in-acute-care-settings-in-alberta-guidance-document/"
+      },
+      {
+        "key": "e_1_3_1_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/ADM.0000000000000487"
+      },
+      {
+        "key": "e_1_3_1_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamanetworkopen.2020.16228"
+      },
+      {
+        "key": "e_1_3_1_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2468-2667(21)00248-6"
+      },
+      {
+        "key": "e_1_3_1_50_2",
+        "unstructured": "Substance Abuse and Mental Health Services Administration. Become a buprenoprhine waivered practitioner. January 3 2022. Accessed April 24 2022. https://www.samhsa.gov/medication-assisted-treatment/become-buprenorphine-waivered-practitioner"
+      },
+      {
+        "key": "e_1_3_1_51_2",
+        "unstructured": "Kentucky General Assembly. 201 KAR 9:270: professional standards for prescribing dispensing or administering buprenorphine-mono-product or buprenorphine-combined-with-naloxone. Accessed March 28 2022. https://apps.legislature.ky.gov/law/kar/titles/201/009/270/"
+      },
+      {
+        "key": "e_1_3_1_52_2",
+        "unstructured": "ASAM eLearning. Buprenorphine mini-course: building on federal prescribing guidance. 2022. Accessed April 28 2022. https://elearning.asam.org/products/buprenorphine-mini-course-building-on-federal-prescribing-guidance"
+      },
+      {
+        "key": "e_1_3_1_53_2",
+        "unstructured": "Substance Abuse and Mental Health Services Administration. TIP 63: medications for opioid use disorder. July 2021. Accessed March 27 2022. https://store.samhsa.gov/product/TIP-63-Medications-for-Opioid-Use-Disorder-Full-Document/PEP21-02-01-002"
+      },
+      {
+        "key": "e_1_3_1_54_2",
+        "unstructured": "Providers clinical support system. November 2021. Accessed April 22 2022. https://pcssnow.org"
+      },
+      {
+        "key": "e_1_3_1_55_2",
+        "unstructured": "Substance Abuse and Mental Health Services Administration. Opioid treatment program directory. February 2022. Accessed April 22 2022. https://dpt2.samhsa.gov/treatment/directory.aspx"
+      },
+      {
+        "key": "e_1_3_1_56_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.drugalcdep.2021.109241"
+      },
+      {
+        "key": "e_1_3_1_57_2",
+        "unstructured": "Legal Action Center. Emergency: hospitals can violate federal law by denying necessary care for substance use disorders in emergency departments. July 20 2021. Accessed March 22 2022. https://www.lac.org/resource/emergency-hospitals-can-violate-federal-law-by-denying-necessary-care-for-substance-use-disorders-in-emergency-departments"
+      },
+      {
+        "key": "e_1_3_1_58_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.15585/mmwr.mm6722a2"
+      },
+      {
+        "key": "e_1_3_1_59_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjmed.2021.10.007"
+      },
+      {
+        "key": "e_1_3_1_60_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMc2114046"
+      },
+      {
+        "key": "e_1_3_1_61_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/420939"
+      },
+      {
+        "key": "e_1_3_1_62_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.idc.2020.06.009"
+      },
+      {
+        "key": "e_1_3_1_63_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jhm.2597"
+      },
+      {
+        "key": "e_1_3_1_64_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciz654"
+      },
+      {
+        "key": "e_1_3_1_65_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofy194"
+      },
+      {
+        "key": "e_1_3_1_66_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jiaa025"
+      },
+      {
+        "key": "e_1_3_1_67_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1808312"
+      },
+      {
+        "key": "e_1_3_1_68_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/s0002-9343(96)00070-8"
+      },
+      {
+        "key": "e_1_3_1_69_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijantimicag.2019.06.006"
+      },
+      {
+        "key": "e_1_3_1_70_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofy056"
+      },
+      {
+        "key": "e_1_3_1_71_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/ADM.0000000000000693"
+      },
+      {
+        "key": "e_1_3_1_72_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jsat.2019.04.008"
+      },
+      {
+        "key": "e_1_3_1_73_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciy722"
+      },
+      {
+        "key": "e_1_3_1_74_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ypmed.2019.105760"
+      },
+      {
+        "key": "e_1_3_1_75_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtcvs.2017.07.020"
+      },
+      {
+        "key": "e_1_3_1_76_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12879-021-06514-9"
+      },
+      {
+        "key": "e_1_3_1_77_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciaa365"
+      },
+      {
+        "key": "e_1_3_1_78_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/ADM.0000000000000432"
+      },
+      {
+        "key": "e_1_3_1_79_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/PTS.0000000000000721"
+      },
+      {
+        "key": "e_1_3_1_80_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.drugalcdep.2019.03.013"
+      },
+      {
+        "key": "e_1_3_1_81_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIR.0000000000000923"
+      },
+      {
+        "key": "e_1_3_1_82_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofaa069"
+      },
+      {
+        "key": "e_1_3_1_83_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofab486"
+      },
+      {
+        "key": "e_1_3_1_84_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s40360-020-00452-z"
+      },
+      {
+        "key": "e_1_3_1_85_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1752-7325.1975.tb04035.x"
+      },
+      {
+        "key": "e_1_3_1_86_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11524-010-9498-5"
+      },
+      {
+        "key": "e_1_3_1_87_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIR.0000000000000969"
+      },
+      {
+        "key": "e_1_3_1_88_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciaa194"
+      },
+      {
+        "key": "e_1_3_1_89_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2020.03.089"
+      },
+      {
+        "key": "e_1_3_1_90_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtcvs.2016.09.093"
+      },
+      {
+        "key": "e_1_3_1_91_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00015385.2021.1976448"
+      },
+      {
+        "key": "e_1_3_1_92_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/23744235.2021.1928279"
+      },
+      {
+        "key": "e_1_3_1_93_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13019-021-01491-1"
+      },
+      {
+        "key": "e_1_3_1_94_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtcvs.2019.06.055"
+      },
+      {
+        "key": "e_1_3_1_95_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2021.12.068"
+      },
+      {
+        "key": "e_1_3_1_96_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/ADM.0000000000000558"
+      },
+      {
+        "key": "e_1_3_1_97_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0225460"
+      },
+      {
+        "key": "e_1_3_1_98_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.120.017293"
+      },
+      {
+        "key": "e_1_3_1_99_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-020-80869-y"
+      },
+      {
+        "key": "e_1_3_1_100_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejcts/ezs084"
+      },
+      {
+        "key": "e_1_3_1_101_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijcard.2019.05.020"
+      },
+      {
+        "key": "e_1_3_1_102_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtcvs.2018.07.112"
+      },
+      {
+        "key": "e_1_3_1_103_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2015.03.019"
+      },
+      {
+        "key": "e_1_3_1_104_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciy1064"
+      },
+      {
+        "key": "e_1_3_1_105_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.109.192665"
+      },
+      {
+        "key": "e_1_3_1_106_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jocs.14009"
+      },
+      {
+        "key": "e_1_3_1_107_2",
+        "unstructured": "ClinicalTrials.gov. Integrated Outpatient Treatment of Opioid Use Disorder and Severe Injection Related Infections (BOPAT). Accessed April 15 2022. https://clinicaltrials.gov/ct2/show/NCT04677114?term=injection+drug+us. e&cond=endocarditis&draw=1&rank=2"
+      },
+      {
+        "key": "e_1_3_1_108_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/aac.02614-20"
+      }
+    ],
+    "container-title": [
+      "Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001090",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          4
+        ]
+      ],
+      "date-time": "2025-06-04T13:03:23Z",
+      "timestamp": 1749042203000
+    },
+    "score": 82.75156,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001090"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          4
+        ]
+      ]
+    },
+    "references-count": 107,
+    "journal-issue": {
+      "issue": "14",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/CIR.0000000000001090"
+    ],
+    "URL": "https://doi.org/10.1161/cir.0000000000001090",
+    "ISSN": [
+      "0009-7322",
+      "1524-4539"
+    ],
+    "issn-type": [
+      {
+        "value": "0009-7322",
+        "type": "print"
+      },
+      {
+        "value": "1524-4539",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2022-08-31",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T07:41:12Z",
+      "timestamp": 1767166872985,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1161/cir.0000000000000969",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              25
+            ]
+          ],
+          "date-time": "2022-04-25T00:00:00Z",
+          "timestamp": 1650844800000
+        }
+      }
+    ],
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "17",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          26
+        ]
+      ]
+    },
+    "DOI": "10.1161/cir.0000000000001066",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          25
+        ]
+      ],
+      "date-time": "2022-04-25T14:00:21Z",
+      "timestamp": 1650895221000
+    },
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Correction to: Prevention of Viridans Group Streptococcal Infective Endocarditis: A Scientific Statement From the American Heart Association"
+    ],
+    "prefix": "10.1161",
+    "volume": "145",
+    "member": "276",
+    "container-title": [
+      "Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001066",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2024-05-12T19:40:09Z",
+      "timestamp": 1715542809000
+    },
+    "score": 63.809834,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001066"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          26
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "17",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            26
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/CIR.0000000000001066"
+    ],
+    "URL": "https://doi.org/10.1161/cir.0000000000001066",
+    "ISSN": [
+      "0009-7322",
+      "1524-4539"
+    ],
+    "issn-type": [
+      {
+        "value": "0009-7322",
+        "type": "print"
+      },
+      {
+        "value": "1524-4539",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          26
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2022-04-25",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T07:41:12Z",
+      "timestamp": 1767166872829,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1161/cir.0000000000000969",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2021,
+              8,
+              30
+            ]
+          ],
+          "date-time": "2021-08-30T00:00:00Z",
+          "timestamp": 1630281600000
+        }
+      }
+    ],
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "9",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1161/cir.0000000000001012",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          30
+        ]
+      ],
+      "date-time": "2021-08-30T14:00:30Z",
+      "timestamp": 1630332030000
+    },
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Correction to: Prevention of Viridans Group Streptococcal Infective Endocarditis: A Scientific Statement From the American Heart Association"
+    ],
+    "prefix": "10.1161",
+    "volume": "144",
+    "member": "276",
+    "container-title": [
+      "Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001012",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2024-05-12T20:01:09Z",
+      "timestamp": 1715544069000
+    },
+    "score": 59.636665,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001012"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "9",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            8,
+            31
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/CIR.0000000000001012"
+    ],
+    "URL": "https://doi.org/10.1161/cir.0000000000001012",
+    "ISSN": [
+      "0009-7322",
+      "1524-4539"
+    ],
+    "issn-type": [
+      {
+        "value": "0009-7322",
+        "type": "print"
+      },
+      {
+        "value": "1524-4539",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          8,
+          31
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2021-08-30",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T08:40:18Z",
+      "timestamp": 1767170418735,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1161/cir.0000000000000296",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              23
+            ]
+          ],
+          "date-time": "2016-08-23T00:00:00Z",
+          "timestamp": 1471910400000
+        }
+      }
+    ],
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "8",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          23
+        ]
+      ]
+    },
+    "DOI": "10.1161/cir.0000000000000427",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2016-08-22T16:37:28Z",
+      "timestamp": 1471883848000
+    },
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Correction to: Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association"
+    ],
+    "prefix": "10.1161",
+    "volume": "134",
+    "member": "276",
+    "container-title": [
+      "Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000427",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2024-05-12T19:40:59Z",
+      "timestamp": 1715542859000
+    },
+    "score": 58.895493,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000427"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          23
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            8,
+            23
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/CIR.0000000000000427"
+    ],
+    "URL": "https://doi.org/10.1161/cir.0000000000000427",
+    "ISSN": [
+      "0009-7322",
+      "1524-4539"
+    ],
+    "issn-type": [
+      {
+        "value": "0009-7322",
+        "type": "print"
+      },
+      {
+        "value": "1524-4539",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          23
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2016-08-23",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T08:33:33Z",
+      "timestamp": 1767170013900,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1161/cir.0000000000000296",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              30
+            ]
+          ],
+          "date-time": "2018-07-30T00:00:00Z",
+          "timestamp": 1532908800000
+        }
+      }
+    ],
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "5",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1161/cir.0000000000000594",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2018-09-16T05:49:48Z",
+      "timestamp": 1537076988000
+    },
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Correction to: Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association"
+    ],
+    "prefix": "10.1161",
+    "volume": "138",
+    "member": "276",
+    "container-title": [
+      "Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000594",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2024-05-12T20:07:56Z",
+      "timestamp": 1715544476000
+    },
+    "score": 58.678493,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000594"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            7,
+            31
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/CIR.0000000000000594"
+    ],
+    "URL": "https://doi.org/10.1161/cir.0000000000000594",
+    "ISSN": [
+      "0009-7322",
+      "1524-4539"
+    ],
+    "issn-type": [
+      {
+        "value": "0009-7322",
+        "type": "print"
+      },
+      {
+        "value": "1524-4539",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          31
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2018-07-30",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+]

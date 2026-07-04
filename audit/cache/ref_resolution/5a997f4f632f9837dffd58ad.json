@@ -1,0 +1,1673 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T18:58:51Z",
+      "timestamp": 1782932331118,
+      "version": "3.54.5"
+    },
+    "reference-count": 27,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2024-04-01T00:00:00Z",
+          "timestamp": 1711929600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2024-04-01T00:00:00Z",
+          "timestamp": 1711929600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              23
+            ]
+          ],
+          "date-time": "2024-03-23T00:00:00Z",
+          "timestamp": 1711152000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000272",
+        "name": "National Institute for Health and Care Research",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000272",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000289",
+        "name": "Cancer Research UK",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000289",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000066",
+        "name": "National Institute of Environmental Health Sciences",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000066",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Environment International"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.envint.2024.108602",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          24
+        ]
+      ],
+      "date-time": "2024-03-24T23:28:46Z",
+      "timestamp": 1711322926000
+    },
+    "page": "108602",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 806,
+    "special_numbering": "C",
+    "title": [
+      "A tool to assess risk of bias in non-randomized follow-up studies of exposure effects (ROBINS-E)"
+    ],
+    "prefix": "10.1016",
+    "volume": "186",
+    "author": [
+      {
+        "given": "Julian P.T.",
+        "family": "Higgins",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rebecca L.",
+        "family": "Morgan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew A.",
+        "family": "Rooney",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kyla W.",
+        "family": "Taylor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kristina A.",
+        "family": "Thayer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Raquel A.",
+        "family": "Silva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0365-5216",
+        "authenticated-orcid": false,
+        "given": "Courtney",
+        "family": "Lemeris",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elie A.",
+        "family": "Akl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas F.",
+        "family": "Bateson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nancy D.",
+        "family": "Berkman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Barbara S.",
+        "family": "Glenn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Asbjørn",
+        "family": "Hróbjartsson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Judy S.",
+        "family": "LaKind",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2119-5604",
+        "authenticated-orcid": false,
+        "given": "Alexandra",
+        "family": "McAleenan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joerg J.",
+        "family": "Meerpohl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rebecca M.",
+        "family": "Nachman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julie E.",
+        "family": "Obbagy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0604-7822",
+        "authenticated-orcid": false,
+        "given": "Annette",
+        "family": "O'Connor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elizabeth G.",
+        "family": "Radke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2861-0578",
+        "authenticated-orcid": false,
+        "given": "Jelena",
+        "family": "Savović",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Holger J.",
+        "family": "Schünemann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Beverley",
+        "family": "Shea",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kate",
+        "family": "Tilling",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6537-6100",
+        "authenticated-orcid": false,
+        "given": "Jos",
+        "family": "Verbeek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3486-8126",
+        "authenticated-orcid": false,
+        "given": "Meera",
+        "family": "Viswanathan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan A.C.",
+        "family": "Sterne",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.envint.2024.108602_b0005",
+        "series-title": "Cochrane Handbook for Systematic Reviews of Interventions",
+        "first-page": "177",
+        "article-title": "Chapter 7: considering bias and conflicts of interest among the included studies",
+        "author": "Boutron",
+        "year": "2019"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.envint.2024.108602_b0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "249",
+        "DOI": "10.1186/s13643-020-01490-8",
+        "article-title": "Assessing risk of bias in human environmental epidemiology studies using three tools: different conclusions from different tools",
+        "volume": "9",
+        "author": "Eick",
+        "year": "2020",
+        "journal-title": "Syst. Rev."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.envint.2024.108602_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "53",
+        "DOI": "10.1186/s13643-022-01894-8",
+        "article-title": "Authors' rebuttal to integrated risk information system (IRIS) response to “assessing risk of bias in human environmental epidemiology studies using three tools: different conclusions from different tools”",
+        "volume": "11",
+        "author": "Eick",
+        "year": "2022",
+        "journal-title": "Syst Rev."
+      },
+      {
+        "issue": "7650",
+        "key": "10.1016/j.envint.2024.108602_b0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "924",
+        "DOI": "10.1136/bmj.39489.470347.AD",
+        "article-title": "GRADE: an emerging consensus on rating quality of evidence and strength of recommendations",
+        "volume": "336",
+        "author": "Guyatt",
+        "year": "2008",
+        "journal-title": "BMJ"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.envint.2024.108602_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "383",
+        "DOI": "10.1016/j.jclinepi.2010.04.026",
+        "article-title": "GRADE guidelines: 1. Introduction-GRADE evidence profiles and summary of findings tables",
+        "volume": "64",
+        "author": "Guyatt",
+        "year": "2011",
+        "journal-title": "J. Clin. Epidemiol."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.envint.2024.108602_b0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "615",
+        "DOI": "10.1097/01.ede.0000135174.63482.43",
+        "article-title": "A structural approach to selection bias",
+        "volume": "15",
+        "author": "Hernán",
+        "year": "2004",
+        "journal-title": "Epidemiol."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0035",
+        "series-title": "Causal inference: what if",
+        "author": "Hernán",
+        "year": "2020"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.envint.2024.108602_b0040",
+        "first-page": "499",
+        "article-title": "Application of evidence-based methods to construct mechanism-driven chemical assessment frameworks",
+        "volume": "39",
+        "author": "Hoffmann",
+        "year": "2022",
+        "journal-title": "ALTEX"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.envint.2024.108602_b0045",
+        "first-page": "175",
+        "article-title": "How evidence-based methodologies can help identify and reduce uncertainty in chemical risk assessment",
+        "volume": "39",
+        "author": "Hoffmann",
+        "year": "2022",
+        "journal-title": "ALTEX"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.envint.2024.108602_b0050",
+        "first-page": "1866",
+        "article-title": "Triangulation in aetiological epidemiology",
+        "volume": "45",
+        "author": "Lawlor",
+        "year": "2016",
+        "journal-title": "Int. J. Epidemiol."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0055",
+        "article-title": "Handling time varying confounding in observational research",
+        "volume": "359",
+        "author": "Mansournia",
+        "year": "2017",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.envint.2018.08.018",
+        "article-title": "Evaluation of the risk of bias in non-randomized studies of interventions (ROBINS-I) and the 'target experiment' concept in studies of exposures: rationale and preliminary instrument development",
+        "volume": "120",
+        "author": "Morgan",
+        "year": "2018",
+        "journal-title": "Environ. Int."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "168",
+        "DOI": "10.1016/j.envint.2018.11.004",
+        "article-title": "A risk of bias instrument for non-randomized studies of exposures: a users' guide to its application in the context of GRADE",
+        "volume": "122",
+        "author": "Morgan",
+        "year": "2019",
+        "journal-title": "Environ. Int."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0070",
+        "unstructured": "National Academies of Sciences Engineering and Medicine, 2022. A Review of U.S. EPA’s ORD Staff Handbook for Developing IRIS Assessments: 2020 Version. Washington DC: The National Academies Press."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0075",
+        "unstructured": "National Toxicology Program, 2015. Handbook for Preparing Report on Carcinogens Monographs 2015. Available from: https://ntp.niehs.nih.gov/go/rochandbook."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0080",
+        "unstructured": "National Toxicology Program, 2015. OHAT Risk of Bias Rating Tool for Human and Animal Studies 2015. Available from: https://ntp.niehs.nih.gov/go/riskbias."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.1016/j.jclinepi.2022.03.018",
+        "article-title": "Confounders and co-interventions identified in non-randomized studies of interventions",
+        "volume": "148",
+        "author": "Pufulete",
+        "year": "2022",
+        "journal-title": "J. Clin. Epidemiol."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.envint.2024.108602_b0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1186/s13643-021-01783-6",
+        "article-title": "Integrated risk information system (IRIS) response to “assessing risk of bias in human environmental epidemiology studies using three tools: different conclusions from different tools”",
+        "volume": "10",
+        "author": "Radke",
+        "year": "2021",
+        "journal-title": "Syst Rev."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0095",
+        "article-title": "GRADE guidelines: 18. How ROBINS-I and other tools to assess risk of bias in nonrandomized studies should be used to rate the certainty of a body of evidence",
+        "author": "Schunemann",
+        "year": "2018",
+        "journal-title": "J. Clin. Epidemiol."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.envint.2024.108602_b0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "95002",
+        "DOI": "10.1289/EHP6980",
+        "article-title": "Risk of bias assessments and evidence syntheses for observational epidemiologic studies of environmental and occupational exposures: strengths and limitations",
+        "volume": "128",
+        "author": "Steenland",
+        "year": "2020",
+        "journal-title": "Environ. Health Perspect."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0105",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1002/14651858.ED000076",
+        "article-title": "Why the Cochrane risk of bias tool should not include funding source as a standard item (Editorial)",
+        "volume": "12",
+        "author": "Sterne",
+        "year": "2013",
+        "journal-title": "Cochrane Database of Systematic Reviews."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0110",
+        "article-title": "ROBINS-I: a tool for assessing risk of bias in non-randomized studies of interventions",
+        "volume": "355",
+        "author": "Sterne",
+        "year": "2016",
+        "journal-title": "BMJ."
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.envint.2024.108602_b0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "1513",
+        "DOI": "10.1002/sim.1184",
+        "article-title": "Statistical methods for assessing the influence of study characteristics on treatment effects in 'meta-epidemiological' research",
+        "volume": "21",
+        "author": "Sterne",
+        "year": "2002",
+        "journal-title": "Stat. Med."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0120",
+        "article-title": "RoB 2: a revised tool for assessing risk of bias in randomised trials",
+        "volume": "366",
+        "author": "Sterne",
+        "year": "2019",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0125",
+        "unstructured": "TACIT: Tool for Addressing Conflicts of Interest in Trials. https://tacit.one/ (accessed 14 February 2024)."
+      },
+      {
+        "key": "10.1016/j.envint.2024.108602_b0130",
+        "series-title": "ORD staff handbook for developing IRIS assessments (EPA/600/R-22/268)",
+        "author": "U.S. Environmental Protection Agency",
+        "year": "2022"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.envint.2024.108602_b0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "1007",
+        "DOI": "10.1289/ehp.1307175",
+        "article-title": "The navigation guide systematic review methodology: a rigorous and transparent method for translating environmental health science into better health outcomes",
+        "volume": "122",
+        "author": "Woodruff",
+        "year": "2014",
+        "journal-title": "Environ. Health Perspect."
+      }
+    ],
+    "container-title": [
+      "Environment International"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0160412024001880?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0160412024001880?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2024-06-06T16:59:49Z",
+      "timestamp": 1717693189000
+    },
+    "score": 61.999897,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0160412024001880"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4
+        ]
+      ]
+    },
+    "references-count": 27,
+    "alternative-id": [
+      "S0160412024001880"
+    ],
+    "URL": "https://doi.org/10.1016/j.envint.2024.108602",
+    "ISSN": [
+      "0160-4120"
+    ],
+    "issn-type": [
+      {
+        "value": "0160-4120",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A tool to assess risk of bias in non-randomized follow-up studies of exposure effects (ROBINS-E)",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Environment International",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.envint.2024.108602",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2024 The Authors. Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "108602"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          27
+        ]
+      ],
+      "date-time": "2026-05-27T13:30:49Z",
+      "timestamp": 1779888649231,
+      "version": "3.53.1"
+    },
+    "reference-count": 13,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2025-05-01T00:00:00Z",
+          "timestamp": 1746057600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2025-05-01T00:00:00Z",
+          "timestamp": 1746057600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              11
+            ]
+          ],
+          "date-time": "2025-04-11T00:00:00Z",
+          "timestamp": 1744329600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000066",
+        "name": "National Institute of Environmental Health Sciences",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000066",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000272",
+        "name": "National Institute for Health and Care Research",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NIHR203807"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "NIHR203807"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000272",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000289",
+        "name": "Cancer Research UK",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "C18281/A29019"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "C18281/A29019"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000289",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000002",
+        "name": "National Institutes of Health",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "GS00Q14OADU417"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "GS00Q14OADU417"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000002",
+        "name": "National Institutes of Health",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "HHSN273201600015U"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "HHSN273201600015U"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100023699",
+        "name": "Health Data Research UK",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100023699",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100015250",
+        "name": "NIHR Bristol Biomedical Research Centre",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100015250",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Environment International"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.envint.2025.109462",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2025-04-29T21:03:12Z",
+      "timestamp": 1745960592000
+    },
+    "page": "109462",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "special_numbering": "C",
+    "title": [
+      "Response to: ROBINS-E risk of bias tool"
+    ],
+    "prefix": "10.1016",
+    "volume": "199",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8323-2514",
+        "authenticated-orcid": false,
+        "given": "J.P.T.",
+        "family": "Higgins",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.A.",
+        "family": "Rooney",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R.L.",
+        "family": "Morgan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Hróbjartsson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "McAleenan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J.J.",
+        "family": "Meerpohl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "O’Connor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "H.J.",
+        "family": "Schünemann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Verbeek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Viswanathan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J.A.C.",
+        "family": "Sterne",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "1",
+        "key": "10.1016/j.envint.2025.109462_b0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "e3",
+        "DOI": "10.1097/EDE.0000000000001667",
+        "article-title": "Re: Are target trial emulations the gold standard for observational studies?",
+        "volume": "35",
+        "author": "Didelez",
+        "year": "2024",
+        "journal-title": "Epidemiol."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.envint.2025.109462_b0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.1097/EDE.0000000000000986",
+        "article-title": "Is the Smog Lifting?: Causal Inference in Environmental Epidemiology",
+        "volume": "30",
+        "author": "Flanders",
+        "year": "2019",
+        "journal-title": "Epidemiol."
+      },
+      {
+        "key": "10.1016/j.envint.2025.109462_b0005",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.envint.2024.108602",
+        "article-title": "A tool to assess risk of bias in non-randomized follow-up studies of exposure effects (ROBINS-E)",
+        "volume": "186",
+        "author": "Higgins",
+        "year": "2024",
+        "journal-title": "Environment International."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.envint.2025.109462_b0015",
+        "first-page": "1866",
+        "article-title": "Triangulation in aetiological epidemiology",
+        "volume": "45",
+        "author": "Lawlor",
+        "year": "2016",
+        "journal-title": "Int J Epidemiol."
+      },
+      {
+        "key": "10.1016/j.envint.2025.109462_b0020",
+        "doi-asserted-by": "crossref",
+        "unstructured": "National Academies of Sciences, Engineering and Medicine. Triangulation in environmental epidemiology for EPA human health assessments: proceedings of a workshop , n.d.. The National Academies Press.; 2022, Washington, DC. doi: 10.17226/26538.",
+        "DOI": "10.17226/26538"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.envint.2025.109462_b0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "311",
+        "DOI": "10.1097/EDE.0000000000000987",
+        "article-title": "Causal inference in environmental epidemiology: old and new approaches",
+        "volume": "30",
+        "author": "Pearce",
+        "year": "2019",
+        "journal-title": "Epidemiol."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.envint.2025.109462_b0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "614",
+        "DOI": "10.1097/EDE.0000000000001636",
+        "article-title": "Are target trial emulations the gold standard for observational studies?",
+        "volume": "34",
+        "author": "Pearce",
+        "year": "2023",
+        "journal-title": "Epidemiol."
+      },
+      {
+        "key": "10.1016/j.envint.2025.109462_b0010",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Steenland K, Straif K, Schubauer-Berigan MK, Demers PA, Forastiere F, Stenzel T, et al. ROBINS-E risk of bias tool [letter]. Environment International. 2025:xxx-xxx.",
+        "DOI": "10.1016/j.envint.2025.109463"
+      },
+      {
+        "key": "10.1016/j.envint.2025.109462_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1016/j.jclinepi.2018.01.012",
+        "article-title": "GRADE guidelines: 18. How ROBINS-I and other tools to assess risk of bias in nonrandomized studies should be used to rate the certainty of a body of evidence",
+        "volume": "111",
+        "author": "Schunemann",
+        "year": "2019",
+        "journal-title": "J Clin Epidemiol."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.envint.2025.109462_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "95002",
+        "DOI": "10.1289/EHP6980",
+        "article-title": "Risk of bias assessments and evidence syntheses for observational epidemiologic studies of environmental and occupational exposures: strengths and limitations",
+        "volume": "128",
+        "author": "Steenland",
+        "year": "2020",
+        "journal-title": "Environ Health Perspect."
+      },
+      {
+        "key": "10.1016/j.envint.2025.109462_b0060",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sterne JAC. Why the Cochrane risk of bias tool should not include funding source as a standard item (Editorial). Cochrane Database of Systematic Reviews. 2013(12):ED000076.",
+        "DOI": "10.1002/14651858.ED000075"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.envint.2025.109462_b0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "1776",
+        "DOI": "10.1093/ije/dyv341",
+        "article-title": "Causality and causal inference in epidemiology: the need for a pluralistic approach",
+        "volume": "45",
+        "author": "Vandenbroucke",
+        "year": "2016",
+        "journal-title": "Int J Epidemiol."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.envint.2025.109462_b0035",
+        "first-page": "2199",
+        "article-title": "Re: Causality and causal inference in epidemiology: the need for a pluralistic approach",
+        "volume": "45",
+        "author": "VanderWeele",
+        "year": "2016",
+        "journal-title": "Int J Epidemiol."
+      }
+    ],
+    "container-title": [
+      "Environment International"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0160412025002132?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0160412025002132?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          10
+        ]
+      ],
+      "date-time": "2026-05-10T04:48:53Z",
+      "timestamp": 1778388533000
+    },
+    "score": 48.169388,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0160412025002132"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "references-count": 13,
+    "alternative-id": [
+      "S0160412025002132"
+    ],
+    "URL": "https://doi.org/10.1016/j.envint.2025.109462",
+    "ISSN": [
+      "0160-4120"
+    ],
+    "issn-type": [
+      {
+        "value": "0160-4120",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Response to: ROBINS-E risk of bias tool",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Environment International",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.envint.2025.109462",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 The Authors. Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "109462"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          21
+        ]
+      ],
+      "date-time": "2026-05-21T18:51:56Z",
+      "timestamp": 1779389516510,
+      "version": "3.53.1"
+    },
+    "reference-count": 0,
+    "publisher": "Wiley",
+    "content-domain": {
+      "domain": []
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1002/cesm.12094/v1/review1",
+    "type": "peer-review",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          28
+        ]
+      ],
+      "date-time": "2024-06-28T17:08:55Z",
+      "timestamp": 1719594535000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Review for \"Real‐world evaluation of interconsensus agreement of risk of bias tools: A case study using risk of bias in nonrandomized studies‐of interventions (ROBINS‐I)\""
+    ],
+    "prefix": "10.1002",
+    "member": "311",
+    "review": {
+      "type": "referee-report",
+      "running-number": "PR1V1",
+      "revision-round": "1",
+      "stage": "pre-publication"
+    },
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          28
+        ]
+      ],
+      "date-time": "2024-06-28T17:09:00Z",
+      "timestamp": 1719594540000
+    },
+    "score": 45.71907,
+    "resource": {
+      "primary": {
+        "URL": "https://www.webofscience.com/api/gateway/wos/peer-review/10.1002/CESM.12094"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1002/cesm.12094/v1/review1",
+    "relation": {
+      "is-review-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1002/CESM.12094",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          31
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T09:09:17Z",
+      "timestamp": 1772269757739,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "PeerJ",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.7717/peerj.5318/table-3",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          31
+        ]
+      ],
+      "date-time": "2018-07-31T05:05:55Z",
+      "timestamp": 1533013555000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Table 3: Risk of bias assessment (\n                      <i>N</i>\n                       = 24 trials) (Cochrane Risk of Bias tool for randomised trials (Higgins et al. 2011))."
+    ],
+    "prefix": "10.7717",
+    "member": "4443",
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          31
+        ]
+      ],
+      "date-time": "2018-07-31T05:06:00Z",
+      "timestamp": 1533013560000
+    },
+    "score": 44.54197,
+    "resource": {
+      "primary": {
+        "URL": "https://peerj.com/articles/5318/table-3"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.7717/peerj.5318/table-3",
+    "relation": {
+      "is-component-of": [
+        {
+          "id-type": "doi",
+          "id": "10.7717/peerj.5318",
+          "asserted-by": "object"
+        }
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T08:46:02Z",
+      "timestamp": 1772268362356,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "PeerJ",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.7717/peerj.13864/supp-2",
+    "type": "component",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          8
+        ]
+      ],
+      "date-time": "2022-11-08T06:04:40Z",
+      "timestamp": 1667887480000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Supplemental Information 2: Discretion for risk assessment of bias according to “The Cochrane Collaboration’s tool for assessing risk of bias (HIGGINS et al., 2011)"
+    ],
+    "prefix": "10.7717",
+    "member": "4443",
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          8
+        ]
+      ],
+      "date-time": "2022-11-08T06:04:53Z",
+      "timestamp": 1667887493000
+    },
+    "score": 43.95609,
+    "resource": {
+      "primary": {
+        "URL": "https://peerj.com/articles/13864/supp-2"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          null
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.7717/peerj.13864/supp-2",
+    "relation": {
+      "is-component-of": [
+        {
+          "id-type": "doi",
+          "id": "10.7717/peerj.13864",
+          "asserted-by": "object"
+        }
+      ]
+    }
+  }
+]

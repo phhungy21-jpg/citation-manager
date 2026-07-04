@@ -1,0 +1,1669 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          13
+        ]
+      ],
+      "date-time": "2026-04-13T21:24:09Z",
+      "timestamp": 1776115449997,
+      "version": "3.50.1"
+    },
+    "reference-count": 30,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2021-01-01T00:00:00Z",
+          "timestamp": 1609459200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2021-01-01T00:00:00Z",
+          "timestamp": 1609459200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              23
+            ]
+          ],
+          "date-time": "2020-01-23T00:00:00Z",
+          "timestamp": 1579737600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100014175",
+        "name": "Shanghai Municipal Health and Family Planning Commission",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100014175",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Asian Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ajur.2020.01.003",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          27
+        ]
+      ],
+      "date-time": "2020-01-27T11:37:42Z",
+      "timestamp": 1580125062000
+    },
+    "page": "126-133",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Sustainable functional urethral reconstruction: Maximizing early continence recovery in robotic-assisted radical prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "8",
+    "author": [
+      {
+        "given": "Zepeng",
+        "family": "Jia",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yifan",
+        "family": "Chang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jing",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Min",
+        "family": "Qu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Feng",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Huan",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bijun",
+        "family": "Lian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Meimian",
+        "family": "Hua",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yinghao",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Xu",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.eururo.2012.05.047",
+        "article-title": "Systematic review and meta-analysis of studies reporting oncologic outcome after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Novara",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "933",
+        "DOI": "10.1016/j.eururo.2015.10.043",
+        "article-title": "New rates of interventions to manage complications of modern prostate cancer treatment in older men",
+        "volume": "69",
+        "author": "Wallis",
+        "year": "2016",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1007/s13193-016-0599-9",
+        "article-title": "Radical prostatectomy for locally advanced prostate cancers—review of literature",
+        "volume": "8",
+        "author": "Srivatsa",
+        "year": "2017",
+        "journal-title": "Indian J Surg Oncol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1308/rcsann.2017.0031",
+        "article-title": "Radical prostatectomy for locally advanced and metastatic prostate cancer",
+        "volume": "99",
+        "author": "Veeratterapillay",
+        "year": "2017",
+        "journal-title": "Ann R Coll Surg Engl"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "article-title": "Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1038/nrurol.2012.2",
+        "article-title": "Optimizing radical prostatectomy for the early recovery of urinary continence",
+        "volume": "9",
+        "author": "Dev",
+        "year": "2012",
+        "journal-title": "Nat Rev Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "549",
+        "DOI": "10.1007/s00345-016-1901-8",
+        "article-title": "Neural supply of the male urethral sphincter: comprehensive anatomical review and implications for continence recovery after radical prostatectomy",
+        "volume": "35",
+        "author": "Bessede",
+        "year": "2017",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "185",
+        "DOI": "10.1111/bju.13852",
+        "article-title": "Urinary continence recovery after radical prostatectomy—anatomical/reconstructive and nerve-sparing techniques to improve outcomes",
+        "volume": "120",
+        "author": "Pavlovich",
+        "year": "2017",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1016/j.eururo.2016.01.026",
+        "article-title": "A Critical analysis of the current knowledge of surgical anatomy of the prostate related to optimisation of cancer control and preservation of continence and erection in candidates for radical prostatectomy: an update",
+        "volume": "70",
+        "author": "Walz",
+        "year": "2016",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "891",
+        "DOI": "10.1016/j.juro.2012.09.082",
+        "article-title": "Impact of complete bladder neck preservation on urinary continence, quality of life and surgical margins after radical prostatectomy: a randomized, controlled, single blind trial",
+        "volume": "189",
+        "author": "Nyarangi-Dix",
+        "year": "2013",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "677",
+        "DOI": "10.1016/j.euf.2018.01.004",
+        "article-title": "A novel approach for apical dissection during robot-assisted radical prostatectomy: the \"Collar\" technique",
+        "volume": "4",
+        "author": "Bianchi",
+        "year": "2018",
+        "journal-title": "Eur Urol Focus"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1111/bju.13480",
+        "article-title": "Posterior musculofascial reconstruction after radical prostatectomy: an updated systematic review and a meta-analysis",
+        "volume": "118",
+        "author": "Grasso",
+        "year": "2016",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1016/j.eururo.2009.06.007",
+        "article-title": "Periurethral suspension stitch during robot-assisted laparoscopic radical prostatectomy: description of the technique and continence outcomes",
+        "volume": "56",
+        "author": "Patel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "530",
+        "DOI": "10.1016/j.eururo.2009.11.028",
+        "article-title": "Simplifying patient positioning and port placement during robotic-assisted laparoscopic prostatectomy",
+        "volume": "57",
+        "author": "Cestari",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1558",
+        "DOI": "10.1089/end.2012.0455",
+        "article-title": "Vattikuti institute prostatectomy—technique in 2012",
+        "volume": "26",
+        "author": "Ghani",
+        "year": "2012",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "456",
+        "DOI": "10.1111/bju.14181",
+        "article-title": "Investigating the mechanism underlying urinary continence recovery after radical prostatectomy: effectiveness of a longer urethral stump to prevent urinary incontinence",
+        "volume": "122",
+        "author": "Kadono",
+        "year": "2018",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "628",
+        "DOI": "10.1016/j.eururo.2018.07.003",
+        "article-title": "Retrograde release of the neurovascular bundle with preservation of dorsal venous complex during robot-assisted radical prostatectomy: optimizing functional outcomes",
+        "volume": "77",
+        "author": "de Carvalho",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "677",
+        "DOI": "10.1016/j.eururo.2017.04.029",
+        "article-title": "A pragmatic randomized controlled trial examining the impact of the Retzius-sparing approach on early urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "72",
+        "author": "Dalela",
+        "year": "2017",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "225",
+        "DOI": "10.1016/j.juro.2006.08.104",
+        "article-title": "Pelvic autonomic nerve mapping around the prostate by intraoperative electrical stimulation with simultaneous measurement of intracavernous and intraurethral pressure",
+        "volume": "177",
+        "author": "Takenaka",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1016/j.eururo.2012.09.051",
+        "article-title": "Retrograde versus antegrade nerve sparing during robot-assisted radical prostatectomy: which is better for achieving early functional recovery?",
+        "volume": "63",
+        "author": "Ko",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "743",
+        "DOI": "10.1016/j.urology.2010.03.089",
+        "article-title": "A comparison of outcomes for interfascial and intrafascial nerve-sparing radical prostatectomy",
+        "volume": "76",
+        "author": "Stolzenburg",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1016/j.juro.2016.01.010",
+        "article-title": "A parallel randomized clinical trial examining the return of urinary continence after robot-assisted radical prostatectomy with or without a small intestinal submucosa bladder neck sling",
+        "volume": "196",
+        "author": "Bahler",
+        "year": "2016",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "626",
+        "DOI": "10.1111/bju.13704",
+        "article-title": "36-month data for the AdVance XP® male sling: results of a prospective multicentre study",
+        "volume": "119",
+        "author": "Bauer",
+        "year": "2017",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "369",
+        "DOI": "10.1016/j.juro.2016.08.122",
+        "article-title": "A randomized study of intraoperative autologous retropubic urethral sling on urinary control after robotic assisted radical prostatectomy",
+        "volume": "197",
+        "author": "Nguyen",
+        "year": "2017",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.1111/bju.13514",
+        "article-title": "Urethral-fixation technique improves early urinary continence recovery in patients who undergo retropubic radical prostatectomy",
+        "volume": "119",
+        "author": "Ficarra",
+        "year": "2017",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib26",
+        "first-page": "449",
+        "article-title": "[The surgical experience of 51 retropubic radical prostatectomy with complete continence]",
+        "volume": "8",
+        "author": "Sun",
+        "year": "2004",
+        "journal-title": "J Clin Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1016/S0022-5347(17)35494-0",
+        "article-title": "Tubularized neourethra following radical retropubic prostatectomy",
+        "volume": "150",
+        "author": "Steiner",
+        "year": "1993",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1089/end.2017.0459",
+        "article-title": "The impact of lateral bladder neck preservation on urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "32",
+        "author": "Hashimoto",
+        "year": "2018",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "666",
+        "DOI": "10.4103/1008-682X.190327",
+        "article-title": "Effect of statins type on incident prostate cancer risk: a meta-analysis and systematic review",
+        "volume": "19",
+        "author": "Tan",
+        "year": "2017",
+        "journal-title": "Asian J Androl"
+      },
+      {
+        "key": "10.1016/j.ajur.2020.01.003_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "969",
+        "DOI": "10.1016/j.eururo.2005.12.042",
+        "article-title": "Complications of transurethral resection of the prostate (TURP)—incidence, management, and prevention",
+        "volume": "50",
+        "author": "Rassweiler",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "Asian Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2214388220300035?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2214388220300035?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          1
+        ]
+      ],
+      "date-time": "2025-11-01T12:32:51Z",
+      "timestamp": 1762000371000
+    },
+    "score": 96.50579,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2214388220300035"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S2214388220300035"
+    ],
+    "URL": "https://doi.org/10.1016/j.ajur.2020.01.003",
+    "ISSN": [
+      "2214-3882"
+    ],
+    "issn-type": [
+      {
+        "value": "2214-3882",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Sustainable functional urethral reconstruction: Maximizing early continence recovery in robotic-assisted radical prostatectomy",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Asian Journal of Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ajur.2020.01.003",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 Editorial Office of Asian Journal of Urology. Production and hosting by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2025-11-12T21:05:01Z",
+      "timestamp": 1762981501572,
+      "version": "build-2065373602"
+    },
+    "reference-count": 28,
+    "publisher": "Wiley",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              9
+            ]
+          ],
+          "date-time": "2023-01-09T00:00:00Z",
+          "timestamp": 1673222400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100008750",
+        "name": "Shanghai Hospital Development Center",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "SHDC2020CR6007"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "SHDC2020CR6007"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100008750",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "bjui-journals.onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "BJU International"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          6
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>To evaluate the impact of sustainable functional urethral reconstruction (SFUR) on early recovery of urinary continence (UC) after robot‐assisted radical prostatectomy.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Patients and Methods</jats:title>\n                    <jats:p>\n                      Overall, 96 patients with primary prostate cancer were randomised into the SFUR or standard group (\n                      <jats:italic>n</jats:italic>\n                       = 48 each). The primary outcome was the 1‐month UC recovery. Secondary outcomes included short‐term (≤3 months) UC recovery, urinary function, micturition‐related bother, perioperative complications, and oncological outcomes. Kaplan–Meier curves and Cox proportional hazard models were used to assess the 3‐month UC recovery. Generalised estimating equations were used to compare postoperative urinary function and micturition‐related bother.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      The 1‐month UC recovery rates, median 24‐h pad weights, and median operative time in the SFUR and standard groups were 73% and 49% (\n                      <jats:italic>P</jats:italic>\n                       = 0.017), 0 and 47 g (\n                      <jats:italic>P</jats:italic>\n                       = 0.001), and 125 and 103 min (\n                      <jats:italic>P</jats:italic>\n                       = 0.025), respectively. The UC recovery rates in the SFUR vs standard groups were 53% vs 23% at 1 week (\n                      <jats:italic>P</jats:italic>\n                       = 0.003), 53% vs 32% at 2 weeks (\n                      <jats:italic>P</jats:italic>\n                       = 0.038), and 93% vs 77% at 3 months (\n                      <jats:italic>P</jats:italic>\n                       = 0.025). The median time to UC recovery in the SFUR and standard groups was 5 and 34 days, respectively (log‐rank\n                      <jats:italic>P</jats:italic>\n                       = 0.006); multivariable Cox regression supported this result (hazard ratio 1.73, 95% confidence interval 1.08–2.79,\n                      <jats:italic>P</jats:italic>\n                       = 0.024). Similar results were observed when UC was defined as 0 pads/day. Urinary function (\n                      <jats:italic>P</jats:italic>\n                       = 0.2) and micturition‐related bother (\n                      <jats:italic>P</jats:italic>\n                       = 0.8) were similar at all follow‐up intervals. The perioperative complication rates, positive surgical margin rates, and 1‐year biochemical recurrence‐free survival were comparable between both groups (all\n                      <jats:italic>P</jats:italic>\n                       &gt; 0.05).\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>SFUR resulted in earlier UC recovery without compromising postoperative urinary function. Long‐term validation and multicentre studies are required to confirm the results of this novel technique.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1111/bju.15956",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2022-12-22T03:40:52Z",
+      "timestamp": 1671680452000
+    },
+    "page": "720-728",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Sustainable functional urethral reconstruction improves early urinary continence after robot‐assisted radical prostatectomy: a randomised controlled trial"
+    ],
+    "prefix": "10.1111",
+    "volume": "131",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5467-5279",
+        "authenticated-orcid": false,
+        "given": "Zepeng",
+        "family": "Jia",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology Changhai Hospital, Naval Medical University  Shanghai China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Zeyu",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology The Second Affiliated Hospital of Soochow University  Jiangsu China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6739-2980",
+        "authenticated-orcid": false,
+        "given": "Yifan",
+        "family": "Chang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology Changhai Hospital, Naval Medical University  Shanghai China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cheng",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Health Statistics Naval Medical University  Shanghai China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Min",
+        "family": "Qu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology Changhai Hospital, Naval Medical University  Shanghai China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Xinwen",
+        "family": "Nian",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology Changhai Hospital, Naval Medical University  Shanghai China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Xianqi",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology Changhai Hospital, Naval Medical University  Shanghai China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yun",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology Changhai Hospital, Naval Medical University  Shanghai China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shouyan",
+        "family": "Tang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology Changhai Hospital, Naval Medical University  Shanghai China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5624-6745",
+        "authenticated-orcid": false,
+        "given": "Yan",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology Changhai Hospital, Naval Medical University  Shanghai China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1521-9948",
+        "authenticated-orcid": false,
+        "given": "Xu",
+        "family": "Gao",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology Changhai Hospital, Naval Medical University  Shanghai China"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          9
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_7_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2020.01.033"
+      },
+      {
+        "key": "e_1_2_7_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2012.05.045"
+      },
+      {
+        "key": "e_1_2_7_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2017.04.029"
+      },
+      {
+        "key": "e_1_2_7_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2016.01.026"
+      },
+      {
+        "key": "e_1_2_7_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11934-017-0717-4"
+      },
+      {
+        "key": "e_1_2_7_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2012.09.082"
+      },
+      {
+        "key": "e_1_2_7_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2011.02.040"
+      },
+      {
+        "key": "e_1_2_7_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2009.01.021"
+      },
+      {
+        "key": "e_1_2_7_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2014.10.020"
+      },
+      {
+        "key": "e_1_2_7_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(99)80490-7"
+      },
+      {
+        "key": "e_1_2_7_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bju.14716"
+      },
+      {
+        "key": "e_1_2_7_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23736/S2724-6051.20.04146-6"
+      },
+      {
+        "key": "e_1_2_7_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11934-017-0745-0"
+      },
+      {
+        "key": "e_1_2_7_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajur.2020.01.003"
+      },
+      {
+        "key": "e_1_2_7_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/end.2012.0455"
+      },
+      {
+        "key": "e_1_2_7_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2016.08.003"
+      },
+      {
+        "key": "e_1_2_7_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2013.05.055"
+      },
+      {
+        "key": "e_1_2_7_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2011.01.032"
+      },
+      {
+        "key": "e_1_2_7_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bju.15195"
+      },
+      {
+        "key": "e_1_2_7_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2020.09.044"
+      },
+      {
+        "key": "e_1_2_7_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.euo.2021.02.005"
+      },
+      {
+        "key": "e_1_2_7_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/JU.0000000000002693"
+      },
+      {
+        "key": "e_1_2_7_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pros.24371"
+      },
+      {
+        "key": "e_1_2_7_25_1",
+        "first-page": "1140",
+        "article-title": "A comparison of bladder neck preservation and bladder neck reconstruction for urinary incontinence after radical retro pubic prostatectomy",
+        "volume": "19",
+        "author": "Izadpanahi MH",
+        "year": "2014",
+        "journal-title": "J Res Med Sci"
+      },
+      {
+        "key": "e_1_2_7_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2010.11.085"
+      },
+      {
+        "key": "e_1_2_7_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bju.13078"
+      },
+      {
+        "key": "e_1_2_7_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MOU.0000000000000391"
+      },
+      {
+        "key": "e_1_2_7_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2011.03.112"
+      }
+    ],
+    "container-title": [
+      "BJU International"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/bju.15956",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/bju.15956",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/bju.15956",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T09:28:05Z",
+      "timestamp": 1761730085000
+    },
+    "score": 61.83294,
+    "resource": {
+      "primary": {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/bju.15956"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          9
+        ]
+      ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/bju.15956"
+    ],
+    "URL": "https://doi.org/10.1111/bju.15956",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "1464-4096",
+      "1464-410X"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1464-4096"
+      },
+      {
+        "type": "electronic",
+        "value": "1464-410X"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2023-01-09",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2022-04-01T17:30:06Z",
+      "timestamp": 1648834206537
+    },
+    "reference-count": 20,
+    "publisher": "The Korean Urological Association",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2009,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2009-01-01T00:00:00Z",
+          "timestamp": 1230768000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc/3.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Korean J Urol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "DOI": "10.4111/kju.2009.50.12.1203",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          12,
+          21
+        ]
+      ],
+      "date-time": "2009-12-21T05:12:15Z",
+      "timestamp": 1261372335000
+    },
+    "page": "1203",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Effect of Posterior Urethral Reconstruction (PUR) in Early Recovery of Urinary Continence after Robotic-Assisted Radical Prostatectomy"
+    ],
+    "prefix": "10.4111",
+    "volume": "50",
+    "author": [
+      {
+        "given": "Soo Dong",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology, College of Medicine, Dong-A University, Busan, Korea,"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tae Hyo",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, College of Medicine, Dong-A University, Busan, Korea,"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jae Wook",
+        "family": "Cho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, College of Medicine, Dong-A University, Busan, Korea,"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Youn Chul",
+        "family": "You",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, College of Medicine, Dong-A University, Busan, Korea,"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gyung Tak",
+        "family": "Sung",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, College of Medicine, Dong-A University, Busan, Korea,"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2595",
+    "reference": [
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref1",
+        "doi-asserted-by": "crossref",
+        "first-page": "2101",
+        "DOI": "10.1016/S0022-5347(05)65514-0",
+        "volume": "166",
+        "author": "Rassweiler",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref2",
+        "doi-asserted-by": "crossref",
+        "first-page": "876",
+        "DOI": "10.1046/j.1464-410X.2002.03049.x",
+        "volume": "90",
+        "author": "Eden",
+        "year": "2002",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1261",
+        "DOI": "10.1097/01.ju.0000055141.36916.be",
+        "volume": "169",
+        "author": "Guillonneau",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref4",
+        "doi-asserted-by": "crossref",
+        "first-page": "338",
+        "DOI": "10.1016/S0302-2838(02)00360-3",
+        "volume": "42",
+        "author": "Salomon",
+        "year": "2002",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref5",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1046/j.1464-410X.2002.02824.x",
+        "volume": "90",
+        "author": "Peyromaure",
+        "year": "2002",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref6",
+        "first-page": "353",
+        "volume": "46",
+        "author": "Kong",
+        "year": "2005",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref7",
+        "doi-asserted-by": "crossref",
+        "first-page": "376",
+        "DOI": "10.1016/j.eururo.2007.01.109",
+        "volume": "52",
+        "author": "Rocco",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref8",
+        "doi-asserted-by": "crossref",
+        "first-page": "996",
+        "DOI": "10.1016/j.eururo.2006.10.014",
+        "volume": "51",
+        "author": "Rocco",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1482",
+        "DOI": "10.1111/j.1464-410X.2008.08090.x",
+        "volume": "102",
+        "author": "Coughlin",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref10",
+        "doi-asserted-by": "crossref",
+        "first-page": "699",
+        "DOI": "10.1016/S0090-4295(02)02543-8",
+        "volume": "61",
+        "author": "Van Velthoven",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref11",
+        "doi-asserted-by": "crossref",
+        "first-page": "2201",
+        "DOI": "10.1016/S0022-5347(06)00262-X",
+        "volume": "175",
+        "author": "Rocco",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref12",
+        "doi-asserted-by": "crossref",
+        "first-page": "612",
+        "DOI": "10.1016/j.eururo.2005.12.054",
+        "volume": "49",
+        "author": "Rassweiler",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1072",
+        "DOI": "10.1097/01.ju.0000154970.63147.90",
+        "volume": "173",
+        "author": "Trabulsi",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref14",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1016/j.eururo.2005.10.002",
+        "volume": "49",
+        "author": "Stolzenburg",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref15",
+        "doi-asserted-by": "crossref",
+        "first-page": "938",
+        "DOI": "10.1016/j.eururo.2005.09.004",
+        "volume": "48",
+        "author": "Montorsi",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref16",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1016/j.eururo.2005.10.008",
+        "volume": "49",
+        "author": "Graefen",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref17",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1016/S0022-5347(06)00574-X",
+        "volume": "176",
+        "author": "Burkhard",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref18",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1016/S0022-5347(05)68578-3",
+        "volume": "162",
+        "author": "Catalona",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1216",
+        "DOI": "10.1097/01.ju.0000113964.68020.a7",
+        "volume": "171",
+        "author": "Lepor",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.4111/kju.2009.50.12.1203_ref20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1301",
+        "DOI": "10.1016/S0022-5347(01)62521-7",
+        "volume": "160",
+        "author": "Burnett",
+        "year": "1998",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Korean Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://synapse.koreamed.org/DOIx.php?id=10.4111/kju.2009.50.12.1203",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://synapse.koreamed.org/pdf/10.4111/kju.2009.50.12.1203",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/kju.2009.50.12.1203",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2020-05-15T05:09:06Z",
+      "timestamp": 1589519346000
+    },
+    "score": 61.719555,
+    "resource": {
+      "primary": {
+        "URL": "https://icurology.org/DOIx.php?id=10.4111/kju.2009.50.12.1203"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "12",
+      "published-print": {
+        "date-parts": [
+          [
+            2009
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.4111/kju.2009.50.12.1203",
+    "ISSN": [
+      "2005-6737"
+    ],
+    "issn-type": [
+      {
+        "value": "2005-6737",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,2342 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2026-06-19T00:10:53Z",
+      "timestamp": 1781827853525,
+      "version": "3.54.5"
+    },
+    "reference-count": 50,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              5
+            ]
+          ],
+          "date-time": "2019-01-05T00:00:00Z",
+          "timestamp": 1546646400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100004257",
+        "name": "Helse Vest",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100004257",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMC Musculoskelet Disord"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1186/s12891-018-2384-0",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2019-01-05T03:02:29Z",
+      "timestamp": 1546657349000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Decompression alone versus decompression with instrumental fusion the NORDSTEN degenerative spondylolisthesis trial (NORDSTEN-DS); study protocol for a randomized controlled trial"
+    ],
+    "prefix": "10.1186",
+    "volume": "20",
+    "author": [
+      {
+        "given": "Ivar Magne",
+        "family": "Austevoll",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Erland",
+        "family": "Hermansen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Morten",
+        "family": "Fagerland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Frode",
+        "family": "Rekeland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tore",
+        "family": "Solberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kjersti",
+        "family": "Storheim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jens Ivar",
+        "family": "Brox",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Greger",
+        "family": "Lønne",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kari",
+        "family": "Indrekvam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jørn",
+        "family": "Aaen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Oliver",
+        "family": "Grundnes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christian",
+        "family": "Hellum",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2384_CR1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Farfan HF (2012) - The pathological anatomy of degenerative spondylolisthesis. A cadaver study. - spine (Phila pa 1976)1980;5(5):412-8:Oct.",
+        "DOI": "10.1097/00007632-198009000-00004"
+      },
+      {
+        "key": "2384_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "184",
+        "DOI": "10.1302/0301-620X.58B2.932080",
+        "volume": "58",
+        "author": "JA Fitzgerald",
+        "year": "1976",
+        "unstructured": "Fitzgerald JA, Newman PH. Degenerative spondylolisthesis. J Bone Joint Surg Br. 1976;58:184–92.",
+        "journal-title": "J Bone Joint Surg Br"
+      },
+      {
+        "key": "2384_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "609",
+        "DOI": "10.1016/j.spinee.2009.03.016",
+        "volume": "9",
+        "author": "WC Watters 3rd",
+        "year": "2009",
+        "unstructured": "Watters WC 3rd, Bono CM, Gilbert TJ, Kreiner DS, Mazanec DJ, Shaffer WO, Baisden J, Easa JE, Fernand R, Ghiselli G, Heggeness MH, Mendel RC, O'Neill C, Reitman CA, Resnick DK, Summers JT, Timmons RB, Toton JF, North American Spine S. An evidence-based clinical guideline for the diagnosis and treatment of degenerative lumbar spondylolisthesis. Spine J. 2009;9:609–14. \n                    https://doi.org/10.1016/j.spinee.2009.03.016\n                    \n                  .",
+        "journal-title": "Spine J"
+      },
+      {
+        "key": "2384_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "802",
+        "DOI": "10.2106/00004623-199173060-00002",
+        "volume": "73",
+        "author": "HN Herkowitz",
+        "year": "1991",
+        "unstructured": "Herkowitz HN, Kurz LT. Degenerative lumbar spondylolisthesis with spinal stenosis. A prospective study comparing decompression with decompression and intertransverse process arthrodesis. J Bone Joint Surg Am. 1991;73:802–8.",
+        "journal-title": "J Bone Joint Surg Am"
+      },
+      {
+        "key": "2384_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "1791",
+        "DOI": "10.1097/BRS.0b013e3180bc219e",
+        "volume": "32",
+        "author": "CR Martin",
+        "year": "2007",
+        "unstructured": "Martin CR, Gruszczynski AT, Braunsfurth HA, Fallatah SM, O'Neil J, Wai EK. The surgical management of degenerative lumbar spondylolisthesis: a systematic review. Spine. 2007;32:1791–8. \n                    https://doi.org/10.1097/BRS.0b013e3180bc219e\n                    \n                  .",
+        "journal-title": "Spine"
+      },
+      {
+        "key": "2384_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "54",
+        "DOI": "10.3171/2014.4.spine14274",
+        "volume": "21",
+        "author": "DK Resnick",
+        "year": "2014",
+        "unstructured": "Resnick DK, Watters WC 3rd, Sharan A, Mummaneni PV, Dailey AT, Wang JC, Choudhri TF, Eck J, Ghogawala Z, Groff MW, Dhall SS, Kaiser MG. Guideline update for the performance of fusion procedures for degenerative disease of the lumbar spine. Part 9: lumbar fusion for stenosis with spondylolisthesis. J Neurosurg Spine. 2014;21:54–61. \n                    https://doi.org/10.3171/2014.4.spine14274\n                    \n                  .",
+        "journal-title": "J Neurosurg Spine"
+      },
+      {
+        "key": "2384_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "945",
+        "DOI": "10.1007/s00586-013-3144-3",
+        "volume": "23",
+        "author": "F Steiger",
+        "year": "2014",
+        "unstructured": "Steiger F, Becker HJ, Standaert CJ, Balague F, Vader JP, Porchet F, Mannion AF. Surgery in lumbar degenerative spondylolisthesis: indications, outcomes and complications. A systematic review. Eur Spine J. 2014;23:945–73. \n                    https://doi.org/10.1007/s00586-013-3144-3\n                    \n                  .",
+        "journal-title": "Eur Spine J"
+      },
+      {
+        "key": "2384_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1424",
+        "DOI": "10.1056/NEJMoa1508788",
+        "volume": "374",
+        "author": "Z Ghogawala",
+        "year": "2016",
+        "unstructured": "Ghogawala Z, Dziura J, Butler WE, Dai F, Terrin N, Magge SN, Coumans JV, Harrington JF, Amin-Hanjani S, Schwartz JS, Sonntag VK, Barker FG 2nd, Benzel EC. Laminectomy plus fusion versus laminectomy alone for lumbar spondylolisthesis. N Engl J Med. 2016;374:1424–34. \n                    https://doi.org/10.1056/NEJMoa1508788\n                    \n                  .",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "2384_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "400",
+        "DOI": "10.1097/BRS.0000000000000161",
+        "volume": "39",
+        "author": "HS Chang",
+        "year": "2014",
+        "unstructured": "Chang HS, Fujisawa N, Tsuchiya T, Oya S, Matsui T. Degenerative spondylolisthesis does not affect the outcome of unilateral laminotomy with bilateral decompression in patients with lumbar stenosis. Spine. 2014;39:400–8. \n                    https://doi.org/10.1097/BRS.0000000000000161\n                    \n                  .",
+        "journal-title": "Spine"
+      },
+      {
+        "key": "2384_CR10",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Forsth P, Michaelsson K, Sanden B (2013) Does fusion improve the outcome after decompressive surgery for lumbar spinal stenosis?: a two-year follow-up study involving 5390 patients. Bone joint J 95-B:960-965. 95-B/7/960;\n                    https://doi.org/10.1302/0301-620X.95B7.30776\n                    \n                  .",
+        "DOI": "10.1302/0301-620X.95B7.30776"
+      },
+      {
+        "key": "2384_CR11",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Austevoll IM, Gjestad R, Brox JI, Solberg TK, Storheim K, Rekeland F, Hermansen E, Indrekvam K, Hellum C. The effectiveness of decompression alone compared with additional fusion for lumbar spinal stenosis with degenerative spondylolisthesis: a pragmatic comparative non-inferiority observational study from the Norwegian registry for spine surgery. Eur Spine J. 2016. \n                    https://doi.org/10.1007/s00586-016-4683-1\n                    \n                  .",
+        "DOI": "10.1007/s00586-016-4683-1"
+      },
+      {
+        "key": "2384_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "1413",
+        "DOI": "10.1056/NEJMoa1513721",
+        "volume": "374",
+        "author": "P Forsth",
+        "year": "2016",
+        "unstructured": "Forsth P, Olafsson G, Carlsson T, Frost A, Borgstrom F, Fritzell P, Ohagen P, Michaelsson K, Sanden B. A randomized, controlled trial of fusion surgery for lumbar spinal stenosis. N Engl J Med. 2016;374:1413–23. \n                    https://doi.org/10.1056/NEJMoa1513721\n                    \n                  .",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "2384_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "148",
+        "DOI": "10.1136/ebmed-2016-110474",
+        "volume": "21",
+        "author": "J Weinstein",
+        "year": "2016",
+        "unstructured": "Weinstein J, Pearson A. Fusion in degenerative spondylolisthesis becomes controversial … again. Evid Based Med. 2016;21:148–9. \n                    https://doi.org/10.1136/ebmed-2016-110474\n                    \n                  .",
+        "journal-title": "Evid Based Med"
+      },
+      {
+        "key": "2384_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1478",
+        "DOI": "10.1056/NEJMe1600955",
+        "volume": "374",
+        "author": "WC Peul",
+        "year": "2016",
+        "unstructured": "Peul WC, Moojen WA. Fusion for lumbar spinal stenosis--safeguard or superfluous surgical implant? N Engl J Med. 2016;374:1478–9. \n                    https://doi.org/10.1056/NEJMe1600955\n                    \n                  .",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "2384_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "143",
+        "DOI": "10.21037/jss.2016.06.02",
+        "volume": "2",
+        "author": "AM Pearson",
+        "year": "2016",
+        "unstructured": "Pearson AM. Fusion in degenerative spondylolisthesis: how to reconcile conflicting evidence. Journ Spine Surg. 2016;2:143–5.",
+        "journal-title": "Journ Spine Surg"
+      },
+      {
+        "key": "2384_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "191",
+        "DOI": "10.1097/bsd.0000000000000357",
+        "volume": "29",
+        "author": "AF Joaquim",
+        "year": "2016",
+        "unstructured": "Joaquim AF, Milano JB, Ghizoni E, Patel AA. Is there a role for decompression alone for treating symptomatic degenerative lumbar spondylolisthesis?: a systematic review. Clin Spine Surg. 2016;29:191–202. \n                    https://doi.org/10.1097/bsd.0000000000000357\n                    \n                  .",
+        "journal-title": "Clin Spine Surg"
+      },
+      {
+        "key": "2384_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "S9",
+        "DOI": "10.1097/brs.0000000000000576",
+        "volume": "39",
+        "author": "PD Angevine",
+        "year": "2014",
+        "unstructured": "Angevine PD, Berven S. Health economic studies: an introduction to cost-benefit, cost-effectiveness, and cost-utility analyses. Spine. 2014;39:S9–15. \n                    https://doi.org/10.1097/brs.0000000000000576\n                    \n                  .",
+        "journal-title": "Spine"
+      },
+      {
+        "key": "2384_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "121",
+        "DOI": "10.1186/s12891-017-1491-7",
+        "volume": "18",
+        "author": "E Hermansen",
+        "year": "2017",
+        "unstructured": "Hermansen E, Austevoll IM, Romild UK, Rekeland F, Solberg T, Storheim K, Grundnes O, Aaen J, Brox JI, Hellum C, Indrekvam K. Study-protocol for a randomized controlled trial comparing clinical and radiological results after three different posterior decompression techniques for lumbar spinal stenosis: the spinal stenosis trial (SST) (part of the NORDSTEN study). BMC Musculoskelet Disord. 2017;18:121. \n                    https://doi.org/10.1186/s12891-017-1491-7\n                    \n                  .",
+        "journal-title": "BMC Musculoskelet Disord"
+      },
+      {
+        "key": "2384_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "288",
+        "DOI": "10.1016/j.ijsu.2014.12.007",
+        "volume": "13",
+        "author": "RA Agha",
+        "year": "2015",
+        "unstructured": "Agha RA, Altman DG, Rosin D. The SPIRIT 2013 statement--defining standard protocol items for trials. Int J Surg. 2015;13:288–91. \n                    https://doi.org/10.1016/j.ijsu.2014.12.007\n                    \n                  .",
+        "journal-title": "Int J Surg"
+      },
+      {
+        "key": "2384_CR20",
+        "unstructured": "Piaggio GF, − Elbourne DR FAU - Altman D, − Altman DG FAU - Pocock S, − Pocock SJ FAU - Evans S, Evans SJ (2010) - Reporting of noninferiority and equivalence randomized trials: an extension of the CONSORT statement. - Jama 2006;295(10):1152–60:60."
+      },
+      {
+        "key": "2384_CR21",
+        "first-page": "271",
+        "volume": "66",
+        "author": "JC Fairbank",
+        "year": "1980",
+        "unstructured": "Fairbank JC, Couper J, Davies JB, O'Brien JP. The Oswestry low back pain disability questionnaire. Physiotherapy. 1980;66:271–3.",
+        "journal-title": "Physiotherapy"
+      },
+      {
+        "key": "2384_CR22",
+        "unstructured": "Baker DJ, Pynsent PB, J F (1989) The Oswestry disability index revisited: its reliability, repeatability and validity, and a comparison with the St Thomas’s disability index. Roland MO, Jenner JR, eds New approaches to rehabilitation and education Manchester: Manchester University Press:174–186."
+      },
+      {
+        "key": "2384_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "105",
+        "DOI": "10.1016/j.jpain.2007.09.005",
+        "volume": "9",
+        "author": "RH Dworkin",
+        "year": "2008",
+        "unstructured": "Dworkin RH, Turk DC, Wyrwich KW, Beaton D, Cleeland CS, Farrar JT, Haythornthwaite JA, Jensen MP, Kerns RD, Ader DN, Brandenburg N, Burke LB, Cella D, Chandler J, Cowan P, Dimitrova R, Dionne R, Hertz S, Jadad AR, Katz NP, Kehlet H, Kramer LD, Manning DC, McCormick C, McDermott MP, McQuay HJ, Patel S, Porter L, Quessy S, Rappaport BA, Rauschkolb C, Revicki DA, Rothman M, Schmader KE, Stacey BR, Stauffer JW, von Stein T, White RE, Witter J, Zavisic S. Interpreting the clinical importance of treatment outcomes in chronic pain clinical trials: IMMPACT recommendations. J Pain. 2008;9:105–21. \n                    https://doi.org/10.1016/j.jpain.2007.09.005\n                    \n                  .",
+        "journal-title": "J Pain"
+      },
+      {
+        "key": "2384_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "90",
+        "DOI": "10.1097/BRS.0b013e31815e3a10",
+        "volume": "33",
+        "author": "RW Ostelo",
+        "year": "2008",
+        "unstructured": "Ostelo RW, Deyo RA, Stratford P, Waddell G, Croft P, Von Korff M, Bouter LM, de Vet HC. Interpreting change scores for pain and functional status in low back pain: towards international consensus regarding minimal important change. Spine. 2008;33:90–4. \n                    https://doi.org/10.1097/BRS.0b013e31815e3a10\n                    \n                  .",
+        "journal-title": "Spine"
+      },
+      {
+        "key": "2384_CR25",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Tuli SK, Yerby SA, Katz JN. Methodological approaches to developing criteria for improvement in lumbar spinal stenosis surgery. Spine. 2006;31:1276–80. \n                    https://doi.org/10.1097/01.brs.0000217615.20018.6c\n                    \n                  .",
+        "DOI": "10.1097/01.brs.0000217615.20018.6c"
+      },
+      {
+        "key": "2384_CR26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "(1990) EuroQol--a new facility for the measurement of health-related quality of life. Health policy (Amsterdam, Netherlands) 16:199–208.",
+        "DOI": "10.1016/0168-8510(90)90421-9"
+      },
+      {
+        "key": "2384_CR27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kamper SJ, Ostelo RW, Knol DL, Maher CG, de Vet HC, Hancock MJ (2010) Global perceived effect scales provided reliable assessments of health transition in people with musculoskeletal disorders, but ratings are strongly influenced by current status. J Clin Epidemiol 63:760-766. Doi: S0895-4356(09)00304-7.",
+        "DOI": "10.1016/j.jclinepi.2009.09.009"
+      },
+      {
+        "key": "2384_CR28",
+        "unstructured": "Derogatis LR FAU, Lipman RS FAU, Rickels KF, Uhlenhuth EH FAU, Covi L, Derogatis LR FAU, Lipman RS FAU, Rickels KF, Uhlenhuth EH FAU, Covi L (2000) - The Hopkins symptom checklist (HSCL). A measure of primary symptom dimensions - the Hopkins symptom checklist (HSCL): a self-report symptom inventory Mod Probl Pharmacopsychiatry 1974;7(0):79–110:110."
+      },
+      {
+        "key": "2384_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "1919",
+        "DOI": "10.1097/BRS.0b013e3181d359bd",
+        "volume": "35",
+        "author": "C Schizas",
+        "year": "2010",
+        "unstructured": "Schizas C, Theumann N, Burn A, Tansey R, Wardlaw D, Smith FW, Kulik G. Qualitative grading of severity of lumbar spinal stenosis based on the morphology of the dural sac on magnetic resonance images. Spine. 2010;35:1919–24. \n                    https://doi.org/10.1097/BRS.0b013e3181d359bd\n                    \n                  .",
+        "journal-title": "Spine"
+      },
+      {
+        "key": "2384_CR30",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Lee S, Lee JW, Yeom JS, Kim KJ, Kim HJ, Chung SK, Kang HS (2010) A practical MRI grading system for lumbar foraminal stenosis. AJR Am J Roentgenol 194:1095-1098. doi: 194/4/1095;\n                    https://doi.org/10.2214/AJR.09.2772\n                    \n                   [doi].",
+        "DOI": "10.2214/AJR.09.2772"
+      },
+      {
+        "key": "2384_CR31",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Dupuis PR, Yong-Hing K, Cassidy JD, Kirkaldy-Willis WH Radiologic diagnosis of degenerative lumbar spinal instability. Spine. 1985; 10:262–276.",
+        "DOI": "10.1097/00007632-198504000-00015"
+      },
+      {
+        "key": "2384_CR32",
+        "unstructured": "Berlemann UF, Jeszenszky DJ FAU, Buhler DW FAU, Harms J (2005) - Facet joint remodeling in degenerative spondylolisthesis: an investigation of joint orientation and tropism. - Eur Spine J 1998;7(5):376-80:80."
+      },
+      {
+        "key": "2384_CR33",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Cho IY, Park SY, Park JH, Suh SW, Lee SH. MRI findings of lumbar spine instability in degenerative spondylolisthesis. J Orthop Surg (Hong Kong). 2017;25:2309499017718907. \n                    https://doi.org/10.1177/2309499017718907\n                    \n                  .",
+        "DOI": "10.1177/2309499017718907"
+      },
+      {
+        "key": "2384_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "1873",
+        "DOI": "10.1097/00007632-200109010-00011",
+        "volume": "26",
+        "author": "CW Pfirrmann",
+        "year": "2001",
+        "unstructured": "Pfirrmann CW, Metzdorf A, Zanetti M, Hodler J, Boos N. Magnetic resonance classification of lumbar intervertebral disc degeneration. Spine (Phila Pa 1976). 2001;26:1873–8.",
+        "journal-title": "Spine (Phila Pa 1976)"
+      },
+      {
+        "key": "2384_CR35",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Modic MT, Steinberg PM, Ross JS, Masaryk TJ, Carter JR Degenerative disk disease: assessment of changes in vertebral body marrow with MR imaging. Radiology. 1988 166:193–199. \n                    https://doi.org/10.1148/radiology.166.1.3336678\n                    \n                  .",
+        "DOI": "10.1148/radiology.166.1.3336678"
+      },
+      {
+        "key": "2384_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "2094",
+        "DOI": "10.1097/BRS.0b013e31817f19f7",
+        "volume": "33",
+        "author": "Y Masharawi",
+        "year": "2008",
+        "unstructured": "Masharawi Y, Kjaer P, Bendix T, Manniche C, Wedderkopp N, Sorensen JS, Peled N, Jensen TS. The reproducibility of quantitative measurements in lumbar magnetic resonance imaging of children from the general population. Spine. 2008;33:2094–100. \n                    https://doi.org/10.1097/BRS.0b013e31817f19f7\n                    \n                  .",
+        "journal-title": "Spine"
+      },
+      {
+        "key": "2384_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "1828",
+        "DOI": "10.1097/BRS.0b013e3181a13c08",
+        "volume": "34",
+        "author": "F Schwab",
+        "year": "2009",
+        "unstructured": "Schwab F, Lafage V, Patel A, Farcy JP. Sagittal plane considerations and the pelvis in the adult patient. Spine. 2009;34:1828–33. \n                    https://doi.org/10.1097/BRS.0b013e3181a13c08\n                    \n                  .",
+        "journal-title": "Spine"
+      },
+      {
+        "key": "2384_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "1410",
+        "DOI": "10.1097/00007632-199506020-00014",
+        "volume": "20",
+        "author": "KH Bridwell",
+        "year": "1995",
+        "unstructured": "Bridwell KH, Lenke LG, McEnery KW, Baldus C, Blanke K. Anterior fresh frozen structural allografts in the thoracic and lumbar spine. Do they work if combined with posterior fusion and instrumentation in adult patients with kyphosis or anterior column defects? Spine. 1995;20:1410–8.",
+        "journal-title": "Spine"
+      },
+      {
+        "key": "2384_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "97",
+        "DOI": "10.1016/0197-2456(84)90116-8",
+        "volume": "5",
+        "author": "WC Blackwelder",
+        "year": "1984",
+        "unstructured": "Blackwelder WC, Chang MA. Sample size graphs for \"proving the null hypothesis\". Control Clin Trials. 1984;5:97–105.",
+        "journal-title": "Control Clin Trials"
+      },
+      {
+        "key": "2384_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "24",
+        "DOI": "10.1186/s13018-014-0144-x",
+        "volume": "10",
+        "author": "NP Katz",
+        "year": "2015",
+        "unstructured": "Katz NP, Paillard FC, Ekman E. Determining the clinical importance of treatment benefits for interventions for painful orthopedic conditions. J Orthop Surgery Res. 2015;10:24. \n                    https://doi.org/10.1186/s13018-014-0144-x\n                    \n                  .",
+        "journal-title": "J Orthop Surgery Res"
+      },
+      {
+        "key": "2384_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "1565",
+        "DOI": "10.1097/01.brs.0000170587.32676.0e",
+        "volume": "30",
+        "author": "S Blumenthal",
+        "year": "2005",
+        "unstructured": "Blumenthal S, McAfee PC, Guyer RD, Hochschuler SH, Geisler FH, Holt RT, Garcia R Jr, Regan JJ, Ohnmeiss DD. A prospective, randomized, multicenter Food and Drug Administration investigational device exemptions study of lumbar total disc replacement with the CHARITE artificial disc versus lumbar fusion: part I: evaluation of clinical outcomes. Spine. 2005;30:1565–75 discussion E1387-1591.",
+        "journal-title": "Spine"
+      },
+      {
+        "key": "2384_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "116",
+        "DOI": "10.1016/j.jpain.2014.08.005",
+        "volume": "16",
+        "author": "N Katz",
+        "year": "2015",
+        "unstructured": "Katz N, Paillard FC, Van Inwegen R. A review of the use of the number needed to treat to evaluate the efficacy of analgesics. J Pain. 2015;16:116–23. \n                    https://doi.org/10.1016/j.jpain.2014.08.005\n                    \n                  .",
+        "journal-title": "J Pain"
+      },
+      {
+        "key": "2384_CR43",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Fagerland MW, Lydersen S, Laake P (2011) Recommended confidence intervals for two independent binomial proportions. Stat Methods Med Res. Doi: 0962280211415469 ;\n                    https://doi.org/10.1177/0962280211415469\n                    \n                   [doi].",
+        "DOI": "10.1177/0962280211415469"
+      },
+      {
+        "key": "2384_CR44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/0471722146",
+        "volume-title": "Applied logistic regression",
+        "author": "DW Hosmer",
+        "year": "2000",
+        "unstructured": "Hosmer DW, Lemeshow S. Applied logistic regression. 2nd ed. New York: John Wiley & Sons, Inc, Hoboken; 2000.",
+        "edition": "2"
+      },
+      {
+        "key": "2384_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "17",
+        "DOI": "10.1186/1751-0473-3-17",
+        "volume": "3",
+        "author": "Z Bursac",
+        "year": "2008",
+        "unstructured": "Bursac Z, Gauss CH, Williams DK, Hosmer DW. Purposeful selection of variables in logistic regression. Source Code Biol Med. 2008;3:17. \n                    https://doi.org/10.1186/1751-0473-3-17\n                    \n                  .",
+        "journal-title": "Source Code Biol Med"
+      },
+      {
+        "key": "2384_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "987",
+        "DOI": "10.1016/S0195-668X(03)00114-3",
+        "volume": "24",
+        "author": "RM Conroy",
+        "year": "2003",
+        "unstructured": "Conroy RM, Pyorala K, Fitzgerald AP, Sans S, Menotti A, De Backer G, De Bacquer D, Ducimetiere P, Jousilahti P, Keil U, Njolstad I, Oganov RG, Thomsen T, Tunstall-Pedoe H, Tverdal A, Wedel H, Whincup P, Wilhelmsen L, Graham IM. Estimation of ten-year risk of fatal cardiovascular disease in Europe: the SCORE project. Eur Heart J. 2003;24:987–1003.",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "2384_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "1456",
+        "DOI": "10.3109/00365521.2015.1064991",
+        "volume": "50",
+        "author": "IC Solberg",
+        "year": "2015",
+        "unstructured": "Solberg IC, Hoivik ML, Cvancarova M, Moum B. Risk matrix model for prediction of colectomy in a population-based study of ulcerative colitis patients (the IBSEN study). Scand J Gastroenterol. 2015;50:1456–62. \n                    https://doi.org/10.3109/00365521.2015.1064991\n                    \n                  .",
+        "journal-title": "Scand J Gastroenterol"
+      },
+      {
+        "key": "2384_CR48",
+        "unstructured": "Drummond M (2005) Methods for the economic evaluation of health care Programmes. 3rd ed Oxford, NY : Oxford medical publications, Oxford University press;"
+      },
+      {
+        "key": "2384_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "514",
+        "DOI": "10.1097/brs.0000000000000798",
+        "volume": "40",
+        "author": "G Lonne",
+        "year": "2015",
+        "unstructured": "Lonne G, Johnsen LG, Aas E, Lydersen S, Andresen H, Ronning R, Nygaard OP. Comparing cost-effectiveness of X-stop with minimally invasive decompression in lumbar spinal stenosis: a randomized controlled trial. Spine. 2015;40:514–20. \n                    https://doi.org/10.1097/brs.0000000000000798\n                    \n                  .",
+        "journal-title": "Spine"
+      },
+      {
+        "key": "2384_CR50",
+        "unstructured": "ICH, Harmonised, Tripartite, Guideline (2014) Guideline for good clinical practice E6(R1). 1996. \n                    http://www.ich.org/products/guidelines/efficacy/efficacy-single/article/good-clinical-practice.html\n                    \n                  ."
+      }
+    ],
+    "container-title": [
+      "BMC Musculoskeletal Disorders"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1186/s12891-018-2384-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1186/s12891-018-2384-0/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1186/s12891-018-2384-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          4
+        ]
+      ],
+      "date-time": "2020-01-04T19:09:21Z",
+      "timestamp": 1578164961000
+    },
+    "score": 58.63396,
+    "resource": {
+      "primary": {
+        "URL": "https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-018-2384-0"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          5
+        ]
+      ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "2384"
+    ],
+    "URL": "https://doi.org/10.1186/s12891-018-2384-0",
+    "ISSN": [
+      "1471-2474"
+    ],
+    "issn-type": [
+      {
+        "value": "1471-2474",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "17 November 2017",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "18 December 2018",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "5 January 2019",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The patients are given verbal and written information about the study. If willing to participate, the patients sign an informed consent form. If a patient does not want to participate, he/she will receive normal care and be treated following the hospital’s established procedures.The protocol has been approved by the Norwegian Committee for Medical and Health Research Ethics Midt (2013/366).",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval and consent to participate"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent for publication"
+        }
+      },
+      {
+        "value": "The authors declare that they have no competing interests.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      },
+      {
+        "value": "Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Publisher’s Note"
+        }
+      }
+    ],
+    "article-number": "7"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          5
+        ]
+      ],
+      "date-time": "2024-09-05T00:32:12Z",
+      "timestamp": 1725496332168
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "9",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2024-09-01T00:00:00Z",
+          "timestamp": 1725148800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2024-09-01T00:00:00Z",
+          "timestamp": 1725148800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "thespinejournalonline.com",
+        "clinicalkey.es",
+        "clinicalkey.com.au",
+        "clinicalkey.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The Spine Journal"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.spinee.2024.06.528",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          17
+        ]
+      ],
+      "date-time": "2024-08-17T11:43:09Z",
+      "timestamp": 1723894989000
+    },
+    "page": "S44-S45",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S",
+    "title": [
+      "85. Decompression alone or with fusion in degenerative lumbar spondylolisthesis; 5-year follow-up of the NORDSTEN-DS trial"
+    ],
+    "prefix": "10.1016",
+    "volume": "24",
+    "author": [
+      {
+        "given": "Ivar Magne",
+        "family": "Austevoll",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eric Loratang",
+        "family": "Kgomotso",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andreas Ottersen",
+        "family": "Seip",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "The Spine Journal"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1529943024008337?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1529943024008337?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          4
+        ]
+      ],
+      "date-time": "2024-09-04T11:25:16Z",
+      "timestamp": 1725449116000
+    },
+    "score": 53.74134,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1529943024008337"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "9",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1529943024008337"
+    ],
+    "URL": "https://doi.org/10.1016/j.spinee.2024.06.528",
+    "ISSN": [
+      "1529-9430"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1529-9430"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "85. Decompression alone or with fusion in degenerative lumbar spondylolisthesis; 5-year follow-up of the NORDSTEN-DS trial",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "The Spine Journal",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.spinee.2024.06.528",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2024 Published by Elsevier Inc.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          13
+        ]
+      ],
+      "date-time": "2024-09-13T18:50:08Z",
+      "timestamp": 1726253408584
+    },
+    "reference-count": 1,
+    "publisher": "Informa UK Limited",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Pharmaceutical Programming"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1179/175709310x12845438122791",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2010-12-22T09:01:03Z",
+      "timestamp": 1293008463000
+    },
+    "page": "51-56",
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Result disclosure on ClinicalTrials. gov — first experiences and challenges"
+    ],
+    "prefix": "10.1080",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Ralf",
+        "family": "Minkenberg",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          12,
+          2
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "CIT0006",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.08-3022"
+      }
+    ],
+    "container-title": [
+      "Pharmaceutical Programming"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.tandfonline.com/doi/pdf/10.1179/175709310X12845438122791",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          17
+        ]
+      ],
+      "date-time": "2016-12-17T05:37:53Z",
+      "timestamp": 1481953073000
+    },
+    "score": 53.253876,
+    "resource": {
+      "primary": {
+        "URL": "http://www.tandfonline.com/doi/full/10.1179/175709310X12845438122791"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          12
+        ]
+      ]
+    },
+    "references-count": 1,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2013,
+            12,
+            2
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1179/175709310X12845438122791"
+    ],
+    "URL": "https://doi.org/10.1179/175709310x12845438122791",
+    "ISSN": [
+      "1757-0921",
+      "1757-093X"
+    ],
+    "issn-type": [
+      {
+        "value": "1757-0921",
+        "type": "print"
+      },
+      {
+        "value": "1757-093X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          11
+        ]
+      ],
+      "date-time": "2025-09-11T20:54:00Z",
+      "timestamp": 1757624040217,
+      "version": "3.44.0"
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2021-01-01T00:00:00Z",
+          "timestamp": 1609459200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2021-01-01T00:00:00Z",
+          "timestamp": 1609459200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              9,
+              27
+            ]
+          ],
+          "date-time": "2021-09-27T00:00:00Z",
+          "timestamp": 1632700800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 269,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Brain and Spine"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.bas.2021.100043",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2021-10-04T18:05:36Z",
+      "timestamp": 1633370736000
+    },
+    "page": "100043",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "special_numbering": "S1",
+    "title": [
+      "Decompression with or without fusion in degenerative lumbar spondylolisthesis - The NORDSTEN-DS trial"
+    ],
+    "prefix": "10.1016",
+    "volume": "1",
+    "author": [
+      {
+        "given": "Ivar Magne",
+        "family": "Austevoll",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Erland",
+        "family": "Hermansen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Morten Wang",
+        "family": "Fagerland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kjersti",
+        "family": "Storheim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Brox Jens",
+        "family": "Ivar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Solberg",
+        "family": "Tore",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Frode",
+        "family": "Rekeland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eric",
+        "family": "Franssen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Clemens",
+        "family": "Weber",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Helena",
+        "family": "Brisby",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Knut",
+        "family": "Algaard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tordis",
+        "family": "Böker",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Oliver",
+        "family": "Grundnes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kari",
+        "family": "Indrekvam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Christian",
+        "family": "Hellum",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Brain and Spine"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2772529421000436?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2772529421000436?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          9
+        ]
+      ],
+      "date-time": "2025-09-09T11:15:56Z",
+      "timestamp": 1757416556000
+    },
+    "score": 45.25571,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2772529421000436"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S2772529421000436"
+    ],
+    "URL": "https://doi.org/10.1016/j.bas.2021.100043",
+    "ISSN": [
+      "2772-5294"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "2772-5294"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Decompression with or without fusion in degenerative lumbar spondylolisthesis - The NORDSTEN-DS trial",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Brain and Spine",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.bas.2021.100043",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2021 Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "100043"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2026-03-27T08:57:42Z",
+      "timestamp": 1774601862069,
+      "version": "3.50.1"
+    },
+    "reference-count": 24,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2023-07-03T00:00:00Z",
+          "timestamp": 1688342400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2023-07-03T00:00:00Z",
+          "timestamp": 1688342400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100004257",
+        "name": "Helse Vest",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100004257",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100004590",
+        "name": "Helse Midt-Norge",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100004590",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "University of Bergen"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Eur Spine J"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Purpose</jats:title>\n                <jats:p>To provide an overview of the The Norwegian Degenerative spondylolisthesis and spinal stenosis (NORDSTEN)-study and the organizational structure, and to evaluate the study population.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>The NORDSTEN is a multicentre study with 10 year follow-up, conducted at 18 public hospitals. NORDSTEN includes three studies: (1) The randomized spinal stenosis trial comparing the impact of three different decompression techniques; (2) the randomized degenerative spondylolisthesis trial investigating whether decompression surgery alone is as good as decompression with instrumented fusion; (3) the observational cohort tracking the natural course of LSS in patients without planned surgical treatment. A range of clinical and radiological data are collected at defined time points. To administer, guide, monitor and assist the surgical units and the researchers involved, the NORDSTEN national project organization was established.</jats:p>\n                <jats:p>Corresponding clinical data from the Norwegian Registry for Spine Surgery (NORspine) were used to assess if the randomized NORDSTEN-population at baseline was representative for LSS patients treated in routine surgical practice.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>A total of 988 LSS patients with or without spondylolistheses were included from 2014 to 2018. The clinical trials did not find any difference in the efficacy of the surgical methods evaluated. The NORDSTEN patients were similar to those being consecutively operated at the same hospitals and reported to the NORspine during the same time period.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusion</jats:title>\n                <jats:p>The NORDSTEN study provides opportunity to investigate clinical course of LSS with or without surgical interventions. The NORDSTEN-study population were similar to LSS patients treated in routine surgical practice, supporting the external validity of previously published results.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Trial registration</jats:title>\n                <jats:p>ClinicalTrials.gov; NCT02007083 10/12/2013, NCT02051374 31/01/2014 and NCT03562936 20/06/2018.</jats:p>\n              </jats:sec>",
+    "DOI": "10.1007/s00586-023-07827-w",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          3
+        ]
+      ],
+      "date-time": "2023-07-03T12:02:50Z",
+      "timestamp": 1688385770000
+    },
+    "page": "4162-4173",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 17,
+    "title": [
+      "The Norwegian degenerative spondylolisthesis and spinal stenosis (NORDSTEN) study: study overview, organization structure and study population"
+    ],
+    "prefix": "10.1007",
+    "volume": "32",
+    "clinical-trial-number": [
+      {
+        "clinical-trial-number": "nct02007083",
+        "registry": "10.18810/clinical-trials-gov"
+      },
+      {
+        "clinical-trial-number": "nct02051374",
+        "registry": "10.18810/clinical-trials-gov"
+      },
+      {
+        "clinical-trial-number": "nct03562936",
+        "registry": "10.18810/clinical-trials-gov"
+      }
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9636-9712",
+        "authenticated-orcid": false,
+        "given": "Kari",
+        "family": "Indrekvam",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ingrid Fjeldheim",
+        "family": "Bånerud",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Erland",
+        "family": "Hermansen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ivar Magne",
+        "family": "Austevoll",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Frode",
+        "family": "Rekeland",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Maren Hjelle",
+        "family": "Guddal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tore K.",
+        "family": "Solberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jens Ivar",
+        "family": "Brox",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Christian",
+        "family": "Hellum",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kjersti",
+        "family": "Storheim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "7827_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "e313",
+        "DOI": "10.1016/j.wneu.2018.07.139",
+        "volume": "119",
+        "author": "CH Kim",
+        "year": "2018",
+        "unstructured": "Kim CH et al (2018) Increased volume of surgery for lumbar spinal stenosis and changes in surgical methods and outcomes: a nationwide cohort study with a 5 year follow-up. World Neurosurg 119:e313–e322",
+        "journal-title": "World Neurosurg"
+      },
+      {
+        "issue": "6",
+        "key": "7827_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "E372",
+        "DOI": "10.1097/BRS.0000000000002858",
+        "volume": "44",
+        "author": "L Grøvle",
+        "year": "2019",
+        "unstructured": "Grøvle L et al (2019) The rates of LSS surgery in Norwegian public hospitals: a threefold increase from 1999 to 2013. Spine 44(6):E372-e378",
+        "journal-title": "Spine"
+      },
+      {
+        "issue": "22",
+        "key": "7827_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "1737",
+        "DOI": "10.1097/BRS.0000000000002207",
+        "volume": "42",
+        "author": "GC Machado",
+        "year": "2017",
+        "unstructured": "Machado GC et al (2017) Trends, complications, and costs for hospital admission and surgery for lumbar spinal stenosis. Spine 42(22):1737–1743",
+        "journal-title": "Spine"
+      },
+      {
+        "issue": "5",
+        "key": "7827_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "693",
+        "DOI": "10.1007/s00776-013-0435-9",
+        "volume": "18",
+        "author": "A Minamide",
+        "year": "2013",
+        "unstructured": "Minamide A, Yoshida M, Maio K (2013) The natural clinical course of lumbar spinal stenosis: a longitudinal cohort study over a minimum of 10 years. J Orthop Sci 18(5):693–698",
+        "journal-title": "J Orthop Sci"
+      },
+      {
+        "issue": "2",
+        "key": "7827_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "369",
+        "DOI": "10.1007/s00586-014-3411-y",
+        "volume": "24",
+        "author": "B Adamova",
+        "year": "2015",
+        "unstructured": "Adamova B et al (2015) Outcomes and their predictors in lumbar spinal stenosis: a 12 year follow-up. Eur Spine J 24(2):369–380",
+        "journal-title": "Eur Spine J"
+      },
+      {
+        "issue": "11",
+        "key": "7827_CR6",
+        "first-page": "cd012421",
+        "volume": "11",
+        "author": "GC Machado",
+        "year": "2016",
+        "unstructured": "Machado GC et al (2016) Surgical options for lumbar spinal stenosis. Cochrane database syst rev 11(11):cd012421",
+        "journal-title": "Cochrane database syst rev"
+      },
+      {
+        "issue": "13",
+        "key": "7827_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1259",
+        "DOI": "10.1001/jama.2010.338",
+        "volume": "303",
+        "author": "RA Deyo",
+        "year": "2010",
+        "unstructured": "Deyo RA et al (2010) Trends, major medical complications, and charges associated with surgery for lumbar spinal stenosis in older adults. JAMA 303(13):1259–1265",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "7827_CR8",
+        "unstructured": "Weiss AJ, Elixhauser A, Andrews RM (2011) Characteristics of Operating Room Procedures in U.S. Hospitals, 2011: Statistical Brief #170. In: Healthcare cost and utilization project (HCUP) statistical briefs. Agency for healthcare research and quality (US): Rockville (MD)"
+      },
+      {
+        "issue": "1",
+        "key": "7827_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "121",
+        "DOI": "10.1186/s12891-017-1491-7",
+        "volume": "18",
+        "author": "E Hermansen",
+        "year": "2017",
+        "unstructured": "Hermansen E et al (2017) Study-protocol for a randomized controlled trial comparing clinical and radiological results after three different posterior decompression techniques for lumbar spinal stenosis: the spinal stenosis trial (SST) (part of the NORDSTEN study). BMC Musculoskelet Disord 18(1):121",
+        "journal-title": "BMC Musculoskelet Disord"
+      },
+      {
+        "issue": "1",
+        "key": "7827_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "7",
+        "DOI": "10.1186/s12891-018-2384-0",
+        "volume": "20",
+        "author": "IM Austevoll",
+        "year": "2019",
+        "unstructured": "Austevoll IM et al (2019) Decompression alone versus decompression with instrumental fusion the NORDSTEN degenerative spondylolisthesis trial (NORDSTEN-DS); study protocol for a randomized controlled trial. BMC Musculoskelet Disord 20(1):7",
+        "journal-title": "BMC Musculoskelet Disord"
+      },
+      {
+        "issue": "4",
+        "key": "7827_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "1095",
+        "DOI": "10.2214/AJR.09.2772",
+        "volume": "194",
+        "author": "S Lee",
+        "year": "2010",
+        "unstructured": "Lee S et al (2010) A practical MRI grading system for lumbar foraminal stenosis. AJR Am J Roentgenol 194(4):1095–1098",
+        "journal-title": "AJR Am J Roentgenol"
+      },
+      {
+        "key": "7827_CR12",
+        "unstructured": "ICH (2016) International council for harmonisation of technical requirements for pharmaceuticals for human use. ICH harmonised guideline. Integrated addendum to ICH E6(R1): Guideline for good clinical practice. E6 (R2)"
+      },
+      {
+        "issue": "5",
+        "key": "7827_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "241",
+        "DOI": "10.1080/16501970306094",
+        "volume": "35",
+        "author": "M Grotle",
+        "year": "2003",
+        "unstructured": "Grotle M, Brox JI, Vollestad NK (2003) Cross-cultural adaptation of the Norwegian versions of the roland-morris disability questionnaire and the oswestry disability index. J Rehabil Med 35(5):241–247",
+        "journal-title": "J Rehabil Med"
+      },
+      {
+        "issue": "6",
+        "key": "7827_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "526",
+        "DOI": "10.1056/NEJMoa2100990",
+        "volume": "385",
+        "author": "IM Austevoll",
+        "year": "2021",
+        "unstructured": "Austevoll IM et al (2021) Decompression with or without fusion in degenerative lumbar spondylolisthesis. N Engl J Med 385(6):526–538",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "3",
+        "key": "7827_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "e224291",
+        "DOI": "10.1001/jamanetworkopen.2022.4291",
+        "volume": "5",
+        "author": "E Hermansen",
+        "year": "2022",
+        "unstructured": "Hermansen E et al (2022) Comparison of 3 different minimally invasive surgical techniques for lumbar spinal stenosis: a randomized clinical trial. JAMA Netw Open 5(3):e224291",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "issue": "7",
+        "key": "7827_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "806",
+        "DOI": "10.1097/01.brs.0000207473.09030.0d",
+        "volume": "31",
+        "author": "J Cummins",
+        "year": "2006",
+        "unstructured": "Cummins J et al (2006) Descriptive epidemiology and prior healthcare utilization of patients in the spine patient outcomes research trial’s (SPORT) three observational cohorts: disc herniation, spinal stenosis, and degenerative spondylolisthesis. Spine 31(7):806–814",
+        "journal-title": "Spine"
+      },
+      {
+        "issue": "6",
+        "key": "7827_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1295",
+        "DOI": "10.2106/JBJS.H.00913",
+        "volume": "91",
+        "author": "JN Weinstein",
+        "year": "2009",
+        "unstructured": "Weinstein JN et al (2009) Surgical compared with nonoperative treatment for lumbar degenerative spondylolisthesis. Four year results in the spine patient outcomes research trial (SPORT) randomized and observational cohorts. J Bone Joint Surg Am 91(6):1295–1304",
+        "journal-title": "J Bone Joint Surg Am"
+      },
+      {
+        "issue": "8",
+        "key": "7827_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "794",
+        "DOI": "10.1056/NEJMoa0707136",
+        "volume": "358",
+        "author": "JN Weinstein",
+        "year": "2008",
+        "unstructured": "Weinstein JN et al (2008) Surgical versus nonsurgical therapy for lumbar spinal stenosis. N Engl J Med 358(8):794–810",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "15",
+        "key": "7827_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "1413",
+        "DOI": "10.1056/NEJMoa1513721",
+        "volume": "374",
+        "author": "P Försth",
+        "year": "2016",
+        "unstructured": "Försth P et al (2016) A randomized, controlled trial of fusion surgery for lumbar spinal stenosis. N Engl J Med 374(15):1413–1423",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "15",
+        "key": "7827_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1424",
+        "DOI": "10.1056/NEJMoa1508788",
+        "volume": "374",
+        "author": "Z Ghogawala",
+        "year": "2016",
+        "unstructured": "Ghogawala Z et al (2016) Laminectomy plus fusion versus laminectomy alone for lumbar spondylolisthesis. N Engl J Med 374(15):1424–1434",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "7827_CR21",
+        "unstructured": "Solberg TK, Olsen LR, Tyrihaug AM (2020) Annual report 2019. In: Norwegian registry for spine surgery (NORspine)"
+      },
+      {
+        "issue": "1",
+        "key": "7827_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "41",
+        "DOI": "10.1016/j.spinee.2018.05.028",
+        "volume": "19",
+        "author": "G Lønne",
+        "year": "2019",
+        "unstructured": "Lønne G et al (2019) Lumbar spinal stenosis: comparison of surgical practice variation and clinical outcome in three national spine registries. Spine J 19(1):41–49",
+        "journal-title": "Spine J"
+      },
+      {
+        "key": "7827_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "77",
+        "DOI": "10.1016/j.clineuro.2017.03.008",
+        "volume": "156",
+        "author": "G Lønne",
+        "year": "2017",
+        "unstructured": "Lønne G et al (2017) Variation in selection criteria and approaches to surgery for lumbar spinal stenosis among patients treated in Boston and Norway. Clin Neurol Neurosurg 156:77–82",
+        "journal-title": "Clin Neurol Neurosurg"
+      },
+      {
+        "issue": "9",
+        "key": "7827_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "872",
+        "DOI": "10.1161/CIRCULATIONAHA.115.019902",
+        "volume": "133",
+        "author": "RJ Mentz",
+        "year": "2016",
+        "unstructured": "Mentz RJ et al (2016) Good clinical practice guidance and pragmatic clinical trials: balancing the best of both worlds. Circulation 133(9):872–880",
+        "journal-title": "Circulation"
+      }
+    ],
+    "container-title": [
+      "European Spine Journal"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00586-023-07827-w.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s00586-023-07827-w/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s00586-023-07827-w.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          21
+        ]
+      ],
+      "date-time": "2023-11-21T22:03:33Z",
+      "timestamp": 1700604213000
+    },
+    "score": 44.040462,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s00586-023-07827-w"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          3
+        ]
+      ]
+    },
+    "references-count": 24,
+    "journal-issue": {
+      "issue": "12",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "7827"
+    ],
+    "URL": "https://doi.org/10.1007/s00586-023-07827-w",
+    "ISSN": [
+      "0940-6719",
+      "1432-0932"
+    ],
+    "issn-type": [
+      {
+        "value": "0940-6719",
+        "type": "print"
+      },
+      {
+        "value": "1432-0932",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          7,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "11 January 2023",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "10 May 2023",
+        "order": 2,
+        "name": "revised",
+        "label": "Revised",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "12 June 2023",
+        "order": 3,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "3 July 2023",
+        "order": 4,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors have no relevant financial or nonfinancial interest to disclose.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      },
+      {
+        "value": "The Norwegian Committees for Medical and Health Research Ethics approved the trials (NORDTEN-SST trial and NORDSTEN-OC; 2011/2034, NORDSTEN-DS trial; 2013/366). Data protection was approved by the Norwegian Data Inspectorate and data are stored at “Services for sensitive data” (TSD) hosted by the University of Oslo, to allow secure data sharing between researchers. The study was performed according to the Helsinki Declaration and registered at ClinicalTrials.gov under the following identifiers; SST: NCT02007083 10/12/2013 / DS: NCT02051374 31/01/2014/OC: NCT03562936 20/06/2018. The trial is monitored according to requirements of the Good Clinical Practice (GCP) guidelines.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval"
+        }
+      },
+      {
+        "value": "Informed consent was obtained from patients included in the study after oral and written information.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent to participate"
+        }
+      }
+    ]
+  }
+]

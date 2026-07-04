@@ -1,0 +1,2510 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T13:19:23Z",
+      "timestamp": 1648732763040
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1249/01.mss.0000353624.63070.30",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2009,
+          6,
+          9
+        ]
+      ],
+      "date-time": "2009-06-09T07:24:07Z",
+      "timestamp": 1244532247000
+    },
+    "page": "111",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Physical Activity And Obesity And Risk Of Urinary Incontinence Following Prostatectomy"
+    ],
+    "prefix": "10.1249",
+    "volume": "41",
+    "author": [
+      {
+        "given": "Kathleen Y.",
+        "family": "Wolin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jason",
+        "family": "Luly",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jenna",
+        "family": "Goldhaber",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gerald L.",
+        "family": "Andriole",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Adam S.",
+        "family": "Kibel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Medicine &amp; Science in Sports &amp; Exercise"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/00005768-200905001-01090",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2021-02-28T02:50:23Z",
+      "timestamp": 1614480623000
+    },
+    "score": 55.2114,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/00005768-200905001-01090"
+      }
+    },
+    "subtitle": [
+      "890 May 29 9:30 AM - 9:45 AM"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2009
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1249/01.mss.0000353624.63070.30",
+    "ISSN": [
+      "0195-9131"
+    ],
+    "issn-type": [
+      {
+        "value": "0195-9131",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2009,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          20
+        ]
+      ],
+      "date-time": "2026-03-20T03:46:25Z",
+      "timestamp": 1773978385193,
+      "version": "3.50.1"
+    },
+    "reference-count": 29,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              17
+            ]
+          ],
+          "date-time": "2021-05-17T00:00:00Z",
+          "timestamp": 1621209600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              17
+            ]
+          ],
+          "date-time": "2021-05-17T00:00:00Z",
+          "timestamp": 1621209600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000054",
+        "name": "National Cancer Institute",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U54 CA155496"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U54 CA155496"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000054",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMC Urol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Background</jats:title>\n                <jats:p>To examine one-year trajectories of urinary and sexual outcomes, and correlates of these trajectories, among prostate cancer patients treated by radical prostatectomy (RP).</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>Study participants were recruited from 2011 to 2014 at two US institutions. Self-reported urinary and sexual outcomes were measured at baseline before surgery, and 5 weeks, 6 months and 12 months after surgery, using the modified Expanded Prostate Cancer Index Composite-50 (EPIC-50). Changes in EPIC-50 scores from baseline were categorized as improved (beyond baseline), maintained, or impaired (below baseline), using previously-reported minimum clinically important differences.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>Of the 426 eligible participants who completed the baseline survey, 395 provided data on at least one EPIC-50 sub-scale at 5 weeks and 12 months, and were analyzed. Although all mean EPIC-50 scores declined markedly 5 weeks after surgery and then recovered to near (incontinence-related outcomes) or below (sexual outcomes) baseline levels by 12 months post-surgery, some men experienced improvement beyond their baseline levels on each sub-scale (3.3–51% depending on the sub-scale). Having benign prostatic hyperplasia (BPH) at baseline (prostate size ≥ 40 g; an International Prostate Symptom Index Score ≥ 8; or using BPH medications) was associated with post-surgical improvements in voiding dysfunction-related bother at 5 weeks (OR = 3.9, 95% CI: 2.1–7.2) and 12 months (OR = 3.3, 95% CI: 2.0–5.7); and in sexual bother at 5 weeks (OR = 5.7, 95% CI:1.7–19.3) and 12 months (OR = 3.0, 95% CI: 1.2–7.1).</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusions</jats:title>\n                <jats:p>Our findings provide additional support for considering baseline BPH symptoms when selecting the best therapy for early-stage prostate cancer.</jats:p>\n              </jats:sec>",
+    "DOI": "10.1186/s12894-021-00845-0",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          17
+        ]
+      ],
+      "date-time": "2021-05-17T12:03:48Z",
+      "timestamp": 1621253028000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "One-year urinary and sexual outcome trajectories among prostate cancer patients treated by radical prostatectomy: a prospective study"
+    ],
+    "prefix": "10.1186",
+    "volume": "21",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1698-6666",
+        "authenticated-orcid": false,
+        "given": "Lin",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jung Ae",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Emily",
+        "family": "Heer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Claire",
+        "family": "Pernar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Graham A.",
+        "family": "Colditz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ratna",
+        "family": "Pakpahan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kellie R.",
+        "family": "Imm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eric H.",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "suffix": "III",
+        "given": "Robert L.",
+        "family": "Grubb",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kathleen Y.",
+        "family": "Wolin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Adam S.",
+        "family": "Kibel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Siobhan",
+        "family": "Sutcliffe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "6",
+        "key": "845_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "379",
+        "DOI": "10.3322/caac.20039",
+        "volume": "59",
+        "author": "GA Lin",
+        "year": "2009",
+        "unstructured": "Lin GA, Aaronson DS, Knight SJ, Carroll PR, Dudley RA. Patient decision aids for prostate cancer treatment: a systematic review of the literature. CA Cancer J Clin. 2009;59(6):379–90.",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "issue": "2",
+        "key": "845_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "407",
+        "DOI": "10.1016/S0022-5347(05)68571-0",
+        "volume": "162",
+        "author": "MJ Barry",
+        "year": "1999",
+        "unstructured": "Barry MJ. Quality of life and prostate cancer treatment. J Urol. 1999;162(2):407.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "12",
+        "key": "845_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "1250",
+        "DOI": "10.1056/NEJMoa074311",
+        "volume": "358",
+        "author": "MG Sanda",
+        "year": "2008",
+        "unstructured": "Sanda MG, Dunn RL, Michalski J, Sandler HM, Northouse L, Hembroff L, Lin X, Greenfield TK, Litwin MS, Saigal CS, et al. Quality of life and satisfaction with outcome among prostate-cancer survivors. N Engl J Med. 2008;358(12):1250–61.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "20",
+        "key": "845_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "2516",
+        "DOI": "10.1001/jama.292.20.2516",
+        "volume": "292",
+        "author": "RA McNutt",
+        "year": "2004",
+        "unstructured": "McNutt RA. Shared medical decision making: problems, process, progress. JAMA. 2004;292(20):2516–8.",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "2",
+        "key": "845_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "421",
+        "DOI": "10.1016/j.ijrobp.2007.12.024",
+        "volume": "72",
+        "author": "M Ferrer",
+        "year": "2008",
+        "unstructured": "Ferrer M, Suarez JF, Guedea F, Fernandez P, Macias V, Marino A, Hervas A, Herruzo I, Ortiz MJ, Villavicencio H, et al. Health-related quality of life 2 years after treatment with radical prostatectomy, prostate brachytherapy, or external beam radiotherapy in patients with clinically localized prostate cancer. Int J Radiat Oncol Biol Phys. 2008;72(2):421–32.",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "issue": "5",
+        "key": "845_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1061",
+        "DOI": "10.1016/j.urology.2006.06.017",
+        "volume": "68",
+        "author": "TY Tseng",
+        "year": "2006",
+        "unstructured": "Tseng TY, Kuebler HR, Cancel QV, Sun L, Springhart WP, Murphy BC, Albala DM, Dahm P. Prospective health-related quality-of-life assessment in an initial cohort of patients undergoing robotic radical prostatectomy. Urology. 2006;68(5):1061–6.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "6",
+        "key": "845_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1092",
+        "DOI": "10.1007/s10147-013-0659-x",
+        "volume": "19",
+        "author": "M Muramaki",
+        "year": "2014",
+        "unstructured": "Muramaki M, Miyake H, Behnsawy HM, Furukawa J, Harada K, Fujisawa M. Assessment of postoperative quality of life: comparative study between laparoscopic and minimum incision endoscopic radical prostatectomies. Int J Clin Oncol. 2014;19(6):1092–7.",
+        "journal-title": "Int J Clin Oncol"
+      },
+      {
+        "issue": "6",
+        "key": "845_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "898",
+        "DOI": "10.1111/j.1464-410X.2011.10551.x",
+        "volume": "109",
+        "author": "DL Willis",
+        "year": "2012",
+        "unstructured": "Willis DL, Gonzalgo ML, Brotzman M, Feng Z, Trock B, Su LM. Comparison of outcomes between pure laparoscopic vs robot-assisted laparoscopic radical prostatectomy: a study of comparative effectiveness based upon validated quality of life outcomes. BJU Int. 2012;109(6):898–905.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "4",
+        "key": "845_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "585",
+        "DOI": "10.1111/j.1464-410X.2010.09579.x",
+        "volume": "107",
+        "author": "WR Parker",
+        "year": "2011",
+        "unstructured": "Parker WR, Wang R, He C, Wood DP Jr. Five year expanded prostate cancer index composite-based quality of life outcomes after prostatectomy for localized prostate cancer. BJU Int. 2011;107(4):585–90.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "3",
+        "key": "845_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "201",
+        "DOI": "10.1007/s11701-016-0565-0",
+        "volume": "10",
+        "author": "H Miyake",
+        "year": "2016",
+        "unstructured": "Miyake H, Miyazaki A, Furukawa J, Hinata N, Fujisawa M. Prospective assessment of time-dependent changes in quality of life of Japanese patients with prostate cancer following robot-assisted radical prostatectomy. J Robot Surg. 2016;10(3):201–7.",
+        "journal-title": "J Robot Surg"
+      },
+      {
+        "key": "845_CR11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pardo Y, Guedea F, Aguilo F, Fernandez P, Macias V, Marino A, Hervas A, Herruzo I, Ortiz MJ, Ponce de Leon J et al. Quality-of-life impact of primary treatments for localized prostate cancer in patients without hormonal treatment. J Clin Oncol. 2010; 28(31):4687–4696.",
+        "DOI": "10.1200/JCO.2009.25.3245"
+      },
+      {
+        "issue": "14",
+        "key": "845_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "2465",
+        "DOI": "10.1002/cncr.29370",
+        "volume": "121",
+        "author": "C Jeldres",
+        "year": "2015",
+        "unstructured": "Jeldres C, Cullen J, Hurwitz LM, Wolff EM, Levie KE, Odem-Davis K, Johnston RB, Pham KN, Rosner IL, Brand TC, et al. Prospective quality-of-life outcomes for low-risk prostate cancer: active surveillance versus radical prostatectomy. Cancer. 2015;121(14):2465–73.",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "845_CR13",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chang P, Regan MM, Ferrer M, Guedea F, Patil D, Wei JT, Hembroff LA, Michalski JM, Saigal CS, Litwin MS et al. Relief of urinary symptom burden after primary prostate cancer treatment. J Urol 2016.",
+        "DOI": "10.1016/j.juro.2016.08.101"
+      },
+      {
+        "issue": "3",
+        "key": "845_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "683",
+        "DOI": "10.1016/j.juro.2017.11.095",
+        "volume": "199",
+        "author": "MG Sanda",
+        "year": "2018",
+        "unstructured": "Sanda MG, Cadeddu JA, Kirkby E, Chen RC, Crispino T, Fontanarosa J, Freedland SJ, Greene K, Klotz LH, Makarov DV, et al. Clinically Localized Prostate Cancer: AUA/ASTRO/SUO Guideline. Part I: risk stratification, shared decision making, and care options. J Urol. 2018;199(3):683–90.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "6",
+        "key": "845_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "899",
+        "DOI": "10.1016/S0090-4295(00)00858-X",
+        "volume": "56",
+        "author": "JT Wei",
+        "year": "2000",
+        "unstructured": "Wei JT, Dunn RL, Litwin MS, Sandler HM, Sanda MG. Development and validation of the expanded prostate cancer index composite (EPIC) for comprehensive assessment of health-related quality of life in men with prostate cancer. Urology. 2000;56(6):899–905.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "6",
+        "key": "845_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "1397",
+        "DOI": "10.1016/j.juro.2017.07.041",
+        "volume": "198",
+        "author": "L Yang",
+        "year": "2017",
+        "unstructured": "Yang L, Kibel AS, Colditz GA, Pakpahan R, Imm KR, Izadi S, Grubb RL 3rd, Wolin KY, Sutcliffe S. Caution with use of the expanded prostate cancer index composite-50 urinary bother scale: how voiding dysfunction modifies its performance. J Urol. 2017;198(6):1397–403.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "1",
+        "key": "845_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "101",
+        "DOI": "10.1016/j.urology.2014.08.044",
+        "volume": "85",
+        "author": "TA Skolarus",
+        "year": "2015",
+        "unstructured": "Skolarus TA, Dunn RL, Sanda MG, Chang P, Greenfield TK, Litwin MS, Wei JT. Minimally important difference for the Expanded Prostate Cancer Index Composite Short Form. Urology. 2015;85(1):101–5.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "1",
+        "key": "845_CR18",
+        "first-page": "e71",
+        "volume": "27",
+        "author": "L Yang",
+        "year": "2020",
+        "unstructured": "Yang L, Lee J, Kibel AS, Pernar C, Colditz GA, Pakpahan R, Imm KR, Izadi S, Grubb RL III, Wolin KY, et al. One-year urinary and sexual outcome trajectories in prostate cancer patients treated by radical prostatectomy: a prospective study. Curr Oncol. 2020;27(1):e71.",
+        "journal-title": "Curr Oncol"
+      },
+      {
+        "issue": "2",
+        "key": "845_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "239",
+        "DOI": "10.1177/0017896911398234",
+        "volume": "71",
+        "author": "FR Romero",
+        "year": "2011",
+        "unstructured": "Romero FR, Romero AW, Filho TB, Kulysz D, Oliveira FC, Filho RT. The prostate exam. Health Educ J. 2011;71(2):239–50.",
+        "journal-title": "Health Educ J"
+      },
+      {
+        "issue": "5",
+        "key": "845_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1549",
+        "DOI": "10.1016/S0022-5347(17)36966-5",
+        "volume": "148",
+        "author": "MJ Barry",
+        "year": "1992",
+        "unstructured": "Barry MJ, Fowler FJ Jr, O’Leary MP, Bruskewitz RC, Holtgrewe HL, Mebust WK, Cockett AT. The American Urological Association symptom index for benign prostatic hyperplasia. The Measurement Committee of the American Urological Association. J Urol. 1992;148(5):1549–64.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "4",
+        "key": "845_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "600",
+        "DOI": "10.1016/j.eururo.2014.08.074",
+        "volume": "68",
+        "author": "S Punnen",
+        "year": "2015",
+        "unstructured": "Punnen S, Cowan JE, Chan JM, Carroll PR, Cooperberg MR. Long-term health-related quality of life after primary treatment for localized prostate cancer: results from the CaPSURE registry. Eur Urol. 2015;68(4):600–8.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "5",
+        "key": "845_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1818",
+        "DOI": "10.1016/j.juro.2008.01.050",
+        "volume": "179",
+        "author": "AW Levinson",
+        "year": "2008",
+        "unstructured": "Levinson AW, Bagga HS, Pavlovich CP, Mettee LZ, Ward NT, Link RE, Su LM. The impact of prostate size on urinary quality of life indexes following laparoscopic radical prostatectomy. J Urol. 2008;179(5):1818–22.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "Suppl 1",
+        "key": "845_CR23",
+        "first-page": "32",
+        "volume": "32",
+        "author": "R Buttyan",
+        "year": "1997",
+        "unstructured": "Buttyan R, Chen MW, Levin RM. Animal models of bladder outlet obstruction and molecular insights into the basis for the development of bladder dysfunction. Eur Urol. 1997;32(Suppl 1):32–9.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "5",
+        "key": "845_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "609",
+        "DOI": "10.1002/1520-6777(2000)19:5<609::AID-NAU7>3.0.CO;2-H",
+        "volume": "19",
+        "author": "RM Levin",
+        "year": "2000",
+        "unstructured": "Levin RM, Haugaard N, O’Connor L, Buttyan R, Das A, Dixon JS, Gosling JA. Obstructive response of human bladder to BPH vs. rabbit bladder response to partial outlet obstruction: a direct comparison. Neurourol Urodyn. 2000;19(5):609–29.",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "issue": "1",
+        "key": "845_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "15",
+        "DOI": "10.1186/s12894-018-0329-4",
+        "volume": "18",
+        "author": "F Fusco",
+        "year": "2018",
+        "unstructured": "Fusco F, Creta M, De Nunzio C, Iacovelli V, Mangiapia F, Li Marzi V, Finazzi Agro E. Progressive bladder remodeling due to bladder outlet obstruction: a systematic review of morphological and molecular evidences in humans. BMC Urol. 2018;18(1):15.",
+        "journal-title": "BMC Urol"
+      },
+      {
+        "issue": "7",
+        "key": "845_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "735",
+        "DOI": "10.1002/pon.1449",
+        "volume": "18",
+        "author": "H Badr",
+        "year": "2009",
+        "unstructured": "Badr H, Taylor CL. Sexual dysfunction and spousal communication in couples coping with prostate cancer. Psychooncology. 2009;18(7):735–46.",
+        "journal-title": "Psychooncology"
+      },
+      {
+        "issue": "2",
+        "key": "845_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "516",
+        "DOI": "10.1111/jsm.12787",
+        "volume": "12",
+        "author": "E Pazmany",
+        "year": "2015",
+        "unstructured": "Pazmany E, Bergeron S, Verhaeghe J, Van Oudenhove L, Enzlin P. Dyadic sexual communication in pre-menopausal women with self-reported dyspareunia and their partners: associations with sexual function, sexual distress and dyadic adjustment. J Sex Med. 2015;12(2):516–28.",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "issue": "Suppl 1",
+        "key": "845_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "75",
+        "DOI": "10.1111/j.1757-5672.2011.00121.x",
+        "volume": "4",
+        "author": "C Zhao",
+        "year": "2012",
+        "unstructured": "Zhao C, Kwan Park J. Phosphodiesterase type 5 inhibitor and erectile dysfunction in lower urinary tract symptoms. Lower Urinary Tract Symptoms. 2012;4(Suppl 1):75–80.",
+        "journal-title": "Lower Urinary Tract Symptoms"
+      },
+      {
+        "issue": "9",
+        "key": "845_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "1005",
+        "DOI": "10.1111/j.1742-1241.2011.02731.x",
+        "volume": "65",
+        "author": "V Mirone",
+        "year": "2011",
+        "unstructured": "Mirone V, Sessa A, Giuliano F, Berges R, Kirby M, Moncada I. Current benign prostatic hyperplasia treatment: impact on sexual function and management of related sexual adverse events. Int J Clin Pract. 2011;65(9):1005–13.",
+        "journal-title": "Int J Clin Pract"
+      }
+    ],
+    "container-title": [
+      "BMC Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s12894-021-00845-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1186/s12894-021-00845-0/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s12894-021-00845-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          17
+        ]
+      ],
+      "date-time": "2021-05-17T12:07:52Z",
+      "timestamp": 1621253272000
+    },
+    "score": 43.612915,
+    "resource": {
+      "primary": {
+        "URL": "https://bmcurol.biomedcentral.com/articles/10.1186/s12894-021-00845-0"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          17
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "845"
+    ],
+    "URL": "https://doi.org/10.1186/s12894-021-00845-0",
+    "ISSN": [
+      "1471-2490"
+    ],
+    "issn-type": [
+      {
+        "value": "1471-2490",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          17
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2 September 2020",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "28 April 2021",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "17 May 2021",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The PIE study was approved by the institutional review boards at Washington University School of Medicine and Brigham & Women’s Hospital. All participants provided written informed consent.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval and consent to participate"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent for publication"
+        }
+      },
+      {
+        "value": "The authors declare that they have no competing interests.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "81"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          19
+        ]
+      ],
+      "date-time": "2026-04-19T06:38:16Z",
+      "timestamp": 1776580696077,
+      "version": "3.51.2"
+    },
+    "reference-count": 30,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2027,
+              4,
+              19
+            ]
+          ],
+          "date-time": "2027-04-19T00:00:00Z",
+          "timestamp": 1808092800000
+        },
+        "content-version": "am",
+        "delay-in-days": 353,
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2026-05-01T00:00:00Z",
+          "timestamp": 1777593600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100014571",
+        "name": "Alvin J Siteman Cancer Center",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100014571",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000054",
+        "name": "NCI",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000054",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Urologic Oncology: Seminars and Original Investigations"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urolonc.2026.111063",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          19
+        ]
+      ],
+      "date-time": "2026-03-19T16:22:17Z",
+      "timestamp": 1773937337000
+    },
+    "page": "111063",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Association between presurgical physical activity and urinary and sexual function in prostate cancer patients treated by radical prostatectomy: A prospective cohort study"
+    ],
+    "prefix": "10.1016",
+    "volume": "44",
+    "author": [
+      {
+        "given": "Andrew",
+        "family": "Harper",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Momtafin",
+        "family": "Khan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kellie R.",
+        "family": "Imm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "suffix": "III",
+        "given": "Robert L.",
+        "family": "Grubb",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eric H.",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Graham A.",
+        "family": "Colditz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kathleen Y.",
+        "family": "Wolin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Adam S.",
+        "family": "Kibel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Siobhan",
+        "family": "Sutcliffe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1698-6666",
+        "authenticated-orcid": false,
+        "given": "Lin",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1016/j.eururo.2019.08.005",
+        "article-title": "Recent global patterns in prostate cancer incidence and mortality rates",
+        "volume": "77",
+        "author": "Culp",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "302",
+        "DOI": "10.1001/jama.2023.26491",
+        "article-title": "Functional outcomes after localized prostate cancer treatment",
+        "volume": "331",
+        "author": "Al Hussein Al Awamlh",
+        "year": "2024",
+        "journal-title": "Jama"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1186/s12894-021-00845-0",
+        "article-title": "One-year urinary and sexual outcome trajectories among prostate cancer patients treated by radical prostatectomy: a prospective study",
+        "volume": "21",
+        "author": "Yang",
+        "year": "2021",
+        "journal-title": "BMC urology"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1097/JU.0000000000000754",
+        "article-title": "Evaluating the trade-offs men with localized prostate cancer make between the risks and benefits of treatments: the COMPARE Study",
+        "volume": "204",
+        "author": "Watson",
+        "year": "2020",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "526",
+        "DOI": "10.1002/1097-0142(19870801)60:3+<526::AID-CNCR2820601515>3.0.CO;2-9",
+        "article-title": "The role of radical prostatectomy in the management of prostatic cancer",
+        "volume": "60",
+        "author": "Walsh",
+        "year": "1987",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "1018",
+        "DOI": "10.1097/JU.0000000000001584",
+        "article-title": "Penile rehabilitation strategy after nerve sparing radical prostatectomy: a systematic review and network meta-analysis of randomized trials",
+        "volume": "205",
+        "author": "Sari Motlagh",
+        "year": "2021",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0007",
+        "doi-asserted-by": "crossref",
+        "first-page": "98",
+        "DOI": "10.1016/S0140-6736(99)03473-X",
+        "article-title": "Effect of pelvic-floor re-education on duration and degree of incontinence after radical prostatectomy: a randomised controlled trial",
+        "volume": "355",
+        "author": "Van Kampen",
+        "year": "2000",
+        "journal-title": "Lancet (London, England)"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0008",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1038/s41585-021-00445-5",
+        "article-title": "Preoperative exercise interventions to optimize continence outcomes following radical prostatectomy",
+        "volume": "18",
+        "author": "Mungovan",
+        "year": "2021",
+        "journal-title": "Nature Rev Urol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "1899",
+        "DOI": "10.1016/j.jsxm.2021.09.001",
+        "article-title": "Effects of exercise on sexual dysfunction in patients with prostate cancer - a systematic review",
+        "volume": "18",
+        "author": "Reimer",
+        "year": "2021",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "957",
+        "DOI": "10.1038/s41416-024-02748-x",
+        "article-title": "The Physical Activity and Cancer Control (PACC) framework: update on the evidence, guidelines, and future research priorities",
+        "volume": "131",
+        "author": "Yang",
+        "year": "2024",
+        "journal-title": "Br J Cancer"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0011",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1016/j.eururo.2021.05.015",
+        "article-title": "Prehabilitation exercise before urologic cancer surgery: a systematic and interdisciplinary review",
+        "volume": "81",
+        "author": "Briggs",
+        "year": "2022",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0012",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.critrevonc.2024.104319",
+        "article-title": "Physical activity for cancer prehabilitation: a scoping review",
+        "author": "Yang",
+        "year": "2024",
+        "journal-title": "Crit Rev Oncol/Hematol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0013",
+        "doi-asserted-by": "crossref",
+        "first-page": "1126",
+        "DOI": "10.1097/00005768-200107000-00010",
+        "article-title": "CHAMPS physical activity questionnaire for older adults: outcomes for interventions",
+        "volume": "33",
+        "author": "Stewart",
+        "year": "2001",
+        "journal-title": "Med Sci Sports Exercise"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "1537",
+        "DOI": "10.1249/01.MSS.0000084419.64044.2B",
+        "article-title": "Validity of a modified CHAMPS physical activity questionnaire among African-Americans",
+        "volume": "35",
+        "author": "Resnicow",
+        "year": "2003",
+        "journal-title": "Med Sci Sports Exercise"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1016/j.urology.2014.08.044",
+        "article-title": "Minimally important difference for the expanded prostate cancer index composite short form",
+        "volume": "85",
+        "author": "Skolarus",
+        "year": "2015",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0016",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/fpubh.2023.1186067",
+        "article-title": "Preoperative pelvic floor muscle exercise for continence after radical prostatectomy: a systematic review and meta-analysis",
+        "volume": "11",
+        "author": "Zhou",
+        "year": "2023",
+        "journal-title": "Front Public Health"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0017",
+        "first-page": "320",
+        "article-title": "Impact of exercise on continence in prostate cancer patients post robotic assisted radical prostatectomy: a systematic review",
+        "volume": "11",
+        "author": "Razdan",
+        "year": "2023",
+        "journal-title": "Am J Clin Exp Urol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0018",
+        "doi-asserted-by": "crossref",
+        "first-page": "460",
+        "DOI": "10.1016/j.eururo.2015.11.004",
+        "article-title": "Preoperative pelvic floor muscle exercise and postprostatectomy incontinence: a systematic review and meta-analysis",
+        "volume": "69",
+        "author": "Chang",
+        "year": "2016",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1186/1471-2490-13-67",
+        "article-title": "Relationships between perioperative physical activity and urinary incontinence after radical prostatectomy: an observational study",
+        "volume": "13",
+        "author": "Mungovan",
+        "year": "2013",
+        "journal-title": "BMC Urol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1016/j.juro.2009.09.082",
+        "article-title": "Risk of urinary incontinence following prostatectomy: the role of physical activity and obesity",
+        "volume": "183",
+        "author": "Wolin",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "190",
+        "DOI": "10.1007/s11764-013-0329-z",
+        "article-title": "The effect of meeting physical activity guidelines for cancer survivors on quality of life following radical prostatectomy for prostate cancer",
+        "volume": "8",
+        "author": "Santa Mina",
+        "year": "2014",
+        "journal-title": "J Cancer Survivorship"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0022",
+        "doi-asserted-by": "crossref",
+        "first-page": "852",
+        "DOI": "10.1016/j.eururo.2013.11.009",
+        "article-title": "Effects of nonlinear aerobic training on erectile dysfunction and cardiovascular function following radical prostatectomy for clinically localized prostate cancer",
+        "volume": "65",
+        "author": "Jones",
+        "year": "2014",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0023",
+        "doi-asserted-by": "crossref",
+        "first-page": "1303",
+        "DOI": "10.1038/bjc.2017.303",
+        "article-title": "Presurgical weight loss affects tumour traits and circulating biomarkers in men with prostate cancer",
+        "volume": "117",
+        "author": "Demark-Wahnefried",
+        "year": "2017",
+        "journal-title": "Br J Cancer"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0024",
+        "doi-asserted-by": "crossref",
+        "first-page": "289",
+        "DOI": "10.1016/j.suronc.2018.05.010",
+        "article-title": "Prehabilitation for radical prostatectomy: a multicentre randomized controlled trial",
+        "volume": "27",
+        "author": "Santa Mina",
+        "year": "2018",
+        "journal-title": "Surg Oncol"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0025",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gerbild H., Larsen C.M., Graugaard C., Areskoug Josefsson K. Physical activity to improve erectile function: a systematic review of Intervention Studies. Sexual medicine. 2018;6:75-89.",
+        "DOI": "10.1016/j.esxm.2018.02.001"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0026",
+        "doi-asserted-by": "crossref",
+        "first-page": "57",
+        "DOI": "10.4103/jehp.jehp_157_17",
+        "article-title": "An investigation of the relationship between physical fitness, self-concept, and sexual functioning",
+        "volume": "7",
+        "author": "Jiannine",
+        "year": "2018",
+        "journal-title": "J Educ Health Promot"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0027",
+        "doi-asserted-by": "crossref",
+        "first-page": "1693",
+        "DOI": "10.1152/japplphysiol.00165.2018",
+        "article-title": "Effects of testosterone and progressive resistance exercise on vascular function in older men",
+        "volume": "125",
+        "author": "Hildreth",
+        "year": "2018",
+        "journal-title": "J Appl Physiol (1985)"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0028",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1155/2016/7239639",
+        "article-title": "Exercise modulates oxidative stress and inflammation in aging and cardiovascular diseases",
+        "volume": "2016",
+        "author": "Sallam",
+        "year": "2016",
+        "journal-title": "Oxid Med Cell Longev"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0029",
+        "doi-asserted-by": "crossref",
+        "first-page": "1369",
+        "DOI": "10.1093/jsxmed/qdad130",
+        "article-title": "Effect of aerobic exercise on erectile function: systematic review and meta-analysis of randomized controlled trials",
+        "volume": "20",
+        "author": "Khera",
+        "year": "2023",
+        "journal-title": "J Sexual Med"
+      },
+      {
+        "key": "10.1016/j.urolonc.2026.111063_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "798",
+        "DOI": "10.1002/cncr.31857",
+        "article-title": "Levels and patterns of self-reported and objectively-measured free-living physical activity among prostate cancer survivors: a prospective cohort study",
+        "volume": "125",
+        "author": "Smith",
+        "year": "2019",
+        "journal-title": "Cancer"
+      }
+    ],
+    "container-title": [
+      "Urologic Oncology: Seminars and Original Investigations"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1078143926000748?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1078143926000748?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          19
+        ]
+      ],
+      "date-time": "2026-04-19T05:39:42Z",
+      "timestamp": 1776577182000
+    },
+    "score": 41.284863,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1078143926000748"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1078143926000748"
+    ],
+    "URL": "https://doi.org/10.1016/j.urolonc.2026.111063",
+    "ISSN": [
+      "1078-1439"
+    ],
+    "issn-type": [
+      {
+        "value": "1078-1439",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Association between presurgical physical activity and urinary and sexual function in prostate cancer patients treated by radical prostatectomy: A prospective cohort study",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Urologic Oncology: Seminars and Original Investigations",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.urolonc.2026.111063",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "111063"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2025-09-25T04:05:01Z",
+      "timestamp": 1758773101958,
+      "version": "3.44.0"
+    },
+    "reference-count": 30,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2023-05-01T00:00:00Z",
+          "timestamp": 1682899200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2023-05-01T00:00:00Z",
+          "timestamp": 1682899200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              5,
+              29
+            ]
+          ],
+          "date-time": "2024-05-29T00:00:00Z",
+          "timestamp": 1716940800000
+        },
+        "content-version": "am",
+        "delay-in-days": 394,
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2023-05-01T00:00:00Z",
+          "timestamp": 1682899200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2023-05-01T00:00:00Z",
+          "timestamp": 1682899200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2023-05-01T00:00:00Z",
+          "timestamp": 1682899200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2023-05-01T00:00:00Z",
+          "timestamp": 1682899200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2023-05-01T00:00:00Z",
+          "timestamp": 1682899200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100014571",
+        "name": "Alvin J. Siteman Cancer Center",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100014571",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000054",
+        "name": "National Cancer Institute",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000054",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100007812",
+        "name": "University of Washington",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100007812",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000002",
+        "name": "National Institutes of Health",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U54 CA155496"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U54 CA155496"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100009116",
+        "name": "Harvard Transdisciplinary Research in Energetics and Cancer Center, Harvard University",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100009116",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "goldjournal.net",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2023.02.013",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2023-02-24T09:21:52Z",
+      "timestamp": 1677230512000
+    },
+    "page": "137-143",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "special_numbering": "C",
+    "title": [
+      "Association between Presurgical Weight Status and Urinary and Sexual Function in Prostate Cancer Patients Treated by Radical Prostatectomy: A Prospective Cohort Study"
+    ],
+    "prefix": "10.1016",
+    "volume": "175",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1698-6666",
+        "authenticated-orcid": false,
+        "given": "Lin",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrew",
+        "family": "Harper",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kellie R.",
+        "family": "Imm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "suffix": "III",
+        "given": "Robert L.",
+        "family": "Grubb",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eric H.",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Graham A.",
+        "family": "Colditz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kathleen Y.",
+        "family": "Wolin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Adam S.",
+        "family": "Kibel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Siobhan",
+        "family": "Sutcliffe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1016/j.eururo.2019.08.005",
+        "article-title": "Recent global patterns in prostate cancer incidence and mortality rates",
+        "volume": "77",
+        "author": "Culp",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "1582",
+        "DOI": "10.1093/jnci/92.19.1582",
+        "article-title": "Health outcomes after prostatectomy or radiotherapy for prostate cancer: results from the Prostate Cancer Outcomes Study",
+        "volume": "92",
+        "author": "Potosky",
+        "year": "2000",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0003",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1186/s12894-021-00845-0",
+        "article-title": "One-year urinary and sexual outcome trajectories among prostate cancer patients treated by radical prostatectomy: a prospective study",
+        "volume": "21",
+        "author": "Yang",
+        "year": "2021",
+        "journal-title": "BMC Urol"
+      },
+      {
+        "issue": "1 Pt 1",
+        "key": "10.1016/j.urology.2023.02.013_bib0004",
+        "doi-asserted-by": "crossref",
+        "first-page": "234",
+        "DOI": "10.1111/j.1743-6109.2009.01471.x",
+        "article-title": "Vardenafil can improve continence recovery after bilateral nerve sparing prostatectomy: results of a randomized, double blind, placebo-controlled pilot study",
+        "volume": "7",
+        "author": "Gacci",
+        "year": "2010",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1018",
+        "DOI": "10.1097/JU.0000000000001584",
+        "article-title": "Penile rehabilitation strategy after nerve sparing radical prostatectomy: a systematic review and network meta-analysis of randomized trials",
+        "volume": "205",
+        "author": "Sari Motlagh",
+        "year": "2021",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "98",
+        "DOI": "10.1016/S0140-6736(99)03473-X",
+        "article-title": "Effect of pelvic-floor re-education on duration and degree of incontinence after radical prostatectomy: a randomised controlled trial",
+        "volume": "355",
+        "author": "Van Kampen",
+        "year": "2000",
+        "journal-title": "Lancet (London, England)"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0007",
+        "doi-asserted-by": "crossref",
+        "first-page": "353",
+        "DOI": "10.1007/s00345-005-0003-9",
+        "article-title": "Evaluation of early pelvic floor physiotherapy on the duration and degree of urinary incontinence after radical retropubic prostatectomy in a non-teaching hospital",
+        "volume": "23",
+        "author": "Cornel",
+        "year": "2005",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0008",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1016/j.juro.2009.09.082",
+        "article-title": "Risk of urinary incontinence following prostatectomy: the role of physical activity and obesity",
+        "volume": "183",
+        "author": "Wolin",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "740",
+        "DOI": "10.1016/j.urology.2004.10.061",
+        "article-title": "Impact of obesity on clinical outcomes in robotic prostatectomy",
+        "volume": "65",
+        "author": "Ahlering",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "442",
+        "DOI": "10.1097/01.ju.0000148865.89309.cb",
+        "article-title": "Laparoscopic radical prostatectomy and body mass index: an assessment of 151 sequential cases",
+        "volume": "173",
+        "author": "Brown",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0011",
+        "doi-asserted-by": "crossref",
+        "first-page": "1131",
+        "DOI": "10.1016/j.urology.2004.12.064",
+        "article-title": "Obesity does not adversely affect health-related quality-of-life outcomes after anatomic retropubic radical prostatectomy",
+        "volume": "65",
+        "author": "Freedland",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0012",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Anast JW, Sadetsky N, Pasta DJ, et al. The impact of obesity on health related quality of life before and after radical prostatectomy (data from CaPSURE). J Urol. 2005;173:1132-8. https://doi.org/10.1097/01.ju.0000154973.38301.7f.",
+        "DOI": "10.1097/01.ju.0000154973.38301.7f"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0013",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1038/sj.pcan.4500860",
+        "article-title": "Urinary incontinence after radical retropubic prostatectomy is not related to patient body mass index",
+        "volume": "9",
+        "author": "Mulholland",
+        "year": "2006",
+        "journal-title": "Prostate Cancer Prostatic Dis"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0014",
+        "doi-asserted-by": "crossref",
+        "first-page": "1250",
+        "DOI": "10.1056/NEJMoa074311",
+        "article-title": "Quality of life and satisfaction with outcome among prostate-cancer survivors",
+        "volume": "358",
+        "author": "Sanda",
+        "year": "2008",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1016/S0022-5347(06)00504-0",
+        "article-title": "Obesity adversely affects health related quality of life before and after radical retropubic prostatectomy",
+        "volume": "176",
+        "author": "Montgomery",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0016",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.1186/s12894-020-00601-w",
+        "article-title": "Urinary continence outcomes of four years of follow-up and predictors of early and late urinary continence in patients undergoing robot-assisted radical prostatectomy",
+        "volume": "20",
+        "author": "Li",
+        "year": "2020",
+        "journal-title": "BMC Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0017",
+        "doi-asserted-by": "crossref",
+        "first-page": "e156",
+        "DOI": "10.1016/j.esxm.2017.06.003",
+        "article-title": "A retrospective study of erectile function and use of erectile aids in prostate cancer patients after radical prostatectomy in Denmark",
+        "volume": "5",
+        "author": "Haahr",
+        "year": "2017",
+        "journal-title": "Sex Med"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0018",
+        "doi-asserted-by": "crossref",
+        "first-page": "899",
+        "DOI": "10.1016/S0090-4295(00)00858-X",
+        "article-title": "Development and validation of the expanded prostate cancer index composite (EPIC) for comprehensive assessment of health-related quality of life in men with prostate cancer",
+        "volume": "56",
+        "author": "Wei",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "354",
+        "DOI": "10.1001/jama.283.3.354",
+        "article-title": "Urinary and sexual function after radical prostatectomy for clinically localized prostate cancer: the Prostate Cancer Outcomes Study",
+        "volume": "283",
+        "author": "Stanford",
+        "year": "2000",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1016/j.urology.2014.08.044",
+        "article-title": "Minimally important difference for the expanded prostate cancer index composite short form",
+        "volume": "85",
+        "author": "Skolarus",
+        "year": "2015",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "1126",
+        "DOI": "10.1097/00005768-200107000-00010",
+        "article-title": "CHAMPS physical activity questionnaire for older adults: outcomes for interventions",
+        "volume": "33",
+        "author": "Stewart",
+        "year": "2001",
+        "journal-title": "Med Sci Sports Exerc"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0022",
+        "doi-asserted-by": "crossref",
+        "first-page": "1537",
+        "DOI": "10.1249/01.MSS.0000084419.64044.2B",
+        "article-title": "Validity of a modified CHAMPS physical activity questionnaire among African-Americans",
+        "volume": "35",
+        "author": "Resnicow",
+        "year": "2003",
+        "journal-title": "Med Sci Sports Exerc"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0023",
+        "doi-asserted-by": "crossref",
+        "first-page": "962",
+        "DOI": "10.1097/00005768-200106000-00016",
+        "article-title": "An evaluation of three self-report physical activity instruments for older adults",
+        "volume": "33",
+        "author": "Harada",
+        "year": "2001",
+        "journal-title": "Med Sci Sports Exerc"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0024",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kao YH, Lin WT, Thomas CL, Lin HY, Tseng TS. Association between smoking and neutrophil to lymphocyte ratio among prostate cancer survivors: the National Health and Nutrition Examination Survey. Transl Cancer Res. 2019;8(suppl 4):S346-s354. https://doi.org/10.21037/tcr.2019.05.23.",
+        "DOI": "10.21037/tcr.2019.05.23"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0025",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.euf.2022.04.015",
+        "article-title": "Trends and racial disparities in the prevalence of urinary incontinence among men in the USA, 2001-2020",
+        "author": "Cao",
+        "year": "2022",
+        "journal-title": "Eur Urol Focus"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0026",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.4103/jehp.jehp_157_17",
+        "article-title": "An investigation of the relationship between physical fitness, self-concept, and sexual functioning",
+        "volume": "7",
+        "author": "Jiannine",
+        "year": "2018",
+        "journal-title": "J Educ Health Promot"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0027",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1152/physrev.00012.2011",
+        "article-title": "Physical activity and exercise in the regulation of human adipose tissue physiology",
+        "volume": "92",
+        "author": "Thompson",
+        "year": "2012",
+        "journal-title": "Physiol Rev"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0028",
+        "doi-asserted-by": "crossref",
+        "first-page": "1078",
+        "DOI": "10.1200/JCO.2014.60.2557",
+        "article-title": "Prostate cancer survivorship care guideline: American Society of Clinical Oncology Clinical Practice Guideline endorsement",
+        "volume": "33",
+        "author": "Resnick",
+        "year": "2015",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0029",
+        "doi-asserted-by": "crossref",
+        "first-page": "494",
+        "DOI": "10.1016/j.juro.2011.03.118",
+        "article-title": "Patient preoperative expectations of urinary, bowel, hormonal and sexual functioning do not match actual outcomes 1 year after radical prostatectomy",
+        "volume": "186",
+        "author": "Wittmann",
+        "year": "2011",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2023.02.013_bib0030",
+        "first-page": "e71",
+        "article-title": "One-year urinary and sexual outcome trajectories in prostate cancer patients treated by radical prostatectomy: a prospective study",
+        "volume": "27",
+        "author": "Yang",
+        "year": "2020",
+        "journal-title": "Curr Oncol"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429523001747?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429523001747?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2025-09-25T03:08:51Z",
+      "timestamp": 1758769731000
+    },
+    "score": 38.35256,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429523001747"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          5
+        ]
+      ]
+    },
+    "references-count": 30,
+    "alternative-id": [
+      "S0090429523001747"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2023.02.013",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0090-4295"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Association between Presurgical Weight Status and Urinary and Sexual Function in Prostate Cancer Patients Treated by Radical Prostatectomy: A Prospective Cohort Study",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.urology.2023.02.013",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2023 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

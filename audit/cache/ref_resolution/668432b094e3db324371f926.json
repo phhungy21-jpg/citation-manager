@@ -1,0 +1,2345 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2025-11-12T05:49:35Z",
+      "timestamp": 1762926575783,
+      "version": "3.40.5"
+    },
+    "reference-count": 32,
+    "publisher": "Wiley",
+    "issue": "10",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              10,
+              27
+            ]
+          ],
+          "date-time": "2020-10-27T00:00:00Z",
+          "timestamp": 1603756800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 26,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Internal Medicine Journal"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          10
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec><jats:title>Background</jats:title><jats:p>Infective endocarditis (IE) results in substantial morbidity and mortality in people who inject drugs (PWID).</jats:p></jats:sec><jats:sec><jats:title>Aims</jats:title><jats:p>To describe the burden of IE and its outcomes in PWID.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>Retrospective cohort study of adults admitted to a tertiary referral centre in Melbourne, Australia, with IE due to injection drug use from 1997 to 2015.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Ninety‐seven PWID with 127 episodes of IE were identified with a median acute inpatient stay of 37 days (1–84). Admission to an intensive care unit was required in 67/127 (53%) episodes. Twenty‐seven percent (34/127) of episodes occurred in patients with a previous episode of endocarditis. One third (43/127, 34%) of episodes involved left‐sided cardiac valves. Antimicrobial treatment was completed in 88 (70%) episodes. Valve surgery was performed in 25/127 (20%) episodes. Predictors of surgery in univariable analysis were left‐sided cardiac involvement (risk ratio (RR) 6.0), severe valvular regurgitation (RR 2.6) and cardiac failure (RR 2.2) (all <jats:italic>P</jats:italic> &lt; 0.005). Twenty (16%) episodes resulted in death. Predictors of mortality on univariable analysis were left‐sided cardiac involvement (RR 6.4), and not completing treatment (RR 0.12; both <jats:italic>P</jats:italic> &lt; 0.001). The average estimated cost per episode was AU$74 168.</jats:p></jats:sec><jats:sec><jats:title>Conclusions</jats:title><jats:p>IE causes a considerable burden of disease in PWID, with significant healthcare utilisation and cost. Surgery and death are not infrequent complications. In addition to ensuring completion of antimicrobial therapy, strategies such as opioid maintenance programmes may be useful in improving health outcomes for PWID.</jats:p></jats:sec>",
+    "DOI": "10.1111/imj.14717",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          16
+        ]
+      ],
+      "date-time": "2019-12-16T13:38:52Z",
+      "timestamp": 1576503532000
+    },
+    "page": "1240-1246",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "Burden of infective endocarditis in an Australian cohort of people who inject drugs"
+    ],
+    "prefix": "10.1111",
+    "volume": "50",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0848-4524",
+        "authenticated-orcid": false,
+        "given": "Zhi M.",
+        "family": "Low",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Monash Infectious Diseases Monash Health  Melbourne Victoria Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sushena",
+        "family": "Krishnaswamy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Monash Infectious Diseases Monash Health  Melbourne Victoria Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2928-1291",
+        "authenticated-orcid": false,
+        "given": "Ian J.",
+        "family": "Woolley",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Monash Infectious Diseases Monash Health  Melbourne Victoria Australia"
+          },
+          {
+            "name": "Centre for Inflammatory Diseases, Department of Medicine Monash University  Melbourne Victoria Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rhonda L.",
+        "family": "Stuart",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Monash Infectious Diseases Monash Health  Melbourne Victoria Australia"
+          },
+          {
+            "name": "Centre for Inflammatory Diseases, Department of Medicine Monash University  Melbourne Victoria Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anthony",
+        "family": "Boers",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of General Medicine Latrobe Regional Hospital  Traralgon Victoria Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Timothy L.",
+        "family": "Barton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Monash Cardiovascular Research Centre, Monash Heart Monash Health  Melbourne Victoria Australia"
+          },
+          {
+            "name": "Department of Medicine, School of Clinical Sciences at Monash Health Monash University  Melbourne Victoria Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tony M.",
+        "family": "Korman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Monash Infectious Diseases Monash Health  Melbourne Victoria Australia"
+          },
+          {
+            "name": "Centre for Inflammatory Diseases, Department of Medicine Monash University  Melbourne Victoria Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_7_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0082665"
+      },
+      {
+        "key": "e_1_2_7_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00365540600978856"
+      },
+      {
+        "key": "e_1_2_7_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10096-012-1675-x"
+      },
+      {
+        "key": "e_1_2_7_5_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1093/ofid/ofw157",
+        "article-title": "Increasing infectious endocarditis admissions among young people who inject drugs",
+        "volume": "3",
+        "author": "Wurcel AG",
+        "year": "2016",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "key": "e_1_2_7_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.drugalcdep.2008.08.016"
+      },
+      {
+        "key": "e_1_2_7_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.drugalcdep.2018.11.033"
+      },
+      {
+        "key": "e_1_2_7_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/icvts/ivv397"
+      },
+      {
+        "key": "e_1_2_7_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313664"
+      },
+      {
+        "key": "e_1_2_7_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/431979"
+      },
+      {
+        "key": "e_1_2_7_11_1",
+        "first-page": "58",
+        "article-title": "Surgical treatment of infective endocarditis in active intravenous drug users: a justified procedure?",
+        "volume": "9",
+        "author": "Weymann A",
+        "year": "2014",
+        "journal-title": "J Card Surg"
+      },
+      {
+        "key": "e_1_2_7_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/0267659110371857"
+      },
+      {
+        "key": "e_1_2_7_13_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "S323",
+        "DOI": "10.1016/j.hlc.2018.06.622",
+        "article-title": "Infective endocarditis Queensland: establishment of an Australian IE Registy and Bio Bank",
+        "volume": "27",
+        "author": "Wee Y",
+        "year": "2018",
+        "journal-title": "Heart Lung Circ"
+      },
+      {
+        "key": "e_1_2_7_14_1",
+        "first-page": "1",
+        "article-title": "Infective endocarditis in the intravenous drug use population at a tertiary hospital in Melbourne, Australia",
+        "author": "Hillbig A",
+        "year": "2019",
+        "journal-title": "Heart Lung Circ"
+      },
+      {
+        "key": "e_1_2_7_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/dar.12228"
+      },
+      {
+        "key": "e_1_2_7_16_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1890",
+        "DOI": "10.1093/eurheartj/ehq110",
+        "article-title": "Health care exposure and age in infective endocarditis: results of a contemporary population‐based profile of 1536 patients in Australia",
+        "volume": "31",
+        "author": "Raymond WS",
+        "year": "2010",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "e_1_2_7_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ejim.2016.05.021"
+      },
+      {
+        "key": "e_1_2_7_18_1",
+        "unstructured": "Monash Health. Monash Health media. [cited 2019 May 31]. Available from URL:https://monashhealth.org/media/"
+      },
+      {
+        "key": "e_1_2_7_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313753"
+      },
+      {
+        "key": "e_1_2_7_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1067/mhj.2001.111952"
+      },
+      {
+        "key": "e_1_2_7_21_1",
+        "first-page": "125",
+        "article-title": "Infective endocarditis in intravenous drug abusers: patterns of presentation and long term outcomes of surgical treatment",
+        "volume": "15",
+        "author": "Carozza A",
+        "year": "2006",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "key": "e_1_2_7_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1503/cmaj.180694"
+      },
+      {
+        "volume-title": "HIV, Viral Hepatitis and Sexually Transmissible Infections in Australia Annual Surveillance Report",
+        "year": "2014",
+        "author": "The Kirby Institute",
+        "key": "e_1_2_7_23_1"
+      },
+      {
+        "key": "e_1_2_7_24_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1016/S1726-4901(09)70444-7",
+        "article-title": "Clinical and molecular epidemiology of infective endocarditis in intravenous drug users",
+        "volume": "72",
+        "author": "Chao PJ",
+        "year": "2009",
+        "journal-title": "J Chin Med Assoc"
+      },
+      {
+        "key": "e_1_2_7_25_1",
+        "first-page": "248",
+        "article-title": "Retrospective evaluation of infective endocarditis over ten years in Taiwan",
+        "volume": "22",
+        "author": "Hung HC",
+        "year": "2013",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "key": "e_1_2_7_26_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "e67519",
+        "DOI": "10.1371/journal.pone.0067519",
+        "article-title": "A nationwide cohort study of mortality risk and long term prognosis in infective endocarditis in Sweden",
+        "volume": "8",
+        "author": "Ternhag A",
+        "year": "2013",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "e_1_2_7_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejcts/ezu281"
+      },
+      {
+        "key": "e_1_2_7_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2016.10.066"
+      },
+      {
+        "key": "e_1_2_7_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-121-11-199412010-00009"
+      },
+      {
+        "key": "e_1_2_7_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1808312"
+      },
+      {
+        "key": "e_1_2_7_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ofid/ofy056"
+      },
+      {
+        "key": "e_1_2_7_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2018.10.082"
+      },
+      {
+        "key": "e_1_2_7_33_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "S271",
+        "DOI": "10.1016/j.hlc.2016.06.634",
+        "article-title": "Evaluation of healthcare expenditure for infective endocarditis: comparison between public and private health systems",
+        "volume": "25",
+        "author": "Paleri S",
+        "year": "2016",
+        "journal-title": "Heart Lung Circ"
+      }
+    ],
+    "container-title": [
+      "Internal Medicine Journal"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fimj.14717",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/imj.14717",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/imj.14717",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/imj.14717",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          5
+        ]
+      ],
+      "date-time": "2023-09-05T01:39:30Z",
+      "timestamp": 1693877970000
+    },
+    "score": 94.32214,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/imj.14717"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          10
+        ]
+      ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+      "issue": "10",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/imj.14717"
+    ],
+    "URL": "https://doi.org/10.1111/imj.14717",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "1444-0903",
+      "1445-5994"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1444-0903"
+      },
+      {
+        "type": "electronic",
+        "value": "1445-5994"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2019-08-30",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2019-12-08",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-10-27",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          16
+        ]
+      ],
+      "date-time": "2026-06-16T21:23:54Z",
+      "timestamp": 1781645034158,
+      "version": "3.54.5"
+    },
+    "reference-count": 32,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              7
+            ]
+          ],
+          "date-time": "2024-03-07T00:00:00Z",
+          "timestamp": 1709769600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              7
+            ]
+          ],
+          "date-time": "2024-03-07T00:00:00Z",
+          "timestamp": 1709769600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMC Infect Dis"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title><jats:sec>\n                <jats:title>Introduction</jats:title>\n                <jats:p>There are currently limited data regarding the clinical and economic significance of skin and soft tissue infections (SSTI) and bone and joint infections in Australian people who inject drugs (PWID).</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Methods</jats:title>\n                <jats:p>Retrospective cohort study in adult PWID admitted to Monash Health, a large heath care network with six hospitals in Victoria, Australia. Inpatients were identified using administrative datasets and International Classification of Disease (ICD-10) coding for specific infection-related conditions. Cost analysis was based on mean ward, intensive care and hospital-in-the-home (HITH) lengths of stay. Spinal infections and endocarditis were excluded as part of previous studies.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Results</jats:title>\n                <jats:p>A total of 185 PWID (61 female, 124 male, median age 37) meeting the study criteria were admitted to Monash Health between January 2010 and January 2021. Admitting diagnoses included 78 skin abscesses, 80 cellulitis, 17 septic arthritis, 4 osteomyelitis, 3 thrombophlebitis and 1 each of necrotising fasciitis, vasculitis and myositis. Pain (87.5%) and swelling (75.1%) were the most common presenting complaints. Opioids (67.4%) and methamphetamine (37.5%) were the most common primary drugs injected. Almost half (46.5%) of patients had concurrent active hepatitis C (HCV) infection on admission. Hepatitis B (HBV) and Human Immunodeficiency Virus (HIV) were uncommon. The most significant causative organism was methicillin-susceptible <jats:italic>Staphylococcus aureus</jats:italic> (24.9%). In 40.0% (74/185) no organism was identified. Patients required a median acute hospital stay of 5 days (2–51 days). There were 15 patients admitted to the intensive care unit (ICU) with median duration 2 days. PICC line insertion for antibiotics was required in 16.8% of patients, while 51.4% required surgical intervention. Median duration of both oral and IV antibiotic therapy was 11 days. Almost half (48.6%) of patients were enrolled in an opioid maintenance program on discharge. Average estimated expenditure was AUD $16, 528 per admission.</jats:p>\n              </jats:sec><jats:sec>\n                <jats:title>Conclusion</jats:title>\n                <jats:p>Skin and soft tissue and joint infections are a major cause of morbidity for PWID. Admission to hospital provides opportunistic involvement of addiction specialty services.</jats:p>\n              </jats:sec>",
+    "DOI": "10.1186/s12879-024-09143-0",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          7
+        ]
+      ],
+      "date-time": "2024-03-07T07:02:34Z",
+      "timestamp": 1709794954000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "The burden of skin and soft tissue, bone and joint infections in an Australian cohort of people who inject drugs"
+    ],
+    "prefix": "10.1186",
+    "volume": "24",
+    "author": [
+      {
+        "given": "B.",
+        "family": "Morgan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Lancaster",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "B.",
+        "family": "Boyagoda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Ananda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "LO",
+        "family": "Attwood",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Jacka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "I.",
+        "family": "Woolley",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "1",
+        "key": "9143_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1186/s12889-017-4785-7",
+        "volume": "17",
+        "author": "S Larney",
+        "year": "2017",
+        "unstructured": "Larney S, Hickman M, Guy R, Grebely J, Dore GJ, Gray RT, et al. Estimating the number of people who inject drugs in Australia. BMC Public Health. 2017;17(1):1–7.",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "key": "9143_CR2",
+        "unstructured": "Sutherland RU, King J, Jones C, Karlsson F, Gibbs A, Price D, Raimondo O, Dietze B, Lenton P, Salom S, Daly C, Thomas C, Juckel N, Agramunt J, Wilson S, Que Noy Y, Wilson W, Degenhardt J, Farrel L, Peacock M. A. Australian drug Trends 2022: key findings from the national illicit drug reporting system (IDRS) interviews. Australian Institute of Health and Welfare; 2022."
+      },
+      {
+        "issue": "8",
+        "key": "9143_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "e014854",
+        "DOI": "10.1136/bmjopen-2016-014854",
+        "volume": "7",
+        "author": "D Nambiar",
+        "year": "2017",
+        "unstructured": "Nambiar D, Stoové M, Hickman M, Dietze P. A prospective cohort study of hospital separations among people who inject drugs in Australia: 2008–2013. BMJ open. 2017;7(8):e014854.",
+        "journal-title": "BMJ open"
+      },
+      {
+        "issue": "1",
+        "key": "9143_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "169",
+        "DOI": "10.1016/j.idc.2020.10.006",
+        "volume": "35",
+        "author": "H Chambers",
+        "year": "2021",
+        "unstructured": "Chambers H. Skin and Soft Tissue Infections in persons who inject drugs. Infect Dis Clin N Am. 2021;35(1):169–81.",
+        "journal-title": "Infect Dis Clin N Am"
+      },
+      {
+        "issue": "3",
+        "key": "9143_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "598",
+        "DOI": "10.1007/s10900-017-0458-9",
+        "volume": "43",
+        "author": "MG Collier",
+        "year": "2018",
+        "unstructured": "Collier MG, Doshani M, Asher A. Using Population based Hospitalization Data to Monitor increases in conditions causing morbidity among persons who inject drugs. J Community Health. 2018;43(3):598–603.",
+        "journal-title": "J Community Health"
+      },
+      {
+        "issue": "1",
+        "key": "9143_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1186/s12954-020-00447-3",
+        "volume": "17",
+        "author": "A Baltes",
+        "year": "2020",
+        "unstructured": "Baltes A, Akhtar W, Birstler J, Olson-Streed H, Eagen K, Seal D, et al. Predictors of skin and soft tissue infections among sample of rural residents who inject drugs. Harm Reduct J. 2020;17(1):1–10.",
+        "journal-title": "Harm Reduct J"
+      },
+      {
+        "key": "9143_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "91",
+        "DOI": "10.1016/j.drugalcdep.2017.01.020",
+        "volume": "174",
+        "author": "K Dunleavy",
+        "year": "2017",
+        "unstructured": "Dunleavy K, Munro A, Roy K, Hutchinson S, Palmateer N, Knox T, et al. Association between harm reduction intervention uptake and skin and soft tissue infections among people who inject drugs. Drug Alcohol Depend. 2017;174:91–7.",
+        "journal-title": "Drug Alcohol Depend"
+      },
+      {
+        "issue": "11",
+        "key": "9143_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1935",
+        "DOI": "10.1093/cid/ciy924",
+        "volume": "68",
+        "author": "LR Marks",
+        "year": "2019",
+        "unstructured": "Marks LR, Munigala S, Warren DK, Liang SY, Schwarz ES, Durkin MJ. Addiction medicine consultations reduce readmission rates for patients with serious infections from opioid use disorder. Clin Infect Dis. 2019;68(11):1935–7.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "9143_CR9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ananda RA, Attwood LO, Lancaster R, Jacka D, Jhoomun T, Danks A et al. The clinical and financial burden of spinal infections in people who inject drugs. Intern Med J. 2021.",
+        "DOI": "10.1111/imj.15397"
+      },
+      {
+        "issue": "10",
+        "key": "9143_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "1240",
+        "DOI": "10.1111/imj.14717",
+        "volume": "50",
+        "author": "ZM Low",
+        "year": "2020",
+        "unstructured": "Low ZM, Krishnaswamy S, Woolley IJ, Stuart RL, Boers A, Barton TL, et al. Burden of infective endocarditis in an Australian cohort of people who inject drugs. Intern Med J. 2020;50(10):1240–6.",
+        "journal-title": "Intern Med J"
+      },
+      {
+        "issue": "2",
+        "key": "9143_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "377",
+        "DOI": "10.1016/j.jbi.2008.08.010",
+        "volume": "42",
+        "author": "PA Harris",
+        "year": "2009",
+        "unstructured": "Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. Research electronic data capture (REDCap)—a metadata-driven methodology and workflow process for providing translational research informatics support. J Biomed Inform. 2009;42(2):377–81.",
+        "journal-title": "J Biomed Inform"
+      },
+      {
+        "key": "9143_CR12",
+        "volume-title": "R: a languange and environment for statistical computing",
+        "author": "R Development Core Team",
+        "year": "2021",
+        "unstructured": "R Development Core Team. R: a languange and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing; 2021."
+      },
+      {
+        "issue": "6",
+        "key": "9143_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "924",
+        "DOI": "10.15288/jsad.2008.69.924",
+        "volume": "69",
+        "author": "IA Binswanger",
+        "year": "2008",
+        "unstructured": "Binswanger IA, Takahashi TA, Bradley K, Dellit TH, Benton KL, Merrill JO. Drug users seeking emergency care for soft tissue infection at high risk for subsequent hospitalization and death. J Stud Alcohol Drug. 2008;69(6):924–32.",
+        "journal-title": "J Stud Alcohol Drug"
+      },
+      {
+        "issue": "9",
+        "key": "9143_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "904",
+        "DOI": "10.1056/NEJMcp031807",
+        "volume": "350",
+        "author": "MN Swartz",
+        "year": "2004",
+        "unstructured": "Swartz MN, Cellulitis. N Engl J Med. 2004;350(9):904–12.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "Supplement2",
+        "key": "9143_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "279",
+        "DOI": "10.1093/clinids/20.Supplement_2.S279",
+        "volume": "20",
+        "author": "PH Summanen",
+        "year": "1995",
+        "unstructured": "Summanen PH, Talan DA, Strong C, McTeague M, Bennion R, Thompson JE Jr., et al. Bacteriology of skin and soft-tissue infections: comparison of infections in intravenous drug users and individuals with no history of Intravenous Drug Use. Clin Infect Dis. 1995;20(Supplement2):279–S82.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "9143_CR16",
+        "unstructured": "AURA. 2021: Fourth Australian report on antimicrobial use and resistance in human health. Australian Commision on Safety and Quality in Health Care; 2021."
+      },
+      {
+        "issue": "12",
+        "key": "9143_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "e00925",
+        "DOI": "10.1128/AAC.00925-21",
+        "volume": "65",
+        "author": "MC Kelly",
+        "year": "2021",
+        "unstructured": "Kelly MC, Yeager SD, Shorman MA, Wright LR, Veve MP. Incidence and predictors of Gram-negative Bacilli in hospitalized people who inject drugs with Injection Drug Use-Attributable infections. Antimicrob Agents Chemother. 2021;65(12):e00925–21.",
+        "journal-title": "Antimicrob Agents Chemother"
+      },
+      {
+        "key": "9143_CR18",
+        "unstructured": "Cellulitis. and erysipelas [published 2021 Aug] Melbourne Therapeutic Guidelines Limited 2021 [Available from: <https://www.tg.org.au."
+      },
+      {
+        "issue": "2",
+        "key": "9143_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "e10",
+        "DOI": "10.1093/cid/ciu296",
+        "volume": "59",
+        "author": "DL Stevens",
+        "year": "2014",
+        "unstructured": "Stevens DL, Bisno AL, Chambers HF, Dellinger EP, Goldstein EJ, Gorbach SL, et al. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59(2):e10–e52.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "9143_CR20",
+        "unstructured": "AIHW, Alcohol. tobacco & other drugs in Australia Australian Institute of Health and Welfare [AIHW]; 2022 [Available from: https://www.aihw.gov.au/reports/alcohol/alcohol-tobacco-other-drugs-australia/contents/priority-populations/people-who-inject-drugs."
+      },
+      {
+        "issue": "3",
+        "key": "9143_CR21",
+        "first-page": "697",
+        "volume": "16",
+        "author": "JR Ebright",
+        "year": "2002",
+        "unstructured": "Ebright JR, Pieper B. Skin and soft tissue infections in injection drug users. Infect Disease Clin. 2002;16(3):697–712.",
+        "journal-title": "Infect Disease Clin"
+      },
+      {
+        "issue": "1",
+        "key": "9143_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "35",
+        "DOI": "10.1086/320879",
+        "volume": "33",
+        "author": "EL Murphy",
+        "year": "2001",
+        "unstructured": "Murphy EL, DeVita D, Liu H, Vittinghoff E, Leung P, Ciccarone DH, et al. Risk factors for skin and soft-tissue abscesses among injection drug users: a case-control study. Clin Infect Dis. 2001;33(1):35–40.",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "9143_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "8",
+        "DOI": "10.1016/j.drugalcdep.2018.01.029",
+        "volume": "187",
+        "author": "RE Harris",
+        "year": "2018",
+        "unstructured": "Harris RE, Richardson J, Frasso R, Anderson ED. Experiences with skin and soft tissue infections among people who inject drugs in Philadelphia: a qualitative study. Drug Alcohol Depend. 2018;187:8–12.",
+        "journal-title": "Drug Alcohol Depend"
+      },
+      {
+        "issue": "2",
+        "key": "9143_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "102",
+        "DOI": "10.5694/mja2.51623",
+        "volume": "217",
+        "author": "LO Attwood",
+        "year": "2022",
+        "unstructured": "Attwood LO, McKechnie M, Vujovic O, Higgs P, Lloyd-Jones M, Doyle JS, et al. Review of management priorities for invasive infections in people who inject drugs: highlighting the need for patient‐centred multidisciplinary care. Med J Australia. 2022;217(2):102–9.",
+        "journal-title": "Med J Australia"
+      },
+      {
+        "issue": "12",
+        "key": "9143_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "e53",
+        "DOI": "10.2105/AJPH.2015.302885",
+        "volume": "105",
+        "author": "L Ti",
+        "year": "2015",
+        "unstructured": "Ti L, Ti L. Leaving the hospital against medical advice among people who use illicit drugs: a systematic review. Am J Public Health. 2015;105(12):e53–e9.",
+        "journal-title": "Am J Public Health"
+      },
+      {
+        "key": "9143_CR26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Suzuki J, Johnson J, Montgomery M, Hayden M, Price C, editors. Outpatient parenteral antimicrobial therapy among people who inject drugs: a review of the literature. Open forum infectious diseases. Oxford University Press US; 2018.",
+        "DOI": "10.1093/ofid/ofy194"
+      },
+      {
+        "key": "9143_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "148",
+        "DOI": "10.2471/BLT.12.109553",
+        "volume": "91",
+        "author": "LR Gowing",
+        "year": "2013",
+        "unstructured": "Gowing LR, Hickman M, Degenhardt L. Mitigating the risk of HIV infection with opioid substitution treatment. Bull World Health Organ. 2013;91:148–9.",
+        "journal-title": "Bull World Health Organ"
+      },
+      {
+        "issue": "3",
+        "key": "9143_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "545",
+        "DOI": "10.1111/add.14012",
+        "volume": "113",
+        "author": "L Platt",
+        "year": "2018",
+        "unstructured": "Platt L, Minozzi S, Reed J, Vickerman P, Hagan H, French C, et al. Needle and syringe programmes and opioid substitution therapy for preventing HCV transmission among people who inject drugs: findings from a Cochrane Review and meta-analysis. Addiction. 2018;113(3):545–63.",
+        "journal-title": "Addiction"
+      },
+      {
+        "key": "9143_CR29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Naji L, Dennis B, Rosic T, Wiercioch W, Paul J, Worster A et al. Mirtazapine for the treatment of amphetamine and methamphetamine use disorder: a systematic review and meta-analysis. Drug Alcohol Depend. 2022:109295.",
+        "DOI": "10.1016/j.drugalcdep.2022.109295"
+      },
+      {
+        "issue": "6",
+        "key": "9143_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0234809",
+        "DOI": "10.1371/journal.pone.0234809",
+        "volume": "15",
+        "author": "C Ronsley",
+        "year": "2020",
+        "unstructured": "Ronsley C, Nolan S, Knight R, Hayashi K, Klimas J, Walley A, et al. Treatment of stimulant use disorder: a systematic review of reviews. PLoS ONE. 2020;15(6):e0234809.",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "4",
+        "key": "9143_CR31",
+        "first-page": "587",
+        "volume": "102",
+        "author": "ZM Weinstein",
+        "year": "2018",
+        "unstructured": "Weinstein ZM, Wakeman SE, Nolan S. Inpatient addiction consult service: expertise for hospitalized patients with complex addiction problems. Med Clin. 2018;102(4):587–601.",
+        "journal-title": "Med Clin"
+      },
+      {
+        "key": "9143_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "e192",
+        "DOI": "10.1017/S0950268823001784",
+        "volume": "151",
+        "author": "S Colledge-Frisby",
+        "year": "2023",
+        "unstructured": "Colledge-Frisby S, Curtis SJ, Dietze PM, Doyle JS, Hickman M, Higgs P, et al. Prevalence and incidence of emergency department presentations and hospital separations with injecting-related infections in a longitudinal cohort of people who inject drugs. Epidemiol Infect. 2023;151:e192.",
+        "journal-title": "Epidemiol Infect"
+      }
+    ],
+    "container-title": [
+      "BMC Infectious Diseases"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s12879-024-09143-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1186/s12879-024-09143-0/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1186/s12879-024-09143-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          7
+        ]
+      ],
+      "date-time": "2024-03-07T07:03:55Z",
+      "timestamp": 1709795035000
+    },
+    "score": 50.474518,
+    "resource": {
+      "primary": {
+        "URL": "https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-024-09143-0"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          7
+        ]
+      ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "9143"
+    ],
+    "URL": "https://doi.org/10.1186/s12879-024-09143-0",
+    "ISSN": [
+      "1471-2334"
+    ],
+    "issn-type": [
+      {
+        "value": "1471-2334",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "3 July 2023",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "15 February 2024",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "7 March 2024",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "In accordance with the Declaration of Helsinki ethics approval was approved by the Monash Health Human Research Ethics committee (QA/80,725/MonH-2021-287052(v1)). No consent was required by the committee. The need for Informed Consent was waived by the Monash Health Human Research Ethics Committee due to the retrospective nature of the study.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics and consent"
+        }
+      },
+      {
+        "value": "Not applicable.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent to Publish"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "299"
+  },
+  {
+    "institution": [
+      {
+        "name": "ISRCTN",
+        "place": [
+          "London, UK"
+        ]
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          9
+        ]
+      ],
+      "date-time": "2025-05-09T15:42:16Z",
+      "timestamp": 1746805336965,
+      "version": "3.40.5"
+    },
+    "reference-count": 0,
+    "publisher": "Springer Science and Business Media LLC",
+    "content-domain": {
+      "domain": [
+        "www.isrctn.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "DOI": "10.1186/isrctn14968657",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          13
+        ]
+      ],
+      "date-time": "2021-01-13T19:35:34Z",
+      "timestamp": 1610566534000
+    },
+    "update-policy": "https://doi.org/10.1186/isrctn_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "The Second Heart Program: an intervention for individuals who have infective endocarditis who inject drugs"
+    ],
+    "prefix": "10.1186",
+    "author": [
+      {
+        "given": "Robin",
+        "family": "Lennox",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Olivia",
+        "family": "Virag",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "content-created": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          13
+        ]
+      ]
+    },
+    "container-title": [
+      "http://isrctn.com/"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          13
+        ]
+      ],
+      "date-time": "2021-01-13T19:35:34Z",
+      "timestamp": 1610566534000
+    },
+    "score": 48.348694,
+    "resource": {
+      "primary": {
+        "URL": "http://www.isrctn.com/ISRCTN14968657"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          13
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.1186/isrctn14968657",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2026-05-15T00:56:59Z",
+      "timestamp": 1778806619286,
+      "version": "3.51.4"
+    },
+    "reference-count": 39,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2020-04-01T00:00:00Z",
+          "timestamp": 1585699200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2020-04-01T00:00:00Z",
+          "timestamp": 1585699200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000226",
+        "name": "Ontario Ministry of Health and Long-Term Care",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000226",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100012665",
+        "name": "Institute for Clinical Evaluative Sciences",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100012665",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000024",
+        "name": "Canadian Institutes of Health Research",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000024",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000226",
+        "name": "Ontario Ministry of Health and Long-Term Care",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000226",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "em-consulte.com",
+        "thelancet.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "The Lancet Infectious Diseases"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1473-3099(19)30705-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2020-01-22T18:37:26Z",
+      "timestamp": 1579718246000
+    },
+    "page": "487-497",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 24,
+    "title": [
+      "Hydromorphone and the risk of infective endocarditis among people who inject drugs: a population-based, retrospective cohort study"
+    ],
+    "prefix": "10.1016",
+    "volume": "20",
+    "author": [
+      {
+        "given": "Michael",
+        "family": "Silverman",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Justin",
+        "family": "Slater",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Racquel",
+        "family": "Jandoc",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sharon",
+        "family": "Koivu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Amit X",
+        "family": "Garg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Matthew A",
+        "family": "Weir",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "224",
+        "DOI": "10.24095/hpcdp.38.6.02",
+        "article-title": "The opioid crisis in Canada: a national perspective",
+        "volume": "38",
+        "author": "Belzak",
+        "year": "2018",
+        "journal-title": "Health Promot Chronic Dis Prev Can"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1419",
+        "DOI": "10.15585/mmwr.mm675152e1",
+        "article-title": "Drug and opioid-involved overdose deaths—United States, 2013–2017",
+        "volume": "67",
+        "author": "Scholl",
+        "year": "2018",
+        "journal-title": "MMWR Morb Mortal Wkly Rep"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib3",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1097/MD.0000000000005617",
+        "article-title": "Low mortality but increasing incidence of Staphylococcus aureus endocarditis in people who inject drugs: experience from a Swedish referral hospital",
+        "volume": "95",
+        "author": "Asgeirsson",
+        "year": "2016",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "412",
+        "DOI": "10.1111/dar.12228",
+        "article-title": "Evolving epidemiology of injecting drug use-associated infective endocarditis: a regional centre experience",
+        "volume": "34",
+        "author": "Tung",
+        "year": "2015",
+        "journal-title": "Drug Alcohol Rev"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1200",
+        "DOI": "10.1086/522176",
+        "article-title": "Nationwide increase in the number of hospitalizations for illicit injection drug use-related infective endocarditis",
+        "volume": "45",
+        "author": "Cooper",
+        "year": "2007",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "603",
+        "DOI": "10.1016/j.amjms.2016.08.010",
+        "article-title": "Opiate injection-associated infective endocarditis in the southeastern United States",
+        "volume": "352",
+        "author": "Hartman",
+        "year": "2016",
+        "journal-title": "Am J Med Sci"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib7",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/ofid/ofw157",
+        "article-title": "Increasing infectious endocarditis admissions among young people who inject drugs",
+        "volume": "3",
+        "author": "Wurcel",
+        "year": "2016",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "532",
+        "DOI": "10.1186/s12879-018-3408-y",
+        "article-title": "Rising rates of injection drug use associated infective endocarditis in Virginia with missed opportunities for addiction treatment referral: a retrospective cohort study",
+        "volume": "18",
+        "author": "Gray",
+        "year": "2018",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.7326/M18-2124",
+        "article-title": "Trends in drug use-associated infective endocarditis and heart valve surgery, 2007 to 2017: a study of statewide discharge data",
+        "volume": "170",
+        "author": "Schranz",
+        "year": "2019",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "e93",
+        "DOI": "10.1503/cmaj.180694",
+        "article-title": "The risk of infective endocarditis among people who inject drugs: a retrospective, population-based time series analysis",
+        "volume": "191",
+        "author": "Weir",
+        "year": "2019",
+        "journal-title": "CMAJ"
+      },
+      {
+        "issue": "suppl 1",
+        "key": "10.1016/S1473-3099(19)30705-4_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "S31",
+        "DOI": "10.1016/j.drugalcdep.2005.11.027",
+        "article-title": "Ephemeral profiles of prescription drug and formulation tampering: evolving pseudoscience on the internet",
+        "volume": "83",
+        "author": "Cone",
+        "year": "2006",
+        "journal-title": "Drug Alcohol Depend"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1142",
+        "DOI": "10.3109/10826084.2011.552932",
+        "article-title": "The growing popularity of prescription opioid injection in downtown Montréal: new challenges for harm reduction",
+        "volume": "46",
+        "author": "Roy",
+        "year": "2011",
+        "journal-title": "Subst Use Misuse"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "e99",
+        "DOI": "10.1097/QAI.0000000000002062",
+        "article-title": "Sharing of injection drug preparation equipment is associated with HIV infection: a cross-sectional study",
+        "volume": "81",
+        "author": "Ball",
+        "year": "2019",
+        "journal-title": "J Acquir Immune Defic Syndr"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib14",
+        "first-page": "1",
+        "article-title": "A controlled-release oral opioid supports S aureus survival in injection drug preparation equipment and may increase bacteremia and endocarditis risk",
+        "volume": "14",
+        "author": "Kasper",
+        "year": "2019",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib15",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0125620",
+        "article-title": "The reporting of studies conducted using observational routinely-collected health data (RECORD) statement: methods for arriving at consensus and developing reporting guidelines",
+        "volume": "10",
+        "author": "Nicholls",
+        "year": "2015",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib16",
+        "first-page": "67",
+        "article-title": "Coding accuracy of administrative drug claims in the Ontario Drug Benefit database",
+        "volume": "10",
+        "author": "Levy",
+        "year": "2003",
+        "journal-title": "Can J Clin Pharmacol"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "e70",
+        "DOI": "10.1097/MLR.0000000000000838",
+        "article-title": "Validation of an algorithm to identify infective endocarditis in people who inject drugs",
+        "volume": "56",
+        "author": "Ball",
+        "year": "2018",
+        "journal-title": "Med Care"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib18",
+        "series-title": "Ontario Narcotics Atlas",
+        "year": "2016"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "162",
+        "DOI": "10.1016/j.ijcard.2016.09.030",
+        "article-title": "Accuracy of administrative data for identification of patients with infective endocarditis",
+        "volume": "224",
+        "author": "Tan",
+        "year": "2016",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1228",
+        "DOI": "10.1080/03610910902859574",
+        "article-title": "Using the standardized difference to compare the prevalence of a binary variable between two groups in observational research",
+        "volume": "38",
+        "author": "Austin",
+        "year": "2009",
+        "journal-title": "Commun Stat Simul Comput"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "960",
+        "DOI": "10.1136/bmj.330.7497.960",
+        "article-title": "Reader's guide to critical appraisal of cohort studies: 2. assessing potential for confounding",
+        "volume": "330",
+        "author": "Mamdani",
+        "year": "2005",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib22",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/jamanetworkopen.2018.5220",
+        "article-title": "Clinical characteristics and factors associated with mortality in first-episode infective endocarditis among persons who inject drugs",
+        "volume": "1",
+        "author": "Rodger",
+        "year": "2018",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1186/1477-7517-3-5",
+        "article-title": "Development and validation of an Opioid Attractiveness Scale: a novel measure of the attractiveness of opioid products to potential abusers",
+        "volume": "3",
+        "author": "Butler",
+        "year": "2006",
+        "journal-title": "Harm Reduct J"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1016/S2215-0366(18)30003-8",
+        "article-title": "The effect of a potentially tamper-resistant oxycodone formulation on opioid use and harm: main findings of the National Opioid Medications Abuse Deterrence (NOMAD) study",
+        "volume": "5",
+        "author": "Larance",
+        "year": "2018",
+        "journal-title": "Lancet Psychiatry"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "17",
+        "DOI": "10.1016/j.drugpo.2017.11.025",
+        "article-title": "The impact of OxyContin reformulation at the Sydney Medically Supervised Injecting Centre: pros and cons",
+        "volume": "53",
+        "author": "Jauncey",
+        "year": "2018",
+        "journal-title": "Int J Drug Policy"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "e127",
+        "DOI": "10.1097/QAI.0000000000002063",
+        "article-title": "Heating injection drug preparation equipment used for opioid injection may reduce HIV transmission associated with sharing equipment",
+        "volume": "81",
+        "author": "Ball",
+        "year": "2019",
+        "journal-title": "J Acquir Immune Defic Syndr"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib28",
+        "first-page": "415",
+        "article-title": "Hospital utilization and costs in a cohort of injection drug users",
+        "volume": "165",
+        "author": "Palepu",
+        "year": "2001",
+        "journal-title": "CMAJ"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib29",
+        "first-page": "5",
+        "article-title": "Correlates of nonmedical use of hydromorphone and hydrocodone: results from a national household survey",
+        "volume": "21",
+        "author": "Smith",
+        "year": "2007",
+        "journal-title": "J Pain Palliat Care Pharmacother"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "971",
+        "DOI": "10.1007/s00213-017-4814-3",
+        "article-title": "Characterizing the subjective, observer-rated, and physiological effects of hydromorphone relative to heroin in a human laboratory study",
+        "volume": "235",
+        "author": "Dunn",
+        "year": "2018",
+        "journal-title": "Psychopharmacology (Berl)"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "408",
+        "DOI": "10.1016/j.jsat.2010.03.003",
+        "article-title": "Double-blind injectable hydromorphone versus diacetylmorphine for the treatment of opioid dependence: a pilot study",
+        "volume": "38",
+        "author": "Oviedo-Joekes",
+        "year": "2010",
+        "journal-title": "J Subst Abuse Treat"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "24",
+        "DOI": "10.1186/1477-7517-7-24",
+        "article-title": "Route of administration for illicit prescription opioids: a comparison of rural and urban drug users",
+        "volume": "7",
+        "author": "Young",
+        "year": "2010",
+        "journal-title": "Harm Reduct J"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "297",
+        "DOI": "10.1001/jamainternmed.2018.6101",
+        "article-title": "Association of prescribed opioids with increased risk of community-acquired pneumonia among patients with and without HIV",
+        "volume": "179",
+        "author": "Edelman",
+        "year": "2019",
+        "journal-title": "JAMA Intern Med"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "2717",
+        "DOI": "10.1111/bph.13750",
+        "article-title": "Opioids and the immune system—friend or foe",
+        "volume": "175",
+        "author": "Plein",
+        "year": "2018",
+        "journal-title": "Br J Pharmacol"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib35",
+        "first-page": "1257",
+        "article-title": "Canadian guideline for safe and effective use of opioids for chronic noncancer pain: clinical summary for family physicians, part 1: general population",
+        "volume": "57",
+        "author": "Kahan",
+        "year": "2011",
+        "journal-title": "Can Fam Physician"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "1761",
+        "DOI": "10.1086/340827",
+        "article-title": "Prospective study of infective endocarditis among injection drug users",
+        "volume": "185",
+        "author": "Wilson",
+        "year": "2002",
+        "journal-title": "J Infect Dis"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "1899",
+        "DOI": "10.1111/j.1532-5415.2011.03586.x",
+        "article-title": "Use of opioids or benzodiazepines and risk of pneumonia in older adults: a population-based case-control study",
+        "volume": "59",
+        "author": "Dublin",
+        "year": "2011",
+        "journal-title": "J Am Geriatr Soc"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "396",
+        "DOI": "10.7326/M17-1907",
+        "article-title": "Opioid analgesic use and risk for invasive pneumococcal diseases",
+        "volume": "168",
+        "author": "Wiese",
+        "year": "2018",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "565",
+        "DOI": "10.1080/17425255.2019.1634053",
+        "article-title": "Opioids and the risk of infection: a critical appraisal of the pharmacologic and clinical evidence",
+        "volume": "15",
+        "author": "Khosrow-Khavar",
+        "year": "2019",
+        "journal-title": "Expert Opin Drug Metab Toxicol"
+      },
+      {
+        "key": "10.1016/S1473-3099(19)30705-4_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "1862",
+        "DOI": "10.1093/cid/ciy809",
+        "article-title": "Long-acting opioid use and the risk of serious infections: a retrospective cohort study",
+        "volume": "68",
+        "author": "Wiese",
+        "year": "2019",
+        "journal-title": "Clin Infect Dis"
+      }
+    ],
+    "container-title": [
+      "The Lancet Infectious Diseases"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1473309919307054?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1473309919307054?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          26
+        ]
+      ],
+      "date-time": "2025-10-26T09:29:47Z",
+      "timestamp": 1761470987000
+    },
+    "score": 47.644688,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1473309919307054"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "references-count": 39,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1473309919307054"
+    ],
+    "URL": "https://doi.org/10.1016/s1473-3099(19)30705-4",
+    "ISSN": [
+      "1473-3099"
+    ],
+    "issn-type": [
+      {
+        "value": "1473-3099",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Hydromorphone and the risk of infective endocarditis among people who inject drugs: a population-based, retrospective cohort study",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "The Lancet Infectious Diseases",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/S1473-3099(19)30705-4",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/S1473-3099(19)30754-6",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2020 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2025-10-07T12:08:25Z",
+      "timestamp": 1759838905311
+    },
+    "reference-count": 9,
+    "publisher": "American Medical Association (AMA)",
+    "issue": "8",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "JAMA Netw Open"
+    ],
+    "DOI": "10.1001/jamanetworkopen.2020.13102",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          13
+        ]
+      ],
+      "date-time": "2020-08-13T02:58:16Z",
+      "timestamp": 1597287496000
+    },
+    "page": "e2013102",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "High-Risk Infective Endocarditis in People Who Inject Drugs"
+    ],
+    "prefix": "10.1001",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Andrew J.",
+        "family": "Stewardson",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Infectious Diseases, Alfred Hospital and Central Clinical School, Monash University, Melbourne, Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Steven Y.C.",
+        "family": "Tong",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Victorian Infectious Disease Service, The Peter Doherty Institute for Infection and Immunity, Royal Melbourne Hospital and University of Melbourne, Melbourne, Australia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "10",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          12
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "8",
+        "key": "zic200120r1",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/jamanetworkopen.2020.12974",
+        "article-title": "Risk of new bloodstream infections and mortality among people who inject drugs with infective endocarditis.",
+        "volume": "3",
+        "author": "Tan",
+        "year": "2020",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "issue": "1",
+        "key": "zic200120r2",
+        "doi-asserted-by": "publisher",
+        "first-page": "31",
+        "DOI": "10.7326/M18-2124",
+        "article-title": "Trends in drug use-associated infective endocarditis and heart valve surgery, 2007 to 2017: a study of statewide discharge data.",
+        "volume": "170",
+        "author": "Schranz",
+        "year": "2019",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "issue": "9",
+        "key": "zic200120r3",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/ofid/ofy194",
+        "article-title": "Outpatient parenteral antimicrobial therapy among people who inject drugs: a review of the literature.",
+        "volume": "5",
+        "author": "Suzuki",
+        "year": "2018",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "key": "zic200120r4",
+        "article-title": "Long-term outcomes are poor in intravenous drug users following infective endocarditis, even after surgery.",
+        "author": "Straw",
+        "year": "2019",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "5",
+        "key": "zic200120r5",
+        "first-page": "327",
+        "article-title": "Mutual mistrust in the medical care of drug users: the keys to the “narc” cabinet.",
+        "volume": "17",
+        "author": "Merrill",
+        "year": "2002",
+        "journal-title": "J Gen Intern Med"
+      },
+      {
+        "key": "zic200120r6",
+        "doi-asserted-by": "publisher",
+        "first-page": "59",
+        "DOI": "10.1016/j.socscimed.2014.01.010",
+        "article-title": "Hospitals as a “risk environment”: an ethno-epidemiological study of voluntary and involuntary discharge from hospital against medical advice among people who inject drugs.",
+        "volume": "105",
+        "author": "McNeil",
+        "year": "2014",
+        "journal-title": "Soc Sci Med"
+      },
+      {
+        "issue": "11",
+        "key": "zic200120r7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1935",
+        "DOI": "10.1093/cid/ciy924",
+        "article-title": "Addiction medicine consultations reduce readmission rates for patients with serious infections from opioid use disorder.",
+        "volume": "68",
+        "author": "Marks",
+        "year": "2019",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "issue": "10",
+        "key": "zic200120r8",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/ofid/ofz396",
+        "article-title": "Recurrent endocarditis in persons who inject drugs.",
+        "volume": "6",
+        "author": "Rodger",
+        "year": "2019",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "issue": "5",
+        "key": "zic200120r9",
+        "doi-asserted-by": "publisher",
+        "first-page": "335",
+        "DOI": "10.7326/M18-1203",
+        "article-title": "Integrating treatment at the intersection of opioid use disorder and infectious disease epidemics in medical settings: a call for action after a National Academies of Sciences, Engineering, and Medicine workshop.",
+        "volume": "169",
+        "author": "Springer",
+        "year": "2018",
+        "journal-title": "Ann Intern Med"
+      }
+    ],
+    "container-title": [
+      "JAMA Network Open"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2769228/stewardson_2020_ic_200120.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          13
+        ]
+      ],
+      "date-time": "2020-08-13T02:58:19Z",
+      "timestamp": 1597287499000
+    },
+    "score": 47.635017,
+    "resource": {
+      "primary": {
+        "URL": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2769228"
+      }
+    },
+    "subtitle": [
+      "Are New Bloodstream Infections a Complication and Marker?"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          12
+        ]
+      ]
+    },
+    "references-count": 9,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            8,
+            3
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1001/jamanetworkopen.2020.13102",
+    "ISSN": [
+      "2574-3805"
+    ],
+    "issn-type": [
+      {
+        "value": "2574-3805",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          12
+        ]
+      ]
+    }
+  }
+]

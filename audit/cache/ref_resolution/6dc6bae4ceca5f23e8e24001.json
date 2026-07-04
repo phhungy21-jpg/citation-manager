@@ -1,0 +1,1386 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2026-04-01T18:38:25Z",
+      "timestamp": 1775068705583,
+      "version": "3.50.1"
+    },
+    "reference-count": 56,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              11,
+              7
+            ]
+          ],
+          "date-time": "2017-11-07T00:00:00Z",
+          "timestamp": 1510012800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000769",
+        "name": "University of Oxford",
+        "doi-asserted-by": "crossref",
+        "id": [
+          {
+            "id": "10.13039/501100000769",
+            "id-type": "DOI",
+            "asserted-by": "crossref"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Curr Urol Rep"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1007/s11934-017-0745-0",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2017-11-07T09:07:32Z",
+      "timestamp": 1510045652000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 38,
+    "title": [
+      "Systematic Review of Studies Reporting Positive Surgical Margins After Bladder Neck Sparing Radical Prostatectomy"
+    ],
+    "prefix": "10.1007",
+    "volume": "18",
+    "author": [
+      {
+        "given": "Mariangela",
+        "family": "Bellangino",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Clare",
+        "family": "Verrill",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tom",
+        "family": "Leslie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Richard W.",
+        "family": "Bell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Freddie C.",
+        "family": "Hamdy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alastair D.",
+        "family": "Lamb",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "1",
+        "key": "745_CR1",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.3322/caac.21387",
+        "volume": "67",
+        "author": "RL Siegel",
+        "year": "2017",
+        "unstructured": "Siegel RL, Miller KD, Jemal A. Cancer statistics, 2017. CA Cancer J Clin. 2017;67(1):7–30.",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "key": "745_CR2",
+        "unstructured": "Mottet NJB, Briers E, Bolla, MLB, Cornford P, De Santis M, Henry AMSJ, Lam TB, Mason MD, van der Poel HG, van der Kwast THOR, Wiegel T. EAU-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer 2017."
+      },
+      {
+        "issue": "3",
+        "key": "745_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "368",
+        "DOI": "10.1016/j.eururo.2012.05.057",
+        "volume": "62",
+        "author": "F Montorsi",
+        "year": "2012",
+        "unstructured": "Montorsi F, Wilson TG, Rosen RC, Ahlering TE, Artibani W, Carroll PR, et al. Best practices in robot-assisted radical prostatectomy: recommendations of the Pasadena Consensus Panel. Eur Urol. 2012;62(3):368–81.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "5",
+        "key": "745_CR4",
+        "doi-asserted-by": "crossref",
+        "first-page": "702",
+        "DOI": "10.1016/j.eururo.2011.01.032",
+        "volume": "59",
+        "author": "VR Patel",
+        "year": "2011",
+        "unstructured": "Patel VR, Sivaraman A, Coelho RF, Chauhan S, Palmer KJ, Orvieto MA, et al. Pentafecta: a new concept for reporting outcomes of robot-assisted laparoscopic radical prostatectomy. Eur Urol. 2011;59(5):702–7.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "6",
+        "key": "745_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "2207",
+        "DOI": "10.1016/j.juro.2008.01.106",
+        "volume": "179",
+        "author": "JA Eastham",
+        "year": "2008",
+        "unstructured": "Eastham JA, Scardino PT, Kattan MW. Predicting an optimal outcome after radical prostatectomy: the trifecta nomogram. J Urol. 2008;179(6):2207–10. discussion 10-1",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "1",
+        "key": "745_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1016/S0022-5347(17)36519-9",
+        "volume": "148",
+        "author": "EA Klein",
+        "year": "1992",
+        "unstructured": "Klein EA. Early continence after radical prostatectomy. J Urol. 1992;148(1):92–5.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "1",
+        "key": "745_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/j.eururo.2006.10.041",
+        "volume": "52",
+        "author": "MJ Harris",
+        "year": "2007",
+        "unstructured": "Harris MJ. The anatomic radical perineal prostatectomy: an outcomes-based evolution. Eur Urol. 2007;52(1):81–8.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "10",
+        "key": "745_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "700",
+        "DOI": "10.1111/j.1442-2042.2011.02826.x",
+        "volume": "18",
+        "author": "M Gacci",
+        "year": "2011",
+        "unstructured": "Gacci M, Carini M, Simonato A, Imbimbo C, Gontero P, Briganti A, et al. Factors predicting continence recovery 1 month after radical prostatectomy: results of a multicenter survey. Int J Urol. 2011;18(10):700–8.",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "issue": "5",
+        "key": "745_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1754",
+        "DOI": "10.1016/j.juro.2012.07.045",
+        "volume": "188",
+        "author": "DF Friedlander",
+        "year": "2012",
+        "unstructured": "Friedlander DF, Alemozaffar M, Hevelone ND, Lipsitz SR, Hu JC. Stepwise description and outcomes of bladder neck sparing during robot-assisted laparoscopic radical prostatectomy. J Urol. 2012;188(5):1754–60.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "2",
+        "key": "745_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1111/iju.12206",
+        "volume": "21",
+        "author": "E Brunocilla",
+        "year": "2014",
+        "unstructured": "Brunocilla E, Schiavina R, Pultrone CV, Borghesi M, Rossi M, Cevenini M, et al. Preservation of the smooth muscular internal (vesical) sphincter and of the proximal urethra for the early recovery of urinary continence after retropubic radical prostatectomy: a prospective case-control study. Int J Urol. 2014;21(2):157–62.",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "issue": "3",
+        "key": "745_CR11",
+        "first-page": "362",
+        "volume": "9",
+        "author": "T Golabek",
+        "year": "2014",
+        "unstructured": "Golabek T, Jaskulski J, Jarecki P, Dudek P, Szopinski T, Chlosta P. Laparoscopic radical prostatectomy with bladder neck preservation: positive surgical margin and urinary continence status. Wideochir Inne Tech Maloinwazyjne. 2014;9(3):362–70.",
+        "journal-title": "Wideochir Inne Tech Maloinwazyjne."
+      },
+      {
+        "issue": "1",
+        "key": "745_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "73",
+        "DOI": "10.1016/S0090-4295(97)00463-9",
+        "volume": "51",
+        "author": "SW Shelfo",
+        "year": "1998",
+        "unstructured": "Shelfo SW, Obek C, Soloway MS. Update on bladder neck preservation during radical retropubic prostatectomy: impact on pathologic outcome, anastomotic strictures, and continence. Urology. 1998;51(1):73–8.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "1",
+        "key": "745_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "32",
+        "DOI": "10.1080/00365590310017280",
+        "volume": "38",
+        "author": "C Selli",
+        "year": "2004",
+        "unstructured": "Selli C, De Antoni P, Moro U, Macchiarella A, Giannarini G, Crisci A. Role of bladder neck preservation in urinary continence following radical retropubic prostatectomy. Scand J Urol Nephrol. 2004;38(1):32–7.",
+        "journal-title": "Scand J Urol Nephrol"
+      },
+      {
+        "issue": "3",
+        "key": "745_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "815",
+        "DOI": "10.1016/S0022-5347(05)66534-2",
+        "volume": "165",
+        "author": "M Srougi",
+        "year": "2001",
+        "unstructured": "Srougi M, Nesrallah LJ, Kauffmann JR, Nesrallah A, Leite KR. Urinary continence and pathological outcome after bladder neck preservation during radical retropubic prostatectomy: a randomized prospective trial. J Urol. 2001;165(3):815–8.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "1",
+        "key": "745_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "194",
+        "DOI": "10.1016/S0022-5347(05)68003-2",
+        "volume": "163",
+        "author": "M Poon",
+        "year": "2000",
+        "unstructured": "Poon M, Ruckle H, Bamshad BR, Tsai C, Webster R, Lui P. Radical retropubic prostatectomy: bladder neck preservation versus reconstruction. J Urol. 2000;163(1):194–8.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "6",
+        "key": "745_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "2049",
+        "DOI": "10.1097/01.ju.0000065822.15012.b7",
+        "volume": "169",
+        "author": "R Katz",
+        "year": "2003",
+        "unstructured": "Katz R, Salomon L, Hoznek A, de la Taille A, Antiphon P, Abbou CC. Positive surgical margins in laparoscopic radical prostatectomy: the impact of apical dissection, bladder neck remodeling and nerve preservation. J Urol. 2003;169(6):2049–52.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "6",
+        "key": "745_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "1245",
+        "DOI": "10.1016/j.urology.2005.06.108",
+        "volume": "66",
+        "author": "PI Karakiewicz",
+        "year": "2005",
+        "unstructured": "Karakiewicz PI, Eastham JA, Graefen M, Cagiannos I, Stricker PD, Klein E, et al. Prognostic impact of positive surgical margins in surgically treated prostate cancer: multi-institutional assessment of 5831 patients. Urology. 2005;66(6):1245–50.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "1",
+        "key": "745_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "80",
+        "DOI": "10.1016/S0090-4295(96)00092-1",
+        "volume": "48",
+        "author": "RB Watson",
+        "year": "1996",
+        "unstructured": "Watson RB, Civantos F, Soloway MS. Positive surgical margins with radical prostatectomy: detailed pathological analysis and prognosis. Urology. 1996;48(1):80–90.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "4",
+        "key": "745_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1357",
+        "DOI": "10.1016/j.juro.2009.06.046",
+        "volume": "182",
+        "author": "AJ Stephenson",
+        "year": "2009",
+        "unstructured": "Stephenson AJ, Wood DP, Kattan MW, Klein EA, Scardino PT, Eastham JA, et al. Location, extent and number of positive surgical margins do not improve accuracy of predicting prostate cancer recurrence after radical prostatectomy. J Urol. 2009;182(4):1357–63.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "2",
+        "key": "745_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "244",
+        "DOI": "10.1111/bju.13181",
+        "volume": "117",
+        "author": "P Mithal",
+        "year": "2016",
+        "unstructured": "Mithal P, Howard LE, Aronson WJ, Terris MK, Cooperberg MR, Kane CJ, et al. Positive surgical margins in radical prostatectomy patients do not predict long-term oncological outcomes: results from the Shared Equal Access Regional Cancer Hospital (SEARCH) cohort. BJU Int. 2016;117(2):244–8.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "6",
+        "key": "745_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "2213",
+        "DOI": "10.1016/j.juro.2010.02.017",
+        "volume": "183",
+        "author": "JL Wright",
+        "year": "2010",
+        "unstructured": "Wright JL, Dalkin BL, True LD, Ellis WJ, Stanford JL, Lange PH, et al. Positive surgical margins at radical prostatectomy predict prostate cancer specific mortality. J Urol. 2010;183(6):2213–8.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "3",
+        "key": "745_CR22",
+        "doi-asserted-by": "crossref",
+        "first-page": "869",
+        "DOI": "10.1016/j.juro.2010.10.057",
+        "volume": "185",
+        "author": "SE Eggener",
+        "year": "2011",
+        "unstructured": "Eggener SE, Scardino PT, Walsh PC, Han M, Partin AW, Trock BJ, et al. Predicting 15-year prostate cancer specific mortality after radical prostatectomy. J Urol. 2011;185(3):869–75.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "3",
+        "key": "745_CR23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1003",
+        "DOI": "10.1016/j.juro.2009.11.039",
+        "volume": "183",
+        "author": "SA Boorjian",
+        "year": "2010",
+        "unstructured": "Boorjian SA, Karnes RJ, Crispen PL, Carlson RE, Rangel LJ, Bergstralh EJ, et al. The impact of positive surgical margins on mortality following radical prostatectomy during the prostate specific antigen era. J Urol. 2010;183(3):1003–9.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "1",
+        "key": "745_CR24",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/j.eururo.2012.08.002",
+        "volume": "64",
+        "author": "J Mauermann",
+        "year": "2013",
+        "unstructured": "Mauermann J, Fradet V, Lacombe L, Dujardin T, Tiguert R, Tetu B, et al. The impact of solitary and multiple positive surgical margins on hard clinical end points in 1712 adjuvant treatment-naive pT2-4 N0 radical prostatectomy patients. Eur Urol. 2013;64(1):19–25.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "41",
+        "key": "745_CR25",
+        "doi-asserted-by": "crossref",
+        "first-page": "67463",
+        "DOI": "10.18632/oncotarget.11997",
+        "volume": "7",
+        "author": "X Ma",
+        "year": "2016",
+        "unstructured": "Ma X, Tang K, Yang C, Wu G, Xu N, Wang M, et al. Bladder neck preservation improves time to continence after radical prostatectomy: a systematic review and meta-analysis. Oncotarget. 2016;7(41):67463–75.",
+        "journal-title": "Oncotarget"
+      },
+      {
+        "issue": "5",
+        "key": "745_CR26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1683",
+        "DOI": "10.1016/j.juro.2008.01.010",
+        "volume": "179",
+        "author": "MM Koraitim",
+        "year": "2008",
+        "unstructured": "Koraitim MM. The male urethral sphincter complex revisited: an anatomical concept and its physiological correlate. J Urol. 2008;179(5):1683–9.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "5",
+        "key": "745_CR27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1738",
+        "DOI": "10.1097/01.ju.0000092881.24608.5e",
+        "volume": "170",
+        "author": "TE Ahlering",
+        "year": "2003",
+        "unstructured": "Ahlering TE, Skarecky D, Lee D, Clayman RV. Successful transfer of open surgical skills to a laparoscopic environment using a robotic interface: initial experience with laparoscopic radical prostatectomy. J Urol. 2003;170(5):1738–41.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "4",
+        "key": "745_CR28",
+        "doi-asserted-by": "crossref",
+        "first-page": "833",
+        "DOI": "10.1111/j.1464-410X.2006.06417.x",
+        "volume": "98",
+        "author": "AK Tewari",
+        "year": "2006",
+        "unstructured": "Tewari AK, Rao SR. Anatomical foundations and surgical manoeuvres for precise identification of the prostatovesical junction during robotic radical prostatectomy. BJU Int. 2006;98(4):833–7.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "6",
+        "key": "745_CR29",
+        "doi-asserted-by": "crossref",
+        "first-page": "904",
+        "DOI": "10.1016/S0090-4295(00)00451-9",
+        "volume": "55",
+        "author": "R Marcovich",
+        "year": "2000",
+        "unstructured": "Marcovich R, Wojno KJ, Wei JT, Rubin MA, Montie JE, Sanda MG. Bladder neck-sparing modification of radical prostatectomy adversely affects surgical margins in pathologic T3a prostate cancer. Urology. 2000;55(6):904–8.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "6",
+        "key": "745_CR30",
+        "doi-asserted-by": "crossref",
+        "first-page": "883",
+        "DOI": "10.1016/S0090-4295(94)80175-4",
+        "volume": "44",
+        "author": "MR Licht",
+        "year": "1994",
+        "unstructured": "Licht MR, Klein EA, Tuason L, Levin H. Impact of bladder neck preservation during radical prostatectomy on continence and cancer control. Urology. 1994;44(6):883–7.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "4",
+        "key": "745_CR31",
+        "doi-asserted-by": "crossref",
+        "first-page": "595",
+        "DOI": "10.1016/j.eururo.2011.01.033",
+        "volume": "59",
+        "author": "AC Huang",
+        "year": "2011",
+        "unstructured": "Huang AC, Kowalczyk KJ, Hevelone ND, Lipsitz SR, Yu HY, Plaster BA, et al. The impact of prostate size, median lobe, and prior benign prostatic hyperplasia intervention on robot-assisted laparoscopic prostatectomy: technique and outcomes. Eur Urol. 2011;59(4):595–603.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "12",
+        "key": "745_CR32",
+        "doi-asserted-by": "crossref",
+        "first-page": "1057",
+        "DOI": "10.1136/jclinpath-2012-200923",
+        "volume": "65",
+        "author": "PS Gill",
+        "year": "2012",
+        "unstructured": "Gill PS, Roberts IS, Browning L, Perera R, Warren AY, Hamdy FC, et al. The handling and sampling of radical prostatectomy specimens for reporting and research: the Oxford approach. J Clin Pathol. 2012;65(12):1057–61.",
+        "journal-title": "J Clin Pathol"
+      },
+      {
+        "issue": "2",
+        "key": "745_CR33",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.1016/j.eururo.2013.07.039",
+        "volume": "65",
+        "author": "O Yossepowitch",
+        "year": "2014",
+        "unstructured": "Yossepowitch O, Briganti A, Eastham JA, Epstein J, Graefen M, Montironi R, et al. Positive surgical margins after radical prostatectomy: a systematic review and contemporary update. Eur Urol. 2014;65(2):303–13.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "8",
+        "key": "745_CR34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1207",
+        "DOI": "10.1016/j.humpath.2007.01.006",
+        "volume": "38",
+        "author": "RA Marks",
+        "year": "2007",
+        "unstructured": "Marks RA, Koch MO, Lopez-Beltran A, Montironi R, Juliar BE, Cheng L. The relationship between the extent of surgical margin positivity and prostate specific antigen recurrence in radical prostatectomy specimens. Hum Pathol. 2007;38(8):1207–11.",
+        "journal-title": "Hum Pathol"
+      },
+      {
+        "issue": "10",
+        "key": "745_CR35",
+        "doi-asserted-by": "crossref",
+        "first-page": "1028",
+        "DOI": "10.1136/jcp.2005.025882",
+        "volume": "58",
+        "author": "RE Emerson",
+        "year": "2005",
+        "unstructured": "Emerson RE, Koch MO, Jones TD, Daggy JK, Juliar BE, Cheng L. The influence of extent of surgical margin positivity on prostate specific antigen recurrence. J Clin Pathol. 2005;58(10):1028–32.",
+        "journal-title": "J Clin Pathol"
+      },
+      {
+        "issue": "5",
+        "key": "745_CR36",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1016/S0302-2838(03)00103-9",
+        "volume": "43",
+        "author": "FJ Bianco",
+        "year": "2003",
+        "unstructured": "Bianco FJ, Grignon DJ, Sakr WA, Shekarriz B, Upadhyay J, Dornelles E, et al. Radical prostatectomy with bladder neck preservation: impact of a positive margin. Eur Urol. 2003;43(5):461–6.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "2",
+        "key": "745_CR37",
+        "first-page": "89",
+        "volume": "7",
+        "author": "PL Chlosta",
+        "year": "2012",
+        "unstructured": "Chlosta PL, Drewa T, Jaskulski J, Dobruch J, Varkarakis J, Borowka A. Bladder neck preservation during classic laparoscopic radical prostatectomy—point of technique and preliminary results. Wideochir Inne Tech Maloinwazyjne. 2012;7(2):89–95.",
+        "journal-title": "Wideochir Inne Tech Maloinwazyjne"
+      },
+      {
+        "issue": "2",
+        "key": "745_CR38",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1159/000314842",
+        "volume": "85",
+        "author": "JU Stolzenburg",
+        "year": "2010",
+        "unstructured": "Stolzenburg JU, Kallidonis P, Hicks J, Do M, Dietel A, Sakellaropoulos G, et al. Effect of bladder neck preservation during endoscopic extraperitoneal radical prostatectomy on urinary continence. Urol Int. 2010;85(2):135–8.",
+        "journal-title": "Urol Int"
+      },
+      {
+        "issue": "6",
+        "key": "745_CR39",
+        "doi-asserted-by": "crossref",
+        "first-page": "689",
+        "DOI": "10.1016/0090-4295(93)90534-H",
+        "volume": "42",
+        "author": "CA Gomez",
+        "year": "1993",
+        "unstructured": "Gomez CA, Soloway MS, Civantos F, Hachiya T. Bladder neck preservation and its impact on positive surgical margins during radical prostatectomy. Urology. 1993;42(6):689–93. discussion 93-4",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "1",
+        "key": "745_CR40",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1089/end.2013.0290",
+        "volume": "28",
+        "author": "Z Lee",
+        "year": "2014",
+        "unstructured": "Lee Z, Sehgal SS, Graves RV, Su YK, Llukani E, Monahan K, et al. Functional and oncologic outcomes of graded bladder neck preservation during robot-assisted radical prostatectomy. J Endourol. 2014;28(1):48–55.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "issue": "3",
+        "key": "745_CR41",
+        "doi-asserted-by": "crossref",
+        "first-page": "891",
+        "DOI": "10.1016/j.juro.2012.09.082",
+        "volume": "189",
+        "author": "JN Nyarangi-Dix",
+        "year": "2013",
+        "unstructured": "Nyarangi-Dix JN, Radtke JP, Hadaschik B, Pahernik S, Hohenfellner M. Impact of complete bladder neck preservation on urinary continence, quality of life and surgical margins after radical prostatectomy: a randomized, controlled, single blind trial. J Urol. 2013;189(3):891–8.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "6",
+        "key": "745_CR42",
+        "doi-asserted-by": "crossref",
+        "first-page": "972",
+        "DOI": "10.1016/j.eururo.2009.09.017",
+        "volume": "56",
+        "author": "MP Freire",
+        "year": "2009",
+        "unstructured": "Freire MP, Weinberg AC, Lei Y, Soukup JR, Lipsitz SR, Prasad SM, et al. Anatomic bladder neck preservation during robotic-assisted laparoscopic radical prostatectomy: description of technique and outcomes. Eur Urol. 2009;56(6):972–80.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "1",
+        "key": "745_CR43",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.eururo.2012.02.029",
+        "volume": "62",
+        "author": "A Tewari",
+        "year": "2012",
+        "unstructured": "Tewari A, Sooriakumaran P, Bloch DA, Seshadri-Kreaden U, Hebert AE, Wiklund P. Positive surgical margin and perioperative complication rates of primary surgical treatments for prostate cancer: a systematic review and meta-analysis comparing retropubic, laparoscopic, and robotic prostatectomy. Eur Urol. 2012;62(1):1–15.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "745_CR44",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.eururo.2012.05.047",
+        "volume": "62",
+        "author": "G Novara",
+        "year": "2012",
+        "unstructured": "Novara G, Ficarra V, Mocellin S, Ahlering TE, Carroll PR, Graefen M, et al. Systematic review and meta-analysis of studies reporting oncologic outcome after robot-assisted radical prostatectomy. Eur Urol. 2012;62(3):382–404.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "2",
+        "key": "745_CR45",
+        "doi-asserted-by": "crossref",
+        "first-page": "316",
+        "DOI": "10.1016/j.urology.2008.08.493",
+        "volume": "73",
+        "author": "AL Wiltz",
+        "year": "2009",
+        "unstructured": "Wiltz AL, Shikanov S, Eggener SE, Katz MH, Thong AE, Steinberg GD, et al. Robotic radical prostatectomy in overweight and obese patients: oncological and validated-functional outcomes. Urology. 2009;73(2):316–22.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "5",
+        "key": "745_CR46",
+        "doi-asserted-by": "crossref",
+        "first-page": "1125",
+        "DOI": "10.1016/j.urology.2010.03.039",
+        "volume": "76",
+        "author": "S Ginzburg",
+        "year": "2010",
+        "unstructured": "Ginzburg S, Hu F, Staff I, Tortora J, Champagne A, Salner A, et al. Does prior abdominal surgery influence outcomes or complications of robotic-assisted laparoscopic radical prostatectomy? Urology. 2010;76(5):1125–9.",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "3",
+        "key": "745_CR47",
+        "doi-asserted-by": "crossref",
+        "first-page": "521",
+        "DOI": "10.1016/j.eururo.2013.10.030",
+        "volume": "65",
+        "author": "JE Thompson",
+        "year": "2014",
+        "unstructured": "Thompson JE, Egger S, Bohm M, Haynes AM, Matthews J, Rasiah K, et al. Superior quality of life and improved surgical margins are achievable with robotic radical prostatectomy after a long learning curve: a prospective single-surgeon study of 1552 consecutive cases. Eur Urol. 2014;65(3):521–31.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "1",
+        "key": "745_CR48",
+        "first-page": "151",
+        "volume": "197",
+        "author": "M Brausi",
+        "year": "2017",
+        "unstructured": "Brausi M. Re: Robot-assisted laparoscopic prostatectomy versus open radical retropubic prostatectomy: early outcomes from a randomised controlled phase 3 study. Eur Urol. 2017;197(1):151.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "10049",
+        "key": "745_CR49",
+        "doi-asserted-by": "crossref",
+        "first-page": "1057",
+        "DOI": "10.1016/S0140-6736(16)30592-X",
+        "volume": "388",
+        "author": "JW Yaxley",
+        "year": "2016",
+        "unstructured": "Yaxley JW, Coughlin GD, Chambers SK, Occhipinti S, Samaratunga H, Zajdlewicz L, et al. Robot-assisted laparoscopic prostatectomy versus open radical retropubic prostatectomy: early outcomes from a randomised controlled phase 3 study. Lancet. 2016;388(10049):1057–66.",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "3",
+        "key": "745_CR50",
+        "doi-asserted-by": "crossref",
+        "first-page": "928",
+        "DOI": "10.1016/j.juro.2008.05.029",
+        "volume": "180",
+        "author": "BA Link",
+        "year": "2008",
+        "unstructured": "Link BA, Nelson R, Josephson DY, Yoshida JS, Crocitto LE, Kawachi MH, et al. The impact of prostate gland weight in robot assisted laparoscopic radical prostatectomy. J Urol. 2008;180(3):928–32.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "6",
+        "key": "745_CR51",
+        "doi-asserted-by": "crossref",
+        "first-page": "2291",
+        "DOI": "10.1016/j.juro.2010.08.003",
+        "volume": "184",
+        "author": "FP Secin",
+        "year": "2010",
+        "unstructured": "Secin FP, Savage C, Abbou C, de La Taille A, Salomon L, Rassweiler J, et al. The learning curve for laparoscopic radical prostatectomy: an international multicenter study. J Urol. 2010;184(6):2291–6.",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "3",
+        "key": "745_CR52",
+        "first-page": "191",
+        "volume": "63",
+        "author": "P Sooriakumaran",
+        "year": "2011",
+        "unstructured": "Sooriakumaran P, John M, Wiklund P, Lee D, Nilsson A, Tewari AK. Learning curve for robotic assisted laparoscopic prostatectomy: a multi-institutional study of 3794 patients. Minerva Urol Nefrol. 2011;63(3):191–8.",
+        "journal-title": "Minerva Urol Nefrol"
+      },
+      {
+        "issue": "11",
+        "key": "745_CR53",
+        "doi-asserted-by": "crossref",
+        "first-page": "1684",
+        "DOI": "10.1111/j.1464-410X.2012.11371.x",
+        "volume": "110",
+        "author": "HJ Chalfin",
+        "year": "2012",
+        "unstructured": "Chalfin HJ, Dinizo M, Trock BJ, Feng Z, Partin AW, Walsh PC, et al. Impact of surgical margin status on prostate-cancer-specific mortality. BJU Int. 2012;110(11):1684–9.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "10",
+        "key": "745_CR54",
+        "doi-asserted-by": "crossref",
+        "first-page": "1413",
+        "DOI": "10.1111/j.1464-410X.2008.07791.x",
+        "volume": "102",
+        "author": "J Pfitzenmaier",
+        "year": "2008",
+        "unstructured": "Pfitzenmaier J, Pahernik S, Tremmel T, Haferkamp A, Buse S, Hohenfellner M. Positive surgical margins after radical prostatectomy: do they have an impact on biochemical or clinical progression? BJU Int. 2008;102(10):1413–8.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "issue": "3",
+        "key": "745_CR55",
+        "doi-asserted-by": "crossref",
+        "first-page": "310",
+        "DOI": "10.1002/jso.24109",
+        "volume": "113",
+        "author": "P Sooriakumaran",
+        "year": "2016",
+        "unstructured": "Sooriakumaran P, Dev HS, Skarecky D, Ahlering T. The importance of surgical margins in prostate cancer. J Surg Oncol. 2016;113(3):310–5.",
+        "journal-title": "J Surg Oncol"
+      },
+      {
+        "issue": "1",
+        "key": "745_CR56",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/j.juro.2009.08.132",
+        "volume": "183",
+        "author": "S Alkhateeb",
+        "year": "2010",
+        "unstructured": "Alkhateeb S, Alibhai S, Fleshner N, Finelli A, Jewett M, Zlotta A, et al. Impact of positive surgical margins after radical prostatectomy differs by disease risk group. J Urol. 2010;183(1):145–50.",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Current Urology Reports"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/article/10.1007/s11934-017-0745-0/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11934-017-0745-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11934-017-0745-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          28
+        ]
+      ],
+      "date-time": "2024-06-28T11:02:46Z",
+      "timestamp": 1719572566000
+    },
+    "score": 154.10408,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/s11934-017-0745-0"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          7
+        ]
+      ]
+    },
+    "references-count": 56,
+    "journal-issue": {
+      "issue": "12",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "745"
+    ],
+    "URL": "https://doi.org/10.1007/s11934-017-0745-0",
+    "ISSN": [
+      "1527-2737",
+      "1534-6285"
+    ],
+    "issn-type": [
+      {
+        "value": "1527-2737",
+        "type": "print"
+      },
+      {
+        "value": "1534-6285",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          7
+        ]
+      ]
+    },
+    "article-number": "99"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2026-06-29T13:59:05Z",
+      "timestamp": 1782741545890,
+      "version": "3.54.5"
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2001,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2001-07-01T00:00:00Z",
+          "timestamp": 993945600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2001,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2001-07-01T00:00:00Z",
+          "timestamp": 993945600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "goldjournal.net",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0090-4295(01)01003-2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2002-07-25T12:33:28Z",
+      "timestamp": 1027600408000
+    },
+    "page": "134",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Bladder neck-sparing radical prostatectomy and positive margins"
+    ],
+    "prefix": "10.1016",
+    "volume": "58",
+    "author": [
+      {
+        "given": "Martin",
+        "family": "Sanda",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429501010032?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429501010032?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2026-06-29T13:25:39Z",
+      "timestamp": 1782739539000
+    },
+    "score": 63.305664,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429501010032"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          7
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429501010032"
+    ],
+    "URL": "https://doi.org/10.1016/s0090-4295(01)01003-2",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Bladder neck-sparing radical prostatectomy and positive margins",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/S0090-4295(01)01003-2",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2001 Elsevier Science Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2026-06-29T13:56:27Z",
+      "timestamp": 1782741387837,
+      "version": "3.54.5"
+    },
+    "reference-count": 1,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2001,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2001-07-01T00:00:00Z",
+          "timestamp": 993945600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2001,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2001-07-01T00:00:00Z",
+          "timestamp": 993945600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "goldjournal.net",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2001,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0090-4295(01)01002-0",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2002,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2002-07-25T12:33:28Z",
+      "timestamp": 1027600408000
+    },
+    "page": "133-134",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Bladder neck-sparing radical prostatectomy and positive margins"
+    ],
+    "prefix": "10.1016",
+    "volume": "58",
+    "author": [
+      {
+        "given": "Kevin R.",
+        "family": "Loughlin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Christopher",
+        "family": "Doyle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/S0090-4295(01)01002-0_BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "904",
+        "DOI": "10.1016/S0090-4295(00)00451-9",
+        "article-title": "Bladder neck-sparing modification of radical prostatectomy adversely affects surgical margins in pathologic T3a prostate cancer",
+        "volume": "55",
+        "author": "Marcovich",
+        "year": "2000",
+        "journal-title": "Urology"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429501010020?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429501010020?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2026-06-29T13:24:28Z",
+      "timestamp": 1782739468000
+    },
+    "score": 59.68659,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429501010020"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2001,
+          7
+        ]
+      ]
+    },
+    "references-count": 1,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429501010020"
+    ],
+    "URL": "https://doi.org/10.1016/s0090-4295(01)01002-0",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2001,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Bladder neck-sparing radical prostatectomy and positive margins",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/S0090-4295(01)01002-0",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2001 Elsevier Science Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

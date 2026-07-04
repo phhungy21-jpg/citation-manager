@@ -1,0 +1,134 @@
+{
+  "best_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2020-07-23",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://doi.org/10.1161/jaha.120.017293",
+    "url_for_landing_page": "https://doi.org/10.1161/jaha.120.017293",
+    "url_for_pdf": null,
+    "version": "publishedVersion"
+  },
+  "data_standard": 2,
+  "doi": "10.1161/jaha.120.017293",
+  "doi_url": "https://doi.org/10.1161/jaha.120.017293",
+  "first_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2020-07-23",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://doi.org/10.1161/jaha.120.017293",
+    "url_for_landing_page": "https://doi.org/10.1161/jaha.120.017293",
+    "url_for_pdf": null,
+    "version": "publishedVersion"
+  },
+  "genre": "journal-article",
+  "has_repository_copy": true,
+  "is_oa": true,
+  "is_paratext": false,
+  "journal_is_in_doaj": true,
+  "journal_is_oa": true,
+  "journal_issn_l": "2047-9980",
+  "journal_issns": "2047-9980",
+  "journal_name": "Journal of the American Heart Association",
+  "oa_locations": [
+    {
+      "endpoint_id": null,
+      "evidence": "deprecated",
+      "host_type": "publisher",
+      "is_best": true,
+      "license": null,
+      "oa_date": "2020-07-23",
+      "pmh_id": null,
+      "repository_institution": null,
+      "updated": "deprecated",
+      "url": "https://doi.org/10.1161/jaha.120.017293",
+      "url_for_landing_page": "https://doi.org/10.1161/jaha.120.017293",
+      "url_for_pdf": null,
+      "version": "publishedVersion"
+    },
+    {
+      "endpoint_id": "ac9de7698155b820de7",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": "other-oa",
+      "oa_date": "2020-07-23",
+      "pmh_id": "oai:pubmedcentral.nih.gov:7792231",
+      "repository_institution": "National Institutes of Health",
+      "updated": "deprecated",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7792231",
+      "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/7792231",
+      "url_for_pdf": null,
+      "version": "submittedVersion"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "oa_status": "gold",
+  "published_date": "2020-07-23",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Right‐Sided Infective Endocarditis 2020: Challenges and Updates in Diagnosis and Treatment",
+  "updated": "2026-05-06T13:23:02Z",
+  "year": 2020,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "Smidt Heart Institute Cedars‐Sinai Medical Center Los Angeles CA"
+      ],
+      "raw_author_name": "Hezzy Shmueli"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Smidt Heart Institute Cedars‐Sinai Medical Center Los Angeles CA"
+      ],
+      "raw_author_name": "Felix Thomas"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Cardiology Tel Aviv Sourasky Medical Center Affiliated to the Sackler Faculty of Medicine Tel Aviv University Tel Aviv Israel",
+        "Smidt Heart Institute Cedars‐Sinai Medical Center Los Angeles CA"
+      ],
+      "raw_author_name": "Nir Flint"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Smidt Heart Institute Cedars‐Sinai Medical Center Los Angeles CA"
+      ],
+      "raw_author_name": "Gayatri Setia"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Smidt Heart Institute Cedars‐Sinai Medical Center Los Angeles CA"
+      ],
+      "raw_author_name": "Aleksandar Janjic"
+    },
+    {
+      "author_position": "last",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Smidt Heart Institute Cedars‐Sinai Medical Center Los Angeles CA"
+      ],
+      "raw_author_name": "Robert J. Siegel"
+    }
+  ]
+}

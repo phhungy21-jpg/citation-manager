@@ -1,0 +1,3079 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          24
+        ]
+      ],
+      "date-time": "2026-01-24T08:46:24Z",
+      "timestamp": 1769244384507,
+      "version": "3.49.0"
+    },
+    "reference-count": 41,
+    "publisher": "Elsevier BV",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2021-07-01T00:00:00Z",
+          "timestamp": 1625097600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              1
+            ]
+          ],
+          "date-time": "2021-07-01T00:00:00Z",
+          "timestamp": 1625097600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              3,
+              4
+            ]
+          ],
+          "date-time": "2021-03-04T00:00:00Z",
+          "timestamp": 1614816000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "cjcopen.ca",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "CJC Open"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cjco.2021.02.015",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          10
+        ]
+      ],
+      "date-time": "2021-03-10T02:51:21Z",
+      "timestamp": 1615344681000
+    },
+    "page": "896-903",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Injection Drug Use Endocarditis: An Inner-City Hospital Experience"
+    ],
+    "prefix": "10.1016",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Ishba M.",
+        "family": "Syed",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bobby",
+        "family": "Yanagawa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Suganthiny",
+        "family": "Jeyaganth",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Subodh",
+        "family": "Verma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3174-8957",
+        "authenticated-orcid": false,
+        "given": "Asim N.",
+        "family": "Cheema",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1001/jama.288.1.75",
+        "article-title": "Changing profile of infective endocarditis: results of a 1-year survey in France",
+        "volume": "288",
+        "author": "Hoen",
+        "year": "2002",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1318",
+        "DOI": "10.1056/NEJMra010082",
+        "article-title": "Infective endocarditis in adults",
+        "volume": "345",
+        "author": "Mylonakis",
+        "year": "2001",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "90",
+        "DOI": "10.1001/archinte.162.1.90",
+        "article-title": "Changing patient characteristics and the effect on mortality in endocarditis",
+        "volume": "162",
+        "author": "Cabell",
+        "year": "2002",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.1097/HCO.0000000000000493",
+        "article-title": "Endocarditis in the setting of IDU: multidisciplinary management",
+        "volume": "33",
+        "author": "Yanagawa",
+        "year": "2018",
+        "journal-title": "Curr Opin Cardiol"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "529",
+        "DOI": "10.1177/070674371305800809",
+        "article-title": "The burden of mental illness and addiction in Ontario",
+        "volume": "58",
+        "author": "Ratnasingham",
+        "year": "2013",
+        "journal-title": "Can J Psychiatry"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "37",
+        "DOI": "10.1300/J069v25n04_04",
+        "article-title": "Life expectancy and productivity loss among narcotics addicts thirty-three years after index treatment",
+        "volume": "25",
+        "author": "Smyth",
+        "year": "2006",
+        "journal-title": "J Addictive Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "347",
+        "DOI": "10.2105/AJPH.77.3.347",
+        "article-title": "Mortality rates among opioid addicts in a longitudinal study",
+        "volume": "77",
+        "author": "Joe",
+        "year": "1987",
+        "journal-title": "Am J Public Health"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "369",
+        "DOI": "10.1016/j.ypmed.2006.10.003",
+        "article-title": "Years of potential life lost among heroin addicts 33 years after treatment",
+        "volume": "44",
+        "author": "Smyth",
+        "year": "2007",
+        "journal-title": "Prev Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1016/j.athoracsur.2011.08.016",
+        "article-title": "Long-term outcome for the surgical treatment of infective endocarditis with a focus on intravenous drug users",
+        "volume": "93",
+        "author": "Rabkin",
+        "year": "2012",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1016/S0891-5520(01)00008-3",
+        "article-title": "Infective endocarditis in intravenous drug abusers and HIV-1 infected patients",
+        "volume": "16",
+        "author": "Miro",
+        "year": "2002",
+        "journal-title": "Infect Dis Clin North Am"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.1016/S0733-8651(03)00025-0",
+        "article-title": "Infective endocarditis and cardiac surgery in intravenous drug abusers and HIV-1 infected patients",
+        "volume": "21",
+        "author": "Miro",
+        "year": "2003",
+        "journal-title": "Cardiol Clin"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "E93",
+        "DOI": "10.1503/cmaj.180694",
+        "article-title": "The risk of infective endocarditis among people who inject drugs: a retrospective, population-based time series analysis",
+        "volume": "191",
+        "author": "Weir",
+        "year": "2019",
+        "journal-title": "CMAJ"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1111/jocs.12682",
+        "article-title": "Surgical and medical management of isolated tricuspid valve infective endocarditis in intravenous drug users",
+        "volume": "31",
+        "author": "Shetty",
+        "year": "2016",
+        "journal-title": "J Card Surg"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1016/j.ijcard.2015.03.368",
+        "article-title": "Current profile of infective endocarditis in intravenous drug users: the prognostic relevance of the valves involved",
+        "volume": "187",
+        "author": "Ortiz-Bautista",
+        "year": "2015",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1086/313753",
+        "article-title": "Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis",
+        "volume": "30",
+        "author": "Li",
+        "year": "2000",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1071",
+        "DOI": "10.1016/S0140-6736(89)91083-0",
+        "article-title": "Treatment of right-sided Staphylococcus aureus endocarditis in intravenous drug users with ciprofloxacin and rifampicin",
+        "volume": "2",
+        "author": "Dworkin",
+        "year": "1989",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib17",
+        "first-page": "1004",
+        "article-title": "Evaluation of patients with leukocytosis",
+        "volume": "92",
+        "author": "Riley",
+        "year": "2015",
+        "journal-title": "Am Fam Phys"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "801",
+        "DOI": "10.1001/jama.2016.0287",
+        "article-title": "The third international consensus definitions for sepsis and septic shock (sepsis-3)",
+        "volume": "315",
+        "author": "Singer",
+        "year": "2016",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1365",
+        "DOI": "10.1016/j.ijrobp.2011.10.025",
+        "article-title": "Immortal time bias: a frequently unrecognized threat to validity in the evaluation of postoperative radiotherapy",
+        "volume": "83",
+        "author": "Park",
+        "year": "2012",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1016/0033-0620(79)90023-9",
+        "article-title": "Infective endocarditis in the narcotic addict",
+        "volume": "22",
+        "author": "Reisberg",
+        "year": "1979",
+        "journal-title": "Prog Cardiovasc Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "875",
+        "DOI": "10.1016/j.athoracsur.2015.03.019",
+        "article-title": "Injection drug use and outcomes after surgical intervention for infective endocarditis",
+        "volume": "100",
+        "author": "Shrestha",
+        "year": "2015",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1001/archinternmed.2008.603",
+        "article-title": "Clinical presentation, etiology, and outcome of infective endocarditis in the 21st century: the International Collaboration on Endocarditis-Prospective Cohort Study",
+        "volume": "169",
+        "author": "Murdoch",
+        "year": "2009",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1641",
+        "DOI": "10.1001/archinte.1995.00430150125013",
+        "article-title": "Clinical features, site of involvement, bacteriologic findings, and outcome of infective endocarditis in intravenous drug users",
+        "volume": "155",
+        "author": "Mathew",
+        "year": "1995",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "170",
+        "DOI": "10.1097/00005792-198305000-00004",
+        "article-title": "Staphylococcus aureus endocarditis: clinical manifestations in addicts and nonaddicts",
+        "volume": "62",
+        "author": "Chambers",
+        "year": "1983",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1186/1749-8090-9-58",
+        "article-title": "Surgical treatment of infective endocarditis in active intravenous drug users: a justified procedure?",
+        "volume": "9",
+        "author": "Weymann",
+        "year": "2014",
+        "journal-title": "J Cardiothorac Surg"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "118",
+        "DOI": "10.1016/j.ejcts.2007.02.034",
+        "article-title": "Surgical treatment of right-sided active infective endocarditis with or without involvement of the left heart: 20-year single center experience∗",
+        "volume": "32",
+        "author": "Musci",
+        "year": "2007",
+        "journal-title": "Eur J Cardio-Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "577",
+        "DOI": "10.1136/heart.89.5.577",
+        "article-title": "Injection drug use and right sided endocarditis",
+        "volume": "89",
+        "author": "Moss",
+        "year": "2003",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib28",
+        "first-page": "248",
+        "article-title": "Retrospective evaluation of infective endocarditis over ten years in Taiwan",
+        "volume": "22",
+        "author": "Hung",
+        "year": "2013",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "833",
+        "DOI": "10.7326/0003-4819-106-6-833",
+        "article-title": "Cocaine use and the risk for endocarditis in intravenous drug users",
+        "volume": "106",
+        "author": "Chambers",
+        "year": "1987",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib30",
+        "first-page": "132",
+        "article-title": "Infective endocarditis in an urban medical center: association of individual drugs with valvular involvement",
+        "volume": "57",
+        "author": "Jain",
+        "year": "2008",
+        "journal-title": "J Infect"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "42",
+        "DOI": "10.1186/1471-2334-8-42",
+        "article-title": "Appropriateness of antibiotic treatment in intravenous drug users, a retrospective analysis",
+        "volume": "8",
+        "author": "Mertz",
+        "year": "2008",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib32",
+        "doi-asserted-by": "crossref",
+        "first-page": "510",
+        "DOI": "10.1016/j.ejim.2013.01.010",
+        "article-title": "Native valve right sided infective endocarditis",
+        "volume": "24",
+        "author": "Akinosoglou",
+        "year": "2013",
+        "journal-title": "Eur J Intern Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.athoracsur.2009.03.088",
+        "article-title": "Ethical obligation of surgeons to noncompliant patients: can a surgeon refuse to operate on an intravenous drug-abusing patient with recurrent aortic valve prosthesis infection?",
+        "volume": "88",
+        "author": "DiMaio",
+        "year": "2009",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1204",
+        "DOI": "10.1016/j.athoracsur.2012.04.093",
+        "article-title": "Long-term results after operations for active infective endocarditis in native and prosthetic valves",
+        "volume": "94",
+        "author": "Meszaros",
+        "year": "2012",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "2052",
+        "DOI": "10.1016/j.jtcvs.2014.05.025",
+        "article-title": "Outcome after surgery for prosthetic valve endocarditis and the impact of preoperative treatment",
+        "volume": "148",
+        "author": "Grubitzsch",
+        "year": "2014",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "1435",
+        "DOI": "10.1161/CIR.0000000000000296",
+        "article-title": "Infective endocarditis in adults: diagnosis, antimicrobial therapy, and management of complications: a scientific statement for healthcare professionals from the American Heart Association",
+        "volume": "132",
+        "author": "Baddour",
+        "year": "2015",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib37",
+        "first-page": "578",
+        "article-title": "Surgical management of tricuspid valve endocarditis in systemically infected patients",
+        "volume": "22",
+        "author": "Taghavi",
+        "year": "2013",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "330",
+        "DOI": "10.1093/ejechocard/jer253",
+        "article-title": "Vegetation size in patients with infective endocarditis",
+        "volume": "13",
+        "author": "Leitman",
+        "year": "2012",
+        "journal-title": "Eur Heart J Cardiovasc Imaging"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "560",
+        "DOI": "10.7326/0003-4819-117-7-560",
+        "article-title": "Right-sided endocarditis in intravenous drug users. Prognostic features in 102 episodes",
+        "volume": "117",
+        "author": "Hecht",
+        "year": "1992",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "1307",
+        "DOI": "10.2105/AJPH.81.10.1307",
+        "article-title": "Mortality of intravenous drug users in Rome: a cohort study",
+        "volume": "81",
+        "author": "Perucci",
+        "year": "1991",
+        "journal-title": "Am J Public Health"
+      },
+      {
+        "key": "10.1016/j.cjco.2021.02.015_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "1280",
+        "DOI": "10.1161/CIRCULATIONAHA.116.024156",
+        "article-title": "Surgical management of infective endocarditis complicated by embolic stroke: practical recommendations for clinicians",
+        "volume": "134",
+        "author": "Yanagawa",
+        "year": "2016",
+        "journal-title": "Circulation"
+      }
+    ],
+    "container-title": [
+      "CJC Open"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2589790X21000706?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2589790X21000706?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          7
+        ]
+      ],
+      "date-time": "2025-06-07T05:26:32Z",
+      "timestamp": 1749273992000
+    },
+    "score": 143.09787,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2589790X21000706"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S2589790X21000706"
+    ],
+    "URL": "https://doi.org/10.1016/j.cjco.2021.02.015",
+    "ISSN": [
+      "2589-790X"
+    ],
+    "issn-type": [
+      {
+        "value": "2589-790X",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          7
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Injection Drug Use Endocarditis: An Inner-City Hospital Experience",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "CJC Open",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.cjco.2021.02.015",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 The Authors. Published by Elsevier Inc. on behalf of the Canadian Cardiovascular Society.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          27
+        ]
+      ],
+      "date-time": "2026-01-27T21:58:02Z",
+      "timestamp": 1769551082069,
+      "version": "3.49.0"
+    },
+    "reference-count": 62,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1097/hco.0000000000000493",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          12
+        ]
+      ],
+      "date-time": "2017-12-12T21:52:32Z",
+      "timestamp": 1513115552000
+    },
+    "page": "140-147",
+    "source": "Crossref",
+    "is-referenced-by-count": 30,
+    "title": [
+      "Endocarditis in the setting of IDU"
+    ],
+    "prefix": "10.1097",
+    "volume": "33",
+    "author": [
+      {
+        "given": "Bobby",
+        "family": "Yanagawa",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anees",
+        "family": "Bahji",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Wiplove",
+        "family": "Lamba",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Darrell H.",
+        "family": "Tan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Asim",
+        "family": "Cheema",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ishba",
+        "family": "Syed",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Subodh",
+        "family": "Verma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "R2-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "1318",
+        "DOI": "10.1056/NEJMra010082",
+        "article-title": "Infective endocarditis in adults",
+        "volume": "345",
+        "author": "Mylonakis",
+        "year": "2001",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R3-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "167",
+        "DOI": "10.1016/S0733-8651(03)00025-0",
+        "article-title": "Infective endocarditis and cardiac surgery in intravenous drug abusers and HIV-1 infected patients",
+        "volume": "21",
+        "author": "Miro",
+        "year": "2003",
+        "journal-title": "Cardiol Clin"
+      },
+      {
+        "key": "R4-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "374",
+        "DOI": "10.1086/313664",
+        "article-title": "Right-side endocarditis in injection drug users: review of proposed mechanisms of pathogenesis",
+        "volume": "30",
+        "author": "Frontera",
+        "year": "2000",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R5-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "832",
+        "DOI": "10.1016/j.jtcvs.2016.02.072",
+        "article-title": "Surgical outcomes of infective endocarditis among intravenous drug users",
+        "volume": "152",
+        "author": "Kim",
+        "year": "2016",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "R6-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1111/jocs.12682",
+        "article-title": "Surgical and medical management of isolated tricuspid valve infective endocarditis in intravenous drug users",
+        "volume": "31",
+        "author": "Shetty",
+        "year": "2016",
+        "journal-title": "J Card Surg"
+      },
+      {
+        "key": "R7-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "529",
+        "DOI": "10.1177/070674371305800809",
+        "article-title": "The burden of mental illness and addiction in Ontario",
+        "volume": "58",
+        "author": "Ratnasingham",
+        "year": "2013",
+        "journal-title": "Can J Psychiatry"
+      },
+      {
+        "key": "R8-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.1080/00365540600978856",
+        "article-title": "In-hospital and long-term mortality in infective endocarditis in injecting drug users compared to nondrug users: a retrospective study of 192 episodes",
+        "volume": "39",
+        "author": "Thalme",
+        "year": "2007",
+        "journal-title": "Scand J Infect Dis"
+      },
+      {
+        "key": "R9-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1016/0002-8703(81)90418-X",
+        "article-title": "Presentation, management, and follow-up evaluation of infective endocarditis in drug addicts",
+        "volume": "102",
+        "author": "Hubbell",
+        "year": "1981",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "key": "R10-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "22146",
+        "DOI": "10.7448/IAS.20.1.22146",
+        "article-title": "Elimination of HCV as a public health concern among people who inject drugs by 2030 – what will it take to get there?",
+        "volume": "20",
+        "author": "Grebely",
+        "year": "2017",
+        "journal-title": "J Int AIDS Soc"
+      },
+      {
+        "key": "R11-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "886",
+        "DOI": "10.15288/jsad.2007.68.886",
+        "article-title": "The costs of alcohol, illegal drugs, and tobacco in Canada, 2002",
+        "volume": "68",
+        "author": "Rehm",
+        "year": "2007",
+        "journal-title": "J Stud Alcohol Drugs"
+      },
+      {
+        "key": "R12-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1055/s-0035-1551682",
+        "article-title": "High-risk cardiac surgery in patients with intravenous drug abuse and/or active hepatitis C or HIV infection: an ethical discussion of six cases",
+        "volume": "64",
+        "author": "Gansera",
+        "year": "2016",
+        "journal-title": "Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "R13-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1001/archinternmed.2008.603",
+        "article-title": "Clinical presentation, etiology, an outcome of IE in the 21st century",
+        "volume": "169",
+        "author": "Murdoch",
+        "year": "2009",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "R14-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1186/1749-8090-9-58",
+        "article-title": "Surgical treatment of infective endocarditis in active intravenous drug users: a justified procedure?",
+        "volume": "9",
+        "author": "Weymann",
+        "year": "2014",
+        "journal-title": "J Cardiothorac Surg"
+      },
+      {
+        "key": "R15-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "833",
+        "DOI": "10.7326/0003-4819-106-6-833",
+        "article-title": "Cocaine use and the risk for endocarditis in intravenous drug users",
+        "volume": "106",
+        "author": "Chambers",
+        "year": "1987",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R16-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "170",
+        "DOI": "10.1097/00005792-198305000-00004",
+        "article-title": "Staphylococcus aureus endocarditis: clinical manifestations in addicts and nonaddicts",
+        "volume": "62",
+        "author": "Chambers",
+        "year": "1983",
+        "journal-title": "Medicine (Baltimore"
+      },
+      {
+        "key": "R17-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "364",
+        "DOI": "10.1093/clinids/8.3.364",
+        "article-title": "Bacteremia in narcotic addicts at the Detroit Medical Center. I. Microbiology, epidemiology, risk factors, and empiric therapy",
+        "volume": "8",
+        "author": "Crane",
+        "year": "1986",
+        "journal-title": "Rev Infect Dis"
+      },
+      {
+        "key": "R18-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "560",
+        "DOI": "10.7326/0003-4819-117-7-560",
+        "article-title": "Right-sided endocarditis in intravenous drug users. Prognostic features in 102 episodes",
+        "volume": "117",
+        "author": "Hecht",
+        "year": "1992",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R19-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "1641",
+        "DOI": "10.1001/archinte.1995.00430150125013",
+        "article-title": "Clinical features, site of involvement, bacteriologic findings, and outcome of infective endocarditis in intravenous drug users",
+        "volume": "155",
+        "author": "Mathew",
+        "year": "1995",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "R20-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "1099",
+        "DOI": "10.1016/j.ahj.2005.02.009",
+        "article-title": "Analysis of mortality and risk factors associated with native valve endocarditis in drug users: the importance of vegetation size",
+        "volume": "150",
+        "author": "Martin-Davila",
+        "year": "2005",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "key": "R21-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "200",
+        "DOI": "10.1016/0002-9343(94)90143-0",
+        "article-title": "New criteria for diagnosis of infective endocarditis: utilization of specific echocardiographic findings. Duke Endocarditis Service",
+        "volume": "96",
+        "author": "Durack",
+        "year": "1994",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "R22-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1086/313753",
+        "article-title": "Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis",
+        "volume": "30",
+        "author": "Li",
+        "year": "2000",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R23-5-20210204",
+        "first-page": "118",
+        "article-title": "Factors other than the Duke criteria associated with infective endocarditis among injection drug users",
+        "volume": "25",
+        "author": "Palepu",
+        "year": "2002",
+        "journal-title": "Clin Invest Med"
+      },
+      {
+        "key": "R24-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "807",
+        "DOI": "10.1016/j.echo.2012.05.016",
+        "article-title": "Role of transthoracic and transesophageal echocardiography in right-sided endocarditis: one echocardiographic modality does not fit all",
+        "volume": "25",
+        "author": "San Román",
+        "year": "2012",
+        "journal-title": "J Am Soc Echocardiogr"
+      },
+      {
+        "key": "R25-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "566",
+        "DOI": "10.1097/00001648-199611000-00001",
+        "article-title": "Human immunodeficiency virus infection and infective endocarditis among injecting drug users",
+        "volume": "7",
+        "author": "Manoff",
+        "year": "1996",
+        "journal-title": "Epidemiology"
+      },
+      {
+        "key": "R26-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "2043",
+        "DOI": "10.1001/archinte.158.18.2043",
+        "article-title": "Influence of human immunodeficiency virus 1 infection and degree of immunosuppression in the clinical characteristics and outcome of infective endocarditis in intravenous drug users",
+        "volume": "158",
+        "author": "Ribera",
+        "year": "1998",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "R27-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "40",
+        "DOI": "10.1093/clinids/22.1.40",
+        "article-title": "Infective endocarditis in injection drug users: importance of human immunodeficiency virus serostatus and degree of immunosuppression",
+        "volume": "22",
+        "author": "Pulvirenti",
+        "year": "1996",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "R28-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "1435",
+        "DOI": "10.1161/CIR.0000000000000296",
+        "article-title": "Infective endocarditis in adults: diagnosis, antimicrobial therapy, and management of complications: a scientific statement for healthcare professionals from the American Heart Association",
+        "volume": "132",
+        "author": "Baddour",
+        "year": "2015",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "R29-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1016/S0002-9343(96)00070-8",
+        "article-title": "Oral antibiotic treatment of right-sided staphylococcal endocarditis in injection drug users: prospective randomized comparison with parenteral therapy",
+        "volume": "101",
+        "author": "Heldman",
+        "year": "1996",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "R30-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "1071",
+        "DOI": "10.1016/S0140-6736(89)91083-0",
+        "article-title": "Treatment of right-sided Staphylococcus aureus endocarditis in intravenous drug users with ciprofloxacin and rifampicin",
+        "volume": "2",
+        "author": "Dworkin",
+        "year": "1989",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "R31-5-20210204",
+        "first-page": "578",
+        "article-title": "Surgical management of tricuspid valve endocarditis in systemically infected patients",
+        "volume": "22",
+        "author": "Taghavi",
+        "year": "2013",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "key": "R32-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "330",
+        "DOI": "10.1093/ejechocard/jer253",
+        "article-title": "Vegetation size in patients with infective endocarditis",
+        "volume": "13",
+        "author": "Leitman",
+        "year": "2012",
+        "journal-title": "Eur Heart J Cardiovasc Imaging"
+      },
+      {
+        "key": "R33-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "510",
+        "DOI": "10.1016/j.ejim.2013.01.010",
+        "article-title": "Native valve right sided infective endocarditis",
+        "volume": "24",
+        "author": "Akinosoglou",
+        "year": "2013",
+        "journal-title": "Eur J Intern Med"
+      },
+      {
+        "key": "R34-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "873",
+        "DOI": "10.7326/0003-4819-121-11-199412010-00009",
+        "article-title": "Short-course antibiotic therapy for right-sided endocarditis caused by Staphylococcus aureus in injection drug users",
+        "volume": "121",
+        "author": "DiNubile",
+        "year": "1994",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "R35-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.athoracsur.2009.03.088",
+        "article-title": "Ethical obligation of surgeons to noncompliant patients: can a surgeon refuse to operate on an intravenous drug-abusing patient with recurrent aortic valve prosthesis infection?",
+        "volume": "88",
+        "author": "DiMaio",
+        "year": "2009",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "R36-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "875",
+        "DOI": "10.1016/j.athoracsur.2015.03.019",
+        "article-title": "Injection drug use and outcomes after surgical intervention for infective endocarditis",
+        "volume": "100",
+        "author": "Shrestha",
+        "year": "2015",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "R37-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "51",
+        "DOI": "10.1016/j.athoracsur.2011.08.016",
+        "article-title": "Long-term outcome for the surgical treatment of infective endocarditis with a focus on intravenous drug users",
+        "volume": "93",
+        "author": "Rabkin",
+        "year": "2012",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "R38-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "826",
+        "DOI": "10.1093/ejcts/ezu281",
+        "article-title": "Surgical management of infective endocarditis: an analysis of early and late outcomes",
+        "volume": "47",
+        "author": "Pang",
+        "year": "2015",
+        "journal-title": "Eur J Cardiothorac Surg"
+      },
+      {
+        "key": "R39-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "539",
+        "DOI": "10.1016/j.athoracsur.2014.08.069",
+        "article-title": "Contemporary outcomes of operations for tricuspid valve infective endocarditis",
+        "volume": "99",
+        "author": "Dawood",
+        "year": "2015",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "R40-5-20210204",
+        "first-page": "1435",
+        "article-title": "Treating drug abuse and addiction in the criminal justice system: improving public health and safety",
+        "volume": "132",
+        "author": "Chandler",
+        "year": "2015",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "R41-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "631",
+        "DOI": "10.1016/0735-1097(89)90104-6",
+        "article-title": "Echocardiography in infective endocarditis: reassessment of prognostic implications of vegetation size determined by the transthoracic and the transesophageal approach",
+        "volume": "14",
+        "author": "Mügge",
+        "year": "1989",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "R42-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "1191",
+        "DOI": "10.1016/0735-1097(91)90535-H",
+        "article-title": "Echocardiographic assessment of patients with infectious endocarditis: prediction of risk for complications",
+        "volume": "18",
+        "author": "Sanfilippo",
+        "year": "1991",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "R43-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1067/mhj.2001.115790",
+        "article-title": "The risk of stroke and death in patients with aortic and mitral valve endocarditis",
+        "volume": "142",
+        "author": "Cabell",
+        "year": "2001",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "key": "R44-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "1489",
+        "DOI": "10.1016/S0735-1097(02)01790-4",
+        "article-title": "Risk of embolization after institution of antibiotic therapy for infective endocarditis",
+        "volume": "39",
+        "author": "Vilacosta",
+        "year": "2002",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "R45-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "2052",
+        "DOI": "10.1016/j.jtcvs.2014.05.025",
+        "article-title": "Outcome after surgery for prosthetic valve endocarditis and the impact of preoperative treatment",
+        "volume": "148",
+        "author": "Grubitzsch",
+        "year": "2014",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "R46-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "S1754",
+        "DOI": "10.1016/S0003-4975(02)04129-2",
+        "article-title": "Reoperative cryopreserved root and ascending aorta replacement for acute aortic prosthetic valve endocarditis",
+        "volume": "74",
+        "author": "Lytle",
+        "year": "2002",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "R47-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "1204",
+        "DOI": "10.1016/j.athoracsur.2012.04.093",
+        "article-title": "Long-term results after operations for active infective endocarditis in native and prosthetic valves",
+        "volume": "94",
+        "author": "Meszaros",
+        "year": "2012",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "R48-5-20210204",
+        "first-page": "129",
+        "article-title": "Surgical treatment of intractable right-sided infective endocarditis in drug addicts: 25 years experience",
+        "volume": "2",
+        "author": "Arbulu",
+        "year": "1993",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "key": "R50-5-20210204",
+        "first-page": "575",
+        "article-title": "Six-year experience with cryopreserved mitral homografts in the treatment of tricuspid valve endocarditis in HIV-infected drug addicts",
+        "volume": "8",
+        "author": "Mestres",
+        "year": "1999",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "key": "R51-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "300",
+        "DOI": "10.1017/S1092852916000183",
+        "article-title": "Expanding the definition of addiction: DSM-5 vs ICD-11",
+        "volume": "21",
+        "author": "Grant",
+        "year": "2016",
+        "journal-title": "CNS Spectr"
+      },
+      {
+        "key": "R52-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "37",
+        "DOI": "10.1300/J069v25n04_04",
+        "article-title": "Life expectancy and productivity loss among narcotics addicts thirty-three years after index treatment",
+        "volume": "25",
+        "author": "Smyth",
+        "year": "2006",
+        "journal-title": "J Addict Dis"
+      },
+      {
+        "key": "R53-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "369",
+        "DOI": "10.1016/j.ypmed.2006.10.003",
+        "article-title": "Years of potential life lost among heroin addicts 33 years after treatment",
+        "volume": "44",
+        "author": "Smyth",
+        "year": "2007",
+        "journal-title": "Prev Med"
+      },
+      {
+        "key": "R55-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1186/2046-4053-3-105",
+        "article-title": "The effectiveness of opioid substitution treatments for patients with opioid dependence: a systematic review and multiple treatment comparison protocol",
+        "volume": "3",
+        "author": "Dennis",
+        "year": "2014",
+        "journal-title": "Syst Rev"
+      },
+      {
+        "key": "R56-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "673",
+        "DOI": "10.1136/medethics-2013-101320",
+        "article-title": "What's trust got to do with it? Revisiting opioid contracts",
+        "volume": "40",
+        "author": "Buchman",
+        "year": "2014",
+        "journal-title": "J Med Ethics"
+      },
+      {
+        "key": "R57-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "1637",
+        "DOI": "10.1111/j.1360-0443.1992.tb02676.x",
+        "article-title": "The impact of intravenous drug use on mortality of young adults in Rome, Italy",
+        "volume": "87",
+        "author": "Perucci",
+        "year": "1992",
+        "journal-title": "Br J Addict"
+      },
+      {
+        "key": "R58-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1111/jebm.12067",
+        "article-title": "Cochrane systematic reviews in the field of addiction: past and future",
+        "volume": "6",
+        "author": "Amato",
+        "year": "2013",
+        "journal-title": "J Evid Based Med"
+      },
+      {
+        "key": "R59-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "e008965",
+        "DOI": "10.1136/bmjopen-2015-008965",
+        "article-title": "Community IntraVenous Antibiotic Study (CIVAS): protocol for an evaluation of patient preferences for and cost-effectiveness of community intravenous antibiotic services",
+        "volume": "5",
+        "author": "Czoski Murray",
+        "year": "2015",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "key": "R60-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1136/ewjm.174.3.157",
+        "article-title": "Is it acceptable to discharge a heroin user with an intravenous line to complete his antibiotic therapy for cellulitis at home under a nurse's supervision?",
+        "volume": "174",
+        "author": "Mallon",
+        "year": "2001",
+        "journal-title": "West J Med"
+      },
+      {
+        "key": "R61-5-20210204",
+        "first-page": "447",
+        "article-title": "Treatment of alcohol dependence: recent progress and reduction of consumption",
+        "volume": "105",
+        "author": "Testino",
+        "year": "2014",
+        "journal-title": "Minerva Med"
+      },
+      {
+        "key": "R62-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "1596",
+        "DOI": "10.1056/NEJMra1604339",
+        "article-title": "Treatment of opioid-use disorders",
+        "volume": "375",
+        "author": "Schuckit",
+        "year": "2016",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R63-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1016/j.drugalcdep.2014.10.012",
+        "article-title": "Supervised injection services: what has been demonstrated? A systematic review",
+        "volume": "145",
+        "author": "Potier",
+        "year": "2014",
+        "journal-title": "Drug Alcohol Depend"
+      },
+      {
+        "key": "R64-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "447",
+        "DOI": "10.1001/jamapsychiatry.2016.0109",
+        "article-title": "Hydromorphone compared with diacetylmorphine for long-term opioid dependence: an RCT",
+        "volume": "73",
+        "author": "Oviedo-Joekes",
+        "year": "2016",
+        "journal-title": "JAMA Psychiatry"
+      },
+      {
+        "key": "R65-5-20210204",
+        "doi-asserted-by": "crossref",
+        "first-page": "677",
+        "DOI": "10.1016/j.jtcvs.2016.05.014",
+        "article-title": "Missing the forest for the trees: the world around us and surgical treatment of endocarditis",
+        "volume": "152",
+        "author": "Ferraris",
+        "year": "2016",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      }
+    ],
+    "container-title": [
+      "Current Opinion in Cardiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.1097/HCO.0000000000000493",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2021-05-14T00:46:26Z",
+      "timestamp": 1620953186000
+    },
+    "score": 43.330242,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/00001573-201803000-00005"
+      }
+    },
+    "subtitle": [
+      "multidisciplinary management"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "references-count": 62,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1097/hco.0000000000000493",
+    "ISSN": [
+      "0268-4705"
+    ],
+    "issn-type": [
+      {
+        "value": "0268-4705",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          11
+        ]
+      ],
+      "date-time": "2026-06-11T21:03:45Z",
+      "timestamp": 1781211825365,
+      "version": "3.54.1"
+    },
+    "reference-count": 19,
+    "publisher": "Elsevier BV",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2026-06-01T00:00:00Z",
+          "timestamp": 1780272000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2026-06-01T00:00:00Z",
+          "timestamp": 1780272000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              2,
+              18
+            ]
+          ],
+          "date-time": "2026-02-18T00:00:00Z",
+          "timestamp": 1771372800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "cjcopen.ca",
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "CJC Open"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cjco.2026.02.011",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          23
+        ]
+      ],
+      "date-time": "2026-02-23T17:02:32Z",
+      "timestamp": 1771866152000
+    },
+    "page": "715-718",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Implementation of Integrated Behavioural Health in Outpatient Cardiology Care for Patients with Injection Drug Use–Associated Infective Endocarditis"
+    ],
+    "prefix": "10.1016",
+    "volume": "8",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5171-1625",
+        "authenticated-orcid": false,
+        "given": "Elizabeth",
+        "family": "Charron",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bijay",
+        "family": "Rimal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brandt",
+        "family": "Wiskur",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Feross",
+        "family": "Karrit",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Frieda",
+        "family": "Freeman-Cooper",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nelson Iván Agudelo",
+        "family": "Higuita",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Brand",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib1",
+        "article-title": "The global, regional, and national burden and trends of infective endocarditis from 1990 to 2019: results from the global burden of disease study 2019",
+        "volume": "9",
+        "author": "Chen",
+        "year": "2022",
+        "journal-title": "Front Med (Lausanne)"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib2",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.drugpo.2023.104110",
+        "article-title": "Rising rates of infective endocarditis in North America: an urgent need for attention to the rapidly changing unregulated drug supply",
+        "volume": "118",
+        "author": "Palis",
+        "year": "2023",
+        "journal-title": "Int J Drug Policy"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/j.jacc.2018.10.082",
+        "article-title": "Clinical outcomes of infective endocarditis in injection drug users",
+        "volume": "73",
+        "author": "Rudasill",
+        "year": "2019",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "479",
+        "DOI": "10.1016/j.idc.2020.06.004",
+        "article-title": "Infective endocarditis in persons who use drugs: epidemiology, current management, and emerging treatments",
+        "volume": "34",
+        "author": "Schranz",
+        "year": "2020",
+        "journal-title": "Infect Dis Clin North Am"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "564",
+        "DOI": "10.1093/cid/ciz869",
+        "article-title": "Long-term outcomes are poor in intravenous drug users following infective endocarditis, even after surgery",
+        "volume": "71",
+        "author": "Straw",
+        "year": "2020",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1338",
+        "DOI": "10.1016/j.jacc.2024.01.034",
+        "article-title": "Strategies to improve patient-centered care for drug use-associated infective endocarditis: JACC Focus Seminar 2/4",
+        "volume": "83",
+        "author": "Wurcel",
+        "year": "2024",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib7",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1093/ofid/ofad444",
+        "article-title": "Multidisciplinary teams for the management of infective endocarditis: a systematic review and meta-analysis",
+        "volume": "10",
+        "author": "Roy",
+        "year": "2023",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1097/HPC.0000000000000224",
+        "article-title": "A multidisciplinary pathway for the diagnosis and treatment of infectious endocarditis",
+        "volume": "19",
+        "author": "Gibbons",
+        "year": "2020",
+        "journal-title": "Crit Pathw Cardiol"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib9",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ijcard.2023.131638",
+        "article-title": "Beyond a team: the comprehensive interdisciplinary endocarditis program in the United States",
+        "volume": "397",
+        "author": "El-Dalati",
+        "year": "2024",
+        "journal-title": "Int J Cardiol"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "375",
+        "DOI": "10.1097/ADM.0000000000000916",
+        "article-title": "The need for multidisciplinary hospital teams for injection drug use-related infective endocarditis",
+        "volume": "16",
+        "author": "Weimer",
+        "year": "2022",
+        "journal-title": "J Addict Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1675",
+        "DOI": "10.1002/pon.6217",
+        "article-title": "Responding to distress in cancer care: Increasing access to psycho oncology services through integrated collaborative care",
+        "volume": "32",
+        "author": "Aburizik",
+        "year": "2023",
+        "journal-title": "Psychooncology"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib14",
+        "article-title": "Collaborative care to improve quality of life for anxiety and depression in posttraumatic epilepsy (CoCarePTE): protocol for a randomized hybrid effectiveness-implementation trial",
+        "volume": "13",
+        "author": "Clary",
+        "year": "2024",
+        "journal-title": "JMIR Res Protoc"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "606",
+        "DOI": "10.1046/j.1525-1497.2001.016009606.x",
+        "article-title": "The PHQ-9: validity of a brief depression severity measure",
+        "volume": "16",
+        "author": "Kroenke",
+        "year": "2001",
+        "journal-title": "J Gen Intern Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1092",
+        "DOI": "10.1001/archinte.166.10.1092",
+        "article-title": "A brief measure for assessing generalized anxiety disorder: the GAD-7",
+        "volume": "166",
+        "author": "Spitzer",
+        "year": "2006",
+        "journal-title": "Archiv Intern Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "791",
+        "DOI": "10.1111/j.1360-0443.1993.tb02093.x",
+        "article-title": "Development of the alcohol use disorders identification test (AUDIT): WHO collaborative project on early detection of persons with harmful alcohol consumption-II",
+        "volume": "88",
+        "author": "Saunders",
+        "year": "1993",
+        "journal-title": "Addiction"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1016/0021-9681(87)90171-8",
+        "article-title": "A new method of classifying prognostic comorbidity in longitudinal studies: development and validation",
+        "volume": "40",
+        "author": "Charlson",
+        "year": "1987",
+        "journal-title": "J Chron Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1092",
+        "DOI": "10.1093/aje/kwq224",
+        "article-title": "Statistical criteria for selecting the optimal number of untreated subjects matched to each treated subject when using many-to-one matching on the propensity score",
+        "volume": "172",
+        "author": "Austin",
+        "year": "2010",
+        "journal-title": "Am J Epidemiol"
+      },
+      {
+        "issue": "8 Suppl",
+        "key": "10.1016/j.cjco.2026.02.011_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "S84",
+        "DOI": "10.1016/j.jclinepi.2013.01.013",
+        "article-title": "Prognostic score-based balance measures can be a useful diagnostic for propensity score methods in comparative effectiveness research",
+        "volume": "66",
+        "author": "Stuart",
+        "year": "2013",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.cjco.2026.02.011_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "e187",
+        "DOI": "10.1161/CIR.0000000000001090",
+        "article-title": "Management of infective endocarditis in people who inject drugs: a scientific statement from the American Heart Association",
+        "volume": "146",
+        "author": "Baddour",
+        "year": "2022",
+        "journal-title": "Circulation"
+      }
+    ],
+    "container-title": [
+      "CJC Open"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2589790X26000491?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2589790X26000491?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          11
+        ]
+      ],
+      "date-time": "2026-06-11T20:17:26Z",
+      "timestamp": 1781209046000
+    },
+    "score": 41.86568,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2589790X26000491"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "references-count": 19,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S2589790X26000491"
+    ],
+    "URL": "https://doi.org/10.1016/j.cjco.2026.02.011",
+    "ISSN": [
+      "2589-790X"
+    ],
+    "issn-type": [
+      {
+        "value": "2589-790X",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Implementation of Integrated Behavioural Health in Outpatient Cardiology Care for Patients with Injection Drug Use–Associated Infective Endocarditis",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "CJC Open",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.cjco.2026.02.011",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2026 The Authors. Published by Elsevier Inc. on behalf of the Canadian Cardiovascular Society.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2025-11-12T21:53:05Z",
+      "timestamp": 1762984385498,
+      "version": "3.45.0"
+    },
+    "reference-count": 6,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2021-12-01T00:00:00Z",
+          "timestamp": 1638316800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2021-12-01T00:00:00Z",
+          "timestamp": 1638316800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              27
+            ]
+          ],
+          "date-time": "2021-05-27T00:00:00Z",
+          "timestamp": 1622073600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "jtcvsopen.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "JTCVS Open"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.xjon.2021.05.016",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          29
+        ]
+      ],
+      "date-time": "2021-05-29T20:25:01Z",
+      "timestamp": 1622319901000
+    },
+    "page": "321-322",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "C",
+    "title": [
+      "Commentary: Collective responsibility in combating injection drug use-related endocarditis"
+    ],
+    "prefix": "10.1016",
+    "volume": "8",
+    "author": [
+      {
+        "given": "Ari A.",
+        "family": "Mennander",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.xjon.2021.05.016_bib1",
+        "first-page": "315",
+        "article-title": "The opioid epidemic and endocarditis: frontiers in the management of injection drug use-related endocarditis",
+        "volume": "8",
+        "author": "Mori",
+        "year": "2021",
+        "journal-title": "J Thorac Cardiovasc Surg Open"
+      },
+      {
+        "key": "10.1016/j.xjon.2021.05.016_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1016/j.surg.2007.02.008",
+        "article-title": "Patient care is a collective responsibility: perceptions of professional responsibility in surgery",
+        "volume": "142",
+        "author": "Park",
+        "year": "2007",
+        "journal-title": "Surgery"
+      },
+      {
+        "key": "10.1016/j.xjon.2021.05.016_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "1427",
+        "DOI": "10.1016/S0140-6736(16)00619-X",
+        "article-title": "Public health and international drug policy",
+        "volume": "387",
+        "author": "Csete",
+        "year": "2016",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.xjon.2021.05.016_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "352",
+        "DOI": "10.3109/10826084.2013.841242",
+        "article-title": "Substance misuse prevention as corporate social responsibility",
+        "volume": "49",
+        "author": "Radacsi",
+        "year": "2014",
+        "journal-title": "Substance Use Misuse"
+      },
+      {
+        "key": "10.1016/j.xjon.2021.05.016_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "656",
+        "DOI": "10.1016/S0140-6736(20)31860-2",
+        "article-title": "Offline: strengthening the voice of medicine in society",
+        "volume": "396",
+        "author": "Horton",
+        "year": "2020",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.xjon.2021.05.016_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1016/S0140-6736(20)31643-3",
+        "article-title": "The art of medicine. Moral responsibility in medicine: where are the boundaries?",
+        "volume": "396",
+        "author": "Rogers",
+        "year": "2020",
+        "journal-title": "Lancet"
+      }
+    ],
+    "container-title": [
+      "JTCVS Open"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2666273621001236?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2666273621001236?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2025-11-12T20:46:38Z",
+      "timestamp": 1762980398000
+    },
+    "score": 40.229465,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2666273621001236"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "references-count": 6,
+    "alternative-id": [
+      "S2666273621001236"
+    ],
+    "URL": "https://doi.org/10.1016/j.xjon.2021.05.016",
+    "ISSN": [
+      "2666-2736"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "2666-2736"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Commentary: Collective responsibility in combating injection drug use-related endocarditis",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "JTCVS Open",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.xjon.2021.05.016",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.xjon.2021.05.021",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 The Author(s). Published by Elsevier Inc. on behalf of The American Association for Thoracic Surgery.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          24
+        ]
+      ],
+      "date-time": "2026-01-24T07:49:15Z",
+      "timestamp": 1769240955920,
+      "version": "3.49.0"
+    },
+    "reference-count": 37,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2020-09-01T00:00:00Z",
+          "timestamp": 1598918400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              5,
+              19
+            ]
+          ],
+          "date-time": "2020-05-19T00:00:00Z",
+          "timestamp": 1589846400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100007670",
+        "name": "Dalhousie Medical Research Foundation",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100007670",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "cjcopen.ca",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "CJC Open"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.cjco.2020.05.002",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          22
+        ]
+      ],
+      "date-time": "2020-05-22T21:56:14Z",
+      "timestamp": 1590184574000
+    },
+    "page": "379-385",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Epidemiology, Microbiology, and Clinical Outcomes Among Patients With Intravenous Drug Use-Associated Infective Endocarditis in New Brunswick"
+    ],
+    "prefix": "10.1016",
+    "volume": "2",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1274-0762",
+        "authenticated-orcid": false,
+        "given": "Kimiko",
+        "family": "Mosseler",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Stefanie",
+        "family": "Materniak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Thomas D.",
+        "family": "Brothers",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7692-7150",
+        "authenticated-orcid": false,
+        "given": "Duncan",
+        "family": "Webster",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "136",
+        "DOI": "10.1177/0706743716632503",
+        "article-title": "Epidemiology of injection drug use",
+        "volume": "61",
+        "author": "Roy",
+        "year": "2016",
+        "journal-title": "Can J Psychiatry"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib3",
+        "first-page": "e1",
+        "article-title": "Prevalence of injecting drug use and coverage of interventions to prevent HIV and hepatitis C virus infection among people who inject drugs in Canada",
+        "volume": "14",
+        "author": "Jacka",
+        "year": "2019",
+        "journal-title": "Am J Public Health"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib4",
+        "first-page": "1046",
+        "article-title": "Infective endocarditis: prevention, diagnosis, and management",
+        "volume": "30",
+        "author": "Thuny",
+        "year": "2014",
+        "journal-title": "Can J Cardiol"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib5",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1177/2050312117741772",
+        "article-title": "A retrospective epidemiologic study to define risk factors, microbiology, and clinical outcomes of infective endocarditis in a large tertiary-care teaching hospital",
+        "volume": "5",
+        "author": "Mostaghim",
+        "year": "2017",
+        "journal-title": "SAGE Open Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "603",
+        "DOI": "10.1016/j.amjms.2016.08.010",
+        "article-title": "Opiate injection-associated infective endocarditis in the southeastern United States",
+        "volume": "352",
+        "author": "Hartman",
+        "year": "2016",
+        "journal-title": "Am J Med Sci"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "36",
+        "DOI": "10.1097/CXA.0000000000000053",
+        "article-title": "Rates of infective endocarditis in substance use disorder and associated costs in Ontario",
+        "volume": "10",
+        "author": "Coverdale",
+        "year": "2019",
+        "journal-title": "Can J Addict"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "E93",
+        "DOI": "10.1503/cmaj.180694",
+        "article-title": "The risk of infective endocarditis among people who inject drugs: a retrospective, population-based time series analysis",
+        "volume": "191",
+        "author": "Weir",
+        "year": "2019",
+        "journal-title": "CMAJ"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.7326/M18-2124",
+        "article-title": "Trends in drug use–associated infective endocarditis and heart valve surgery, 2007 to 2017: a study of statewide discharge data",
+        "volume": "170",
+        "author": "Schranz",
+        "year": "2019",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "532",
+        "DOI": "10.1186/s12879-018-3408-y",
+        "article-title": "Rising rates of injection drug use associated infective endocarditis in Virginia with missed opportunities for addiction treatment referral: a retrospective cohort study",
+        "volume": "18",
+        "author": "Gray",
+        "year": "2018",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "issue": "Suppl 1",
+        "key": "10.1016/j.cjco.2020.05.002_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "S306",
+        "DOI": "10.1093/ofid/ofy210.863",
+        "article-title": "Trends in infective endocarditis during the substance use disorder epidemic at an academic medical center",
+        "volume": "5",
+        "author": "Martin",
+        "year": "2018",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "ofw157",
+        "DOI": "10.1093/ofid/ofw157",
+        "article-title": "Increasing infectious endocarditis admissions among young people who inject drugs",
+        "volume": "3",
+        "author": "Wurcel",
+        "year": "2016",
+        "journal-title": "Open Forum Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib13",
+        "article-title": "Geographic trends, patient characteristics, and outcomes of infective endocarditis associated with drug abuse in the United States from 2002 to 2016",
+        "volume": "8",
+        "author": "Kadri",
+        "year": "2019",
+        "journal-title": "J Am Heart Assoc"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/j.jacc.2018.10.082",
+        "article-title": "Clinical outcomes of infective endocarditis in injection drug users",
+        "volume": "73",
+        "author": "Rudasill",
+        "year": "2019",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1596",
+        "DOI": "10.1016/j.jacc.2018.02.011",
+        "article-title": "Admissions for infective endocarditis in intravenous drug users",
+        "volume": "71",
+        "author": "Deo",
+        "year": "2018",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1400",
+        "DOI": "10.3201/eid2308.170439",
+        "article-title": "Opiate injection-associated skin, soft tissue, and vascular infections, England, UK, 1997-2016",
+        "volume": "23",
+        "author": "Lewer",
+        "year": "2017",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "105",
+        "DOI": "10.1136/postgradmedj-2015-133648",
+        "article-title": "Infective endocarditis in intravenous drug users: a review article",
+        "volume": "92",
+        "author": "Colville",
+        "year": "2016",
+        "journal-title": "Postgrad Med J"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1426",
+        "DOI": "10.1016/j.athoracsur.2019.09.004",
+        "article-title": "Impact of substance use disorder on midterm mortality after valve surgery for endocarditis",
+        "volume": "109",
+        "author": "Wurcel",
+        "year": "2020",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "832",
+        "DOI": "10.1016/j.jtcvs.2016.02.072",
+        "article-title": "Surgical outcomes of infective endocarditis among intravenous drug users",
+        "volume": "152",
+        "author": "Kim",
+        "year": "2016",
+        "journal-title": "J Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1089/sur.2016.029",
+        "article-title": "Patients with infectious endocarditis and drug dependence have worse clinical outcomes after valvular surgery",
+        "volume": "18",
+        "author": "Lemaire",
+        "year": "2017",
+        "journal-title": "Surg Infect"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1086/313753",
+        "article-title": "Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis",
+        "volume": "30",
+        "author": "Li",
+        "year": "2000",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "481",
+        "DOI": "10.1016/j.amjmed.2015.09.024",
+        "article-title": "Suboptimal addiction interventions for patients hospitalized with injection drug use-associated infective endocarditis",
+        "volume": "129",
+        "author": "Rosenthal",
+        "year": "2016",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "186",
+        "DOI": "10.1016/0002-9343(50)90021-0",
+        "article-title": "Infections resulting from narcotic addiction: report of 102 cases",
+        "volume": "9",
+        "author": "Hussey",
+        "year": "1950",
+        "journal-title": "Am J Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "645",
+        "DOI": "10.1016/S0891-5520(02)00019-3",
+        "article-title": "Infective endocarditis in the injection drug user",
+        "volume": "16",
+        "author": "Brown",
+        "year": "2002",
+        "journal-title": "Infect Dis Clin North Am"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib26",
+        "first-page": "291",
+        "article-title": "The relationship between causative microorganisms and cardiac lesions caused by infective endocarditis: new perspectives from the contemporary cohort of patients",
+        "volume": "71",
+        "author": "Trifunovic",
+        "year": "2018",
+        "journal-title": "J Cardiol"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib27",
+        "article-title": "A controlled-release oral opioid supports S. aureus survival in injection drug preparation equipment and may increase bacteremia and endocarditis risk",
+        "volume": "14",
+        "author": "Kasper",
+        "year": "2019",
+        "journal-title": "PLoS One"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "130",
+        "DOI": "10.1016/j.drugpo.2018.03.019",
+        "article-title": "The opioid epidemic and injection drug use: MIPIE and health harms related to the injection of prescription opioids",
+        "volume": "57",
+        "author": "Mateu-Gelabert",
+        "year": "2018",
+        "journal-title": "Int J Drug Policy"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1142",
+        "DOI": "10.3109/10826084.2011.552932",
+        "article-title": "The growing popularity of prescription opioid injection in Downtown Montréal: new challenges for harm reduction",
+        "volume": "46",
+        "author": "Roy",
+        "year": "2011",
+        "journal-title": "Subst Use Misuse"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.7326/M18-3026",
+        "article-title": "Drug-associated infective endocarditis trends: what’s all the buzz about?",
+        "volume": "170",
+        "author": "Wurcel",
+        "year": "2019",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1016/j.drugpo.2019.10.004",
+        "article-title": "Associations between perceived illicit fentanyl use and infectious disease risks among people who inject drugs",
+        "volume": "74",
+        "author": "Lambdin",
+        "year": "2019",
+        "journal-title": "Int J Drug Policy"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib32",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1136/openhrt-2017-000699",
+        "article-title": "Inception of the ‘endocarditis team’ is associated with improved survival in patients with infective endocarditis who are managed medically: findings from a before-and-after study",
+        "volume": "4",
+        "author": "Kaura",
+        "year": "2017",
+        "journal-title": "Open Heart"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib33",
+        "unstructured": "Brothers TD, Webster D. Multidisciplinary infective endocarditis care teams should address substance use disorders and harm reduction services [e-pub ahead of print]. Open Heart. Available at: https://openheart.bmj.com/content/4/2/e000699.responses#multidisciplinary-infective-endocarditis-care-teams-should-address-substance-use-disorders-and-harm-reduction-services."
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib34",
+        "doi-asserted-by": "crossref",
+        "first-page": "1935",
+        "DOI": "10.1093/cid/ciy924",
+        "article-title": "Addiction medicine consultations reduce readmission rates for patients with serious infections from opioid use disorder",
+        "volume": "68",
+        "author": "Marks",
+        "year": "2019",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib35",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/jamanetworkopen.2018.5220",
+        "article-title": "Clinical characteristics and factors associated with mortality in first-episode infective endocarditis among persons who inject drugs",
+        "volume": "1",
+        "author": "Rodger",
+        "year": "2018",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "566",
+        "DOI": "10.1111/1469-0691.12395",
+        "article-title": "Repeat endocarditis: analysis of risk factors based on the International Collaboration on Endocarditis – Prospective Cohort Study",
+        "volume": "20",
+        "author": "Alagna",
+        "year": "2014",
+        "journal-title": "Clin Microbiol Infect"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib37",
+        "first-page": "6",
+        "article-title": "Infectious endocarditis: diagnosis and treatment",
+        "volume": "85",
+        "author": "Pierce",
+        "year": "2012",
+        "journal-title": "Am Fam Physician"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1093/icvts/ivv397",
+        "article-title": "Cardiac surgery for infective endocarditis in patients with intravenous drug use",
+        "volume": "22",
+        "author": "Østerdal",
+        "year": "2016",
+        "journal-title": "Interact Cardiovasc Thorac Surg"
+      },
+      {
+        "key": "10.1016/j.cjco.2020.05.002_bib39",
+        "first-page": "1416",
+        "article-title": "Making the cut: perspectives on the surgical management of infective endocarditis among people who use intravenous drugs",
+        "volume": "35",
+        "author": "Buchanan",
+        "year": "2019",
+        "journal-title": "Can J Cardiol"
+      }
+    ],
+    "container-title": [
+      "CJC Open"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2589790X20300615?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2589790X20300615?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2025-11-11T23:01:59Z",
+      "timestamp": 1762902119000
+    },
+    "score": 39.13136,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2589790X20300615"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "references-count": 37,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S2589790X20300615"
+    ],
+    "URL": "https://doi.org/10.1016/j.cjco.2020.05.002",
+    "ISSN": [
+      "2589-790X"
+    ],
+    "issn-type": [
+      {
+        "value": "2589-790X",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Epidemiology, Microbiology, and Clinical Outcomes Among Patients With Intravenous Drug Use-Associated Infective Endocarditis in New Brunswick",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "CJC Open",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.cjco.2020.05.002",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Crown Copyright © 2020 Published by Elsevier Inc. on behalf of the Canadian Cardiovascular Society.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

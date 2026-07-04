@@ -1,0 +1,2023 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2026-05-15T02:00:10Z",
+      "timestamp": 1778810410731,
+      "version": "3.51.4"
+    },
+    "reference-count": 32,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2016-03-01T00:00:00Z",
+          "timestamp": 1456790400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.jp",
+        "clinicalkey.com",
+        "journals.elsevierhealth.com",
+        "clinicalkey.es",
+        "clinicalkey.com.au",
+        "clinicalkey.fr",
+        "europeanurology.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2015.08.005",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          8,
+          19
+        ]
+      ],
+      "date-time": "2015-08-19T04:30:37Z",
+      "timestamp": 1439958637000
+    },
+    "page": "485-495",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 114,
+    "title": [
+      "Total Anatomical Reconstruction During Robot-assisted Radical Prostatectomy: Implications on Early Recovery of Urinary Continence"
+    ],
+    "prefix": "10.1016",
+    "volume": "69",
+    "author": [
+      {
+        "given": "Francesco",
+        "family": "Porpiglia",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Riccardo",
+        "family": "Bertolo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Matteo",
+        "family": "Manfredi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Stefano",
+        "family": "De Luca",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Checcucci",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ivano",
+        "family": "Morra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Roberto",
+        "family": "Passera",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cristian",
+        "family": "Fiori",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "1007",
+        "DOI": "10.1111/j.1464-410X.2011.10521.x",
+        "article-title": "Critical review of ‘pentafecta’ outcomes after robot-assisted laparoscopic prostatectomy in high-volume centres",
+        "volume": "108",
+        "author": "Patel",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "article-title": "Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "1028",
+        "DOI": "10.1016/j.juro.2010.04.069",
+        "article-title": "Evaluating urinary continence and preoperative predictors of urinary continence after robot assisted laparoscopic radical prostatectomy",
+        "volume": "184",
+        "author": "Novara",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "1803",
+        "DOI": "10.1016/j.juro.2010.01.016",
+        "article-title": "Robotic radical prostatectomy for elderly patients: probability of achieving continence and potency 1 year after surgery",
+        "volume": "183",
+        "author": "Shikanov",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "928",
+        "DOI": "10.1016/j.juro.2008.05.029",
+        "article-title": "The impact of prostate gland weight in robot assisted laparoscopic radical prostatectomy",
+        "volume": "180",
+        "author": "Link",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "1117",
+        "DOI": "10.1016/j.urology.2010.03.060",
+        "article-title": "Does robotic technology mitigate the challenges of large prostate size?",
+        "volume": "76",
+        "author": "Skolarus",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "444",
+        "DOI": "10.1111/j.1442-2042.2011.02760.x",
+        "article-title": "Early recovery of urinary continence after radical prostatectomy: correlation with vesico-urethral anastomosis location in the pelvic cavity measured by postoperative cystography",
+        "volume": "18",
+        "author": "Jeong",
+        "year": "2011",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "480",
+        "DOI": "10.1016/j.eururo.2011.10.044",
+        "article-title": "Updated nomogram predicting lymph node invasion in patients with prostate cancer undergoing extended pelvic lymph node dissection: the essential importance of percentage of positive cores",
+        "volume": "61",
+        "author": "Briganti",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1016/S0090-4295(96)00216-6",
+        "article-title": "A prospective study of quantification of urinary incontinence and quality of life in patients undergoing radical retropubic prostatectomy",
+        "volume": "48",
+        "author": "Jønler",
+        "year": "1996",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1046/j.1464-410X.2003.04311.x",
+        "article-title": "Members of the VIP Team. A prospective comparison of radical retropubic and robot-assisted prostatectomy: experience in one institution",
+        "volume": "92",
+        "author": "Tewari",
+        "year": "2003",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "534",
+        "DOI": "10.1111/j.1464-410X.2009.08419.x",
+        "article-title": "A prospective, non-randomized trial comparing robot-assisted laparoscopic and retropubic radical prostatectomy in one European institution",
+        "volume": "104",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "991",
+        "DOI": "10.1111/j.1464-410X.2009.08532.x",
+        "article-title": "Robotic vs open prostatectomy in a laparoscopically naive center: a matched-pair analysis",
+        "volume": "104",
+        "author": "Rocco",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.eururo.2010.10.026",
+        "article-title": "A prospective trial comparing consecutive series of open retropubic and robot-assisted laparoscopic radical prostatectomy in a centre with a limited caseload",
+        "volume": "59",
+        "author": "Di Pierro",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "606",
+        "DOI": "10.1016/j.eururo.2012.07.007",
+        "article-title": "Randomized controlled trial comparing laparoscopic and robot-assisted radical prostatectomy",
+        "volume": "63",
+        "author": "Porpiglia",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "572",
+        "DOI": "10.1016/j.urology.2011.03.069",
+        "article-title": "Anastomosis during robot-assisted radical prostatectomy: randomized controlled trial comparing barbed and standard monofilament suture",
+        "volume": "78",
+        "author": "Sammon",
+        "year": "2011",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "78",
+        "DOI": "10.1097/MOU.0b013e32835b0ae5",
+        "article-title": "Anatomic and technical considerations for optimizing recovery of urinary function during robotic-assisted radical prostatectomy",
+        "volume": "23",
+        "author": "Vora",
+        "year": "2013",
+        "journal-title": "Curr Opin Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "875",
+        "DOI": "10.1111/j.1464-410X.2011.10849.x",
+        "article-title": "Anterior suspension combined with posterior reconstruction during robot-assisted laparoscopic prostatectomy improves early return of urinary continence: a prospective randomized multicenter trial",
+        "volume": "110",
+        "author": "Hurtes",
+        "year": "2012",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "999",
+        "DOI": "10.1111/j.1464-410X.2011.10529.x",
+        "article-title": "Balancing continence function and oncological outcomes during robot-assisted radical prostatectomy (RARP)",
+        "volume": "108",
+        "author": "Mottrie",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "29",
+        "DOI": "10.4111/kju.2012.53.1.29",
+        "article-title": "Effect of bladder neck preservation and posterior urethral reconstruction during robot-assisted laparoscopic radical prostatectomy for urinary continence",
+        "volume": "53",
+        "author": "You",
+        "year": "2012",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.eururo.2010.08.025",
+        "article-title": "Influence of modified posterior reconstruction of the rhabdosphincter on early recovery of continence and anastomotic leakage rates after robot-assisted radical prostatectomy",
+        "volume": "59",
+        "author": "Coelho",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1016/j.eururo.2009.06.007",
+        "article-title": "Periurethral suspension stitch during robot-assisted laparoscopic radical prostatectomy: description of the technique and continence outcomes",
+        "volume": "56",
+        "author": "Patel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "734",
+        "DOI": "10.1016/j.urology.2010.01.073",
+        "article-title": "Posterior rhabdosphincter reconstruction during robot-assisted radical prostatectomy: critical analysis of techniques and outcomes",
+        "volume": "76",
+        "author": "Gautam",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "972",
+        "DOI": "10.1016/j.eururo.2009.09.017",
+        "article-title": "Anatomic bladder neck preservation during robotic-assisted laparoscopic radical prostatectomy: description of technique and outcomes",
+        "volume": "56",
+        "author": "Freire",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "376",
+        "DOI": "10.1016/j.eururo.2007.01.109",
+        "article-title": "Early continence recovery after open radical prostatectomy with restoration of the posterior aspect of the rhabdosphincter",
+        "volume": "52",
+        "author": "Rocco",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "871",
+        "DOI": "10.1111/j.1464-410X.2008.07424.x",
+        "article-title": "Total reconstruction of the vesico-urethral junction",
+        "volume": "101",
+        "author": "Tewari",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1016/j.eururo.2010.03.028",
+        "article-title": "Impact of posterior musculofascial reconstruction on early continence after robot-assisted laparoscopic radical prostatectomy: results of a prospective parallel group trial",
+        "volume": "58",
+        "author": "Joshi",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "1109",
+        "DOI": "10.1111/j.1464-410X.2007.06762.x",
+        "article-title": "Robotic radical prostatectomy: outcomes of 500 cases",
+        "volume": "99",
+        "author": "Patel",
+        "year": "2007",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1046/j.1442-2042.2001.00273.x",
+        "article-title": "An anterior urethral stitch improves urinary incontinence following radical prostatectomy",
+        "volume": "8",
+        "author": "Sugimura",
+        "year": "2001",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "245",
+        "DOI": "10.2739/kurumemedj.51.245",
+        "article-title": "Suspension technique improves rapid recovery of urinary continence following radical retropubic prostatectomy",
+        "volume": "51",
+        "author": "Noguchi",
+        "year": "2004",
+        "journal-title": "Kurume Med J"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "1018",
+        "DOI": "10.1016/j.juro.2008.05.046",
+        "article-title": "Assessment of early continence after reconstruction of the periprostatic tissues in patients undergoing computer assisted (robotic) prostatectomy: results of a 2 group parallel randomized controlled trial",
+        "volume": "180",
+        "author": "Menon",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "1262",
+        "DOI": "10.1016/j.juro.2010.11.085",
+        "article-title": "Posterior rhabdosphincter reconstruction during robotic assisted radical prostatectomy: Results from a Phase II randomized clinical trial",
+        "volume": "185",
+        "author": "Sutherland",
+        "year": "2011",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2015.08.005_bib0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "90",
+        "DOI": "10.33590/emjurol/10314566",
+        "article-title": "A literature-based analysis of the learning curves of laparoscopic radical prostatectomy",
+        "volume": "1",
+        "author": "Good",
+        "year": "2014",
+        "journal-title": "EMJ Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283815007484?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283815007484?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          13
+        ]
+      ],
+      "date-time": "2023-08-13T07:28:34Z",
+      "timestamp": 1691911714000
+    },
+    "score": 137.61168,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283815007484"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283815007484"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2015.08.005",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Total Anatomical Reconstruction During Robot-assisted Radical Prostatectomy: Implications on Early Recovery of Urinary Continence",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2015.08.005",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2015 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          2
+        ]
+      ],
+      "date-time": "2022-04-02T07:07:14Z",
+      "timestamp": 1648883234117
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "7",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2016-09-01T00:00:00Z",
+          "timestamp": 1472688000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(16)15230-3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2016-09-22T20:04:05Z",
+      "timestamp": 1474574645000
+    },
+    "page": "274",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Total anatomical reconstruction during robot-assisted radical prostatectomy: Update of continence recovery data after more than 600 procedures"
+    ],
+    "prefix": "10.1016",
+    "volume": "15",
+    "author": [
+      {
+        "given": "F.",
+        "family": "Porpiglia",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.G.",
+        "family": "Bertolo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Manfredi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "E.",
+        "family": "Checcucci",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Garrou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Mele",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "G.",
+        "family": "Cattaneo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Passera",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "C.",
+        "family": "Fiori",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905616152303?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905616152303?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          8
+        ]
+      ],
+      "date-time": "2018-09-08T06:10:58Z",
+      "timestamp": 1536387058000
+    },
+    "score": 87.94067,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905616152303"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "7",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905616152303"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(16)15230-3",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2022-04-04T03:24:19Z",
+      "timestamp": 1649042659560
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2018-05-01T00:00:00Z",
+          "timestamp": 1525132800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(18)32448-5",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          23
+        ]
+      ],
+      "date-time": "2018-05-23T22:16:03Z",
+      "timestamp": 1527113763000
+    },
+    "page": "e2026-e2027",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Total anatomical reconstruction during robot-assisted radical prostatectomy: Continence recovery in more than 800 procedures after one year of follow-up"
+    ],
+    "prefix": "10.1016",
+    "volume": "17",
+    "author": [
+      {
+        "given": "F.",
+        "family": "Porpiglia",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.B.",
+        "family": "Bertolo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.M.",
+        "family": "Manfredi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "F.M.",
+        "family": "Mele",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "E.C.",
+        "family": "Checcucci",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.G.",
+        "family": "Garrou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.A.",
+        "family": "Amparore",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.P.",
+        "family": "Pecoraro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.P.",
+        "family": "Peretti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "I.M.",
+        "family": "Morra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.C.",
+        "family": "Cossu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.P.",
+        "family": "Piana",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "C.F.",
+        "family": "Fiori",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.M.S.",
+        "family": "Scarpa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905618324485?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905618324485?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          21
+        ]
+      ],
+      "date-time": "2018-08-21T10:21:41Z",
+      "timestamp": 1534846901000
+    },
+    "score": 83.02744,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905618324485"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905618324485"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(18)32448-5",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2026-05-15T01:58:33Z",
+      "timestamp": 1778810313918,
+      "version": "3.51.4"
+    },
+    "reference-count": 36,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              3,
+              15
+            ]
+          ],
+          "date-time": "2019-03-15T00:00:00Z",
+          "timestamp": 1552608000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "bjui-journals.onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "BJU International"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          9
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Objectives</jats:title>\n                    <jats:p>\n                      To present the functional and oncological outcomes after ≥1 year of follow‐up, following an experience of &gt;1000 robot‐assisted radical prostatectomies (\n                      <jats:styled-content style=\"fixed-case\">RARPs</jats:styled-content>\n                      ) with our standardised total anatomical reconstruction (\n                      <jats:styled-content style=\"fixed-case\">TAR</jats:styled-content>\n                      ) technique. To evaluate which factors influence postoperative continence recovery in order to obtain a nomogram to predict the risk of postoperative urinary incontinence (UI).\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Patients and Methods</jats:title>\n                    <jats:p>\n                      The enrolment phase began in June 2013 and ended in May 2017. Patients were prospectively included in the study with the following inclusion criteria: (i) localised prostate cancer (clinical stages\n                      <jats:styled-content style=\"fixed-case\">cT</jats:styled-content>\n                      1–3,\n                      <jats:styled-content style=\"fixed-case\">cN</jats:styled-content>\n                      0,\n                      <jats:styled-content style=\"fixed-case\">cM</jats:styled-content>\n                      0); (ii) indication for RP; and (iii) preoperative multiparametric prostate magnetic resonance imaging. All patients underwent\n                      <jats:styled-content style=\"fixed-case\">RARP</jats:styled-content>\n                      with the\n                      <jats:styled-content style=\"fixed-case\">TAR</jats:styled-content>\n                      technique done at the end of the demolitive phase. The continence rates were assessed at 24 h, and 1, 4, 12, 24 and 48 weeks after catheter removal. Patients were defined as continent if they answered ‘zero pad’ or ‘one safety pad’ per day. A logistic regression model was used to evaluate the potential impact of some pre‐ and intraoperative factors on postoperative urinary continence recovery. Model discrimination was assessed using an area under (\n                      <jats:styled-content style=\"fixed-case\">AUC</jats:styled-content>\n                      ) the receiver operating characteristic (\n                      <jats:styled-content style=\"fixed-case\">ROC</jats:styled-content>\n                      ) curve. A nomogram to predict the risk of postoperative UI after\n                      <jats:styled-content style=\"fixed-case\">RARP</jats:styled-content>\n                      with\n                      <jats:styled-content style=\"fixed-case\">the TAR</jats:styled-content>\n                      technique was generated based on the logistic model.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      In all, 1008 patients were enrolled in our study. At 24 h, and 1, 4, 12, 24 and 48 weeks after catheter removal, 621 (61.61%), 594 (58.93%), 803 (79.66%), 912 (90.48%), 950 (94.25%) and 956 (94.84%) patients were continent, respectively. In the logistic regression model, the variables analysed had a higher impact on continence recovery at 4 and 12 weeks. At 4 weeks, the postoperative odds of urinary continence recovery increased with the absence of diabetes [odds ratio (\n                      <jats:styled-content style=\"fixed-case\">OR)</jats:styled-content>\n                      2.76, 95%\n                      <jats:styled-content style=\"fixed-case\">confidence interval (CI)</jats:styled-content>\n                      1.41–5.41] and D'Amico low vs high risk (\n                      <jats:styled-content style=\"fixed-case\">OR</jats:styled-content>\n                      2.01, 95%\n                      <jats:styled-content style=\"fixed-case\">CI</jats:styled-content>\n                      1.01–3.99). At 12 weeks, urinary continence increased with the absence of diabetes (\n                      <jats:styled-content style=\"fixed-case\">OR</jats:styled-content>\n                      3.01, 95%\n                      <jats:styled-content style=\"fixed-case\">CI</jats:styled-content>\n                      1.23–7.35), D'Amico low vs high risk (\n                      <jats:styled-content style=\"fixed-case\">OR</jats:styled-content>\n                      4.04, 95%\n                      <jats:styled-content style=\"fixed-case\">CI</jats:styled-content>\n                       1.56–10.47), and D'Amico intermediate vs high risk (\n                      <jats:styled-content style=\"fixed-case\">OR</jats:styled-content>\n                       3.33, 95%\n                      <jats:styled-content style=\"fixed-case\">CI</jats:styled-content>\n                      1.66–6.70).\n                      <jats:styled-content style=\"fixed-case\">ROC</jats:styled-content>\n                      curves were drawn and an\n                      <jats:styled-content style=\"fixed-case\">AUC</jats:styled-content>\n                      value of 61.9% (95%\n                      <jats:styled-content style=\"fixed-case\">CI</jats:styled-content>\n                      57.49–66.36) at 4 weeks and 63.8% (95%\n                      <jats:styled-content style=\"fixed-case\">CI</jats:styled-content>\n                      58.03–69.65) at 12 weeks were computed. Based on these parameters, two nomograms (at 4 and 12 weeks postoperatively) were generated.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>\n                      The\n                      <jats:styled-content style=\"fixed-case\">TAR</jats:styled-content>\n                      technique conferred excellent results in the early recovery of urinary continence. Two nomograms were created, to predict preoperatively the postoperative odds of urinary continence recovery at 4 and 12 weeks after\n                      <jats:styled-content style=\"fixed-case\">RARP</jats:styled-content>\n                      by integrating the presence of diabetes and D'Amico risk classification.\n                    </jats:p>\n                  </jats:sec>",
+    "DOI": "10.1111/bju.14716",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2019-02-25T23:51:40Z",
+      "timestamp": 1551138700000
+    },
+    "page": "477-486",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 49,
+    "title": [
+      "Total anatomical reconstruction during robot‐assisted radical prostatectomy: focus on urinary continence recovery and related complications after 1000 procedures"
+    ],
+    "prefix": "10.1111",
+    "volume": "124",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0740-605X",
+        "authenticated-orcid": false,
+        "given": "Matteo",
+        "family": "Manfredi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Urology Department of Oncology San Luigi Gonzaga Hospital Orbassano Turin Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrico",
+        "family": "Checcucci",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology Department of Oncology San Luigi Gonzaga Hospital Orbassano Turin Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cristian",
+        "family": "Fiori",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology Department of Oncology San Luigi Gonzaga Hospital Orbassano Turin Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Diletta",
+        "family": "Garrou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology Department of Oncology San Luigi Gonzaga Hospital Orbassano Turin Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Roberta",
+        "family": "Aimar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology Department of Oncology San Luigi Gonzaga Hospital Orbassano Turin Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Daniele",
+        "family": "Amparore",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology Department of Oncology San Luigi Gonzaga Hospital Orbassano Turin Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Stefano",
+        "family": "De Luca",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology Department of Oncology San Luigi Gonzaga Hospital Orbassano Turin Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sabrina",
+        "family": "Bombaci",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology Department of Oncology San Luigi Gonzaga Hospital Orbassano Turin Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ilaria",
+        "family": "Stura",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Public Health and Pediatric Sciences School of Medicine University of Turin Turin Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Giuseppe",
+        "family": "Migliaretti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Public Health and Pediatric Sciences School of Medicine University of Turin Turin Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Francesco",
+        "family": "Porpiglia",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology Department of Oncology San Luigi Gonzaga Hospital Orbassano Turin Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          15
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_7_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3322/caac.21332"
+      },
+      {
+        "key": "e_1_2_7_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1606220"
+      },
+      {
+        "key": "e_1_2_7_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11934-017-0717-4"
+      },
+      {
+        "key": "e_1_2_7_5_1",
+        "first-page": "66",
+        "article-title": "Outcomes following robotic‐assisted laparoscopic prostatectomy: Pentafecta and Trifecta achievements",
+        "volume": "70",
+        "author": "Jazayeri SB",
+        "year": "2018",
+        "journal-title": "Minerva Urol Nefrol"
+      },
+      {
+        "key": "e_1_2_7_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2012.05.045"
+      },
+      {
+        "key": "e_1_2_7_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2012.05.046"
+      },
+      {
+        "key": "e_1_2_7_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2012.05.047"
+      },
+      {
+        "key": "e_1_2_7_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.euf.2016.11.007"
+      },
+      {
+        "key": "e_1_2_7_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2015.08.092"
+      },
+      {
+        "key": "e_1_2_7_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5489/cuaj.2086"
+      },
+      {
+        "key": "e_1_2_7_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23736/S0026-4733.18.07761-1"
+      },
+      {
+        "key": "e_1_2_7_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2015.08.005"
+      },
+      {
+        "key": "e_1_2_7_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2012.05.057"
+      },
+      {
+        "key": "e_1_2_7_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2017.11.115"
+      },
+      {
+        "key": "e_1_2_7_16_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "540–5",
+        "DOI": "10.1016/j.juro.2006.10.097",
+        "article-title": "Variation in the definition of biochemical recurrence in patients treated for localized prostate cancer: the American Urological Association prostate guidelines for localized prostate cancer update panel report and recommendations for a standard in the reporting of surgical outcomes",
+        "volume": "177",
+        "author": "Cookson MS",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "e_1_2_7_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23736/S0393-2249.18.03068-0"
+      },
+      {
+        "key": "e_1_2_7_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5387/fms.2013-25"
+      },
+      {
+        "key": "e_1_2_7_19_1",
+        "first-page": "319",
+        "article-title": "Bidirectional barbed suture for posterior musculofascial reconstruction and knotless vesicourethral anastomosis during robot‐assisted radical prostatectomy",
+        "volume": "70",
+        "author": "Porreca A",
+        "year": "2018",
+        "journal-title": "Minerva Urol Nefrol"
+      },
+      {
+        "key": "e_1_2_7_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/end.2009.0630"
+      },
+      {
+        "key": "e_1_2_7_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urology.2010.01.073"
+      },
+      {
+        "key": "e_1_2_7_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2011.10849.x"
+      },
+      {
+        "key": "e_1_2_7_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urology.2010.05.052"
+      },
+      {
+        "key": "e_1_2_7_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2008.05.046"
+      },
+      {
+        "key": "e_1_2_7_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/00365590903413627"
+      },
+      {
+        "key": "e_1_2_7_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2008.07424.x"
+      },
+      {
+        "key": "e_1_2_7_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12957-017-1296-z"
+      },
+      {
+        "key": "e_1_2_7_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2010.06.008"
+      },
+      {
+        "key": "e_1_2_7_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2017.04.029"
+      },
+      {
+        "key": "e_1_2_7_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bju.14468"
+      },
+      {
+        "key": "e_1_2_7_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/pcan.2017.28"
+      },
+      {
+        "key": "e_1_2_7_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bju.13087"
+      },
+      {
+        "key": "e_1_2_7_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00345-013-1127-y"
+      },
+      {
+        "key": "e_1_2_7_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11255-015-1019-8"
+      },
+      {
+        "key": "e_1_2_7_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bju.13959"
+      },
+      {
+        "key": "e_1_2_7_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/bju.14583"
+      },
+      {
+        "key": "e_1_2_7_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23736/S0393-2249.18.03157-0"
+      }
+    ],
+    "container-title": [
+      "BJU International"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fbju.14716",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/bju.14716",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T10:47:53Z",
+      "timestamp": 1761734873000
+    },
+    "score": 82.84912,
+    "resource": {
+      "primary": {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/bju.14716"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          15
+        ]
+      ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/bju.14716"
+    ],
+    "URL": "https://doi.org/10.1111/bju.14716",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "1464-4096",
+      "1464-410X"
+    ],
+    "issn-type": [
+      {
+        "value": "1464-4096",
+        "type": "print"
+      },
+      {
+        "value": "1464-410X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          3,
+          15
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2019-03-15",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2022-03-31T23:19:34Z",
+      "timestamp": 1648768774673
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2014-04-01T00:00:00Z",
+          "timestamp": 1396310400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(14)61169-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2014-04-24T10:31:23Z",
+      "timestamp": 1398335483000
+    },
+    "page": "eV40",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "V40 Robot-assisted total anatomical reconstruction for urethro-vescical anastomosis during radical prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "13",
+    "author": [
+      {
+        "given": "F.",
+        "family": "Porpiglia",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "C.",
+        "family": "Fiori",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "De Luca",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Poggio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Bertolo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Amparore",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "E.",
+        "family": "Checcucci",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Mottrie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905614611696?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905614611696?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2018-10-04T13:24:48Z",
+      "timestamp": 1538659488000
+    },
+    "score": 76.90514,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905614611696"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905614611696"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(14)61169-6",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          4
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,2424 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          14
+        ]
+      ],
+      "date-time": "2026-03-14T01:18:46Z",
+      "timestamp": 1773451126192,
+      "version": "3.50.1"
+    },
+    "reference-count": 27,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2022-01-01T00:00:00Z",
+          "timestamp": 1640995200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Therapeutic Advances in Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:sec><jats:title>Objective:</jats:title><jats:p> The objective of this study is to determine the preoperative patient characteristics predicting prolonged length of hospital stay (pLOS) following robotic-assisted radical prostatectomy (RARP). </jats:p></jats:sec><jats:sec><jats:title>Methods:</jats:title><jats:p> The National Surgical Quality Improvement Program (NSQIP) database was used to select patients who underwent RARP without other concomitant surgeries between 2008 and 2016. Patients’ demographics, comorbidities, and laboratory markers were collected to evaluate their role in predicting pLOS. The pLOS was defined as length of stay (LOS) &gt;2 days. A multinomial logistic regression was constructed adjusting for postoperative surgical complications to assess for the predictors of pLOS. </jats:p></jats:sec><jats:sec><jats:title>Results:</jats:title><jats:p> We obtained data for 31,253 patients of which 20,774 (66.5%) patients stayed ⩽1 day, 6993 (22.4%) patients stayed for 2 days, and 3486 (11.2%) patients stayed for &gt;2 days. Demographic variables – including body mass index (BMI) &lt;18.5: odds ratio (OR) = 2.8, 95% confidence interval (CI) = [1.7–4.8]; smoking: OR = 1.2, 95% CI = [1.1–1.4]; and dependent functional status: OR = 3.1, 95% CI = [1.6–6.0] – were predictors of pLOS. Comorbidities – such as heart failure: OR = 4.6, 95% CI = [2.0–10.8]; being dialysis dependent: OR = 2.7, 95% CI = [1.4–5.0]; and predisposition to bleeding: OR = 2.0, 95% CI =  [1.5–2.7] – were the strongest predictors of extended hospitalization. In addition, pLOS was more likely to be associated with postoperative bleeding, renal, or pulmonary complications. </jats:p></jats:sec><jats:sec><jats:title>Conclusion:</jats:title><jats:p> Preoperative patient characteristics and comorbidities can predict pLOS. These findings can be used preoperatively for risk assessment and patient counseling. </jats:p></jats:sec>",
+    "DOI": "10.1177/17562872221080737",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          18
+        ]
+      ],
+      "date-time": "2022-03-18T11:26:35Z",
+      "timestamp": 1647602795000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Patient characteristics predicting prolonged length of hospital stay following robotic-assisted radical prostatectomy"
+    ],
+    "prefix": "10.1177",
+    "volume": "14",
+    "author": [
+      {
+        "given": "Albert El",
+        "family": "Hajj",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Urology, Department of Surgery, American University of Beirut, Beirut, Lebanon"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4580-1915",
+        "authenticated-orcid": false,
+        "given": "Muhieddine",
+        "family": "Labban",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology, Department of Surgery, American University of Beirut, Beirut, Lebanon"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Guillaume",
+        "family": "Ploussard",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, La Croix du Sud Hospital, Quint-Fonsegrives, France"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8668-6741",
+        "authenticated-orcid": false,
+        "given": "Jabra",
+        "family": "Zarka",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology, Department of Surgery, American University of Beirut, Beirut, Lebanon"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nassib",
+        "family": "Abou Heidar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology, Department of Surgery, American University of Beirut, Beirut, Lebanon"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Aurelie",
+        "family": "Mailhac",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Clinical Research Institute, American University of Beirut, Beirut, Lebanon"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hani",
+        "family": "Tamim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Clinical Research Institute, American University of Beirut, P.O. Box 11-0236, Riad El-Solh, Beirut 1107 2020, Lebanon"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3322/caac.21654"
+      },
+      {
+        "key": "bibr2-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urolonc.2016.01.008"
+      },
+      {
+        "key": "bibr3-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MLR.0b013e318202adb9"
+      },
+      {
+        "key": "bibr4-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2016.08.003"
+      },
+      {
+        "key": "bibr5-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1470-2045(18)30357-7"
+      },
+      {
+        "key": "bibr6-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.euf.2016.11.007"
+      },
+      {
+        "key": "bibr7-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2012.05.044"
+      },
+      {
+        "key": "bibr8-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(16)30592-X"
+      },
+      {
+        "key": "bibr9-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/end.2014.0259"
+      },
+      {
+        "key": "bibr10-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0195901"
+      },
+      {
+        "key": "bibr11-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2010.748"
+      },
+      {
+        "key": "bibr12-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2015.04.112"
+      },
+      {
+        "key": "bibr13-17562872221080737",
+        "volume": "3",
+        "author": "Rotter T",
+        "year": "2010",
+        "journal-title": "Cochrane Database Syst Rev"
+      },
+      {
+        "key": "bibr14-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00000658-199908000-00016"
+      },
+      {
+        "key": "bibr15-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2006.10.070"
+      },
+      {
+        "key": "bibr16-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1590/s1677-5538.ibju.2017.0339"
+      },
+      {
+        "key": "bibr17-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/2090598X.2020.1814184"
+      },
+      {
+        "key": "bibr18-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jamcollsurg.2008.08.015"
+      },
+      {
+        "key": "bibr19-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11701-016-0588-6"
+      },
+      {
+        "key": "bibr20-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12894-018-0351-6"
+      },
+      {
+        "key": "bibr21-17562872221080737",
+        "volume": "179",
+        "author": "Froehner M",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "bibr22-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.soard.2019.02.004"
+      },
+      {
+        "key": "bibr23-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3928/01477447-20190321-01"
+      },
+      {
+        "key": "bibr24-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/end.2020.0597"
+      },
+      {
+        "key": "bibr25-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.euf.2021.09.010"
+      },
+      {
+        "key": "bibr26-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.23736/S2724-6051.20.04146-6"
+      },
+      {
+        "key": "bibr27-17562872221080737",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00345-020-03549-6"
+      }
+    ],
+    "container-title": [
+      "Therapeutic Advances in Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/17562872221080737",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/17562872221080737",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/17562872221080737",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          1
+        ]
+      ],
+      "date-time": "2025-03-01T19:06:36Z",
+      "timestamp": 1740855996000
+    },
+    "score": 148.91039,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/17562872221080737"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          1
+        ]
+      ]
+    },
+    "references-count": 27,
+    "alternative-id": [
+      "10.1177/17562872221080737"
+    ],
+    "URL": "https://doi.org/10.1177/17562872221080737",
+    "ISSN": [
+      "1756-2872",
+      "1756-2880"
+    ],
+    "issn-type": [
+      {
+        "value": "1756-2872",
+        "type": "print"
+      },
+      {
+        "value": "1756-2880",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          1
+        ]
+      ]
+    },
+    "article-number": "17562872221080737"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          19
+        ]
+      ],
+      "date-time": "2025-12-19T09:59:03Z",
+      "timestamp": 1766138343376,
+      "version": "3.41.2"
+    },
+    "reference-count": 31,
+    "publisher": "SAGE Publications",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2023-01-01T00:00:00Z",
+          "timestamp": 1672531200000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "journals.sagepub.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Therapeutic Advances in Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:sec><jats:title>Background:</jats:title><jats:p> Robotic-assisted radical prostatectomy (RARP) has been found to be comparable and, in some cases, favorable to open surgical approaches, while being used in a frailer population. </jats:p></jats:sec><jats:sec><jats:title>Objectives:</jats:title><jats:p> We aimed to illustrate the trend in population frailty and compare morbidity and mortality postoperatively in patients who underwent RARP. </jats:p></jats:sec><jats:sec><jats:title>Design and Methods:</jats:title><jats:p> The National Surgical Quality Improvement Program data set was used to select patients who underwent RARP between the years 2011–2019. Age, frailty indicators, surgical characteristics, and perioperative morbidity and mortality were compared between the years 2011–2019 using the chi-square test (χ<jats:sup>2</jats:sup>) for categorical variables and the one-way analysis of variance (ANOVA) for continuous variables. </jats:p></jats:sec><jats:sec><jats:title>Results:</jats:title><jats:p> Our patient population consisted of 66,683 patients who underwent RARP. There was an increase in mean age and frailty indicated by an increase in 5-item frailty score ⩾2, metabolic syndrome index = 3, and American Society of Anesthesiologists’ (ASA) class ⩾3 between the years 2011–2019 ( p &lt; 0.001). Whereas the rate of mortality and morbidity, indicated by postoperative Clavien–Dindo grade ⩾4 and major morbidity, remained the same over the same period ( p &gt; 0.264). Furthermore, operative time and length of stay decreased over the same period ( p &lt; 0.001). </jats:p></jats:sec><jats:sec><jats:title>Conclusion:</jats:title><jats:p> RARP is being performed on more frail patients, with no added morbidity or mortality. </jats:p></jats:sec>",
+    "DOI": "10.1177/17562872231177780",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          3
+        ]
+      ],
+      "date-time": "2023-06-03T07:29:24Z",
+      "timestamp": 1685777364000
+    },
+    "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Robotic-assisted radical prostatectomy is pushing the boundaries: a national survey of frailty using the national surgical quality improvement program"
+    ],
+    "prefix": "10.1177",
+    "volume": "15",
+    "author": [
+      {
+        "given": "Nassib F.",
+        "family": "Abou Heidar",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Urology, Department of Surgery, American University of Beirut Medical Center, Beirut, Lebanon"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2475-4256",
+        "authenticated-orcid": false,
+        "given": "Christian Habib",
+        "family": "Ayoub",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology, Department of Surgery, American University of Beirut Medical Center, Beirut, Lebanon"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anthony",
+        "family": "Abou Mrad",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Medical School, American University of Beirut, Beirut, Lebanon"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3965-818X",
+        "authenticated-orcid": false,
+        "given": "Jad",
+        "family": "Abdul Khalek",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Medical School, American University of Beirut, Beirut, Lebanon"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hani",
+        "family": "Tamim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Internal Medicine, American University of Beirut Medical Center, Beirut, Lebanon"
+          },
+          {
+            "name": "College of Medicine, Alfaisal University, Riyadh, Saudi Arabia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Albert",
+        "family": "El-Hajj",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Urology, Department of Surgery, American University of Beirut Medical Center, P.O. BOX 11-0236, Riad El Solh, Beirut 1107 2020, Lebanon"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "179",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "bibr1-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3322/caac.21660"
+      },
+      {
+        "key": "bibr2-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2017.11.095"
+      },
+      {
+        "key": "bibr3-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00345-021-03622-8"
+      },
+      {
+        "key": "bibr4-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s13193-020-01125-3"
+      },
+      {
+        "key": "bibr5-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2012.11757.x"
+      },
+      {
+        "key": "bibr6-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.12659/MSM.907092"
+      },
+      {
+        "key": "bibr7-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1213/ANE.0000000000004602"
+      },
+      {
+        "key": "bibr8-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.22540/JFSF-05-057"
+      },
+      {
+        "volume-title": "Clinical Frailty Scale: StatPearls",
+        "year": "2022",
+        "author": "Mendiratta P",
+        "key": "bibr9-17562872231177780"
+      },
+      {
+        "key": "bibr10-17562872231177780",
+        "first-page": "119",
+        "volume": "69",
+        "author": "Albisinni S",
+        "year": "2017",
+        "journal-title": "Minerva Urol Nefrol"
+      },
+      {
+        "key": "bibr11-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urolonc.2020.09.022"
+      },
+      {
+        "key": "bibr12-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.sla.0000133083.54934.ae"
+      },
+      {
+        "key": "bibr13-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/end.2020.0597"
+      },
+      {
+        "key": "bibr14-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00464-016-5253-7"
+      },
+      {
+        "key": "bibr15-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jvs.2018.05.239"
+      },
+      {
+        "key": "bibr16-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.293.17.2095"
+      },
+      {
+        "key": "bibr17-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2020.09.042"
+      },
+      {
+        "key": "bibr18-17562872231177780",
+        "first-page": "32",
+        "volume": "21",
+        "author": "Mandel P",
+        "year": "2017",
+        "journal-title": "Asian J Androl"
+      },
+      {
+        "key": "bibr19-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/2090598X.2020.1721165"
+      },
+      {
+        "key": "bibr20-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0234113"
+      },
+      {
+        "key": "bibr21-17562872231177780",
+        "first-page": "2085",
+        "volume": "32",
+        "author": "Labanaris AP",
+        "year": "2012",
+        "journal-title": "Anticancer Res"
+      },
+      {
+        "key": "bibr22-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/17562872221080737"
+      },
+      {
+        "key": "bibr23-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/end.2013.0534"
+      },
+      {
+        "key": "bibr24-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/end.2017.0512"
+      },
+      {
+        "key": "bibr25-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/ajco.13158"
+      },
+      {
+        "key": "bibr26-17562872231177780",
+        "first-page": "171",
+        "volume": "17",
+        "author": "McGinley KF",
+        "year": "2015",
+        "journal-title": "Rev Urol"
+      },
+      {
+        "key": "bibr27-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2021.07.025"
+      },
+      {
+        "key": "bibr28-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.euo.2018.04.012"
+      },
+      {
+        "key": "bibr29-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1200/JCO.2006.10.3820"
+      },
+      {
+        "key": "bibr30-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cger.2010.08.009"
+      },
+      {
+        "key": "bibr31-17562872231177780",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urolonc.2017.01.005"
+      }
+    ],
+    "container-title": [
+      "Therapeutic Advances in Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/17562872231177780",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/17562872231177780",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/17562872231177780",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          2
+        ]
+      ],
+      "date-time": "2025-03-02T04:25:42Z",
+      "timestamp": 1740889542000
+    },
+    "score": 51.312344,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/17562872231177780"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "references-count": 31,
+    "alternative-id": [
+      "10.1177/17562872231177780"
+    ],
+    "URL": "https://doi.org/10.1177/17562872231177780",
+    "ISSN": [
+      "1756-2872",
+      "1756-2880"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1756-2872"
+      },
+      {
+        "type": "electronic",
+        "value": "1756-2880"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "article-number": "17562872231177780"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2025-10-21T15:48:18Z",
+      "timestamp": 1761061698839,
+      "version": "3.37.3"
+    },
+    "reference-count": 40,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              18
+            ]
+          ],
+          "date-time": "2022-08-18T00:00:00Z",
+          "timestamp": 1660780800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              18
+            ]
+          ],
+          "date-time": "2022-08-18T00:00:00Z",
+          "timestamp": 1660780800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Int Urol Nephrol"
+    ],
+    "DOI": "10.1007/s11255-022-03293-3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          18
+        ]
+      ],
+      "date-time": "2022-08-18T20:04:31Z",
+      "timestamp": 1660853071000
+    },
+    "page": "3069-3078",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "A novel radical prostatectomy specific index (PSI) for the prediction of major cardiovascular events following surgery"
+    ],
+    "prefix": "10.1007",
+    "volume": "54",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2475-4256",
+        "authenticated-orcid": false,
+        "given": "Christian H.",
+        "family": "Ayoub",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7749-1045",
+        "authenticated-orcid": false,
+        "given": "Jose M.",
+        "family": "El-Asmar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3811-5543",
+        "authenticated-orcid": false,
+        "given": "Nassib F.",
+        "family": "Abou Heidar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9500-7840",
+        "authenticated-orcid": false,
+        "given": "Nicolas",
+        "family": "Najm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7086-1410",
+        "authenticated-orcid": false,
+        "given": "Ali A.",
+        "family": "Nasrallah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6947-7937",
+        "authenticated-orcid": false,
+        "given": "Hani",
+        "family": "Tamim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6436-600X",
+        "authenticated-orcid": false,
+        "given": "Habib A.",
+        "family": "Dakik",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0043-7195",
+        "authenticated-orcid": false,
+        "given": "Albert",
+        "family": "El Hajj",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          18
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "1",
+        "key": "3293_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "38",
+        "DOI": "10.1016/j.eururo.2019.08.005",
+        "volume": "77",
+        "author": "MB Culp",
+        "year": "2020",
+        "unstructured": "Culp MB, Soerjomataram I, Efstathiou JA, Bray F, Jemal A (2020) Recent global patterns in prostate cancer incidence and mortality rates. Eur Urol 77(1):38–52",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "4",
+        "key": "3293_CR2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamanetworkopen.2021.4708",
+        "volume": "4",
+        "author": "L Rahib",
+        "year": "2021",
+        "unstructured": "Rahib L, Wehner MR, Matrisian LM, Nead KT (2021) Estimated projection of US cancer incidence and death to 2040. JAMA Netw Open 4(4):e214708",
+        "journal-title": "JAMA Netw Open"
+      },
+      {
+        "issue": "3",
+        "key": "3293_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "177",
+        "DOI": "10.1038/s41585-020-0287-y",
+        "volume": "17",
+        "author": "AJ Costello",
+        "year": "2020",
+        "unstructured": "Costello AJ (2020) Considering the role of radical prostatectomy in 21st century prostate cancer care. Nat Rev Urol 17(3):177–188",
+        "journal-title": "Nat Rev Urol"
+      },
+      {
+        "issue": "10162",
+        "key": "3293_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "2353",
+        "DOI": "10.1016/S0140-6736(18)32486-3",
+        "volume": "392",
+        "author": "CC Parker",
+        "year": "2018",
+        "unstructured": "Parker CC, James ND, Brawley CD, Clarke NW, Hoyle AP, Ali A et al (2018) Radiotherapy to the primary tumour for newly diagnosed, metastatic prostate cancer (STAMPEDE): a randomised controlled phase 3 trial. Lancet 392(10162):2353–2366",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "9",
+        "key": "3293_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "523",
+        "DOI": "10.1038/s41585-019-0213-3",
+        "volume": "16",
+        "author": "H Tharmalingam",
+        "year": "2019",
+        "unstructured": "Tharmalingam H, Choudhury A, Van Herk M, McWilliam A, Hoskin PJ (2019) New approaches for effective and safe pelvic radiotherapy in high-risk prostate cancer. Nat Rev Urol 16(9):523–538",
+        "journal-title": "Nat Rev Urol"
+      },
+      {
+        "issue": "2",
+        "key": "3293_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "69",
+        "DOI": "10.1038/s41585-018-0121-y",
+        "volume": "16",
+        "author": "P Rescigno",
+        "year": "2019",
+        "unstructured": "Rescigno P, de Bono JS (2019) Immunotherapy for lethal prostate cancer. Nat Rev Urol 16(2):69–70",
+        "journal-title": "Nat Rev Urol"
+      },
+      {
+        "issue": "8",
+        "key": "3293_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1615",
+        "DOI": "10.1158/0008-5472.CAN-19-2948",
+        "volume": "80",
+        "author": "HR Cha",
+        "year": "2020",
+        "unstructured": "Cha HR, Lee JH, Ponnazhagan S (2020) Revisiting immunotherapy: a focus on prostate cancer. Cancer Res 80(8):1615–1623",
+        "journal-title": "Cancer Res"
+      },
+      {
+        "issue": "8",
+        "key": "3293_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "1051",
+        "DOI": "10.1016/S1470-2045(18)30357-7",
+        "volume": "19",
+        "author": "GD Coughlin",
+        "year": "2018",
+        "unstructured": "Coughlin GD, Yaxley JW, Chambers SK, Occhipinti S, Samaratunga H, Zajdlewicz L et al (2018) Robot-assisted laparoscopic prostatectomy versus open radical retropubic prostatectomy: 24-month outcomes from a randomised controlled study. Lancet Oncol 19(8):1051–1060",
+        "journal-title": "Lancet Oncol"
+      },
+      {
+        "issue": "3",
+        "key": "3293_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "443",
+        "DOI": "10.1016/j.eururo.2020.03.035",
+        "volume": "78",
+        "author": "V Stavrinides",
+        "year": "2020",
+        "unstructured": "Stavrinides V, Giganti F, Trock B, Punwani S, Allen C, Kirkham A et al (2020) Five-year outcomes of magnetic resonance imaging-based active surveillance for prostate cancer: a large cohort study. Eur Urol 78(3):443–451",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "3293_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "683",
+        "DOI": "10.1016/j.juro.2017.11.095",
+        "volume": "199",
+        "author": "MG Sanda",
+        "year": "2018",
+        "unstructured": "Sanda MG, Cadeddu JA, Kirkby E, Chen RC, Crispino T, Fontanarosa J et al (2018) Clinically localized prostate cancer: AUA/ASTRO/SUO guideline. Part I: risk stratification, shared decision making, and care options. J Urol 199(3):683–690",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "4",
+        "key": "3293_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "483",
+        "DOI": "10.1089/end.2020.0597",
+        "volume": "35",
+        "author": "M Shahait",
+        "year": "2021",
+        "unstructured": "Shahait M, Labban M, Dobbs RW, Cheaib JG, Lee DI, Tamim H et al (2021) A 5-item frailty index for predicting morbidity and mortality after radical prostatectomy: an analysis of the American college of surgeons national surgical quality improvement program database. J Endourol 35(4):483–489",
+        "journal-title": "J Endourol"
+      },
+      {
+        "issue": "5",
+        "key": "3293_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "684",
+        "DOI": "10.1016/j.eururo.2011.01.045",
+        "volume": "59",
+        "author": "PK Agarwal",
+        "year": "2011",
+        "unstructured": "Agarwal PK, Sammon J, Bhandari A, Dabaja A, Diaz M, Dusik-Fenton S et al (2011) Safety profile of robot-assisted radical prostatectomy: a standardized report of complications in 3317 patients. Eur Urol 59(5):684–698",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "3293_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "579",
+        "DOI": "10.1016/j.urology.2013.03.080",
+        "volume": "82",
+        "author": "JJ Liu",
+        "year": "2013",
+        "unstructured": "Liu JJ, Maxwell BG, Panousis P, Chung BI (2013) Perioperative outcomes for laparoscopic and robotic compared with open prostatectomy using the National Surgical Quality Improvement Program (NSQIP) database. Urology 82(3):579–583",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "20",
+        "key": "3293_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1525",
+        "DOI": "10.1093/jnci/dji313",
+        "volume": "97",
+        "author": "SM Alibhai",
+        "year": "2005",
+        "unstructured": "Alibhai SM, Leach M, Tomlinson G, Krahn MD, Fleshner N, Holowaty E et al (2005) 30-day mortality and major complications after radical prostatectomy: influence of age and comorbidity. J Natl Cancer Inst 97(20):1525–1532",
+        "journal-title": "J Natl Cancer Inst"
+      },
+      {
+        "issue": "2",
+        "key": "3293_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "301",
+        "DOI": "10.1016/S0090-4295(99)00100-4",
+        "volume": "54",
+        "author": "GL Lu-Yao",
+        "year": "1999",
+        "unstructured": "Lu-Yao GL, Albertsen P, Warren J, Yao S-L (1999) Effect of age and surgical approach on complications and short-term mortality after radical prostatectomy—a population-based study. Urology 54(2):301–307",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "16",
+        "key": "3293_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "845",
+        "DOI": "10.1056/NEJM197710202971601",
+        "volume": "297",
+        "author": "L Goldman",
+        "year": "1977",
+        "unstructured": "Goldman L, Caldera DL, Nussbaum SR, Southwick FS, Krogstad D, Murray B et al (1977) Multifactorial index of cardiac risk in noncardiac surgical procedures. N Engl J Med 297(16):845–850",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "4",
+        "key": "3293_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "381",
+        "DOI": "10.1161/CIRCULATIONAHA.110.015701",
+        "volume": "124",
+        "author": "PK Gupta",
+        "year": "2011",
+        "unstructured": "Gupta PK, Gupta H, Sundaram A, Kaushik M, Fang X, Miller WJ et al (2011) Development and validation of a risk calculator for prediction of cardiac risk after surgery. Circulation 124(4):381–387",
+        "journal-title": "Circulation"
+      },
+      {
+        "issue": "10",
+        "key": "3293_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "1043",
+        "DOI": "10.1161/01.CIR.100.10.1043",
+        "volume": "100",
+        "author": "TH Lee",
+        "year": "1999",
+        "unstructured": "Lee TH, Marcantonio ER, Mangione CM, Thomas EJ, Polanczyk CA, Cook EF et al (1999) Derivation and prospective validation of a simple index for prediction of cardiac risk of major noncardiac surgery. Circulation 100(10):1043–1049",
+        "journal-title": "Circulation"
+      },
+      {
+        "issue": "24",
+        "key": "3293_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "3067",
+        "DOI": "10.1016/j.jacc.2019.04.023",
+        "volume": "73",
+        "author": "HA Dakik",
+        "year": "2019",
+        "unstructured": "Dakik HA, Chehab O, Eldirani M, Sbeity E, Karam C, Abou Hassan O et al (2019) A new index for pre-operative cardiovascular evaluation. J Am Coll Cardiol 73(24):3067–3078",
+        "journal-title": "J Am Coll Cardiol"
+      },
+      {
+        "issue": "10",
+        "key": "3293_CR20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.119.016228",
+        "volume": "9",
+        "author": "HA Dakik",
+        "year": "2020",
+        "unstructured": "Dakik HA, Sbaity E, Msheik A, Kaspar C, Eldirani M, Chehab O et al (2020) AUB-HAS2 Cardiovascular Risk Index: Performance in Surgical Subpopulations and Comparison to the Revised Cardiac Risk Index. J Am Heart Assoc 9(10):e016228",
+        "journal-title": "J Am Heart Assoc"
+      },
+      {
+        "key": "3293_CR21",
+        "unstructured": "ACS NSQIP. User Guide for the 2012 ACS NSQIP Participant Use Data File 2013. Available from: https://www.facs.org/-/media/files/quality-programs/nsqip/ug12.ashx. [Accessedd on 17 Dec 2021]."
+      },
+      {
+        "key": "3293_CR22",
+        "unstructured": "ACS NSQIP. User Guide for the 2014 ACS NSQIP Participant Use Data File 2015. Available from: https://www.facs.org/-/media/files/quality-programs/nsqip/nsqip_puf_userguide_2014.ashx. [Accessedd on 17 Dec 2021]."
+      },
+      {
+        "key": "3293_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "175628722210848",
+        "DOI": "10.1177/17562872221084847",
+        "volume": "14",
+        "author": "AA Nasrallah",
+        "year": "2022",
+        "unstructured": "Nasrallah AA, Dakik HA, Abou Heidar NF, Najdi JA, Nasrallah OG, Mansour M et al (2022) Major adverse cardiovascular events following partial nephrectomy: a procedure-specific risk index. Ther Adv Urol 14:17562872221084848",
+        "journal-title": "Ther Adv Urol"
+      },
+      {
+        "issue": "6",
+        "key": "3293_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "1093",
+        "DOI": "10.1097/SLA.0b013e3182519ccf",
+        "volume": "255",
+        "author": "CJ Pannucci",
+        "year": "2012",
+        "unstructured": "Pannucci CJ, Shanks A, Moote MJ, Bahl V, Cederna PS, Naughton NN et al (2012) Identifying patients at high risk for venous thromboembolism requiring treatment after outpatient surgery. Ann Surg 255(6):1093–1099",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "issue": "8",
+        "key": "3293_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "799",
+        "DOI": "10.1056/NEJMoa053241",
+        "volume": "355",
+        "author": "A Rassi Jr",
+        "year": "2006",
+        "unstructured": "Rassi A Jr, Rassi A, Little WC, Xavier SS, Rassi SG, Rassi AG et al (2006) Development and validation of a risk score for predicting death in Chagas’ heart disease. N Engl J Med 355(8):799–808",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "4",
+        "key": "3293_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "618",
+        "DOI": "10.1016/j.eururo.2016.08.003",
+        "volume": "71",
+        "author": "N Mottet",
+        "year": "2017",
+        "unstructured": "Mottet N, Bellmunt J, Bolla M, Briers E, Cumberbatch MG, De Santis M et al (2017) EAU-ESTRO-SIOG guidelines on prostate cancer. Part 1: screening, diagnosis, and local treatment with curative intent. Eur Urol 71(4):618–629",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "5",
+        "key": "3293_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "801",
+        "DOI": "10.1111/bju.14369",
+        "volume": "122",
+        "author": "RS Pompe",
+        "year": "2018",
+        "unstructured": "Pompe RS, Beyer B, Haese A, Preisser F, Michl U, Steuber T et al (2018) Postoperative complications of contemporary open and robot-assisted laparoscopic radical prostatectomy using standardised reporting systems. BJU Int 122(5):801–807",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "3293_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "55",
+        "DOI": "10.1016/j.ejim.2016.05.028",
+        "volume": "35",
+        "author": "PW Hansen",
+        "year": "2016",
+        "unstructured": "Hansen PW, Gislason GH, Jørgensen ME, Køber L, Jensen PF, Torp-Pedersen C et al (2016) Influence of age on perioperative major adverse cardiovascular events and mortality risks in elective non-cardiac surgery. Eur J Intern Med 35:55–59",
+        "journal-title": "Eur J Intern Med"
+      },
+      {
+        "issue": "10",
+        "key": "3293_CR29",
+        "doi-asserted-by": "crossref",
+        "first-page": "e123",
+        "DOI": "10.1161/CIR.0000000000000404",
+        "volume": "134",
+        "author": "GN Levine",
+        "year": "2016",
+        "unstructured": "Levine GN, Bates ER, Bittl JA, Brindis RG, Fihn SD, Fleisher LA et al (2016) 2016 ACC/AHA guideline focused update on duration of dual antiplatelet therapy in patients with coronary artery disease: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines: an update of the 2011 ACCF/AHA/SCAI Guideline for Percutaneous Coronary Intervention, 2011 ACCF/AHA Guideline for Coronary Artery Bypass Graft Surgery, 2012 ACC/AHA/ACP/AATS/PCNA/SCAI/STS Guideline for the Diagnosis and Management of Patients With Stable Ischemic Heart Disease, 2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction, 2014 AHA/ACC Guideline for the Management of Patients With Non-ST-Elevation Acute Coronary Syndromes, and 2014 ACC/AHA Guideline on Perioperative Cardiovascular Evaluation and Management of Patients Undergoing Noncardiac Surgery. Circulation 134(10):e123–e155",
+        "journal-title": "Circulation"
+      },
+      {
+        "issue": "2",
+        "key": "3293_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "72",
+        "DOI": "10.1080/2090598X.2020.1721165",
+        "volume": "18",
+        "author": "A Merhe",
+        "year": "2020",
+        "unstructured": "Merhe A, Hout M, Abou Heidar N, El-Asmar JM, Jaafar R, Mailhac A et al (2020) Is age an independent risk factor for perioperative mortality and morbidity after radical prostatectomy? Analysis of the American college of surgeons national surgical quality improvement program database. Arab J Urol 18(2):72–77",
+        "journal-title": "Arab J Urol"
+      },
+      {
+        "key": "3293_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "184",
+        "DOI": "10.1016/j.ijsu.2015.04.079",
+        "volume": "18",
+        "author": "NJ Hackett",
+        "year": "2015",
+        "unstructured": "Hackett NJ, De Oliveira GS, Jain UK, Kim JY (2015) ASA class is a reliable independent predictor of medical complications and mortality following surgery. Int J Surg 18:184–190",
+        "journal-title": "Int J Surg"
+      },
+      {
+        "issue": "4",
+        "key": "3293_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "357",
+        "DOI": "10.1136/hrt.70.4.357",
+        "volume": "70",
+        "author": "IS Anand",
+        "year": "1993",
+        "unstructured": "Anand IS, Chandrashekhar Y, Ferrari R, Poole-Wilson PA, Harris PC (1993) Pathogenesis of oedema in chronic severe anaemia: studies of body water and sodium, renal function, haemodynamic variables, and plasma hormones. Br Heart J 70(4):357–362",
+        "journal-title": "Br Heart J"
+      },
+      {
+        "issue": "2",
+        "key": "3293_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "149",
+        "DOI": "10.1161/01.CIR.0000134279.79571.73",
+        "volume": "110",
+        "author": "I Anand",
+        "year": "2004",
+        "unstructured": "Anand I, McMurray JJ, Whitmore J, Warren M, Pham A, McCamish MA et al (2004) Anemia and its relationship to clinical outcome in heart failure. Circulation 110(2):149–154",
+        "journal-title": "Circulation"
+      },
+      {
+        "issue": "16",
+        "key": "3293_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "2042",
+        "DOI": "10.1161/01.CIR.0000162477.70955.5F",
+        "volume": "111",
+        "author": "MS Sabatine",
+        "year": "2005",
+        "unstructured": "Sabatine MS, Morrow DA, Giugliano RP, Burton PB, Murphy SA, McCabe CH et al (2005) Association of hemoglobin levels with clinical outcomes in acute coronary syndromes. Circulation 111(16):2042–2049",
+        "journal-title": "Circulation"
+      },
+      {
+        "issue": "9800",
+        "key": "3293_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "1396",
+        "DOI": "10.1016/S0140-6736(11)61381-0",
+        "volume": "378",
+        "author": "KM Musallam",
+        "year": "2011",
+        "unstructured": "Musallam KM, Tamim HM, Richards T, Spahn DR, Rosendaal FR, Habbal A et al (2011) Preoperative anaemia and postoperative outcomes in non-cardiac surgery: a retrospective cohort study. Lancet 378(9800):1396–1407",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "3",
+        "key": "3293_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "416",
+        "DOI": "10.1093/bja/aeu098",
+        "volume": "113",
+        "author": "DM Baron",
+        "year": "2014",
+        "unstructured": "Baron DM, Hochrieser H, Posch M, Metnitz B, Rhodes A, Moreno RP et al (2014) Preoperative anaemia is associated with poor clinical outcome in non-cardiac surgery patients. Br J Anaesth 113(3):416–423",
+        "journal-title": "Br J Anaesth"
+      },
+      {
+        "issue": "7",
+        "key": "3293_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "826",
+        "DOI": "10.1111/anae.13840",
+        "volume": "72",
+        "author": "M Muñoz",
+        "year": "2017",
+        "unstructured": "Muñoz M, Laso-Morales MJ, Gómez-Ramírez S, Cadellas M, Núñez-Matas MJ, García-Erce JA (2017) Pre-operative haemoglobin levels and iron status in a large multicentre cohort of patients undergoing major elective surgery. Anaesthesia 72(7):826–834",
+        "journal-title": "Anaesthesia"
+      },
+      {
+        "issue": "S3",
+        "key": "3293_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "1441",
+        "DOI": "10.1111/1475-6773.13706",
+        "volume": "56",
+        "author": "L Maynou",
+        "year": "2021",
+        "unstructured": "Maynou L, Mehtsun WT, Serra-Sastre V, Papanicolas I (2021) Patterns of adoption of robotic radical prostatectomy in the United States and England. Health Serv Res 56(S3):1441–1461",
+        "journal-title": "Health Serv Res"
+      },
+      {
+        "issue": "22",
+        "key": "3293_CR39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0000000000015770",
+        "volume": "98",
+        "author": "L Cao",
+        "year": "2019",
+        "unstructured": "Cao L, Yang Z, Qi L, Chen M (2019) Robot-assisted and laparoscopic vs open radical prostatectomy in clinically localized prostate cancer: perioperative, functional, and oncological outcomes: a systematic review and meta-analysis. Medicine (Baltimore) 98(22):e15770",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "issue": "14",
+        "key": "3293_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "1462",
+        "DOI": "10.1001/jama.2013.278787",
+        "volume": "310",
+        "author": "MT Hawn",
+        "year": "2013",
+        "unstructured": "Hawn MT, Graham LA, Richman JS, Itani KMF, Henderson WG, Maddox TM (2013) Risk of major adverse cardiac events following noncardiac surgery in patients with coronary stents. JAMA 310(14):1462–1472",
+        "journal-title": "JAMA"
+      }
+    ],
+    "container-title": [
+      "International Urology and Nephrology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11255-022-03293-3.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11255-022-03293-3/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11255-022-03293-3.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          26
+        ]
+      ],
+      "date-time": "2022-10-26T13:27:03Z",
+      "timestamp": 1666790823000
+    },
+    "score": 49.826904,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s11255-022-03293-3"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          18
+        ]
+      ]
+    },
+    "references-count": 40,
+    "journal-issue": {
+      "issue": "12",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "3293"
+    ],
+    "URL": "https://doi.org/10.1007/s11255-022-03293-3",
+    "ISSN": [
+      "1573-2584"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "1573-2584"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          18
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "1 May 2022",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "29 June 2022",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "18 August 2022",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "The authors declare that they have no conflict of interest.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Conflict of interest"
+        }
+      },
+      {
+        "value": "The de-identified database (ACS-NSQIP) does not constitute human subject research; therefore, no consent to participate or institutional review board (IRB) approval was required or attained.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Informed consent"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          28
+        ]
+      ],
+      "date-time": "2026-02-28T01:27:45Z",
+      "timestamp": 1772242065466,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "Edizioni Minerva Medica",
+    "issue": "1",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Minerva Urol Nephrol"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.23736/s0393-2249.16.02681-3",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          2
+        ]
+      ],
+      "date-time": "2021-07-02T09:06:29Z",
+      "timestamp": 1625216789000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Predicting the risk of positive surgical margins following robotic-assisted radical prostatectomy"
+    ],
+    "prefix": "10.23736",
+    "volume": "69",
+    "author": [
+      {
+        "given": "David R.",
+        "family": "Alchin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Declan",
+        "family": "Murphy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nathan",
+        "family": "Lawrentschuk",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "17149",
+    "container-title": [
+      "Minerva Urology and Nephrology"
+    ],
+    "link": [
+      {
+        "URL": "https://www.minervamedica.it/pdf.php?cod=R19Y2017N01A0056",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          2
+        ]
+      ],
+      "date-time": "2021-07-02T09:06:37Z",
+      "timestamp": 1625216797000
+    },
+    "score": 47.575924,
+    "resource": {
+      "primary": {
+        "URL": "https://www.minervamedica.it/index2.php?show=R19Y2017N01A0056"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          12
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "1"
+    },
+    "URL": "https://doi.org/10.23736/s0393-2249.16.02681-3",
+    "relation": {
+      "is-cited-by": [
+        {
+          "id-type": "doi",
+          "id": "10.23736/S0393-2249.19.03427-1",
+          "asserted-by": "object"
+        },
+        {
+          "id-type": "doi",
+          "id": "10.23736/S0393-2249.18.03260-5",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "2724-6051",
+      "2724-6442"
+    ],
+    "issn-type": [
+      {
+        "value": "2724-6051",
+        "type": "print"
+      },
+      {
+        "value": "2724-6442",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2026-01-22T07:50:10Z",
+      "timestamp": 1769068210578,
+      "version": "3.49.0"
+    },
+    "reference-count": 30,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              4,
+              15
+            ]
+          ],
+          "date-time": "2016-04-15T00:00:00Z",
+          "timestamp": 1460678400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "J Robotic Surg"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1007/s11701-016-0588-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          15
+        ]
+      ],
+      "date-time": "2016-04-15T12:15:43Z",
+      "timestamp": 1460722543000
+    },
+    "page": "151-156",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 23,
+    "title": [
+      "Patient comorbidity predicts hospital length of stay after robot-assisted prostatectomy"
+    ],
+    "prefix": "10.1007",
+    "volume": "10",
+    "author": [
+      {
+        "given": "Aaron M.",
+        "family": "Potretzke",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Eric H.",
+        "family": "Kim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Brent A.",
+        "family": "Knight",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Barrett G.",
+        "family": "Anderson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alyssa M.",
+        "family": "Park",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Sherburne Figenshau",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sam B.",
+        "family": "Bhayani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          15
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "1",
+        "key": "588_CR1",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1002/cncr.26274",
+        "volume": "118",
+        "author": "KB Stitzenberg",
+        "year": "2012",
+        "unstructured": "Stitzenberg KB, Wong YN, Nielsen ME, Egleston BL, Uzzo RG (2012) Trends in radical prostatectomy: centralization, robotics, and access to urologic cancer care. Cancer 118(1):54–62. doi: 10.1002/cncr.26274",
+        "journal-title": "Cancer"
+      },
+      {
+        "issue": "1",
+        "key": "588_CR2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.eururo.2012.02.029",
+        "volume": "62",
+        "author": "A Tewari",
+        "year": "2012",
+        "unstructured": "Tewari A, Sooriakumaran P, Bloch DA, Seshadri-Kreaden U, Hebert AE, Wiklund P (2012) Positive surgical margin and perioperative complication rates of primary surgical treatments for prostate cancer: a systematic review and meta-analysis comparing retropubic, laparoscopic, and robotic prostatectomy. Eur Urol 62(1):1–15. doi: 10.1016/j.eururo.2012.02.029",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "588_CR3",
+        "author": "M Alemozaffar",
+        "year": "2014",
+        "unstructured": "Alemozaffar M, Sanda M, Yecies D, Mucci LA, Stampfer MJ, Kenfield SA (2014) Benchmarks for operative outcomes of robotic and open radical prostatectomy: results from the health professionals follow-up study. Eur Urol. doi: 10.1016/j.eururo.2014.01.039",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "588_CR4",
+        "doi-asserted-by": "crossref",
+        "first-page": "203",
+        "DOI": "10.1056/NEJMoa1113162",
+        "volume": "367",
+        "author": "TJ Wilt",
+        "year": "2012",
+        "unstructured": "Wilt TJ, Brawer MK, Jones KM, Barry MJ, Aronson WJ, Fox S, Gingrich JR, Wei JT, Gilhooly P, Grob BM, Nsouli I, Iyer P, Cartagena R, Snider G, Roehrborn C, Sharifi R, Blank W, Pandya P, Andriole GL, Culkin D, Wheeler T, Prostate Cancer Intervention versus Observation Trial Study G (2012) Radical prostatectomy versus observation for localized prostate cancer. N Engl J Med 367(3):203–213. doi: 10.1056/NEJMoa1113162",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "18",
+        "key": "588_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1708",
+        "DOI": "10.1056/NEJMoa1011967",
+        "volume": "364",
+        "author": "A Bill-Axelson",
+        "year": "2011",
+        "unstructured": "Bill-Axelson A, Holmberg L, Ruutu M, Garmo H, Stark JR, Busch C, Nordling S, Haggman M, Andersson SO, Bratell S, Spangberg A, Palmgren J, Steineck G, Adami HO, Johansson JE, Investigators S- (2011) Radical prostatectomy versus watchful waiting in early prostate cancer. N Engl J Med 364(18):1708–1717. doi: 10.1056/NEJMoa1011967",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "11",
+        "key": "588_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "935",
+        "DOI": "10.1002/hec.774",
+        "volume": "12",
+        "author": "E Polverejan",
+        "year": "2003",
+        "unstructured": "Polverejan E, Gardiner JC, Bradley CJ, Holmes-Rovner M, Rovner D (2003) Estimating mean hospital cost as a function of length of stay and patient characteristics. Health Econ 12(11):935–947. doi: 10.1002/hec.774",
+        "journal-title": "Health Econ"
+      },
+      {
+        "issue": "4",
+        "key": "588_CR7",
+        "first-page": "489",
+        "volume": "42",
+        "author": "JW Thomas",
+        "year": "1997",
+        "unstructured": "Thomas JW, Guire KE, Horvat GG (1997) Is patient length of stay related to quality of care? Hosp Health Serv Adm 42(4):489–507",
+        "journal-title": "Hosp Health Serv Adm"
+      },
+      {
+        "issue": "10",
+        "key": "588_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1928",
+        "DOI": "10.1200/JCO.2003.05.157",
+        "volume": "21",
+        "author": "BA Spencer",
+        "year": "2003",
+        "unstructured": "Spencer BA, Steinberg M, Malin J, Adams J, Litwin MS (2003) Quality-of-care indicators for early-stage prostate cancer. J Clin Oncol Off J Am Soc Clin Oncol 21(10):1928–1936. doi: 10.1200/JCO.2003.05.157",
+        "journal-title": "J Clin Oncol Off J Am Soc Clin Oncol"
+      },
+      {
+        "issue": "11",
+        "key": "588_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1245",
+        "DOI": "10.1016/0895-4356(94)90129-5",
+        "volume": "47",
+        "author": "M Charlson",
+        "year": "1994",
+        "unstructured": "Charlson M, Szatrowski TP, Peterson J, Gold J (1994) Validation of a combined comorbidity index. J Clin Epidemiol 47(11):1245–1251",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "issue": "2",
+        "key": "588_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1097/01.sla.0000133083.54934.ae",
+        "volume": "240",
+        "author": "D Dindo",
+        "year": "2004",
+        "unstructured": "Dindo D, Demartines N, Clavien PA (2004) Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey. Ann Surg 240(2):205–213",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "issue": "3",
+        "key": "588_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "volume": "62",
+        "author": "V Ficarra",
+        "year": "2012",
+        "unstructured": "Ficarra V, Novara G, Rosen RC, Artibani W, Carroll PR, Costello A, Menon M, Montorsi F, Patel VR, Stolzenburg JU, Van der Poel H, Wilson TG, Zattoni F, Mottrie A (2012) Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy. Eur Urol 62(3):405–417. doi: 10.1016/j.eururo.2012.05.045",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "588_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "431",
+        "DOI": "10.1016/j.eururo.2012.05.044",
+        "volume": "62",
+        "author": "G Novara",
+        "year": "2012",
+        "unstructured": "Novara G, Ficarra V, Rosen RC, Artibani W, Costello A, Eastham JA, Graefen M, Guazzoni G, Shariat SF, Stolzenburg JU, Van Poppel H, Zattoni F, Montorsi F, Mottrie A, Wilson TG (2012) Systematic review and meta-analysis of perioperative outcomes and complications after robot-assisted radical prostatectomy. Eur Urol 62(3):431–452. doi: 10.1016/j.eururo.2012.05.044",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "588_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/j.eururo.2012.05.046",
+        "volume": "62",
+        "author": "V Ficarra",
+        "year": "2012",
+        "unstructured": "Ficarra V, Novara G, Ahlering TE, Costello A, Eastham JA, Graefen M, Guazzoni G, Menon M, Mottrie A, Patel VR, Van der Poel H, Rosen RC, Tewari AK, Wilson TG, Zattoni F, Montorsi F (2012) Systematic review and meta-analysis of studies reporting potency rates after robot-assisted radical prostatectomy. Eur Urol 62(3):418–430. doi: 10.1016/j.eururo.2012.05.046",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "588_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "579",
+        "DOI": "10.1016/j.urology.2013.03.080",
+        "volume": "82",
+        "author": "JJ Liu",
+        "year": "2013",
+        "unstructured": "Liu JJ, Maxwell BG, Panousis P, Chung BI (2013) Perioperative outcomes for laparoscopic and robotic compared with open prostatectomy using the National Surgical Quality Improvement Program (NSQIP) database. Urology 82(3):579–583. doi: 10.1016/j.urology.2013.03.080",
+        "journal-title": "Urology"
+      },
+      {
+        "issue": "4",
+        "key": "588_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "679",
+        "DOI": "10.1016/j.eururo.2011.12.027",
+        "volume": "61",
+        "author": "QD Trinh",
+        "year": "2012",
+        "unstructured": "Trinh QD, Sammon J, Sun M, Ravi P, Ghani KR, Bianchi M, Jeong W, Shariat SF, Hansen J, Schmitges J, Jeldres C, Rogers CG, Peabody JO, Montorsi F, Menon M, Karakiewicz PI (2012) Perioperative outcomes of robot-assisted radical prostatectomy compared with open radical prostatectomy: results from the nationwide inpatient sample. Eur Urol 61(4):679–685. doi: 10.1016/j.eururo.2011.12.027",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "588_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.eururo.2012.05.047",
+        "volume": "62",
+        "author": "G Novara",
+        "year": "2012",
+        "unstructured": "Novara G, Ficarra V, Mocellin S, Ahlering TE, Carroll PR, Graefen M, Guazzoni G, Menon M, Patel VR, Shariat SF, Tewari AK, Van Poppel H, Zattoni F, Montorsi F, Mottrie A, Rosen RC, Wilson TG (2012) Systematic review and meta-analysis of studies reporting oncologic outcome after robot-assisted radical prostatectomy. Eur Urol 62(3):382–404. doi: 10.1016/j.eururo.2012.05.047",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "4",
+        "key": "588_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "666",
+        "DOI": "10.1016/j.eururo.2014.02.015",
+        "volume": "66",
+        "author": "JC Hu",
+        "year": "2014",
+        "unstructured": "Hu JC, Gandaglia G, Karakiewicz PI, Nguyen PL, Trinh QD, Shih YC, Abdollah F, Chamie K, Wright JL, Ganz PA, Sun M (2014) Comparative effectiveness of robot-assisted versus open radical prostatectomy cancer control. Eur Urol 66(4):666–672. doi: 10.1016/j.eururo.2014.02.015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "3",
+        "key": "588_CR18",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1016/j.urolonc.2009.03.001",
+        "volume": "28",
+        "author": "DA Barocas",
+        "year": "2010",
+        "unstructured": "Barocas DA, Mitchell R, Chang SS, Cookson MS (2010) Impact of surgeon and hospital volume on outcomes of radical prostatectomy. Urol Oncol 28(3):243–250. doi: 10.1016/j.urolonc.2009.03.001",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "issue": "5",
+        "key": "588_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "1849",
+        "DOI": "10.1016/j.juro.2011.06.068",
+        "volume": "186",
+        "author": "QD Trinh",
+        "year": "2011",
+        "unstructured": "Trinh QD, Schmitges J, Sun M, Shariat SF, Sukumar S, Bianchi M, Tian Z, Jeldres C, Sammon J, Perrotte P, Graefen M, Peabody JO, Menon M, Karakiewicz PI (2011) Radical prostatectomy at academic versus nonacademic institutions: a population based analysis. J Urol 186(5):1849–1854. doi: 10.1016/j.juro.2011.06.068",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "9",
+        "key": "588_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1132",
+        "DOI": "10.1089/end.2014.0259",
+        "volume": "28",
+        "author": "MF Monn",
+        "year": "2014",
+        "unstructured": "Monn MF, Jain R, Kaimakliotis HZ, Flack CK, Koch MO, Boris RS (2014) Examining the relationship between operative time and hospitalization time in minimally invasive and open urologic procedures. J Endourol/Endourol Soc 28(9):1132–1137. doi: 10.1089/end.2014.0259",
+        "journal-title": "J Endourol/Endourol Soc"
+      },
+      {
+        "issue": "6",
+        "key": "588_CR21",
+        "doi-asserted-by": "crossref",
+        "first-page": "1265",
+        "DOI": "10.1016/j.urology.2014.01.047",
+        "volume": "83",
+        "author": "KH Huang",
+        "year": "2014",
+        "unstructured": "Huang KH, Kaplan AL, Carter SC, Lipsitz SR, Hu JC (2014) The impact of radical prostatectomy operative time on outcomes and costs. Urology 83(6):1265–1271. doi: 10.1016/j.urology.2014.01.047",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "588_CR22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Procter LD, Davenport DL, Bernard AC, Zwischenberger JB (2010) General surgical operative duration is associated with increased risk-adjusted infectious complication rates and length of hospital stay. J Am Coll Surg 210(1):60–65 e61–62. doi: 10.1016/j.jamcollsurg.2009.09.034",
+        "DOI": "10.1016/j.jamcollsurg.2009.09.034"
+      },
+      {
+        "issue": "3",
+        "key": "588_CR23",
+        "doi-asserted-by": "crossref",
+        "first-page": "453",
+        "DOI": "10.1016/j.eururo.2009.11.008",
+        "volume": "57",
+        "author": "C Bolenz",
+        "year": "2010",
+        "unstructured": "Bolenz C, Gupta A, Hotze T, Ho R, Cadeddu JA, Roehrborn CG, Lotan Y (2010) Cost comparison of robotic, laparoscopic, and open radical prostatectomy for prostate cancer. Eur Urol 57(3):453–458. doi: 10.1016/j.eururo.2009.11.008",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "6",
+        "key": "588_CR24",
+        "doi-asserted-by": "crossref",
+        "first-page": "2323",
+        "DOI": "10.1097/01.ju.0000181830.43340.e7",
+        "volume": "174",
+        "author": "CD Scales Jr",
+        "year": "2005",
+        "unstructured": "Scales CD Jr, Jones PJ, Eisenstein EL, Preminger GM, Albala DM (2005) Local cost structures and the economics of robot assisted radical prostatectomy. J Urol 174(6):2323–2329. doi: 10.1097/01.ju.0000181830.43340.e7",
+        "journal-title": "J Urol"
+      },
+      {
+        "issue": "3",
+        "key": "588_CR25",
+        "doi-asserted-by": "crossref",
+        "first-page": "325",
+        "DOI": "10.1016/j.urolonc.2011.01.016",
+        "volume": "29",
+        "author": "C Bolenz",
+        "year": "2011",
+        "unstructured": "Bolenz C, Gupta A, Roehrborn CG, Lotan Y (2011) Predictors of costs for robotic-assisted laparoscopic radical prostatectomy. Urol Oncol 29(3):325–329. doi: 10.1016/j.urolonc.2011.01.016",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "issue": "14",
+        "key": "588_CR26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1457",
+        "DOI": "10.1056/NEJMe0901006",
+        "volume": "360",
+        "author": "AM Epstein",
+        "year": "2009",
+        "unstructured": "Epstein AM (2009) Revisiting readmissions–changing the incentives for shared accountability. N Engl J Med 360(14):1457–1459. doi: 10.1056/NEJMe0901006",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "1",
+        "key": "588_CR27",
+        "doi-asserted-by": "crossref",
+        "first-page": "59",
+        "DOI": "10.1016/j.juro.2012.08.182",
+        "volume": "189",
+        "author": "BL Jacobs",
+        "year": "2013",
+        "unstructured": "Jacobs BL, Zhang Y, Tan HJ, Ye Z, Skolarus TA, Hollenbeck BK (2013) Hospitalization trends after prostate and bladder surgery: implications of potential payment reforms. J Urol 189(1):59–65. doi: 10.1016/j.juro.2012.08.182",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "588_CR28",
+        "unstructured": "Specifications Manual for National Hospital Inpatient Quality Measures (2014). http://www.jointcommission.org/specifications_manual_for_national_hospital_inpatient_quality_measures.aspx . Accessed 3 Feb 2015"
+      },
+      {
+        "issue": "2",
+        "key": "588_CR29",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1007/BF01967579",
+        "volume": "12",
+        "author": "BH Tess",
+        "year": "1993",
+        "unstructured": "Tess BH, Glenister HM, Rodrigues LC, Wagner MB (1993) Incidence of hospital-acquired infection and length of hospital stay. Eur J Clin Microbiol Infect Dis Off Publ Eur Soc Clin Microbiol 12(2):81–86",
+        "journal-title": "Eur J Clin Microbiol Infect Dis Off Publ Eur Soc Clin Microbiol"
+      },
+      {
+        "key": "588_CR30",
+        "unstructured": "Leonhardt D (2009) In health reform, a cancer offers and acid test. http://www.nytimes.com/2009/07/08/business/economy/08leonhardt.html?_r=0 . Accessed 27 Jan 2015"
+      }
+    ],
+    "container-title": [
+      "Journal of Robotic Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11701-016-0588-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s11701-016-0588-6/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11701-016-0588-6",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          1
+        ]
+      ],
+      "date-time": "2019-06-01T21:00:31Z",
+      "timestamp": 1559422831000
+    },
+    "score": 45.890354,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/s11701-016-0588-6"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          15
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "588"
+    ],
+    "URL": "https://doi.org/10.1007/s11701-016-0588-6",
+    "ISSN": [
+      "1863-2483",
+      "1863-2491"
+    ],
+    "issn-type": [
+      {
+        "value": "1863-2483",
+        "type": "print"
+      },
+      {
+        "value": "1863-2491",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          15
+        ]
+      ]
+    }
+  }
+]

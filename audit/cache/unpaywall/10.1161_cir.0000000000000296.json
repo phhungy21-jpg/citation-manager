@@ -1,0 +1,198 @@
+{
+  "best_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2015-10-13",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000000296",
+    "url_for_landing_page": "https://doi.org/10.1161/cir.0000000000000296",
+    "url_for_pdf": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000000296",
+    "version": "publishedVersion"
+  },
+  "data_standard": 2,
+  "doi": "10.1161/cir.0000000000000296",
+  "doi_url": "https://doi.org/10.1161/cir.0000000000000296",
+  "first_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": null,
+    "oa_date": "2015-10-13",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000000296",
+    "url_for_landing_page": "https://doi.org/10.1161/cir.0000000000000296",
+    "url_for_pdf": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000000296",
+    "version": "publishedVersion"
+  },
+  "genre": "journal-article",
+  "has_repository_copy": false,
+  "is_oa": true,
+  "is_paratext": false,
+  "journal_is_in_doaj": false,
+  "journal_is_oa": false,
+  "journal_issn_l": "0009-7322",
+  "journal_issns": "0009-7322,1524-4539",
+  "journal_name": "Circulation",
+  "oa_locations": [
+    {
+      "endpoint_id": null,
+      "evidence": "deprecated",
+      "host_type": "publisher",
+      "is_best": true,
+      "license": null,
+      "oa_date": "2015-10-13",
+      "pmh_id": null,
+      "repository_institution": null,
+      "updated": "deprecated",
+      "url": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000000296",
+      "url_for_landing_page": "https://doi.org/10.1161/cir.0000000000000296",
+      "url_for_pdf": "https://www.ahajournals.org/doi/pdf/10.1161/CIR.0000000000000296",
+      "version": "publishedVersion"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "oa_status": "bronze",
+  "published_date": "2015-10-13",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+  "title": "Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications",
+  "updated": "2025-09-30T02:39:23Z",
+  "year": 2015,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Larry M. Baddour"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Walter R. Wilson"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Arnold S. Bayer"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Vance G. Fowler"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Imad M. Tleyjeh"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Michael J. Rybak"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Bruno Barsic"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Peter B. Lockhart"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Michael H. Gewitz"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Matthew E. Levison"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Ann F. Bolger"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "James M. Steckelberg"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Robert S. Baltimore"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Biobehavioral Health Science"
+      ],
+      "raw_author_name": "Anne M. Fink"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Patrick O’Gara"
+    },
+    {
+      "author_position": "last",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular"
+      ],
+      "raw_author_name": "Kathryn A. Taubert"
+    }
+  ]
+}

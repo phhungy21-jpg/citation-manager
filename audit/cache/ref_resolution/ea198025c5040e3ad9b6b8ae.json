@@ -1,0 +1,1478 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2025-11-12T05:49:21Z",
+      "timestamp": 1762926561963,
+      "version": "build-2065373602"
+    },
+    "reference-count": 21,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2020-02-01T00:00:00Z",
+          "timestamp": 1580515200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2020-02-01T00:00:00Z",
+          "timestamp": 1580515200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "heartlungcirc.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.hlc.2018.12.016",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          1
+        ]
+      ],
+      "date-time": "2019-02-01T06:29:08Z",
+      "timestamp": 1549002548000
+    },
+    "page": "246-253",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 17,
+    "title": [
+      "Infective Endocarditis in the Intravenous Drug Use Population at a Tertiary Hospital in Melbourne, Australia"
+    ],
+    "prefix": "10.1016",
+    "volume": "29",
+    "author": [
+      {
+        "given": "Adelene",
+        "family": "Hilbig",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Allen",
+        "family": "Cheng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.hlc.2018.12.016_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "545",
+        "DOI": "10.1186/1471-2334-13-545",
+        "article-title": "Profile of infective endocarditis observed from 2003-2010 in a single centre in Italy",
+        "volume": "13",
+        "author": "Ferraris",
+        "year": "2013",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.hlc.2018.12.016_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.1016/j.jinf.2005.02.025",
+        "article-title": "Profile of infective endocarditis in a referral hospital over the last 24 years",
+        "volume": "52",
+        "author": "Cicalini",
+        "year": "2006",
+        "journal-title": "J Infect"
+      },
+      {
+        "issue": "10",
+        "key": "10.1016/j.hlc.2018.12.016_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "1457",
+        "DOI": "10.1136/hrt.2005.084715",
+        "article-title": "Infective endocarditis in a Finnish teaching hospital: a study on 326 episodes treated during 1980-2004",
+        "volume": "92",
+        "author": "Heiro",
+        "year": "2006",
+        "journal-title": "Heart"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.hlc.2018.12.016_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1097/MD.0b013e318194da65",
+        "article-title": "Endocarditis caused by Staphylococcus aureus: a reappraisal of the epidemiologic, clinical, and pathologic manifestations with analysis of factors determining outcome",
+        "volume": "88",
+        "author": "Fernandez Guerrero",
+        "year": "2009",
+        "journal-title": "Medicine (Baltimore)"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.hlc.2018.12.016_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "484",
+        "DOI": "10.1016/j.hlc.2017.03.166",
+        "article-title": "The Current Epidemiology of Injecting Drug Use-Associated Infective Endocarditis in Victoria, Australia in the Midst of Increasing Crystal Methamphetamine Use",
+        "volume": "27",
+        "author": "Wright",
+        "year": "2018",
+        "journal-title": "Heart Lung Circ"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.hlc.2018.12.016_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "466",
+        "DOI": "10.1016/j.hlc.2015.10.013",
+        "article-title": "A Retrospective Review: Significance of Vegetation Size in Injection Drug Users with Right-Sided Infective Endocarditis",
+        "volume": "25",
+        "author": "Otome",
+        "year": "2016",
+        "journal-title": "Heart Lung Circ"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.hlc.2018.12.016_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "412",
+        "DOI": "10.1111/dar.12228",
+        "article-title": "Evolving epidemiology of injecting drug use-associated infective endocarditis: A regional centre experience",
+        "volume": "34",
+        "author": "Tung",
+        "year": "2015",
+        "journal-title": "Drug and Alcohol Rev"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.hlc.2018.12.016_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "1099",
+        "DOI": "10.1016/j.ahj.2005.02.009",
+        "article-title": "Analysis of mortality and risk factors associated with native valve endocarditis in drug users: the importance of vegetation size",
+        "volume": "150",
+        "author": "Martin-Davila",
+        "year": "2005",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.hlc.2018.12.016_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "30",
+        "DOI": "10.1016/j.athoracsur.2006.07.037",
+        "article-title": "Long-term outcomes in valve replacement surgery for infective endocarditis",
+        "volume": "83",
+        "author": "Kaiser",
+        "year": "2007",
+        "journal-title": "Ann Thorac Surg"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.hlc.2018.12.016_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "826",
+        "DOI": "10.1093/ejcts/ezu281",
+        "article-title": "Surgical management of infective endocarditis: an analysis of early and late outcomes",
+        "volume": "47",
+        "author": "Pang",
+        "year": "2015",
+        "journal-title": "Eur J Cardiothorac Surg"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.hlc.2018.12.016_bib0055",
+        "first-page": "125",
+        "article-title": "Infective endocarditis in intravenous drug abusers: patterns of presentation and long-term outcomes of surgical treatment",
+        "volume": "15",
+        "author": "Carozza",
+        "year": "2006",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "issue": "58",
+        "key": "10.1016/j.hlc.2018.12.016_bib0060",
+        "article-title": "Surgical treatment of infective endocarditis in active intravenous drugs users: a justified procedure?",
+        "volume": "9",
+        "author": "Weymann",
+        "year": "2014",
+        "journal-title": "J Card Surg"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.hlc.2018.12.016_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "977",
+        "DOI": "10.4045/tidsskr.12.0779",
+        "article-title": "Should patients who use illicit drugs be offered a second heart-valve replacement?",
+        "volume": "133",
+        "author": "Miljeteig",
+        "year": "2013",
+        "journal-title": "Tidsskr Nor Laegeforen"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.hlc.2018.12.016_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "32",
+        "DOI": "10.1111/j.1540-8191.2007.00334.x",
+        "article-title": "Clinical patterns of surgical endocarditis",
+        "volume": "22",
+        "author": "Baumgartner",
+        "year": "2007",
+        "journal-title": "J Card Surg"
+      },
+      {
+        "author": "MedScape",
+        "key": "10.1016/j.hlc.2018.12.016_bib0075"
+      },
+      {
+        "key": "10.1016/j.hlc.2018.12.016_bib0080",
+        "series-title": "Handbook of clinical Neurology",
+        "first-page": "75",
+        "article-title": "Infective endocarditis",
+        "author": "Ferro",
+        "year": "2014"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.hlc.2018.12.016_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "246",
+        "DOI": "10.1053/jinf.2002.1058",
+        "article-title": "The changing clinical aspects of infective endocarditis: descriptive review of 90 episodes in a French teaching hospital and risk factors for death",
+        "volume": "45",
+        "author": "Mouly",
+        "year": "2002",
+        "journal-title": "J Infect"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.hlc.2018.12.016_bib0090",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0067519",
+        "article-title": "A nationwide cohort study of mortality risk and long-term prognosis in infective endocarditis in Sweden",
+        "volume": "8",
+        "author": "Ternhag",
+        "year": "2013",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.hlc.2018.12.016_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "705",
+        "DOI": "10.1016/j.hlc.2015.01.013",
+        "article-title": "Predictors of in-hospital adverse events in patients with prosthetic valve infective endocarditis",
+        "volume": "24",
+        "author": "Tan",
+        "year": "2015",
+        "journal-title": "Heart Lung Circ"
+      },
+      {
+        "key": "10.1016/j.hlc.2018.12.016_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "49",
+        "DOI": "10.1186/1471-2334-8-49",
+        "article-title": "Long-term outcome of infective endocarditis: a study on patients surviving over one year after the initial episode treated in a Finnish teaching hospital during 25 years",
+        "volume": "8",
+        "author": "Heiro",
+        "year": "2008",
+        "journal-title": "BMC Infect Dis"
+      },
+      {
+        "issue": "Supp2",
+        "key": "10.1016/j.hlc.2018.12.016_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "S315",
+        "DOI": "10.1016/j.hlc.2018.06.607",
+        "article-title": "Epidemiological analysis of infective endocarditis at a major tertiary centre: a comparison between intravenous drug users and non-intravenous drug users over a six year period",
+        "volume": "27",
+        "author": "Yoon",
+        "year": "2018",
+        "journal-title": "Heart Lung Circ"
+      }
+    ],
+    "container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950619300381?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950619300381?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2025-10-25T18:01:03Z",
+      "timestamp": 1761415263000
+    },
+    "score": 112.756676,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1443950619300381"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2
+        ]
+      ]
+    },
+    "references-count": 21,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1443950619300381"
+    ],
+    "URL": "https://doi.org/10.1016/j.hlc.2018.12.016",
+    "ISSN": [
+      "1443-9506"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1443-9506"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Infective Endocarditis in the Intravenous Drug Use Population at a Tertiary Hospital in Melbourne, Australia",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Heart, Lung and Circulation",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.hlc.2018.12.016",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2019 Australian and New Zealand Society of Cardiac and Thoracic Surgeons (ANZSCTS) and the Cardiac Society of Australia and New Zealand (CSANZ). Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2024-08-02T03:10:23Z",
+      "timestamp": 1722568223118
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2020-01-01T00:00:00Z",
+          "timestamp": 1577836800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2020-01-01T00:00:00Z",
+          "timestamp": 1577836800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "heartlungcirc.org",
+        "clinicalkey.es",
+        "clinicalkey.com.au",
+        "clinicalkey.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.hlc.2020.09.511",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          8
+        ]
+      ],
+      "date-time": "2020-11-08T05:40:39Z",
+      "timestamp": 1604814039000
+    },
+    "page": "S264",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S2",
+    "title": [
+      "504 Infective Endocarditis at a Tertiary Hospital in Adelaide, Australia"
+    ],
+    "prefix": "10.1016",
+    "volume": "29",
+    "author": [
+      {
+        "given": "L.",
+        "family": "Murray",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Mugwagwa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Horsfall",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Tam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Teh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D.",
+        "family": "Gordon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Bennetts",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Joseph",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950620309884?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950620309884?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2024-08-02T02:38:59Z",
+      "timestamp": 1722566339000
+    },
+    "score": 55.44745,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1443950620309884"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S1443950620309884"
+    ],
+    "URL": "https://doi.org/10.1016/j.hlc.2020.09.511",
+    "ISSN": [
+      "1443-9506"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1443-9506"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "504 Infective Endocarditis at a Tertiary Hospital in Adelaide, Australia",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Heart, Lung and Circulation",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.hlc.2020.09.511",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2020 Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2025-10-25T18:06:39Z",
+      "timestamp": 1761415599585,
+      "version": "build-2065373602"
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2021-01-01T00:00:00Z",
+          "timestamp": 1609459200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2021-01-01T00:00:00Z",
+          "timestamp": 1609459200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "heartlungcirc.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.hlc.2021.03.033",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          28
+        ]
+      ],
+      "date-time": "2021-05-28T18:54:25Z",
+      "timestamp": 1622228065000
+    },
+    "page": "S10-S11",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S1",
+    "title": [
+      "M24 Multivalve Infective Endocarditis in Intravenous Drug Users: A 19-year Study at a Tertiary Hospital"
+    ],
+    "prefix": "10.1016",
+    "volume": "30",
+    "author": [
+      {
+        "given": "I.",
+        "family": "Khan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "N.",
+        "family": "Yaftian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Wilson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Darby",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Newcomb",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950621001451?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950621001451?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2025-10-25T18:03:22Z",
+      "timestamp": 1761415402000
+    },
+    "score": 53.622707,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1443950621001451"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S1443950621001451"
+    ],
+    "URL": "https://doi.org/10.1016/j.hlc.2021.03.033",
+    "ISSN": [
+      "1443-9506"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1443-9506"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "M24 Multivalve Infective Endocarditis in Intravenous Drug Users: A 19-year Study at a Tertiary Hospital",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Heart, Lung and Circulation",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.hlc.2021.03.033",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2021 Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2024-09-16T10:01:49Z",
+      "timestamp": 1726480909336
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2016-08-01T00:00:00Z",
+          "timestamp": 1470009600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "heartlungcirc.org",
+        "clinicalkey.jp",
+        "clinicalkey.com",
+        "clinicalkey.es",
+        "clinicalkey.com.au",
+        "clinicalkey.fr",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.hlc.2016.06.685",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          7,
+          26
+        ]
+      ],
+      "date-time": "2016-07-26T09:18:27Z",
+      "timestamp": 1469524707000
+    },
+    "page": "S291",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "special_numbering": "S2",
+    "title": [
+      "Medical Versus Surgical Management of Infective Endocarditis in a Western Australia Tertiary Hospital Setting"
+    ],
+    "prefix": "10.1016",
+    "volume": "25",
+    "author": [
+      {
+        "given": "N.",
+        "family": "Lan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "C.",
+        "family": "Judkins",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950616309520?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950616309520?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2018-09-10T07:53:39Z",
+      "timestamp": 1536566019000
+    },
+    "score": 51.647995,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1443950616309520"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          8
+        ]
+      ]
+    },
+    "references-count": 0,
+    "alternative-id": [
+      "S1443950616309520"
+    ],
+    "URL": "https://doi.org/10.1016/j.hlc.2016.06.685",
+    "ISSN": [
+      "1443-9506"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1443-9506"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Medical Versus Surgical Management of Infective Endocarditis in a Western Australia Tertiary Hospital Setting",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Heart, Lung and Circulation",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.hlc.2016.06.685",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2016 Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          25
+        ]
+      ],
+      "date-time": "2025-10-25T19:07:12Z",
+      "timestamp": 1761419232025
+    },
+    "reference-count": 3,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2018-01-01T00:00:00Z",
+          "timestamp": 1514764800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "heartlungcirc.org",
+        "clinicalkey.jp",
+        "clinicalkey.com",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.com.au",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.hlc.2018.06.607",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          26
+        ]
+      ],
+      "date-time": "2018-07-26T03:31:36Z",
+      "timestamp": 1532575896000
+    },
+    "page": "S315-S316",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "special_numbering": "S2",
+    "title": [
+      "Epidemiological Analysis of Infective Endocarditis in a Major Tertiary Centre: A Comparison Between Intravenous Drug Users and Non-Intravenous Drug Users Over a Six-Year Period"
+    ],
+    "prefix": "10.1016",
+    "volume": "27",
+    "author": [
+      {
+        "given": "J.",
+        "family": "Yoon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J.",
+        "family": "Ramnarain",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Sivabalan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Simos",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Chatfield",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "N.",
+        "family": "Runnegar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.hlc.2018.06.607_bib0020",
+        "unstructured": "Health AGD . https://campaigns.health.gov.au/drughelp/drug-trends-and-statistics.(cited 04 March 2018)."
+      },
+      {
+        "key": "10.1016/j.hlc.2018.06.607_bib0025",
+        "unstructured": "Australian Institute of Health and Welfare 2017. Drug Statistics series no. 31. Cat. no. PHE 214. Canberra: AIHW."
+      },
+      {
+        "key": "10.1016/j.hlc.2018.06.607_bib0030",
+        "unstructured": "Australian Bureau of Statistics . Available from: http://www.censusdata.abs.gov.au/CensusOutput/copsub2016.nsf/All%20docs%20by%20catNo/Data-in-pictures/$FILE/australiaER.htmL.(cited 04 March 2018)."
+      }
+    ],
+    "container-title": [
+      "Heart, Lung and Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950618313386?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1443950618313386?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          5
+        ]
+      ],
+      "date-time": "2018-09-05T03:16:09Z",
+      "timestamp": 1536117369000
+    },
+    "score": 47.546753,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1443950618313386"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "references-count": 3,
+    "alternative-id": [
+      "S1443950618313386"
+    ],
+    "URL": "https://doi.org/10.1016/j.hlc.2018.06.607",
+    "ISSN": [
+      "1443-9506"
+    ],
+    "issn-type": [
+      {
+        "value": "1443-9506",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Epidemiological Analysis of Infective Endocarditis in a Major Tertiary Centre: A Comparison Between Intravenous Drug Users and Non-Intravenous Drug Users Over a Six-Year Period",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Heart, Lung and Circulation",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.hlc.2018.06.607",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2018 Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

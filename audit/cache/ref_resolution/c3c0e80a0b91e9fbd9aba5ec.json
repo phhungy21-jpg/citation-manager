@@ -1,0 +1,1677 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2026-04-29T20:08:35Z",
+      "timestamp": 1777493315901,
+      "version": "3.51.4"
+    },
+    "reference-count": 16,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2007-02-01T00:00:00Z",
+          "timestamp": 1170288000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2006.10.021",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          2,
+          22
+        ]
+      ],
+      "date-time": "2007-02-22T14:27:24Z",
+      "timestamp": 1172154444000
+    },
+    "page": "300-305",
+    "source": "Crossref",
+    "is-referenced-by-count": 71,
+    "title": [
+      "Effect of Prostate Weight on Operative and Postoperative Outcomes of Robotic-Assisted Laparoscopic Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "69",
+    "author": [
+      {
+        "given": "Kevin C.",
+        "family": "Zorn",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Marcelo A.",
+        "family": "Orvieto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Albert A.",
+        "family": "Mikhail",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ofer N.",
+        "family": "Gofrit",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shang",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anthony J.",
+        "family": "Schaeffer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Arieh L.",
+        "family": "Shalhav",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gregory P.",
+        "family": "Zagaja",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "631",
+        "DOI": "10.1016/S0090-4295(98)00228-3",
+        "article-title": "A prostate gland volume of more than 75 cm3 predicts for a favorable outcome after radical prostatectomy for localized prostate cancer",
+        "volume": "52",
+        "author": "D’Amico",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "601",
+        "DOI": "10.1016/S0090-4295(02)02422-6",
+        "article-title": "Influence of body weight and prostate volume on intraoperative, perioperative, and postoperative outcomes after radical retropubic prostatectomy",
+        "volume": "61",
+        "author": "Hsu",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "7546",
+        "DOI": "10.1200/JCO.2005.05.025",
+        "article-title": "Prostate size and risk of high-grade, advanced prostate cancer and biochemical progression after radical prostatectomy: a search database study",
+        "volume": "23",
+        "author": "Freeland",
+        "year": "2005",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1016/j.eururo.2005.04.029",
+        "article-title": "The impact of prostate size in laparoscopic radical prostatectomy",
+        "volume": "48",
+        "author": "Chang",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "552",
+        "DOI": "10.1097/01.ju.0000150101.95236.35",
+        "article-title": "Impact of prostate size and body mass index on perioperative morbidity after laparoscopic radical prostatectomy",
+        "volume": "173",
+        "author": "Singh",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "2101",
+        "DOI": "10.1016/S0022-5347(05)65514-0",
+        "article-title": "Laparoscopic radical prostatectomy with the Heilbronn technique: an analysis of the first 180 cases",
+        "volume": "166",
+        "author": "Rassweiler",
+        "year": "2001",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "314",
+        "DOI": "10.1016/S0090-4295(03)00250-4",
+        "article-title": "Laparoscopic radical prostatectomy—an analysis of factors affecting operating time",
+        "volume": "62",
+        "author": "El-Feel",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "419",
+        "DOI": "10.1016/j.urology.2005.03.015",
+        "article-title": "Modified clipless antegrade nerve preservation in robotic-assisted laparoscopic radical prostatectomy with validated sexual function evaluation",
+        "volume": "66",
+        "author": "Chien",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "508",
+        "DOI": "10.1016/j.urology.2006.03.071",
+        "article-title": "Minimizing knot tying during reconstructive laparoscopic urology",
+        "volume": "68",
+        "author": "Shalhav",
+        "year": "2006",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib10",
+        "first-page": "518",
+        "article-title": "Proposed classification of complications of surgery with examples of utility in cholecystectomy",
+        "volume": "111",
+        "author": "Clavien",
+        "year": "1992",
+        "journal-title": "Surgery"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1016/j.urology.2003.08.037",
+        "article-title": "Minor modifications in apical dissection of radical prostatectomy in patients with clinical stage T2 prostate cancer reduce positive surgical margin incidence",
+        "volume": "63",
+        "author": "Laven",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1281",
+        "DOI": "10.1016/S0022-5347(01)63581-X",
+        "article-title": "Surgical modifications of radical retropubic prostatectomy to decrease incidence of positive surgical margins",
+        "volume": "159",
+        "author": "Alsikafi",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "512",
+        "DOI": "10.1016/S0022-5347(17)38382-9",
+        "article-title": "Impact of anatomical radical prostatectomy on urinary continence",
+        "volume": "145",
+        "author": "Steiner",
+        "year": "1991",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1707",
+        "DOI": "10.1016/S0022-5347(01)65488-0",
+        "article-title": "Risk factors for urinary incontinence after radical prostatectomy",
+        "volume": "156",
+        "author": "Eastham",
+        "year": "1996",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "225",
+        "DOI": "10.1016/S0090-4295(96)00451-7",
+        "article-title": "Prospective assessment of incontinence after radical retropubic prostatectomy: objective and subjective analysis",
+        "volume": "49",
+        "author": "Donnellan",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.10.021_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "473",
+        "DOI": "10.1016/S0094-0143(05)70156-7",
+        "article-title": "Practical surgical anatomy for radical prostatectomy",
+        "volume": "28",
+        "author": "Myers",
+        "year": "2001",
+        "journal-title": "Urol Clin North Am"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429506024332?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429506024332?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2019-04-24T21:17:29Z",
+      "timestamp": 1556140649000
+    },
+    "score": 66.013565,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429506024332"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          2
+        ]
+      ]
+    },
+    "references-count": 16,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429506024332"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2006.10.021",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T01:11:34Z",
+      "timestamp": 1651194694288
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "4S",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2007-04-01T00:00:00Z",
+          "timestamp": 1175385600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0022-5347(18)31051-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2018-03-29T01:03:24Z",
+      "timestamp": 1522285404000
+    },
+    "page": "271-271",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "811: Effect of Laparoscopic Port Incision Size and Location on Post-Operative Pain Following Laparoscopic Radical Prostatectomy"
+    ],
+    "prefix": "10.1097",
+    "volume": "177",
+    "author": [
+      {
+        "given": "Chad A.",
+        "family": "LaGrange",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Stephen E.",
+        "family": "Strup",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534718310516?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534718310516?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/S0022-5347%2818%2931051-6",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T00:39:27Z",
+      "timestamp": 1651192767000
+    },
+    "score": 41.272926,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/S0022-5347%2818%2931051-6"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4S",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/S0022-5347(18)31051-6"
+    ],
+    "URL": "https://doi.org/10.1016/s0022-5347(18)31051-6",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          24
+        ]
+      ],
+      "date-time": "2023-09-24T04:57:07Z",
+      "timestamp": 1695531427185
+    },
+    "reference-count": 3,
+    "publisher": "Wiley",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              2
+            ]
+          ],
+          "date-time": "2017-08-02T00:00:00Z",
+          "timestamp": 1501632000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 1,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Int J of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1111/iju.13416",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2017-08-02T23:26:24Z",
+      "timestamp": 1501716384000
+    },
+    "page": "624-624",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Editorial Comment to Predictors of operative time during radical retropubic prostatectomy and robot‐assisted laparoscopic prostatectomy"
+    ],
+    "prefix": "10.1111",
+    "volume": "24",
+    "author": [
+      {
+        "given": "Masaki",
+        "family": "Shimbo",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology St. Luke's International Hospital Tokyo Japan"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          2
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_3_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/iju.13393"
+      },
+      {
+        "key": "e_1_2_3_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00345-016-1982-4"
+      },
+      {
+        "key": "e_1_2_3_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2011.12.071"
+      }
+    ],
+    "container-title": [
+      "International Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fiju.13416",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/iju.13416",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          23
+        ]
+      ],
+      "date-time": "2023-09-23T17:40:02Z",
+      "timestamp": 1695490802000
+    },
+    "score": 40.025303,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/iju.13416"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "references-count": 3,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2017,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/iju.13416"
+    ],
+    "URL": "https://doi.org/10.1111/iju.13416",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0919-8172",
+      "1442-2042"
+    ],
+    "issn-type": [
+      {
+        "value": "0919-8172",
+        "type": "print"
+      },
+      {
+        "value": "1442-2042",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2022-04-04T19:40:40Z",
+      "timestamp": 1649101240375
+    },
+    "reference-count": 6,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2011-01-01T00:00:00Z",
+          "timestamp": 1293840000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2010.08.051",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          1
+        ]
+      ],
+      "date-time": "2011-01-01T09:13:51Z",
+      "timestamp": 1293873231000
+    },
+    "page": "260-261",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Re: Lasser et al.: An Unbiased Prospective Report of Perioperative Complications of Robot-assisted Laparoscopic Radical Prostatectomy (Urology 2010;75:1083-1091)"
+    ],
+    "prefix": "10.1016",
+    "volume": "77",
+    "author": [
+      {
+        "given": "Ahmed",
+        "family": "Ghazi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jean V.",
+        "family": "Joseph",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.urology.2010.08.051_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1097/01.sla.0000133083.54934.ae",
+        "article-title": "Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey",
+        "volume": "240",
+        "author": "Dindo",
+        "year": "2004",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "key": "10.1016/j.urology.2010.08.051_bib2",
+        "first-page": "518",
+        "article-title": "Proposed classification of complications of surgery with examples of utility in cholecystectomy",
+        "volume": "111",
+        "author": "Clavien",
+        "year": "1992",
+        "journal-title": "Surgery"
+      },
+      {
+        "key": "10.1016/j.urology.2010.08.051_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "803",
+        "DOI": "10.1097/00000658-200206000-00007",
+        "article-title": "Quality of complication reporting in the surgical literature",
+        "volume": "235",
+        "author": "Martin",
+        "year": "2002",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "key": "10.1016/j.urology.2010.08.051_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "363",
+        "DOI": "10.1016/j.eururo.2009.11.032",
+        "article-title": "Prospective evaluation with standardised criteria for postoperative complications after robotic-assisted laparoscopic radical prostatectomy",
+        "volume": "57",
+        "author": "Novara",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2010.08.051_bib5",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.eururo.2010.02.001",
+        "article-title": "Early complication rates in a single-surgeon series of 2500 robotic-assisted radical prostatectomies: report applying a standardized grading system",
+        "author": "Coelho",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2010.08.051_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1016/j.urology.2006.09.056",
+        "article-title": "Standards for surgical complication reporting in urologic oncology: time for a change",
+        "volume": "69",
+        "author": "Donat",
+        "year": "2007",
+        "journal-title": "Urology"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429510017589?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429510017589?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          5
+        ]
+      ],
+      "date-time": "2018-12-05T21:20:09Z",
+      "timestamp": 1544044809000
+    },
+    "score": 39.713966,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429510017589"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          1
+        ]
+      ]
+    },
+    "references-count": 6,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429510017589"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2010.08.051",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "value": "0090-4295",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2025-09-25T15:55:39Z",
+      "timestamp": 1758815739137,
+      "version": "3.44.0"
+    },
+    "reference-count": 25,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2007-01-01T00:00:00Z",
+          "timestamp": 1167609600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2007-01-01T00:00:00Z",
+          "timestamp": 1167609600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2007-01-01T00:00:00Z",
+          "timestamp": 1167609600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2007-01-01T00:00:00Z",
+          "timestamp": 1167609600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2007-01-01T00:00:00Z",
+          "timestamp": 1167609600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2007-01-01T00:00:00Z",
+          "timestamp": 1167609600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2007-01-01T00:00:00Z",
+          "timestamp": 1167609600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "goldjournal.net",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.urology.2006.09.033",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          2,
+          2
+        ]
+      ],
+      "date-time": "2007-02-02T17:24:27Z",
+      "timestamp": 1170437067000
+    },
+    "page": "118-122",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+      "Contemporary Laparoscopic and Open Radical Retropubic Prostatectomy: Pathologic Outcomes and Kattan Postoperative Nomograms Are Equivalent"
+    ],
+    "prefix": "10.1016",
+    "volume": "69",
+    "author": [
+      {
+        "given": "Sangtae",
+        "family": "Park",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Omar",
+        "family": "Jaffer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yair",
+        "family": "Lotan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Hossein",
+        "family": "Saboorian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Claus G.",
+        "family": "Roehrborn",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jeffrey A.",
+        "family": "Cadeddu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1016/S0090-4295(97)00543-8",
+        "article-title": "Laparoscopic radical prostatectomy: initial short-term experience",
+        "volume": "50",
+        "author": "Schuessler",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/S0022-5347(05)67890-1",
+        "article-title": "Laparoscopic radical prostatectomy: the Montsouris experience",
+        "volume": "163",
+        "author": "Guillonneau",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "569",
+        "DOI": "10.1016/S0090-4295(02)01852-6",
+        "article-title": "Technique of da Vinci robot-assisted anatomic radical prostatectomy",
+        "volume": "60",
+        "author": "Tewari",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "903",
+        "DOI": "10.1097/01.ju.0000169475.00949.78",
+        "article-title": "Do margins matter?",
+        "volume": "174",
+        "author": "Swindle",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "761",
+        "DOI": "10.1097/01.ju.0000153486.94741.e5",
+        "article-title": "Laparoscopic radical prostatectomy with the Heilbronn technique: oncological results in the first 500 patients",
+        "volume": "173",
+        "author": "Rassweiler",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1689",
+        "DOI": "10.1097/01.ju.0000062614.56629.41",
+        "article-title": "Laparoscopic versus open radical prostatectomy: a comparative study at a single institution",
+        "volume": "169",
+        "author": "Rassweiler",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "864",
+        "DOI": "10.1016/S0090-4295(02)01881-2",
+        "article-title": "Prospective comparison of radical retropubic prostatectomy and robot-assisted anatomic prostatectomy: the Vattikuti Urology Institute experience",
+        "volume": "60",
+        "author": "Menon",
+        "year": "2002",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "552",
+        "DOI": "10.1016/j.urology.2005.03.094",
+        "article-title": "Laparoscopic radical prostatectomy: evaluation of specimen pathologic features to critically assess and modify surgical technique",
+        "volume": "66",
+        "author": "Soderdahl",
+        "year": "2005",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1271",
+        "DOI": "10.1097/01.ju.0000173940.49015.4a",
+        "article-title": "Endoscopic extraperitoneal radical prostatectomy: oncological and functional results after 700 procedures",
+        "volume": "174",
+        "author": "Stolzenburg",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "300",
+        "DOI": "10.1016/j.urolonc.2003.11.011",
+        "article-title": "Continuing trends in pathological stage migration in radical prostatectomy specimens",
+        "volume": "22",
+        "author": "Derweesh",
+        "year": "2004",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib11",
+        "first-page": "1239",
+        "article-title": "Prostate cancer 2004: insights from national disease registries",
+        "volume": "18",
+        "author": "Cooperberg",
+        "year": "2004",
+        "journal-title": "Oncology (Williston Park)"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "481",
+        "DOI": "10.1016/S0090-4295(03)00387-X",
+        "article-title": "Pathologic comparison of laparoscopic versus open radical retropubic prostatectomy specimens",
+        "volume": "62",
+        "author": "Brown",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1499",
+        "DOI": "10.1200/JCO.1999.17.5.1499",
+        "article-title": "Postoperative nomogram for disease recurrence after radical prostatectomy for prostate cancer",
+        "volume": "17",
+        "author": "Kattan",
+        "year": "1999",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "7005",
+        "DOI": "10.1200/JCO.2005.01.867",
+        "article-title": "Postoperative nomogram predicting the 10-year probability of prostate cancer recurrence after radical prostatectomy",
+        "volume": "23",
+        "author": "Stephenson",
+        "year": "2005",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1643",
+        "DOI": "10.1016/S0022-5347(05)67512-X",
+        "article-title": "Laparoscopic radical prostatectomy: the Montsouris technique",
+        "volume": "163",
+        "author": "Guillonneau",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib16",
+        "first-page": "779",
+        "article-title": "Practice protocol for the examination of specimens removed from patients with carcinoma of the prostate gland: a publication of the Cancer Committee, College of American Pathologists",
+        "volume": "118",
+        "author": "Henson",
+        "year": "1994",
+        "journal-title": "Arch Pathol Lab Med"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "2428",
+        "DOI": "10.1016/S0022-5347(01)62204-3",
+        "article-title": "Cancer recurrence and survival rates after anatomic radical retropubic prostatectomy for prostate cancer: intermediate-term results",
+        "volume": "160",
+        "author": "Catalona",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "555",
+        "DOI": "10.1016/S0094-0143(05)70163-4",
+        "article-title": "Long-term biochemical disease-free and cancer-specific survival following anatomic radical retropubic prostatectomy: the 15-year Johns Hopkins experience",
+        "volume": "28",
+        "author": "Han",
+        "year": "2001",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "528",
+        "DOI": "10.1016/S0022-5347(01)69079-7",
+        "article-title": "Cancer control with radical prostatectomy alone in 1,000 consecutive patients",
+        "volume": "167",
+        "author": "Hull",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "2255",
+        "DOI": "10.1097/01.ju.0000127733.01845.57",
+        "article-title": "Validation of the Kattan preoperative nomogram for prostate cancer recurrence using a community based cohort: results from cancer of the prostate strategic urological research endeavor (CapSure)",
+        "volume": "171",
+        "author": "Greene",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "519",
+        "DOI": "10.1016/S0022-5347(05)64671-X",
+        "article-title": "Pathological parameters of radical prostatectomy for clinical stages T1c versus T2 prostate adenocarcinoma: decreased pathological stage and increased detection of transition zone tumors",
+        "volume": "168",
+        "author": "Jack",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1818",
+        "DOI": "10.1016/S0022-5347(01)66792-2",
+        "article-title": "Prognostic significance of positive surgical margins in radical prostatectomy specimens",
+        "volume": "154",
+        "author": "Ohori",
+        "year": "1995",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "733",
+        "DOI": "10.1016/S0090-4295(97)00450-0",
+        "article-title": "Anatomic site-specific positive margins in organ-confined prostate cancer and its impact on outcome after radical prostatectomy",
+        "volume": "50",
+        "author": "Blute",
+        "year": "1997",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1016/S0022-5347(01)62881-7",
+        "article-title": "Incidence, etiology, location, prevention and treatment of positive surgical margins after radical prostatectomy for prostate cancer",
+        "volume": "160",
+        "author": "Wieder",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.urology.2006.09.033_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "1245",
+        "DOI": "10.1016/j.urology.2005.06.108",
+        "article-title": "Prognostic impact of positive surgical margins in surgically treated prostate cancer: multi-institutional assessment of 5831 patients",
+        "volume": "66",
+        "author": "Karakiewicz",
+        "year": "2005",
+        "journal-title": "Urology"
+      }
+    ],
+    "container-title": [
+      "Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429506021571?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0090429506021571?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2025-09-25T01:46:45Z",
+      "timestamp": 1758764805000
+    },
+    "score": 39.317577,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0090429506021571"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          1
+        ]
+      ]
+    },
+    "references-count": 25,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0090429506021571"
+    ],
+    "URL": "https://doi.org/10.1016/j.urology.2006.09.033",
+    "ISSN": [
+      "0090-4295"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0090-4295"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Contemporary Laparoscopic and Open Radical Retropubic Prostatectomy: Pathologic Outcomes and Kattan Postoperative Nomograms Are Equivalent",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.urology.2006.09.033",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2007 Elsevier Inc. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

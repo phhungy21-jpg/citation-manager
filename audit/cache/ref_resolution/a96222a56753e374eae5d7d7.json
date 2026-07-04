@@ -1,0 +1,2144 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          26
+        ]
+      ],
+      "date-time": "2026-04-26T00:57:16Z",
+      "timestamp": 1777165036736,
+      "version": "3.51.4"
+    },
+    "reference-count": 29,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2025-11-01T00:00:00Z",
+          "timestamp": 1761955200000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000133",
+        "name": "Agency for Healthcare Research and Quality",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000133",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "heartandlung.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Heart &amp; Lung"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.hrtlng.2025.07.021",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2025-07-25T03:57:52Z",
+      "timestamp": 1753415872000
+    },
+    "page": "206-210",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "special_numbering": "C",
+    "title": [
+      "Socioeconomic disparities in In-hospital outcomes and readmission rates among patients hospitalized with infective endocarditis: A national analysis from the United States"
+    ],
+    "prefix": "10.1016",
+    "volume": "74",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0003-7645-1924",
+        "authenticated-orcid": false,
+        "given": "Nadhem",
+        "family": "Abdallah",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mahmoud",
+        "family": "Ismayl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Abdilahi",
+        "family": "Mohamoud",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mohammed",
+        "family": "Samra",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrew M.",
+        "family": "Goldsweig",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "7",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0001",
+        "doi-asserted-by": "crossref",
+        "first-page": "950",
+        "DOI": "10.1016/j.cjco.2021.02.006",
+        "article-title": "Socioeconomic status, mortality, and access to cardiac services after acute myocardial infarction in Canada: a systematic review and meta-analysis",
+        "volume": "3",
+        "author": "Moledina",
+        "year": "2021",
+        "journal-title": "CJC Open"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0002",
+        "doi-asserted-by": "crossref",
+        "first-page": "439",
+        "DOI": "10.1177/1358863X15592486",
+        "article-title": "Residential zip code influences outcomes following hospitalization for acute pulmonary embolism in the United States",
+        "volume": "20",
+        "author": "Agarwal",
+        "year": "2015",
+        "journal-title": "Vasc Med"
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0003",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jacadv.2024.101034",
+        "article-title": "Economic disparities in utilization and outcomes of structural heart disease interventions in the United States",
+        "volume": "3",
+        "author": "Ismayl",
+        "year": "2024",
+        "journal-title": "JACC Adv"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0004",
+        "article-title": "Racial/ethnic, sex, and economic disparities in the utilization and outcomes of intracoronary imaging",
+        "volume": "3",
+        "author": "Ismayl",
+        "year": "2024",
+        "journal-title": "J Soc Cardiovasc Angiogr Interv"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0005",
+        "first-page": "A14",
+        "article-title": "The effects of social deprivation on clinical outcomes in infective endocarditis",
+        "volume": "108",
+        "author": "Watson",
+        "year": "2022",
+        "journal-title": "Heart"
+      },
+      {
+        "issue": "39",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0006",
+        "doi-asserted-by": "crossref",
+        "first-page": "3948",
+        "DOI": "10.1093/eurheartj/ehad193",
+        "article-title": "2023 ESC guidelines for the management of endocarditis",
+        "volume": "44",
+        "author": "Delgado",
+        "year": "2023",
+        "journal-title": "Eur Heart J"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0007",
+        "unstructured": "Healthcare Cost and Utilization Project. Introduction to the HCUP National Inpatient Sample (NIS). [Dec; 2020]. Available from: [URL]. 2017."
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0008",
+        "author": "Elixhauser",
+        "year": "1996",
+        "journal-title": "Clinical Classifications for Health Policy Research, Version 2: Hospital Inpatient Statistics"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0009",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1177/003804070708000101",
+        "article-title": "The gender income gap and the role of education",
+        "volume": "80",
+        "author": "Bobbitt-Zeher",
+        "year": "2007",
+        "journal-title": "Sociol Educ"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0010",
+        "unstructured": "World Health Organization. Estimates of Unit Costs for Patient Services for Canada; 2011. Available at: [https://www.who.int/publications/m/item/estimation-of-unit-costs-for-general-health-services-updated-who-choice-estimates]. Accessed April 26, 2014."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0011",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1016/j.cjco.2020.06.001",
+        "article-title": "Sex disparities in the use and outcomes of temporary mechanical circulatory support for acute myocardial infarction-cardiogenic shock",
+        "volume": "2",
+        "author": "Vallabhajosyula",
+        "year": "2020",
+        "journal-title": "CJC Open"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0012",
+        "doi-asserted-by": "crossref",
+        "first-page": "1110",
+        "DOI": "10.3201/eid1006.030848",
+        "article-title": "Emerging issues in infective endocarditis",
+        "volume": "10",
+        "author": "Millar",
+        "year": "2004",
+        "journal-title": "Emerg Infect Dis"
+      },
+      {
+        "issue": "Suppl 1",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0014",
+        "first-page": "A14",
+        "article-title": "The effects of social deprivation on clinical outcomes in infective endocarditis",
+        "volume": "108",
+        "author": "Watson",
+        "year": "2022",
+        "journal-title": "Heart"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0015",
+        "article-title": "Incidence rate of infective endocarditis by socioeconomic position: a Danish nationwide cohort study (2000–2022)",
+        "volume": "52",
+        "author": "Martiny",
+        "year": "2025",
+        "journal-title": "Lancet Reg Health Eur"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0016",
+        "doi-asserted-by": "crossref",
+        "first-page": "1115",
+        "DOI": "10.1186/s12889-025-22100-z",
+        "article-title": "Global, regional, and national burden of infective endocarditis from 2010 to 2021 and predictions for the next five years",
+        "volume": "25",
+        "author": "Lin",
+        "year": "2025",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0017",
+        "first-page": "153",
+        "article-title": "Infective endocarditis in low- and middle-income countries",
+        "volume": "35",
+        "author": "Njuguna",
+        "year": "2017",
+        "journal-title": "Cardiol Clin"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0018",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1053/j.semtcvs.2022.05.007",
+        "article-title": "Effect of socioeconomic distress on risk-adjusted mortality after valve surgery for infective endocarditis",
+        "volume": "35",
+        "author": "Strobel",
+        "year": "2023",
+        "journal-title": "Semin Thorac Cardiovasc Surg"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0019",
+        "doi-asserted-by": "crossref",
+        "first-page": "241",
+        "DOI": "10.1186/s12967-015-0579-9",
+        "article-title": "The effect of socioeconomic status on health-care delay and treatment of esophageal cancer",
+        "volume": "13",
+        "author": "Wang",
+        "year": "2015",
+        "journal-title": "J Transl Med"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.1186/1471-2369-15-192",
+        "article-title": "Low income, community poverty and risk of end stage renal disease",
+        "volume": "15",
+        "author": "Crews",
+        "year": "2014",
+        "journal-title": "BMC Nephrol"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0021",
+        "doi-asserted-by": "crossref",
+        "first-page": "287",
+        "DOI": "10.1186/s13054-023-04565-9",
+        "article-title": "Neighborhood socioeconomic deprivation and sepsis outcomes: findings from a nationwide study",
+        "volume": "27",
+        "author": "Lusk",
+        "year": "2023",
+        "journal-title": "Crit Care"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0022",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1161/JAHA.114.001057",
+        "article-title": "Outcomes and resource utilization in ST-elevation myocardial infarction in the United States: evidence for socioeconomic disparities",
+        "volume": "3",
+        "author": "Agarwal",
+        "year": "2014",
+        "journal-title": "J Am Heart Assoc"
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0023",
+        "doi-asserted-by": "crossref",
+        "first-page": "778",
+        "DOI": "10.1377/hlthaff.2013.0816",
+        "article-title": "Socioeconomic status and readmissions: evidence from an urban teaching hospital",
+        "volume": "33",
+        "author": "Hu",
+        "year": "2014",
+        "journal-title": "Health Aff (Millwood)"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0024",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1097/ADM.0000000000000725",
+        "article-title": "Medications for opioid use disorder and AMA discharge in patients with injection drug use-associated infections",
+        "volume": "15",
+        "author": "Nolan",
+        "year": "2021",
+        "journal-title": "J Addict Med"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0025",
+        "first-page": "688",
+        "article-title": "Predictors of readmission in infective endocarditis: impact of homelessness and substance use",
+        "volume": "78",
+        "author": "Wang",
+        "year": "2024",
+        "journal-title": "Clin Infect Dis"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0026",
+        "article-title": "Socioeconomic disparities in use of mechanical circulatory support in cardiogenic shock",
+        "volume": "1",
+        "author": "Adelsheimer",
+        "year": "2022",
+        "journal-title": "J Soc Cardiovasc Angiogr Interv"
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0027",
+        "doi-asserted-by": "crossref",
+        "first-page": "197",
+        "DOI": "10.1258/jhsrp.2011.010047",
+        "article-title": "Impact of socioeconomic factors on in-patient length of stay and their consequences in per case hospital payment systems",
+        "volume": "16",
+        "author": "Perelman",
+        "year": "2011",
+        "journal-title": "J Health v Res Policy"
+      },
+      {
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0028",
+        "doi-asserted-by": "crossref",
+        "first-page": "1117",
+        "DOI": "10.1186/s12889-023-16048-1",
+        "article-title": "Reducing hospital readmissions among people experiencing homelessness: evaluation of a hospital in-reach programme",
+        "volume": "23",
+        "author": "Malden",
+        "year": "2023",
+        "journal-title": "BMC Public Health"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0029",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1001/jamahealthforum.2023.4463",
+        "article-title": "The pillars of health disparities science-race, ethnicity, and socioeconomic status",
+        "volume": "4",
+        "author": "Pérez-Stable",
+        "year": "2023",
+        "journal-title": "JAMA Health Forum"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.hrtlng.2025.07.021_bib0030",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1161/JAHA.114.001057",
+        "article-title": "Outcomes and resource utilization in ST-elevation myocardial infarction in the United States: evidence for socioeconomic disparities",
+        "volume": "3",
+        "author": "Agarwal",
+        "year": "2014",
+        "journal-title": "J Am Heart Assoc"
+      }
+    ],
+    "container-title": [
+      "Heart &amp; Lung"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0147956325001736?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0147956325001736?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2025-09-18T10:01:02Z",
+      "timestamp": 1758189662000
+    },
+    "score": 161.63712,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0147956325001736"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "references-count": 29,
+    "alternative-id": [
+      "S0147956325001736"
+    ],
+    "URL": "https://doi.org/10.1016/j.hrtlng.2025.07.021",
+    "ISSN": [
+      "0147-9563"
+    ],
+    "issn-type": [
+      {
+        "value": "0147-9563",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Socioeconomic disparities in In-hospital outcomes and readmission rates among patients hospitalized with infective endocarditis: A national analysis from the United States",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Heart & Lung",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.hrtlng.2025.07.021",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          23
+        ]
+      ],
+      "date-time": "2026-01-23T08:48:59Z",
+      "timestamp": 1769158139495,
+      "version": "3.49.0"
+    },
+    "reference-count": 51,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "4",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "JAHA"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ]
+    },
+    "abstract": "<jats:sec xml:lang=\"en\">\n            <jats:title>Background</jats:title>\n            <jats:p xml:lang=\"en\">In‐hospital cardiac arrest (IHCA) is associated with significant morbidity and mortality. The relationships between race and ethnicity and sex on outcomes and treatment patterns among patients with IHCA remain poorly understood.</jats:p>\n          </jats:sec>\n          <jats:sec xml:lang=\"en\">\n            <jats:title>Methods and Results</jats:title>\n            <jats:p xml:lang=\"en\">We conducted a retrospective study using the National (Nationwide) Inpatient Sample (NIS) database from 2016 to 2020 to identify adult patients with IHCA and examine the associations between in‐hospital outcomes and race and ethnicity (White, Black, Hispanic) and sex. The primary outcome was in‐hospital mortality. Secondary outcomes included rates of in‐hospital procedures. Multivariable logistic regression analysis was used to adjust for potential confounders. Among 207 770 patients with IHCA, 26.6% had ventricular tachycardia/ventricular fibrillation and 73.4% had pulseless electrical activity/asystole. For ventricular tachycardia/ventricular fibrillation arrest, Black men (adjusted odds ratio [aOR], 1.42 [95% CI, 1.21–1.66]), Black women (aOR, 1.25 [95% CI, 1.05–1.50]), and Hispanic women (aOR, 1.30 [95% CI, 1.01–1.66]) had higher odds of mortality compared with White men (corresponding adjusted risk ratios [aRRs], 1.10 [CI, 1.06–1.14], 1.06 [95% CI, 1.02–1.11], and 1.08 [95% CI, 1.01–1.14], respectively). In the pulseless electrical activity/asystole arrest subgroup, Black men (aOR, 1.25 [95% CI, 1.11–1.39]) and Hispanic men (aOR, 1.22 [95% CI, 1.07–1.40]) had higher odds of mortality (corresponding aRRs, 1.04 [95% CI, 1.02–1.06] and 1.04 [95% CI, 1.01–1.06], respectively). Black patients with IHCA were less likely to receive percutaneous coronary intervention, coronary artery bypass grafting, and mechanical circulatory support compared with White men.</jats:p>\n          </jats:sec>\n          <jats:sec xml:lang=\"en\">\n            <jats:title>Conclusions</jats:title>\n            <jats:p xml:lang=\"en\">Significant racial and ethnic and sex disparities exist in outcomes and treatment patterns among patients with IHCA. Targeted efforts and further studies are needed to better understand and address these disparities and improve outcomes.</jats:p>\n          </jats:sec>",
+    "DOI": "10.1161/jaha.124.038683",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2024-11-11T11:44:57Z",
+      "timestamp": 1731325497000
+    },
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Racial and Ethnic and Sex Disparities in the Outcomes and Treatment of In‐Hospital Cardiac Arrest: A Nationwide Analysis From the United States"
+    ],
+    "prefix": "10.1161",
+    "volume": "14",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8285-0273",
+        "authenticated-orcid": false,
+        "given": "Abdilahi",
+        "family": "Mohamoud",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Internal Medicine Hennepin Healthcare Minneapolis MN USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0003-7645-1924",
+        "authenticated-orcid": false,
+        "given": "Nadhem",
+        "family": "Abdallah",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Internal Medicine Hennepin Healthcare Minneapolis MN USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9033-7835",
+        "authenticated-orcid": false,
+        "given": "Mahmoud",
+        "family": "Ismayl",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Cardiovascular Medicine Mayo Clinic Rochester MN USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5507-3675",
+        "authenticated-orcid": false,
+        "given": "Mark",
+        "family": "Linzer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Internal Medicine Hennepin Healthcare Minneapolis MN USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rehan M.",
+        "family": "Karim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Cardiology Hennepin Healthcare Minneapolis MN USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-9303-6074",
+        "authenticated-orcid": false,
+        "given": "Abdirahman",
+        "family": "Wardhere",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Cardiology University of Texas Medical Branch Galveston TX USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dawn",
+        "family": "Johnson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DHJ Services New Haven CT USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2952-7837",
+        "authenticated-orcid": false,
+        "given": "Andrew",
+        "family": "Goldsweig",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Cardiovascular Medicine Baystate Medical Center Springfield MA USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "e_1_3_2_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2019.1696"
+      },
+      {
+        "key": "e_1_3_2_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resuscitation.2017.10.023"
+      },
+      {
+        "key": "e_1_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1109148"
+      },
+      {
+        "key": "e_1_3_2_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIR.0000000000001209"
+      },
+      {
+        "key": "e_1_3_2_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa2200798"
+      },
+      {
+        "key": "e_1_3_2_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resuscitation.2019.01.038"
+      },
+      {
+        "key": "e_1_3_2_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.119.014178"
+      },
+      {
+        "key": "e_1_3_2_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCOUTCOMES.118.004710"
+      },
+      {
+        "key": "e_1_3_2_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.120.050427"
+      },
+      {
+        "key": "e_1_3_2_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.121.025758"
+      },
+      {
+        "key": "e_1_3_2_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.121.020828"
+      },
+      {
+        "key": "e_1_3_2_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.122.027716"
+      },
+      {
+        "key": "e_1_3_2_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.123.031021"
+      },
+      {
+        "key": "e_1_3_2_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIR.0000000000000534"
+      },
+      {
+        "key": "e_1_3_2_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00392-022-02084-1"
+      },
+      {
+        "key": "e_1_3_2_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ajem.2017.06.012"
+      },
+      {
+        "key": "e_1_3_2_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0300-9572(00)00342-7"
+      },
+      {
+        "key": "e_1_3_2_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resuscitation.2020.07.031"
+      },
+      {
+        "key": "e_1_3_2_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resuscitation.2014.11.026"
+      },
+      {
+        "key": "e_1_3_2_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamacardio.2017.2403"
+      },
+      {
+        "key": "e_1_3_2_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.119.015629"
+      },
+      {
+        "key": "e_1_3_2_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.120.019907"
+      },
+      {
+        "key": "e_1_3_2_24_2",
+        "unstructured": "HCUP‐US Overview . Accessed January 22 2024. https://hcup‐us.ahrq.gov/overview.jsp"
+      },
+      {
+        "key": "e_1_3_2_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamacardio.2016.2860"
+      },
+      {
+        "key": "e_1_3_2_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2019.01.030"
+      },
+      {
+        "key": "e_1_3_2_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10840-021-00977-1"
+      },
+      {
+        "key": "e_1_3_2_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.121.021572"
+      },
+      {
+        "key": "e_1_3_2_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/aje/kwh090"
+      },
+      {
+        "key": "e_1_3_2_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/CCM.0b013e3181b43282"
+      },
+      {
+        "key": "e_1_3_2_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resuscitation.2009.11.021"
+      },
+      {
+        "key": "e_1_3_2_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/JAHA.115.002089"
+      },
+      {
+        "key": "e_1_3_2_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-9149(98)00547-5"
+      },
+      {
+        "key": "e_1_3_2_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.107.726562"
+      },
+      {
+        "key": "e_1_3_2_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-135-5-200109040-00009"
+      },
+      {
+        "key": "e_1_3_2_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.mlr.0000156864.80880.aa"
+      },
+      {
+        "key": "e_1_3_2_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s40615-019-00668-8"
+      },
+      {
+        "key": "e_1_3_2_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1681/ASN.2013080867"
+      },
+      {
+        "key": "e_1_3_2_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1681/ASN.2020040502"
+      },
+      {
+        "key": "e_1_3_2_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jcrc.2012.02.002"
+      },
+      {
+        "key": "e_1_3_2_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.accreview.2005.06.006"
+      },
+      {
+        "key": "e_1_3_2_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-009-0952-6"
+      },
+      {
+        "key": "e_1_3_2_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11606-006-0088-x"
+      },
+      {
+        "key": "e_1_3_2_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinternmed.2008.616"
+      },
+      {
+        "key": "e_1_3_2_45_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1995.00430190042006"
+      },
+      {
+        "key": "e_1_3_2_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1748-720X.1996.tb01843.x"
+      },
+      {
+        "key": "e_1_3_2_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.10-3011"
+      },
+      {
+        "key": "e_1_3_2_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.resuscitation.2021.10.038"
+      },
+      {
+        "key": "e_1_3_2_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/CCM.0b013e3182257459"
+      },
+      {
+        "key": "e_1_3_2_50_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa0706467"
+      },
+      {
+        "key": "e_1_3_2_51_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2009.1340"
+      },
+      {
+        "key": "e_1_3_2_52_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2005.04.009"
+      }
+    ],
+    "container-title": [
+      "Journal of the American Heart Association"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ahajournals.org/doi/full/10.1161/JAHA.124.038683",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          19
+        ]
+      ],
+      "date-time": "2025-02-19T11:39:25Z",
+      "timestamp": 1739965165000
+    },
+    "score": 75.04865,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/JAHA.124.038683"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ]
+    },
+    "references-count": 51,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            18
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/JAHA.124.038683"
+    ],
+    "URL": "https://doi.org/10.1161/jaha.124.038683",
+    "ISSN": [
+      "2047-9980"
+    ],
+    "issn-type": [
+      {
+        "value": "2047-9980",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          18
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2024-09-05",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2024-11-01",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-02-19",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "e038683"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          27
+        ]
+      ],
+      "date-time": "2025-06-27T04:11:10Z",
+      "timestamp": 1750997470016,
+      "version": "3.41.0"
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "Suppl_1",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n            <jats:bold>Background:</jats:bold>\n            In-hospital cardiac arrest (IHCA) is associated with significant morbidity and mortality. The relationships of race/ethnicity and sex to outcomes and treatment patterns among patients with IHCA remain poorly understood.\n          </jats:p>\n          <jats:p>\n            <jats:bold>Methods:</jats:bold>\n            We conducted a retrospective cohort study using the National Inpatient Sample database from 2016 to 2020 to identify adult patients with IHCA and compare in-hospital outcomes stratified by race/ethnicity (White, Black, Hispanic) and sex. The primary outcome was in-hospital mortality. Secondary outcomes included rates of in-hospital procedures. Multivariable logistic regression was used to adjust for potential confounders.\n          </jats:p>\n          <jats:p>\n            <jats:bold>Results:</jats:bold>\n            Among 207,770 patients with IHCA, 26.6% had ventricular tachycardia/fibrillation (VT/VF) and 73.4% had pulseless electrical activity (PEA)/asystole. In the VT/VF subgroup, Black males (aOR 1.42, 95% CI 1.21-1.66), Black females (aOR 1.25, 95% CI 1.05-1.50), and Hispanic females (aOR 1.30, 95% CI 1.01-1.66) had higher odds of mortality compared to White males (Figure 1). In the PEA/asystole subgroup, Black males (aOR 1.25, 95% CI 1.11-1.39) and Hispanic males (aOR 1.22, 95% CI 1.07-1.40) had higher odds of mortality, while White females had lower odds (aOR 0.88, 95% CI 0.82-0.94) compared to White males (Figure 2). Black patients were less likely to receive percutaneous coronary intervention (aOR 0.53, 95% CI 0.43-0.66 for males; aOR 0.54, 95% CI 0.42-0.69 for females) and coronary artery bypass grafting (aOR 0.50, 95% CI 0.30-0.82 for males; aOR 0.47, 95% CI 0.27-0.81 for females) compared to White males in VT/VF arrests. Additionally, Black males had the highest adjusted odds of renal replacement therapy in VT/VF arrests (aOR 1.47, 95% CI 1.21-1.80), while Hispanic males had the highest adjusted odds in PEA/asystole arrests (aOR 1.49, 95% CI 1.27-1.74) compared to White males. The remaining outcomes of interest in both VT/VF and PEA/asystole arrests are shown in Figure 1 and Figure 2 respectively.\n          </jats:p>\n          <jats:p>\n            <jats:bold>Conclusion:</jats:bold>\n            Significant racial/ethnic and sex disparities exist in outcomes and treatment patterns among patients with IHCA, with differences observed in both VT/VF and PEA/asystole subgroups. Targeted efforts and further studies are needed to better understand and address these disparities and improve outcomes in these severely ill patients.\n          </jats:p>\n          <jats:p>\n            <jats:graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" orientation=\"portrait\" position=\"float\" xlink:href=\"4136767.jpg\"/>\n          </jats:p>\n          <jats:p>\n            <jats:graphic xmlns:xlink=\"http://www.w3.org/1999/xlink\" orientation=\"portrait\" position=\"float\" xlink:href=\"4136767_2.jpg\"/>\n          </jats:p>",
+    "DOI": "10.1161/circ.150.suppl_1.4136767",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          13
+        ]
+      ],
+      "date-time": "2024-11-13T13:17:35Z",
+      "timestamp": 1731503855000
+    },
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Abstract 4136767: Racial/Ethnic and Sex Disparities in the Outcomes and Treatment of In-Hospital Cardiac Arrest: A Nationwide Analysis From the United States"
+    ],
+    "prefix": "10.1161",
+    "volume": "150",
+    "author": [
+      {
+        "given": "Abdilahi",
+        "family": "Mohamoud",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Hennepin Healthcare, Minneapolis, Minnesota, United States"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "nadhem",
+        "family": "abdallah",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Hennepin Healthcare, Minneapolis, Minnesota, United States"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mahmoud",
+        "family": "Ismayl",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mayo Clinic, Rochester, Minnesota, United States"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mark",
+        "family": "Linzer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Hennepin Healthcare, Minneapolis, Minnesota, United States"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rehan",
+        "family": "Karim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Hennepin Healthcare, Minneapolis, Minnesota, United States"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Abdirahman",
+        "family": "Wardhere",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Columbia University Irving Medical Center, New York, New York, United States"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Dawn",
+        "family": "Johnson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "DHJ Services, LLC, New Haven, Connecticut, United States"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrew",
+        "family": "Goldsweig",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Baystate Medical Center, West Hartford, Connecticut, United States"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.1161/circ.150.suppl_1.4136767",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          6,
+          26
+        ]
+      ],
+      "date-time": "2025-06-26T14:08:55Z",
+      "timestamp": 1750946935000
+    },
+    "score": 68.3975,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/circ.150.suppl_1.4136767"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          12
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "Suppl_1",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/circ.150.suppl_1.4136767"
+    ],
+    "URL": "https://doi.org/10.1161/circ.150.suppl_1.4136767",
+    "ISSN": [
+      "0009-7322",
+      "1524-4539"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0009-7322"
+      },
+      {
+        "type": "electronic",
+        "value": "1524-4539"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2024-11-11",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2026-04-01T08:17:00Z",
+      "timestamp": 1775031420698,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2025-04-01T00:00:00Z",
+          "timestamp": 1743465600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2025-04-01T00:00:00Z",
+          "timestamp": 1743465600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2026-04-01T00:00:00Z",
+          "timestamp": 1775001600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 365,
+        "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "jacc.org",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of the American College of Cardiology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/s0735-1097(25)00966-0",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2025-03-29T11:57:22Z",
+      "timestamp": 1743249442000
+    },
+    "page": "482",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "special_numbering": "S",
+    "title": [
+      "RELATIONSHIPS BETWEEN SOCIOECONOMIC STATUS AND IN-HOSPITAL AND READMISSION OUTCOMES OF PATIENTS WITH INFECTIVE ENDOCARDITIS"
+    ],
+    "prefix": "10.1016",
+    "volume": "85",
+    "author": [
+      {
+        "given": "Nadhem",
+        "family": "Abdallah",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Abdilahi",
+        "family": "Mohamoud",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Momen",
+        "family": "Alsayed",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "Journal of the American College of Cardiology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0735109725009660?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0735109725009660?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2026-04-01T05:35:49Z",
+      "timestamp": 1775021749000
+    },
+    "score": 67.51218,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0735109725009660"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "12",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0735109725009660"
+    ],
+    "URL": "https://doi.org/10.1016/s0735-1097(25)00966-0",
+    "ISSN": [
+      "0735-1097"
+    ],
+    "issn-type": [
+      {
+        "value": "0735-1097",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "RELATIONSHIPS BETWEEN SOCIOECONOMIC STATUS AND IN-HOSPITAL AND READMISSION OUTCOMES OF PATIENTS WITH INFECTIVE ENDOCARDITIS",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Journal of the American College of Cardiology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/S0735-1097(25)00966-0",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2025 American College of Cardiology Foundation. Published by Elsevier Inc. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          16
+        ]
+      ],
+      "date-time": "2025-11-16T18:31:41Z",
+      "timestamp": 1763317901593,
+      "version": "3.45.0"
+    },
+    "reference-count": 28,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              7
+            ]
+          ],
+          "date-time": "2025-02-07T00:00:00Z",
+          "timestamp": 1738886400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 6,
+        "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Arrhythmia"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Background</jats:title>\n                    <jats:p>Sex disparities in cardiovascular disorders are well‐documented, but data on hospitalization and readmission outcomes in the context of sex for Complete Heart Block (CHB) remains limited.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>We analyzed the 2016–2020 Nationwide Readmission Database to identify patients with a principal diagnosis of CHB. Men served as the control group, while women comprised the study cohort. The primary outcome was mortality. Secondary outcomes included odds of cardiac arrest, ventricular tachycardia, heart failure, mechanical ventilation use, all‐cause 30‐day readmission, total and early pacemaker use, length of stay (LOS), and total hospitalization charges (THC). Multivariate regression models adjusted for confounders.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      Among 175,257 patients with CHB, 45% were female. Female sex was associated with higher odds of mortality (adjusted OR [aOR] 1.42, 95% CI 1.3–1.55) compared to males. Additionally, females had higher odds of cardiac arrest (aOR 1.13, 95% CI 1.06–1.2), ventricular tachycardia (aOR 1.1, 95% CI 1.05–1.17), heart failure (aOR 1.18, 95% CI 1.14–1.22), mechanical ventilation use (aOR 1.1, 95% CI 1.03–1.17), and all‐cause 30‐day readmission (aOR 1.1, 95% CI 1.03–1.14). Women also had lower odds of total pacemaker use (aOR 0.92, 95% CI 0.88–0.96) and early pacemaker use (aOR 0.89, 95% CI 0.86–0.82). Female patients exhibited longer LOS (4.13 days vs. 3.86 days,\n                      <jats:italic>p</jats:italic>\n                       &lt; 0.001) but incurred lower THC ($89,908 vs. $94,590,\n                      <jats:italic>p</jats:italic>\n                       = 0.002).\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion</jats:title>\n                    <jats:p>Female sex in CHB patients was associated with higher mortality and adverse events but lower pacemaker use compared to male patients.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1002/joa3.70013",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          7
+        ]
+      ],
+      "date-time": "2025-02-07T07:30:11Z",
+      "timestamp": 1738913411000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Sex based disparities in hospitalization and readmission outcomes for complete atrioventricular block: Insights from United States readmission data"
+    ],
+    "prefix": "10.1002",
+    "volume": "41",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0003-7645-1924",
+        "authenticated-orcid": false,
+        "given": "Nadhem",
+        "family": "Abdallah",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Internal Medicine Hennepin Healthcare  Minneapolis Minnesota USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mohammed",
+        "family": "Samra",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Debrecen Medical School  Debrecen Hungary"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Momen",
+        "family": "Alsayed",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Banner University Medical Center, University of Arizona  Tucson Arizona USA"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          7
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_10_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/jocs.16928"
+      },
+      {
+        "key": "e_1_2_10_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.62.2.156"
+      },
+      {
+        "key": "e_1_2_10_4_1",
+        "unstructured": "Introduction To The Hcup National Inpatient Sample (NIS).Ahrq.gov.2017"
+      },
+      {
+        "volume-title": "Clinical classifications for health policy research, version 2: hospital inpatient statistics",
+        "year": "1996",
+        "author": "Elixhauser A",
+        "key": "e_1_2_10_5_1"
+      },
+      {
+        "key": "e_1_2_10_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0895-4356(92)90133-8"
+      },
+      {
+        "key": "e_1_2_10_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.31887/DCNS.2007.9.1/ammoeller"
+      },
+      {
+        "key": "e_1_2_10_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11886-018-1006-7"
+      },
+      {
+        "key": "e_1_2_10_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1053/j.semtcvs.2011.07.006"
+      },
+      {
+        "key": "e_1_2_10_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2174/1381612827666210125154749"
+      },
+      {
+        "key": "e_1_2_10_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000321503"
+      },
+      {
+        "key": "e_1_2_10_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fragi.2021.727558"
+      },
+      {
+        "key": "e_1_2_10_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.healun.2022.03.024"
+      },
+      {
+        "key": "e_1_2_10_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.beem.2013.01.004"
+      },
+      {
+        "key": "e_1_2_10_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/circep.119.008161"
+      },
+      {
+        "key": "e_1_2_10_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/circulationaha.109.192575"
+      },
+      {
+        "key": "e_1_2_10_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1155/2018/3407306"
+      },
+      {
+        "key": "e_1_2_10_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1749‐6632.1964.tb53151.x"
+      },
+      {
+        "key": "e_1_2_10_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.116.025290"
+      },
+      {
+        "key": "e_1_2_10_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-8167.1995.tb00380.x"
+      },
+      {
+        "key": "e_1_2_10_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/europace/eup312"
+      },
+      {
+        "key": "e_1_2_10_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2174/1573403X15666181205110624"
+      },
+      {
+        "key": "e_1_2_10_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamacardio.2016.0529"
+      },
+      {
+        "key": "e_1_2_10_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.genm.2010.06.001"
+      },
+      {
+        "key": "e_1_2_10_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/pubmed/fdh159"
+      },
+      {
+        "key": "e_1_2_10_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18295/squmj.4.2021.069"
+      },
+      {
+        "key": "e_1_2_10_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ehf2.13646"
+      },
+      {
+        "key": "e_1_2_10_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2021.11.019"
+      },
+      {
+        "key": "e_1_2_10_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.18553/jmcp.2008.14.S3-A.2"
+      }
+    ],
+    "container-title": [
+      "Journal of Arrhythmia"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/joa3.70013",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          16
+        ]
+      ],
+      "date-time": "2025-11-16T18:27:08Z",
+      "timestamp": 1763317628000
+    },
+    "score": 59.99912,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/joa3.70013"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/joa3.70013"
+    ],
+    "URL": "https://doi.org/10.1002/joa3.70013",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "1880-4276",
+      "1883-2148"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "1880-4276"
+      },
+      {
+        "type": "electronic",
+        "value": "1883-2148"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2024-12-12",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-01-25",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2025-02-07",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ],
+    "article-number": "e70013"
+  }
+]

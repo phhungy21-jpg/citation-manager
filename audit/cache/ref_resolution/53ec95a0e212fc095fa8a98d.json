@@ -1,0 +1,1084 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          4
+        ]
+      ],
+      "date-time": "2026-04-04T16:40:36Z",
+      "timestamp": 1775320836956,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "2",
+    "content-domain": {
+      "domain": [
+        "www.auajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1097/ju.0000000000002693",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          15
+        ]
+      ],
+      "date-time": "2022-04-15T08:05:05Z",
+      "timestamp": 1650009905000
+    },
+    "page": "333-340",
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 33,
+    "title": [
+      "Bilateral Peritoneal Flaps Reduce Incidence and Complications of Lymphoceles after Robotic Radical Prostatectomy with Pelvic Lymph Node Dissection—Results of the Prospective Randomized Multicenter Trial ProLy"
+    ],
+    "prefix": "10.1097",
+    "volume": "208",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1166-7778",
+        "authenticated-orcid": false,
+        "given": "Simon",
+        "family": "Gloger",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Center for Minimally Invasive and Robotic Urology, Augusta Hospital Bochum, Witten/Herdecke University, Bochum, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Burkhard",
+        "family": "Ubrig",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Minimally Invasive and Robotic Urology, Augusta Hospital Bochum, Witten/Herdecke University, Bochum, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anselm",
+        "family": "Boy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Minimally Invasive and Robotic Urology, Augusta Hospital Bochum, Witten/Herdecke University, Bochum, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sami-Ramzi",
+        "family": "Leyh-Bannurah",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Pediatric Urology and Urologic Oncology, St. Antonius Hospital Gronau, Gronau, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Stefan",
+        "family": "Siemer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Saarland University, Homburg/Saar, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Madeleine",
+        "family": "Arndt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Saarland University, Homburg/Saar, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jens-Uwe",
+        "family": "Stolzenburg",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Leipzig, Leipzig, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Toni",
+        "family": "Franz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Leipzig, Leipzig, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Matthias",
+        "family": "Oelke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Pediatric Urology and Urologic Oncology, St. Antonius Hospital Gronau, Gronau, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jörn H.",
+        "family": "Witt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Pediatric Urology and Urologic Oncology, St. Antonius Hospital Gronau, Gronau, Germany"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.auajournals.org/doi/pdf/10.1097/JU.0000000000002693",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          10
+        ]
+      ],
+      "date-time": "2023-03-10T15:43:31Z",
+      "timestamp": 1678463011000
+    },
+    "score": 154.29666,
+    "resource": {
+      "primary": {
+        "URL": "http://www.auajournals.org/doi/10.1097/JU.0000000000002693"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1097/JU.0000000000002693"
+    ],
+    "URL": "https://doi.org/10.1097/ju.0000000000002693",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2022-03-29",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2022-04-15",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          24
+        ]
+      ],
+      "date-time": "2025-12-24T12:38:24Z",
+      "timestamp": 1766579904626,
+      "version": "3.41.0"
+    },
+    "reference-count": 8,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "1",
+    "content-domain": {
+      "domain": [
+        "www.auajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "J Urol."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1097/ju.0000000000002999",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2022-10-13T19:50:10Z",
+      "timestamp": 1665690610000
+    },
+    "page": "76-77",
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Bilateral Peritoneal Flaps Reduce Incidence and Complications of Lymphoceles After Robotic Radical Prostatectomy With Pelvic Lymph Node Dissection—Results of the Prospective Randomized Multicenter Trial ProLy. Reply."
+    ],
+    "prefix": "10.1097",
+    "volume": "209",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1166-7778",
+        "authenticated-orcid": false,
+        "given": "Simon",
+        "family": "Gloger",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Center for Minimally Invasive and Robotic Urology",
+            "place": [
+              "Germany"
+            ]
+          },
+          {
+            "name": "Augusta Hospital Bochum",
+            "place": [
+              "Germany"
+            ]
+          },
+          {
+            "name": "Witten/Herdecke University",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Burkhard",
+        "family": "Ubrig",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Minimally Invasive and Robotic Urology",
+            "place": [
+              "Germany"
+            ]
+          },
+          {
+            "name": "Augusta Hospital Bochum",
+            "place": [
+              "Germany"
+            ]
+          },
+          {
+            "name": "Witten/Herdecke University",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anselm",
+        "family": "Boy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center for Minimally Invasive and Robotic Urology",
+            "place": [
+              "Germany"
+            ]
+          },
+          {
+            "name": "Augusta Hospital Bochum",
+            "place": [
+              "Germany"
+            ]
+          },
+          {
+            "name": "Witten/Herdecke University",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sami-Ramzi",
+        "family": "Leyh-Bannurah",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Pediatric Urology and Urologic Oncology, St Antonius Hospital Gronau",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Stefan",
+        "family": "Siemer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Saarland University",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Madeleine",
+        "family": "Arndt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Saarland University",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jens-Uwe",
+        "family": "Stolzenburg",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Leipzig",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Toni",
+        "family": "Franz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, University of Leipzig",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Matthias",
+        "family": "Oelke",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Pediatric Urology and Urologic Oncology, St Antonius Hospital Gronau",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jörn H.",
+        "family": "Witt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Pediatric Urology and Urologic Oncology, St Antonius Hospital Gronau",
+            "place": [
+              "Germany"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "issue": "2",
+        "key": "R1-20250411",
+        "doi-asserted-by": "crossref",
+        "first-page": "333",
+        "DOI": "10.1097/JU.0000000000002693",
+        "article-title": "Bilateral peritoneal flaps reduce incidence and complications of lymphoceles after robotic radical prostatectomy with pelvic lymph node dissection—results of the prospective randomized multicenter trial ProLy",
+        "volume": "208",
+        "author": "Gloger",
+        "year": "2022",
+        "journal-title": "J Urol."
+      },
+      {
+        "issue": "3",
+        "key": "R2-20250411",
+        "doi-asserted-by": "crossref",
+        "first-page": "593",
+        "DOI": "10.1148/radiology.161.3.3538133",
+        "article-title": "Lymphoceles: imaging characteristics and percutaneous management",
+        "volume": "161",
+        "author": "vanSonnenberg",
+        "year": "1986",
+        "journal-title": "Radiology."
+      },
+      {
+        "issue": "2",
+        "key": "R3-20250411",
+        "doi-asserted-by": "crossref",
+        "first-page": "288",
+        "DOI": "10.1007/s00330-001-1252-7",
+        "article-title": "Ultrasound-guided drainages and sclerotherapy",
+        "volume": "12",
+        "author": "Lohela",
+        "year": "2002",
+        "journal-title": "Eur Radiol."
+      },
+      {
+        "issue": "2",
+        "key": "R4-20250411",
+        "doi-asserted-by": "crossref",
+        "first-page": "330",
+        "DOI": "10.1016/j.urology.2006.09.044",
+        "article-title": "Routine pelvic drainage not required after open or robotic radical prostatectomy",
+        "volume": "69",
+        "author": "Sharma",
+        "year": "2007",
+        "journal-title": "Urology."
+      },
+      {
+        "issue": "12",
+        "key": "R5-20250411",
+        "doi-asserted-by": "crossref",
+        "first-page": "1169",
+        "DOI": "10.1111/iju.12144",
+        "article-title": "Lymphocele after extraperitoneal robot-assisted radical prostatectomy: a propensity score-matching study",
+        "volume": "20",
+        "author": "Lee",
+        "year": "2013",
+        "journal-title": "Int J Urol."
+      },
+      {
+        "issue": "6",
+        "key": "R6-20250411",
+        "doi-asserted-by": "crossref",
+        "first-page": "963",
+        "DOI": "10.1111/j.1464-410X.2012.11681.x",
+        "article-title": "Extended pelvic lymphadenectomy and various radical prostatectomy techniques: is pelvic drainage necessary?",
+        "volume": "111",
+        "author": "Danuser",
+        "year": "2013",
+        "journal-title": "BJU Int."
+      },
+      {
+        "issue": "4",
+        "key": "R7-20250411",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.1111/j.1442-2042.2010.02710.x",
+        "article-title": "Predictors of symptomatic lymphocele after radical prostatectomy and bilateral pelvic lymph node dissection",
+        "volume": "18",
+        "author": "Gotto",
+        "year": "2011",
+        "journal-title": "Int J Urol."
+      },
+      {
+        "issue": "7",
+        "key": "R8-20250411",
+        "doi-asserted-by": "crossref",
+        "first-page": "711",
+        "DOI": "10.1111/iju.13964",
+        "article-title": "Risk factors, complications and management of lymphocele formation after radical prostatectomy: a mini-review",
+        "volume": "26",
+        "author": "Tsaur",
+        "year": "2019",
+        "journal-title": "Int J Urol."
+      }
+    ],
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.auajournals.org/doi/pdf/10.1097/JU.0000000000002999",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2025-05-30T13:44:46Z",
+      "timestamp": 1748612686000
+    },
+    "score": 147.60179,
+    "resource": {
+      "primary": {
+        "URL": "http://www.auajournals.org/doi/10.1097/JU.0000000000002999"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "references-count": 8,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1097/JU.0000000000002999"
+    ],
+    "URL": "https://doi.org/10.1097/ju.0000000000002999",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0022-5347"
+      },
+      {
+        "type": "electronic",
+        "value": "1527-3792"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2022-09-15",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2022-09-19",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2022-10-13",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2025-05-30T14:10:04Z",
+      "timestamp": 1748614204903,
+      "version": "3.41.0"
+    },
+    "reference-count": 4,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "1",
+    "content-domain": {
+      "domain": [
+        "www.auajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "J Urol."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1097/ju.0000000000002998",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2022-10-13T19:50:10Z",
+      "timestamp": 1665690610000
+    },
+    "page": "75-76",
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Bilateral Peritoneal Flaps Reduce Incidence and Complications of Lymphoceles After Robotic Radical Prostatectomy With Pelvic Lymph Node Dissection—Results of the Prospective Randomized Multicenter Trial ProLy. Letter."
+    ],
+    "prefix": "10.1097",
+    "volume": "209",
+    "author": [
+      {
+        "given": "Naveen",
+        "family": "Kumar",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology, Jayaprabha Medanta Superspeciality Hospital",
+            "place": [
+              "Patna, India"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Priyank",
+        "family": "Bhargava",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, All India Institute of Medical Sciences",
+            "place": [
+              "Jodhpur, India"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0952-7514",
+        "authenticated-orcid": false,
+        "given": "Rahul",
+        "family": "Jena",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology, All India Institute of Medical Sciences",
+            "place": [
+              "Jodhpur, India"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "issue": "2",
+        "key": "R1-20250411",
+        "doi-asserted-by": "crossref",
+        "first-page": "333",
+        "DOI": "10.1097/JU.0000000000002693",
+        "article-title": "Bilateral peritoneal flaps reduce incidence and complications of lymphoceles after robotic radical prostatectomy with pelvic lymph node dissection-results of the prospective randomized multicenter trial ProLy",
+        "volume": "208",
+        "author": "Gloger",
+        "year": "2022",
+        "journal-title": "J Urol."
+      },
+      {
+        "key": "R2-20250411",
+        "doi-asserted-by": "crossref",
+        "first-page": "1095",
+        "DOI": "10.1111/j.1464-410X.2010.09580.x",
+        "article-title": "How can we predict lymphorrhoea and clinically significant lymphocoeles after radical prostatectomy and pelvic lymphadenectomy? Clinical implications",
+        "volume": "107(7)",
+        "author": "Capitanio",
+        "year": "2011",
+        "journal-title": "BJU Int."
+      },
+      {
+        "issue": "2",
+        "key": "R3-20250411",
+        "doi-asserted-by": "crossref",
+        "first-page": "151",
+        "DOI": "10.1007/s11701-016-0588-6",
+        "article-title": "Patient comorbidity predicts hospital length of stay after robot-assisted prostatectomy",
+        "volume": "10",
+        "author": "Potretzke",
+        "year": "2016",
+        "journal-title": "J Robot Surg."
+      },
+      {
+        "issue": "14",
+        "key": "R4-20250411",
+        "first-page": "243",
+        "article-title": "Peritoneal flap in robot-assisted radical prostatectomy",
+        "volume": "117",
+        "author": "Bründl",
+        "year": "2020",
+        "journal-title": "Dtsch Arztebl Int."
+      }
+    ],
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.auajournals.org/doi/pdf/10.1097/JU.0000000000002998",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2025-05-30T13:44:38Z",
+      "timestamp": 1748612678000
+    },
+    "score": 142.49133,
+    "resource": {
+      "primary": {
+        "URL": "http://www.auajournals.org/doi/10.1097/JU.0000000000002998"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "references-count": 4,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1097/JU.0000000000002998"
+    ],
+    "URL": "https://doi.org/10.1097/ju.0000000000002998",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0022-5347"
+      },
+      {
+        "type": "electronic",
+        "value": "1527-3792"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2022-08-13",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2022-08-16",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2022-10-13",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+]

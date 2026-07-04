@@ -1,0 +1,1646 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2026-04-29T14:02:00Z",
+      "timestamp": 1777471320768,
+      "version": "3.51.4"
+    },
+    "reference-count": 88,
+    "publisher": "Wiley",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              7,
+              3
+            ]
+          ],
+          "date-time": "2015-07-03T00:00:00Z",
+          "timestamp": 1435881600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "bjui-journals.onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "BJU International"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          12
+        ]
+      ]
+    },
+    "abstract": "<jats:p>\n                    There are various forms of treatment for prostate cancer. In addition to oncologic outcomes, physicians, and increasingly patients, are focusing on functional and adverse outcomes. Symptoms of overactive bladder (\n                    <jats:styled-content style=\"fixed-case\">OAB</jats:styled-content>\n                    ), including urinary frequency, urgency and incontinence, can occur regardless of treatment modality. This article examines the prevalence, pathophysiology and options for treating\n                    <jats:styled-content style=\"fixed-case\">OAB</jats:styled-content>\n                    after radical prostate cancer treatment.\n                    <jats:styled-content style=\"fixed-case\">OAB</jats:styled-content>\n                    seems to be more common and severe after radiation therapy than after surgical therapy and even persisted longer with complications, suggesting an advantage for surgery over radiotherapy. Because\n                    <jats:styled-content style=\"fixed-case\">OAB</jats:styled-content>\n                    that occurs after radical prostate surgery or radiotherapy can be difficult to treat, it is important that patients are made aware of the potential development of\n                    <jats:styled-content style=\"fixed-case\">OAB</jats:styled-content>\n                    during counselling before decisions regarding treatment choice are made. To ensure a successful outcome of both treatments, it is imperative that clinicians and non‐specialists enquire about and document pretreatment urinary symptoms and carefully evaluate post‐treatment symptoms.\n                  </jats:p>",
+    "DOI": "10.1111/bju.13078",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2015-02-13T10:32:51Z",
+      "timestamp": 1423823571000
+    },
+    "page": "853-861",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 39,
+    "title": [
+      "A review of detrusor overactivity and the overactive bladder after radical prostate cancer treatment"
+    ],
+    "prefix": "10.1111",
+    "volume": "116",
+    "author": [
+      {
+        "given": "Nikesh",
+        "family": "Thiruchelvam",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Urology Cambridge University Hospitals NHS Trust Cambridge UK"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Francesco",
+        "family": "Cruz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Medicine Hospital S. Joao Porto Portugal"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mike",
+        "family": "Kirby",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Health and Human Sciences University of Hertfordshire and the Prostate Centre London UK"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Tubaro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology La Sapienza University of Rome Rome Italy"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Christopher R.",
+        "family": "Chapple",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sheffield Teaching Hospital NHS Foundation Trust Sheffield UK"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Karl‐Dietrich",
+        "family": "Sievert",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Urology Eberhard‐Karls‐University Hoppe‐Seyler Strasse 3 72076 Tuebingen Germany"
+          },
+          {
+            "name": "Department of Urology Lübeck Schleswig‐Holstein Ratzeburger Allee 160 23538 Lübeck Germany"
+          },
+          {
+            "name": "Dept of Urology and Andrology SALK Clinic/Paracelsus Medical University Salzburg Austria"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          3
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_10_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00345-011-0791-z"
+      },
+      {
+        "key": "e_1_2_10_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urology.2012.02.081"
+      },
+      {
+        "key": "e_1_2_10_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1743-6109.2012.02892.x"
+      },
+      {
+        "key": "e_1_2_10_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2012.11396.x"
+      },
+      {
+        "key": "e_1_2_10_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2012.11315.x"
+      },
+      {
+        "key": "e_1_2_10_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1743-6109.2012.02794.x"
+      },
+      {
+        "key": "e_1_2_10_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2012.04.057"
+      },
+      {
+        "key": "e_1_2_10_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2012.04.032"
+      },
+      {
+        "key": "e_1_2_10_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2008.01.106"
+      },
+      {
+        "key": "e_1_2_10_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2011.01.032"
+      },
+      {
+        "key": "e_1_2_10_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.10052"
+      },
+      {
+        "key": "e_1_2_10_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2006.09.019"
+      },
+      {
+        "key": "e_1_2_10_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urology.2003.09.050"
+      },
+      {
+        "key": "e_1_2_10_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2008.07817.x"
+      },
+      {
+        "key": "e_1_2_10_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/ijc.23713"
+      },
+      {
+        "key": "e_1_2_10_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2008.08306.x"
+      },
+      {
+        "key": "e_1_2_10_18_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2012.11198.x"
+      },
+      {
+        "key": "e_1_2_10_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2012.11107.x"
+      },
+      {
+        "key": "e_1_2_10_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2011.10623.x"
+      },
+      {
+        "key": "e_1_2_10_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1470-2045(11)70162-0"
+      },
+      {
+        "key": "e_1_2_10_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00120-011-2709-1"
+      },
+      {
+        "key": "e_1_2_10_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa074311"
+      },
+      {
+        "key": "e_1_2_10_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(17)36966-5"
+      },
+      {
+        "key": "e_1_2_10_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2011.10053.x"
+      },
+      {
+        "key": "e_1_2_10_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2011.10529.x"
+      },
+      {
+        "key": "e_1_2_10_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2012.05.045"
+      },
+      {
+        "key": "e_1_2_10_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2011.10591.x"
+      },
+      {
+        "key": "e_1_2_10_29_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urology.2012.08.112"
+      },
+      {
+        "key": "e_1_2_10_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urology.2007.10.023"
+      },
+      {
+        "key": "e_1_2_10_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2011.10826.x"
+      },
+      {
+        "key": "e_1_2_10_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2011.09.027"
+      },
+      {
+        "key": "e_1_2_10_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5301/RU.2011.7975"
+      },
+      {
+        "key": "e_1_2_10_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(01)66235-9"
+      },
+      {
+        "key": "e_1_2_10_35_1",
+        "first-page": "1",
+        "article-title": "Detrusor underactivity is prevalent after radical prostatectomy: a urodynamic study including risk factors",
+        "volume": "24",
+        "author": "Chung D",
+        "year": "2012",
+        "journal-title": "Can Urol Assoc J"
+      },
+      {
+        "key": "e_1_2_10_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1442-2042.2010.02529.x"
+      },
+      {
+        "key": "e_1_2_10_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(01)67212-4"
+      },
+      {
+        "key": "e_1_2_10_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(17)36864-7"
+      },
+      {
+        "key": "e_1_2_10_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.21199"
+      },
+      {
+        "key": "e_1_2_10_40_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2007.10.054"
+      },
+      {
+        "key": "e_1_2_10_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.acuro.2013.07.006"
+      },
+      {
+        "key": "e_1_2_10_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.20182"
+      },
+      {
+        "key": "e_1_2_10_43_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(05)67538-6"
+      },
+      {
+        "key": "e_1_2_10_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urology.2005.03.026"
+      },
+      {
+        "key": "e_1_2_10_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.20190"
+      },
+      {
+        "key": "e_1_2_10_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1520-6777(1998)17:5<493::AID-NAU5>3.0.CO;2-8"
+      },
+      {
+        "key": "e_1_2_10_47_1",
+        "first-page": "1",
+        "article-title": "Validity of the “bother score” in the evaluation and treatment of symptomatic benign prostatic hyperplasia",
+        "volume": "7",
+        "author": "O'Leary MP",
+        "year": "2005",
+        "journal-title": "Rev Urol"
+      },
+      {
+        "key": "e_1_2_10_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1442-2042.2011.02730.x"
+      },
+      {
+        "key": "e_1_2_10_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000019843"
+      },
+      {
+        "key": "e_1_2_10_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2007.08.004"
+      },
+      {
+        "key": "e_1_2_10_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1464-410X.2003.04231.x"
+      },
+      {
+        "key": "e_1_2_10_52_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(01)61625-2"
+      },
+      {
+        "key": "e_1_2_10_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jjco/hym058"
+      },
+      {
+        "key": "e_1_2_10_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(99)00462-8"
+      },
+      {
+        "key": "e_1_2_10_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2007.03.051"
+      },
+      {
+        "key": "e_1_2_10_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0360-3016(99)00176-5"
+      },
+      {
+        "issue": "7",
+        "key": "e_1_2_10_57_1",
+        "first-page": "CD008871",
+        "article-title": "Low‐dose rate brachytherapy for men with localized prostate cancer",
+        "author": "Peinemann F",
+        "year": "2011",
+        "journal-title": "Cochrane Database Syst Rev"
+      },
+      {
+        "key": "e_1_2_10_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0360-3016(94)00431-J"
+      },
+      {
+        "key": "e_1_2_10_59_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11884-007-0033-9"
+      },
+      {
+        "issue": "3",
+        "key": "e_1_2_10_60_1",
+        "first-page": "132",
+        "article-title": "Posterior urethral sensitivity after radical retropubic prostatectomy (Abstract)",
+        "volume": "86",
+        "author": "John H",
+        "year": "2000",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "e_1_2_10_61_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2006.06491.x"
+      },
+      {
+        "key": "e_1_2_10_62_1",
+        "first-page": "185",
+        "article-title": "Clinical evaluation of lower urinary tract symptoms following seed implant for prostate cancer [in Japanese]",
+        "volume": "58",
+        "author": "Okaneya T",
+        "year": "2012",
+        "journal-title": "Hinyokika Kiyo"
+      },
+      {
+        "key": "e_1_2_10_63_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urology.2009.12.084"
+      },
+      {
+        "key": "e_1_2_10_64_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijrobp.2007.12.052"
+      },
+      {
+        "key": "e_1_2_10_65_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.clon.2006.02.007"
+      },
+      {
+        "key": "e_1_2_10_66_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00345-008-0305-9"
+      },
+      {
+        "key": "e_1_2_10_67_1",
+        "first-page": "639a",
+        "article-title": "Anemia management of chronic renal insufficiency patients in a managed care setting",
+        "volume": "13",
+        "author": "Landis D",
+        "year": "2002",
+        "journal-title": "J Am Soc Nephrol"
+      },
+      {
+        "key": "e_1_2_10_68_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(02)01840-X"
+      },
+      {
+        "key": "e_1_2_10_69_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urology.2004.10.044"
+      },
+      {
+        "key": "e_1_2_10_70_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1464-410X.2003.04082.x"
+      },
+      {
+        "key": "e_1_2_10_71_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0360-3016(00)00541-1"
+      },
+      {
+        "key": "e_1_2_10_72_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(99)00122-3"
+      },
+      {
+        "key": "e_1_2_10_73_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.ju.0000152698.20487.0e"
+      },
+      {
+        "key": "e_1_2_10_74_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.ju.0000132136.95221.63"
+      },
+      {
+        "key": "e_1_2_10_75_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0360-3016(02)02726-8"
+      },
+      {
+        "key": "e_1_2_10_76_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ejca.2009.07.009"
+      },
+      {
+        "key": "e_1_2_10_77_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijrobp.2004.04.017"
+      },
+      {
+        "key": "e_1_2_10_78_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/pros.22651"
+      },
+      {
+        "key": "e_1_2_10_79_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/bjc.2013.180"
+      },
+      {
+        "key": "e_1_2_10_80_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijrobp.2008.04.067"
+      },
+      {
+        "key": "e_1_2_10_81_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijrobp.2011.08.034"
+      },
+      {
+        "key": "e_1_2_10_82_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3322/caac.21235"
+      },
+      {
+        "key": "e_1_2_10_83_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1442-2042.2008.02234.x"
+      },
+      {
+        "key": "e_1_2_10_84_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijrobp.2011.04.026"
+      },
+      {
+        "key": "e_1_2_10_85_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0360-3016(99)00232-1"
+      },
+      {
+        "key": "e_1_2_10_86_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1442-2042.2012.03149.x"
+      },
+      {
+        "key": "e_1_2_10_87_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijrobp.2007.12.048"
+      },
+      {
+        "key": "e_1_2_10_88_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2011.03.020"
+      },
+      {
+        "key": "e_1_2_10_89_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2012.11201.x"
+      }
+    ],
+    "container-title": [
+      "BJU International"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fbju.13078",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fbju.13078",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/bju.13078",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T10:14:03Z",
+      "timestamp": 1761732843000
+    },
+    "score": 146.02869,
+    "resource": {
+      "primary": {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/bju.13078"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          3
+        ]
+      ]
+    },
+    "references-count": 88,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/bju.13078"
+    ],
+    "URL": "https://doi.org/10.1111/bju.13078",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "1464-4096",
+      "1464-410X"
+    ],
+    "issn-type": [
+      {
+        "value": "1464-4096",
+        "type": "print"
+      },
+      {
+        "value": "1464-410X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2015-07-03",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T05:12:39Z",
+      "timestamp": 1651209159343
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2016-08-01T00:00:00Z",
+          "timestamp": 1470009600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2016.05.076",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          18
+        ]
+      ],
+      "date-time": "2016-05-18T23:03:41Z",
+      "timestamp": 1463612621000
+    },
+    "page": "500-501",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Re: A Review of Detrusor Overactivity and the Overactive Bladder after Radical Prostate Cancer Treatment"
+    ],
+    "prefix": "10.1097",
+    "volume": "196",
+    "author": [
+      {
+        "given": "Alan J.",
+        "family": "Wein",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534716304487?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534716304487?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2016.05.076",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T04:30:59Z",
+      "timestamp": 1651206659000
+    },
+    "score": 66.67584,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2016.05.076"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          8
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2016.05.076"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2016.05.076",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          22
+        ]
+      ],
+      "date-time": "2026-01-22T17:45:15Z",
+      "timestamp": 1769103915000,
+      "version": "3.49.0"
+    },
+    "reference-count": 51,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1097/mou.0000000000000391",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          4
+        ]
+      ],
+      "date-time": "2017-03-04T14:20:57Z",
+      "timestamp": 1488637257000
+    },
+    "page": "307-313",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+      "Overactive bladder syndrome and lower urinary tract symptoms after prostate cancer treatment"
+    ],
+    "prefix": "10.1097",
+    "volume": "27",
+    "author": [
+      {
+        "given": "Suzanne",
+        "family": "Biers",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Karl-Dietrich",
+        "family": "Sievert",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nikesh",
+        "family": "Thiruchelvam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "R1-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "869",
+        "DOI": "10.1111/bju.13582",
+        "article-title": "Patient-reported outcomes in the ProtecT randomized trial of clinically localized prostate cancer treatments: study design, and baseline urinary, bowel and sexual function and quality of life",
+        "volume": "118",
+        "author": "Lane",
+        "year": "2016",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "R2-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "1415",
+        "DOI": "10.1056/NEJMoa1606220",
+        "article-title": "10-year outcomes after monitoring, surgery, or radiotherapy for localized prostate cancer",
+        "volume": "375",
+        "author": "Hamdy",
+        "year": "2016",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R3-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "1425",
+        "DOI": "10.1056/NEJMoa1606221",
+        "article-title": "Patient-reported outcomes after monitoring, surgery, or radiotherapy for prostate cancer",
+        "volume": "375",
+        "author": "Donovan",
+        "year": "2016",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "R4-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "194",
+        "DOI": "10.5534/wjmh.2015.33.3.194",
+        "article-title": "Changes in nocturia and lower urinary tract symptoms after radical prostatectomy",
+        "volume": "33",
+        "author": "Hur",
+        "year": "2015",
+        "journal-title": "World J Mens Health"
+      },
+      {
+        "key": "R5-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1016/j.eururo.2007.03.051",
+        "article-title": "Voiding dysfunction after radical retropubic prostatectomy: more than external urethral sphincter deficiency",
+        "volume": "52",
+        "author": "Porena",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "R6-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "657",
+        "DOI": "10.1016/j.eururo.2007.10.054",
+        "article-title": "Bladder and urethral sphincter function after radical retropubic prostatectomy: a prospective long-term study",
+        "volume": "54",
+        "author": "Giannantoni",
+        "year": "2008",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "R7-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "412",
+        "DOI": "10.1016/j.juro.2013.08.010",
+        "article-title": "Radical prostatectomy improves and prevents age dependent progression of lower urinary tract symptoms",
+        "volume": "191",
+        "author": "Prabhu",
+        "year": "2014",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R8-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "1428",
+        "DOI": "10.1111/j.1464-410X.2009.08895.x",
+        "article-title": "Robotic-assisted radical prostatectomy: a review of current outcomes",
+        "volume": "104",
+        "author": "Coelho",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "R9-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "164",
+        "DOI": "10.1111/iju.12225",
+        "article-title": "Impact of tamsulosin on urinary retention following early catheter removal after robot-assisted laparoscopic radical prostatectomy: a prospective randomised controlled trial",
+        "volume": "21",
+        "author": "Jeong",
+        "year": "2014",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "R10-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "1306",
+        "DOI": "10.1016/j.eururo.2006.09.019",
+        "article-title": "Population-based survey of urinary incontinence, overactive bladder, and other lower urinary tract symptoms in five countries: results of the EPIC study",
+        "volume": "50",
+        "author": "Irwin",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "R11-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "853",
+        "DOI": "10.1111/bju.13078",
+        "article-title": "A review of detrusor overactivity and the overactive bladder after radical prostate cancer treatment",
+        "volume": "116",
+        "author": "Thiruchelvam",
+        "year": "2015",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "R12-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1016/j.urology.2016.05.007",
+        "article-title": "Overactive bladder and storage lower urinary tract symptoms following radical prostatectomy",
+        "volume": "94",
+        "author": "Hosier",
+        "year": "2016",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "R13-20-20210206",
+        "first-page": "1",
+        "article-title": "Impact on postoperative phosphodiesterdae type 5 inhibitor treatment on lower urinary tract symptoms after robot-assisted radical prostatectomy: a longitudinal study",
+        "volume": "14",
+        "author": "Honda",
+        "year": "2016",
+        "journal-title": "Scan J Urol"
+      },
+      {
+        "key": "R14-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "413",
+        "DOI": "10.1111/j.1442-2042.2012.03149.x",
+        "article-title": "Post-operative phosphodiesterase type 5 inhibitor administration increases the rate of urinary incontinence recovery after bilateral nerve-sparing radical prostatectomy",
+        "volume": "20",
+        "author": "Gandagkia",
+        "year": "2013",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "R15-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "1037",
+        "DOI": "10.1016/j.eururo.2009.01.036",
+        "article-title": "Retropubic, laparoscopic, and robot-assisted radical prostatectomy: a systematic review and cumulative analysis of comparative studies",
+        "volume": "55",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "R16-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "article-title": "Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "R17-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "1165",
+        "DOI": "10.3349/ymj.2016.57.5.1165",
+        "article-title": "Comparison of robot-assisted radical prostatectomy and open radical prostatectomy outcomes: a systematic review and meta-analysis",
+        "volume": "57",
+        "author": "Seo",
+        "year": "2016",
+        "journal-title": "Yonsei Med J"
+      },
+      {
+        "key": "R18-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "193",
+        "DOI": "10.1111/bju.13499",
+        "article-title": "Symptomatic and quality-of-life outcomes after treatment for clinically localised prostate cancer: a systematic review",
+        "volume": "188",
+        "author": "Whiting",
+        "year": "2016",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "R19-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "936",
+        "DOI": "10.1111/bju.12258",
+        "article-title": "Prospective evaluation of urinary incontinence, voiding symptoms and quality of life after open and robot-assisted radical prostatectomy",
+        "volume": "112",
+        "author": "Geraerts",
+        "year": "2013",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "R20-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "610",
+        "DOI": "10.1016/j.eururo.2012.11.049",
+        "article-title": "Comparisons of the perioperative, functional, and oncologic outcomes after robot-assisted versus pure extraperitoneal laparoscopic radical prostatectomy",
+        "volume": "65",
+        "author": "Ploussard",
+        "year": "2014",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "R21-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "18",
+        "DOI": "10.1186/1471-2490-14-18",
+        "article-title": "Comparison of surgical technique (open vs. laparoscopic) on pathological and long term functional outcomes following radical prostatectomy",
+        "volume": "14",
+        "author": "Magheli",
+        "year": "2014",
+        "journal-title": "BMC Urol"
+      },
+      {
+        "key": "R22-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "368",
+        "DOI": "10.1016/j.eururo.2016.06.023",
+        "article-title": "Preoperative membranous urethral length measurement and continence recovery following radical prostatectomy: a systematic review and meta-analysis",
+        "volume": "71",
+        "author": "Mungovan",
+        "year": "2017",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "R23-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "875",
+        "DOI": "10.1002/nau.22873",
+        "article-title": "Systematic review of surgical treatment of post radical prostatectomy stress urinary incontinence",
+        "volume": "35",
+        "author": "Crivellaro",
+        "year": "2016",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "R24-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1016/j.eururo.2014.08.061",
+        "article-title": "Propensity-weighted long-term risk of urinary adverse events after prostate cancer surgery, radiation, or both",
+        "volume": "67",
+        "author": "Jarosek",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "R25-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "338",
+        "DOI": "10.1080/21681805.2016.1194460",
+        "article-title": "Long-term adverse effects after curative radiotherapy and radical prostatectomy: population-based nationwide register study",
+        "volume": "50",
+        "author": "Fridriksson",
+        "year": "2016",
+        "journal-title": "Scan J Urol"
+      },
+      {
+        "key": "R26-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "1824",
+        "DOI": "10.1111/j.1464-410X.2011.10623.x",
+        "article-title": "Overactive bladder syndrome: an underestimated long-term problem after treatment of patients with localized prostate cancer?",
+        "volume": "109",
+        "author": "Boettcher",
+        "year": "2012",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "R27-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "460",
+        "DOI": "10.1016/j.urology.2007.10.023",
+        "article-title": "Role of trospium chloride in brachytherapy-related detrusor overactivity",
+        "volume": "71",
+        "author": "Bittner",
+        "year": "2008",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "R28-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "2691",
+        "DOI": "10.12659/MSM.899327",
+        "article-title": "Postirradiation bladder syndrome after radiotherapy of malignant neoplasm of small pelvis organs: an observational, noninterventional clinical study assessing Vesicare®/Solifenacin treatment results",
+        "volume": "22",
+        "author": "Jaszczyński",
+        "year": "2016",
+        "journal-title": "Med Sci Monit"
+      },
+      {
+        "key": "R29-20-20210206",
+        "first-page": "1114",
+        "article-title": "Use of desipramine for the treatment of overactive bladder refractory to antimuscarinic therapy",
+        "volume": "10",
+        "author": "Hillelsohn",
+        "year": "2014",
+        "journal-title": "Urol J"
+      },
+      {
+        "key": "R30-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "9",
+        "DOI": "10.1002/nau.22256",
+        "article-title": "GAG layer replenishment therapy for chronic forms of cystitis with intravesical glycosaminoglycans – a review",
+        "volume": "32",
+        "author": "Madersbacher",
+        "year": "2013",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "R31-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "e285",
+        "DOI": "10.1016/j.ijrobp.2011.04.026",
+        "article-title": "Comparison of prophylactic naftopidil, tamsulosin, and silodosin for 125I brachytherapy-induced lower urinary tract symptoms in patients with prostate cancer: randomized controlled trial",
+        "volume": "81",
+        "author": "Tsumura",
+        "year": "2011",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "R32-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "302",
+        "DOI": "10.1186/s13014-014-0302-7",
+        "article-title": "Use of alpha-1 adrenoceptor antagonists in patients who underwent low-dose-rate brachytherapy for prostate cancer -- a randomized controlled trial of silodosin versus naftopidil",
+        "volume": "9",
+        "author": "Tanaka",
+        "year": "2014",
+        "journal-title": "Rad Onc"
+      },
+      {
+        "key": "R33-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "496",
+        "DOI": "10.1016/j.ijrobp.2009.04.078",
+        "article-title": "A phase III randomized trial of the timing of meloxicam with iodine-125 prostate brachytherapy",
+        "volume": "77",
+        "author": "Crook",
+        "year": "2010",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "R34-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "151",
+        "DOI": "10.1016/j.urology.2016.05.021",
+        "article-title": "Urinary incontinence following brachytherapy",
+        "volume": "95",
+        "author": "Leapman",
+        "year": "2016",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "R36-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "S59",
+        "DOI": "10.1016/j.urology.2013.08.036",
+        "article-title": "SIU/ICUD Consultation on Urethral Strictures: posterior urethral stenosis after treatment of prostate cancer",
+        "volume": "83",
+        "author": "Herschorn",
+        "year": "2014",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "R37-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "1307",
+        "DOI": "10.1016/j.juro.2013.10.147",
+        "article-title": "Outcomes after urethroplasty for radiotherapy induced bulbomembranous urethral stricture disease",
+        "volume": "191",
+        "author": "Hofer",
+        "year": "2014",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R38-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "441",
+        "DOI": "10.1016/j.juro.2015.03.116",
+        "article-title": "Outcomes of ventral onlay buccal mucosa graft urethroplasty in patients after radiotherapy",
+        "volume": "194",
+        "author": "Ahyai",
+        "year": "2015",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R39-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "377",
+        "DOI": "10.1007/s00345-015-1608-2",
+        "article-title": "Observations and outcomes of urethroplasty for bulbomembranous stenosis after radiation therapy for prostate cancer",
+        "volume": "34",
+        "author": "Rourke",
+        "year": "2016",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "R40-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "580",
+        "DOI": "10.1111/bju.12798",
+        "article-title": "Modified transurethral resection of the prostate (TURP) for men with moderate lower urinary tract symptoms (LUTS) before brachytherapy is safe and feasible",
+        "volume": "115",
+        "author": "Brousil",
+        "year": "2015",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "R41-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1016/j.brachy.2014.09.009",
+        "article-title": "Urethral toxicity after LDR brachytherapy: experience in Japan",
+        "volume": "14",
+        "author": "Tanaka",
+        "year": "2015",
+        "journal-title": "Brachytherapy"
+      },
+      {
+        "key": "R42-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "1805",
+        "DOI": "10.1016/j.juro.2013.05.010",
+        "article-title": "Risk of urinary incontinence following postbrachytherapy transurethral resection of the prostate and correlation with clinical and treatment parameters",
+        "volume": "190",
+        "author": "Mock",
+        "year": "2013",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R43-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.1590/S1677-5538.IBJU.2014.0531",
+        "article-title": "Low-dose-rate brachytherapy for patients with transurethral resection before implantation in prostate cancer long-term results",
+        "volume": "42",
+        "author": "Prada",
+        "year": "2016",
+        "journal-title": "Int Braz J Urol"
+      },
+      {
+        "key": "R44-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "1648",
+        "DOI": "10.1111/j.1464-410X.2011.10578.x",
+        "article-title": "Focal cryotherapy for localized prostate cancer: a report from the national Cryo On-Line Database (COLD) Registry",
+        "volume": "109",
+        "author": "Ward",
+        "year": "2012",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "R45-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "1193",
+        "DOI": "10.1089/end.2014.0881",
+        "article-title": "Comparison of outcomes between preoperatively potent men treated with focal versus whole gland cryotherapy in a matched population",
+        "volume": "29",
+        "author": "Mendez",
+        "year": "2015",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "R46-20-20210206",
+        "first-page": "317",
+        "article-title": "Focal cryotherapy for localized prostate cancer",
+        "volume": "69",
+        "author": "Tay",
+        "year": "2016",
+        "journal-title": "Arch Esp Urol"
+      },
+      {
+        "key": "R47-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1016/j.juro.2014.07.096",
+        "article-title": "Improved outcomes with advancements in high intensity focused ultrasound devices for the treatment of localized prostate cancer",
+        "volume": "193",
+        "author": "Uchida",
+        "year": "2015",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "R48-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "267",
+        "DOI": "10.1016/j.eururo.2016.09.039",
+        "article-title": "Focal high intensity focused ultrasound of unilateral localized prostate cancer: a prospective multicentric hemiablation study of 111 patients",
+        "volume": "71",
+        "author": "Rischmann",
+        "year": "2017",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "R49-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "668",
+        "DOI": "10.1016/j.eururo.2016.02.054",
+        "article-title": "Medium-term outcomes after whole-gland high-intensity focused ultrasound for the treatment of nonmetastatic prostate cancer from a multicentre registry cohort",
+        "volume": "70",
+        "author": "Dickinson",
+        "year": "2016",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "R50-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "124",
+        "DOI": "10.1159/000049761",
+        "article-title": "Transrectal high intensity focused ultrasound for the treatment of localized prostate cancer: factors influencing the outcome",
+        "volume": "40",
+        "author": "Gelet",
+        "year": "2001",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "R51-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "673",
+        "DOI": "10.1089/089277903322518699",
+        "article-title": "High-intensity focused ultrasound and localized prostate cancer: efficacy results from the European multicentric study",
+        "volume": "17",
+        "author": "Thüroff",
+        "year": "2003",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "R52-20-20210206",
+        "doi-asserted-by": "crossref",
+        "first-page": "97",
+        "DOI": "10.1016/j.juro.2016.06.092",
+        "article-title": "Pathological, oncologic and functional outcomes of a prospective registry of salvage high intensity focused ultrasound ablation for radiorecurrent prostate cancer",
+        "volume": "197",
+        "author": "Siddiqui",
+        "year": "2017",
+        "journal-title": "J Urol"
+      }
+    ],
+    "container-title": [
+      "Current Opinion in Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://journals.lww.com/10.1097/MOU.0000000000000391",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          22
+        ]
+      ],
+      "date-time": "2024-06-22T20:28:56Z",
+      "timestamp": 1719088136000
+    },
+    "score": 61.269768,
+    "resource": {
+      "primary": {
+        "URL": "https://journals.lww.com/00042307-201705000-00020"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          5
+        ]
+      ]
+    },
+    "references-count": 51,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2017
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1097/mou.0000000000000391",
+    "ISSN": [
+      "0963-0643"
+    ],
+    "issn-type": [
+      {
+        "value": "0963-0643",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          5
+        ]
+      ]
+    }
+  }
+]

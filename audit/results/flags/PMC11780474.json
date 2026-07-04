@@ -1,0 +1,261 @@
+{
+  "paper": "PMC11780474",
+  "source_file": "pmcid:11780474",
+  "generated": "2026-07-01T15:07:38.049941+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "dry_run_skipped": 31
+  },
+  "flagged": [],
+  "all_checks": [
+    {
+      "sentence": "Sensitivity to environmental stress and adversity is a highly heritable personality trait with significant effects on physical and mental health across the lifespan.[1] Stress, arising from adverse external or internal forces, triggers the release of stress hormones, such as epinephrine and norepinephrine, affecting metabolism and other vital physiological functions.[2] Environmental adversity can induce epigenetic changes, such as DNA methylation, altering the functioning of genes involved in stress responses, immune function, and inflammation.[3] Moreover, chronic exposure to stress and adversity can lead to low-grade systemic inflammation, promoting tissue damage and dysregulating immune function.[4] Consequently, prolonged exposure to stress and environmental adversity can lead to various health conditions, potentially increasing cancer risk, including lung cancer.[5] In 2022, global lung cancer incidence varied widely with the highest rates observed in Central and Eastern Europe and Eastern Asia and the lowest in sub-Saharan Africa (except South Africa).[6] Gender and regional differences are notable, with men experiencing the highest lung cancer incidence rates in Central and Eastern Europe, Southern Europe, Western Asia, and Melanesia (56 to 68 men per 100 000), while women have the highest rates in the United States, Canada, China, the Netherlands, and Denmark (30 to 35 women per 100 000).[6] Historically, smoking patterns have driven these trends, with men in high-income countries adopting and quitting smoking earlier than women.",
+      "citation_number": 1,
+      "ref_text": "Nagel M, Speed D, van der Sluis S, Østergaard SD. Genome-wide association study of the sensitivity to environmental stress and adversity neuroticism cluster. Acta Psychiatr Scand. 2020;141(5):476-478. doi:10.1111/acps.1315531972866",
+      "doi": "10.1111/acps.13155",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Sensitivity to environmental stress and adversity is a highly heritable personality trait with significant effects on physical and mental health across the lifespan.[1] Stress, arising from adverse external or internal forces, triggers the release of stress hormones, such as epinephrine and norepinephrine, affecting metabolism and other vital physiological functions.[2] Environmental adversity can induce epigenetic changes, such as DNA methylation, altering the functioning of genes involved in stress responses, immune function, and inflammation.[3] Moreover, chronic exposure to stress and adversity can lead to low-grade systemic inflammation, promoting tissue damage and dysregulating immune function.[4] Consequently, prolonged exposure to stress and environmental adversity can lead to various health conditions, potentially increasing cancer risk, including lung cancer.[5] In 2022, global lung cancer incidence varied widely with the highest rates observed in Central and Eastern Europe and Eastern Asia and the lowest in sub-Saharan Africa (except South Africa).[6] Gender and regional differences are notable, with men experiencing the highest lung cancer incidence rates in Central and Eastern Europe, Southern Europe, Western Asia, and Melanesia (56 to 68 men per 100 000), while women have the highest rates in the United States, Canada, China, the Netherlands, and Denmark (30 to 35 women per 100 000).[6] Historically, smoking patterns have driven these trends, with men in high-income countries adopting and quitting smoking earlier than women.",
+      "citation_number": 2,
+      "ref_text": "Kyrou I, Tsigos C. Stress hormones: physiological stress and regulation of metabolism. Curr Opin Pharmacol. 2009;9(6):787-793. doi:10.1016/j.coph.2009.08.00719758844",
+      "doi": "10.1016/j.coph.2009.08.007",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Sensitivity to environmental stress and adversity is a highly heritable personality trait with significant effects on physical and mental health across the lifespan.[1] Stress, arising from adverse external or internal forces, triggers the release of stress hormones, such as epinephrine and norepinephrine, affecting metabolism and other vital physiological functions.[2] Environmental adversity can induce epigenetic changes, such as DNA methylation, altering the functioning of genes involved in stress responses, immune function, and inflammation.[3] Moreover, chronic exposure to stress and adversity can lead to low-grade systemic inflammation, promoting tissue damage and dysregulating immune function.[4] Consequently, prolonged exposure to stress and environmental adversity can lead to various health conditions, potentially increasing cancer risk, including lung cancer.[5] In 2022, global lung cancer incidence varied widely with the highest rates observed in Central and Eastern Europe and Eastern Asia and the lowest in sub-Saharan Africa (except South Africa).[6] Gender and regional differences are notable, with men experiencing the highest lung cancer incidence rates in Central and Eastern Europe, Southern Europe, Western Asia, and Melanesia (56 to 68 men per 100 000), while women have the highest rates in the United States, Canada, China, the Netherlands, and Denmark (30 to 35 women per 100 000).[6] Historically, smoking patterns have driven these trends, with men in high-income countries adopting and quitting smoking earlier than women.",
+      "citation_number": 3,
+      "ref_text": "Argentieri MA, Nagarajan S, Seddighzadeh B, Baccarelli AA, Shields AE. Epigenetic pathways in human disease: the impact of DNA methylation on stress-related pathogenesis and current challenges in biomarker development. EBioMedicine. 2017;18:327-350. doi:10.1016/j.ebiom.2017.03.04428434943 PMC5405197",
+      "doi": "10.1016/j.ebiom.2017.03.044",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Sensitivity to environmental stress and adversity is a highly heritable personality trait with significant effects on physical and mental health across the lifespan.[1] Stress, arising from adverse external or internal forces, triggers the release of stress hormones, such as epinephrine and norepinephrine, affecting metabolism and other vital physiological functions.[2] Environmental adversity can induce epigenetic changes, such as DNA methylation, altering the functioning of genes involved in stress responses, immune function, and inflammation.[3] Moreover, chronic exposure to stress and adversity can lead to low-grade systemic inflammation, promoting tissue damage and dysregulating immune function.[4] Consequently, prolonged exposure to stress and environmental adversity can lead to various health conditions, potentially increasing cancer risk, including lung cancer.[5] In 2022, global lung cancer incidence varied widely with the highest rates observed in Central and Eastern Europe and Eastern Asia and the lowest in sub-Saharan Africa (except South Africa).[6] Gender and regional differences are notable, with men experiencing the highest lung cancer incidence rates in Central and Eastern Europe, Southern Europe, Western Asia, and Melanesia (56 to 68 men per 100 000), while women have the highest rates in the United States, Canada, China, the Netherlands, and Denmark (30 to 35 women per 100 000).[6] Historically, smoking patterns have driven these trends, with men in high-income countries adopting and quitting smoking earlier than women.",
+      "citation_number": 4,
+      "ref_text": "Olvera Alvarez HA, Kubzansky LD, Campen MJ, Slavich GM. Early life stress, air pollution, inflammation, and disease: an integrative review and immunologic model of social-environmental adversity and lifespan health. Neurosci Biobehav Rev. 2018;92:226-242. doi:10.1016/j.neubiorev.2018.06.00229874545 PMC6082389",
+      "doi": "10.1016/j.neubiorev.2018.06.002",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Sensitivity to environmental stress and adversity is a highly heritable personality trait with significant effects on physical and mental health across the lifespan.[1] Stress, arising from adverse external or internal forces, triggers the release of stress hormones, such as epinephrine and norepinephrine, affecting metabolism and other vital physiological functions.[2] Environmental adversity can induce epigenetic changes, such as DNA methylation, altering the functioning of genes involved in stress responses, immune function, and inflammation.[3] Moreover, chronic exposure to stress and adversity can lead to low-grade systemic inflammation, promoting tissue damage and dysregulating immune function.[4] Consequently, prolonged exposure to stress and environmental adversity can lead to various health conditions, potentially increasing cancer risk, including lung cancer.[5] In 2022, global lung cancer incidence varied widely with the highest rates observed in Central and Eastern Europe and Eastern Asia and the lowest in sub-Saharan Africa (except South Africa).[6] Gender and regional differences are notable, with men experiencing the highest lung cancer incidence rates in Central and Eastern Europe, Southern Europe, Western Asia, and Melanesia (56 to 68 men per 100 000), while women have the highest rates in the United States, Canada, China, the Netherlands, and Denmark (30 to 35 women per 100 000).[6] Historically, smoking patterns have driven these trends, with men in high-income countries adopting and quitting smoking earlier than women.",
+      "citation_number": 5,
+      "ref_text": "Chida Y, Hamer M, Wardle J, Steptoe A. Do stress-related psychosocial factors contribute to cancer incidence and survival? Nat Clin Pract Oncol. 2008;5(8):466-475. doi:10.1038/ncponc113418493231",
+      "doi": "10.1038/ncponc1134",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Sensitivity to environmental stress and adversity is a highly heritable personality trait with significant effects on physical and mental health across the lifespan.[1] Stress, arising from adverse external or internal forces, triggers the release of stress hormones, such as epinephrine and norepinephrine, affecting metabolism and other vital physiological functions.[2] Environmental adversity can induce epigenetic changes, such as DNA methylation, altering the functioning of genes involved in stress responses, immune function, and inflammation.[3] Moreover, chronic exposure to stress and adversity can lead to low-grade systemic inflammation, promoting tissue damage and dysregulating immune function.[4] Consequently, prolonged exposure to stress and environmental adversity can lead to various health conditions, potentially increasing cancer risk, including lung cancer.[5] In 2022, global lung cancer incidence varied widely with the highest rates observed in Central and Eastern Europe and Eastern Asia and the lowest in sub-Saharan Africa (except South Africa).[6] Gender and regional differences are notable, with men experiencing the highest lung cancer incidence rates in Central and Eastern Europe, Southern Europe, Western Asia, and Melanesia (56 to 68 men per 100 000), while women have the highest rates in the United States, Canada, China, the Netherlands, and Denmark (30 to 35 women per 100 000).[6] Historically, smoking patterns have driven these trends, with men in high-income countries adopting and quitting smoking earlier than women.",
+      "citation_number": 6,
+      "ref_text": "Bray F, Laversanne M, Sung H, . Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2024;74(3):229-263. doi:10.3322/caac.2183438572751",
+      "doi": "10.3322/caac.21834",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Other risk factors, such as environmental hazards and genetic susceptibility, also play important roles.[7],[8],[9] While stress has been related to various adverse health outcomes, its association with lung cancer remains poorly understood.",
+      "citation_number": 7,
+      "ref_text": "Krewski D, Lubin JH, Zielinski JM, . Residential radon and risk of lung cancer: a combined analysis of 7 North American case-control studies. Epidemiology. 2005;16(2):137-145. doi:10.1097/01.ede.0000152522.80261.e315703527",
+      "doi": "10.1097/01.ede.0000152522.80261.e3",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Other risk factors, such as environmental hazards and genetic susceptibility, also play important roles.[7],[8],[9] While stress has been related to various adverse health outcomes, its association with lung cancer remains poorly understood.",
+      "citation_number": 8,
+      "ref_text": "Malhotra J, Malvezzi M, Negri E, La Vecchia C, Boffetta P. Risk factors for lung cancer worldwide. Eur Respir J. 2016;48(3):889-902. doi:10.1183/13993003.00359-201627174888",
+      "doi": "10.1183/13993003.00359-2016",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Other risk factors, such as environmental hazards and genetic susceptibility, also play important roles.[7],[8],[9] While stress has been related to various adverse health outcomes, its association with lung cancer remains poorly understood.",
+      "citation_number": 9,
+      "ref_text": "Shi J, Shiraishi K, Choi J, . Genome-wide association study of lung adenocarcinoma in East Asia and comparison with a European population. Nat Commun. 2023;14(1):3043. doi:10.1038/s41467-023-38196-z37236969 PMC10220065",
+      "doi": "10.1038/s41467-023-38196-z",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "A meta-analysis of 16 observational studies reported a significant association between stress and lung cancer incidence.[5] Despite this, the causal relationship remains uncertain, and it is unclear whether this association holds consistent across different histologic types of lung cancer.",
+      "citation_number": 5,
+      "ref_text": "Chida Y, Hamer M, Wardle J, Steptoe A. Do stress-related psychosocial factors contribute to cancer incidence and survival? Nat Clin Pract Oncol. 2008;5(8):466-475. doi:10.1038/ncponc113418493231",
+      "doi": "10.1038/ncponc1134",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "In scenarios where randomized trials are not feasible, Mendelian randomization (MR) analysis offers a compelling alternative by using human genetic data.[10] MR leverages naturally occurring genetic variants as unbiased proxies for exposures to make potential causal inference.",
+      "citation_number": 10,
+      "ref_text": "Zuber V, Grinberg NF, Gill D, . Combining evidence from Mendelian randomization and colocalization: review and comparison of approaches. Am J Hum Genet. 2022;109(5):767-782. doi:10.1016/j.ajhg.2022.04.00135452592 PMC7612737",
+      "doi": "10.1016/j.ajhg.2022.04.001",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Leveraging data from the largest multiancestry genome-wide association studies (GWAS) of lung cancer from the International Lung Cancer Consortium (ILCCO)[11] and a GWAS published by Nagel et al[1] on sensitivity to environmental stress and adversity using the UK Biobank, we aim to examine the causal association of sensitivity to environmental stress and adversity in relation to lung cancer risk.",
+      "citation_number": 1,
+      "ref_text": "Nagel M, Speed D, van der Sluis S, Østergaard SD. Genome-wide association study of the sensitivity to environmental stress and adversity neuroticism cluster. Acta Psychiatr Scand. 2020;141(5):476-478. doi:10.1111/acps.1315531972866",
+      "doi": "10.1111/acps.13155",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Leveraging data from the largest multiancestry genome-wide association studies (GWAS) of lung cancer from the International Lung Cancer Consortium (ILCCO)[11] and a GWAS published by Nagel et al[1] on sensitivity to environmental stress and adversity using the UK Biobank, we aim to examine the causal association of sensitivity to environmental stress and adversity in relation to lung cancer risk.",
+      "citation_number": 11,
+      "ref_text": "Byun J, Han Y, Li Y, . Cross-ancestry genome-wide meta-analysis of 61 047 cases and 947 237 controls identifies new susceptibility loci contributing to lung cancer. Nat Genet. 2022;54(8):1167-1177. doi:10.1038/s41588-022-01115-x35915169 PMC9373844",
+      "doi": "10.1038/s41588-022-01115-x",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We obtained summary-level statistic data for genetic instruments from the GWAS of sensitivity to environmental stress and adversity using data collected from individuals of European descent from the UK Biobank.[1] Sensitivity to environmental stress and adversity was measured through questions assessing emotional reactivity, such as, “Are your feelings easily hurt?” “Do you worry too long after an embarrassing experience?” and “Are you often troubled by feelings of guilt?” These items, which were grouped based on their shared theme, define sensitivity to environmental stress and adversity as a distinct genetic cluster.[1] We obtained the summary-level statistic data for lung cancer risk, both overall and across histologic subtypes, from a comprehensive multiancestry GWAS from 12 studies of diverse ancestry populations from the ILCCO published by Byun et al.[11] The cohort predominantly consisted of individuals of European ancestry (74%), followed by those of East Asian (18%) and African ancestry (8%).[11] The study specifically focused on histological subtypes of lung cancer, including small cell lung cancer, squamous cell carcinoma, and lung adenocarcinoma.",
+      "citation_number": 1,
+      "ref_text": "Nagel M, Speed D, van der Sluis S, Østergaard SD. Genome-wide association study of the sensitivity to environmental stress and adversity neuroticism cluster. Acta Psychiatr Scand. 2020;141(5):476-478. doi:10.1111/acps.1315531972866",
+      "doi": "10.1111/acps.13155",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "We obtained summary-level statistic data for genetic instruments from the GWAS of sensitivity to environmental stress and adversity using data collected from individuals of European descent from the UK Biobank.[1] Sensitivity to environmental stress and adversity was measured through questions assessing emotional reactivity, such as, “Are your feelings easily hurt?” “Do you worry too long after an embarrassing experience?” and “Are you often troubled by feelings of guilt?” These items, which were grouped based on their shared theme, define sensitivity to environmental stress and adversity as a distinct genetic cluster.[1] We obtained the summary-level statistic data for lung cancer risk, both overall and across histologic subtypes, from a comprehensive multiancestry GWAS from 12 studies of diverse ancestry populations from the ILCCO published by Byun et al.[11] The cohort predominantly consisted of individuals of European ancestry (74%), followed by those of East Asian (18%) and African ancestry (8%).[11] The study specifically focused on histological subtypes of lung cancer, including small cell lung cancer, squamous cell carcinoma, and lung adenocarcinoma.",
+      "citation_number": 11,
+      "ref_text": "Byun J, Han Y, Li Y, . Cross-ancestry genome-wide meta-analysis of 61 047 cases and 947 237 controls identifies new susceptibility loci contributing to lung cancer. Nat Genet. 2022;54(8):1167-1177. doi:10.1038/s41588-022-01115-x35915169 PMC9373844",
+      "doi": "10.1038/s41588-022-01115-x",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "For the current study, we selected 4463 genome-wide significant SNVs (P < 5 × 10−8) associated with sensitivity to environmental stress and adversity that were also present in the lung cancer outcome GWAS dataset.[1],[11] To maintain independence among genetic proxies, we then performed linkage disequilibrium (LD) clumping with a threshold of r2 = 0.01, within a 1000 kb window using genotype data from European individuals of the 1000 Genomes Project (Phase 3) as reference panel,[12] using PLINK version 1.9.[13] This process yielded 38 SNVs.",
+      "citation_number": 1,
+      "ref_text": "Nagel M, Speed D, van der Sluis S, Østergaard SD. Genome-wide association study of the sensitivity to environmental stress and adversity neuroticism cluster. Acta Psychiatr Scand. 2020;141(5):476-478. doi:10.1111/acps.1315531972866",
+      "doi": "10.1111/acps.13155",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "For the current study, we selected 4463 genome-wide significant SNVs (P < 5 × 10−8) associated with sensitivity to environmental stress and adversity that were also present in the lung cancer outcome GWAS dataset.[1],[11] To maintain independence among genetic proxies, we then performed linkage disequilibrium (LD) clumping with a threshold of r2 = 0.01, within a 1000 kb window using genotype data from European individuals of the 1000 Genomes Project (Phase 3) as reference panel,[12] using PLINK version 1.9.[13] This process yielded 38 SNVs.",
+      "citation_number": 11,
+      "ref_text": "Byun J, Han Y, Li Y, . Cross-ancestry genome-wide meta-analysis of 61 047 cases and 947 237 controls identifies new susceptibility loci contributing to lung cancer. Nat Genet. 2022;54(8):1167-1177. doi:10.1038/s41588-022-01115-x35915169 PMC9373844",
+      "doi": "10.1038/s41588-022-01115-x",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "For the current study, we selected 4463 genome-wide significant SNVs (P < 5 × 10−8) associated with sensitivity to environmental stress and adversity that were also present in the lung cancer outcome GWAS dataset.[1],[11] To maintain independence among genetic proxies, we then performed linkage disequilibrium (LD) clumping with a threshold of r2 = 0.01, within a 1000 kb window using genotype data from European individuals of the 1000 Genomes Project (Phase 3) as reference panel,[12] using PLINK version 1.9.[13] This process yielded 38 SNVs.",
+      "citation_number": 12,
+      "ref_text": "Auton A, Brooks LD, Durbin RM, ; 1000 Genomes Project Consortium. A global reference for human genetic variation. Nature. 2015;526(7571):68-74. doi:10.1038/nature1539326432245 PMC4750478",
+      "doi": "10.1038/nature15393",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "For the current study, we selected 4463 genome-wide significant SNVs (P < 5 × 10−8) associated with sensitivity to environmental stress and adversity that were also present in the lung cancer outcome GWAS dataset.[1],[11] To maintain independence among genetic proxies, we then performed linkage disequilibrium (LD) clumping with a threshold of r2 = 0.01, within a 1000 kb window using genotype data from European individuals of the 1000 Genomes Project (Phase 3) as reference panel,[12] using PLINK version 1.9.[13] This process yielded 38 SNVs.",
+      "citation_number": 13,
+      "ref_text": "Purcell S, Neale B, Todd-Brown K, . PLINK: a tool set for whole-genome association and population-based linkage analyses. Am J Hum Genet. 2007;81(3):559-575. doi:10.1086/51979517701901 PMC1950838",
+      "doi": "10.1086/519795",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Subsequently, 1 SNV (rs7938812), known to be associated with smoking behavior,[14] was excluded to prevent potential confounding.",
+      "citation_number": 14,
+      "ref_text": "Karlsson Linnér R, Biroli P, Kong E, ; 23and Me Research Team; eQTLgen Consortium; International Cannabis Consortium; Social Science Genetic Association Consortium. Genome-wide association analyses of risk tolerance and risky behaviors in over 1 million individuals identify hundreds of loci and shared genetic influences. Nat Genet. 2019;51(2):245-257. doi:10.1038/s41588-018-0309-330643258 PMC6713272",
+      "doi": "10.1038/s41588-018-0309-3",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "We conducted a 2-sample MR analysis primarily using the robust adjusted profile score (MR-RAPS) method to estimate the odds ratio (OR) and 95% CI for the association between sensitivity to environmental stress and adversity with lung cancer risk, both overall and across histologic subtypes.[15] We conducted sensitivity analysis using 2 additional MR methods, debiased inverse-variance weighted (dIVW) and MR median, to evaluate robustness of the results.",
+      "citation_number": 15,
+      "ref_text": "Zhao Q, Wang J, Hemani G, Bowden J, Small DS. Statistical inference in 2-sample summary-data Mendelian randomization using robust adjusted profile score. Annals of Statistics. 2020;48(3):1742-1769. doi:10.1214/19-AOS1866",
+      "doi": "10.1214/19-AOS1866",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Summary statistics are available at the following links: sensitivity to environmental stress and adversity[16] and lung cancer.[17] In this genetic association study of 351 827 individuals from the UK Biobank and a cross-ancestry genome-wide analysis of 61 047 lung cancer cases and 947 237 controls from the International Lung Cancer Consortium, sensitivity to environmental stress and adversity was significantly associated with an increased risk of lung cancer in individuals of European ancestry (OR, 1.49; 95% CI, 1.13-1.98; P = .005) and in the cross-ancestry analysis (OR, 1.45; 95% CI, 1.13-1.85; P = .004) (Table 2 and Figure).",
+      "citation_number": 16,
+      "ref_text": "Nagel M, Speed D, van der Sluis S, Østergaard SD. Genome-wide association study of the sensitivity to environmental stress and adversity neuroticism cluster. Acta Psychiatr Scand. 2020;141(5):476-478. doi:10.1111/acps.1315531972866",
+      "doi": "10.1111/acps.13155",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Summary statistics are available at the following links: sensitivity to environmental stress and adversity[16] and lung cancer.[17] In this genetic association study of 351 827 individuals from the UK Biobank and a cross-ancestry genome-wide analysis of 61 047 lung cancer cases and 947 237 controls from the International Lung Cancer Consortium, sensitivity to environmental stress and adversity was significantly associated with an increased risk of lung cancer in individuals of European ancestry (OR, 1.49; 95% CI, 1.13-1.98; P = .005) and in the cross-ancestry analysis (OR, 1.45; 95% CI, 1.13-1.85; P = .004) (Table 2 and Figure).",
+      "citation_number": 17,
+      "ref_text": "Byun J, Han Y, Li Y, . Cross-ancestry genome-wide meta-analysis of 61,047 cases and 947 237 controls identifies new susceptibility loci contributing to lung cancer. Nature Genetics. 2022;54(8):1167-1177. doi:10.1038/s41588-022-01115-x35915169 PMC9373844",
+      "doi": "10.1038/s41588-022-01115-x",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Stress, as a physiological and psychological response to adverse conditions, is critically implicated in immune dysfunction that influence disease susceptibility.[18] Prolonged exposure to stress is particularly concerning, as it can lead to enduring changes in emotional, physiological, and behavioral responses, thereby increasing individuals’ susceptibility to various health conditions.[18],[19] Those with increased sensitivity to environmental stress and adversity are likely exposed to chronic stress and hence heightened risk for worse health.",
+      "citation_number": 18,
+      "ref_text": "Cohen S, Janicki-Deverts D, Miller GE. Psychological stress and disease. JAMA. 2007;298(14):1685-1687. doi:10.1001/jama.298.14.168517925521",
+      "doi": "10.1001/jama.298.14.1685",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Stress, as a physiological and psychological response to adverse conditions, is critically implicated in immune dysfunction that influence disease susceptibility.[18] Prolonged exposure to stress is particularly concerning, as it can lead to enduring changes in emotional, physiological, and behavioral responses, thereby increasing individuals’ susceptibility to various health conditions.[18],[19] Those with increased sensitivity to environmental stress and adversity are likely exposed to chronic stress and hence heightened risk for worse health.",
+      "citation_number": 19,
+      "ref_text": "Engert V, Grant JA, Strauss B. Psychosocial factors in disease and treatment-a call for the biopsychosocial model. JAMA Psychiatry. 2020;77(10):996-997. doi:10.1001/jamapsychiatry.2020.036432492082",
+      "doi": "10.1001/jamapsychiatry.2020.0364",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Robust evidence suggests that stress can facilitate cancer progression by modulating key cancer hallmarks, as seen in animal studies and partially supported by clinical observations.[20] A 2008 meta-analysis of 142 studies (mean sample size of 87 000) indicated that psychosocial stress estimates a modest increase in cancer incidence (HR, 1.06; 95% CI, 1.02-1.11; P = .005), largely driven by depression.[5] Studies on work stress as a cancer risk factor have yielded mixed results, with 1 meta-analysis[21] reporting null effects and another indicating elevated relative risks for lung and colorectal cancers.[22] Despite the inconsistent effects observed in epidemiologic studies, animal studies suggest that stress can impact cancer progression by targeting stress-sensitive phases of tumor growth and metastasis.[20] Unlike animal studies, epidemiologic studies and clinical trials on stress-reducing interventions typically do not focus on such stress-prone phases, which may explain the mixed results.",
+      "citation_number": 5,
+      "ref_text": "Chida Y, Hamer M, Wardle J, Steptoe A. Do stress-related psychosocial factors contribute to cancer incidence and survival? Nat Clin Pract Oncol. 2008;5(8):466-475. doi:10.1038/ncponc113418493231",
+      "doi": "10.1038/ncponc1134",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Robust evidence suggests that stress can facilitate cancer progression by modulating key cancer hallmarks, as seen in animal studies and partially supported by clinical observations.[20] A 2008 meta-analysis of 142 studies (mean sample size of 87 000) indicated that psychosocial stress estimates a modest increase in cancer incidence (HR, 1.06; 95% CI, 1.02-1.11; P = .005), largely driven by depression.[5] Studies on work stress as a cancer risk factor have yielded mixed results, with 1 meta-analysis[21] reporting null effects and another indicating elevated relative risks for lung and colorectal cancers.[22] Despite the inconsistent effects observed in epidemiologic studies, animal studies suggest that stress can impact cancer progression by targeting stress-sensitive phases of tumor growth and metastasis.[20] Unlike animal studies, epidemiologic studies and clinical trials on stress-reducing interventions typically do not focus on such stress-prone phases, which may explain the mixed results.",
+      "citation_number": 20,
+      "ref_text": "Eckerling A, Ricon-Becker I, Sorski L, Sandbank E, Ben-Eliyahu S. Stress and cancer: mechanisms, significance and future directions. Nat Rev Cancer. 2021;21(12):767-785. doi:10.1038/s41568-021-00395-534508247",
+      "doi": "10.1038/s41568-021-00395-5",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Robust evidence suggests that stress can facilitate cancer progression by modulating key cancer hallmarks, as seen in animal studies and partially supported by clinical observations.[20] A 2008 meta-analysis of 142 studies (mean sample size of 87 000) indicated that psychosocial stress estimates a modest increase in cancer incidence (HR, 1.06; 95% CI, 1.02-1.11; P = .005), largely driven by depression.[5] Studies on work stress as a cancer risk factor have yielded mixed results, with 1 meta-analysis[21] reporting null effects and another indicating elevated relative risks for lung and colorectal cancers.[22] Despite the inconsistent effects observed in epidemiologic studies, animal studies suggest that stress can impact cancer progression by targeting stress-sensitive phases of tumor growth and metastasis.[20] Unlike animal studies, epidemiologic studies and clinical trials on stress-reducing interventions typically do not focus on such stress-prone phases, which may explain the mixed results.",
+      "citation_number": 21,
+      "ref_text": "Heikkilä K, Nyberg ST, Theorell T, ; IPD-Work Consortium. Work stress and risk of cancer: meta-analysis of 5700 incident cancer events in 116,000 European men and women. BMJ. 2013;346:f165. doi:10.1136/bmj.f16523393080 PMC3567204",
+      "doi": "10.1136/bmj.f165",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Robust evidence suggests that stress can facilitate cancer progression by modulating key cancer hallmarks, as seen in animal studies and partially supported by clinical observations.[20] A 2008 meta-analysis of 142 studies (mean sample size of 87 000) indicated that psychosocial stress estimates a modest increase in cancer incidence (HR, 1.06; 95% CI, 1.02-1.11; P = .005), largely driven by depression.[5] Studies on work stress as a cancer risk factor have yielded mixed results, with 1 meta-analysis[21] reporting null effects and another indicating elevated relative risks for lung and colorectal cancers.[22] Despite the inconsistent effects observed in epidemiologic studies, animal studies suggest that stress can impact cancer progression by targeting stress-sensitive phases of tumor growth and metastasis.[20] Unlike animal studies, epidemiologic studies and clinical trials on stress-reducing interventions typically do not focus on such stress-prone phases, which may explain the mixed results.",
+      "citation_number": 22,
+      "ref_text": "Yang T, Qiao Y, Xiang S, Li W, Gan Y, Chen Y. Work stress and the risk of cancer: a meta-analysis of observational studies. Int J Cancer. 2019;144(10):2390-2400. doi:10.1002/ijc.3195530484859",
+      "doi": "10.1002/ijc.31955",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Malignant development in humans is a prolonged process and subclinical cancer dormancy is common.[23] Therefore, cancer risk may be elevated both through disease initiation and through escape from dormancy or accelerated progression to clinical manifestation.",
+      "citation_number": 23,
+      "ref_text": "Manjili MH. Tumor dormancy and relapse: from a natural byproduct of evolution to a disease state. Cancer Res. 2017;77(10):2564-2569. doi:10.1158/0008-5472.CAN-17-006828507050 PMC5459601",
+      "doi": "10.1158/0008-5472.CAN-17-0068",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Animal studies have shown that stress factors can trigger tumor cells to escape dormancy.[24] Further research is warranted to elucidate the underlying mechanisms driving the observed associations among humans.",
+      "citation_number": 24,
+      "ref_text": "Perego M, Tyurin VA, Tyurina YY, . Reactivation of dormant tumor cells by modified lipids derived from stress-activated neutrophils. Sci Transl Med. 2020;12(572):eabb5817. doi:10.1126/scitranslmed.abb581733268511 PMC8085740",
+      "doi": "10.1126/scitranslmed.abb5817",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    }
+  ]
+}

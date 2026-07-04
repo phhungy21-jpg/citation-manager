@@ -1,0 +1,169 @@
+{
+  "best_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": "cc-by",
+    "oa_date": "2017-07-17",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://link.springer.com/content/pdf/10.1007%2Fs11934-017-0717-4.pdf",
+    "url_for_landing_page": "https://doi.org/10.1007/s11934-017-0717-4",
+    "url_for_pdf": "https://link.springer.com/content/pdf/10.1007%2Fs11934-017-0717-4.pdf",
+    "version": "publishedVersion"
+  },
+  "data_standard": 2,
+  "doi": "10.1007/s11934-017-0717-4",
+  "doi_url": "https://doi.org/10.1007/s11934-017-0717-4",
+  "first_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": "cc-by",
+    "oa_date": "2017-07-17",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://link.springer.com/content/pdf/10.1007%2Fs11934-017-0717-4.pdf",
+    "url_for_landing_page": "https://doi.org/10.1007/s11934-017-0717-4",
+    "url_for_pdf": "https://link.springer.com/content/pdf/10.1007%2Fs11934-017-0717-4.pdf",
+    "version": "publishedVersion"
+  },
+  "genre": "journal-article",
+  "has_repository_copy": true,
+  "is_oa": true,
+  "is_paratext": false,
+  "journal_is_in_doaj": false,
+  "journal_is_oa": false,
+  "journal_issn_l": "1527-2737",
+  "journal_issns": "1527-2737,1534-6285",
+  "journal_name": "Current Urology Reports",
+  "oa_locations": [
+    {
+      "endpoint_id": null,
+      "evidence": "deprecated",
+      "host_type": "publisher",
+      "is_best": true,
+      "license": "cc-by",
+      "oa_date": "2017-07-17",
+      "pmh_id": null,
+      "repository_institution": null,
+      "updated": "deprecated",
+      "url": "https://link.springer.com/content/pdf/10.1007%2Fs11934-017-0717-4.pdf",
+      "url_for_landing_page": "https://doi.org/10.1007/s11934-017-0717-4",
+      "url_for_pdf": "https://link.springer.com/content/pdf/10.1007%2Fs11934-017-0717-4.pdf",
+      "version": "publishedVersion"
+    },
+    {
+      "endpoint_id": "ac9de7698155b820de7",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": "cc-by",
+      "oa_date": "2017-07-17",
+      "pmh_id": "oai:pubmedcentral.nih.gov:5514172",
+      "repository_institution": "National Institutes of Health",
+      "updated": "deprecated",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5514172",
+      "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/5514172",
+      "url_for_pdf": null,
+      "version": "submittedVersion"
+    },
+    {
+      "endpoint_id": "6fd301eedf33cb3712e",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": "cc-by",
+      "oa_date": "2017-07-17",
+      "pmh_id": "oai:qmro.qmul.ac.uk:123456789/75635",
+      "repository_institution": "Queen Mary University of London",
+      "updated": "deprecated",
+      "url": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/75635",
+      "url_for_landing_page": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/75635",
+      "url_for_pdf": null,
+      "version": "submittedVersion"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "oa_status": "hybrid",
+  "published_date": "2017-07-17",
+  "publisher": "Springer Science and Business Media LLC",
+  "title": "Surgical Techniques to Optimize Early Urinary Continence Recovery Post Robot Assisted Radical Prostatectomy for Prostate Cancer",
+  "updated": "2026-03-20T23:48:44Z",
+  "year": 2017,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "Department of Urology, University College London Hospital, London, UK. ashwin.sridhar@nhs.net",
+        "Division of Surgery and Cancer, University College London, London, UK. ashwin.sridhar@nhs.net",
+        "Department of Urology, University College London Hospital, London, UK"
+      ],
+      "raw_author_name": "Ashwin N. Sridhar"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Urology, University College London Hospital, London, UK"
+      ],
+      "raw_author_name": "Mohammed Abozaid"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Urology, University College London Hospital, London, UK"
+      ],
+      "raw_author_name": "Prabhakar Rajan"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Urology, University College London Hospital, London, UK",
+        "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK"
+      ],
+      "raw_author_name": "Prasanna Sooriakumaran"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Urology, University College London Hospital, London, UK"
+      ],
+      "raw_author_name": "Greg Shaw"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Urology, University College London Hospital, London, UK",
+        "Division of Surgery and Cancer, University College London, London, UK"
+      ],
+      "raw_author_name": "Senthil Nathan"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Urology, University College London Hospital, London, UK",
+        "Division of Surgery and Cancer, University College London, London, UK"
+      ],
+      "raw_author_name": "John D. Kelly"
+    },
+    {
+      "author_position": "last",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Urology, University College London Hospital, London, UK"
+      ],
+      "raw_author_name": "Tim P Briggs"
+    }
+  ]
+}

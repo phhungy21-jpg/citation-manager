@@ -1,0 +1,1252 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T21:58:51Z",
+      "timestamp": 1782943131072,
+      "version": "3.54.5"
+    },
+    "reference-count": 24,
+    "publisher": "BMJ",
+    "issue": "7414",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              9,
+              4
+            ]
+          ],
+          "date-time": "2003-09-04T00:00:00Z",
+          "timestamp": 1062633600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.bmj.com/company/legal-information/terms-conditions/legal-information/tdm-licencepolicy"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          9,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1136/bmj.327.7414.557",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          9,
+          4
+        ]
+      ],
+      "date-time": "2003-09-04T19:04:05Z",
+      "timestamp": 1062702245000
+    },
+    "page": "557-560",
+    "source": "Crossref",
+    "is-referenced-by-count": 52133,
+    "title": [
+      "Measuring inconsistency in meta-analyses"
+    ],
+    "prefix": "10.1136",
+    "volume": "327",
+    "author": [
+      {
+        "given": "Julian P T",
+        "family": "Higgins",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Simon G",
+        "family": "Thompson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan J",
+        "family": "Deeks",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Douglas G",
+        "family": "Altman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2003,
+          9,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2025122212355780000_327.7414.557.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.315.7119.1371"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/ewjm.174.4.262"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.323.7308.334"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.4",
+        "unstructured": "Guyatt G Sinclair J Cook D Jaeschke R Schünemann H Pauker S . Moving from evidence to action. Guyatt G Rennie D eds. Users' guides to the medical literature: a manual for evidence-based clinical practice. Chicago: American Medical Association, 2002: 599–608."
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.1091"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1258/1355819021927674"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2307/3001666"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(01)00377-8"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.9",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1002/sim.4780110203",
+        "article-title": "Small sample performance of tests of homogeneity of odds ratios in k 2 × 2 tables.",
+        "volume": "11",
+        "author": "Paul",
+        "year": "1992",
+        "journal-title": "Stat Med"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19980430)17:8<841::AID-SIM781>3.0.CO;2-D"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jefferson TO Demicheli V Deeks JJ Rivetti D . Amantadine and rimantadine for preventing and treating influenza A in adults. Cochrane Database Syst Rev 2002; (4): CD001169",
+        "DOI": "10.1002/14651858.CD001169"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.12",
+        "doi-asserted-by": "crossref",
+        "first-page": "154",
+        "DOI": "10.1093/oxfordjournals.epirev.a036084",
+        "article-title": "Meta-analysis: state-of-the-science.",
+        "volume": "14",
+        "author": "Dickersin",
+        "year": "1992",
+        "journal-title": "Epidemiol Rev"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.13",
+        "unstructured": "Barbui C Hotopf M Freemantle N Boynton J Churchill R Eccles MP Geddes JR . Treatment discontinuation with selective serotonin reuptake inhibitors (SSRIs) versus tricyclic antidepressants (TCAs). Cochrane Database Syst Rev 2003; (3): CD002791"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.1186"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.15",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sterne JAC Bradburn MJ Egger M . Meta-analysis in STATA. Egger M Davey Smith G Altman DG eds. Systematic reviews in health care: meta-analysis in context. 2nd ed. London: BMJ Publications, 2001: 347–69.",
+        "DOI": "10.1002/9780470693926.ch18"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(97)11423-4"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM199207233270406"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.310.6982.752"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.19",
+        "first-page": "906",
+        "article-title": "Residential exposure to electromagnetic fields and childhood leukaemia: a meta-analysis.",
+        "volume": "77",
+        "author": "Angelillo",
+        "year": "1999",
+        "journal-title": "Bull World Health Organ"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.317.7153.235"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/1097-0258(20000715)19:13<1707::AID-SIM491>3.0.CO;2-P"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.1188"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/sim.4780081202"
+      },
+      {
+        "key": "2025122212355780000_327.7414.557.24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(99)00103-1"
+      }
+    ],
+    "container-title": [
+      "BMJ"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://data.bmj.org/tdm/10.1136/bmj.327.7414.557",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.327.7414.557",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2025-12-22T20:36:05Z",
+      "timestamp": 1766435765000
+    },
+    "score": 105.94843,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.327.7414.557"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          9,
+          4
+        ]
+      ]
+    },
+    "references-count": 24,
+    "journal-issue": {
+      "issue": "7414",
+      "published-online": {
+        "date-parts": [
+          [
+            2003,
+            9,
+            4
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            9,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/bmj.327.7414.557"
+    ],
+    "URL": "https://doi.org/10.1136/bmj.327.7414.557",
+    "ISSN": [
+      "0959-8138",
+      "1468-5833"
+    ],
+    "issn-type": [
+      {
+        "value": "0959-8138",
+        "type": "print"
+      },
+      {
+        "value": "1468-5833",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          9,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2026-06-25T11:04:12Z",
+      "timestamp": 1782385452054,
+      "version": "3.54.5"
+    },
+    "reference-count": 14,
+    "publisher": "BMJ",
+    "issue": "7387",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2003-03-01T00:00:00Z",
+          "timestamp": 1046476800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.bmj.com/company/legal-information/terms-conditions/legal-information/tdm-licencepolicy"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "accepted": {
+      "date-parts": [
+        [
+          2003,
+          1,
+          16
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          3,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    <jats:bold>Objective:</jats:bold>\n                    To determine the validity of adjusted indirect comparisons by using data from published meta-analyses of randomised trials.\n                  </jats:p>\n                  <jats:p>\n                    <jats:bold>Design:</jats:bold>\n                    Direct comparison of different interventions in randomised trials and adjusted indirect comparison in which two interventions were compared through their relative effect versus a common comparator. The discrepancy between the direct and adjusted indirect comparison was measured by the difference between the two estimates.\n                  </jats:p>\n                  <jats:p>\n                    <jats:bold>Data sources:</jats:bold>\n                    Database of abstracts of reviews of effectiveness (1994-8), the Cochrane database of systematic reviews, Medline, and references of retrieved articles.\n                  </jats:p>\n                  <jats:p>\n                    <jats:bold>Results:</jats:bold>\n                    44 published meta-analyses (from 28 systematic reviews) provided sufficient data. In most cases, results of adjusted indirect comparisons were not significantly different from those of direct comparisons. A significant discrepancy (P&lt;0.05) was observed in three of the 44 comparisons between the direct and the adjusted indirect estimates. There was a moderate agreement between the statistical conclusions from the direct and adjusted indirect comparisons (κ 0.51). The direction of discrepancy between the two estimates was inconsistent.\n                  </jats:p>\n                  <jats:p>\n                    <jats:bold>Conclusions:</jats:bold>\n                    Adjusted indirect comparisons usually but not always agree with the results of head to head randomised trials. When there is no or insufficient direct evidence from randomised trials, the adjusted indirect comparison may provide useful or supplementary information on the relative efficacy of competing interventions. The validity of the adjusted indirect comparisons depends on the internal validity and similarity of the included trials.\n                  </jats:p>\n                  <jats:p>\n                    <jats:boxed-text position=\"float\">\n                      <jats:sec>\n                        <jats:title>What is already known on this topic</jats:title>\n                        <jats:p>Many competing interventions have not been compared in randomised trials</jats:p>\n                        <jats:p>Indirect comparison of competing interventions has been carried out in systematic reviews, often implicitly</jats:p>\n                        <jats:p>Indirect comparison adjusted by a common control can partially take account of prognostic characteristics of patients in different trials</jats:p>\n                      </jats:sec>\n                      <jats:sec>\n                        <jats:title>What this study adds</jats:title>\n                        <jats:p>Results of adjusted indirect comparison usually, but not always, agree with those of head to head randomised trials</jats:p>\n                        <jats:p>The validity of adjusted indirect comparisons depends on the internal validity and similarity of the trials involved</jats:p>\n                      </jats:sec>\n                    </jats:boxed-text>\n                  </jats:p>",
+    "DOI": "10.1136/bmj.326.7387.472",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2003-02-27T18:23:22Z",
+      "timestamp": 1046370202000
+    },
+    "page": "472",
+    "source": "Crossref",
+    "is-referenced-by-count": 768,
+    "title": [
+      "Validity of indirect comparison for estimating efficacy of competing interventions: empirical evidence from published meta-analyses"
+    ],
+    "prefix": "10.1136",
+    "volume": "326",
+    "author": [
+      {
+        "given": "Fujian",
+        "family": "Song",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Douglas G",
+        "family": "Altman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anne-Marie",
+        "family": "Glenny",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jonathan J",
+        "family": "Deeks",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2003,
+          3,
+          1
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2025122210173024000_326.7387.472.1",
+        "unstructured": "Pocock SJ . Clinical trials: a practical approach. New York: John Wiley, 1996."
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/009286150103500212"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.3",
+        "doi-asserted-by": "crossref",
+        "first-page": "26",
+        "DOI": "10.1067/mhj.2001.111262",
+        "article-title": "Active-control trials: how would a new agent compare with placebo? A method illustrated with clopidogrel, aspirin, and placebo.",
+        "volume": "141",
+        "author": "Fisher",
+        "year": "2001",
+        "journal-title": "Am Heart J"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.282.14.1371"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(97)00049-8"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.6",
+        "doi-asserted-by": "crossref",
+        "first-page": "488",
+        "DOI": "10.1016/S0197-2456(00)00055-6",
+        "article-title": "Indirect comparison in evaluating relative efficacy illustrated by antimicrobial prophylaxis in colorectal surgery.",
+        "volume": "21",
+        "author": "Song",
+        "year": "2000",
+        "journal-title": "Contr Clin Trials"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.7",
+        "doi-asserted-by": "crossref",
+        "first-page": "177",
+        "DOI": "10.1016/0197-2456(86)90046-2",
+        "article-title": "Meta-analysis in clinical trials.",
+        "volume": "7",
+        "author": "DerSimonian",
+        "year": "1986",
+        "journal-title": "Contr Clin Trials"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Altman DG . Practical statistics for medical research. London: Chapman Hall, 1991.",
+        "DOI": "10.1201/9780429258589"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.312.7040.1215"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1097-0258(19961230)15:24<2733::AID-SIM562>3.0.CO;2-0"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0895-4356(99)00041-4"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1996.03540160054033"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1995.03520290060030"
+      },
+      {
+        "key": "2025122210173024000_326.7387.472.14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3310/hta4100",
+        "article-title": "Publication and related biases.",
+        "volume": "4",
+        "author": "Song",
+        "year": "2000",
+        "journal-title": "Health Technol Assess"
+      }
+    ],
+    "container-title": [
+      "BMJ"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://data.bmj.org/tdm/10.1136/bmj.326.7387.472",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.326.7387.472",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2025-12-22T18:17:38Z",
+      "timestamp": 1766427458000
+    },
+    "score": 43.88964,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.326.7387.472"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          3,
+          1
+        ]
+      ]
+    },
+    "references-count": 14,
+    "journal-issue": {
+      "issue": "7387",
+      "published-online": {
+        "date-parts": [
+          [
+            2003,
+            3,
+            1
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            3,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/bmj.326.7387.472"
+    ],
+    "URL": "https://doi.org/10.1136/bmj.326.7387.472",
+    "ISSN": [
+      "0959-8138",
+      "1468-5833"
+    ],
+    "issn-type": [
+      {
+        "value": "0959-8138",
+        "type": "print"
+      },
+      {
+        "value": "1468-5833",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          3,
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          18
+        ]
+      ],
+      "date-time": "2026-06-18T16:14:40Z",
+      "timestamp": 1781799280262,
+      "version": "3.54.5"
+    },
+    "edition-number": "1",
+    "reference-count": 0,
+    "publisher": "Wiley",
+    "isbn-type": [
+      {
+        "value": "9780470699515",
+        "type": "print"
+      },
+      {
+        "value": "9780470712184",
+        "type": "electronic"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              9,
+              22
+            ]
+          ],
+          "date-time": "2008-09-22T00:00:00Z",
+          "timestamp": 1222041600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          26
+        ]
+      ]
+    },
+    "DOI": "10.1002/9780470712184.ch9",
+    "type": "other",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          11,
+          26
+        ]
+      ],
+      "date-time": "2008-11-26T13:53:53Z",
+      "timestamp": 1227707633000
+    },
+    "page": "243-296",
+    "source": "Crossref",
+    "is-referenced-by-count": 1037,
+    "title": [
+      "Analysing Data and Undertaking Meta‐Analyses"
+    ],
+    "prefix": "10.1002",
+    "author": [
+      {
+        "given": "Jonathan J",
+        "family": "Deeks",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julian PT",
+        "family": "Higgins",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Douglas G",
+        "family": "Altman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          22
+        ]
+      ]
+    },
+    "container-title": [
+      "Cochrane Handbook for Systematic Reviews of Interventions"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470712184.ch9",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          20
+        ]
+      ],
+      "date-time": "2023-08-20T11:38:25Z",
+      "timestamp": 1692531505000
+    },
+    "score": 41.469185,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1002/9780470712184.ch9"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          22
+        ]
+      ]
+    },
+    "ISBN": [
+      "9780470699515",
+      "9780470712184"
+    ],
+    "references-count": 0,
+    "alternative-id": [
+      "10.1002/9780470712184.ch9",
+      "10.1002/9780470712184"
+    ],
+    "URL": "https://doi.org/10.1002/9780470712184.ch9",
+    "archive": [
+      "Portico"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T18:44:24Z",
+      "timestamp": 1782931464241,
+      "version": "3.54.5"
+    },
+    "reference-count": 0,
+    "publisher": "BMJ",
+    "issue": "feb10 2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          10
+        ]
+      ]
+    },
+    "DOI": "10.1136/bmj.d549",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          10
+        ]
+      ],
+      "date-time": "2011-02-10T07:34:35Z",
+      "timestamp": 1297323275000
+    },
+    "page": "d549-d549",
+    "source": "Crossref",
+    "is-referenced-by-count": 2360,
+    "title": [
+      "Interpretation of random effects meta-analyses"
+    ],
+    "prefix": "10.1136",
+    "volume": "342",
+    "author": [
+      {
+        "given": "R. D.",
+        "family": "Riley",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J. P. T.",
+        "family": "Higgins",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J. J.",
+        "family": "Deeks",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          10
+        ]
+      ]
+    },
+    "container-title": [
+      "BMJ"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.d549",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2020-09-25T20:13:56Z",
+      "timestamp": 1601064836000
+    },
+    "score": 41.154182,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.d549"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          10
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "feb10 2",
+      "published-online": {
+        "date-parts": [
+          [
+            2011,
+            2,
+            10
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            2,
+            10
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1136/bmj.d549",
+    "relation": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.715047800.790252972",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0959-8138",
+      "1468-5833"
+    ],
+    "issn-type": [
+      {
+        "value": "0959-8138",
+        "type": "print"
+      },
+      {
+        "value": "1468-5833",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          10
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2025-12-22T21:30:52Z",
+      "timestamp": 1766439052519,
+      "version": "3.48.0"
+    },
+    "reference-count": 0,
+    "publisher": "BMJ",
+    "issue": "7414",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2003,
+              9,
+              4
+            ]
+          ],
+          "date-time": "2003-09-04T00:00:00Z",
+          "timestamp": 1062633600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.bmj.com/company/legal-information/terms-conditions/legal-information/tdm-licencepolicy"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "BMJ"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2003,
+          9,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1136/bmj.327.7414.570",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2003,
+          9,
+          4
+        ]
+      ],
+      "date-time": "2003-09-04T19:04:05Z",
+      "timestamp": 1062702245000
+    },
+    "page": "570",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Minerva"
+    ],
+    "prefix": "10.1136",
+    "volume": "327",
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2003,
+          9,
+          4
+        ]
+      ]
+    },
+    "container-title": [
+      "BMJ"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://data.bmj.org/tdm/10.1136/bmj.327.7414.570",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/bmj.327.7414.570",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          22
+        ]
+      ],
+      "date-time": "2025-12-22T20:37:48Z",
+      "timestamp": 1766435868000
+    },
+    "score": 40.01582,
+    "resource": {
+      "primary": {
+        "URL": "https://www.bmj.com/lookup/doi/10.1136/bmj.327.7414.570"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          9,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "7414",
+      "published-online": {
+        "date-parts": [
+          [
+            2003,
+            9,
+            4
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2003,
+            9,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/bmj.327.7414.570"
+    ],
+    "URL": "https://doi.org/10.1136/bmj.327.7414.570",
+    "ISSN": [
+      "0959-8138",
+      "1468-5833"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0959-8138"
+      },
+      {
+        "type": "electronic",
+        "value": "1468-5833"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2003,
+          9,
+          4
+        ]
+      ]
+    }
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "best_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": "cc-by-nc",
+    "oa_date": "2023-05-27",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://cardiologyres.org/index.php/Cardiologyres/article/download/1484/1448",
+    "url_for_landing_page": "https://doi.org/10.14740/cr1484",
+    "url_for_pdf": "https://cardiologyres.org/index.php/Cardiologyres/article/download/1484/1448",
+    "version": "publishedVersion"
+  },
+  "data_standard": 2,
+  "doi": "10.14740/cr1484",
+  "doi_url": "https://doi.org/10.14740/cr1484",
+  "first_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": "cc-by-nc",
+    "oa_date": "2023-05-27",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://cardiologyres.org/index.php/Cardiologyres/article/download/1484/1448",
+    "url_for_landing_page": "https://doi.org/10.14740/cr1484",
+    "url_for_pdf": "https://cardiologyres.org/index.php/Cardiologyres/article/download/1484/1448",
+    "version": "publishedVersion"
+  },
+  "genre": "journal-article",
+  "has_repository_copy": true,
+  "is_oa": true,
+  "is_paratext": false,
+  "journal_is_in_doaj": false,
+  "journal_is_oa": true,
+  "journal_issn_l": "1923-2829",
+  "journal_issns": "1923-2829,1923-2837",
+  "journal_name": "Cardiology Research",
+  "oa_locations": [
+    {
+      "endpoint_id": null,
+      "evidence": "deprecated",
+      "host_type": "publisher",
+      "is_best": true,
+      "license": "cc-by-nc",
+      "oa_date": "2023-05-27",
+      "pmh_id": null,
+      "repository_institution": null,
+      "updated": "deprecated",
+      "url": "https://cardiologyres.org/index.php/Cardiologyres/article/download/1484/1448",
+      "url_for_landing_page": "https://doi.org/10.14740/cr1484",
+      "url_for_pdf": "https://cardiologyres.org/index.php/Cardiologyres/article/download/1484/1448",
+      "version": "publishedVersion"
+    },
+    {
+      "endpoint_id": "ac9de7698155b820de7",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": "cc-by-nc",
+      "oa_date": "2023-05-27",
+      "pmh_id": "oai:pubmedcentral.nih.gov:10257500",
+      "repository_institution": "National Institutes of Health",
+      "updated": "deprecated",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10257500/pdf/cr-14-176.pdf",
+      "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/10257500",
+      "url_for_pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10257500/pdf/cr-14-176.pdf",
+      "version": "submittedVersion"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "oa_status": "gold",
+  "published_date": "2023-05-27",
+  "publisher": "Elmer Press, Inc.",
+  "title": "Prevalence of Right- and Left-Sided Endocarditis Among Intravenous Drug Use Patients at a Large Academic Medical Center",
+  "updated": "2026-02-10T21:43:31Z",
+  "year": 2023,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "Department of Medicine, University of Kentucky, Lexington, KY, USA",
+        "Department of Medicine, University of Kentucky, Lexington, KY"
+      ],
+      "raw_author_name": "Kanjit Leungsuwan"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Medicine, University of Kentucky, Lexington, KY, USA",
+        "Department of Medicine, University of Kentucky, Lexington, KY"
+      ],
+      "raw_author_name": "Mahender Vyasabattu"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Sargodha Medical College, University of Sargodha, Pakistan",
+        "Sargodha Medical College, University of Sargodha"
+      ],
+      "raw_author_name": "Heena Arshad"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Medicine, University of Kentucky, Lexington, KY, USA",
+        "Department of Medicine, University of Kentucky, Lexington, KY"
+      ],
+      "raw_author_name": "Ahmed Abdelfattah"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Biostatistics, University of Kentucky, Lexington, KY, USA",
+        "Department of Biostatistics, University of Kentucky, Lexington, KY"
+      ],
+      "raw_author_name": "Kory R. Heier"
+    },
+    {
+      "author_position": "last",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Medicine, University of Kentucky, Lexington, KY, USA",
+        "Department of Medicine, University of Kentucky, Lexington, KY"
+      ],
+      "raw_author_name": "Samiullah Arshad"
+    }
+  ]
+}

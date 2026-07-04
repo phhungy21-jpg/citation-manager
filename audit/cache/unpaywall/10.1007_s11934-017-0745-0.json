@@ -1,0 +1,152 @@
+{
+  "best_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": "cc-by",
+    "oa_date": "2017-11-07",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://link.springer.com/content/pdf/10.1007/s11934-017-0745-0.pdf",
+    "url_for_landing_page": "https://doi.org/10.1007/s11934-017-0745-0",
+    "url_for_pdf": "https://link.springer.com/content/pdf/10.1007/s11934-017-0745-0.pdf",
+    "version": "publishedVersion"
+  },
+  "data_standard": 2,
+  "doi": "10.1007/s11934-017-0745-0",
+  "doi_url": "https://doi.org/10.1007/s11934-017-0745-0",
+  "first_oa_location": {
+    "endpoint_id": null,
+    "evidence": "deprecated",
+    "host_type": "publisher",
+    "is_best": true,
+    "license": "cc-by",
+    "oa_date": "2017-11-07",
+    "pmh_id": null,
+    "repository_institution": null,
+    "updated": "deprecated",
+    "url": "https://link.springer.com/content/pdf/10.1007/s11934-017-0745-0.pdf",
+    "url_for_landing_page": "https://doi.org/10.1007/s11934-017-0745-0",
+    "url_for_pdf": "https://link.springer.com/content/pdf/10.1007/s11934-017-0745-0.pdf",
+    "version": "publishedVersion"
+  },
+  "genre": "journal-article",
+  "has_repository_copy": true,
+  "is_oa": true,
+  "is_paratext": false,
+  "journal_is_in_doaj": false,
+  "journal_is_oa": false,
+  "journal_issn_l": "1527-2737",
+  "journal_issns": "1527-2737,1534-6285",
+  "journal_name": "Current Urology Reports",
+  "oa_locations": [
+    {
+      "endpoint_id": null,
+      "evidence": "deprecated",
+      "host_type": "publisher",
+      "is_best": true,
+      "license": "cc-by",
+      "oa_date": "2017-11-07",
+      "pmh_id": null,
+      "repository_institution": null,
+      "updated": "deprecated",
+      "url": "https://link.springer.com/content/pdf/10.1007/s11934-017-0745-0.pdf",
+      "url_for_landing_page": "https://doi.org/10.1007/s11934-017-0745-0",
+      "url_for_pdf": "https://link.springer.com/content/pdf/10.1007/s11934-017-0745-0.pdf",
+      "version": "publishedVersion"
+    },
+    {
+      "endpoint_id": "64ae8a7dae488e6b759",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": "cc-by",
+      "oa_date": "2017-11-07",
+      "pmh_id": "oai:ora.ox.ac.uk:uuid:404bc62d-4d82-4212-9c69-3c9b2f9eddf9",
+      "repository_institution": "University of Oxford",
+      "updated": "deprecated",
+      "url": "https://ora.ox.ac.uk/objects/uuid:404bc62d-4d82-4212-9c69-3c9b2f9eddf9",
+      "url_for_landing_page": "https://ora.ox.ac.uk/objects/uuid:404bc62d-4d82-4212-9c69-3c9b2f9eddf9",
+      "url_for_pdf": null,
+      "version": "submittedVersion"
+    },
+    {
+      "endpoint_id": "ac9de7698155b820de7",
+      "evidence": "deprecated",
+      "host_type": "repository",
+      "is_best": false,
+      "license": "cc-by",
+      "oa_date": "2017-11-07",
+      "pmh_id": "oai:pubmedcentral.nih.gov:5676800",
+      "repository_institution": "National Institutes of Health",
+      "updated": "deprecated",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5676800",
+      "url_for_landing_page": "https://www.ncbi.nlm.nih.gov/pmc/articles/5676800",
+      "url_for_pdf": null,
+      "version": "submittedVersion"
+    }
+  ],
+  "oa_locations_embargoed": [],
+  "oa_status": "hybrid",
+  "published_date": "2017-11-07",
+  "publisher": "Springer Science and Business Media LLC",
+  "title": "Systematic Review of Studies Reporting Positive Surgical Margins After Bladder Neck Sparing Radical Prostatectomy",
+  "updated": "2026-04-05T22:21:22Z",
+  "year": 2017,
+  "z_authors": [
+    {
+      "author_position": "first",
+      "is_corresponding": true,
+      "raw_affiliation_strings": [
+        "Department of Urology, Churchill Hospital, Oxford University Hospitals NHS Foundation Trust, Oxford, UK",
+        "Department of Urology, Sant'Andrea Hospital, Sapienza University of Rome, Rome, Italy"
+      ],
+      "raw_author_name": "Mariangela Bellangino"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Pathology, John Radcliffe Hospital, Oxford University Hospitals NHS Foundation Trust, Oxford, UK"
+      ],
+      "raw_author_name": "Clare Verrill"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Urology, Churchill Hospital, Oxford University Hospitals NHS Foundation Trust, Oxford, UK"
+      ],
+      "raw_author_name": "Tom Leslie"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Urology, Churchill Hospital, Oxford University Hospitals NHS Foundation Trust, Oxford, UK"
+      ],
+      "raw_author_name": "Richard W. Bell"
+    },
+    {
+      "author_position": "middle",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Urology, Churchill Hospital, Oxford University Hospitals NHS Foundation Trust, Oxford, UK",
+        "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK"
+      ],
+      "raw_author_name": "Freddie C. Hamdy"
+    },
+    {
+      "author_position": "last",
+      "is_corresponding": false,
+      "raw_affiliation_strings": [
+        "Department of Urology, Churchill Hospital, Oxford University Hospitals NHS Foundation Trust, Oxford, UK. alastair.lamb@nds.ox.ac.uk",
+        "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK. alastair.lamb@nds.ox.ac.uk",
+        "Nuffield Department of Surgical Sciences, University of Oxford, Oxford, UK"
+      ],
+      "raw_author_name": "Alastair D. Lamb"
+    }
+  ]
+}

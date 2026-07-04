@@ -1,0 +1,35 @@
+{
+  "paper": "Karabulut 2020.md",
+  "provenance": "manual_human_review",
+  "reviewer": "claude (interactive session, not automated API call)",
+  "pipeline_version": null,
+  "preceding_dry_run_sessions": [
+    "20260701T071347Z_Karabulut_2020.json",
+    "20260701T072239Z_Karabulut_2020.json",
+    "20260701T072832Z_Karabulut_2020.json"
+  ],
+  "n_checks_reviewed": 22,
+  "n_resolved": 13,
+  "n_unresolved": 9,
+  "unresolved_reason_breakdown": {
+    "genuine_OCR_noise_defeating_title_match": 8,
+    "book_chapter_citation_correctly_rejected": 1
+  },
+  "verdict_counts": {
+    "SUPPORTED": 3,
+    "PARTIALLY_SUPPORTED": 4,
+    "UNSUPPORTED": 4,
+    "NOT_EVALUABLE": 2
+  },
+  "gate2_fulltext_checks_run": 0,
+  "gate2_note": "No OA candidates pursued for this paper's flags — the two TOPIC_MISMATCH findings (refs 4 and 13) were unambiguous from the abstract alone and did not need full-text confirmation to reach high confidence.",
+  "pipeline_bugs_found_during_this_run": [
+    "Book-chapter citation ('Walsh PC... In: Walsh PC, Retik AB... Campbell's Urology 7th Edition') resolved to a DIFFERENT same-author same-year journal article with a similar title, passing the confidence bar despite being the wrong source. Verified by direct Crossref lookup before fixing. Fixed by rejecting 'In: ... (Eds)' citations outright in ref_resolver.py.",
+    "Unit superscript 'kg/m[2]' (kg/m-squared) misread as a citation to reference 2 — same failure class as the earlier author-affiliation-superscript bug, different trigger. Found but NOT fixed this session (logged as an open item in STATUS.md)."
+  ],
+  "output_files": {
+    "manual_preview": "audit/results/preview/Karabulut_2020.manual-preview.json",
+    "combined_summary": "audit/results/preview/three_paper_review_summary.md"
+  },
+  "notes": "Highest-confidence finding across all 3 papers: ref [13] (Steiner 1994) is a cadaver anatomy study with zero patients, cited for a specific clinical RCT claim (n=237 vs 97, 3-month continence rates) that appears nowhere in it. Reference-list parsing verified correct against the raw source text -- this is a miscitation in the original manuscript, not a pipeline error. Also note: this paper's 41% unresolved-reference rate is a genuine data-quality finding (heavy OCR noise in the source: 'cantinence', 'asisted', 'Europan', 'radikal', 'lacalized'), not a pipeline bug -- kept in the calibration set deliberately rather than swapped for an easier paper."
+}

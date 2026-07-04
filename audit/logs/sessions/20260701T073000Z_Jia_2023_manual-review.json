@@ -1,0 +1,33 @@
+{
+  "paper": "Jia 2023.md",
+  "provenance": "manual_human_review",
+  "reviewer": "claude (interactive session, not automated API call)",
+  "pipeline_version": null,
+  "preceding_dry_run_sessions": [
+    "20260701T060925Z_Jia_2023.json",
+    "20260701T061438Z_Jia_2023.json",
+    "20260701T061703Z_Jia_2023.json",
+    "20260701T064620Z_Jia_2023.json",
+    "20260701T064845Z_Jia_2023.json",
+    "20260701T065722Z_Jia_2023.json"
+  ],
+  "n_checks_reviewed": 57,
+  "n_resolved": 54,
+  "n_unresolved": 3,
+  "verdict_counts": {
+    "SUPPORTED": 28,
+    "PARTIALLY_SUPPORTED": 15,
+    "UNSUPPORTED": 6,
+    "NOT_EVALUABLE": 3
+  },
+  "gate2_fulltext_checks_run": 2,
+  "gate2_results": [
+    {"citation": "[13] Bellangino", "result": "CONFIRMED", "doi": "10.1007/s11934-017-0745-0"},
+    {"citation": "[5] Sridhar", "result": "RESCUED (false positive on gate 1)", "doi": "10.1007/s11934-017-0717-4"}
+  ],
+  "output_files": {
+    "manual_preview": "audit/results/preview/Jia_2023.manual-preview.json",
+    "combined_summary": "audit/results/preview/three_paper_review_summary.md"
+  },
+  "notes": "First manual calibration review; triggered by user question 'which ones are falsely cited' after discovering the existing flags/Jia_2023.json only contained dry-run structural data, no real verdicts. Later extended with FLAG_TYPE classification after the taxonomy was added to check_claims.py."
+}

@@ -1,0 +1,2723 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          5
+        ]
+      ],
+      "date-time": "2026-06-05T05:38:46Z",
+      "timestamp": 1780637926711,
+      "version": "3.54.1"
+    },
+    "reference-count": 62,
+    "publisher": "Informa UK Limited",
+    "issue": "1",
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "AIDS Care"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1080/09540121.2013.793281",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          8
+        ]
+      ],
+      "date-time": "2013-05-08T18:21:52Z",
+      "timestamp": 1368037312000
+    },
+    "page": "53-64",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "The impact of unstable housing on emergency department use in a cohort of HIV-positive people in a Canadian setting"
+    ],
+    "prefix": "10.1080",
+    "volume": "26",
+    "author": [
+      {
+        "given": "Surita",
+        "family": "Parashar",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Keith",
+        "family": "Chan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Milan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eric",
+        "family": "Grafstein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexis K.",
+        "family": "Palmer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chelsey",
+        "family": "Rhodes",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julio S.G.",
+        "family": "Montaner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Robert S.",
+        "family": "Hogg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "cit0001",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1353/hpu.2010.0013"
+      },
+      {
+        "key": "cit0002",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2105/AJPH.90.5.699"
+      },
+      {
+        "key": "cit0004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.annemergmed.2006.03.033"
+      },
+      {
+        "key": "cit0005",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.mlr.0000175632.83060.eb"
+      },
+      {
+        "key": "cit0006",
+        "volume-title": "Implementation guidelines for the Canadian Emergency Department Triage and Acuity Scale (CTAS)",
+        "author": "Beveridge R.",
+        "year": "1998"
+      },
+      {
+        "key": "cit0007",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0196-0644(99)70223-4"
+      },
+      {
+        "key": "cit0008",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1023/A:1025103101727"
+      },
+      {
+        "key": "cit0009",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/1049732310385824"
+      },
+      {
+        "key": "cit0010",
+        "volume-title": "Mortality and health status in Vancouver: An analysis by neighbourhood areas",
+        "author": "Burr K. F.",
+        "year": "1995"
+      },
+      {
+        "key": "cit0011",
+        "volume-title": "Vancouver drug use epidemiology: Vancouver site report for the Canadian community epidemiology network on drug use (CCENDU)",
+        "author": "Buxton J.",
+        "year": "2005"
+      },
+      {
+        "key": "cit0012",
+        "volume-title": "Needs assessment – Services for people living with HIV in Vancouver",
+        "author": "Context Research Ltd",
+        "year": "2011"
+      },
+      {
+        "key": "cit0013",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/apc.2006.103"
+      },
+      {
+        "key": "cit0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1553-2712.2001.tb01114.x"
+      },
+      {
+        "key": "cit0015",
+        "first-page": "516",
+        "volume": "15",
+        "author": "Douaihy A. B.",
+        "year": "2005",
+        "journal-title": "The AIDS Reader"
+      },
+      {
+        "key": "cit0016",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0277-9536(99)00424-4"
+      },
+      {
+        "key": "cit0017",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jemermed.2011.05.020."
+      },
+      {
+        "key": "cit0018",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2105/AJPH.87.2.217"
+      },
+      {
+        "issue": "10",
+        "key": "cit0019",
+        "first-page": "801",
+        "volume": "48",
+        "author": "Geller J.",
+        "year": "1999",
+        "journal-title": "Journal of Family Practice"
+      },
+      {
+        "key": "cit0020",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.279.6.450"
+      },
+      {
+        "key": "cit0021",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.annemergmed.2005.12.030"
+      },
+      {
+        "key": "cit0022",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1503/cmaj.061615"
+      },
+      {
+        "issue": "5",
+        "key": "cit0023",
+        "first-page": "315",
+        "volume": "5",
+        "author": "Jiménez J. G.",
+        "year": "2003",
+        "journal-title": "Canadian Journal of Emergency Medicine"
+      },
+      {
+        "key": "cit0024",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/QAI.0b013e3181648dfd"
+      },
+      {
+        "issue": "11",
+        "key": "cit0025",
+        "first-page": "2793",
+        "volume": "125",
+        "author": "Kendall A.",
+        "year": "1995",
+        "journal-title": "Journal of Nutrition"
+      },
+      {
+        "key": "cit0026",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/pubmed/fdh189"
+      },
+      {
+        "key": "cit0027",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10461-007-9249-0"
+      },
+      {
+        "key": "cit0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1472-6963-6-19"
+      },
+      {
+        "key": "cit0029",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0376-8716(00)00228-3"
+      },
+      {
+        "issue": "5",
+        "key": "cit0030",
+        "first-page": "571",
+        "volume": "108",
+        "author": "Kozak L. J.",
+        "year": "1993",
+        "journal-title": "Public Health Reports"
+      },
+      {
+        "key": "cit0031",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1067/men.2000.110904"
+      },
+      {
+        "key": "cit0032",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1525-1497.2005.00278.x"
+      },
+      {
+        "key": "cit0033",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/QAD.0b013e32802ef30c"
+      },
+      {
+        "key": "cit0034",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.mlr.0000170413.60054.54"
+      },
+      {
+        "issue": "5",
+        "key": "cit0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "795",
+        "DOI": "10.1215/03616878-23-5-795",
+        "volume": "23",
+        "author": "Malone R. E.",
+        "year": "1998",
+        "journal-title": "Journal of Health Politics, Policy and Law"
+      },
+      {
+        "key": "cit0036",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1553-2712.2000.tb02037.x"
+      },
+      {
+        "key": "cit0037",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09540120412331269585"
+      },
+      {
+        "issue": "1",
+        "key": "cit0038",
+        "first-page": "49",
+        "volume": "158",
+        "author": "Mustard C.",
+        "year": "1998",
+        "journal-title": "Canadian Medical Association Journal"
+      },
+      {
+        "key": "cit0039",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0277-9536(92)90231-E"
+      },
+      {
+        "key": "cit0040",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM199803263381301"
+      },
+      {
+        "key": "cit0041",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02351499"
+      },
+      {
+        "key": "cit0042",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/108729103322555953"
+      },
+      {
+        "key": "cit0043",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09540120903431355"
+      },
+      {
+        "key": "cit0044",
+        "doi-asserted-by": "crossref",
+        "first-page": "1544",
+        "DOI": "10.1093/jn/120.suppl_11.1544",
+        "volume": "120",
+        "author": "Radimer K. L.",
+        "year": "1990",
+        "journal-title": "Journal of Nutrition"
+      },
+      {
+        "key": "cit0045",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1553-2712.2005.tb01491.x"
+      },
+      {
+        "key": "cit0046",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1553-2712.2001.tb01111.x"
+      },
+      {
+        "key": "cit0047",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.annemergmed.2008.07.046"
+      },
+      {
+        "key": "cit0048",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.aids.0000196178.73174.24"
+      },
+      {
+        "key": "cit0049",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2009.561"
+      },
+      {
+        "key": "cit0050",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1553-2712.2002.tb02193.x"
+      },
+      {
+        "key": "cit0051",
+        "volume-title": "SAS/STAT user's guide: Version 9.1.3. (Version 9)",
+        "author": "SAS Institute",
+        "year": "2008"
+      },
+      {
+        "key": "cit0052",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/1471-2458-9-220"
+      },
+      {
+        "key": "cit0053",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1525-1497.2000.91003.x"
+      },
+      {
+        "key": "cit0054",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.280.6.547"
+      },
+      {
+        "key": "cit0055",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0196-0644(05)81080-7"
+      },
+      {
+        "key": "cit0056",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/323978"
+      },
+      {
+        "key": "cit0057",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2010.1004"
+      },
+      {
+        "key": "cit0058",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.annemergmed.2008.01.324"
+      },
+      {
+        "key": "cit0059",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12245-008-0066-7"
+      },
+      {
+        "key": "cit0060",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00005650-199610000-00005"
+      },
+      {
+        "key": "cit0061",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2005.07.008"
+      },
+      {
+        "issue": "2",
+        "key": "cit0062",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1007/BF03404927",
+        "volume": "91",
+        "author": "Wood E.",
+        "year": "2000",
+        "journal-title": "Canadian Journal of Public Health. Revue Canadienne De Sante Publique"
+      },
+      {
+        "key": "cit0063",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.mlr.0000108747.51198.41"
+      }
+    ],
+    "container-title": [
+      "AIDS Care"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.tandfonline.com/doi/pdf/10.1080/09540121.2013.793281",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          26
+        ]
+      ],
+      "date-time": "2020-07-26T13:20:39Z",
+      "timestamp": 1595769639000
+    },
+    "score": 108.35294,
+    "resource": {
+      "primary": {
+        "URL": "http://www.tandfonline.com/doi/abs/10.1080/09540121.2013.793281"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          8
+        ]
+      ]
+    },
+    "references-count": 62,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2013,
+            6,
+            14
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            1,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/09540121.2013.793281"
+    ],
+    "URL": "https://doi.org/10.1080/09540121.2013.793281",
+    "ISSN": [
+      "0954-0121",
+      "1360-0451"
+    ],
+    "issn-type": [
+      {
+        "value": "0954-0121",
+        "type": "print"
+      },
+      {
+        "value": "1360-0451",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=caic20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=caic20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2024-05-14T04:10:15Z",
+      "timestamp": 1715659815926
+    },
+    "reference-count": 0,
+    "publisher": "BMJ",
+    "issue": "Suppl 1",
+    "content-domain": {
+      "domain": [
+        "bmj.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Sex Transm Infect"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          7
+        ]
+      ]
+    },
+    "abstract": "<jats:sec><jats:title>Background</jats:title><jats:p>Unstable living conditions may increase risk for HIV exposure and transmission. This analysis examines housing as a structural factor associated with drug and sexual risk behaviours among individuals accessing antiretroviral treatment (ART). We hypothesised that unstable housing is significantly associated with sex exchange and recent injection drug use (IDU).</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>The LISA cohort is a cross-sectional study of individuals on ART in British Columbia. Interviewer-administered surveys collect information regarding housing, drug use, utilisation of health services and other clinically relevant socio-demographic factors. Clinical variables, such as CD4 count and viral load, were obtained through longitudinal linkages with the Drug Treatment Program (DTP) at the BC Centre for Excellence in HIV/AIDS. In order to examine the effect of housing status on HIV risk behaviour, multivariate logistic regression was used with three outcomes: sex exchange, unprotected intercourse and recent IDU.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>Between 2007 and 2010 approximately 1000 participants were interviewed. The survey was modified part way through the study to stratify sexual behaviour based on partner-type. This analysis is thus restricted to 477 interviews with full information on all outcomes. Median age was 45 (IQR=39–51) and 29.8% (142) were female. After adjusting for potential confounders, unstable housing was significantly associated with a history of exchanging sex for food, money or drugs (Adjusted OR [AOR]=1.92; 95% CI=1.11% to 3.33%) and recent IDU (AOR=2.39; 95% CI=1.41% to 4.03%). Unprotected sexual intercourse with regular partners, casual contacts and clients, was not significantly associated with housing status.</jats:p></jats:sec><jats:sec><jats:title>Conclusion</jats:title><jats:p>Greater levels of sexual exchange and injection drug use among unstably housed populations are associated with aspects of transient living conditions, as well as the increased need and opportunity for sexual exchanges for food, shelter, drugs and money. Our findings suggest that secure and affordable housing is an important structural intervention that may reduce HIV risk behaviour.</jats:p></jats:sec>",
+    "DOI": "10.1136/sextrans-2011-050109.93",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          7,
+          11
+        ]
+      ],
+      "date-time": "2011-07-11T06:44:16Z",
+      "timestamp": 1310366656000
+    },
+    "page": "A64.2-A65",
+    "update-policy": "http://dx.doi.org/10.1136/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "O2-S5.03 Sex, drugs and structural interventions: unstable housing associated with increased HIV risk behaviour in a cohort of people on treatment in British Columbia, Canada"
+    ],
+    "prefix": "10.1136",
+    "volume": "87",
+    "author": [
+      {
+        "given": "S",
+        "family": "Parashar",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A",
+        "family": "Palmer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "N",
+        "family": "O'Brien",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "K",
+        "family": "Chan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "D",
+        "family": "Milan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "H",
+        "family": "Samji",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "J",
+        "family": "Montaner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R",
+        "family": "Hogg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "239",
+    "published-online": {
+      "date-parts": [
+        [
+          2011,
+          7,
+          10
+        ]
+      ]
+    },
+    "container-title": [
+      "Sexually Transmitted Infections"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1136/sextrans-2011-050109.93",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          14
+        ]
+      ],
+      "date-time": "2024-05-14T03:57:56Z",
+      "timestamp": 1715659076000
+    },
+    "score": 46.062557,
+    "resource": {
+      "primary": {
+        "URL": "https://sti.bmj.com/lookup/doi/10.1136/sextrans-2011-050109.93"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          7
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "Suppl 1",
+      "published-online": {
+        "date-parts": [
+          [
+            2011,
+            7,
+            10
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1136/sextrans-2011-050109.93"
+    ],
+    "URL": "https://doi.org/10.1136/sextrans-2011-050109.93",
+    "ISSN": [
+      "1368-4973",
+      "1472-3263"
+    ],
+    "issn-type": [
+      {
+        "value": "1368-4973",
+        "type": "print"
+      },
+      {
+        "value": "1472-3263",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          7
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          10
+        ]
+      ],
+      "date-time": "2026-04-10T07:50:12Z",
+      "timestamp": 1775807412475,
+      "version": "3.50.1"
+    },
+    "reference-count": 21,
+    "publisher": "Informa UK Limited",
+    "issue": "5",
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "AIDS Care"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1080/09540121.2013.844764",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2013-10-11T13:08:31Z",
+      "timestamp": 1381496911000
+    },
+    "page": "547-553",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+      "Relationship of HIV care engagement to emergency department utilization"
+    ],
+    "prefix": "10.1080",
+    "volume": "26",
+    "author": [
+      {
+        "given": "Jelani",
+        "family": "Kerr",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Wayne A",
+        "family": "Duffus",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Terri",
+        "family": "Stephens",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "cit0002",
+        "unstructured": "CMMS. The International Classification of Diseases, 9th Revision, Clinical Classification. (2008).Health Care Financing Review. Retrieved from http://www.cms.gov/Medicare/Coding/ICD9ProviderDiagnosticCodes/addendum.html"
+      },
+      {
+        "key": "cit0003",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/QAI.0b013e3181c8ef22"
+      },
+      {
+        "key": "cit0004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/apc.2006.103"
+      },
+      {
+        "key": "cit0005",
+        "unstructured": "Department of Health and Human Services. (2010). Panel on antiretroviral guidelines for adults and adolescents.Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. Retrieved from http://www.aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-treatment-guidelines/0/"
+      },
+      {
+        "key": "cit0006",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00126334-200309010-00015"
+      },
+      {
+        "key": "cit0007",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.aids.0000161772.51900.eb"
+      },
+      {
+        "key": "cit0008",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1525-1497.2000.91136.x"
+      },
+      {
+        "key": "cit0009",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/516778"
+      },
+      {
+        "key": "cit0010",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-9343(00)00387-9"
+      },
+      {
+        "key": "cit0011",
+        "author": "HRSA",
+        "year": "2012",
+        "journal-title": "About the Ryan White HIV/AIDS program"
+      },
+      {
+        "key": "cit0013",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1468-1293.2009.00748.x"
+      },
+      {
+        "key": "cit0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/QAI.0b013e31824bd55d"
+      },
+      {
+        "key": "cit0015",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa0807252"
+      },
+      {
+        "key": "cit0016",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/QAD.0b013e32802ef30c"
+      },
+      {
+        "key": "cit0017",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00042560-199801010-00005"
+      },
+      {
+        "key": "cit0018",
+        "first-page": "1",
+        "volume": "386",
+        "author": "Nawar E. W.",
+        "year": "2007",
+        "journal-title": "Advance Data"
+      },
+      {
+        "key": "cit0019",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.300.16.1914"
+      },
+      {
+        "key": "cit0021",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMp1204431"
+      },
+      {
+        "key": "cit0022",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.281.24.2305"
+      },
+      {
+        "key": "cit0020",
+        "author": "South Carolina Department of Health and Environmental Control",
+        "year": "2011",
+        "journal-title": "STD/HIV surveillance report"
+      },
+      {
+        "key": "cit0023",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2010.1112"
+      }
+    ],
+    "container-title": [
+      "AIDS Care"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.tandfonline.com/doi/pdf/10.1080/09540121.2013.844764",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          12,
+          9
+        ]
+      ],
+      "date-time": "2016-12-09T17:13:07Z",
+      "timestamp": 1481303587000
+    },
+    "score": 43.81928,
+    "resource": {
+      "primary": {
+        "URL": "http://www.tandfonline.com/doi/abs/10.1080/09540121.2013.844764"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          10
+        ]
+      ]
+    },
+    "references-count": 21,
+    "journal-issue": {
+      "issue": "5",
+      "published-online": {
+        "date-parts": [
+          [
+            2013,
+            10,
+            14
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            5,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/09540121.2013.844764"
+    ],
+    "URL": "https://doi.org/10.1080/09540121.2013.844764",
+    "ISSN": [
+      "0954-0121",
+      "1360-0451"
+    ],
+    "issn-type": [
+      {
+        "value": "0954-0121",
+        "type": "print"
+      },
+      {
+        "value": "1360-0451",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          10
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=caic20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=caic20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2025-02-21T08:54:22Z",
+      "timestamp": 1740128062918,
+      "version": "3.37.3"
+    },
+    "reference-count": 36,
+    "publisher": "Informa UK Limited",
+    "issue": "10",
+    "funder": [
+      {
+        "DOI": "10.13039/100000002",
+        "name": "National Institutes of Health",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000026",
+        "name": "National Institute on Drug Abuse",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "U01-DA021525"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U01-DA021525"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000026",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000024",
+        "name": "Canadian Institutes of Health Research New Investigator",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000024",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100000245",
+        "name": "Michael Smith Foundation for Health Research",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100000245",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.tandfonline.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "AIDS Care"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          10,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1080/09540121.2020.1772955",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          1
+        ]
+      ],
+      "date-time": "2020-06-01T06:52:54Z",
+      "timestamp": 1590994374000
+    },
+    "page": "1262-1267",
+    "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Behavioural, social and structural-level risk factors for developing AIDS among HIV-positive people who use injection drugs in a Canadian setting, 1996–2017"
+    ],
+    "prefix": "10.1080",
+    "volume": "32",
+    "author": [
+      {
+        "given": "S.",
+        "family": "Ickowicz",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "British Columbia Centre on Substance Use, St. Paul’s Hospital, Vancouver, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "H.",
+        "family": "Dong",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "British Columbia Centre on Substance Use, St. Paul’s Hospital, Vancouver, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "L.",
+        "family": "Ti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "British Columbia Centre on Substance Use, St. Paul’s Hospital, Vancouver, Canada"
+          },
+          {
+            "name": "Department of Medicine, University of British Columbia, St. Paul’s Hospital, Vancouver, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Nolan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "British Columbia Centre on Substance Use, St. Paul’s Hospital, Vancouver, Canada"
+          },
+          {
+            "name": "Department of Medicine, University of British Columbia, St. Paul’s Hospital, Vancouver, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4195-3284",
+        "authenticated-orcid": false,
+        "given": "N.",
+        "family": "Fairbairn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "British Columbia Centre on Substance Use, St. Paul’s Hospital, Vancouver, Canada"
+          },
+          {
+            "name": "Department of Medicine, University of British Columbia, St. Paul’s Hospital, Vancouver, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Barrios",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "BC Centre for Excellence in HIV/AIDS, University of British Columbia, Vancouver, Canada"
+          },
+          {
+            "name": "Faculty of Medicine, School of Population and Public Health, Vancouver, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "M.-J.",
+        "family": "Milloy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "British Columbia Centre on Substance Use, St. Paul’s Hospital, Vancouver, Canada"
+          },
+          {
+            "name": "Department of Medicine, University of British Columbia, St. Paul’s Hospital, Vancouver, Canada"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          31
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "CIT0001",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2105/AJPH.2015.302905"
+      },
+      {
+        "key": "CIT0002",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Castro, K. G., Ward, J. W., Slutsker, J. W., Jaffe, H. W. & Berkelman, R. L. (1993). 1993 revised classification system for HIV infection and expanded surveillance case definition for AIDS among adolescents and adults. Retrieved December 10, 2017, from www.cdc.gov/mmwr/preview/mmwrhtml/00018871.htm",
+        "DOI": "10.1093/clinids/17.4.802"
+      },
+      {
+        "key": "CIT0003",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/09540121.2014.986049"
+      },
+      {
+        "key": "CIT0004",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0376-8716(98)00028-3"
+      },
+      {
+        "key": "CIT0005",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00002030-200003310-00012"
+      },
+      {
+        "issue": "2",
+        "key": "CIT0006",
+        "first-page": "466",
+        "volume": "46",
+        "author": "Fraser H.",
+        "year": "2017",
+        "journal-title": "International Journal of Epidemiology"
+      },
+      {
+        "key": "CIT0007",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/19485565.2019.1587287"
+      },
+      {
+        "key": "CIT0008",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12913-019-4659-z"
+      },
+      {
+        "key": "CIT0009",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0131353"
+      },
+      {
+        "key": "CIT0010",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1473-3099(13)70692-3"
+      },
+      {
+        "key": "CIT0011",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s12879-016-1749-y"
+      },
+      {
+        "key": "CIT0012",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10461-016-1315-z"
+      },
+      {
+        "key": "CIT0013",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/add.12736"
+      },
+      {
+        "key": "CIT0014",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.healthplace.2006.05.005"
+      },
+      {
+        "key": "CIT0015",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1360-0443.2008.02269.x"
+      },
+      {
+        "key": "CIT0016",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/QAD.0000000000000990"
+      },
+      {
+        "key": "CIT0017",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10461-016-1470-2"
+      },
+      {
+        "key": "CIT0018",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jurban/79.2.257"
+      },
+      {
+        "key": "CIT0019",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1089/apc.2011.0169"
+      },
+      {
+        "key": "CIT0020",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jir032"
+      },
+      {
+        "key": "CIT0021",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/COH.0b013e328354bcc8"
+      },
+      {
+        "key": "CIT0022",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/civ929"
+      },
+      {
+        "key": "CIT0023",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/QAD.0000000000000746"
+      },
+      {
+        "key": "CIT0024",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/QAI.0b013e3182976891"
+      },
+      {
+        "key": "CIT0025",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S2352-3018(17)30045-0"
+      },
+      {
+        "key": "CIT0026",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0022698"
+      },
+      {
+        "key": "CIT0027",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.puhe.2016.05.004"
+      },
+      {
+        "key": "CIT0028",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/003335491412900309"
+      },
+      {
+        "key": "CIT0029",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0081355"
+      },
+      {
+        "key": "CIT0030",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/QAD.0b013e32835b0fa2"
+      },
+      {
+        "key": "CIT0031",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(10)60743-X"
+      },
+      {
+        "key": "CIT0032",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.280.6.547"
+      },
+      {
+        "key": "CIT0033",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00002030-199708000-00001"
+      },
+      {
+        "key": "CIT0034",
+        "unstructured": "UNAIDS. (2017). Ending AIDS: Progress towards the 90–90–90 targets (No. JC2900E)."
+      },
+      {
+        "key": "CIT0035",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.annepidem.2015.01.006"
+      },
+      {
+        "volume-title": "Global health estimates 2015: Deaths by cause, age, sex, by Country and by Region, 2000–2015",
+        "year": "2016",
+        "author": "WHO",
+        "key": "CIT0036"
+      }
+    ],
+    "container-title": [
+      "AIDS Care"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/09540121.2020.1772955",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          3
+        ]
+      ],
+      "date-time": "2021-05-03T21:17:54Z",
+      "timestamp": 1620076674000
+    },
+    "score": 43.50668,
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/09540121.2020.1772955"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          31
+        ]
+      ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+      "issue": "10",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1080/09540121.2020.1772955"
+    ],
+    "URL": "https://doi.org/10.1080/09540121.2020.1772955",
+    "ISSN": [
+      "0954-0121",
+      "1360-0451"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0954-0121"
+      },
+      {
+        "type": "electronic",
+        "value": "1360-0451"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          31
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+        "order": 1,
+        "name": "peerreview_statement",
+        "label": "Peer Review Statement"
+      },
+      {
+        "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=caic20",
+        "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=caic20",
+        "order": 2,
+        "name": "aims_and_scope_url",
+        "label": "Aim & Scope"
+      },
+      {
+        "value": "2019-10-13",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-05-10",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2020-05-31",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          9
+        ]
+      ],
+      "date-time": "2026-06-09T14:47:57Z",
+      "timestamp": 1781016477181,
+      "version": "3.54.1"
+    },
+    "reference-count": 57,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              5,
+              5
+            ]
+          ],
+          "date-time": "2016-05-05T00:00:00Z",
+          "timestamp": 1462406400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              5,
+              5
+            ]
+          ],
+          "date-time": "2016-05-05T00:00:00Z",
+          "timestamp": 1462406400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000002",
+        "name": "National Institutes of Health",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "R01-DA021525"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "R01-DA021525"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "AIDS Behav"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1007/s10461-016-1369-y",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          5
+        ]
+      ],
+      "date-time": "2016-05-05T07:35:42Z",
+      "timestamp": 1462433742000
+    },
+    "page": "2941-2949",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Prescription Opioid Injection Among HIV-Positive People Who Inject Drugs in a Canadian Setting"
+    ],
+    "prefix": "10.1007",
+    "volume": "20",
+    "author": [
+      {
+        "given": "Stephanie",
+        "family": "Lake",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Kerr",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jane",
+        "family": "Buxton",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Silvia",
+        "family": "Guillemi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Surita",
+        "family": "Parashar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julio",
+        "family": "Montaner",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Evan",
+        "family": "Wood",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.-J.",
+        "family": "Milloy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          5
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "issue": "12",
+        "key": "1369_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "1166",
+        "DOI": "10.1002/pds.1833",
+        "volume": "18",
+        "author": "D Boudreau",
+        "year": "2009",
+        "unstructured": "Boudreau D, Von Korff M, Rutter CM, et al. Trends in long-term opioid therapy for chronic non-cancer pain. Pharmacoepidemiol Drug Saf. 2009;18(12):1166–75.",
+        "journal-title": "Pharmacoepidemiol Drug Saf"
+      },
+      {
+        "issue": "1",
+        "key": "1369_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1097/AJP.0b013e3181b99f35",
+        "volume": "26",
+        "author": "MJ Edlund",
+        "year": "2010",
+        "unstructured": "Edlund MJ, Martin BC, Devries A, Fan M-Y, Braden JB, Sullivan MD. Trends in use of opioids for chronic non-cancer pain among individuals with mental health and substance use disorders: the TROUP study. Clin J Pain. 2010;26(1):1–8.",
+        "journal-title": "Clin J Pain"
+      },
+      {
+        "issue": "2",
+        "key": "1369_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "440",
+        "DOI": "10.1016/j.pain.2008.04.027",
+        "volume": "138",
+        "author": "MD Sullivan",
+        "year": "2008",
+        "unstructured": "Sullivan MD, Edlund MJ, Fan M-Y, DeVries A, Brennan Braden J, Martin BC. Trends in use of opioids for non-cancer pain conditions 2000–2005 in Commercial and Medicaid insurance plans: the TROUP study. Pain. 2008;138(2):440–9.",
+        "journal-title": "Pain"
+      },
+      {
+        "issue": "3",
+        "key": "1369_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "241",
+        "DOI": "10.1056/NEJMsa1406143",
+        "volume": "372",
+        "author": "RC Dart",
+        "year": "2015",
+        "unstructured": "Dart RC, Surratt HL, Cicero TJ, et al. Trends in opioid analgesic abuse and mortality in the United States. N Engl J Med. 2015;372(3):241–8.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "4",
+        "key": "1369_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "438",
+        "DOI": "10.1002/pds.3404",
+        "volume": "22",
+        "author": "B Fischer",
+        "year": "2013",
+        "unstructured": "Fischer B, Jones W, Rehm J. High correlations between levels of consumption and mortality related to strong prescription opioid analgesics in British Columbia and Ontario, 2005–2009. Pharmacoepidemiol Drug Saf. 2013;22(4):438–42.",
+        "journal-title": "Pharmacoepidemiol Drug Saf"
+      },
+      {
+        "issue": "1",
+        "key": "1369_CR6",
+        "first-page": "10",
+        "volume": "61",
+        "author": "Centers for Disease Control and Prevention",
+        "year": "2012",
+        "unstructured": "Centers for Disease Control and Prevention. Prescription drug overdoses—a U.S. epidemic. MMWR Morb Mortal Wkly Rep. 2012;61(1):10–3.",
+        "journal-title": "MMWR Morb Mortal Wkly Rep"
+      },
+      {
+        "issue": "10",
+        "key": "1369_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "1411",
+        "DOI": "10.1093/cid/ciu643",
+        "volume": "59",
+        "author": "AG Suryaprasad",
+        "year": "2014",
+        "unstructured": "Suryaprasad AG, White JZ, Xu FJ, et al. Emerging epidemic of hepatitis C virus infections among young nonurban persons who inject drugs in the United States, 2006–2012. Clin Inf Dis. 2014;59(10):1411–9.",
+        "journal-title": "Clin Inf Dis"
+      },
+      {
+        "issue": "11",
+        "key": "1369_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "2226",
+        "DOI": "10.2105/AJPH.2014.302142",
+        "volume": "104",
+        "author": "JE Zibbell",
+        "year": "2014",
+        "unstructured": "Zibbell JE, Hart-Malloy R, Barry JL, Fan L, Flanigan C. Risk factors for HCV infection among young adults in rural New York who inject prescription opioid analgesics. Am J Public Health. 2014;104(11):2226–32.",
+        "journal-title": "Am J Public Health"
+      },
+      {
+        "issue": "16",
+        "key": "1369_CR9",
+        "first-page": "443",
+        "volume": "64",
+        "author": "Centers for Disease Control and Prevention",
+        "year": "2015",
+        "unstructured": "Centers for Disease Control and Prevention. Community outbreak of HIV infection linked to injection drug use of oxymorphone—Indiana, 2015. MMWR Morb Mortal Wkly Rep. 2015;64(16):443–4.",
+        "journal-title": "MMWR Morb Mortal Wkly Rep"
+      },
+      {
+        "key": "1369_CR10",
+        "unstructured": "Leclerc P, Roy E, Morissette C, Michel A, Parent R, SurvUDI Working Group, editors. Extent and correlates of injection of prescription opioids for non-medical purposes in the SurvUDI network. 20th Annual Canadian Conference on HIV/AIDS Research. Toronto; 2011."
+      },
+      {
+        "issue": "7",
+        "key": "1369_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "e005419",
+        "DOI": "10.1136/bmjopen-2014-005419",
+        "volume": "4",
+        "author": "SE Hadland",
+        "year": "2014",
+        "unstructured": "Hadland SE, DeBeck K, Kerr T, Feng C, Montaner JS, Wood E. Prescription opioid injection and risk of hepatitis C in relation to traditional drugs of misuse in a prospective cohort of street youth. BMJ Open. 2014;4(7):e005419.",
+        "journal-title": "BMJ Open"
+      },
+      {
+        "issue": "1",
+        "key": "1369_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.1097/AJP.0b013e3182201a0f",
+        "volume": "28",
+        "author": "MJ Silverberg",
+        "year": "2012",
+        "unstructured": "Silverberg MJ, Ray GT, Saunders K, et al. Prescription long-term opioid use in HIV-infected patients. Clin J Pain. 2012;28(1):39–46.",
+        "journal-title": "Clin J Pain"
+      },
+      {
+        "issue": "7",
+        "key": "1369_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1318",
+        "DOI": "10.1111/j.1360-0443.2012.03803.x",
+        "volume": "107",
+        "author": "J Bruneau",
+        "year": "2012",
+        "unstructured": "Bruneau J, Roy E, Arruda N, Zang G, Jutras-Aswad D. The rising prevalence of prescription opioid injection and its association with hepatitis C incidence among street-drug users. Addiction. 2012;107(7):1318–27.",
+        "journal-title": "Addiction."
+      },
+      {
+        "key": "1369_CR14",
+        "unstructured": "HIV/AIDS Epi Update—Chapter 1: National HIV Prevalence and Incidence Estimates for 2011. Public Health Agency of Canada. 2014. \n                    http://www.catie.ca/en/resources/hivaids-epi-update-chapter-1-national-hiv-prevalence-and-incidence-estimates-2011-0\n                    \n                  ."
+      },
+      {
+        "key": "1369_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "532",
+        "DOI": "10.1016/S0140-6736(10)60936-1",
+        "volume": "376",
+        "author": "J Montaner",
+        "year": "2010",
+        "unstructured": "Montaner J, Lima VD, Barrios R, et al. Association of highly active antiretroviral therapy coverage, population viral load, and yearly new HIV diagnoses in British Columbia, Canada: a population-based study. Lancet. 2010;376:532–9.",
+        "journal-title": "Lancet"
+      },
+      {
+        "issue": "2",
+        "key": "1369_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "e87872",
+        "DOI": "10.1371/journal.pone.0087872",
+        "volume": "9",
+        "author": "JSG Montaner",
+        "year": "2014",
+        "unstructured": "Montaner JSG, Lima VD, Harrigan PR, et al. Expansion of HAART coverage is associated with sustained decreases in HIV/AIDS morbidity, mortality and HIV transmission: the “HIV Treatment as Prevention” experience in a Canadian setting. PLoS One. 2014;9(2):e87872.",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "6",
+        "key": "1369_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "e10991",
+        "DOI": "10.1371/journal.pone.0010991",
+        "volume": "5",
+        "author": "VD Lima",
+        "year": "2010",
+        "unstructured": "Lima VD, Hogg RS, Montaner JS. Expanding HAART treatment to all currently eligible individuals under the 2008 IAS-USA Guidelines in British Columbia, Canada. PLoS One. 2010;5(6):e10991.",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "7",
+        "key": "1369_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "516",
+        "DOI": "10.1016/S1473-3099(11)70097-4",
+        "volume": "11",
+        "author": "F Zhang",
+        "year": "2011",
+        "unstructured": "Zhang F, Dou Z, Ma Y, et al. Effect of earlier initiation of antiretroviral treatment and increased treatment coverage on HIV-related mortality in China: a national observational cohort study. Lancet Inf Dis. 2011;11(7):516–24.",
+        "journal-title": "Lancet Inf Dis"
+      },
+      {
+        "issue": "1",
+        "key": "1369_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "4",
+        "DOI": "10.1016/j.drugpo.2009.08.003",
+        "volume": "21",
+        "author": "A Krusi",
+        "year": "2010",
+        "unstructured": "Krusi A, Wood E, Montaner J, Kerr T. Social and structural determinants of HAART access and adherence among injection drug users. Int J Drug Policy. 2010;21(1):4–9.",
+        "journal-title": "Int J Drug Policy"
+      },
+      {
+        "key": "1369_CR20",
+        "unstructured": "Drug Situation in Vancouver. British Columbia Centre for Excellence in HIV/AIDS. 2013. \n                    http://www.cfenet.ubc.ca/sites/default/files/uploads/news/releases/war_on_drugs_failing_to_limit_drug_use.pdf\n                    \n                  ."
+      },
+      {
+        "issue": "6",
+        "key": "1369_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "547",
+        "DOI": "10.1001/jama.280.6.547",
+        "volume": "280",
+        "author": "S Strathdee",
+        "year": "1998",
+        "unstructured": "Strathdee S, Palepu A, Cornelisse PGA, et al. Barriers to use of free antiretroviral therapy in injection drug users. JAMA. 1998;280(6):547–9.",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "8",
+        "key": "1369_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "980",
+        "DOI": "10.1080/09540121.2010.543882",
+        "volume": "23",
+        "author": "S Nolan",
+        "year": "2011",
+        "unstructured": "Nolan S, Milloy MJ, Zhang R, et al. Adherence and plasma HIV RNA response to antiretroviral therapy among HIV-seropositive injection drug users in a Canadian setting. AIDS Care. 2011;23(8):980–7.",
+        "journal-title": "AIDS Care"
+      },
+      {
+        "issue": "3",
+        "key": "1369_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "559",
+        "DOI": "10.1007/s11524-012-9771-x",
+        "volume": "90",
+        "author": "IA Linden",
+        "year": "2013",
+        "unstructured": "Linden IA, Mar MY, Werker GR, Jang K, Krausz M. Research on a vulnerable neighborhood—the Vancouver Downtown Eastside from 2001 to 2011. J Urban Health. 2013;90(3):559–73.",
+        "journal-title": "J Urban Health"
+      },
+      {
+        "issue": "1–2",
+        "key": "1369_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "108",
+        "DOI": "10.1016/j.drugalcdep.2011.12.019",
+        "volume": "124",
+        "author": "T Kerr",
+        "year": "2012",
+        "unstructured": "Kerr T, Marshall BD, Milloy MJ, et al. Patterns of heroin and cocaine injection and plasma HIV-1 RNA suppression among a long-term cohort of injection drug users. Drug Alcohol Depend. 2012;124(1–2):108–12.",
+        "journal-title": "Drug Alcohol Depend"
+      },
+      {
+        "issue": "5",
+        "key": "1369_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "550",
+        "DOI": "10.1001/jama.300.5.550",
+        "volume": "300",
+        "author": "E Wood",
+        "year": "2008",
+        "unstructured": "Wood E, Hogg RS, Lima VD, et al. Highly active antiretroviral therapy and survival in HIV-infected injection drug users. JAMA. 2008;300(5):550–4.",
+        "journal-title": "JAMA"
+      },
+      {
+        "issue": "9",
+        "key": "1369_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "1215",
+        "DOI": "10.1093/infdis/jir032",
+        "volume": "203",
+        "author": "MJ Milloy",
+        "year": "2011",
+        "unstructured": "Milloy MJ, Kerr T, Buxton J, et al. Dose-response effect of incarceration events on nonadherence to HIV antiretroviral therapy among injection drug users. J Infect Dis. 2011;203(9):1215–21.",
+        "journal-title": "J Infect Dis"
+      },
+      {
+        "issue": "13",
+        "key": "1369_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "921",
+        "DOI": "10.1056/NEJM200003303421303",
+        "volume": "342",
+        "author": "TC Quinn",
+        "year": "2000",
+        "unstructured": "Quinn TC, Wawer MJ, Sewankambo N, et al. Viral load and heterosexual transmission of human immunodeficiency virus type 1. N Engl J Med. 2000;342(13):921–9.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "1",
+        "key": "1369_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "187",
+        "DOI": "10.1016/j.addbeh.2006.03.030",
+        "volume": "32",
+        "author": "JH Lee",
+        "year": "2007",
+        "unstructured": "Lee JH, Herzog TA, Meade CD, Webb MS, Brandon TH. The use of GEE for analyzing longitudinal binomial data: a primer using data from a tobacco intervention. Addict Behav. 2007;32(1):187–93.",
+        "journal-title": "Addict Behav"
+      },
+      {
+        "key": "1369_CR29",
+        "unstructured": "College of Pharmacists of British Columbia. Controlled Prescription Program. 2011. \n                    http://library.bcpharmacists.org/D-Legislation_Standards/D-4_Drug_Distribution/5015-ControlledPrescriptionProgram.pdf\n                    \n                  ."
+      },
+      {
+        "key": "1369_CR30",
+        "unstructured": "Jurisdictional Research: Prescription Programs and Information Systems: The College of Physician and Surgeons of Ontario. 2010. \n                    http://www.cpso.on.ca/uploadedfiles/policies/positions/jurisdictional_research.pdf\n                    \n                  . Accessed 3 Nov 2015."
+      },
+      {
+        "issue": "6",
+        "key": "1369_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "625",
+        "DOI": "10.1080/09595230801956124",
+        "volume": "27",
+        "author": "B Fischer",
+        "year": "2008",
+        "unstructured": "Fischer B, Patra J, Cruz MF, Gittins J, Rehm J. Comparing heroin users and prescription opioid users in a Canadian multi-site population of illicit opioid users. Drug Alcohol Rev. 2008;27(6):625–32.",
+        "journal-title": "Drug Alcohol Rev"
+      },
+      {
+        "issue": "1",
+        "key": "1369_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "64",
+        "DOI": "10.1016/j.drugalcdep.2007.02.012",
+        "volume": "90",
+        "author": "A Rosenblum",
+        "year": "2007",
+        "unstructured": "Rosenblum A, Parrino M, Schnoll SH, et al. Prescription opioid abuse among enrollees into methadone maintenance treatment. Drug Alcohol Depend. 2007;90(1):64–71.",
+        "journal-title": "Drug Alcohol Depend"
+      },
+      {
+        "issue": "1",
+        "key": "1369_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "22",
+        "DOI": "10.4081/jphr.2012.e6",
+        "volume": "1",
+        "author": "SE Lankenau",
+        "year": "2012",
+        "unstructured": "Lankenau SE, Schrager SM, Silva K, et al. Misuse of prescription and illicit drugs among high-risk young adults in Los Angeles and New York. J Public Health Res. 2012;1(1):22–30.",
+        "journal-title": "J Public Health Res"
+      },
+      {
+        "issue": "2",
+        "key": "1369_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "199",
+        "DOI": "10.1016/j.drugalcdep.2003.10.012",
+        "volume": "73",
+        "author": "B Brands",
+        "year": "2004",
+        "unstructured": "Brands B, Blake J, Sproule B, Gourlay D, Busto U. Prescription opioid abuse in patients presenting for methadone maintenance treatment. Drug Alcohol Depend. 2004;73(2):199–207.",
+        "journal-title": "Drug Alcohol Depend"
+      },
+      {
+        "issue": "5",
+        "key": "1369_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "403",
+        "DOI": "10.1080/09595230600868504",
+        "volume": "25",
+        "author": "L Degenhardt",
+        "year": "2006",
+        "unstructured": "Degenhardt L, Black E, Breen C, et al. Trends in morphine prescriptions, illicit morphine use and associated harms among regular injecting drug users in Australia. Drug Alcohol Rev. 2006;25(5):403–12.",
+        "journal-title": "Drug Alcohol Rev"
+      },
+      {
+        "issue": "1",
+        "key": "1369_CR36",
+        "first-page": "35",
+        "volume": "22",
+        "author": "SE Lankenau",
+        "year": "2015",
+        "unstructured": "Lankenau SE, Kecojevic A, Silva K. Associations between prescription opioid injection and Hepatitis C virus among young injection drug users. Drugs. 2015;22(1):35–42.",
+        "journal-title": "Drugs"
+      },
+      {
+        "key": "1369_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "297",
+        "DOI": "10.1016/j.drugalcdep.2015.09.026",
+        "volume": "156",
+        "author": "S Lake",
+        "year": "2015",
+        "unstructured": "Lake S, Hayashi K, Buxton J, et al. The effect of prescription opioid injection on the risk of non-fatal overdose among people who inject drugs. Drug Alcohol Depend. 2015;156:297–303.",
+        "journal-title": "Drug Alcohol Depend"
+      },
+      {
+        "issue": "1",
+        "key": "1369_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "72",
+        "DOI": "10.1111/j.1465-3362.2011.00299.x",
+        "volume": "31",
+        "author": "E Roy",
+        "year": "2012",
+        "unstructured": "Roy E, Arruda N, Vaillancourt E, et al. Drug use patterns in the presence of crack in downtown Montréal. Drug Alcohol Rev. 2012;31(1):72–80.",
+        "journal-title": "Drug Alcohol Rev"
+      },
+      {
+        "issue": "5",
+        "key": "1369_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "425",
+        "DOI": "10.1080/09595230500286005",
+        "volume": "24",
+        "author": "S Darke",
+        "year": "2005",
+        "unstructured": "Darke S, Williamson A, Ross J, Teesson M. Non-fatal heroin overdose, treatment exposure and client characteristics: findings from the Australian treatment outcome study (ATOS). Drug Alcohol Rev. 2005;24(5):425–32.",
+        "journal-title": "Drug Alcohol Rev"
+      },
+      {
+        "issue": "2",
+        "key": "1369_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "219",
+        "DOI": "10.1016/j.jsat.2013.07.001",
+        "volume": "46",
+        "author": "L de la Fuente",
+        "year": "2014",
+        "unstructured": "de la Fuente L, Molist G, Espelt A, et al. Mortality risk factors and excess mortality in a cohort of cocaine users admitted to drug treatment in Spain. J Subst Abuse Treat. 2014;46(2):219–26.",
+        "journal-title": "J Subst Abuse Treat"
+      },
+      {
+        "issue": "2",
+        "key": "1369_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "147",
+        "DOI": "10.1080/02791072.2008.10400624",
+        "volume": "40",
+        "author": "T Kerr",
+        "year": "2008",
+        "unstructured": "Kerr T, Small W, Johnston C, Li K, Montaner JSG, Wood E. Characteristics of injection drug users who participate in drug dealing: implications for drug policy. J Psychoactive Drugs. 2008;40(2):147–52.",
+        "journal-title": "J Psychoactive Drugs"
+      },
+      {
+        "key": "1369_CR42",
+        "unstructured": "Healthcare Provider Advisory: Illicit high dose fentanyl being marketed as heroin and other substances. 2015. \n                    http://towardtheheart.com/assets/fentanyl/faq-healthcare-providers-final-feb-2015_4.pdf\n                    \n                  . Accessed 10 Apr 2015."
+      },
+      {
+        "issue": "4",
+        "key": "1369_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "332",
+        "DOI": "10.1080/10550880903182986",
+        "volume": "28",
+        "author": "JA Inciardi",
+        "year": "2009",
+        "unstructured": "Inciardi JA, Surratt HL, Cicero TJ, Kurtz SP, Martin SS, Parrino MW. The “black box” of prescription drug diversion. J Addict Dis. 2009;28(4):332–47.",
+        "journal-title": "J Addict Dis"
+      },
+      {
+        "issue": "1–3",
+        "key": "1369_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "267",
+        "DOI": "10.1016/j.drugalcdep.2007.08.008",
+        "volume": "92",
+        "author": "WR Davis",
+        "year": "2008",
+        "unstructured": "Davis WR, Johnson BD. Prescription opioid use, misuse, and diversion among street drug users in New York City. Drug Alcohol Depend. 2008;92(1–3):267–76.",
+        "journal-title": "Drug Alcohol Depend"
+      },
+      {
+        "issue": "2",
+        "key": "1369_CR45",
+        "first-page": "144",
+        "volume": "19",
+        "author": "KK Rigg",
+        "year": "2012",
+        "unstructured": "Rigg KK, Kurtz SP, Surratt HL. Patterns of prescription medication diversion among drug dealers. Drugs. 2012;19(2):144–55.",
+        "journal-title": "Drugs"
+      },
+      {
+        "issue": "7",
+        "key": "1369_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "1352",
+        "DOI": "10.1007/s10461-013-0619-5",
+        "volume": "18",
+        "author": "S Jeevanjee",
+        "year": "2014",
+        "unstructured": "Jeevanjee S, Penko J, Guzman D, Miaskowski C, Bangsberg DR, Kushel MB. Opioid analgesic misuse is associated with incomplete antiretroviral adherence in a cohort of HIV-infected indigent adults in San Francisco. AIDS Behav. 2014;18(7):1352–8.",
+        "journal-title": "AIDS Behav"
+      },
+      {
+        "issue": "Suppl. 4",
+        "key": "1369_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "S318",
+        "DOI": "10.1086/522557",
+        "volume": "45",
+        "author": "DD Celentano",
+        "year": "2007",
+        "unstructured": "Celentano DD, Lucas G. Optimizing treatment outcomes in HIV-infected patients with substance abuse issues. Clin Inf Dis. 2007;45(Suppl. 4):S318–23.",
+        "journal-title": "Clin Inf Dis."
+      },
+      {
+        "issue": "7",
+        "key": "1369_CR48",
+        "first-page": "656",
+        "volume": "169",
+        "author": "E Wood",
+        "year": "2003",
+        "unstructured": "Wood E, Montaner JSG, Yip B, et al. Adherence and plasma HIV RNA responses to highly active antiretroviral therapy among HIV-1 infected injection drug users. CMAJ. 2003;169(7):656–61.",
+        "journal-title": "CMAJ"
+      },
+      {
+        "issue": "5",
+        "key": "1369_CR49",
+        "doi-asserted-by": "publisher",
+        "first-page": "907",
+        "DOI": "10.1111/j.1360-0443.2010.02905.x",
+        "volume": "105",
+        "author": "S Uhlmann",
+        "year": "2010",
+        "unstructured": "Uhlmann S, Milloy MJ, Kerr T, et al. Methadone maintenance therapy promotes initiation of antiretroviral therapy among injection drug users. Addiction. 2010;105(5):907–13.",
+        "journal-title": "Addiction"
+      },
+      {
+        "issue": "2",
+        "key": "1369_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "188",
+        "DOI": "10.1016/j.drugalcdep.2006.02.003",
+        "volume": "84",
+        "author": "A Palepu",
+        "year": "2006",
+        "unstructured": "Palepu A, Tyndall MW, Joy R, et al. Antiretroviral adherence and HIV treatment outcomes among HIV/HCV co-infected injection drug users: the role of methadone maintenance therapy. Drug Alcohol Depend. 2006;84(2):188–94.",
+        "journal-title": "Drug Alcohol Depend"
+      },
+      {
+        "issue": "5",
+        "key": "1369_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "e38335",
+        "DOI": "10.1371/journal.pone.0038335",
+        "volume": "7",
+        "author": "SA Springer",
+        "year": "2012",
+        "unstructured": "Springer SA, Qiu J, Saber-Tehrani AS, Altice FL. Retention on buprenorphine is associated with high levels of maximal viral suppression among HIV-infected opioid dependent released prisoners. PLoS One. 2012;7(5):e38335.",
+        "journal-title": "PLoS One"
+      },
+      {
+        "issue": "9",
+        "key": "1369_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "1433",
+        "DOI": "10.1086/630209",
+        "volume": "49",
+        "author": "P Roux",
+        "year": "2009",
+        "unstructured": "Roux P, Carrieri MP, Cohen J, et al. Retention in opioid substitution treatment: a major predictor of long-term virological success for HIV-infected injection drug users receiving antiretroviral treatment. Clin Inf Dis. 2009;49(9):1433–40.",
+        "journal-title": "Clin Inf Dis"
+      },
+      {
+        "issue": "8",
+        "key": "1369_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "777",
+        "DOI": "10.1056/NEJMoa0810635",
+        "volume": "361",
+        "author": "E Oviedo-Joekes",
+        "year": "2009",
+        "unstructured": "Oviedo-Joekes E, Brissette S, Marsh DC, et al. Diacetylmorphine versus methadone for the treatment of opioid addiction. N Engl J Med. 2009;361(8):777–86.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "10",
+        "key": "1369_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "949",
+        "DOI": "10.1056/NEJMoa022164",
+        "volume": "349",
+        "author": "PJ Fudala",
+        "year": "2003",
+        "unstructured": "Fudala PJ, Bridge TP, Herbert S, et al. Office-based treatment of opiate addiction with a sublingual-tablet formulation of buprenorphine and naloxone. N Engl J Med. 2003;349(10):949–58.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "issue": "4",
+        "key": "1369_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "275",
+        "DOI": "10.1016/j.jsat.2014.05.012",
+        "volume": "47",
+        "author": "R Hammig",
+        "year": "2014",
+        "unstructured": "Hammig R, Kohler W, Bonorden-Kleij K, et al. Safety and tolerability of slow-release oral morphine versus methadone in the treatment of opioid dependence. J Subst Abuse Treat. 2014;47(4):275–81.",
+        "journal-title": "J Subst Abuse Treat"
+      },
+      {
+        "issue": "4",
+        "key": "1369_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "262",
+        "DOI": "10.1016/j.drugpo.2006.12.014",
+        "volume": "18",
+        "author": "B Spire",
+        "year": "2007",
+        "unstructured": "Spire B, Lucas GM, Carrieri MP. Adherence to HIV treatment among IDUs and the role of opioid substitution treatment (OST). Int J Drug Policy. 2007;18(4):262–70.",
+        "journal-title": "Int J Drug Policy"
+      },
+      {
+        "issue": "3",
+        "key": "1369_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "253",
+        "DOI": "10.1016/S0376-8716(98)00028-3",
+        "volume": "51",
+        "author": "S Darke",
+        "year": "1998",
+        "unstructured": "Darke S. Self-report among injecting drug users: a review. Drug Alcohol Depend. 1998;51(3):253–63.",
+        "journal-title": "Drug Alcohol Depend"
+      }
+    ],
+    "container-title": [
+      "AIDS and Behavior"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s10461-016-1369-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s10461-016-1369-y/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s10461-016-1369-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s10461-016-1369-y",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          17
+        ]
+      ],
+      "date-time": "2020-05-17T11:58:33Z",
+      "timestamp": 1589716713000
+    },
+    "score": 43.44117,
+    "resource": {
+      "primary": {
+        "URL": "http://link.springer.com/10.1007/s10461-016-1369-y"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          5
+        ]
+      ]
+    },
+    "references-count": 57,
+    "journal-issue": {
+      "issue": "12",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "1369"
+    ],
+    "URL": "https://doi.org/10.1007/s10461-016-1369-y",
+    "ISSN": [
+      "1090-7165",
+      "1573-3254"
+    ],
+    "issn-type": [
+      {
+        "value": "1090-7165",
+        "type": "print"
+      },
+      {
+        "value": "1573-3254",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "5 May 2016",
+        "order": 1,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "Dr. Montaner has received educational grants from, served an <i>ad hoc</i> advisor to, or spoken at various events sponsored by: Abbott Laboratories, Agouron Pharmaceuticals Inc., Boehringer Ingelheim Pharmaceuticals Inc., Borean Pharma AS, Bristol-Myers Squibb, DuPont Pharma, Gilead Sciences, GlaxoSmithKline, Hoffman-La Roche, Immune Response Corporation, Incyte, Janssen-Ortho Inc., Kucera Pharmaceutical Company, Merck Frosst Laboratories, Pfizer Canada Inc., Sanofi Pasteur, Shire Biochem Inc., Tibotec Pharmaceuticals Ltd., and Trimeris Inc.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Disclosures"
+        }
+      }
+    ]
+  }
+]

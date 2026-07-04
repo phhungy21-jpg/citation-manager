@@ -1,0 +1,2716 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          30
+        ]
+      ],
+      "date-time": "2025-10-30T07:02:56Z",
+      "timestamp": 1761807776078
+    },
+    "reference-count": 2,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2013-03-01T00:00:00Z",
+          "timestamp": 1362096000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2012.11.037",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          11,
+          22
+        ]
+      ],
+      "date-time": "2012-11-22T21:15:33Z",
+      "timestamp": 1353618933000
+    },
+    "page": "e38",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Re: Vincenzo Ficarra, Giacomo Novara, Raymond C. Rosen, et al. Systematic Review and Meta-analysis of Studies Reporting Urinary Continence Recovery After Robot-assisted Radical Prostatectomy. Eur Urol 2012;62:405–17"
+    ],
+    "prefix": "10.1016",
+    "volume": "63",
+    "author": [
+      {
+        "given": "Michael",
+        "family": "Froehner",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Manfred P.",
+        "family": "Wirth",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2012.11.037_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "article-title": "Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.11.037_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "953",
+        "DOI": "10.1016/j.eururo.2010.02.032",
+        "article-title": "Radical prostatectomy-only centers: the future in genitourinary surgery?",
+        "volume": "57",
+        "author": "Wirth",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283812014121?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283812014121?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2018-10-21T06:28:36Z",
+      "timestamp": 1540103316000
+    },
+    "score": 114.490776,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283812014121"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          3
+        ]
+      ]
+    },
+    "references-count": 2,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283812014121"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2012.11.037",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ],
+      "date-time": "2026-06-30T03:39:37Z",
+      "timestamp": 1782790777472,
+      "version": "3.54.5"
+    },
+    "reference-count": 65,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2012,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2012-09-01T00:00:00Z",
+          "timestamp": 1346457600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2012,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2012.05.045",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          1
+        ]
+      ],
+      "date-time": "2012-06-01T00:08:21Z",
+      "timestamp": 1338509301000
+    },
+    "page": "405-417",
+    "source": "Crossref",
+    "is-referenced-by-count": 1083,
+    "title": [
+      "Systematic Review and Meta-analysis of Studies Reporting Urinary Continence Recovery After Robot-assisted Radical Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "62",
+    "author": [
+      {
+        "given": "Vincenzo",
+        "family": "Ficarra",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giacomo",
+        "family": "Novara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Raymond C.",
+        "family": "Rosen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Walter",
+        "family": "Artibani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter R.",
+        "family": "Carroll",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anthony",
+        "family": "Costello",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mani",
+        "family": "Menon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francesco",
+        "family": "Montorsi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vipul R.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jens-Uwe",
+        "family": "Stolzenburg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Henk",
+        "family": "Van der Poel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Timothy G.",
+        "family": "Wilson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Filiberto",
+        "family": "Zattoni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexandre",
+        "family": "Mottrie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "198",
+        "DOI": "10.1016/S0022-5347(17)56718-X",
+        "article-title": "An anatomical approach to the surgical management of the dorsal vein and Santorini's plexus during radical retropubic surgery",
+        "volume": "121",
+        "author": "Reiner",
+        "year": "1979",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "543",
+        "DOI": "10.1016/S0022-5347(17)43253-8",
+        "article-title": "Prostate shape, external striated urethral sphincter and radical prostatectomy: the apical dissection",
+        "volume": "138",
+        "author": "Myers",
+        "year": "1987",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "530",
+        "DOI": "10.1016/S0090-4295(94)80052-9",
+        "article-title": "The puboprostatic ligament and the male urethral suspensory mechanism: an anatomic study",
+        "volume": "44",
+        "author": "Steiner",
+        "year": "1994",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "2201",
+        "DOI": "10.1016/S0022-5347(06)00262-X",
+        "article-title": "Restoration of posterior aspect of rhabdosphincter shortens continence time after radical retropubic prostatectomy",
+        "volume": "175",
+        "author": "Rocco",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "960",
+        "DOI": "10.1016/S0090-4295(98)00128-9",
+        "article-title": "Preservation of putative continence nerves during radical retropubic prostatectomy leads to more rapid return of urinary continence",
+        "volume": "51",
+        "author": "Hollabaugh",
+        "year": "1998",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "1037",
+        "DOI": "10.1016/j.eururo.2009.01.036",
+        "article-title": "Retropubic, laparoscopic, and robot-assisted radical prostatectomy: a systematic review and cumulative analysis of comparative studies",
+        "volume": "55",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "14",
+        "DOI": "10.1159/000019921",
+        "article-title": "Laparoscopic radical prostatectomy: technical and early oncological assessment of 40 operations",
+        "volume": "36",
+        "author": "Guillonneau",
+        "year": "1999",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1016/j.eururo.2006.06.017",
+        "article-title": "Evidence from robot-assisted laparoscopic radical prostatectomy: a systematic review",
+        "volume": "51",
+        "author": "Ficarra",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0045",
+        "unstructured": "Howick J, Chalmers I, Glasziou P, et al. Explanation of the 2011 Oxford Centre for Evidence-Based Medicine (OCEBM) levels of evidence (background document). OCEBM Web site. http://www.cebm.net/index.aspx?o=5653."
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0050",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hurtes X, Rouprêt M, Vaessen C, et al. Anterior suspension combined with posterior reconstruction during robot-assisted laparoscopic prostatectomy improves early return of urinary continence: a prospective randomized multicentre trial. BJU Int. In press. http://dx.doi.org/10.1111/j.1464-410X.2011.10849.x.",
+        "DOI": "10.1111/j.1464-410X.2011.10849.x"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1046/j.1464-410X.2003.04311.x",
+        "article-title": "A prospective comparison of radical retropubic and robot-assisted prostatectomy: experience in one institution",
+        "volume": "92",
+        "author": "Tewari",
+        "year": "2003",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1111/j.1464-410X.2005.05563.x",
+        "article-title": "Robot-assisted vs pure laparoscopic radical prostatectomy: are there any differences?",
+        "volume": "96",
+        "author": "Joseph",
+        "year": "2005",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "1443",
+        "DOI": "10.1089/end.2009.0411",
+        "article-title": "Hypothermic robotic radical prostatectomy: impact on continence",
+        "volume": "23",
+        "author": "Finley",
+        "year": "2009",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0070",
+        "first-page": "5200",
+        "article-title": "Predictors of early urinary continence after robotic prostatectomy",
+        "volume": "17",
+        "author": "Lee",
+        "year": "2010",
+        "journal-title": "Can J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "1028",
+        "DOI": "10.1016/j.juro.2010.04.069",
+        "article-title": "Evaluating urinary continence and preoperative predictors of urinary continence after robot assisted laparoscopic radical prostatectomy",
+        "volume": "184",
+        "author": "Novara",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "1803",
+        "DOI": "10.1016/j.juro.2010.01.016",
+        "article-title": "Robotic radical prostatectomy for elderly patients: probability of achieving continence and potency 1 year after surgery",
+        "volume": "183",
+        "author": "Shikanov",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "204",
+        "DOI": "10.1016/j.juro.2011.02.2698",
+        "article-title": "Incontinence after radical prostatectomy: a patient centered analysis and implications for preoperative counseling",
+        "volume": "186",
+        "author": "Martin",
+        "year": "2011",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "702",
+        "DOI": "10.1016/j.eururo.2011.01.032",
+        "article-title": "Pentafecta: a new concept for reporting outcomes of robot-assisted laparoscopic radical prostatectomy",
+        "volume": "59",
+        "author": "Patel",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0095",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xylinas E, Durand X, Ploussard G, et al. Evaluation of combined oncologic and functional outcomes after robotic-assisted laparoscopic extraperitoneal radical prostatectomy: trifecta rate of achieving continence, potency and cancer control. Urol Oncol. In press. http://dx.doi.org/10.1016/j.urolonc.2010.10.012.",
+        "DOI": "10.1016/j.urolonc.2010.10.012"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.4111/kju.2008.49.3.215",
+        "article-title": "Robot-assisted laparoscopic radical prostatectomy: clinical experience of 200 cases",
+        "volume": "49",
+        "author": "Park",
+        "year": "2008",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "928",
+        "DOI": "10.1016/j.juro.2008.05.029",
+        "article-title": "The impact of prostate gland weight in robot assisted laparoscopic radical prostatectomy",
+        "volume": "180",
+        "author": "Link",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "1492",
+        "DOI": "10.1111/j.1464-410X.2009.08718.x",
+        "article-title": "Robot-assisted radical prostatectomy in men aged > or =70 years",
+        "volume": "104",
+        "author": "Greco",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "1358",
+        "DOI": "10.1016/j.eururo.2008.12.035",
+        "article-title": "Operative details and oncological and functional outcome of robotic-assisted laparoscopic radical prostatectomy: 400 cases with a minimum of 12 months follow-up",
+        "volume": "55",
+        "author": "Murphy",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "1105",
+        "DOI": "10.1089/end.2010.0136",
+        "article-title": "Improvements in robot-assisted prostatectomy: the effect of surgeon experience and technical changes on oncologic and functional outcomes",
+        "volume": "24",
+        "author": "Samadi",
+        "year": "2010",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "1117",
+        "DOI": "10.1016/j.urology.2010.03.060",
+        "article-title": "Does robotic technology mitigate the challenges of large prostate size?",
+        "volume": "76",
+        "author": "Skolarus",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "316",
+        "DOI": "10.1016/j.urology.2008.08.493",
+        "article-title": "Robotic radical prostatectomy in overweight and obese patients: oncological and validated-functional outcomes",
+        "volume": "73",
+        "author": "Wiltz",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0135",
+        "first-page": "4742",
+        "article-title": "Continued improvement of perioperative, pathological and continence outcomes during 700 robot-assisted radical prostatectomies",
+        "volume": "16",
+        "author": "Zorn",
+        "year": "2009",
+        "journal-title": "Can J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "1975",
+        "DOI": "10.1089/end.2009.0630",
+        "article-title": "Optimizing vesicourethral anastomosis healing after robot-assisted laparoscopic radical prostatectomy: lessons learned from three techniques in 1900 patients",
+        "volume": "24",
+        "author": "Tan",
+        "year": "2010",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "444",
+        "DOI": "10.1111/j.1442-2042.2011.02760.x",
+        "article-title": "Early recovery of urinary continence after radical prostatectomy: correlation with vesico-urethral anastomosis location in the pelvic cavity measured by postoperative cystography",
+        "volume": "18",
+        "author": "Jeong",
+        "year": "2011",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "787",
+        "DOI": "10.1089/end.2010.0222",
+        "article-title": "Comparison of oncological results, functional outcomes, and complications for transperitoneal versus extraperitoneal robot-assisted radical prostatectomy: a single surgeon's experience",
+        "volume": "25",
+        "author": "Chung",
+        "year": "2011",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1016/j.eururo.2010.08.043",
+        "article-title": "Athermal division and selective suture ligation of the dorsal vein complex during robot-assisted laparoscopic radical prostatectomy: description of technique and outcomes",
+        "volume": "59",
+        "author": "Lei",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "972",
+        "DOI": "10.1016/j.eururo.2009.09.017",
+        "article-title": "Anatomic bladder neck preservation during robotic-assisted laparoscopic radical prostatectomy: description of technique and outcomes",
+        "volume": "56",
+        "author": "Freire",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "572",
+        "DOI": "10.1016/j.urology.2011.03.069",
+        "article-title": "Anastomosis during robot-assisted radical prostatectomy: randomized controlled trial comparing barbed and standard monofilament suture",
+        "volume": "78",
+        "author": "Sammon",
+        "year": "2011",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0170",
+        "first-page": "4836",
+        "article-title": "Posterior support for urethrovesical anastomosis in robotic radical prostatectomy: single surgeon analysis",
+        "volume": "16",
+        "author": "Krane",
+        "year": "2009",
+        "journal-title": "Can J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "1203",
+        "DOI": "10.4111/kju.2009.50.12.1203",
+        "article-title": "Effect of posterior urethral reconstruction (pur) in early recovery of urinary continence after robotic-assisted radical prostatectomy",
+        "volume": "50",
+        "author": "Kim",
+        "year": "2009",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "1995",
+        "DOI": "10.1089/end.2009.0117",
+        "article-title": "Impact of posterior rhabdosphincter reconstruction during robot-assisted radical prostatectomy: retrospective analysis of time to continence",
+        "volume": "23",
+        "author": "Woo",
+        "year": "2009",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1016/j.eururo.2010.03.028",
+        "article-title": "Impact of posterior musculofascial reconstruction on early continence after robot-assisted laparoscopic radical prostatectomy: results of a prospective parallel group trial",
+        "volume": "58",
+        "author": "Joshi",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "427",
+        "DOI": "10.3349/ymj.2010.51.3.427",
+        "article-title": "Impact of posterior urethral plate repair on continence following robot-assisted laparoscopic radical prostatectomy",
+        "volume": "51",
+        "author": "Kim",
+        "year": "2010",
+        "journal-title": "Yonsei Med J"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.eururo.2010.08.025",
+        "article-title": "Influence of modified posterior reconstruction of the rhabdosphincter on early recovery of continence and anastomotic leakage rates after robot-assisted radical prostatectomy",
+        "volume": "59",
+        "author": "Coelho",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "1262",
+        "DOI": "10.1016/j.juro.2010.11.085",
+        "article-title": "Posterior rhabdosphincter reconstruction during robotic assisted radical prostatectomy: results from a phase II randomized clinical trial",
+        "volume": "185",
+        "author": "Sutherland",
+        "year": "2011",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "1018",
+        "DOI": "10.1016/j.juro.2008.05.046",
+        "article-title": "Assessment of early continence after reconstruction of the periprostatic tissues in patients undergoing computer assisted (robotic) prostatectomy: results of a 2 group parallel randomized controlled trial",
+        "volume": "180",
+        "author": "Menon",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "1102",
+        "DOI": "10.1016/j.urology.2010.05.052",
+        "article-title": "Long-term functional urinary outcomes comparing single- vs double-layer urethrovesical anastomosis: two-year follow-up of a two-group parallel randomized controlled trial",
+        "volume": "76",
+        "author": "Sammon",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.3109/00365590903413627",
+        "article-title": "Posterior and anterior fixation of the urethra during robotic prostatectomy improves early continence rates",
+        "volume": "44",
+        "author": "Koliakos",
+        "year": "2010",
+        "journal-title": "Scand J Urol Nephrol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "534",
+        "DOI": "10.1111/j.1464-410X.2009.08419.x",
+        "article-title": "A prospective, non-randomized trial comparing robot-assisted laparoscopic and retropubic radical prostatectomy in one European institution",
+        "volume": "104",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.eururo.2010.10.026",
+        "article-title": "A prospective trial comparing consecutive series of open retropubic and robot-assisted laparoscopic radical prostatectomy in a centre with a limited caseload",
+        "volume": "59",
+        "author": "Di Pierro",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "413",
+        "DOI": "10.1016/j.eururo.2011.05.011",
+        "article-title": "Factors determining functional outcomes after radical prostatectomy: robot-assisted versus retropubic",
+        "volume": "60",
+        "author": "Kim",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "448",
+        "DOI": "10.1111/j.1464-410X.2008.08012.x",
+        "article-title": "Radical prostatectomy for prostatic adenocarcinoma: a matched comparison of open retropubic and robot-assisted techniques",
+        "volume": "103",
+        "author": "Krambeck",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0240",
+        "first-page": "1637",
+        "article-title": "Comparison of robotic-assisted versus retropubic radical prostatectomy performed by a single surgeon",
+        "volume": "29",
+        "author": "Ou",
+        "year": "2009",
+        "journal-title": "Anticancer Res"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "968",
+        "DOI": "10.1016/S0210-4806(08)73974-3",
+        "article-title": "Radical prostatectomy: evaluation of learning curve outcomes laparoscopic and robotic-assisted laparoscopic techniques with radical retropubic prostatectomy [in Spanish]",
+        "volume": "32",
+        "author": "Caballero Romeu",
+        "year": "2008",
+        "journal-title": "Actas Urol Esp"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "991",
+        "DOI": "10.1111/j.1464-410X.2009.08532.x",
+        "article-title": "Robotic vs open prostatectomy in a laparoscopically naive centre: a matched-pair analysis",
+        "volume": "104",
+        "author": "Rocco",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "1503",
+        "DOI": "10.1111/j.1743-6109.2011.02215.x",
+        "article-title": "Randomized comparison between laparoscopic and robot-assisted nerve-sparing radical prostatectomy",
+        "volume": "8",
+        "author": "Asimakopoulos",
+        "year": "2011",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "468",
+        "DOI": "10.4111/kju.2009.50.5.468",
+        "article-title": "Comparison of initial surgical outcomes between laparoscopic radical prostatectomy and robot-assisted laparoscopic radical prostatectomy performed by a single surgeon",
+        "volume": "50",
+        "author": "Lee",
+        "year": "2009",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "597",
+        "DOI": "10.1089/end.2010.0229",
+        "article-title": "Comparative assessment of a single surgeon's series of laparoscopic radical prostatectomy: conventional versus robot-assisted",
+        "volume": "25",
+        "author": "Park",
+        "year": "2011",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "1198",
+        "DOI": "10.4111/kju.2009.50.12.1198",
+        "article-title": "Laparoscopic radical prostatectomy versus robot-assisted laparoscopic radical prostatectomy: a single surgeon's experience",
+        "volume": "50",
+        "author": "Cho",
+        "year": "2009",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1016/j.urology.2008.08.491",
+        "article-title": "Direct comparison of surgical and functional outcomes of robotic-assisted versus pure laparoscopic radical prostatectomy: single-surgeon experience",
+        "volume": "73",
+        "author": "Hakimi",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1016/j.urolonc.2009.07.002",
+        "article-title": "Transition from pure laparoscopic to robotic-assisted radical prostatectomy: a single surgeon institutional evolution",
+        "volume": "28",
+        "author": "Trabulsi",
+        "year": "2010",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "184",
+        "DOI": "10.1089/end.2006.0163",
+        "article-title": "Impact of prostate size in robot-assisted radical prostatectomy",
+        "volume": "21",
+        "author": "Boczko",
+        "year": "2007",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "735",
+        "DOI": "10.1016/j.eururo.2009.12.021",
+        "article-title": "Downsides of robot-assisted laparoscopic radical prostatectomy: limitations and complications",
+        "volume": "57",
+        "author": "Murphy",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "734",
+        "DOI": "10.1016/j.urology.2010.01.073",
+        "article-title": "Posterior rhabdosphincter reconstruction during robot-assisted radical prostatectomy: critical analysis of techniques and outcomes",
+        "volume": "76",
+        "author": "Gautam",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "871",
+        "DOI": "10.1111/j.1464-410X.2008.07424.x",
+        "article-title": "Total reconstruction of the vesicourethral junction",
+        "volume": "101",
+        "author": "Tewari",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1016/j.eururo.2009.06.007",
+        "article-title": "Periurethral suspension stitch during robot-assisted laparoscopic radical prostatectomy: description of the technique and continence outcomes",
+        "volume": "56",
+        "author": "Patel",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "541",
+        "DOI": "10.1016/j.eururo.2011.11.042",
+        "article-title": "Systematic review of methods for reporting combined outcomes after radical prostatectomy and proposal of a novel system: the survival, continence, and potency (SCP) classification",
+        "volume": "61",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "1557",
+        "DOI": "10.1001/jama.2009.1451",
+        "article-title": "Comparative effectiveness of minimally invasive vs open radical prostatectomy",
+        "volume": "302",
+        "author": "Hu",
+        "year": "2009",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "513",
+        "DOI": "10.1200/JCO.2011.36.8621",
+        "article-title": "Adverse effects of robotic-assisted laparoscopic versus open retropubic radical prostatectomy among a nationwide random sample of Medicare-age men",
+        "volume": "30",
+        "author": "Barry",
+        "year": "2012",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.045_bib0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "476",
+        "DOI": "10.1200/JCO.2011.38.9593",
+        "article-title": "Outcomes for radical prostatectomy: is it the singer, the song, or both?",
+        "volume": "30",
+        "author": "Cooperberg",
+        "year": "2012",
+        "journal-title": "J Clin Oncol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S030228381200629X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S030228381200629X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2019-06-29T04:57:50Z",
+      "timestamp": 1561784270000
+    },
+    "score": 101.649956,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S030228381200629X"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9
+        ]
+      ]
+    },
+    "references-count": 65,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2012,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S030228381200629X"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2012.05.045",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2012,
+          9
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          3
+        ]
+      ],
+      "date-time": "2022-04-03T20:19:40Z",
+      "timestamp": 1649017180647
+    },
+    "reference-count": 4,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2013-03-01T00:00:00Z",
+          "timestamp": 1362096000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2012.11.038",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          11,
+          22
+        ]
+      ],
+      "date-time": "2012-11-22T21:15:36Z",
+      "timestamp": 1353618936000
+    },
+    "page": "e39-e40",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Reply to Michael Froehner and Manfred P. Wirth's Letter to the Editor re: Vincenzo Ficarra, Giacomo Novara, Raymond C. Rosen, et al. Systematic Review and Meta-analysis of Studies Reporting Urinary Continence Recovery After Robot-assisted Radical Prostatectomy. Eur Urol 2012;62:405–17"
+    ],
+    "prefix": "10.1016",
+    "volume": "63",
+    "author": [
+      {
+        "given": "Vincenzo",
+        "family": "Ficarra",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Giacomo",
+        "family": "Novara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alexandre",
+        "family": "Mottrie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Timothy G.",
+        "family": "Wilson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Filiberto",
+        "family": "Zattoni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Francesco",
+        "family": "Montorsi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2012.11.038_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "article-title": "Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.11.038_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.eururo.2012.05.047",
+        "article-title": "Systematic review and meta-analysis of studies reporting oncologic outcome after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Novara",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.11.038_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/j.eururo.2012.05.046",
+        "article-title": "Systematic review and meta-analysis of studies reporting potency rates after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.11.038_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "431",
+        "DOI": "10.1016/j.eururo.2012.05.044",
+        "article-title": "Systematic review and meta-analysis of perioperative outcomes and complications after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Novara",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283812014133?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283812014133?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          21
+        ]
+      ],
+      "date-time": "2018-10-21T06:28:36Z",
+      "timestamp": 1540103316000
+    },
+    "score": 97.430756,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283812014133"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          3
+        ]
+      ]
+    },
+    "references-count": 4,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283812014133"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2012.11.038",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:40:08Z",
+      "timestamp": 1759585208069,
+      "version": "build-2065373602"
+    },
+    "reference-count": 2,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2013-02-01T00:00:00Z",
+          "timestamp": 1359676800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2013-02-01T00:00:00Z",
+          "timestamp": 1359676800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2012.11.028",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          11,
+          16
+        ]
+      ],
+      "date-time": "2012-11-16T16:45:40Z",
+      "timestamp": 1353084340000
+    },
+    "page": "e27-e28",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Re: Giacomo Novara, Vincenzo Ficarra, Simone Mocellin, et al. Systematic Review and Meta-analysis of Studies Reporting Oncologic Outcome After Robot-assisted Radical Prostatectomy. Eur Urol 2012;62:382–404"
+    ],
+    "prefix": "10.1016",
+    "volume": "63",
+    "author": [
+      {
+        "given": "Stefano C.M.",
+        "family": "Picozzi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Cristian",
+        "family": "Ricci",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Luca",
+        "family": "Carmignani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2012.11.028_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.eururo.2012.05.047",
+        "article-title": "Systematic review and meta-analysis of studies reporting oncologic outcome after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Novara",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.11.028_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "635",
+        "DOI": "10.1136/bmj.315.7109.635",
+        "article-title": "Impact of covert duplicate publication on meta-analysis: a case study",
+        "volume": "315",
+        "author": "Tramèr",
+        "year": "1997",
+        "journal-title": "BMJ"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283812013590?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283812013590?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:05:10Z",
+      "timestamp": 1759583110000
+    },
+    "score": 77.43292,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283812013590"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    },
+    "references-count": 2,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283812013590"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2012.11.028",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-2838"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          2
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Giacomo Novara, Vincenzo Ficarra, Simone Mocellin, et al. Systematic Review and Meta-analysis of Studies Reporting Oncologic Outcome After Robot-assisted Radical Prostatectomy. Eur Urol 2012;62:382–404",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2012.11.028",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2012.05.047",
+        "name": "associatedlink",
+        "label": "CrossRef DOI link to the associated document"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2012 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ],
+      "date-time": "2026-06-30T03:39:38Z",
+      "timestamp": 1782790778748,
+      "version": "3.54.5"
+    },
+    "reference-count": 59,
+    "publisher": "Elsevier BV",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2012,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2012-09-01T00:00:00Z",
+          "timestamp": 1346457600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2012,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2012.05.046",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          6,
+          1
+        ]
+      ],
+      "date-time": "2012-06-01T04:07:51Z",
+      "timestamp": 1338523671000
+    },
+    "page": "418-430",
+    "source": "Crossref",
+    "is-referenced-by-count": 641,
+    "title": [
+      "Systematic Review and Meta-analysis of Studies Reporting Potency Rates After Robot-assisted Radical Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "62",
+    "author": [
+      {
+        "given": "Vincenzo",
+        "family": "Ficarra",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giacomo",
+        "family": "Novara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas E.",
+        "family": "Ahlering",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anthony",
+        "family": "Costello",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James A.",
+        "family": "Eastham",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Markus",
+        "family": "Graefen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giorgio",
+        "family": "Guazzoni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mani",
+        "family": "Menon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexandre",
+        "family": "Mottrie",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vipul R.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Henk",
+        "family": "Van der Poel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Raymond C.",
+        "family": "Rosen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ashutosh K.",
+        "family": "Tewari",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Timothy G.",
+        "family": "Wilson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Filiberto",
+        "family": "Zattoni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francesco",
+        "family": "Montorsi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "2232",
+        "DOI": "10.1016/j.juro.2009.07.093",
+        "article-title": "Prostate specific antigen best practice statement: 2009 update",
+        "volume": "182",
+        "author": "Greene",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1016/j.eururo.2010.10.039",
+        "article-title": "EAU guidelines on prostate cancer. Part 1: screening, diagnosis, and treatment of clinically localised disease",
+        "volume": "59",
+        "author": "Heidenreich",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0015",
+        "unstructured": "NCCN Guidelines. Prostate cancer early detection. Vers2.2012. National Comprehensive Cancer Network Web site. http://www.nccn.org/professionals/physician_gls/pdf/prostate_detection.pdf. Accessed May 2012."
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "1949",
+        "DOI": "10.1056/NEJMp1112191",
+        "article-title": "Prostate-cancer screening—what the U.S. Preventive Services Task Force left out",
+        "volume": "365",
+        "author": "Brett",
+        "year": "2011",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "1953",
+        "DOI": "10.1056/NEJMp1112140",
+        "article-title": "Stratifying risk—the U.S. Preventive Services Task Force and prostate-cancer screening",
+        "volume": "365",
+        "author": "Schröder",
+        "year": "2011",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "492",
+        "DOI": "10.1016/S0022-5347(17)53012-8",
+        "article-title": "Impotence following radical prostatectomy: insight into etiology and prevention",
+        "volume": "128",
+        "author": "Walsh",
+        "year": "1982",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "711",
+        "DOI": "10.1016/j.eururo.2006.06.009",
+        "article-title": "Sexual function before and after radical retropubic prostatectomy: a systematic review of prognostic indicators for a successful outcome",
+        "volume": "50",
+        "author": "Dubbelman",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "1037",
+        "DOI": "10.1016/j.eururo.2009.01.036",
+        "article-title": "Retropubic, laparoscopic, and robot-assisted radical prostatectomy: a systematic review and cumulative analysis of comparative studies",
+        "volume": "55",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "2289",
+        "DOI": "10.1097/01.ju.0000067464.53313.dd",
+        "article-title": "Vattikuti Institute prostatectomy: technique",
+        "volume": "169",
+        "author": "Menon",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "463",
+        "DOI": "10.1093/jjco/hyh078",
+        "article-title": "Anatomical features of periprostatic tissue and its surroundings: a histological analysis of 79 radical retropubic prostatectomy specimens",
+        "volume": "34",
+        "author": "Kiyoshima",
+        "year": "2004",
+        "journal-title": "Jpn J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "1065",
+        "DOI": "10.1016/j.eururo.2006.02.050",
+        "article-title": "Robotic radical prostatectomy with the “veil of Aphrodite” technique: histologic evidence of enhanced nerve sparing",
+        "volume": "49",
+        "author": "Savera",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "1013",
+        "DOI": "10.1111/j.1464-410X.2008.07456.x",
+        "article-title": "Cancer control and the preservation of neurovascular tissue: how to meet competing goals during robotic radical prostatectomy",
+        "volume": "101",
+        "author": "Tewari",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1016/j.eururo.2005.10.008",
+        "article-title": "Open retropubic nerve-sparing radical prostatectomy",
+        "volume": "49",
+        "author": "Graefen",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "938",
+        "DOI": "10.1016/j.eururo.2005.09.004",
+        "article-title": "Improving the preservation of the urethral sphincter and neurovascular bundles during open radical retropubic prostatectomy",
+        "volume": "48",
+        "author": "Montorsi",
+        "year": "2005",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "2291",
+        "DOI": "10.1097/01.ju.0000181825.54480.eb",
+        "article-title": "Potency following robotic radical prostatectomy: a questionnaire based analysis of outcomes after conventional nerve sparing and prostatic fascia sparing techniques",
+        "volume": "174",
+        "author": "Menon",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "45",
+        "DOI": "10.1016/j.eururo.2006.06.017",
+        "article-title": "Evidence from robot-assisted laparoscopic radical prostatectomy: a systematic review",
+        "volume": "51",
+        "author": "Ficarra",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1046/j.1464-410X.2003.04311.x",
+        "article-title": "A prospective comparison of radical retropubic and robot-assisted prostatectomy: experience in one institution",
+        "volume": "92",
+        "author": "Tewari",
+        "year": "2003",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0090",
+        "unstructured": "Howick J, Chalmers I, Glasziou P, et al. Explanation of the 2011 Oxford Centre for Evidence-Based Medicine (OCEBM) levels of evidence (background document). OCEBM Web site. http://www.cebm.net/index.aspx?o=5653."
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "462",
+        "DOI": "10.1016/j.juro.2008.10.047",
+        "article-title": "Defining and reporting erectile function outcomes after radical prostatectomy: challenges and misconceptions",
+        "volume": "181",
+        "author": "Mulhall",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "39",
+        "DOI": "10.1111/j.1464-410X.2005.05563.x",
+        "article-title": "Robot-assisted vs pure laparoscopic radical prostatectomy: are there any differences?",
+        "volume": "96",
+        "author": "Joseph",
+        "year": "2005",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.4111/kju.2008.49.3.215",
+        "article-title": "Robot-assisted laparoscopic radical prostatectomy: clinical experience of 200 cases",
+        "volume": "49",
+        "author": "Park",
+        "year": "2008",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.59566/IJBS.2009.5201",
+        "article-title": "Robot-assisted laparoscopic radical prostatectomy: technique and outcomes of 700 cases",
+        "volume": "5",
+        "author": "Carlucci",
+        "year": "2009",
+        "journal-title": "Int J Biomed Sci"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "1358",
+        "DOI": "10.1016/j.eururo.2008.12.035",
+        "article-title": "Operative details and oncological and functional outcome of robotic-assisted laparoscopic radical prostatectomy: 400 cases with a minimum of 12 months follow-up",
+        "volume": "55",
+        "author": "Murphy",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1016/j.juro.2008.09.015",
+        "article-title": "Single institution 2-year patient reported validated sexual function outcomes after nerve sparing robot assisted radical prostatectomy",
+        "volume": "181",
+        "author": "Rodriguez",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "619",
+        "DOI": "10.1016/j.urology.2009.02.082",
+        "article-title": "Trifecta outcomes after robotic-assisted laparoscopic prostatectomy",
+        "volume": "74",
+        "author": "Shikanov",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "89",
+        "DOI": "10.1016/j.eururo.2009.04.032",
+        "article-title": "Vattikuti Institute prostatectomy: technical modifications in 2009",
+        "volume": "56",
+        "author": "Menon",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "1155",
+        "DOI": "10.1111/j.1464-410X.2009.09013.x",
+        "article-title": "Robot-assisted extraperitoneal laparoscopic radical prostatectomy: experience in a high-volume laparoscopy reference centre",
+        "volume": "105",
+        "author": "Ploussard",
+        "year": "2010",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "839",
+        "DOI": "10.1111/j.1743-6109.2009.01589.x",
+        "article-title": "Preoperative criteria to select patients for bilateral nerve-sparing robotic-assisted radical prostatectomy",
+        "volume": "7",
+        "author": "Novara",
+        "year": "2010",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "1803",
+        "DOI": "10.1016/j.juro.2010.01.016",
+        "article-title": "Robotic radical prostatectomy for elderly patients: probability of achieving continence and potency 1 year after surgery",
+        "volume": "183",
+        "author": "Shikanov",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "702",
+        "DOI": "10.1016/j.eururo.2011.01.032",
+        "article-title": "Pentafecta: a new concept for reporting outcomes of robot-assisted laparoscopic radical prostatectomy",
+        "volume": "59",
+        "author": "Patel",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0155",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Xylinas E, Durand X, Ploussard G, et al. Evaluation of combined oncologic and functional outcomes after robotic-assisted laparoscopic extraperitoneal radical prostatectomy: trifecta rate of achieving continence, potency and cancer control. Urol Oncol. In press. http://dx.doi.org/10.1016/j.urolonc.2010.10.012.",
+        "DOI": "10.1016/j.urolonc.2010.10.012"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "536",
+        "DOI": "10.1016/j.eururo.2011.05.001",
+        "article-title": "Stepwise approach for nerve sparing without countertraction during robot-assisted radical prostatectomy: technique and outcomes",
+        "volume": "60",
+        "author": "Kowalczyk",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "316",
+        "DOI": "10.1016/j.urology.2008.08.493",
+        "article-title": "Robotic radical prostatectomy in overweight and obese patients: oncological and validated-functional outcomes",
+        "volume": "73",
+        "author": "Wiltz",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0170",
+        "first-page": "5291",
+        "article-title": "High body mass index does not affect outcomes following robotic assisted laparoscopic prostatectomy",
+        "volume": "17",
+        "author": "Moskovic",
+        "year": "2010",
+        "journal-title": "Can J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "32",
+        "DOI": "10.4293/108680810X12924466009203",
+        "article-title": "Impact of obesity on early erectile function recovery after robotic radical prostatectomy",
+        "volume": "15",
+        "author": "Uffort",
+        "year": "2011",
+        "journal-title": "JSLS"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0180",
+        "first-page": "4742",
+        "article-title": "Continued improvement of perioperative, pathological and continence outcomes during 700 robot-assisted radical prostatectomies",
+        "volume": "16",
+        "author": "Zorn",
+        "year": "2009",
+        "journal-title": "Can J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "787",
+        "DOI": "10.1089/end.2010.0222",
+        "article-title": "Comparison of oncological results, functional outcomes, and complications for transperitoneal versus extraperitoneal robot-assisted radical prostatectomy: a single surgeon's experience",
+        "volume": "25",
+        "author": "Chung",
+        "year": "2011",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "745",
+        "DOI": "10.1089/end.2007.9834",
+        "article-title": "Overcoming obstacles: nerve-sparing issues in radical prostatectomy",
+        "volume": "22",
+        "author": "Ahlering",
+        "year": "2008",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "611",
+        "DOI": "10.1016/j.urology.2009.01.092",
+        "article-title": "Extrafascial versus interfascial nerve-sparing technique for robotic-assisted laparoscopic prostatectomy: comparison of functional outcomes and positive surgical margins characteristics",
+        "volume": "74",
+        "author": "Shikanov",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "1443",
+        "DOI": "10.1089/end.2009.0411",
+        "article-title": "Hypothermic robotic radical prostatectomy: impact on continence",
+        "volume": "23",
+        "author": "Finley",
+        "year": "2009",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "1105",
+        "DOI": "10.1089/end.2010.0136",
+        "article-title": "Improvements in robot-assisted prostatectomy: the effect of surgeon experience and technical changes on oncologic and functional outcomes",
+        "volume": "24",
+        "author": "Samadi",
+        "year": "2010",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "534",
+        "DOI": "10.1111/j.1464-410X.2009.08419.x",
+        "article-title": "A prospective, non-randomized trial comparing robot-assisted laparoscopic and retropubic radical prostatectomy in one European institution",
+        "volume": "104",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.eururo.2010.10.026",
+        "article-title": "A prospective trial comparing consecutive series of open retropubic and robot-assisted laparoscopic radical prostatectomy in a centre with a limited caseload",
+        "volume": "59",
+        "author": "Di Pierro",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "413",
+        "DOI": "10.1016/j.eururo.2011.05.011",
+        "article-title": "Factors determining functional outcomes after radical prostatectomy: robot-assisted versus retropubic",
+        "volume": "60",
+        "author": "Kim",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "448",
+        "DOI": "10.1111/j.1464-410X.2008.08012.x",
+        "article-title": "Radical prostatectomy for prostatic adenocarcinoma: a matched comparison of open retropubic and robot-assisted techniques",
+        "volume": "103",
+        "author": "Krambeck",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "991",
+        "DOI": "10.1111/j.1464-410X.2009.08532.x",
+        "article-title": "Robotic vs open prostatectomy in a laparoscopically naive centre: a matched-pair analysis",
+        "volume": "104",
+        "author": "Rocco",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0235",
+        "first-page": "1637",
+        "article-title": "Comparison of robotic-assisted versus retropubic radical prostatectomy performed by a single surgeon",
+        "volume": "29",
+        "author": "Ou",
+        "year": "2009",
+        "journal-title": "Anticancer Res"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "1503",
+        "DOI": "10.1111/j.1743-6109.2011.02215.x",
+        "article-title": "Randomized comparison between laparoscopic and robot-assisted nerve-sparing radical prostatectomy",
+        "volume": "8",
+        "author": "Asimakopoulos",
+        "year": "2011",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "597",
+        "DOI": "10.1089/end.2010.0229",
+        "article-title": "Comparative assessment of a single surgeon's series of laparoscopic radical prostatectomy: conventional versus robot-assisted",
+        "volume": "25",
+        "author": "Park",
+        "year": "2011",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "1198",
+        "DOI": "10.4111/kju.2009.50.12.1198",
+        "article-title": "Laparoscopic radical prostatectomy versus robot-assisted laparoscopic radical prostatectomy: a single surgeon's experience",
+        "volume": "50",
+        "author": "Cho",
+        "year": "2009",
+        "journal-title": "Korean J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "119",
+        "DOI": "10.1016/j.urology.2008.08.491",
+        "article-title": "Direct comparison of surgical and functional outcomes of robotic-assisted versus pure laparoscopic radical prostatectomy: single-surgeon experience",
+        "volume": "73",
+        "author": "Hakimi",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "2521",
+        "DOI": "10.1111/j.1743-6109.2010.01845.x",
+        "article-title": "Predicting erectile function recovery after bilateral nerve sparing radical prostatectomy: a proposal of a novel preoperative risk stratification",
+        "volume": "7",
+        "author": "Briganti",
+        "year": "2010",
+        "journal-title": "J Sex Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "629",
+        "DOI": "10.1016/j.eururo.2006.11.012",
+        "article-title": "Anatomical landmarks of radical prostatectomy",
+        "volume": "51",
+        "author": "Stolzenburg",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "2418",
+        "DOI": "10.1016/S0022-5347(01)62202-X",
+        "article-title": "Anatomic radical prostatectomy: evolution of the surgical technique",
+        "volume": "160",
+        "author": "Walsh",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "1318",
+        "DOI": "10.1097/01.ju.0000139883.08934.86",
+        "article-title": "Nerve sparing radical prostatectomy: effects of hemostatic energy sources on the recovery of cavernous nerve function in a canine model",
+        "volume": "172",
+        "author": "Ong",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "541",
+        "DOI": "10.1016/j.eururo.2011.11.042",
+        "article-title": "Systematic review of methods for reporting combined outcomes after radical prostatectomy and proposal of a novel system: the survival, continence, and potency (SCP) classification",
+        "volume": "61",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "1557",
+        "DOI": "10.1001/jama.2009.1451",
+        "article-title": "Comparative effectiveness of minimally invasive vs open radical prostatectomy",
+        "volume": "302",
+        "author": "Hu",
+        "year": "2009",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "513",
+        "DOI": "10.1200/JCO.2011.36.8621",
+        "article-title": "Adverse effects of robotic-assisted laparoscopic versus open retropubic radical prostatectomy among a nationwide random sample of Medicare-age men",
+        "volume": "30",
+        "author": "Barry",
+        "year": "2012",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2012.05.046_bib0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "476",
+        "DOI": "10.1200/JCO.2011.38.9593",
+        "article-title": "Outcomes for radical prostatectomy: is it the singer, the song, or both?",
+        "volume": "30",
+        "author": "Cooperberg",
+        "year": "2012",
+        "journal-title": "J Clin Oncol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283812006306?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283812006306?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          24
+        ]
+      ],
+      "date-time": "2024-04-24T22:17:50Z",
+      "timestamp": 1713997070000
+    },
+    "score": 76.74473,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283812006306"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9
+        ]
+      ]
+    },
+    "references-count": 59,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            2012,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283812006306"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2012.05.046",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2012,
+          9
+        ]
+      ]
+    }
+  }
+]

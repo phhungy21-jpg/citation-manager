@@ -1,0 +1,699 @@
+[
+  {
+    "institution": [
+      {
+        "name": "medRxiv"
+      }
+    ],
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T12:53:16Z",
+      "timestamp": 1768567996559,
+      "version": "3.49.0"
+    },
+    "posted": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          26
+        ]
+      ]
+    },
+    "group-title": "Epidemiology",
+    "reference-count": 13,
+    "publisher": "openRxiv",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "accepted": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          26
+        ]
+      ]
+    },
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                <jats:p>We update an earlier publication (Akeroyd MA et al., Int J Audiol. 2014 53(1):60-1) to derive new estimates of the number of adults in the UK with a hearing loss, using population data from the 2021/2022 UK censuses and prevalence data from the UK National Study of Hearing (Akeroyd MA et al. Trends In Hearing 2019 Jan-Dec;23:2331216519887614). Setting a criterion of a four-frequency hearing level &gt;= 35 dB in the better ear gives an estimate of 4.6 million adults aged 18–80, which is a 17% increase on the earlier value from the 2011 census. With a criterion of &gt;= 20 dB hearing level, the estimate is 12.3 million in total, or 1 in 4 of the population aged 18-80. The revised numbers highlight just how common hearing problems are in the population.</jats:p>",
+    "DOI": "10.1101/2024.01.26.24301819",
+    "type": "posted-content",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          26
+        ]
+      ],
+      "date-time": "2024-01-26T19:05:11Z",
+      "timestamp": 1706295911000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Population estimates of the number of adults in the United Kingdom with a hearing loss updated using 2021 and 2022 census data"
+    ],
+    "prefix": "10.64898",
+    "author": [
+      {
+        "given": "Michael A",
+        "family": "Akeroyd",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kevin J",
+        "family": "Munro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "54368",
+    "reference": [
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/2331216519887614"
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/14992027.2013.850539"
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.3",
+        "unstructured": "Davis A. C. (1995). Hearing in adults. London, England: Whurr."
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(21)00516-X"
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamanetworkopen.2022.17633"
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jpsychores.2013.08.018"
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.7",
+        "unstructured": "Northern Ireland Statistics & Research Agency (2022). Census 2021 main statistics demography tables – age and sex. https://www.nisra.gov.uk/publications/census-2021-main-statistics-demography-tables-age-and-sex(accessed 2024/1/17)"
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.8",
+        "unstructured": "Office for National Statistics (2013). 2011 Census: Population estimates by single year of age and sex for local authorities in the United Kingdom. https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/2011censuspopulationestimatesbysingleyearofageandsexforlocalauthoritiesintheunitedkingdom(accessed 2024/1/17)"
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.9",
+        "unstructured": "Office for National Statistics (2015). Trends in births and deaths over the last century. https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/articles/trendsinbirthsanddeathsoverthelastcentury/2015-07-15(accessed 2024/1/16)"
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.10",
+        "unstructured": "Office for National Statistics (2023). Sex by age. https://www.ons.gov.uk/datasets/RM121/editions/2021/versions/1(accessed 2024/1/16)"
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.11",
+        "unstructured": "Scotland’s Census (2023). Scotland’s Census 2022 - Rounded population estimates. https://www.scotlandscensus.gov.uk/2022-results/scotland-s-census-2022-rounded-population-estimates/(accessed 2024/1/16)"
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamanetworkopen.2020.15009"
+      },
+      {
+        "key": "2024012920450857000_2024.01.26.24301819v1.13",
+        "unstructured": "Whitty, C. J. M. (2023). Chief Medical Officer’s Annual Report 2023: Health in an Ageing Society. London: Department of Health and Social Care (2023) http://www.gov.uk/government/publications/chief-medical-officers-annual-report-2023-health-in-an-ageing-society"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://syndication.highwire.org/content/doi/10.1101/2024.01.26.24301819",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          15
+        ]
+      ],
+      "date-time": "2026-01-15T19:49:46Z",
+      "timestamp": 1768506586000
+    },
+    "score": 52.113087,
+    "resource": {
+      "primary": {
+        "URL": "http://medrxiv.org/lookup/doi/10.1101/2024.01.26.24301819"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          26
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.1101/2024.01.26.24301819",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          26
+        ]
+      ]
+    },
+    "subtype": "preprint"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          10
+        ]
+      ],
+      "date-time": "2024-09-10T07:34:44Z",
+      "timestamp": 1725953684435
+    },
+    "publisher-location": "Abingdon, Oxon ; New York, NY : Routledge, 2017.",
+    "edition-number": "1",
+    "reference-count": 1,
+    "publisher": "Routledge",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9781315564777"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          24
+        ]
+      ]
+    },
+    "DOI": "10.4324/9781315564777-1",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          17
+        ]
+      ],
+      "date-time": "2018-12-17T10:36:21Z",
+      "timestamp": 1545042981000
+    },
+    "page": "3-17",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "The 2011 Census in the United Kingdom"
+    ],
+    "prefix": "10.4324",
+    "author": [
+      {
+        "given": "John",
+        "family": "Stillwell",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "301",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bell, M. , Charles-Edwards, E. , Kupiszewska, D. , Kupiszewski, M. , Stillwell, J. and Zhu, Y. (2015) Internal migration around the world: Assessing contemporary practice. Population, Place and Space, 21(1): 1–17.",
+        "DOI": "10.1002/psp.1848"
+      }
+    ],
+    "container-title": [
+      "The Routledge Handbook of Census Resources, Methods and Applications"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          13
+        ]
+      ],
+      "date-time": "2024-07-13T11:30:11Z",
+      "timestamp": 1720870211000
+    },
+    "score": 50.527603,
+    "resource": {
+      "primary": {
+        "URL": "https://www.taylorfrancis.com/books/9781317188025/chapters/10.4324/9781315564777-1"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          24
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781315564777"
+    ],
+    "references-count": 1,
+    "URL": "https://doi.org/10.4324/9781315564777-1",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          24
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ],
+      "date-time": "2026-03-17T16:03:13Z",
+      "timestamp": 1773763393212,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "United Nations",
+    "isbn-type": [
+      {
+        "value": "9789211592351",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          19
+        ]
+      ]
+    },
+    "DOI": "10.18356/9789211592351c006",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ],
+      "date-time": "2026-03-17T14:10:08Z",
+      "timestamp": 1773756608000
+    },
+    "page": "5-15",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Population, latest available census and estimates (2023 - 2024)"
+    ],
+    "prefix": "10.18356",
+    "author": [
+      {
+        "name": "United Nations Department of Economic and Social Affairs",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "7834",
+    "container-title": [
+      "Statistical Papers - United Nations (Ser. A), Population and Vital Statistics Report",
+      "Population and Vital Statistics Report 2026"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          17
+        ]
+      ],
+      "date-time": "2026-03-17T14:10:09Z",
+      "timestamp": 1773756609000
+    },
+    "score": 50.265907,
+    "resource": {
+      "primary": {
+        "URL": "https://www.un-ilibrary.org/content/books/9789211592351c006"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          19
+        ]
+      ]
+    },
+    "ISBN": [
+      "9789211592351"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.18356/9789211592351c006",
+    "ISSN": [
+      "2412-138X"
+    ],
+    "issn-type": [
+      {
+        "value": "2412-138X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          19
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          9,
+          9
+        ]
+      ],
+      "date-time": "2024-09-09T02:17:05Z",
+      "timestamp": 1725848225619
+    },
+    "reference-count": 0,
+    "publisher": "UN",
+    "isbn-type": [
+      {
+        "type": "electronic",
+        "value": "9789210572408"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.18356/7d798489-en",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          27
+        ]
+      ],
+      "date-time": "2016-01-27T08:11:37Z",
+      "timestamp": 1453882297000
+    },
+    "page": "5-14",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+      "Population, latest available census and estimates (2012 - 2013)"
+    ],
+    "prefix": "10.18356",
+    "author": [
+      {
+        "name": "United Nations",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "7834",
+    "container-title": [
+      "Statistical Papers - United Nations (Ser. A), Population and Vital Statistics Report",
+      "Population and vital statistics report, January 2015"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          25
+        ]
+      ],
+      "date-time": "2021-02-25T00:11:43Z",
+      "timestamp": 1614211903000
+    },
+    "score": 49.285305,
+    "resource": {
+      "primary": {
+        "URL": "https://www.un-ilibrary.org/population-and-demography/population-and-vital-statistics-report-january-2015_7d798489-en"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          12
+        ]
+      ]
+    },
+    "ISBN": [
+      "9789210572408"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.18356/7d798489-en",
+    "ISSN": [
+      "2412-138X"
+    ],
+    "issn-type": [
+      {
+        "type": "electronic",
+        "value": "2412-138X"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          2,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2026-02-27T23:51:39Z",
+      "timestamp": 1772236299842,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "UN",
+    "isbn-type": [
+      {
+        "value": "9789210565646",
+        "type": "electronic"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          23
+        ]
+      ]
+    },
+    "DOI": "10.18356/dec92eb1-en",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          30
+        ]
+      ],
+      "date-time": "2016-01-30T03:18:50Z",
+      "timestamp": 1454123930000
+    },
+    "page": "5-14",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+      "Population, latest availbale census and estimates (2011-2012)"
+    ],
+    "prefix": "10.18356",
+    "author": [
+      {
+        "name": "United Nations",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "7834",
+    "container-title": [
+      "Statistical Papers - United Nations (Ser. A), Population and Vital Statistics Report",
+      "Population and vital statistics report, January 2014"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          24
+        ]
+      ],
+      "date-time": "2021-02-24T19:00:28Z",
+      "timestamp": 1614193228000
+    },
+    "score": 49.200024,
+    "resource": {
+      "primary": {
+        "URL": "https://www.un-ilibrary.org/economic-and-social-development/population-and-vital-statistics-report-january-2014_dec92eb1-en"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          23
+        ]
+      ]
+    },
+    "ISBN": [
+      "9789210565646"
+    ],
+    "references-count": 0,
+    "URL": "https://doi.org/10.18356/dec92eb1-en",
+    "relation": {
+      "is-component-of": [
+        {
+          "id-type": "doi",
+          "id": "10.18356/7ed94efa-en",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "2412-138X"
+    ],
+    "issn-type": [
+      {
+        "value": "2412-138X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          7,
+          23
+        ]
+      ]
+    }
+  }
+]

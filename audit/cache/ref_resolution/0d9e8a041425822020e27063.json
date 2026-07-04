@@ -1,0 +1,1069 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2025-11-11T16:27:12Z",
+      "timestamp": 1762878432818,
+      "version": "3.45.0"
+    },
+    "reference-count": 6,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "euoncology.europeanurology.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology Oncology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.euo.2021.08.004",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2021-09-22T00:34:39Z",
+      "timestamp": 1632270879000
+    },
+    "page": "472-473",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Re: Aina Salazar, Lucas Regis, Jacques Planas, et al. A Randomised Controlled Trial to Assess the Benefit of Posterior Rhabdosphincter Reconstruction in Early Urinary Continence Recovery after Robot-assisted Radical Prostatectomy. Eur Urol Oncol 2022;5:460–3"
+    ],
+    "prefix": "10.1016",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Nikolaos",
+        "family": "Kalampokis",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1693-978X",
+        "authenticated-orcid": false,
+        "given": "Nikolaos",
+        "family": "Grivas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Markos",
+        "family": "Karavitakis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Henk",
+        "family": "van der Poel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.euo.2021.08.004_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "376",
+        "DOI": "10.1016/j.eururo.2007.01.109",
+        "article-title": "Early continence recovery after open radical prostatectomy with restoration of the posterior aspect of the rhabdosphincter",
+        "volume": "52",
+        "author": "Rocco",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.08.004_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "460",
+        "DOI": "10.1016/j.euo.2021.02.005",
+        "article-title": "A randomised controlled trial to assess the benefit of posterior rhabdosphincter reconstruction in early urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "5",
+        "author": "Salazar",
+        "year": "2022",
+        "journal-title": "Eur Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.08.004_bib0015",
+        "first-page": "127",
+        "article-title": "Ricerca personale: la ricostruzione dello sfintere striato uretrale [Personal research: reconstruction of the urethral striated sphincter]",
+        "volume": "73",
+        "author": "Rocco",
+        "year": "2001",
+        "journal-title": "Arch Ital Urol Androl"
+      },
+      {
+        "key": "10.1016/j.euo.2021.08.004_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "1482",
+        "DOI": "10.1111/j.1464-410X.2008.08090.x",
+        "article-title": "Surgery illustrated—focus on details. Modified posterior reconstruction of the rhabdosphincter: application to robotic-assisted laparoscopic prostatectomy",
+        "volume": "102",
+        "author": "Coughlin",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.euo.2021.08.004_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "779",
+        "DOI": "10.1016/j.eururo.2012.05.041",
+        "article-title": "Posterior musculofascial reconstruction after radical prostatectomy: a systematic review of the literature",
+        "volume": "62",
+        "author": "Rocco",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.08.004_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1111/bju.13480",
+        "article-title": "Posterior musculofascial reconstruction after radical prostatectomy: an updated systematic review and a meta-analysis",
+        "volume": "118",
+        "author": "Grasso",
+        "year": "2016",
+        "journal-title": "BJU Int"
+      }
+    ],
+    "container-title": [
+      "European Urology Oncology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2588931121001565?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2588931121001565?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2025-11-11T15:47:30Z",
+      "timestamp": 1762876050000
+    },
+    "score": 154.07309,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2588931121001565"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "references-count": 6,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S2588931121001565"
+    ],
+    "URL": "https://doi.org/10.1016/j.euo.2021.08.004",
+    "ISSN": [
+      "2588-9311"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "2588-9311"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Aina Salazar, Lucas Regis, Jacques Planas, et al. A Randomised Controlled Trial to Assess the Benefit of Posterior Rhabdosphincter Reconstruction in Early Urinary Continence Recovery after Robot-assisted Radical Prostatectomy. Eur Urol Oncol 2022;5:460–3",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology Oncology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.euo.2021.08.004",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2025-11-11T16:27:05Z",
+      "timestamp": 1762878425948,
+      "version": "3.45.0"
+    },
+    "reference-count": 6,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "euoncology.europeanurology.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology Oncology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.euo.2021.09.004",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          28
+        ]
+      ],
+      "date-time": "2021-09-28T03:58:59Z",
+      "timestamp": 1632801539000
+    },
+    "page": "474",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Reply to Nikolaos Kalampokis, Nikolaos Grivas, Markos Karavitakis, and Henk van der Poel’s Letter to the Editor re: Aina Salazar, Lucas Regis, Jacques Planas, et al. A Randomised Controlled Trial to Assess the Benefit of Posterior Rhabdosphincter Reconstruction in Early Urinary Continence Recovery after Robot-assisted Radical Prostatectomy. Eur Urol Oncol 2022;5:460–3"
+    ],
+    "prefix": "10.1016",
+    "volume": "5",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2168-323X",
+        "authenticated-orcid": false,
+        "given": "Juan",
+        "family": "Morote",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Aina",
+        "family": "Salazar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lucas",
+        "family": "Regis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.euo.2021.09.004_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "460",
+        "DOI": "10.1016/j.euo.2021.02.005",
+        "article-title": "A randomised controlled trial to assess the benefit of posterior rhabdosphincter reconstruction in early urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "5",
+        "author": "Salazar",
+        "year": "2022",
+        "journal-title": "Eur Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.09.004_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1016/j.eururo.2020.09.042",
+        "article-title": "EAU-EANM-ESTRO-ESUR-SIOG guidelines on prostate cancer—2020 update. Part 1: screening, diagnosis, and local treatment with curative intent",
+        "volume": "79",
+        "author": "Mottet",
+        "year": "2021",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.09.004_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "1245",
+        "DOI": "10.1016/j.urology.2010.01.027",
+        "article-title": "Development and validation of an abbreviated version of the Expanded Prostate Cancer Index Composite instrument for measuring health-related quality of life among prostate cancer survivors",
+        "volume": "76",
+        "author": "Szymanski",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.euo.2021.09.004_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1002/nau.20352",
+        "article-title": "A statistical comparison of pad numbers versus pad weights in the quantification of urinary incontinence",
+        "volume": "26",
+        "author": "Dylewski",
+        "year": "2007",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "10.1016/j.euo.2021.09.004_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "2008",
+        "DOI": "10.1002/nau.23556",
+        "article-title": "De novo overactive bladder after robot-assisted laparoscopic radical prostatectomy",
+        "volume": "37",
+        "author": "Matsukawa",
+        "year": "2018",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "10.1016/j.euo.2021.09.004_bib0030",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ejrad.2021.109589",
+        "article-title": "The position of urethrovesical anastomosis after robotic radical prostatectomy assessed by MRI predicts early functional recovery: a cohort analyses from a randomized clinical trial",
+        "volume": "137",
+        "author": "Regis",
+        "year": "2021",
+        "journal-title": "Eur J Radiol"
+      }
+    ],
+    "container-title": [
+      "European Urology Oncology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2588931121001577?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2588931121001577?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2025-11-11T15:47:19Z",
+      "timestamp": 1762876039000
+    },
+    "score": 145.21814,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2588931121001577"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "references-count": 6,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S2588931121001577"
+    ],
+    "URL": "https://doi.org/10.1016/j.euo.2021.09.004",
+    "ISSN": [
+      "2588-9311"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "2588-9311"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Reply to Nikolaos Kalampokis, Nikolaos Grivas, Markos Karavitakis, and Henk van der Poel’s Letter to the Editor re: Aina Salazar, Lucas Regis, Jacques Planas, et al. A Randomised Controlled Trial to Assess the Benefit of Posterior Rhabdosphincter Reconstruction in Early Urinary Continence Recovery after Robot-assisted Radical Prostatectomy. Eur Urol Oncol 2022;5:460–3",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology Oncology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.euo.2021.09.004",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          21
+        ]
+      ],
+      "date-time": "2026-01-21T06:50:45Z",
+      "timestamp": 1768978245941,
+      "version": "3.49.0"
+    },
+    "reference-count": 14,
+    "publisher": "Elsevier BV",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2022-08-01T00:00:00Z",
+          "timestamp": 1659312000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "euoncology.europeanurology.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology Oncology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.euo.2021.02.005",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          27
+        ]
+      ],
+      "date-time": "2021-02-27T16:42:40Z",
+      "timestamp": 1614444160000
+    },
+    "page": "460-463",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": [
+      "A Randomised Controlled Trial to Assess the Benefit of Posterior Rhabdosphincter Reconstruction in Early Urinary Continence Recovery after Robot-assisted Radical Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Aina",
+        "family": "Salazar",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lucas",
+        "family": "Regis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jacques",
+        "family": "Planas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anna",
+        "family": "Celma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Anna",
+        "family": "Santamaria",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Enrique",
+        "family": "Trilla",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2168-323X",
+        "authenticated-orcid": false,
+        "given": "Juan",
+        "family": "Morote",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "1301",
+        "DOI": "10.1016/S0022-5347(01)62521-7",
+        "article-title": "In situ anatomical study of the male urethral sphincteric complex: relevance to continence preservation following major pelvic surgery",
+        "volume": "160",
+        "author": "Burnett",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "2201",
+        "DOI": "10.1016/S0022-5347(06)00262-X",
+        "article-title": "Restoration of posterior aspect of rhabdosphincter shortens continence time after radical retropubic prostatectomy",
+        "volume": "175",
+        "author": "Rocco",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1111/bju.13480",
+        "article-title": "Posterior musculofascial reconstruction after radical prostatectomy: an updated systematic review and a meta-analysis",
+        "volume": "118",
+        "author": "Grasso",
+        "year": "2016",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "1262",
+        "DOI": "10.1016/j.juro.2010.11.085",
+        "article-title": "Posterior rhabdosphincter reconstruction during robotic assisted radical prostatectomy: results from a phase II randomized clinical trial",
+        "volume": "185",
+        "author": "Sutherland",
+        "year": "2011",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.eururo.2010.08.025",
+        "article-title": "Influence of modified posterior reconstruction of the rhabdosphincter on early recovery of continence and anastomotic leakage rates after robot-assisted radical prostatectomy",
+        "volume": "59",
+        "author": "Coelho",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "471",
+        "DOI": "10.1007/s00345-012-1018-7",
+        "article-title": "Functional outcomes following robotic prostatectomy using athermal, traction free risk-stratified grades of nerve sparing",
+        "volume": "31",
+        "author": "Tewari",
+        "year": "2013",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "798",
+        "DOI": "10.1097/01.ju.0000091805.98960.13",
+        "article-title": "A preoperative nomogram identifying decreased risk of positive pelvic lymph nodes in patients with prostate cancer",
+        "volume": "170",
+        "author": "Cagiannos",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "205",
+        "DOI": "10.1097/01.sla.0000133083.54934.ae",
+        "article-title": "Classification of surgical complications. A new proposal with evaluation in a cohort of 6336 patients and results of a survey",
+        "volume": "240",
+        "author": "Dindo",
+        "year": "2004",
+        "journal-title": "Ann Surg"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "1245",
+        "DOI": "10.1016/j.urology.2010.01.027",
+        "article-title": "Development and validation of an abbreviated version of the Expanded Prostate Cancer Index Composite instrument for measuring health-related quality of life among prostate cancer survivors",
+        "volume": "76",
+        "author": "Szymanski",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "1464",
+        "DOI": "10.1016/j.juro.2009.12.009",
+        "article-title": "Continence definition after radical prostatectomy using urinary quality of life: evaluation of patient reported validated questionnaires",
+        "volume": "183",
+        "author": "Liss",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "438",
+        "DOI": "10.1016/j.eururo.2012.07.009",
+        "article-title": "Effect of a risk-stratified grade of nerve-sparing technique on early return of continence after robot-assisted laparoscopic radical prostatectomy",
+        "volume": "63",
+        "author": "Srivastava",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "341",
+        "DOI": "10.1016/S1569-9056(16)15295-9",
+        "article-title": "PERUSIA technique: full neurovascular sparing radical prostatectomy",
+        "volume": "15",
+        "author": "Boni",
+        "year": "2016",
+        "journal-title": "Eur Urol Suppl"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "628",
+        "DOI": "10.1016/j.eururo.2018.07.003",
+        "article-title": "Retrograde release of the neurovascular bundle with preservation of dorsal venous complex during robot-assisted radical prostatectomy: optimizing functional outcomes",
+        "volume": "77",
+        "author": "de Carvalho",
+        "year": "2020",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.euo.2021.02.005_bib0070",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wagaskar V.G., Mittal A., Sobotka S., et al. Hood technique for robotic radical prostatectomy—preserving periurethral anatomical structures in the space of Retzius and sparing the pouch of Douglas, enabling early return of continence without compromising surgical margin rates. Eur Urol. In press. https://doi.org/10.1016/j.eururo.2020.09.044.",
+        "DOI": "10.1016/j.eururo.2020.09.044"
+      }
+    ],
+    "container-title": [
+      "European Urology Oncology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2588931121000390?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2588931121000390?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2025-11-11T15:48:40Z",
+      "timestamp": 1762876120000
+    },
+    "score": 136.62779,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2588931121000390"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "references-count": 14,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S2588931121000390"
+    ],
+    "URL": "https://doi.org/10.1016/j.euo.2021.02.005",
+    "ISSN": [
+      "2588-9311"
+    ],
+    "issn-type": [
+      {
+        "value": "2588-9311",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A Randomised Controlled Trial to Assess the Benefit of Posterior Rhabdosphincter Reconstruction in Early Urinary Continence Recovery after Robot-assisted Radical Prostatectomy",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology Oncology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.euo.2021.02.005",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

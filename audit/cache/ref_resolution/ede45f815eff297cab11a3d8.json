@@ -1,0 +1,3735 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T08:40:18Z",
+      "timestamp": 1767170418735,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1161/cir.0000000000000296",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              23
+            ]
+          ],
+          "date-time": "2016-08-23T00:00:00Z",
+          "timestamp": 1471910400000
+        }
+      }
+    ],
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "8",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          23
+        ]
+      ]
+    },
+    "DOI": "10.1161/cir.0000000000000427",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          22
+        ]
+      ],
+      "date-time": "2016-08-22T16:37:28Z",
+      "timestamp": 1471883848000
+    },
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Correction to: Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association"
+    ],
+    "prefix": "10.1161",
+    "volume": "134",
+    "member": "276",
+    "container-title": [
+      "Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000427",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2024-05-12T19:40:59Z",
+      "timestamp": 1715542859000
+    },
+    "score": 100.936424,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000427"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          23
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            8,
+            23
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/CIR.0000000000000427"
+    ],
+    "URL": "https://doi.org/10.1161/cir.0000000000000427",
+    "ISSN": [
+      "0009-7322",
+      "1524-4539"
+    ],
+    "issn-type": [
+      {
+        "value": "0009-7322",
+        "type": "print"
+      },
+      {
+        "value": "1524-4539",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          23
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2016-08-23",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          31
+        ]
+      ],
+      "date-time": "2025-12-31T08:33:33Z",
+      "timestamp": 1767170013900,
+      "version": "build-2238731810"
+    },
+    "update-to": [
+      {
+        "DOI": "10.1161/cir.0000000000000296",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              30
+            ]
+          ],
+          "date-time": "2018-07-30T00:00:00Z",
+          "timestamp": 1532908800000
+        }
+      }
+    ],
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "5",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          31
+        ]
+      ]
+    },
+    "DOI": "10.1161/cir.0000000000000594",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2018-09-16T05:49:48Z",
+      "timestamp": 1537076988000
+    },
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+      "Correction to: Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association"
+    ],
+    "prefix": "10.1161",
+    "volume": "138",
+    "member": "276",
+    "container-title": [
+      "Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000594",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2024-05-12T20:07:56Z",
+      "timestamp": 1715544476000
+    },
+    "score": 100.74614,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000594"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          31
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            7,
+            31
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/CIR.0000000000000594"
+    ],
+    "URL": "https://doi.org/10.1161/cir.0000000000000594",
+    "ISSN": [
+      "0009-7322",
+      "1524-4539"
+    ],
+    "issn-type": [
+      {
+        "value": "0009-7322",
+        "type": "print"
+      },
+      {
+        "value": "1524-4539",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          31
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2018-07-30",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          4
+        ]
+      ],
+      "date-time": "2024-03-04T06:15:54Z",
+      "timestamp": 1709532954164
+    },
+    "reference-count": 0,
+    "publisher": "H1 Connect",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          24
+        ]
+      ]
+    },
+    "DOI": "10.3410/f.725792216.793546273",
+    "type": "dataset",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          24
+        ]
+      ],
+      "date-time": "2018-05-24T08:55:18Z",
+      "timestamp": 1527152118000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Faculty Opinions recommendation of Infective endocarditis in adults: diagnosis, antimicrobial therapy, and management of complications: A scientific statement for healthcare professionals from the american heart association."
+    ],
+    "prefix": "10.3410",
+    "author": [
+      {
+        "given": "Bernard",
+        "family": "Prendergast",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Cardiology, St Thomas’ Hospital, UK"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "4950",
+    "content-created": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          24
+        ]
+      ]
+    },
+    "container-title": [
+      "Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature"
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          23
+        ]
+      ],
+      "date-time": "2020-04-23T12:06:03Z",
+      "timestamp": 1587643563000
+    },
+    "score": 86.72768,
+    "resource": {
+      "primary": {
+        "URL": "https://facultyopinions.com/prime/725792216#eval793546273"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          24
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.3410/f.725792216.793546273",
+    "relation": {
+      "is-review-of": [
+        {
+          "id-type": "doi",
+          "id": "10.1161/CIR.0000000000000296",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          24
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T17:56:53Z",
+      "timestamp": 1782928613970,
+      "version": "3.54.5"
+    },
+    "reference-count": 328,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "15",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          13
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Background—</jats:title>\n                    <jats:p>Infective endocarditis is a potentially lethal disease that has undergone major changes in both host and pathogen. The epidemiology of infective endocarditis has become more complex with today’s myriad healthcare-associated factors that predispose to infection. Moreover, changes in pathogen prevalence, in particular a more common staphylococcal origin, have affected outcomes, which have not improved despite medical and surgical advances.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods and Results—</jats:title>\n                    <jats:p>This statement updates the 2005 iteration, both of which were developed by the American Heart Association under the auspices of the Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease, Council on Cardiovascular Disease of the Young. It includes an evidence-based system for diagnostic and treatment recommendations used by the American College of Cardiology and the American Heart Association for treatment recommendations.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions—</jats:title>\n                    <jats:p>Infective endocarditis is a complex disease, and patients with this disease generally require management by a team of physicians and allied health providers with a variety of areas of expertise. The recommendations provided in this document are intended to assist in the management of this uncommon but potentially deadly infection. The clinical variability and complexity in infective endocarditis, however, dictate that these recommendations be used to support and not supplant decisions in individual patient management.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1161/cir.0000000000000296",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          13
+        ]
+      ],
+      "date-time": "2015-10-13T16:48:12Z",
+      "timestamp": 1444754892000
+    },
+    "page": "1435-1486",
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2788,
+    "title": [
+      "Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications"
+    ],
+    "prefix": "10.1161",
+    "volume": "132",
+    "author": [
+      {
+        "given": "Larry M.",
+        "family": "Baddour",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Walter R.",
+        "family": "Wilson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arnold S.",
+        "family": "Bayer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "suffix": "Jr",
+        "given": "Vance G.",
+        "family": "Fowler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Imad M.",
+        "family": "Tleyjeh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael J.",
+        "family": "Rybak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bruno",
+        "family": "Barsic",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter B.",
+        "family": "Lockhart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael H.",
+        "family": "Gewitz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Matthew E.",
+        "family": "Levison",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ann F.",
+        "family": "Bolger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "James M.",
+        "family": "Steckelberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Robert S.",
+        "family": "Baltimore",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anne M.",
+        "family": "Fink",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patrick",
+        "family": "O’Gara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kathryn A.",
+        "family": "Taubert",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "on behalf of the American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular Disease in the Young, Council on Clinical Cardiology, Council on Cardiovascular Surgery and Anesthesia, and Stroke Council",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "e_1_3_2_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2012.02.029"
+      },
+      {
+        "key": "e_1_3_2_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4065/mcp.2009.0585"
+      },
+      {
+        "key": "e_1_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinternmed.2011.1027"
+      },
+      {
+        "key": "e_1_3_2_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(12)61689-4"
+      },
+      {
+        "key": "e_1_3_2_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.06-2048"
+      },
+      {
+        "key": "e_1_3_2_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.293.24.3012"
+      },
+      {
+        "key": "e_1_3_2_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cis199"
+      },
+      {
+        "key": "e_1_3_2_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinternmed.2008.603"
+      },
+      {
+        "key": "e_1_3_2_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-150-9-200905050-00004"
+      },
+      {
+        "key": "e_1_3_2_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.109.864488"
+      },
+      {
+        "key": "e_1_3_2_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.2011.1701"
+      },
+      {
+        "key": "e_1_3_2_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.105.165564"
+      },
+      {
+        "key": "e_1_3_2_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa053783"
+      },
+      {
+        "key": "e_1_3_2_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.106.658831"
+      },
+      {
+        "key": "e_1_3_2_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/ehp008"
+      },
+      {
+        "key": "e_1_3_2_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCOUTCOMES.109.857938"
+      },
+      {
+        "key": "e_1_3_2_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1112843"
+      },
+      {
+        "key": "e_1_3_2_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/ehp285"
+      },
+      {
+        "key": "e_1_3_2_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dkr450"
+      },
+      {
+        "key": "e_1_3_2_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIR.0000000000000298"
+      },
+      {
+        "key": "e_1_3_2_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.109.192665"
+      },
+      {
+        "key": "e_1_3_2_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.0000093201.57771.47"
+      },
+      {
+        "key": "e_1_3_2_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(94)90143-0"
+      },
+      {
+        "key": "e_1_3_2_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313753"
+      },
+      {
+        "key": "e_1_3_2_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1987.00370030061013"
+      },
+      {
+        "key": "e_1_3_2_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.163.17.2066"
+      },
+      {
+        "key": "e_1_3_2_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(94)90144-9"
+      },
+      {
+        "key": "e_1_3_2_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/21.4.905"
+      },
+      {
+        "key": "e_1_3_2_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-9149(97)89372-1"
+      },
+      {
+        "key": "e_1_3_2_31_2",
+        "unstructured": "Arguello EA Varini S Romorini A Elizari A Clara L Casabe H. Infective endocarditis in the Argentine Republic [abstract 152]. Paper presented at: Third International Symposium on Modern Concepts in Endocarditis; July 13–15 1995; Boston MA."
+      },
+      {
+        "key": "e_1_3_2_32_2",
+        "unstructured": "Kanavos K Antoniadou A Venetis C Gezerlis P Giamarellou H. Retrospective analysis of Duke’s criteria in 60 cases of infective endocarditis in Greece [abstract 138]. Paper presented at: Third International Symposium on Modern Concepts in Endocarditis; July 13–15 1995; Boston MA."
+      },
+      {
+        "key": "e_1_3_2_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00006454-199512000-00010"
+      },
+      {
+        "key": "e_1_3_2_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/520304"
+      },
+      {
+        "key": "e_1_3_2_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.158.1.18"
+      },
+      {
+        "key": "e_1_3_2_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/516145"
+      },
+      {
+        "key": "e_1_3_2_37_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/515021"
+      },
+      {
+        "key": "e_1_3_2_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/23.2.298"
+      },
+      {
+        "key": "e_1_3_2_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/513657"
+      },
+      {
+        "key": "e_1_3_2_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/515076"
+      },
+      {
+        "key": "e_1_3_2_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-9343(96)00040-X"
+      },
+      {
+        "key": "e_1_3_2_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-125-8-199610150-00004"
+      },
+      {
+        "key": "e_1_3_2_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/19.4.677"
+      },
+      {
+        "key": "e_1_3_2_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid0912.030229"
+      },
+      {
+        "key": "e_1_3_2_45_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/jcm.35.11.2733-2739.1997"
+      },
+      {
+        "key": "e_1_3_2_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/513765"
+      },
+      {
+        "key": "e_1_3_2_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9149(94)90816-8"
+      },
+      {
+        "key": "e_1_3_2_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1067/mje.2003.43"
+      },
+      {
+        "key": "e_1_3_2_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9149(93)90740-4"
+      },
+      {
+        "key": "e_1_3_2_50_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-9343(99)00216-8"
+      },
+      {
+        "key": "e_1_3_2_51_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.93.4.730"
+      },
+      {
+        "key": "e_1_3_2_52_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mayocp.2014.02.013"
+      },
+      {
+        "key": "e_1_3_2_53_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0735-1097(93)90250-5"
+      },
+      {
+        "key": "e_1_3_2_54_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/17.3.313"
+      },
+      {
+        "key": "e_1_3_2_55_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM199103213241203"
+      },
+      {
+        "key": "e_1_3_2_56_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0735-1097(91)90535-H"
+      },
+      {
+        "key": "e_1_3_2_57_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/oxfordjournals.eurheartj.a060195"
+      },
+      {
+        "key": "e_1_3_2_58_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0735-1097(89)90104-6"
+      },
+      {
+        "key": "e_1_3_2_59_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-114-8-635"
+      },
+      {
+        "key": "e_1_3_2_60_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ehj/9.1.43"
+      },
+      {
+        "key": "e_1_3_2_61_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0894-7317(14)80380-5"
+      },
+      {
+        "key": "e_1_3_2_62_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0003-4975(02)03779-7"
+      },
+      {
+        "key": "e_1_3_2_63_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/clc.4960180612"
+      },
+      {
+        "key": "e_1_3_2_64_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/1053-0770(94)90006-X"
+      },
+      {
+        "key": "e_1_3_2_65_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-8175.2009.01042.x"
+      },
+      {
+        "key": "e_1_3_2_66_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/14017430902737940"
+      },
+      {
+        "key": "e_1_3_2_67_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00330-012-2491-5"
+      },
+      {
+        "key": "e_1_3_2_68_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2008.01.077"
+      },
+      {
+        "key": "e_1_3_2_69_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2214/AJR.08.2120"
+      },
+      {
+        "key": "e_1_3_2_70_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-152-8-201004200-00006"
+      },
+      {
+        "key": "e_1_3_2_71_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00259-010-1380-x"
+      },
+      {
+        "key": "e_1_3_2_72_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.acvd.2012.09.004"
+      },
+      {
+        "key": "e_1_3_2_73_2",
+        "first-page": "50",
+        "article-title": "Experimental bacterial endocarditis, II: survival of a bacteria in endocardial vegetations.",
+        "volume": "53",
+        "author": "Durack DT",
+        "year": "1972",
+        "unstructured": "Durack, DT, Beeson, PB. Experimental bacterial endocarditis, II: survival of a bacteria in endocardial vegetations. Br J Exp Pathol. 1972;53:50–53.",
+        "journal-title": "Br J Exp Pathol"
+      },
+      {
+        "key": "e_1_3_2_74_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.48.12.4665-4672.2004"
+      },
+      {
+        "key": "e_1_3_2_75_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijantimicag.2011.09.017"
+      },
+      {
+        "key": "e_1_3_2_76_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.01009-08"
+      },
+      {
+        "key": "e_1_3_2_77_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1084/jem.90.6.595"
+      },
+      {
+        "key": "e_1_3_2_78_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.01609-09"
+      },
+      {
+        "key": "e_1_3_2_79_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JB.00011-12"
+      },
+      {
+        "key": "e_1_3_2_80_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.35.9.1824"
+      },
+      {
+        "key": "e_1_3_2_81_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/167.6.1401"
+      },
+      {
+        "key": "e_1_3_2_82_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.00134-09"
+      },
+      {
+        "key": "e_1_3_2_83_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dki163"
+      },
+      {
+        "key": "e_1_3_2_84_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.30.6.861"
+      },
+      {
+        "key": "e_1_3_2_85_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.8.3.344"
+      },
+      {
+        "key": "e_1_3_2_86_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/35.6.765"
+      },
+      {
+        "key": "e_1_3_2_87_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.32.2.231"
+      },
+      {
+        "key": "e_1_3_2_88_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/155.6.1226"
+      },
+      {
+        "key": "e_1_3_2_89_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/154.1.64"
+      },
+      {
+        "key": "e_1_3_2_90_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1950.02920070012004"
+      },
+      {
+        "key": "e_1_3_2_91_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/21.6.1406"
+      },
+      {
+        "key": "e_1_3_2_92_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-109-8-619"
+      },
+      {
+        "key": "e_1_3_2_93_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-125-12-199612150-00005"
+      },
+      {
+        "key": "e_1_3_2_94_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.42.12.3169"
+      },
+      {
+        "key": "e_1_3_2_95_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0891-5520(20)30504-3"
+      },
+      {
+        "key": "e_1_3_2_96_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/159.5.938"
+      },
+      {
+        "key": "e_1_3_2_97_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1472-8206.1991.tb00701.x"
+      },
+      {
+        "key": "e_1_3_2_98_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.36.10.2216"
+      },
+      {
+        "key": "e_1_3_2_99_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.38.3.432"
+      },
+      {
+        "key": "e_1_3_2_100_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.36.11.2493"
+      },
+      {
+        "key": "e_1_3_2_101_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.38.7.1515"
+      },
+      {
+        "key": "e_1_3_2_102_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjmed.2006.04.001"
+      },
+      {
+        "key": "e_1_3_2_103_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrmicro862"
+      },
+      {
+        "key": "e_1_3_2_104_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/516284"
+      },
+      {
+        "key": "e_1_3_2_105_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.37.5.1073"
+      },
+      {
+        "key": "e_1_3_2_106_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.01232-08"
+      },
+      {
+        "key": "e_1_3_2_107_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.02800-14"
+      },
+      {
+        "key": "e_1_3_2_108_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.43.3.623"
+      },
+      {
+        "key": "e_1_3_2_109_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.45.3.845-851.2001"
+      },
+      {
+        "key": "e_1_3_2_110_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cir034"
+      },
+      {
+        "key": "e_1_3_2_111_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.00869-07"
+      },
+      {
+        "key": "e_1_3_2_112_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.01307-08"
+      },
+      {
+        "key": "e_1_3_2_113_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2146/ajhp080434"
+      },
+      {
+        "key": "e_1_3_2_114_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cir124"
+      },
+      {
+        "key": "e_1_3_2_115_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/civ120"
+      },
+      {
+        "key": "e_1_3_2_116_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/00365548.2011.638317"
+      },
+      {
+        "key": "e_1_3_2_117_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/430908"
+      },
+      {
+        "key": "e_1_3_2_118_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-0691.2011.03594.x"
+      },
+      {
+        "key": "e_1_3_2_119_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1992.03480020074034"
+      },
+      {
+        "key": "e_1_3_2_120_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1992.03480020089038"
+      },
+      {
+        "key": "e_1_3_2_121_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/515038"
+      },
+      {
+        "key": "e_1_3_2_122_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0891-5520(20)30508-0"
+      },
+      {
+        "key": "e_1_3_2_123_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1592/phco.2005.25.10.1389"
+      },
+      {
+        "key": "e_1_3_2_124_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.48.11.4463-4465.2004"
+      },
+      {
+        "key": "e_1_3_2_125_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/518174"
+      },
+      {
+        "key": "e_1_3_2_126_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2006.05.010"
+      },
+      {
+        "key": "e_1_3_2_127_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/529199"
+      },
+      {
+        "key": "e_1_3_2_128_2",
+        "first-page": "191",
+        "volume-title": "Infective Endocarditis",
+        "author": "Roberts R",
+        "year": "1992",
+        "unstructured": "Roberts, R. Streptococcal endocarditis: the viridans and beta-hemolytic streptococci. In: Kaye, D Infective Endocarditis. New York, NY: Raven Press; 1992:191–208."
+      },
+      {
+        "key": "e_1_3_2_129_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.28.5.607"
+      },
+      {
+        "key": "e_1_3_2_130_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00005792-200009000-00006"
+      },
+      {
+        "key": "e_1_3_2_131_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/377534"
+      },
+      {
+        "key": "e_1_3_2_132_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/341024"
+      },
+      {
+        "key": "e_1_3_2_133_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0163-4453(88)94022-4"
+      },
+      {
+        "key": "e_1_3_2_134_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/516266"
+      },
+      {
+        "key": "e_1_3_2_135_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.162.21.2450"
+      },
+      {
+        "key": "e_1_3_2_136_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/340538"
+      },
+      {
+        "key": "e_1_3_2_137_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.297.12.1354"
+      },
+      {
+        "key": "e_1_3_2_138_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/524666"
+      },
+      {
+        "key": "e_1_3_2_139_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa025025"
+      },
+      {
+        "key": "e_1_3_2_140_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/346207"
+      },
+      {
+        "key": "e_1_3_2_141_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cir935"
+      },
+      {
+        "key": "e_1_3_2_142_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jir270"
+      },
+      {
+        "key": "e_1_3_2_143_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciu183"
+      },
+      {
+        "key": "e_1_3_2_144_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/hrt.2004.040659"
+      },
+      {
+        "key": "e_1_3_2_145_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1684-1182(10)60074-6"
+      },
+      {
+        "key": "e_1_3_2_146_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10096-003-0953-z"
+      },
+      {
+        "key": "e_1_3_2_147_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1574-695X.2009.00626.x"
+      },
+      {
+        "key": "e_1_3_2_148_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.00342-09"
+      },
+      {
+        "key": "e_1_3_2_149_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/320869"
+      },
+      {
+        "key": "e_1_3_2_150_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/597031"
+      },
+      {
+        "key": "e_1_3_2_151_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-9343(96)00070-8"
+      },
+      {
+        "key": "e_1_3_2_152_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(89)91083-0"
+      },
+      {
+        "key": "e_1_3_2_153_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1976.03630040082017"
+      },
+      {
+        "key": "e_1_3_2_154_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-97-4-496"
+      },
+      {
+        "key": "e_1_3_2_155_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cit560"
+      },
+      {
+        "key": "e_1_3_2_156_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.01563-13"
+      },
+      {
+        "key": "e_1_3_2_157_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313435"
+      },
+      {
+        "key": "e_1_3_2_158_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/379021"
+      },
+      {
+        "key": "e_1_3_2_159_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(76)90758-0"
+      },
+      {
+        "key": "e_1_3_2_160_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0891-5520(20)30505-5"
+      },
+      {
+        "key": "e_1_3_2_161_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/430352"
+      },
+      {
+        "key": "e_1_3_2_162_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/367661"
+      },
+      {
+        "key": "e_1_3_2_163_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.00300-08"
+      },
+      {
+        "key": "e_1_3_2_164_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-115-9-674"
+      },
+      {
+        "key": "e_1_3_2_165_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cis966"
+      },
+      {
+        "key": "e_1_3_2_166_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-117-5-390"
+      },
+      {
+        "key": "e_1_3_2_167_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/525536"
+      },
+      {
+        "key": "e_1_3_2_168_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.00536-10"
+      },
+      {
+        "key": "e_1_3_2_169_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cir340"
+      },
+      {
+        "key": "e_1_3_2_170_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.01525-12"
+      },
+      {
+        "key": "e_1_3_2_171_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.01586-12"
+      },
+      {
+        "key": "e_1_3_2_172_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.02354-12"
+      },
+      {
+        "key": "e_1_3_2_173_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/600295"
+      },
+      {
+        "key": "e_1_3_2_174_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/648500"
+      },
+      {
+        "key": "e_1_3_2_175_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dkl219"
+      },
+      {
+        "key": "e_1_3_2_176_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1155/2004/768765"
+      },
+      {
+        "key": "e_1_3_2_177_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-0691.2006.01585.x"
+      },
+      {
+        "key": "e_1_3_2_178_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00134-002-1358-7"
+      },
+      {
+        "key": "e_1_3_2_179_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dkq113"
+      },
+      {
+        "key": "e_1_3_2_180_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dks006"
+      },
+      {
+        "key": "e_1_3_2_181_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10156-012-0449-9"
+      },
+      {
+        "key": "e_1_3_2_182_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.02371-13"
+      },
+      {
+        "key": "e_1_3_2_183_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/hrt.2008.152975"
+      },
+      {
+        "key": "e_1_3_2_184_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dkg440"
+      },
+      {
+        "key": "e_1_3_2_185_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.35.12.2611"
+      },
+      {
+        "key": "e_1_3_2_186_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.34.12.2312"
+      },
+      {
+        "key": "e_1_3_2_187_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/516378"
+      },
+      {
+        "key": "e_1_3_2_188_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.me.34.020183.002213"
+      },
+      {
+        "key": "e_1_3_2_189_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1995.03530210060032"
+      },
+      {
+        "key": "e_1_3_2_190_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/338233"
+      },
+      {
+        "key": "e_1_3_2_191_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-146-8-200704170-00008"
+      },
+      {
+        "key": "e_1_3_2_192_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cit052"
+      },
+      {
+        "key": "e_1_3_2_193_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/1469-0691.12166"
+      },
+      {
+        "key": "e_1_3_2_194_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.112.001170"
+      },
+      {
+        "key": "e_1_3_2_195_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0025-7125(16)34262-6"
+      },
+      {
+        "key": "e_1_3_2_196_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.113.002431"
+      },
+      {
+        "key": "e_1_3_2_197_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-100-6-816"
+      },
+      {
+        "key": "e_1_3_2_198_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.1970.00310020064005"
+      },
+      {
+        "key": "e_1_3_2_199_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/173.4.909"
+      },
+      {
+        "key": "e_1_3_2_200_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.43.3.639"
+      },
+      {
+        "key": "e_1_3_2_201_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1198-743X.2010.03214.x"
+      },
+      {
+        "key": "e_1_3_2_202_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3201/eid1307.070019"
+      },
+      {
+        "key": "e_1_3_2_203_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/345744"
+      },
+      {
+        "key": "e_1_3_2_204_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dkp154"
+      },
+      {
+        "key": "e_1_3_2_205_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/319986"
+      },
+      {
+        "key": "e_1_3_2_206_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2005.05.022"
+      },
+      {
+        "key": "e_1_3_2_207_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.02188-06"
+      },
+      {
+        "key": "e_1_3_2_208_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dkn105"
+      },
+      {
+        "key": "e_1_3_2_209_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjmed.2007.07.011"
+      },
+      {
+        "key": "e_1_3_2_210_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1592/phco.26.3.347"
+      },
+      {
+        "key": "e_1_3_2_211_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00365540600786465"
+      },
+      {
+        "key": "e_1_3_2_212_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1345/aph.1M324"
+      },
+      {
+        "key": "e_1_3_2_213_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.00526-13"
+      },
+      {
+        "key": "e_1_3_2_214_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.06439-11"
+      },
+      {
+        "key": "e_1_3_2_215_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.02481-12"
+      },
+      {
+        "key": "e_1_3_2_216_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.02274-13"
+      },
+      {
+        "key": "e_1_3_2_217_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.05551-11"
+      },
+      {
+        "key": "e_1_3_2_218_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/dkt294"
+      },
+      {
+        "key": "e_1_3_2_219_2",
+        "first-page": "145",
+        "article-title": "Symposium on infective endocarditis, III: endocarditis due to Gram-negative bacteria: report of 56 cases.",
+        "volume": "57",
+        "author": "Geraci JE",
+        "year": "1982",
+        "unstructured": "Geraci, JE, Wilson, WR. Symposium on infective endocarditis, III: endocarditis due to Gram-negative bacteria: report of 56 cases. Mayo Clin Proc. 1982;57:145–148.",
+        "journal-title": "Mayo Clin Proc"
+      },
+      {
+        "key": "e_1_3_2_220_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.00111-13"
+      },
+      {
+        "key": "e_1_3_2_221_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0063181"
+      },
+      {
+        "key": "e_1_3_2_222_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-147-12-200712180-00002"
+      },
+      {
+        "key": "e_1_3_2_223_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11908-008-0044-5"
+      },
+      {
+        "key": "e_1_3_2_224_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5223(19)35697-1"
+      },
+      {
+        "key": "e_1_3_2_225_2",
+        "first-page": "162",
+        "article-title": "Total tricuspid valvulectomy without replacement in the treatment of Pseudomonas endocarditis.",
+        "volume": "22",
+        "author": "Arbulu A",
+        "year": "1971",
+        "unstructured": "Arbulu, A, Thoms, NW, Chiscano, A, Wilson, RF. Total tricuspid valvulectomy without replacement in the treatment of Pseudomonas endocarditis. Surg Forum. 1971;22:162–164.",
+        "journal-title": "Surg Forum"
+      },
+      {
+        "key": "e_1_3_2_226_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-94-4-505"
+      },
+      {
+        "key": "e_1_3_2_227_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/jac/20.suppl_A.29"
+      },
+      {
+        "key": "e_1_3_2_228_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1967.03130160073013"
+      },
+      {
+        "key": "e_1_3_2_229_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.md.0000085056.63483.d2"
+      },
+      {
+        "key": "e_1_3_2_230_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/20.3.501"
+      },
+      {
+        "key": "e_1_3_2_231_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0025-6196(11)63302-8"
+      },
+      {
+        "key": "e_1_3_2_232_2",
+        "first-page": "263",
+        "article-title": "Blood culture positivity: suppression by outpatient antibiotic therapy in patients with bacterial endocarditis.",
+        "volume": "142",
+        "author": "Pazin GJ",
+        "year": "1982",
+        "unstructured": "Pazin, GJ, Saul, S, Thompson, ME. Blood culture positivity: suppression by outpatient antibiotic therapy in patients with bacterial endocarditis. Arch Intern Med. 1982;142:263–268.",
+        "journal-title": "Arch Intern Med"
+      },
+      {
+        "key": "e_1_3_2_233_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM199204303261809"
+      },
+      {
+        "key": "e_1_3_2_234_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cit278"
+      },
+      {
+        "key": "e_1_3_2_235_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/AAC.48.6.1921-1933.2004"
+      },
+      {
+        "key": "e_1_3_2_236_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/hrt.2009.181594"
+      },
+      {
+        "key": "e_1_3_2_237_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/653675"
+      },
+      {
+        "key": "e_1_3_2_238_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.05531-11"
+      },
+      {
+        "key": "e_1_3_2_239_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.93.8.1579"
+      },
+      {
+        "key": "e_1_3_2_240_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0735-1097(99)00024-8"
+      },
+      {
+        "key": "e_1_3_2_241_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.122.1.302"
+      },
+      {
+        "key": "e_1_3_2_242_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/317550"
+      },
+      {
+        "key": "e_1_3_2_243_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/22.2.262"
+      },
+      {
+        "key": "e_1_3_2_244_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00000441-200110000-00011"
+      },
+      {
+        "key": "e_1_3_2_245_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2004.10.016"
+      },
+      {
+        "key": "e_1_3_2_246_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1439-0507.2010.01884.x"
+      },
+      {
+        "key": "e_1_3_2_247_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0b013e3182259d38"
+      },
+      {
+        "key": "e_1_3_2_248_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMcp1206782"
+      },
+      {
+        "key": "e_1_3_2_249_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.acvd.2010.11.003"
+      },
+      {
+        "key": "e_1_3_2_250_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ahj.2008.06.031"
+      },
+      {
+        "key": "e_1_3_2_251_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/clc.22315"
+      },
+      {
+        "key": "e_1_3_2_252_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciu871"
+      },
+      {
+        "key": "e_1_3_2_253_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/ciu877"
+      },
+      {
+        "key": "e_1_3_2_254_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.290.24.3207"
+      },
+      {
+        "key": "e_1_3_2_255_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/510583"
+      },
+      {
+        "key": "e_1_3_2_256_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ahj.2005.03.057"
+      },
+      {
+        "key": "e_1_3_2_257_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ahj.2005.01.023"
+      },
+      {
+        "key": "e_1_3_2_258_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2003.12.008"
+      },
+      {
+        "key": "e_1_3_2_259_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclinepi.2008.06.022"
+      },
+      {
+        "key": "e_1_3_2_260_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jamainternmed.2013.8203"
+      },
+      {
+        "key": "e_1_3_2_261_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtcvs.2010.09.016"
+      },
+      {
+        "key": "e_1_3_2_262_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinternmed.2009.192"
+      },
+      {
+        "key": "e_1_3_2_263_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/hrt.2007.118968"
+      },
+      {
+        "key": "e_1_3_2_264_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ejcts.2007.02.034"
+      },
+      {
+        "key": "e_1_3_2_265_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejcts/ezs084"
+      },
+      {
+        "key": "e_1_3_2_266_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.STR.20.10.1305"
+      },
+      {
+        "key": "e_1_3_2_267_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0003-4975(96)00014-8"
+      },
+      {
+        "key": "e_1_3_2_268_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5223(95)70038-2"
+      },
+      {
+        "key": "e_1_3_2_269_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.108.834432"
+      },
+      {
+        "key": "e_1_3_2_270_2",
+        "first-page": "321",
+        "article-title": "Considerations in timing of surgical intervention for infective endocarditis with cerebrovascular complications.",
+        "volume": "19",
+        "author": "Hosono M",
+        "year": "2010",
+        "unstructured": "Hosono, M, Sasaki, Y, Hirai, H, Sakaguchi, M, Nakahira, A, Seo, H, Morisaki, A, Suehiro, S. Considerations in timing of surgical intervention for infective endocarditis with cerebrovascular complications. J Heart Valve Dis. 2010;19:321–325.",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "key": "e_1_3_2_271_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.STR.0000229894.28591.3f"
+      },
+      {
+        "key": "e_1_3_2_272_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/588663"
+      },
+      {
+        "key": "e_1_3_2_273_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/ehm005"
+      },
+      {
+        "key": "e_1_3_2_274_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cis878"
+      },
+      {
+        "key": "e_1_3_2_275_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.112.000813"
+      },
+      {
+        "key": "e_1_3_2_276_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-8703(86)90687-3"
+      },
+      {
+        "key": "e_1_3_2_277_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-9149(97)00598-5"
+      },
+      {
+        "key": "e_1_3_2_278_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.160.18.2781"
+      },
+      {
+        "key": "e_1_3_2_279_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0735-1097(02)01790-4"
+      },
+      {
+        "key": "e_1_3_2_280_2",
+        "unstructured": "Deleted in proof."
+      },
+      {
+        "key": "e_1_3_2_281_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ahj.2007.07.023"
+      },
+      {
+        "key": "e_1_3_2_282_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.104.493155"
+      },
+      {
+        "key": "e_1_3_2_283_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(85)90376-6"
+      },
+      {
+        "key": "e_1_3_2_284_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0735-1097(00)01206-7"
+      },
+      {
+        "key": "e_1_3_2_285_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.0000124719.61827.7F"
+      },
+      {
+        "key": "e_1_3_2_286_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.119.1_suppl.207S"
+      },
+      {
+        "key": "e_1_3_2_287_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinte.159.5.473"
+      },
+      {
+        "key": "e_1_3_2_288_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1172/JCI16876"
+      },
+      {
+        "key": "e_1_3_2_289_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0735-1097(03)00829-5"
+      },
+      {
+        "key": "e_1_3_2_290_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.99.21.2791"
+      },
+      {
+        "key": "e_1_3_2_291_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/513197"
+      },
+      {
+        "key": "e_1_3_2_292_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/524021"
+      },
+      {
+        "key": "e_1_3_2_293_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2009.03.006"
+      },
+      {
+        "key": "e_1_3_2_294_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1469-0691.2008.02665.x"
+      },
+      {
+        "key": "e_1_3_2_295_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/00365548.2011.603742"
+      },
+      {
+        "key": "e_1_3_2_296_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.4065/mcp.2011.0111"
+      },
+      {
+        "key": "e_1_3_2_297_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.96.6.1273"
+      },
+      {
+        "key": "e_1_3_2_298_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0735-1097(91)90785-8"
+      },
+      {
+        "key": "e_1_3_2_299_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.107.4.898"
+      },
+      {
+        "key": "e_1_3_2_300_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/5.suppl_C.67"
+      },
+      {
+        "key": "e_1_3_2_301_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9149(76)90169-7"
+      },
+      {
+        "key": "e_1_3_2_302_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9149(93)90679-7"
+      },
+      {
+        "key": "e_1_3_2_303_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/13.1.127"
+      },
+      {
+        "key": "e_1_3_2_304_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/ehi034"
+      },
+      {
+        "key": "e_1_3_2_305_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/8.suppl_J.287"
+      },
+      {
+        "key": "e_1_3_2_306_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/hrt.72.2.175"
+      },
+      {
+        "key": "e_1_3_2_307_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1055/s-2007-1019985"
+      },
+      {
+        "key": "e_1_3_2_308_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0735-1097(86)80364-3"
+      },
+      {
+        "key": "e_1_3_2_309_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0003-4975(96)00029-X"
+      },
+      {
+        "key": "e_1_3_2_310_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0025-6196(11)64307-3"
+      },
+      {
+        "key": "e_1_3_2_311_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0735-1097(91)90851-Y"
+      },
+      {
+        "key": "e_1_3_2_312_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1540-8191.1990.tb00739.x"
+      },
+      {
+        "key": "e_1_3_2_313_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5223(19)34813-5"
+      },
+      {
+        "key": "e_1_3_2_314_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00001573-200303000-00008"
+      },
+      {
+        "key": "e_1_3_2_315_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00005792-198001000-00003"
+      },
+      {
+        "key": "e_1_3_2_316_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3171/jns.1978.48.3.0369"
+      },
+      {
+        "key": "e_1_3_2_317_2",
+        "first-page": "162",
+        "article-title": "Management of complications of infective endocarditis.",
+        "volume": "57",
+        "author": "Wilson WR",
+        "year": "1982",
+        "unstructured": "Wilson, WR, Giuliani, ER, Danielson, GK, Geraci, JE. Management of complications of infective endocarditis. Mayo Clin Proc. 1982;57:162–170.",
+        "journal-title": "Mayo Clin Proc"
+      },
+      {
+        "key": "e_1_3_2_318_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00004424-199304000-00020"
+      },
+      {
+        "key": "e_1_3_2_319_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0025-7125(16)31050-1"
+      },
+      {
+        "key": "e_1_3_2_320_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1042-3680(18)30646-6"
+      },
+      {
+        "key": "e_1_3_2_321_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1212/WNL.24.12.1103"
+      },
+      {
+        "key": "e_1_3_2_322_2",
+        "first-page": "1607",
+        "article-title": "Blinded prospective evaluation of sensitivity of MR angiography to known intracranial aneurysms: importance of aneurysm size.",
+        "volume": "15",
+        "author": "Huston J",
+        "year": "1994",
+        "unstructured": "Huston, J3rd, Nichols, DA, Luetmer, PH, Goodwin, JT, Meyer, FB, Wiebers, DO, Weaver, AL. Blinded prospective evaluation of sensitivity of MR angiography to known intracranial aneurysms: importance of aneurysm size. AJNR Am J Neuroradiol. 1994;15:1607–1614.",
+        "journal-title": "AJNR Am J Neuroradiol"
+      },
+      {
+        "key": "e_1_3_2_323_2",
+        "article-title": "Vascular graft infections, mycotic aneurysms, and endovascular infections: a scientific statement from the American Heart Association.",
+        "author": "Wilson WR",
+        "unstructured": "Wilson, WR, Bower, TC, Creager, MA, Amin-Hanjani, S, O’Gara, PT, Lockhart, PB, Darouiche, RO, Ramlawi, B, Derdeyn, CP, Bolger, AF, Levison, ME, Taubert, KA, Baltimore, RS, Baddour, LM; on behalf of the American Heart Association Committee on Rheumatic Fever, Endocarditis, and Kawasaki Disease of the Council on Cardiovascular Disease in the Young, Council on Cardiovascular and Stroke Nursing, Council on Cardiovascular Radiology and Intervention, Council on Cardiovascular Surgery and Anesthesia, Council on Peripheral Vascular Disease, and Stroke Council. Vascular graft infections, mycotic aneurysms, and endovascular infections: a scientific statement from the American Heart Association. Circulation. In press.",
+        "journal-title": "Circulation"
+      },
+      {
+        "key": "e_1_3_2_324_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/324369"
+      },
+      {
+        "key": "e_1_3_2_325_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11908-001-0068-6"
+      },
+      {
+        "key": "e_1_3_2_326_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/420939"
+      },
+      {
+        "key": "e_1_3_2_327_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/321814"
+      },
+      {
+        "key": "e_1_3_2_328_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14219/jada.archive.2009.0046"
+      },
+      {
+        "key": "e_1_3_2_329_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.112.115204"
+      }
+    ],
+    "updated-by": [
+      {
+        "DOI": "10.1161/cir.0000000000000427",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              23
+            ]
+          ],
+          "date-time": "2016-08-23T00:00:00Z",
+          "timestamp": 1471910400000
+        }
+      },
+      {
+        "DOI": "10.1161/cir.0000000000000332",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2015,
+              10,
+              27
+            ]
+          ],
+          "date-time": "2015-10-27T00:00:00Z",
+          "timestamp": 1445904000000
+        }
+      },
+      {
+        "DOI": "10.1161/cir.0000000000000594",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              30
+            ]
+          ],
+          "date-time": "2018-07-30T00:00:00Z",
+          "timestamp": 1532908800000
+        }
+      }
+    ],
+    "container-title": [
+      "Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000296",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          12
+        ]
+      ],
+      "date-time": "2024-05-12T20:14:49Z",
+      "timestamp": 1715544889000
+    },
+    "score": 83.71315,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000296"
+      }
+    },
+    "subtitle": [
+      "A Scientific Statement for Healthcare Professionals From the American Heart Association"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          13
+        ]
+      ]
+    },
+    "references-count": 328,
+    "journal-issue": {
+      "issue": "15",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            10,
+            13
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/CIR.0000000000000296"
+    ],
+    "URL": "https://doi.org/10.1161/cir.0000000000000296",
+    "relation": {
+      "has-review": [
+        {
+          "id-type": "doi",
+          "id": "10.3410/f.725792216.793546273",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "0009-7322",
+      "1524-4539"
+    ],
+    "issn-type": [
+      {
+        "value": "0009-7322",
+        "type": "print"
+      },
+      {
+        "value": "1524-4539",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          13
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2015-09-15",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          30
+        ]
+      ],
+      "date-time": "2026-06-30T17:13:01Z",
+      "timestamp": 1782839581932,
+      "version": "3.54.5"
+    },
+    "reference-count": 163,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "15",
+    "content-domain": {
+      "domain": [
+        "www.ahajournals.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Circulation"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          13
+        ]
+      ]
+    },
+    "DOI": "10.1161/cir.0000000000000298",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2015-09-16T02:09:22Z",
+      "timestamp": 1442369362000
+    },
+    "page": "1487-1515",
+    "update-policy": "https://doi.org/10.1161/crossmarkpolicy",
+    "source": "Crossref",
+    "is-referenced-by-count": 349,
+    "title": [
+      "Infective Endocarditis in Childhood: 2015 Update"
+    ],
+    "prefix": "10.1161",
+    "volume": "132",
+    "author": [
+      {
+        "given": "Robert S.",
+        "family": "Baltimore",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Gewitz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Larry M.",
+        "family": "Baddour",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lee B.",
+        "family": "Beerman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mary Anne",
+        "family": "Jackson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter B.",
+        "family": "Lockhart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Elfriede",
+        "family": "Pahl",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gordon E.",
+        "family": "Schutze",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Stanford T.",
+        "family": "Shulman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "suffix": "Jr",
+        "given": "Rodney",
+        "family": "Willoughby",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "e_1_3_2_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.cir.0000013073.22415.90"
+      },
+      {
+        "key": "e_1_3_2_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.105.165563"
+      },
+      {
+        "key": "e_1_3_2_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.106.183095"
+      },
+      {
+        "key": "e_1_3_2_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-8703(84)90283-7"
+      },
+      {
+        "key": "e_1_3_2_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ahj.2012.03.002"
+      },
+      {
+        "key": "e_1_3_2_7_2",
+        "volume-title": "Pediatric Infectious Diseases: Principles and Practice",
+        "author": "Baltimore RS",
+        "year": "2002",
+        "unstructured": "Baltimore RS. Infective endocarditis. In: , Jenson HB, Baltimore RS Pediatric Infectious Diseases: Principles and Practice. 2nd ed. Philadelphia, PA: Saunders; 2002.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_2_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.113.001827"
+      },
+      {
+        "key": "e_1_3_2_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00246-010-9709-6"
+      },
+      {
+        "key": "e_1_3_2_10_2",
+        "first-page": "313",
+        "volume-title": "Infective Endocarditis",
+        "author": "Stull TL",
+        "year": "1992",
+        "unstructured": "Stull TL, LiPuma JJ. Endocarditis in children. In: , Kaye D Infective Endocarditis. 2nd ed. New York, NY: Raven Press; 1992:313–327.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_2_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-3476(09)90006-3"
+      },
+      {
+        "key": "e_1_3_2_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clind/24.4.669"
+      },
+      {
+        "key": "e_1_3_2_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.279.8.599"
+      },
+      {
+        "key": "e_1_3_2_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/515021"
+      },
+      {
+        "key": "e_1_3_2_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1542/pir.26.11.394"
+      },
+      {
+        "key": "e_1_3_2_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00246-008-9276-2"
+      },
+      {
+        "key": "e_1_3_2_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jtcvs.2012.12.001"
+      },
+      {
+        "key": "e_1_3_2_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ijcard.2010.11.016"
+      },
+      {
+        "key": "e_1_3_2_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.athoracsur.2013.02.031"
+      },
+      {
+        "key": "e_1_3_2_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjcard.2011.12.031"
+      },
+      {
+        "key": "e_1_3_2_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/INF.0b013e31823c3ec1"
+      },
+      {
+        "key": "e_1_3_2_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1542/peds.2005-2498"
+      },
+      {
+        "key": "e_1_3_2_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.107.754069"
+      },
+      {
+        "key": "e_1_3_2_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.111.024521"
+      },
+      {
+        "key": "e_1_3_2_25_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.108.798751"
+      },
+      {
+        "key": "e_1_3_2_26_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1440-1754.1999.00412.x"
+      },
+      {
+        "key": "e_1_3_2_27_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/000992289803701206"
+      },
+      {
+        "key": "e_1_3_2_28_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0095-5108(18)30696-1"
+      },
+      {
+        "key": "e_1_3_2_29_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1542/peds.71.3.392"
+      },
+      {
+        "key": "e_1_3_2_30_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-3476(77)80653-7"
+      },
+      {
+        "key": "e_1_3_2_31_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/jir666"
+      },
+      {
+        "key": "e_1_3_2_32_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nrcardio.2011.43"
+      },
+      {
+        "key": "e_1_3_2_33_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1146/annurev.mi.48.100194.003101"
+      },
+      {
+        "key": "e_1_3_2_34_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/IAI.70.1.422-425.2002"
+      },
+      {
+        "key": "e_1_3_2_35_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/322972"
+      },
+      {
+        "key": "e_1_3_2_36_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1399-302X.2008.00493.x"
+      },
+      {
+        "key": "e_1_3_2_37_2",
+        "first-page": "182",
+        "article-title": "Bacterial composition in the supragingival plaques of children with and without dental caries.",
+        "volume": "51",
+        "author": "Rozkiewicz D",
+        "year": "2006",
+        "unstructured": "Rozkiewicz D, Daniluk T, Zaremba ML, Cylwik-Rokicka D, Luczaj-Cepowicz E, Milewska R, Marczuk-Kolada G, Stokowska W. Bacterial composition in the supragingival plaques of children with and without dental caries. Adv Med Sci. 2006;51(suppl 1):182–186.",
+        "journal-title": "Adv Med Sci"
+      },
+      {
+        "key": "e_1_3_2_38_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/07853890009011759"
+      },
+      {
+        "key": "e_1_3_2_39_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1601-0825.1999.tb00090.x"
+      },
+      {
+        "key": "e_1_3_2_40_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1600-0528.2003.00112.x"
+      },
+      {
+        "key": "e_1_3_2_41_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1542/peds.71.4.554"
+      },
+      {
+        "key": "e_1_3_2_42_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.53.4.676"
+      },
+      {
+        "key": "e_1_3_2_43_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s002469900103"
+      },
+      {
+        "key": "e_1_3_2_44_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s002469900477"
+      },
+      {
+        "key": "e_1_3_2_45_2",
+        "first-page": "28",
+        "article-title": "Bacteremia of dental origin and antimicrobial sensitivity following oral surgical procedures in children.",
+        "volume": "20",
+        "author": "Roberts GJ",
+        "year": "1998",
+        "unstructured": "Roberts GJ, Watts R, Longhurst P, Gardner P. Bacteremia of dental origin and antimicrobial sensitivity following oral surgical procedures in children. Pediatr Dent. 1998;20:28–36.",
+        "journal-title": "Pediatr Dent"
+      },
+      {
+        "key": "e_1_3_2_46_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.0000129303.90488.29"
+      },
+      {
+        "key": "e_1_3_2_47_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1399-302X.2008.00492.x"
+      },
+      {
+        "key": "e_1_3_2_48_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jdent.2008.03.005"
+      },
+      {
+        "key": "e_1_3_2_49_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/516663"
+      },
+      {
+        "key": "e_1_3_2_50_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/00220345900690101201"
+      },
+      {
+        "key": "e_1_3_2_51_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1542/peds.51.3.476"
+      },
+      {
+        "key": "e_1_3_2_52_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/sj.bdj.4800399"
+      },
+      {
+        "key": "e_1_3_2_53_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ejo/24.3.293"
+      },
+      {
+        "key": "e_1_3_2_54_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1747-0803.2006.00039.x"
+      },
+      {
+        "key": "e_1_3_2_55_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14219/jada.archive.2007.0025"
+      },
+      {
+        "key": "e_1_3_2_56_2",
+        "first-page": "295",
+        "article-title": "Transient bacteremia induced by toothbrushing: a comparison of the Sonicare toothbrush with a conventional toothbrush.",
+        "volume": "24",
+        "author": "Bhanji S",
+        "year": "2002",
+        "unstructured": "Bhanji S, Williams B, Sheller B, Elwood T, Mancl L. Transient bacteremia induced by toothbrushing: a comparison of the Sonicare toothbrush with a conventional toothbrush. Pediatr Dent. 2002;24:295–299.",
+        "journal-title": "Pediatr Dent"
+      },
+      {
+        "key": "e_1_3_2_57_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/hrt.2004.046581"
+      },
+      {
+        "key": "e_1_3_2_58_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.40.9.3416-3420.2002"
+      },
+      {
+        "key": "e_1_3_2_59_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1177/000992287501400609"
+      },
+      {
+        "key": "e_1_3_2_60_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/infdis/147.1.133"
+      },
+      {
+        "key": "e_1_3_2_61_2",
+        "first-page": "406",
+        "article-title": "Transient bacteremia in pediatric patients after dental extraction.",
+        "volume": "130",
+        "author": "Speck WT",
+        "year": "1976",
+        "unstructured": "Speck WT, Spear SS, Krongrad E, Mandel L, Gersony WM. Transient bacteremia in pediatric patients after dental extraction. Am J Dis Child. 1976;130:406–407.",
+        "journal-title": "Am J Dis Child"
+      },
+      {
+        "key": "e_1_3_2_62_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0030-4220(74)90157-1"
+      },
+      {
+        "key": "e_1_3_2_63_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0030-4220(71)90175-7"
+      },
+      {
+        "key": "e_1_3_2_64_2",
+        "first-page": "286",
+        "article-title": "Transient bacteremia in pediatric patients following dental manipulation.",
+        "volume": "121",
+        "author": "Speck WT",
+        "year": "1971",
+        "unstructured": "Speck WT, Hurwitz GA, Keller GB. Transient bacteremia in pediatric patients following dental manipulation. Am J Dis Child. 1971;121:286–288.",
+        "journal-title": "Am J Dis Child"
+      },
+      {
+        "key": "e_1_3_2_65_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/sj.bdj.4809795"
+      },
+      {
+        "key": "e_1_3_2_66_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/sj.bdj.4806069"
+      },
+      {
+        "key": "e_1_3_2_67_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.14219/jada.archive.2009.0046"
+      },
+      {
+        "key": "e_1_3_2_68_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1990.03450220085028"
+      },
+      {
+        "key": "e_1_3_2_69_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.107.758524"
+      },
+      {
+        "key": "e_1_3_2_70_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.96.1.358"
+      },
+      {
+        "key": "e_1_3_2_71_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1600-051X.2006.00924.x"
+      },
+      {
+        "key": "e_1_3_2_72_2",
+        "unstructured": "National Institute for Health and Clinical Excellence. Prophylaxis against infective endocarditis: antimicrobial prophylaxis against infective endocarditis in adults and children undergoing interventional procedures. 2008. http://www.nice.org.uk/CG064. Accessed September 4 2015."
+      },
+      {
+        "key": "e_1_3_2_73_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/bmj.d2392"
+      },
+      {
+        "key": "e_1_3_2_74_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/circ.124.suppl_21.A12225"
+      },
+      {
+        "key": "e_1_3_2_75_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9343(94)90143-0"
+      },
+      {
+        "key": "e_1_3_2_76_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/313753"
+      },
+      {
+        "key": "e_1_3_2_77_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/INF.0b013e31816b78c8"
+      },
+      {
+        "key": "e_1_3_2_78_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00006454-199512000-00010"
+      },
+      {
+        "key": "e_1_3_2_79_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1542/peds.112.6.e467"
+      },
+      {
+        "key": "e_1_3_2_80_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S1684-1182(10)60066-7"
+      },
+      {
+        "key": "e_1_3_2_81_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pcad.2007.08.002"
+      },
+      {
+        "key": "e_1_3_2_82_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.51.4.581"
+      },
+      {
+        "key": "e_1_3_2_83_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1600-0765.1998.tb02291.x"
+      },
+      {
+        "key": "e_1_3_2_84_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/iai.29.3.1013-1020.1980"
+      },
+      {
+        "key": "e_1_3_2_85_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/INF.0b013e3181690374"
+      },
+      {
+        "key": "e_1_3_2_86_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1155/2008/867342"
+      },
+      {
+        "key": "e_1_3_2_87_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJM199204303261809"
+      },
+      {
+        "key": "e_1_3_2_88_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1574-695X.2006.00054.x"
+      },
+      {
+        "key": "e_1_3_2_89_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/375592"
+      },
+      {
+        "key": "e_1_3_2_90_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/653675"
+      },
+      {
+        "key": "e_1_3_2_91_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10096-008-0672-6"
+      },
+      {
+        "key": "e_1_3_2_92_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jinf.2011.04.010"
+      },
+      {
+        "key": "e_1_3_2_93_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/MD.0b013e31811f44ec"
+      },
+      {
+        "key": "e_1_3_2_94_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/JCM.41.2.763-766.2003"
+      },
+      {
+        "key": "e_1_3_2_95_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3109/00365548.2011.598877"
+      },
+      {
+        "key": "e_1_3_2_96_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1198-743X.2004.00821.x"
+      },
+      {
+        "key": "e_1_3_2_97_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/qjmed/hcq113"
+      },
+      {
+        "key": "e_1_3_2_98_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1600-0463.2008.00942.x"
+      },
+      {
+        "key": "e_1_3_2_99_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0002-8703(96)90479-2"
+      },
+      {
+        "key": "e_1_3_2_100_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2012.12.041"
+      },
+      {
+        "key": "e_1_3_2_101_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jacc.2013.01.016"
+      },
+      {
+        "key": "e_1_3_2_102_2",
+        "first-page": "487",
+        "article-title": "Pacemaker endocarditis viewed via intracardiac ultrasonography.",
+        "volume": "35",
+        "author": "Prakash S",
+        "year": "2008",
+        "unstructured": "Prakash S, Bredikis A. Pacemaker endocarditis viewed via intracardiac ultrasonography. Tex Heart Inst J. 2008;35:487–488.",
+        "journal-title": "Tex Heart Inst J"
+      },
+      {
+        "key": "e_1_3_2_103_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.98.25.2936"
+      },
+      {
+        "key": "e_1_3_2_104_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.echo.2009.12.017"
+      },
+      {
+        "key": "e_1_3_2_105_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/INF.0b013e31822d320b"
+      },
+      {
+        "key": "e_1_3_2_106_2",
+        "first-page": "44",
+        "article-title": "Experimental bacterial endocarditis, I: colonization of a sterile vegetation.",
+        "volume": "53",
+        "author": "Durack DT",
+        "year": "1972",
+        "unstructured": "Durack DT, Beeson PB. Experimental bacterial endocarditis, I: colonization of a sterile vegetation. Br J Exp Pathol. 1972;53:44–49.",
+        "journal-title": "Br J Exp Pathol"
+      },
+      {
+        "key": "e_1_3_2_107_2",
+        "first-page": "50",
+        "article-title": "Experimental bacterial endocarditis, II: survival of a bacteria in endocardial vegetations.",
+        "volume": "53",
+        "author": "Durack DT",
+        "year": "1972",
+        "unstructured": "Durack DT, Beeson PB. Experimental bacterial endocarditis, II: survival of a bacteria in endocardial vegetations. Br J Exp Pathol. 1972;53:50–53.",
+        "journal-title": "Br J Exp Pathol"
+      },
+      {
+        "key": "e_1_3_2_108_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1542/peds.2004-1152"
+      },
+      {
+        "key": "e_1_3_2_109_2",
+        "first-page": "423",
+        "volume-title": "Infective Endocarditis",
+        "author": "Santoro J",
+        "year": "1992",
+        "unstructured": "Santoro J, Ingerman M. Response to therapy: relapses and reinfections. In: , Kaye D Infective Endocarditis. 2nd ed. New York, NY: Raven Press; 1992:423–434.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_2_110_2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Baddour LM Wilson WR Bayer AS Fowler VG Tleyjeh IM Rybak MJ Barsic B Lockhart PB Gewitz MH Levison ME Bolger AF Steckelberg JM Baltimore RS Fink AM O’Gara P Taubert KA; on behalf of the American Heart Association Committee on Rheumatic Fever Endocarditis and Kawasaki Disease of the Council on Cardiovascular Disease in the Young Council on Clinical Cardiology Council on Cardiovascular Surgery and Anesthesia and Stroke Council. Infective endocarditis in adults: diagnosis antimicrobial therapy and management of complications: a scientific statement for healthcare professionals from the American Heart Association [published online ahead of print September 14 2015]. Circulation. doi: 10.1161/CIR.0000000000000296.",
+        "DOI": "10.1161/CIR.0000000000000296"
+      },
+      {
+        "key": "e_1_3_2_111_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ejcts.2008.08.020"
+      },
+      {
+        "key": "e_1_3_2_112_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.arcped.2010.03.019"
+      },
+      {
+        "key": "e_1_3_2_113_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1979.03290430019016"
+      },
+      {
+        "key": "e_1_3_2_114_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1992.03480020074034"
+      },
+      {
+        "key": "e_1_3_2_115_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1981.03310290028017"
+      },
+      {
+        "key": "e_1_3_2_116_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/515038"
+      },
+      {
+        "key": "e_1_3_2_117_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00365549850161458"
+      },
+      {
+        "key": "e_1_3_2_118_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/516279"
+      },
+      {
+        "key": "e_1_3_2_119_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00005792-200009000-00006"
+      },
+      {
+        "key": "e_1_3_2_120_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/383323"
+      },
+      {
+        "key": "e_1_3_2_121_2",
+        "first-page": "209",
+        "volume-title": "Infective Endocarditis",
+        "author": "Eliopoulos GM",
+        "year": "1992",
+        "unstructured": "Eliopoulos GM. Enterococcal endocarditis. In: , Kaye D Infective Endocarditis. 2nd ed. New York, NY: Raven Press; 1992:209–224.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_2_122_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0891-5520(20)30509-2"
+      },
+      {
+        "key": "e_1_3_2_123_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/jama.1995.03530210060032"
+      },
+      {
+        "key": "e_1_3_2_124_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-146-8-200704170-00008"
+      },
+      {
+        "key": "e_1_3_2_125_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/cid/cit052"
+      },
+      {
+        "key": "e_1_3_2_126_2",
+        "first-page": "225",
+        "volume-title": "Infective Endocarditis",
+        "author": "Karchmer AW",
+        "year": "1992",
+        "unstructured": "Karchmer AW. Staphylococcal endocarditis. In: , Kaye D Infective Endocarditis. 2nd ed. New York, NY: Raven Press; 1992:225–250.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_2_127_2",
+        "first-page": "213",
+        "volume-title": "Infections Associated With Indwelling Medical Devices",
+        "author": "Karchmer AW",
+        "year": "1994",
+        "unstructured": "Karchmer AW, Gibbons GW. Infection of prosthetic heart valves and vascular grafts. In: , Bisno AL, Waldvogel FA Infections Associated With Indwelling Medical Devices. 2nd ed. Washington, DC: American Society for Microbiology; 1994: 213–249.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_2_128_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/adc.76.1.68"
+      },
+      {
+        "key": "e_1_3_2_129_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1086/516378"
+      },
+      {
+        "key": "e_1_3_2_130_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archpedi.1984.02140460012006"
+      },
+      {
+        "key": "e_1_3_2_131_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/1010-7940(94)90083-3"
+      },
+      {
+        "key": "e_1_3_2_132_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.108.3.688"
+      },
+      {
+        "key": "e_1_3_2_133_2",
+        "first-page": "145",
+        "article-title": "Symposium on infective endocarditis, III: endocarditis due to gram-negative bacteria: report of 56 cases.",
+        "volume": "57",
+        "author": "Geraci JE",
+        "year": "1982",
+        "unstructured": "Geraci JE, Wilson WR. Symposium on infective endocarditis, III: endocarditis due to gram-negative bacteria: report of 56 cases. Mayo Clin Proc. 1982;57:145–148.",
+        "journal-title": "Mayo Clin Proc"
+      },
+      {
+        "key": "e_1_3_2_134_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0025-6196(11)64350-4"
+      },
+      {
+        "key": "e_1_3_2_135_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00019048-199407000-00004"
+      },
+      {
+        "key": "e_1_3_2_136_2",
+        "first-page": "223",
+        "article-title": "Cardiac valve replacement in congestive heart failure due to infective endocarditis.",
+        "volume": "54",
+        "author": "Wilson WR",
+        "year": "1979",
+        "unstructured": "Wilson WR, Danielson GK, Giuliani ER, Washington JA, Jaumin PM, Geraci JE. Cardiac valve replacement in congestive heart failure due to infective endocarditis. Mayo Clin Proc. 1979;54:223–226.",
+        "journal-title": "Mayo Clin Proc"
+      },
+      {
+        "key": "e_1_3_2_137_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/01.CIR.58.4.589"
+      },
+      {
+        "key": "e_1_3_2_138_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0033-0620(79)90020-3"
+      },
+      {
+        "key": "e_1_3_2_139_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-9149(83)90203-5"
+      },
+      {
+        "key": "e_1_3_2_140_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1378/chest.96.6.1273"
+      },
+      {
+        "key": "e_1_3_2_141_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S1047951103000313"
+      },
+      {
+        "key": "e_1_3_2_142_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/13.1.127"
+      },
+      {
+        "key": "e_1_3_2_143_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1055/s-2007-1019985"
+      },
+      {
+        "key": "e_1_3_2_144_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0003-4975(95)00350-9"
+      },
+      {
+        "key": "e_1_3_2_145_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.7326/0003-4819-71-1-21"
+      },
+      {
+        "key": "e_1_3_2_146_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.pediatrneurol.2007.12.009"
+      },
+      {
+        "key": "e_1_3_2_147_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1136/hrt.2004.043323"
+      },
+      {
+        "key": "e_1_3_2_148_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0735-1097(89)90104-6"
+      },
+      {
+        "key": "e_1_3_2_149_2",
+        "first-page": "237",
+        "article-title": "Predictors of embolic events in pediatric infective endocarditis.",
+        "volume": "63",
+        "author": "Saxena A",
+        "year": "2011",
+        "unstructured": "Saxena A, Aggarwal N, Gupta P, Juneja R, Kothari SS, Math R. Predictors of embolic events in pediatric infective endocarditis. Indian Heart J. 2011;63:237–240.",
+        "journal-title": "Indian Heart J"
+      },
+      {
+        "key": "e_1_3_2_150_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0894-7317(14)80380-5"
+      },
+      {
+        "key": "e_1_3_2_151_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0002-8703(94)90752-8"
+      },
+      {
+        "key": "e_1_3_2_152_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.amjcard.2007.07.054"
+      },
+      {
+        "key": "e_1_3_2_153_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1112843"
+      },
+      {
+        "key": "e_1_3_2_154_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1001/archinternmed.2009.192"
+      },
+      {
+        "key": "e_1_3_2_155_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0735-1097(02)01790-4"
+      },
+      {
+        "key": "e_1_3_2_156_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ehj/9.1.43"
+      },
+      {
+        "key": "e_1_3_2_157_2",
+        "first-page": "397",
+        "volume-title": "Infective Endocarditis",
+        "author": "Douglas JL",
+        "year": "1992",
+        "unstructured": "Douglas JL, Dismukes WE. Surgical therapy of infective endocarditis on natural valves. In: , Kaye D Infective Endocarditis. 2nd ed. New York, NY: Raven Press; 1992:397–412.",
+        "edition": "2"
+      },
+      {
+        "key": "e_1_3_2_158_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0003-4975(92)91023-3"
+      },
+      {
+        "key": "e_1_3_2_159_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinids/14.4.852"
+      },
+      {
+        "key": "e_1_3_2_160_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ejcts.2005.03.017"
+      },
+      {
+        "key": "e_1_3_2_161_2",
+        "first-page": "73",
+        "article-title": "The Ross procedure as the surgical treatment of active aortic valve endocarditis.",
+        "volume": "13",
+        "author": "Birk E",
+        "year": "2004",
+        "unstructured": "Birk E, Sharoni E, Dagan O, Gelber O, Georghiou GP, Vidne BA, Erez E. The Ross procedure as the surgical treatment of active aortic valve endocarditis. J Heart Valve Dis. 2004;13:73–77.",
+        "journal-title": "J Heart Valve Dis"
+      },
+      {
+        "key": "e_1_3_2_162_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.mayocp.2012.02.023"
+      },
+      {
+        "key": "e_1_3_2_163_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1161/CIRCULATIONAHA.109.864488"
+      },
+      {
+        "key": "e_1_3_2_164_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/eurheartj/ehp008"
+      }
+    ],
+    "container-title": [
+      "Circulation"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000298",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          13
+        ]
+      ],
+      "date-time": "2024-05-13T00:14:41Z",
+      "timestamp": 1715559281000
+    },
+    "score": 67.501945,
+    "resource": {
+      "primary": {
+        "URL": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000000298"
+      }
+    },
+    "subtitle": [
+      "A Scientific Statement From the American Heart Association"
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          13
+        ]
+      ]
+    },
+    "references-count": 163,
+    "journal-issue": {
+      "issue": "15",
+      "published-print": {
+        "date-parts": [
+          [
+            2015,
+            10,
+            13
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1161/CIR.0000000000000298"
+    ],
+    "URL": "https://doi.org/10.1161/cir.0000000000000298",
+    "ISSN": [
+      "0009-7322",
+      "1524-4539"
+    ],
+    "issn-type": [
+      {
+        "value": "0009-7322",
+        "type": "print"
+      },
+      {
+        "value": "1524-4539",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          13
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2015-09-15",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+]

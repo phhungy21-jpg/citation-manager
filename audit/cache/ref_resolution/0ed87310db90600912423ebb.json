@@ -1,0 +1,2698 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          28
+        ]
+      ],
+      "date-time": "2025-03-28T02:30:27Z",
+      "timestamp": 1743129027465,
+      "version": "3.40.3"
+    },
+    "publisher-location": "London",
+    "reference-count": 78,
+    "publisher": "Springer London",
+    "isbn-type": [
+      {
+        "type": "print",
+        "value": "9781848827998"
+      },
+      {
+        "type": "electronic",
+        "value": "9781848828001"
+      }
+    ],
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2011-01-01T00:00:00Z",
+          "timestamp": 1293840000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2011-01-01T00:00:00Z",
+          "timestamp": 1293840000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-1-84882-800-1_20",
+    "type": "book-chapter",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          8,
+          30
+        ]
+      ],
+      "date-time": "2011-08-30T11:13:44Z",
+      "timestamp": 1314702824000
+    },
+    "page": "215-230",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Management of Positive Surgical Margins Following Radical Prostatectomy"
+    ],
+    "prefix": "10.1007",
+    "author": [
+      {
+        "given": "Miguel",
+        "family": "Srougi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rafael Ferreira",
+        "family": "Coelho",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Vipul R.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "20_CR1_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "225",
+        "DOI": "10.3322/caac.20006",
+        "volume": "59",
+        "author": "A Jemal",
+        "year": "2009",
+        "unstructured": "Jemal A, Siegel R, Ward E, Hao Y, Xu J, Thum MJ. Cancer statistics, 2009. CA Cancer J Clin. 2009;59:225-249.",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "key": "20_CR2_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "903",
+        "DOI": "10.1097/01.ju.0000169475.00949.78",
+        "volume": "174",
+        "author": "P Swindle",
+        "year": "2005",
+        "unstructured": "Swindle P, Eastham JA, Ohori M, et al. Do margins matter? The prognostic significance of positive surgical margins in radical prostatectomy specimens. J Urol. 2005;174:903-907.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR3_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "299",
+        "DOI": "10.1016/S0022-5347(01)62881-7",
+        "volume": "160",
+        "author": "JA Wieder",
+        "year": "1998",
+        "unstructured": "Wieder JA, Soloway MS. Incidence, etiology, location, prevention and treatment of positive surgical margins after radical prostatectomy for prostate cancer. J Urol. 1998;160:299-315.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR4_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1610",
+        "DOI": "10.1111/j.1464-410X.2009.08688.x",
+        "volume": "104",
+        "author": "G Godoy",
+        "year": "2009",
+        "unstructured": "Godoy G, Tareen BU, Lepor H. Site of positive surgical margins influences biochemical recurrence after radical prostatectomy. BJU Int. 2009;104:1610-1614.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "20_CR5_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "965",
+        "DOI": "10.1016/j.urology.2007.08.040",
+        "volume": "70",
+        "author": "JA Eastham",
+        "year": "2007",
+        "unstructured": "Eastham JA, Kuriowa K, Ohori M, et al. Prognostic significance of location of positive margins in radical prostatectomy specimens. Urology. 2007;70:965-969.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR6_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "23",
+        "DOI": "10.1097/01.ju.0000098604.09395.27",
+        "volume": "171",
+        "author": "M Han",
+        "year": "2004",
+        "unstructured": "Han M, Partin AW, Chan DY, Walsh PC. An evaluation of decreasing incidence of positive surgical margins in a large retropubic prostatectomy series. J Urol. 2004;171:23-26.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR7_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "2292",
+        "DOI": "10.1097/01.ju.0000091100.83725.51",
+        "volume": "170",
+        "author": "JA Eastham",
+        "year": "2003",
+        "unstructured": "Eastham JA, Kattan MW, Riedel E, et al. Variations among individual surgeons in the rate of positive surgical margins in radical prostatectomy specimens. J Urol. 2003;170:2292-2295.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR8_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1257",
+        "DOI": "10.1016/j.juro.2009.07.071",
+        "volume": "182",
+        "author": "ME Nielsen",
+        "year": "2009",
+        "unstructured": "Nielsen ME. How bad are positive margins after radical prostatectomy and how are they best managed? J Urol. 2009;182:1257-1258.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR9_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1357",
+        "DOI": "10.1016/j.juro.2009.06.046",
+        "volume": "182",
+        "author": "AJ Stephenson",
+        "year": "2009",
+        "unstructured": "Stephenson AJ, Wood DP, Kattan MW, et al. Location, extent and number of positive surgical margins do not improve accuracy of predicting prostate cancer recurrence after radical prostatectomy. J Urol. 2009;182:1357-1363.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR10_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1951",
+        "DOI": "10.1002/cncr.23027",
+        "volume": "110",
+        "author": "KK Badani",
+        "year": "2007",
+        "unstructured": "Badani KK, Kaul S, Menon M. Evolution of robotic radical prostatectomy: assessment after 2766 procedures. Cancer. 2007;110:1951-1958.",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "20_CR11_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "241",
+        "DOI": "10.1016/S0022-5347(01)65336-9",
+        "volume": "157",
+        "author": "JI Epstein",
+        "year": "1997",
+        "unstructured": "Epstein JI, Sauvageot J. Does close but negative margins in radical prostatectomy specimens increase the risk of postoperative progression. J Urol. 1997;157:241-243.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR12_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "103",
+        "DOI": "10.1016/S0140-6736(02)09408-4",
+        "volume": "360",
+        "author": "M Bolla",
+        "year": "2002",
+        "unstructured": "Bolla M, Collette L, Blank L, et al. Long-term results with immediate androgen suppression and external irradiation in patients with locally advanced prostate cancer (an EORTC study): a phase III randomized trial. Lancet. 2002;360:103-106.",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "20_CR13_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "87",
+        "DOI": "10.1016/j.eururo.2008.09.051",
+        "volume": "55",
+        "author": "O Yossepowitch",
+        "year": "2009",
+        "unstructured": "Yossepowitch O, Bjartell A, Eastham JA, et al. Positive surgical margins in radical prostatectomy: outlining the problem and its long-term consequences. Eur Urol. 2009;55:87-99.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "20_CR14_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "445",
+        "DOI": "10.1111/j.1464-410X.2006.05997.x",
+        "volume": "97",
+        "author": "R Thurairaja",
+        "year": "2006",
+        "unstructured": "Thurairaja R, Osborn J, Mc Farlane J, Bahl A, Persad R. Radical prostatectomy with positive margins: how are patients managed. BJU Int. 2006;97:445-450.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "20_CR15_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "292",
+        "DOI": "10.1016/0090-4295(93)90618-K",
+        "volume": "42",
+        "author": "AL Zietman",
+        "year": "1993",
+        "unstructured": "Zietman AL, Coen JJ, Shipley WU, Althausen AF. Adjuvant irradiation after radical prostatectomy for adenocarcinoma of prostate: analysis of freedom from PSA failure. Urology. 1993;42:292-298.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR16_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "139",
+        "DOI": "10.1016/j.juro.2009.02.139",
+        "volume": "182",
+        "author": "S Shikanov",
+        "year": "2009",
+        "unstructured": "Shikanov S, Song J, Royce C, et al. Length of positive surgical margin after radical prostatectomy as a predictor of biochemical recurrence. J Urol. 2009;182:139-144.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR17_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1038/pcan.2009.1",
+        "volume": "12",
+        "author": "KW Kwak",
+        "year": "2009",
+        "unstructured": "Kwak KW, Lee HM, Choi HY. Impact of capsular incision on biochemical recurrence after radical perineal prostatectomy. Prostate Cancer Prostatic Dis. 2009;12:1-9.",
+        "journal-title": "Prostate Cancer Prostatic Dis"
+      },
+      {
+        "key": "20_CR18_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1461",
+        "DOI": "10.1089/end.2009.0144",
+        "volume": "23",
+        "author": "DS Yee",
+        "year": "2009",
+        "unstructured": "Yee DS, Narula N, Amin MB, Skarecky DW, Ahlering TE. Robot-assisted radical prostatectomy: current evaluation of surgical margins in clinically low-, intermediate-, and high-risk prostate cancer. J Endourol. 2009;23:1461-1465.",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "20_CR19_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "386",
+        "DOI": "10.1016/S0090-4295(02)02255-0",
+        "volume": "61",
+        "author": "L Salomon",
+        "year": "2003",
+        "unstructured": "Salomon L, Anastasiadis AG, Levrel O, et al. Location of positive margins after retropubic, perineal and laparoscopic radical prostatectomy for organ-confined prostate cancer. Urology. 2003;61:386-390.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR20_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "176",
+        "DOI": "10.1016/j.eururo.2004.09.002",
+        "volume": "47",
+        "author": "RJ Palisaar",
+        "year": "2005",
+        "unstructured": "Palisaar RJ, Nadus J, Graefen M, Erbersdobler A, Haese H, Huland H. Influence of nerve-sparing (NS) procedure during radical prostatectomy (RP) on margin status and biochemical failure. Eur Urol. 2005;47:176-184.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "20_CR21_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1328",
+        "DOI": "10.1097/01.ju.0000138681.64035.dc",
+        "volume": "172",
+        "author": "JF Ward",
+        "year": "2004",
+        "unstructured": "Ward JF, Zincke H, Bergstralh EJ, Slezak JM, Myers RP, Blute ML. The impact of surgical approach (nerve bundle preservation versus wide local excision) on surgical margins and biochemical recurrence following radical prostatectomy. J Urol. 2004;172:1328-1332.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR22_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1818",
+        "DOI": "10.1016/S0022-5347(01)66792-2",
+        "volume": "154",
+        "author": "M Ohori",
+        "year": "1995",
+        "unstructured": "Ohori M, Wheeler TM, Kattan MW, Goto Y, Scardino PT. Prognostic significance of positive surgical margins in radical prostatectomy specimens. J Urol. 1995;154:1818-1824.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR23_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "746",
+        "DOI": "10.1016/S0090-4295(01)01336-X",
+        "volume": "58",
+        "author": "DA Barrocas",
+        "year": "2001",
+        "unstructured": "Barrocas DA, Han M, Epstein JI, et al. Does capsular incision at retropubic radical prostatectomy affect disease-free survival in otherwise organ-confined prostate cancer? Urology. 2001;58:746-751.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR24_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "543",
+        "DOI": "10.1016/S0022-5347(17)43253-8",
+        "volume": "138",
+        "author": "RP Myers",
+        "year": "1987",
+        "unstructured": "Myers RP, Goellner JR, Cahill DR. Prostate shape, external striated urethral sphincter and radical prostatectomy: the apical dissection. J Urol. 1987;138:543-550.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR25_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "815",
+        "DOI": "10.1016/S0022-5347(05)66534-2",
+        "volume": "165",
+        "author": "M Srougi",
+        "year": "2001",
+        "unstructured": "Srougi M, Nesrallah LJ, Kauffmann JR, Nesrallah A, Leite KRM. Urinary continence and pathological outcome after bladder neck preservation during radical retropubic prostatectomy: a randomized prospective trial. J Urol. 2001;165:815-818.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR26_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "315",
+        "DOI": "10.1097/00000478-199204000-00001",
+        "volume": "16",
+        "author": "GS Hall",
+        "year": "1992",
+        "unstructured": "Hall GS, Kramer CE, Epstein JI. Evaluation of radical prostatectomy specimens. A comparative analysis of sampling methods. Am J Surg Pathol. 1992;16:315-324.",
+        "journal-title": "Am J Surg Pathol"
+      },
+      {
+        "key": "20_CR27_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1287",
+        "DOI": "10.1016/j.urology.2005.06.073",
+        "volume": "66",
+        "author": "T Tsuboi",
+        "year": "2005",
+        "unstructured": "Tsuboi T, Ohori M, Kuroiwa K, et al. Is intraoperative frozen section analysis an efficient way to reduce positive surgical margins? Urology. 2005;66:1287.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR28_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1150",
+        "DOI": "10.1097/01.ju.0000155158.79489.48",
+        "volume": "173",
+        "author": "SE Eggener",
+        "year": "2005",
+        "unstructured": "Eggener SE, Roehl KA, Smith ND, Antenor JA, Han M, Catalona WJ. Contemporary survival results and the role of radiation therapy in patients with negative seminal vesicle invasion following radical prostatectomy. J Urol. 2005;173:1150-1155.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR29_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "80",
+        "DOI": "10.1016/S0090-4295(96)00092-1",
+        "volume": "40",
+        "author": "RB Watson",
+        "year": "1996",
+        "unstructured": "Watson RB, Civantos F, Soloway MS. Positive surgical margins with radical prostatectomy: detailed pathological analysis and prognosis. Urology. 1996;40:80-90.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR30_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "446",
+        "DOI": "10.1097/01.ju.0000151135.80249.c9",
+        "volume": "173",
+        "author": "DJ Hernandez",
+        "year": "2005",
+        "unstructured": "Hernandez DJ, Epstein JI, Trock BJ, Tsuzuki T, Carter HB, Walsh PC. Radical retropubic prostatectomy. How often do experienced surgeons have positive margins when there is extraprostatic extension in the region of the neurovascular bundle? J Urol. 2005;173:446-449.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR31_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "258",
+        "DOI": "10.1016/j.eururo.2005.11.030",
+        "volume": "50",
+        "author": "AN Vis",
+        "year": "2006",
+        "unstructured": "Vis AN, Schroeder FH, Van der Kwast TH. The actual value of the surgical margins status as a predictor of disease progression in men with early prostate cancer. Eur Urol. 2006;50:258-265.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "20_CR32_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1090",
+        "DOI": "10.1016/j.eururo.2006.12.014",
+        "volume": "52",
+        "author": "K Touijer",
+        "year": "2007",
+        "unstructured": "Touijer K, Kuroiwa K, Eastham JA, et al. Risk-adjusted analysis of positive surgical margins following laparoscopic and retropubic radical prostatectomy. Eur Urol. 2007;52:1090-1096.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "20_CR33_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1383",
+        "DOI": "10.1016/S0022-5347(01)62543-6",
+        "volume": "160",
+        "author": "L Boccon-Gibod",
+        "year": "1998",
+        "unstructured": "Boccon-Gibod L, Rovery V, Vordos D, Toublanc M, Delmas V, Boccon-Gibod L. Radical prostatectomy for prostate cancer: the perineal approach increases the risk of surgically induced positive margins and capsular incisions. J Urol. 1998;160:1383-1385.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR34_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "482",
+        "DOI": "10.1016/S0090-4295(03)00387-X",
+        "volume": "62",
+        "author": "JA Brown",
+        "year": "2003",
+        "unstructured": "Brown JA, Garlitz C, Gomella LG, et al. Pathologic comparison of laparoscopic versus open radical retropubic prostatectomy specimens. Urology. 2003;62:482-486.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR35_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "285",
+        "DOI": "10.1038/sj.pcan.4500605",
+        "volume": "5",
+        "author": "L Salomon",
+        "year": "2002",
+        "unstructured": "Salomon L, Anastasiadis AG, Levrel O, et al. Outcome and complications of radical prostatectomy in patients with PSA  <  10 ng/ml: comparison between the retropubic, perineal and laparoscopic approach. Prostate Cancer Prostatic Dis. 2002;5:285-290.",
+        "journal-title": "Prostate Cancer Prostatic Dis"
+      },
+      {
+        "key": "20_CR36_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1853",
+        "DOI": "10.1200/JCO.2002.07.069",
+        "volume": "20",
+        "author": "M Sofer",
+        "year": "2002",
+        "unstructured": "Sofer M, Hamilton-Nelson KL, Schlesselman J, Soloway MS. Risk of positive margins and biochemical recurrence in relation to nerve-sparing radical prostatectomy. J Clin Oncol. 2002;20:1853-1858.",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "20_CR37_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "379",
+        "DOI": "10.1016/S0094-0143(05)70384-0",
+        "volume": "24",
+        "author": "MA Rees",
+        "year": "1997",
+        "unstructured": "Rees MA, Resnick MI, Oesterling JE. Use of prostate-specific antigen, Gleason score, and digital rectal examination in staging patients with newly diagnosed prostate cancer. Urol Clin North Am. 1997;24:379-386.",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "20_CR38_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "621",
+        "DOI": "10.1056/NEJM199009063231001",
+        "volume": "323",
+        "author": "MD Rifkin",
+        "year": "1990",
+        "unstructured": "Rifkin MD, Zerhouni EA, Gatsonis CA, et al. Comparison of magnetic resonance imaging and ultrasonography in staging early prostate cancer. Results of a multi-institucional cooperative trial. N Engl J Med. 1990;323:621-626.",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "20_CR39_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "562",
+        "DOI": "10.1080/02841850902889846",
+        "volume": "50",
+        "author": "H Augustin",
+        "year": "2009",
+        "unstructured": "Augustin H, Fritz GA, Fhammer T, Auprich M, Pummer K. Accuracy of 3-Tesla magnetic resonance imaging for staging of prostate cancer in comparison to the Partin tables. Acta Radiol. 2009;50:562-569.",
+        "journal-title": "Acta Radiol"
+      },
+      {
+        "key": "20_CR40_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "174",
+        "DOI": "10.1016/j.urolonc.2008.04.009",
+        "volume": "27",
+        "author": "JA Brown",
+        "year": "2009",
+        "unstructured": "Brown JA, Rodin DM, Harisinghani M, Dahl DM. Impact of preoperative endorectal MRI stage classification on neurovascular bundle sparing aggressiveness and the radical prostatectomy positive margin rate. Urol Oncol. 2009;27:174-179.",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "20_CR41_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "425",
+        "DOI": "10.1148/radiol.2532081390",
+        "volume": "253",
+        "author": "J Zhang",
+        "year": "2009",
+        "unstructured": "Zhang J, Hricak H, Shukla Dave A, Ishill NM, Reuter VE, Eastham JA. Clinical stage T1a prostate cancer: evaluation with endorectal MR imaging and MR spectroscopic imaging. Radiology. 2009;253:425-434.",
+        "journal-title": "Radiology"
+      },
+      {
+        "key": "20_CR42_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1095",
+        "DOI": "10.1016/j.urology.2007.03.042",
+        "volume": "69",
+        "author": "DV Makarov",
+        "year": "2007",
+        "unstructured": "Makarov DV, Trock BJ, Humphreys EB, et al. Updated nomogram to predict pathologic stage of prostate cancer given prostate-specific antigen level, clinical stage, and biopsy Gleason score (Partin tables) based on cases 2000 to 2005. Urology. 2007;69:1095-1101.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR43_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "347",
+        "DOI": "10.1016/j.ijrobp.2008.04.082",
+        "volume": "73",
+        "author": "N Bhojani",
+        "year": "2009",
+        "unstructured": "Bhojani N, Salomon L, Capitanco U, et al. External validation of the updated Partin tables in a cohort of French and Italian men. Int J Radiat Oncol Biol Phys. 2009;73:347-352.",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "20_CR44_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "145",
+        "DOI": "10.1016/j.juro.2009.08.132",
+        "volume": "183",
+        "author": "S Alkhateeb",
+        "year": "2010",
+        "unstructured": "Alkhateeb S, Alibhai S, Fleshner N, et al. Impact of positive surgical margins after radical prostatectomy differs by disease risk group. J Urol. 2010;183:145-150.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR45_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "682",
+        "DOI": "10.1016/S0090-4295(99)00204-6",
+        "volume": "54",
+        "author": "C Obek",
+        "year": "1999",
+        "unstructured": "Obek C, Sadek S, Lai S, Civantos F, Rubinowics D, Soloway M. Positive surgical margins with radical retropubic prostatectomy: anatomic site-specific pathologic analysis and impact on prognosis. Urology. 1999;54:682-688.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR46_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "733",
+        "DOI": "10.1016/S0090-4295(97)00450-0",
+        "volume": "50",
+        "author": "ML Blute",
+        "year": "1997",
+        "unstructured": "Blute ML, Bostwick DG, Bergstralh EJ, et al. Anatomic site-specific positive margins in organ-confined prostate cancer and its impact on outcome after radical prostatectomy. Urology. 1997;50:733-739.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR47_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1171",
+        "DOI": "10.1016/S0022-5347(05)67716-6",
+        "volume": "163",
+        "author": "GD Grossfeld",
+        "year": "2000",
+        "unstructured": "Grossfeld GD, Chang JJ, Broering JM, et al. Impact of positive margins of prostate cancer recurrence and use of secondary cancer treatment: data from CAPSURE database. J Urol. 2000;163:1171-1177.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR48_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "131",
+        "DOI": "10.1016/S0022-5347(01)67248-3",
+        "volume": "154",
+        "author": "AV D’Amico",
+        "year": "1995",
+        "unstructured": "D’Amico AV, Whittingt on R, Malkowicz SB, et al. A multivariate analysis of clinical and pathological factors that predict for prostate specific antigen ­failure after radical prostatectomy for prostate ­cancer. J Urol. 1995;154:131-138.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR49_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1413",
+        "DOI": "10.1111/j.1464-410X.2008.07563.x",
+        "volume": "102",
+        "author": "J Pfitzenmaier",
+        "year": "2008",
+        "unstructured": "Pfitzenmaier J, Pahernick S, Tremmel T, Haferkamp A, Buse S, Hohenfellnwer M. Positive surgical margins after radical prostatectomy: do they have an impact on biochemical or clinical progression? BJU Int. 2008;102:1413-1418.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "20_CR50_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "2655",
+        "DOI": "10.1002/cncr.20319",
+        "volume": "100",
+        "author": "H Hricak",
+        "year": "2004",
+        "unstructured": "Hricak H, Wang L, Wei DC, et al. The role of preoperative endorected magnetic resonance imaging in the decision regarding whether to preserve or resect neurovascular bundles during radical retropubic prostatectomy. Cancer. 2004;100:2655-2663.",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "20_CR51_20",
+        "first-page": "1391",
+        "volume": "162",
+        "author": "M Ohori",
+        "year": "1999",
+        "unstructured": "Ohori M, Abbas F, Wheeler TM, Kattan MW, Scardino PT, Lerner SP. Pathological features and prognostic significance of prostate cancer in the apical section determined by whole mount histology. J Urol. 1999;162:1391-1392.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR52_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "26",
+        "DOI": "10.1080/00365590310017334",
+        "volume": "38",
+        "author": "SS Connolly",
+        "year": "2004",
+        "unstructured": "Connolly SS, O’Toole GC, O’Malley KJ, et al. Positive apical margins after radical retropubic prostatectomy, truth or artifacts. Scand J Urol Nephrol. 2004;38:26-31.",
+        "journal-title": "Scand J Urol Nephrol"
+      },
+      {
+        "key": "20_CR53_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "3582",
+        "DOI": "10.1002/1097-0142(19930601)71:11<3582::AID-CNCR2820711120>3.0.CO;2-Y",
+        "volume": "71",
+        "author": "JI Epstein",
+        "year": "1993",
+        "unstructured": "Epstein JI, Pizov G, Walsh PC. Correlation of pathologic findings with progression after radical retropubic prostatectomy. Cancer. 1993;71:3582-3593.",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "20_CR54_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "2453",
+        "DOI": "10.1016/S0022-5347(05)65003-3",
+        "volume": "167",
+        "author": "M Sofer",
+        "year": "2002",
+        "unstructured": "Sofer M, Hamilton-Nelson KL, Civantos F, Soloway MS. Positive surgical margins after radical retropubic prostatectomy: the influence of site and number on progression. J Urol. 2002;167:2453-2456.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR55_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "605",
+        "DOI": "10.1111/j.1464-410X.2009.08757.x",
+        "volume": "104",
+        "author": "F Rabbani",
+        "year": "2009",
+        "unstructured": "Rabbani F, Vora KC, Yunis LH, et al. Biochemical recurrence rates in patients with positive surgical margin at radical prostatectomy with further negative resected tissue. BJU Int. 2009;104:605-610.",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "20_CR56_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "21",
+        "DOI": "10.1159/000019922",
+        "volume": "36",
+        "author": "M Graefen",
+        "year": "1999",
+        "unstructured": "Graefen M, Noldus J, Pichlmeier U, et al. Early prostate specific antigen relapse after radical prostatectomy: prediction on the basis of preoperative and postoperative tumor characterístics. Eur Urol. 1999;36:21-30.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "20_CR57_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1245",
+        "DOI": "10.1016/j.urology.2005.06.108",
+        "volume": "66",
+        "author": "PI Karakiewicz",
+        "year": "2005",
+        "unstructured": "Karakiewicz PI, Eastham JA, Graefen M, et al. Prognostic impact of positive surgical margins in surgically treated prostate cancer: multi-institutional assessment of 5831 patients. Urology. 2005;66:1245-1250.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR58_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "140",
+        "DOI": "10.1016/S0022-5347(05)00050-9",
+        "volume": "175",
+        "author": "MA Simon",
+        "year": "2006",
+        "unstructured": "Simon MA, Kim S, Soloway M. Prostate specific antigen recurrence rates are low after radical retropubic prostatectomy and positive margins. J Urol. 2006;175:140-144.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR59_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1215",
+        "DOI": "10.1002/cncr.10871",
+        "volume": "95",
+        "author": "SJ Kausik",
+        "year": "2002",
+        "unstructured": "Kausik SJ, Blute ML, Sebo TJ, et al. Prognostic significance of positive surgical margins in patients with extraprostatic carcinoma after radical prostatectomy. Cancer. 2002;95:1215-1219.",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "20_CR60_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1833",
+        "DOI": "10.1097/01.ju.0000091835.80547.a4",
+        "volume": "170",
+        "author": "OK Mac Donald",
+        "year": "2003",
+        "unstructured": "Mac Donald OK, Schild SE, Vora SA, et al. Radiotherapy for men with isolated increase in serum prostate specific antigen after radical prostatecomy. J Urol. 2003;170:1833-1837.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR61_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "433",
+        "DOI": "10.1001/jama.294.4.433",
+        "volume": "294",
+        "author": "S Freedland",
+        "year": "2005",
+        "unstructured": "Freedland S, Humphreys EB, Mangold LA, et al. Risk of prostate cancer-specific mortality following biochemical recurrence after radical prostatectomy. JAMA. 2005;294:433-439.",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "20_CR62_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "2035",
+        "DOI": "10.1200/JCO.2006.08.9607",
+        "volume": "25",
+        "author": "AJ Stephenson",
+        "year": "2007",
+        "unstructured": "Stephenson AJ, Scardino PT, Kattan MW, et al. Predicting the outcome of salvage radiation therapy for recurrent prostate cancer after radical prostatectomy. J Clin Oncol. 2007;25:2035-2041.",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "20_CR63_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1325",
+        "DOI": "10.1001/jama.291.11.1325",
+        "volume": "291",
+        "author": "AJ Stephenson",
+        "year": "2004",
+        "unstructured": "Stephenson AJ, Shariat SF, Zelefsky MJ, et al. Salvage radiotherapy for recurrent prostate cancer after radical prostatectomy. JAMA. 2004;291:1325-1332.",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "20_CR64_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "88",
+        "DOI": "10.1016/j.eururo.2008.03.066",
+        "volume": "54",
+        "author": "S Loeb",
+        "year": "2008",
+        "unstructured": "Loeb S, Roehl KA, Viprakasit DP, Catalona WJ. Long-term rates of undetectable PSA with initial observation and delayed salvage radiotherapy after radical prostatectomy. Eur Urol. 2008;54:88-96.",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "20_CR65_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "2225",
+        "DOI": "10.1200/JCO.2006.09.6495",
+        "volume": "25",
+        "author": "GP Swanson",
+        "year": "2007",
+        "unstructured": "Swanson GP, Hussey MA, Tangen CM, et al. Predominant treatment failure in postprostatectomy patients is local: analysis of patterns of treatment failure in SWOG 8794. J Clin Oncol. 2007;25:2225-2229.",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "20_CR66_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1030",
+        "DOI": "10.1200/JCO.2001.19.4.1030",
+        "volume": "19",
+        "author": "AK Leventis",
+        "year": "2001",
+        "unstructured": "Leventis AK, Shahrokh FS, Kattan MW, Butler EB, Wheeler TM, Slawin KM. Prediction of response to salvage radiation therapy in patients with prostate cancer recurrence after radical prostatectomy. J Clin Oncol. 2001;19:1030-1039.",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "20_CR67_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "972",
+        "DOI": "10.1016/j.ijrobp.2008.07.026",
+        "volume": "72",
+        "author": "D Pasquier",
+        "year": "2008",
+        "unstructured": "Pasquier D, Ballerean C. Adjuvant and salvage radiotherapy after radical prostatectomy for prostate cancer: a literature review. Int J Radiat Oncol Biol Phys. 2008;72:972-979.",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "20_CR68_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "2760",
+        "DOI": "10.1001/jama.299.23.2760",
+        "volume": "299",
+        "author": "BJ Trock",
+        "year": "2008",
+        "unstructured": "Trock BJ, Han M, Freedland SJ, et al. Prostate cancer specific survival following salvage radiotherapy vs. observation in men with biochemical recurrence after radical prostatectomy. JAMA. 2008;299:2760-2769.",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "20_CR69_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "687",
+        "DOI": "10.1016/S0094-0143(21)00644-3",
+        "volume": "21",
+        "author": "TK Takayma",
+        "year": "1994",
+        "unstructured": "Takayma TK, Lange PH. Radiotherapy for local recurrence of prostate cancer after radical prostatectomy. Urol Clin North Am. 1994;21:687-700.",
+        "journal-title": "Urol Clin North Am"
+      },
+      {
+        "key": "20_CR70_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "232",
+        "DOI": "10.1016/S0090-4295(99)80422-1",
+        "volume": "47",
+        "author": "LJ Coetzee",
+        "year": "1996",
+        "unstructured": "Coetzee LJ, Hars V, Paulson DF. Postoperative prostate-specific androgen as a prognostic indicator in patients with margin-positive prostate cancer undergoing adjuvant radiotherapy after radical prostatectomy. Urology. 1996;47:232-235.",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "20_CR71_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "435",
+        "DOI": "10.7326/0003-4819-148-6-200803180-00209",
+        "volume": "148",
+        "author": "TJ Wilt",
+        "year": "2008",
+        "unstructured": "Wilt TJ, Mac Donald R, Rutks I, Shamilyan TA, Taylor BC, Kane RL. Systematic review: comparative effectiveness and harms of treatment for clinically localized prostate cancer. Ann Intern Med. 2008;148:435-448.",
+        "journal-title": "Ann Intern Med"
+      },
+      {
+        "key": "20_CR72_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "194",
+        "DOI": "10.1007/s11934-009-0033-8",
+        "volume": "10",
+        "author": "SM Graham",
+        "year": "2009",
+        "unstructured": "Graham SM, Holzbeierlein JM. Adjuvant radiation therapy after radical prostatectomy: when is it indicated? Curr Urol Rep. 2009;10:194-198.",
+        "journal-title": "Curr Urol Rep"
+      },
+      {
+        "key": "20_CR73_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "572",
+        "DOI": "10.1016/S0140-6736(05)67101-2",
+        "volume": "366",
+        "author": "M Bolla",
+        "year": "2005",
+        "unstructured": "Bolla M, Von Poppel H, Collete L, et al. Postoperative radiotherapy after radical prostatectomy: a randomized controlled trial (EORTC trial 22911). Lancet. 2005;366:572-578.",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "20_CR74_20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Thompson IM Jr., Tangen CM, Paradelo J, et al. Adjuvent radiotherapy for pathologically advanced prostate cancer: A randomized clinical trial, Jama 2006 Nov 15;296(19):2329-2335.",
+        "DOI": "10.1001/jama.296.19.2329"
+      },
+      {
+        "key": "20_CR75_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "2928",
+        "DOI": "10.1200/JCO.2008.18.9563",
+        "volume": "27",
+        "author": "T Wiegel",
+        "year": "2009",
+        "unstructured": "Wiegel T, Battker D, Steiner U, et al. Phase III ­postoperative adjuvant radiotherapy after radical prostatectomy compared with radical prostatectomy alone in pT3 prostate cancer with ­postoperative undetectable prostate-specific antigen: ARO 96-02/AUO AP 09/95. J Clin Oncol. 2009;27:2928-2930.",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "20_CR76_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.radonc.2008.04.013",
+        "volume": "88",
+        "author": "SC Morgan",
+        "year": "2008",
+        "unstructured": "Morgan SC, Waldron TS, Eapen L, Mayhew EW, Lukka U. Adjuvant radiotherapy following radical prostatectomy for pathological T3 or margin-positive prostate cancer: a systematic review and meta-analysis. Radiother Oncol. 2008;88:1-9.",
+        "journal-title": "Radiother Oncol"
+      },
+      {
+        "key": "20_CR77_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "1199",
+        "DOI": "10.1016/S0022-5347(17)46034-4",
+        "volume": "135",
+        "author": "H Zincke",
+        "year": "1986",
+        "unstructured": "Zincke H, Utz DC, Taylor WF. Bilateral pelvic lymphadenectomy and radical prostatectomy for clinical stage C prostatic cancer: role of adjuvant treatment for residual cancer and in disease progression. J Urol. 1986;135:1199-1205.",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "20_CR78_20",
+        "doi-asserted-by": "publisher",
+        "first-page": "472",
+        "DOI": "10.1016/S1470-2045(06)70700-8",
+        "volume": "7",
+        "author": "EM Messing",
+        "year": "2006",
+        "unstructured": "Messing EM, Manola J, Yao J, et al. Immediate versus deferred androgen deprivation treatment in patients with node-positive cancer after radical prostatectomy and pelvic lymphadenectomy. Lancet Oncol. 2006;7:472-479.",
+        "journal-title": "Lancet Oncol"
+      }
+    ],
+    "container-title": [
+      "Robotic Urologic Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/978-1-84882-800-1_20",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          11
+        ]
+      ],
+      "date-time": "2023-02-11T07:20:23Z",
+      "timestamp": 1676100023000
+    },
+    "score": 68.3703,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/978-1-84882-800-1_20"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "ISBN": [
+      "9781848827998",
+      "9781848828001"
+    ],
+    "references-count": 78,
+    "URL": "https://doi.org/10.1007/978-1-84882-800-1_20",
+    "published": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "17 June 2011",
+        "order": 1,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ChapterHistory",
+          "label": "Chapter History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          15
+        ]
+      ],
+      "date-time": "2026-06-15T17:46:36Z",
+      "timestamp": 1781545596184,
+      "version": "3.54.5"
+    },
+    "reference-count": 30,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2011-08-01T00:00:00Z",
+          "timestamp": 1312156800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          8
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2011.03.112",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          24
+        ]
+      ],
+      "date-time": "2011-06-24T00:01:36Z",
+      "timestamp": 1308873696000
+    },
+    "page": "511-517",
+    "source": "Crossref",
+    "is-referenced-by-count": 127,
+    "title": [
+      "Positive Surgical Margins After Robotic Assisted Radical Prostatectomy: A Multi-Institutional Study"
+    ],
+    "prefix": "10.1097",
+    "volume": "186",
+    "author": [
+      {
+        "given": "Vipul R.",
+        "family": "Patel",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital-Celebration Health, University of Central Florida College of Medicine, Orlando, Florida"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rafael F.",
+        "family": "Coelho",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital-Celebration Health, University of Central Florida College of Medicine, Orlando, Florida"
+          },
+          {
+            "name": "Hospital Israelita Albert Einstein and Instituto do Câncer do Estado de São Paulo, São Paulo, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bernardo",
+        "family": "Rocco",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital-Celebration Health, University of Central Florida College of Medicine, Orlando, Florida"
+          },
+          {
+            "name": "Sezione di Urolagia-Università degli Studi di Milano, Milan, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcelo",
+        "family": "Orvieto",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital-Celebration Health, University of Central Florida College of Medicine, Orlando, Florida"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ananthakrishnan",
+        "family": "Sivaraman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital-Celebration Health, University of Central Florida College of Medicine, Orlando, Florida"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kenneth J.",
+        "family": "Palmer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital-Celebration Health, University of Central Florida College of Medicine, Orlando, Florida"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Darien",
+        "family": "Kameh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital-Celebration Health, University of Central Florida College of Medicine, Orlando, Florida"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luigi",
+        "family": "Santoro",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital-Celebration Health, University of Central Florida College of Medicine, Orlando, Florida"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Geoff D.",
+        "family": "Coughlin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital-Celebration Health, University of Central Florida College of Medicine, Orlando, Florida"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Liss",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of California-Irvine, Irvine, California"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wooju",
+        "family": "Jeong",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Yonsei University College of Medicine, Seoul, Republic of Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "John",
+        "family": "Malcolm",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "East Virginia Medical School, Norfolk, Virginia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joshua M.",
+        "family": "Stern",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Saurabh",
+        "family": "Sharma",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kevin C.",
+        "family": "Zorn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Chicago Medical Center, Chicago, Illinois"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sergey",
+        "family": "Shikanov",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Chicago Medical Center, Chicago, Illinois"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arieh L.",
+        "family": "Shalhav",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Chicago Medical Center, Chicago, Illinois"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gregory P.",
+        "family": "Zagaja",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Chicago Medical Center, Chicago, Illinois"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas E.",
+        "family": "Ahlering",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of California-Irvine, Irvine, California"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Koon H.",
+        "family": "Rha",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Yonsei University College of Medicine, Seoul, Republic of Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David M.",
+        "family": "Albala",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Duke University Medical Center, Durham, North Carolina"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael D.",
+        "family": "Fabrizio",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "East Virginia Medical School, Norfolk, Virginia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David I.",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sanket",
+        "family": "Chauhan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Global Robotics Institute, Florida Hospital-Celebration Health, University of Central Florida College of Medicine, Orlando, Florida"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1413",
+        "DOI": "10.1111/j.1464-410X.2008.07791.x",
+        "article-title": "Positive surgical margins after radical prostatectomy: do they have an impact on biochemical or clinical progression?",
+        "volume": "102",
+        "author": "Pfitzenmaier",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "268",
+        "DOI": "10.1016/j.urolonc.2008.07.004",
+        "article-title": "Impact of radical prostatectomy positive surgical margins on fear of cancer recurrence: results from CaPSURE™",
+        "volume": "28",
+        "author": "Hong",
+        "year": "2010",
+        "journal-title": "Urol Oncol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "2862",
+        "DOI": "10.1200/JCO.2000.18.15.2862",
+        "article-title": "Preoperative prediction of surgical margin status in patients with prostate cancer treated by radical prostatectomy",
+        "volume": "18",
+        "author": "Cheng",
+        "year": "2000",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1328",
+        "DOI": "10.1097/01.ju.0000138681.64035.dc",
+        "article-title": "The impact of surgical approach (nerve bundle preservation versus wide local excision) on surgical margins and biochemical recurrence following radical prostatectomy",
+        "volume": "172",
+        "author": "Ward",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1853",
+        "DOI": "10.1200/JCO.2002.07.069",
+        "article-title": "Risk of positive margins and biochemical recurrence in relation to nerve-sparing radical prostatectomy",
+        "volume": "20",
+        "author": "Sofer",
+        "year": "2002",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "1845",
+        "DOI": "10.1016/S0022-5347(17)35912-8",
+        "article-title": "Analysis of risk factors associated with prostate cancer extension to the surgical margin and pelvic node metastasis at radical prostatectomy",
+        "volume": "150",
+        "author": "Ackerman",
+        "year": "1993",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "2385",
+        "DOI": "10.1016/j.juro.2007.08.008",
+        "article-title": "A comparison of the incidence and location of positive surgical margins in robotic assisted laparoscopic radical prostatectomy and open retropubic radical prostatectomy",
+        "volume": "178",
+        "author": "Smith",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "567",
+        "DOI": "10.1016/j.urology.2008.11.011",
+        "article-title": "Comparative analysis of surgical margins between radical retropubic prostatectomy and RALP: are patients sacrificed during initiation of robotics program?",
+        "volume": "73",
+        "author": "White",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1037",
+        "DOI": "10.1016/j.eururo.2009.01.036",
+        "article-title": "Retropubic, laparoscopic, and robot-assisted radical prostatectomy: a systematic review and cumulative analysis of comparative studies",
+        "volume": "55",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1016/j.eururo.2008.09.051",
+        "article-title": "Positive surgical margins in radical prostatectomy: outlining the problem and its long-term consequences",
+        "volume": "55",
+        "author": "Yossepowitch",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "603",
+        "DOI": "10.1111/j.1464-410X.2008.07672.x",
+        "article-title": "Positive surgical margins during robotic radical prostatectomy: a contemporary analysis of risk factors",
+        "volume": "102",
+        "author": "Liss",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "2682",
+        "DOI": "10.1016/j.juro.2009.08.037",
+        "article-title": "Predictors of positive surgical margins after laparoscopic robot assisted radical prostatectomy",
+        "volume": "182",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "e53",
+        "DOI": "10.1016/j.eururo.2010.01.040",
+        "article-title": "predictive factors for positive surgical margins and their locations after robot-assisted laparoscopic radical prostatectomy",
+        "volume": "57",
+        "author": "Coelho",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1016/S0022-5347(01)62881-7",
+        "article-title": "Incidence, etiology, location, prevention and treatment of positive surgical margins after radical prostatectomy for prostate cancer",
+        "volume": "160",
+        "author": "Wieder",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1037",
+        "DOI": "10.1016/j.eururo.2009.01.036",
+        "article-title": "Retropubic, laparoscopic, and robot-assisted radical prostatectomy: a systematic review and cumulative analysis of comparative studies",
+        "volume": "55",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1428",
+        "DOI": "10.1111/j.1464-410X.2009.08895.x",
+        "article-title": "Robotic-assisted radical prostatectomy: a review of current outcomes",
+        "volume": "104",
+        "author": "Coelho",
+        "year": "2009",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "2003",
+        "DOI": "10.1089/end.2010.0295",
+        "article-title": "Retropubic, laparoscopic, and robot-assisted radical prostatectomy: a critical review of outcomes reported by high-volume centers",
+        "volume": "24",
+        "author": "Coelho",
+        "year": "2010",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1261",
+        "DOI": "10.1097/01.ju.0000055141.36916.be",
+        "article-title": "Laparoscopic radical prostatectomy: oncological evaluation after 1,000 cases at Montsouris Institute",
+        "volume": "169",
+        "author": "Guillonneau",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "386",
+        "DOI": "10.1016/S0090-4295(02)02255-0",
+        "article-title": "Location of positive surgical margins after retropubic, perineal, and laparoscopic radical prostatectomy for organ-confined prostate cancer",
+        "volume": "61",
+        "author": "Salomon",
+        "year": "2003",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "173",
+        "DOI": "10.1016/j.urology.2007.03.050",
+        "article-title": "Impact of urethral stump length on continence and positive surgical margins in robot-assisted laparoscopic prostatectomy",
+        "volume": "70",
+        "author": "Borin",
+        "year": "2007",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "965",
+        "DOI": "10.1016/j.urology.2007.08.040",
+        "article-title": "Prognostic significance of location of positive margins in radical prostatectomy specimens",
+        "volume": "70",
+        "author": "Eastham",
+        "year": "2007",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "2695",
+        "DOI": "10.1016/j.juro.2009.08.054",
+        "article-title": "Impact of positive apical surgical margins on likelihood of biochemical recurrence after radical prostatectomy",
+        "volume": "182",
+        "author": "Kordan",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1097/01.ju.0000132160.68779.96",
+        "article-title": "Biochemical failure in men following radical retropubic prostatectomy: impact of surgical margin status and location",
+        "volume": "172",
+        "author": "Pettus",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "300",
+        "DOI": "10.1016/j.urology.2006.10.021",
+        "article-title": "Effect of prostate weight on operative and postoperative outcomes of robotic-assisted laparoscopic prostatectomy",
+        "volume": "69",
+        "author": "Zorn",
+        "year": "2007",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "928",
+        "DOI": "10.1016/j.juro.2008.05.029",
+        "article-title": "The impact of prostate gland weight in robot assisted laparoscopic radical prostatectomy",
+        "volume": "180",
+        "author": "Link",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1007/s00345-007-0217-0",
+        "article-title": "Impact of body mass index on outcomes after robot assisted radical prostatectomy",
+        "volume": "26",
+        "author": "Castle",
+        "year": "2008",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib27",
+        "first-page": "438",
+        "article-title": "Increasing body mass index negatively impacts outcomes following robotic radical prostatectomy",
+        "volume": "11",
+        "author": "Herman",
+        "year": "2007",
+        "journal-title": "JSLS"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "316",
+        "DOI": "10.1016/j.urology.2008.08.493",
+        "article-title": "Robotic radical prostatectomy in overweight and obese patients: oncological and validated-functional outcomes",
+        "volume": "73",
+        "author": "Wiltz",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib29",
+        "first-page": "5291",
+        "article-title": "High body mass index does not affect outcomes following robotic assisted laparoscopic prostatectomy",
+        "volume": "17",
+        "author": "Moskovic",
+        "year": "2010",
+        "journal-title": "Can J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2011.03.112_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "259",
+        "DOI": "10.1590/S1677-55382010000300002",
+        "article-title": "Techniques of nerve-sparing and potency outcomes following robot-assisted laparoscopic prostatectomy",
+        "volume": "36",
+        "author": "Chauhan",
+        "year": "2010",
+        "journal-title": "Int Braz J Urol"
+      }
+    ],
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534711035166?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534711035166?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2011.03.112",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          7
+        ]
+      ],
+      "date-time": "2024-04-07T23:01:25Z",
+      "timestamp": 1712530885000
+    },
+    "score": 66.3814,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2011.03.112"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          8
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            8
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2011.03.112"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2011.03.112",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          8
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2026-03-27T02:42:59Z",
+      "timestamp": 1774579379236,
+      "version": "3.50.1"
+    },
+    "reference-count": 30,
+    "publisher": "Elsevier BV",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2010,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2010-06-01T00:00:00Z",
+          "timestamp": 1275350400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2010.01.040",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2010,
+          2,
+          6
+        ]
+      ],
+      "date-time": "2010-02-06T09:36:03Z",
+      "timestamp": 1265448963000
+    },
+    "page": "1022-1029",
+    "source": "Crossref",
+    "is-referenced-by-count": 77,
+    "title": [
+      "Predictive Factors for Positive Surgical Margins and Their Locations After Robot-Assisted Laparoscopic Radical Prostatectomy"
+    ],
+    "prefix": "10.1016",
+    "volume": "57",
+    "author": [
+      {
+        "given": "Rafael F.",
+        "family": "Coelho",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Sanket",
+        "family": "Chauhan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Marcelo A.",
+        "family": "Orvieto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kenneth J.",
+        "family": "Palmer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Bernardo",
+        "family": "Rocco",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Vipul R.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1413",
+        "DOI": "10.1111/j.1464-410X.2008.07791.x",
+        "article-title": "Positive surgical margins after radical prostatectomy: do they have an impact on biochemical or clinical progression?",
+        "volume": "102",
+        "author": "Pfitzenmaier",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hong YM, Hu JC, Paciorek AT, Knight SJ, Carroll PR. Impact of radical prostatectomy positive surgical margins on fear of cancer recurrence: results from CaPSURE™. Urol Oncol. In press. doi:10.1016/j.urolonc.2008.07.004.",
+        "DOI": "10.1016/j.urolonc.2008.07.004"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "299",
+        "DOI": "10.1016/S0022-5347(01)62881-7",
+        "article-title": "etiology, location, prevention and treatment of positive surgical margins after radical prostatectomy for prostate cancer",
+        "volume": "160",
+        "author": "Wieder",
+        "year": "1998",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1037",
+        "DOI": "10.1016/j.eururo.2009.01.036",
+        "article-title": "Retropubic, laparoscopic, and robot-assisted radical prostatectomy: a systematic review and cumulative analysis of comparative studies",
+        "volume": "55",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "87",
+        "DOI": "10.1016/j.eururo.2008.09.051",
+        "article-title": "Positive surgical margins in radical prostatectomy: outlining the problem and its long-term consequences",
+        "volume": "55",
+        "author": "Yossepowitch",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "251",
+        "DOI": "10.1016/S0022-5347(01)65338-2",
+        "article-title": "Wide excision (non-nerve sparing) radical retropubic prostatectomy using an initial perirectal dissection",
+        "volume": "157",
+        "author": "Stephenson",
+        "year": "1997",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1224",
+        "DOI": "10.1016/j.urology.2004.08.021",
+        "article-title": "Robotic radical prostatectomy: a technique to reduce pT2 positive margins",
+        "volume": "64",
+        "author": "Ahlering",
+        "year": "2004",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "2862",
+        "DOI": "10.1200/JCO.2000.18.15.2862",
+        "article-title": "Preoperative prediction of surgical margin status in patients with prostate cancer treated by radical prostatectomy",
+        "volume": "18",
+        "author": "Cheng",
+        "year": "2000",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1328",
+        "DOI": "10.1097/01.ju.0000138681.64035.dc",
+        "article-title": "The impact of surgical approach (nerve bundle preservation versus wide local excision) on surgical margins and biochemical recurrence following radical prostatectomy",
+        "volume": "172",
+        "author": "Ward",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1853",
+        "DOI": "10.1200/JCO.2002.07.069",
+        "article-title": "Risk of positive margins and biochemical recurrence in relation to nerve-sparing radical prostatectomy",
+        "volume": "20",
+        "author": "Sofer",
+        "year": "2002",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1845",
+        "DOI": "10.1016/S0022-5347(17)35912-8",
+        "article-title": "Analysis of risk factors associated with prostate cancer extension to the surgical margin and pelvic node metastasis at radical prostatectomy",
+        "volume": "150",
+        "author": "Ackerman",
+        "year": "1993",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1171",
+        "DOI": "10.1093/jnci/djm060",
+        "article-title": "The surgical learning curve for prostate cancer control after radical prostatectomy",
+        "volume": "99",
+        "author": "Vickers",
+        "year": "2007",
+        "journal-title": "Natl Cancer Inst"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "603",
+        "DOI": "10.1111/j.1464-410X.2008.07672.x",
+        "article-title": "Positive surgical margins during robotic radical prostatectomy: a contemporary analysis of risk factors",
+        "volume": "102",
+        "author": "Liss",
+        "year": "2008",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "2682",
+        "DOI": "10.1016/j.juro.2009.08.037",
+        "article-title": "Predictors of positive surgical margins after laparoscopic robot assisted radical prostatectomy",
+        "volume": "182",
+        "author": "Ficarra",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1097/01.ju.0000162082.12962.40",
+        "article-title": "Robotic radical prostatectomy in the community setting—the learning curve and beyond: initial 200 cases",
+        "volume": "174",
+        "author": "Patel",
+        "year": "2005",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "13",
+        "DOI": "10.1007/s11701-009-0127-9",
+        "article-title": "Athermal early retrograde release of the neurovascular bundle during nerve-sparing robotic-assisted laparoscopic radical prostatectomy",
+        "volume": "3",
+        "author": "Coughlin",
+        "year": "2009",
+        "journal-title": "J Robotic Surg"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib17",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1097/01.ju.0000098604.09395.27",
+        "article-title": "An evaluation of the decreasing incidence of positive surgical margins in a large retropubic prostatectomy series",
+        "volume": "171",
+        "author": "Han",
+        "year": "2004",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "2385",
+        "DOI": "10.1016/j.juro.2007.08.008",
+        "article-title": "A comparison of the incidence and location of positive surgical margins in robotic assisted laparoscopic radical prostatectomy and open retropubic radical prostatectomy",
+        "volume": "178",
+        "author": "Smith",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "567",
+        "DOI": "10.1016/j.urology.2008.11.011",
+        "article-title": "Comparative analysis of surgical margins between radical retropubic prostatectomy and RALP: are patients sacrificed during initiation of robotics program?",
+        "volume": "73",
+        "author": "White",
+        "year": "2009",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib20",
+        "doi-asserted-by": "crossref",
+        "first-page": "110",
+        "DOI": "10.1016/S0022-5347(17)35410-1",
+        "article-title": "The use of prostate specific antigen, clinical stage and Gleason score to predict pathological stage in men with localized prostate cancer",
+        "volume": "150",
+        "author": "Partin",
+        "year": "1993",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "168",
+        "DOI": "10.1200/JCO.1999.17.1.168",
+        "article-title": "Pretreatment nomogram for prostate-specific antigen recurrence after radical prostatectomy or external-beam radiation therapy for clinically localized prostate cancer",
+        "volume": "17",
+        "author": "D’Amico",
+        "year": "1999",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib22",
+        "doi-asserted-by": "crossref",
+        "first-page": "1261",
+        "DOI": "10.1097/01.ju.0000055141.36916.be",
+        "article-title": "Laparoscopic radical prostatectomy: oncological evaluation after 1,000 cases a Montsouris Institute",
+        "volume": "169",
+        "author": "Guillonneau",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1525",
+        "DOI": "10.1016/S0022-5347(05)68944-6",
+        "article-title": "Clinical and pathological characteristics, and recurrence rates of stage T1c versus T2a or T2b prostate cancer",
+        "volume": "161",
+        "author": "Ramos",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib24",
+        "doi-asserted-by": "crossref",
+        "first-page": "764",
+        "DOI": "10.1016/j.eururo.2006.10.058",
+        "article-title": "Preoperative and intraoperative risk factors for side-specific positive surgical margins in laparoscopic radical prostatectomy for prostate cancer",
+        "volume": "51",
+        "author": "Secin",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib25",
+        "doi-asserted-by": "crossref",
+        "first-page": "2136",
+        "DOI": "10.1097/01.ju.0000065588.82511.06",
+        "article-title": "SEARCH Database Study Group. Percent of prostate needle biopsy cores with cancer is significant independent predictor of prostate specific antigen recurrence following radical prostatectomy: results from SEARCH database",
+        "volume": "169",
+        "author": "Freedland",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib26",
+        "doi-asserted-by": "crossref",
+        "first-page": "866",
+        "DOI": "10.1016/j.eururo.2006.02.054",
+        "article-title": "Positive surgical margins in robotic-assisted radical prostatectomy: impact of learning curve on oncologic outcomes",
+        "volume": "49",
+        "author": "Atug",
+        "year": "2006",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "64",
+        "DOI": "10.1159/000020254",
+        "article-title": "Modified extrafascial radical retropubic prostatectomy technique decreases frequency of positive surgical margins in T2 cancers <2cm3",
+        "volume": "38",
+        "author": "Villers",
+        "year": "2000",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "1479",
+        "DOI": "10.1089/end.2009.0369",
+        "article-title": "Functional and oncologic outcomes comparing interfascial and intrafascial nerve sparing in robot-assisted laparoscopic radical prostatectomies",
+        "volume": "23",
+        "author": "Potdevin",
+        "year": "2009",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib29",
+        "doi-asserted-by": "crossref",
+        "unstructured": "SEARCH Database Study Group, Jayachandran J, Aronson WJ, et al. Obesity and positive surgical margins by anatomic location after radical prostatectomy: results from the Shared Equal Access Regional Cancer Hospital database. BJU Int 2008; 102:964–8.",
+        "DOI": "10.1111/j.1464-410X.2008.07881.x"
+      },
+      {
+        "key": "10.1016/j.eururo.2010.01.040_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1007/s00345-007-0217-0",
+        "article-title": "Impact of body mass index on outcomes after robot assisted radical prostatectomy",
+        "volume": "2",
+        "author": "Castle",
+        "year": "2008",
+        "journal-title": "World J Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283810001065?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283810001065?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          3,
+          23
+        ]
+      ],
+      "date-time": "2024-03-23T20:28:17Z",
+      "timestamp": 1711225697000
+    },
+    "score": 64.98601,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283810001065"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2010,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283810001065"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2010.01.040",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2026-03-27T16:20:20Z",
+      "timestamp": 1774628420633,
+      "version": "3.50.1"
+    },
+    "reference-count": 0,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "Supplement_2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Introduction</jats:title>\n                    <jats:p>Positive surgical margins (PSM) after robotic-assisted radical prostatectomy (RARP) can lead to negative oncological outcomes. This study aimed to identify sources of avoidable PSMs to improve outcomes.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>Data from 100 consecutive cases with PSMs in 2022 were extracted for biopsy and MRI cancer location identification, RARP planning recommendations, surgeon operation notes, and final pathology results. Exclusion criteria were Neurosafe procedures, absence of pre-operative MRI, or undocumented RARP planning. PSMs were identified at staging, planning, and/or execution and classified as avoidable or unavoidable based on available information and decision-making.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>Out of 100 patients, 45 had extracapsular extension (ECE). 112 distinct PSMs were identified and classified as apical (32%, n = 36), basal (8%, n = 9), anterior (3.5%, n = 4) or postero-lateral (56%, n = 63). 49% of PSMs were intra-prostatic (n = 55). Sources of PSM included staging (28.5%), planning (∼20%) and execution (∼52%). However, ∼90% of execution errors were unavoidable, with PSMs occurring most commonly despite no function-sparing (∼70%) or adherence to the planning recommendation. Conversely, all planning errors were avoidable and occurred due to inappropriate functional sparing (78%), or unrecognised ECE or overlooked patient factors. Meanwhile, within staging errors, ∼28% were avoidable due to biopsy errors while the remaining were unavoidable (MRI-invisible disease). The most common avoidable PSM was due to inappropriate intra-fascial nerve-sparing recommended in the planning stage.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>Overall, ∼30% of PSMs were avoidable. Reductions are achievable through improving biopsy targeting accuracy and MRI interpretation. Adherence to surgical planning and ongoing technical refinement can further improve oncological outcomes.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1093/bjs/znag018.243",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2026-03-27T15:47:30Z",
+      "timestamp": 1774626450000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "SRS264 - Avoidable positive surgical margins after robotic-assisted radical prostatectomy"
+    ],
+    "prefix": "10.1093",
+    "volume": "113",
+    "author": [
+      {
+        "given": "Farah",
+        "family": "Siddiqui",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University College London , London ,",
+            "place": [
+              "UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Elizabeth",
+        "family": "Day",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University College London Hospitals NHS Foundation Trust , London ,",
+            "place": [
+              "UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "286",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ]
+    },
+    "container-title": [
+      "British Journal of Surgery"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://academic.oup.com/bjs/article-pdf/113/Supplement_2/znag018.243/67601530/znag018.243.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://academic.oup.com/bjs/article-pdf/113/Supplement_2/znag018.243/67601530/znag018.243.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          27
+        ]
+      ],
+      "date-time": "2026-03-27T15:47:31Z",
+      "timestamp": 1774626451000
+    },
+    "score": 57.841064,
+    "resource": {
+      "primary": {
+        "URL": "https://academic.oup.com/bjs/article/doi/10.1093/bjs/znag018.243/8551006"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "Supplement_2",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            27
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            27
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1093/bjs/znag018.243",
+    "ISSN": [
+      "0007-1323",
+      "1365-2168"
+    ],
+    "issn-type": [
+      {
+        "value": "0007-1323",
+        "type": "print"
+      },
+      {
+        "value": "1365-2168",
+        "type": "electronic"
+      }
+    ],
+    "published-other": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "article-number": "znag018.243"
+  }
+]

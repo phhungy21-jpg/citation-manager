@@ -1,0 +1,2715 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          29
+        ]
+      ],
+      "date-time": "2026-06-29T11:57:49Z",
+      "timestamp": 1782734269012,
+      "version": "3.54.5"
+    },
+    "reference-count": 4,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2021-05-01T00:00:00Z",
+          "timestamp": 1619827200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2021-05-01T00:00:00Z",
+          "timestamp": 1619827200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2021.02.005",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2021-02-21T00:32:18Z",
+      "timestamp": 1613867538000
+    },
+    "page": "e138",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 32,
+    "title": [
+      "Re: Nicolas Mottet, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer—2020 Update. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2021;79:243–62"
+    ],
+    "prefix": "10.1016",
+    "volume": "79",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9410-880X",
+        "authenticated-orcid": false,
+        "given": "Michael",
+        "family": "Froehner",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rainer",
+        "family": "Koch",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Markus",
+        "family": "Graefen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2021.02.005_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1016/j.eururo.2020.09.042",
+        "article-title": "EAU-EANM-ESTRO-ESUR-SIOG guidelines on prostate cancer—2020 update. Part 1: screening, diagnosis, and local treatment with curative intent",
+        "volume": "79",
+        "author": "Mottet",
+        "year": "2021",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.005_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "373",
+        "DOI": "10.1016/0021-9681(87)90171-8",
+        "article-title": "A new method of classifying prognostic comorbidity in longitudinal studies: development and validation",
+        "volume": "40",
+        "author": "Charlson",
+        "year": "1987",
+        "journal-title": "J Chron Dis"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.005_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "460",
+        "DOI": "10.1016/j.eururo.2014.08.075",
+        "article-title": "Defining a standard set of patient-centered outcomes for men with localized prostate cancer",
+        "volume": "67",
+        "author": "Martin",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.005_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "891",
+        "DOI": "10.1016/j.eururo.2015.06.007",
+        "article-title": "Development of a standardized set of patient-centered outcomes for advanced prostate cancer: an international effort for a unified approach",
+        "volume": "68",
+        "author": "Morgans",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283821000890?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283821000890?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:08:10Z",
+      "timestamp": 1759583290000
+    },
+    "score": 104.8078,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283821000890"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "references-count": 4,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283821000890"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2021.02.005",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Nicolas Mottet, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer—2020 Update. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2021;79:243–62",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2021.02.005",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 Published by Elsevier B.V. on behalf of European Association of Urology.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          21
+        ]
+      ],
+      "date-time": "2026-02-21T08:15:38Z",
+      "timestamp": 1771661738587,
+      "version": "3.50.1"
+    },
+    "reference-count": 6,
+    "publisher": "Elsevier BV",
+    "issue": "6",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2025-06-01T00:00:00Z",
+          "timestamp": 1748736000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2025-06-01T00:00:00Z",
+          "timestamp": 1748736000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000002",
+        "name": "NIH",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000002",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2025.02.030",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          12
+        ]
+      ],
+      "date-time": "2025-04-12T21:06:42Z",
+      "timestamp": 1744492002000
+    },
+    "page": "e117-e118",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+      "Re: Philip Cornford, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-ISUP-SIOG Guidelines on Prostate Cancer—2024 Update. Part I: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2024;86:148–63"
+    ],
+    "prefix": "10.1016",
+    "volume": "87",
+    "author": [
+      {
+        "given": "Andrew",
+        "family": "Vickers",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Karim",
+        "family": "Touijer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.1016/j.eururo.2024.03.027",
+        "article-title": "EAU-EANM-ESTRO-ESUR-ISUP-SIOG guidelines on prostate cancer—2024 update. Part I: screening, diagnosis, and local treatment with curative intent",
+        "volume": "86",
+        "author": "Cornford",
+        "year": "2024",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "84",
+        "DOI": "10.1016/j.eururo.2016.12.003",
+        "article-title": "The benefits and harms of different extents of lymph node dissection during radical prostatectomy for prostate cancer: a systematic review",
+        "volume": "72",
+        "author": "Fossati",
+        "year": "2017",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "216",
+        "DOI": "10.1111/j.1464-410X.2012.11765.x",
+        "article-title": "Extended vs standard lymph node dissection in robot-assisted radical prostatectomy for intermediate- or high-risk prostate cancer: a propensity-score-matching analysis",
+        "volume": "112",
+        "author": "Kim",
+        "year": "2013",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "145",
+        "DOI": "10.1016/S0022-5347(05)64055-4",
+        "article-title": "Randomized prospective evaluation of extended versus limited lymph node dissection in patients with clinically localized prostate cancer",
+        "volume": "169",
+        "author": "Clark",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1016/j.eururo.2024.10.006",
+        "article-title": "Pelvic lymph node dissection in prostate cancer: update from a randomized clinical trial of limited versus extended dissection",
+        "volume": "87",
+        "author": "Touijer",
+        "year": "2025",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2025.02.030_b0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "372",
+        "DOI": "10.1111/j.1464-410X.2010.09877.x",
+        "article-title": "Extending the indications and anatomical limits of pelvic lymph node dissection for prostate cancer: improved staging or increased morbidity?",
+        "volume": "108",
+        "author": "Touijer",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283825002003?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283825002003?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          28
+        ]
+      ],
+      "date-time": "2025-05-28T14:40:43Z",
+      "timestamp": 1748443243000
+    },
+    "score": 95.72561,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283825002003"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "references-count": 6,
+    "journal-issue": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283825002003"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2025.02.030",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Philip Cornford, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-ISUP-SIOG Guidelines on Prostate Cancer—2024 Update. Part I: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2024;86:148–63",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2025.02.030",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2025 European Association of Urology. Published by Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          31
+        ]
+      ],
+      "date-time": "2026-03-31T08:38:10Z",
+      "timestamp": 1774946290260,
+      "version": "3.50.1"
+    },
+    "reference-count": 5,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2021-05-01T00:00:00Z",
+          "timestamp": 1619827200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2021-05-01T00:00:00Z",
+          "timestamp": 1619827200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.com",
+        "clinicalkey.com.au",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.jp",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2021.02.006",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          17
+        ]
+      ],
+      "date-time": "2021-02-17T06:35:35Z",
+      "timestamp": 1613543735000
+    },
+    "page": "e139-e140",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Reply to Michael Froehner, Rainer Koch, and Markus Graefen’s Letter to the Editor re: Nicolas Mottet, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer—2020 Update. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2021;79:243–62. Comorbidity Measurement in Patients with Prostate Cancer"
+    ],
+    "prefix": "10.1016",
+    "volume": "79",
+    "author": [
+      {
+        "given": "Roderick C.N.",
+        "family": "van den Bergh",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shane",
+        "family": "O’Hanlon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Philip",
+        "family": "Cornford",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Nicolas",
+        "family": "Mottet",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2021.02.006_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1016/j.eururo.2020.09.042",
+        "article-title": "EAU-EANM-ESTRO-ESUR-SIOG guidelines on prostate cancer—2020 update. Part 1: screening, diagnosis, and local treatment with curative intent",
+        "volume": "79",
+        "author": "Mottet",
+        "year": "2021",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.006_bib0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "1028",
+        "DOI": "10.1016/j.eururo.2014.09.032",
+        "article-title": "Survival with newly diagnosed metastatic prostate cancer in the “docetaxel era”: data from 917 patients in the control arm of the STAMPEDE trial (MRC PR08, CRUK/06/019)",
+        "volume": "67",
+        "author": "James",
+        "year": "2015",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.006_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "1245",
+        "DOI": "10.1016/0895-4356(94)90129-5",
+        "article-title": "Validation of a combined co-morbidity index",
+        "volume": "47",
+        "author": "Charlson",
+        "year": "1994",
+        "journal-title": "J Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.006_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "693",
+        "DOI": "10.1016/j.eururo.2012.08.054",
+        "article-title": "Impact of age and comorbidities on long-term survival of patients with high-risk prostate cancer treated with radical prostatectomy: a multi-institutional competing-risks analysis",
+        "volume": "63",
+        "author": "Briganti",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2021.02.006_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "50",
+        "DOI": "10.1001/jama.2010.1923",
+        "article-title": "Gait speed and survival in older adults",
+        "volume": "305",
+        "author": "Studenski",
+        "year": "2011",
+        "journal-title": "JAMA"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283821000907?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283821000907?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          4
+        ]
+      ],
+      "date-time": "2025-10-04T13:08:10Z",
+      "timestamp": 1759583290000
+    },
+    "score": 90.63824,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283821000907"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283821000907"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2021.02.006",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Reply to Michael Froehner, Rainer Koch, and Markus Graefen’s Letter to the Editor re: Nicolas Mottet, Roderick C.N. van den Bergh, Erik Briers, et al. EAU-EANM-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer—2020 Update. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent. Eur Urol 2021;79:243–62. Comorbidity Measurement in Patients with Prostate Cancer",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2021.02.006",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2021 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2026-06-19T06:01:33Z",
+      "timestamp": 1781848893031,
+      "version": "3.54.5"
+    },
+    "reference-count": 113,
+    "publisher": "Elsevier BV",
+    "issue": "1",
+    "content-domain": {
+      "domain": [
+        "journals.elsevierhealth.com",
+        "europeanurology.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          1
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2013.09.046",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2013-10-06T07:35:27Z",
+      "timestamp": 1381044927000
+    },
+    "page": "124-137",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1493,
+    "title": [
+      "EAU Guidelines on Prostate Cancer. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent—Update 2013"
+    ],
+    "prefix": "10.1016",
+    "volume": "65",
+    "author": [
+      {
+        "given": "Axel",
+        "family": "Heidenreich",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Patrick J.",
+        "family": "Bastian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joaquim",
+        "family": "Bellmunt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michel",
+        "family": "Bolla",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Steven",
+        "family": "Joniau",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Theodor",
+        "family": "van der Kwast",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Malcolm",
+        "family": "Mason",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vsevolod",
+        "family": "Matveev",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Wiegel",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Zattoni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nicolas",
+        "family": "Mottet",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1016/j.eururo.2010.10.039",
+        "article-title": "EAU guidelines on prostate cancer. Part 1: screening, diagnosis, and treatment of clinically localised disease",
+        "volume": "59",
+        "author": "Heidenreich",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0010",
+        "unstructured": "Agency for Healthcare Research and Quality (formerly known as the Agency for Health Care Policy and Research) Web site. http://www.ahrq.gov/."
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.3322/CA.2007.0010",
+        "article-title": "Cancer statistics, 2008",
+        "volume": "58",
+        "author": "Jemal",
+        "year": "2008",
+        "journal-title": "CA Cancer J Clin"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "765",
+        "DOI": "10.1016/j.ejca.2009.12.014",
+        "article-title": "Estimates of cancer incidence and mortality in Europe 2008",
+        "volume": "46",
+        "author": "Ferlay",
+        "year": "2010",
+        "journal-title": "Eur J Cancer"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "906",
+        "DOI": "10.1016/S0022-5347(05)64541-7",
+        "article-title": "Hereditary prostate cancer: clinical aspects",
+        "volume": "168",
+        "author": "Bratt",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.2147/CLEP.S16747",
+        "article-title": "Risk factors for the onset of prostatic cancer: age, location, and behavioral correlates",
+        "volume": "4",
+        "author": "Leitzmann",
+        "year": "2012",
+        "journal-title": "Clin Epidemiol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "1549",
+        "DOI": "10.1001/jama.2011.1437",
+        "article-title": "Vitamin E and the risk of prostate cancer: the Selenium and Vitamin E Cancer Prevention Trial (SELECT)",
+        "volume": "306",
+        "author": "Klein",
+        "year": "2011",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0040",
+        "series-title": "TNM classification of malignant tumors",
+        "year": "2009"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "58",
+        "DOI": "10.1016/S0022-5347(17)59889-4",
+        "article-title": "Prediction of prognosis for prostatic adenocarcinoma by combined histological grading and clinical staging",
+        "volume": "111",
+        "author": "Gleason",
+        "year": "1974",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "279",
+        "DOI": "10.1007/s10552-006-0087-6",
+        "article-title": "Screening for prostate cancer: a Cochrane systematic review",
+        "volume": "18",
+        "author": "Ilic",
+        "year": "2007",
+        "journal-title": "Cancer Causes Control"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "1310",
+        "DOI": "10.1056/NEJMoa0810696",
+        "article-title": "Mortality results from a randomized prostate-cancer screening trial",
+        "volume": "360",
+        "author": "Andriole",
+        "year": "2009",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "1320",
+        "DOI": "10.1056/NEJMoa0810084",
+        "article-title": "Screening and prostate-cancer mortality in a randomized European study",
+        "volume": "360",
+        "author": "Schröder",
+        "year": "2009",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "981",
+        "DOI": "10.1056/NEJMoa1113135",
+        "article-title": "Prostate-cancer mortality at 11 years of follow-up",
+        "volume": "366",
+        "author": "Schröder",
+        "year": "2012",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "347",
+        "DOI": "10.1016/j.eururo.2013.06.051",
+        "article-title": "Early detection of prostate cancer: European Association of Urology recommendation",
+        "volume": "64",
+        "author": "Heidenreich",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "issue": "Suppl 1",
+        "key": "10.1016/j.eururo.2013.09.046_bib0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "600",
+        "DOI": "10.1016/S0022-5347(08)61759-0",
+        "article-title": "Prostate specific antigen testing among the elderly; when to stop [abstract 1751]?",
+        "volume": "174",
+        "author": "Carter",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "f2023",
+        "DOI": "10.1136/bmj.f2023",
+        "article-title": "Strategy for detection of prostate cancer based on relation between prostate specific antigen at age 40–55 and long term risk of metastasis: case-control study",
+        "volume": "346",
+        "author": "Vickers",
+        "year": "2013",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "835",
+        "DOI": "10.1016/S0022-5347(01)61785-3",
+        "article-title": "Digital rectal examination for detecting prostate cancer at prostate specific antigen levels of 4 ng/ml or less",
+        "volume": "161",
+        "author": "Carvalhal",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1038/ncpuro1294",
+        "article-title": "What is the role of digital rectal examination in men undergoing serial screening of serum PSA levels?",
+        "volume": "6",
+        "author": "Loeb",
+        "year": "2009",
+        "journal-title": "Nat Clin Pract Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "1325",
+        "DOI": "10.1515/CCLM.2009.285",
+        "article-title": "Discordant total and free prostate-specific antigen (PSA) assays: does calibration with WHO reference materials diminish the problem?",
+        "volume": "47",
+        "author": "Stephan",
+        "year": "2009",
+        "journal-title": "Clin Chem Lab Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "2239",
+        "DOI": "10.1056/NEJMoa031918",
+        "article-title": "Prevalence of prostate cancer among men with a prostate-specific antigen level ≤4.0 ng per millilitre",
+        "volume": "350",
+        "author": "Thompson",
+        "year": "2004",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1007/s10147-007-0742-2",
+        "article-title": "Free-to-total prostate-specific antigen (PSA) ratio contributes to an increased rate of prostate cancer detection in a Japanese population screened using a PSA level of 2.1–10.0 ng/ml as a criterion",
+        "volume": "13",
+        "author": "Kobori",
+        "year": "2008",
+        "journal-title": "Int J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "3591",
+        "DOI": "10.1200/JCO.2008.19.9794",
+        "article-title": "Pretreatment prostate-specific antigen (PSA) velocity and doubling time are associated with outcome but neither improves prediction of outcome beyond pretreatment PSA alone in patients treated with radical prostatectomy",
+        "volume": "27",
+        "author": "O’Brien",
+        "year": "2009",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "398",
+        "DOI": "10.1200/JCO.2008.18.1685",
+        "article-title": "Systematic review of pretreatment prostate-specific antigen velocity and doubling time as predictors for prostate cancer",
+        "volume": "27",
+        "author": "Vickers",
+        "year": "2009",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "1587",
+        "DOI": "10.1016/j.juro.2007.11.038",
+        "article-title": "PCA3: a molecular urine assay for predicting prostate biopsy outcome",
+        "volume": "179",
+        "author": "Deras",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "1138",
+        "DOI": "10.1111/j.1464-410X.2010.09330.x",
+        "article-title": "Follow-up of men with an elevated PCA3 score and a negative biopsy: does an elevated PCA3 score indeed predict the presence of prostate cancer?",
+        "volume": "106",
+        "author": "Remzi",
+        "year": "2010",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "1143",
+        "DOI": "10.1111/j.1464-410X.2010.09286.x",
+        "article-title": "The prostate cancer gene 3 (PCA3) urine test in men with previous negative biopsies: does free-to-total prostate-specific antigen ratio influence the performance of the PCA3 score in predicting positive biopsies?",
+        "volume": "106",
+        "author": "Ploussard",
+        "year": "2010",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1016/j.urology.2007.09.029",
+        "article-title": "Optimal approach for prostate cancer detection as initial biopsy: prospective randomized study comparing transperineal versus transrectal systematic 12-core biopsy",
+        "volume": "71",
+        "author": "Hara",
+        "year": "2008",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "134",
+        "DOI": "10.1038/sj.pcan.4500985",
+        "article-title": "A prospective randomized comparison of diagnostic efficiency between transperineal and transrectal 12-core prostate biopsy",
+        "volume": "11",
+        "author": "Takenaka",
+        "year": "2008",
+        "journal-title": "Prostate Cancer Prostatic Dis"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "1605",
+        "DOI": "10.1016/S0022-5347(05)00957-2",
+        "article-title": "Diagnostic value of systematic biopsy methods in the investigation of prostate cancer: a systematic review",
+        "volume": "175",
+        "author": "Eichler",
+        "year": "2006",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "682",
+        "DOI": "10.1046/j.1464-410x.2000.00576.x",
+        "article-title": "Antibiotic prophylaxis for transrectal needle biopsy of the prostate: a randomized controlled study",
+        "volume": "85",
+        "author": "Aron",
+        "year": "2000",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "664",
+        "DOI": "10.1093/jac/dkq471",
+        "article-title": "Significant ecological impact on the progression of fluoroquinolone resistance in Escherichia coli with increased community use of moxifloxacin, levofloxacin and amoxicillin/clavulanic acid",
+        "volume": "66",
+        "author": "Cuevas",
+        "year": "2011",
+        "journal-title": "J Antimicrob Chemother"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "1830",
+        "DOI": "10.1016/j.juro.2011.06.057",
+        "article-title": "Complications after prostate biopsy: data from SEER-Medicare",
+        "volume": "186",
+        "author": "Loeb",
+        "year": "2011",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "281",
+        "DOI": "10.1007/s00345-003-0386-4",
+        "article-title": "Pain during transrectal ultrasonography guided prostate biopsy: a randomized prospective trial comparing periprostatic infiltration with lidocaine with the intrarectal instillation of lidocaine-prilocain cream",
+        "volume": "22",
+        "author": "Adamakis",
+        "year": "2004",
+        "journal-title": "World J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1016/j.juro.2009.04.016",
+        "article-title": "Multifocal high grade prostatic intraepithelial neoplasia is a significant risk factor for prostatic adenocarcinoma",
+        "volume": "182",
+        "author": "Merrimen",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "761",
+        "DOI": "10.1148/radiol.13120641",
+        "article-title": "Multiparametric MR imaging for detection of clinically significant prostate cancer: a validation cohort study with transperineal template prostate mapping as the reference standard",
+        "volume": "268",
+        "author": "Arumainayagam",
+        "year": "2013",
+        "journal-title": "Radiology"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0180",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sonn GA, Chang E, Natarajan S, et al. Value of targeted prostate biopsy using magnetic resonance-ultrasound fusion in men with prior negative biopsy and elevated prostate-specific antigen. Eur Urol. In press. http://dx.doi.org/10.1016/j.eururo.2013.03.025.",
+        "DOI": "10.1016/j.eururo.2013.03.025"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0185",
+        "doi-asserted-by": "crossref",
+        "first-page": "336",
+        "DOI": "10.1136/jcp.56.5.336",
+        "article-title": "Guidelines for processing and reporting of prostatic needle biopsies",
+        "volume": "56",
+        "author": "Van der Kwast",
+        "year": "2003",
+        "journal-title": "J Clin Pathol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "20",
+        "DOI": "10.1016/j.eururo.2012.02.055",
+        "article-title": "A contemporary update on pathology reporting for prostate cancer: biopsy and radical prostatectomy specimens",
+        "volume": "62",
+        "author": "Fine",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0195",
+        "doi-asserted-by": "crossref",
+        "first-page": "1228",
+        "DOI": "10.1097/01.pas.0000173646.99337.b1",
+        "article-title": "The 2005 International Society of Urologic Pathology (ISUP) consensus conference on Gleason grading of prostatic carcinoma",
+        "volume": "29",
+        "author": "Epstein",
+        "year": "2005",
+        "journal-title": "Am J Surg Pathol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "182",
+        "DOI": "10.1148/radiol.2421051254",
+        "article-title": "Prediction of seminal vesicle invasion in prostate cancer: incremental value of adding endorectal MRI to the Kattan nomogram",
+        "volume": "242",
+        "author": "Wang",
+        "year": "2007",
+        "journal-title": "Radiology"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "387",
+        "DOI": "10.1016/j.crad.2007.05.022",
+        "article-title": "The diagnostic accuracy of CT and MRI in the staging of pelvic lymph nodes in patients with prostate cancer: a meta-analysis",
+        "volume": "63",
+        "author": "Hoivels",
+        "year": "2008",
+        "journal-title": "Clin Radiol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1007/s00259-007-0552-9",
+        "article-title": "Evaluation of [(18)F]-choline PET/CT for staging and restaging of prostate cancer",
+        "volume": "35",
+        "author": "Husarik",
+        "year": "2008",
+        "journal-title": "Eur J Nucl Med Mol Imaging"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "392",
+        "DOI": "10.1016/j.eururo.2008.04.030",
+        "article-title": "(11)C-choline positron emission tomography/computerized tomography for preoperative lymph-node staging in intermediate-risk and high-risk prostate cancer: comparison with clinical staging nomograms",
+        "volume": "54",
+        "author": "Schiavina",
+        "year": "2008",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "1681",
+        "DOI": "10.1016/S0022-5347(05)65177-4",
+        "article-title": "Extended pelvic lymphadenectomy in patients undergoing radical prostatectomy: high incidence of lymph node metastasis",
+        "volume": "167",
+        "author": "Heidenreich",
+        "year": "2002",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "551",
+        "DOI": "10.1016/j.eururo.2009.12.023",
+        "article-title": "When to perform bone scan in patients with newly diagnosed prostate cancer: external validation of the currently available guidelines and proposal of a novel risk stratification tool",
+        "volume": "57",
+        "author": "Briganti",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "242",
+        "DOI": "10.1056/NEJM199401273300403",
+        "article-title": "Results of conservative management of clinically localized prostate cancer",
+        "volume": "330",
+        "author": "Chodak",
+        "year": "1994",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "975",
+        "DOI": "10.1001/jama.280.11.975",
+        "article-title": "Competing risk analysis of men aged 55 to 74 years at diagnosis managed conservatively for clinically localized prostate cancer",
+        "volume": "280",
+        "author": "Albertsen",
+        "year": "1998",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "126",
+        "DOI": "10.1200/JCO.2009.24.2180",
+        "article-title": "Clinical results of long-term follow-up of a large, active surveillance cohort with localized prostate cancer",
+        "volume": "28",
+        "author": "Klotz",
+        "year": "2010",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "165",
+        "DOI": "10.1007/s11934-010-0110-z",
+        "article-title": "Active surveillance for prostate cancer: a review",
+        "volume": "11",
+        "author": "Klotz",
+        "year": "2010",
+        "journal-title": "Curr Urol Rep"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "131",
+        "DOI": "10.1016/j.juro.2010.03.041",
+        "article-title": "Prostate cancer death of men treated with initial active surveillance: clinical and biochemical characteristics",
+        "volume": "184",
+        "author": "Krakowsky",
+        "year": "2010",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "286",
+        "DOI": "10.1002/cncr.23575",
+        "article-title": "Role of repeated biopsy of the prostate in predicting disease progression in patients with prostate cancer on active surveillance",
+        "volume": "113",
+        "author": "Al Otaibi",
+        "year": "2008",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "2810",
+        "DOI": "10.1200/JCO.2009.25.7311",
+        "article-title": "Prostate-specific antigen kinetics during follow-up are an unreliable trigger for intervention in a prostate cancer surveillance program",
+        "volume": "28",
+        "author": "Ross",
+        "year": "2010",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "597",
+        "DOI": "10.1016/j.eururo.2012.11.005",
+        "article-title": "Active surveillance for low-risk prostate cancer worldwide: the PRIAS study",
+        "volume": "63",
+        "author": "Bul",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "230",
+        "DOI": "10.1093/jncimonographs/lgs025",
+        "article-title": "Results from the Scandinavian Prostate Cancer Group Trial Number 4: a randomized controlled trial of radical prostatectomy versus watchful waiting",
+        "volume": "2012",
+        "author": "Holmberg",
+        "year": "2012",
+        "journal-title": "J Natl Cancer Inst Monogr"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0275",
+        "doi-asserted-by": "crossref",
+        "first-page": "203",
+        "DOI": "10.1056/NEJMoa1113162",
+        "article-title": "Radical prostatectomy versus observation for localized prostate cancer",
+        "volume": "367",
+        "author": "Wilt",
+        "year": "2012",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "204",
+        "DOI": "10.1016/j.eururo.2012.04.024",
+        "article-title": "Individualized estimation of the benefit of radical prostatectomy from the Scandinavian Prostate Cancer Group randomized trial",
+        "volume": "62",
+        "author": "Vickers",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "431",
+        "DOI": "10.1016/j.eururo.2012.05.044",
+        "article-title": "Systematic review and meta-analysis of perioperative outcomes and complications after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Novara",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1016/j.eururo.2012.05.045",
+        "article-title": "Systematic review and meta-analysis of studies reporting urinary continence recovery after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0295",
+        "doi-asserted-by": "crossref",
+        "first-page": "382",
+        "DOI": "10.1016/j.eururo.2012.05.047",
+        "article-title": "Systematic review and meta-analysis of studies reporting oncologic outcome after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Novara",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0300",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/j.eururo.2012.05.046",
+        "article-title": "Systematic review and meta-analysis of studies reporting potency rates after robot-assisted radical prostatectomy",
+        "volume": "62",
+        "author": "Ficarra",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "220",
+        "DOI": "10.1111/j.1464-410X.2010.09485.x",
+        "article-title": "Percentage of positive biopsies predicts lymph node involvement in men with low-risk prostate cancer undergoing radical prostatectomy and extended pelvic lymphadenectomy",
+        "volume": "107",
+        "author": "Heidenreich",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "480",
+        "DOI": "10.1016/j.eururo.2011.10.044",
+        "article-title": "Updated nomogram predicting lymph node invasion in patients with prostate cancer undergoing extended pelvic lymph node dissection: the essential importance of percentage of positive cores",
+        "volume": "61",
+        "author": "Briganti",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "450",
+        "DOI": "10.1016/j.eururo.2012.06.057",
+        "article-title": "Mapping of pelvic lymph node metastases in prostate cancer",
+        "volume": "63",
+        "author": "Joniau",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0320",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1016/j.clon.2012.05.002",
+        "article-title": "Members of the IMRT Indications Expert Panel. Intensity-modulated radiotherapy in the treatment of prostate cancer",
+        "volume": "24",
+        "author": "Bauman",
+        "year": "2012",
+        "journal-title": "Clin Oncol (R Coll Radiol)"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "415",
+        "DOI": "10.1016/j.ijrobp.2004.05.018",
+        "article-title": "Improved biochemical relapse-free survival with increased external radiation doses in patients with localized prostate cancer: the combined experience of nine institutions in patients treated in 1994 and 1995",
+        "volume": "61",
+        "author": "Kupelian",
+        "year": "2005",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "315",
+        "DOI": "10.1016/S0167-8140(00)00306-6",
+        "article-title": "ESTRO/EAU/EORTC recommendations on permanent seed implantation for localized prostate cancer",
+        "volume": "57",
+        "author": "Ash",
+        "year": "2000",
+        "journal-title": "Radiother Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "237",
+        "DOI": "10.1038/pcan.2008.9",
+        "article-title": "State-of-the-art: prostate LDR brachytherapy",
+        "volume": "11",
+        "author": "Voulgaris",
+        "year": "2008",
+        "journal-title": "Prostate Cancer Prostatic Dis"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0340",
+        "doi-asserted-by": "crossref",
+        "first-page": "1537",
+        "DOI": "10.1002/cncr.27911",
+        "article-title": "Population-based 10-year oncologic outcomes after low-dose-rate brachytherapy for low-risk and intermediate-risk prostate cancer",
+        "volume": "119",
+        "author": "Morris",
+        "year": "2013",
+        "journal-title": "Cancer"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "853487",
+        "DOI": "10.1155/2012/853487",
+        "article-title": "Long-term (10-year) gastrointestinal and genitourinary toxicity after treatment with external beam radiotherapy, radical prostatectomy, or brachytherapy for prostate cancer",
+        "volume": "2012",
+        "author": "Hunter",
+        "year": "2012",
+        "journal-title": "Prostate Cancer"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0350",
+        "doi-asserted-by": "crossref",
+        "first-page": "493",
+        "DOI": "10.1016/j.juro.2007.03.105",
+        "article-title": "Radical prostatectomy for clinically localized, high risk prostate cancer: critical analysis of risk assessment methods",
+        "volume": "178",
+        "author": "Yossepowitch",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0355",
+        "doi-asserted-by": "crossref",
+        "first-page": "751",
+        "DOI": "10.1111/j.1464-410X.2005.05394.x",
+        "article-title": "Radical prostatectomy for clinically advanced (cT3) prostate cancer since the advent of prostate-specific antigen testing: 15-year outcome",
+        "volume": "95",
+        "author": "Ward",
+        "year": "2005",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "715",
+        "DOI": "10.1016/j.urology.2009.11.085",
+        "article-title": "Long-term survival after radical prostatectomy for men with high Gleason sum in pathologic specimen",
+        "volume": "76",
+        "author": "Pierorazio",
+        "year": "2010",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "121",
+        "DOI": "10.1016/j.eururo.2006.05.024",
+        "article-title": "Outcome of surgery for clinical unilateral T3a prostate cancer: a single-institution experience",
+        "volume": "51",
+        "author": "Hsu",
+        "year": "2007",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0370",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1016/j.eururo.2007.10.009",
+        "article-title": "An analysis of radical prostatectomy in advanced stage and high-grade prostate cancer",
+        "volume": "53",
+        "author": "Van Poppel",
+        "year": "2008",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0375",
+        "doi-asserted-by": "crossref",
+        "first-page": "1170",
+        "DOI": "10.1016/j.urology.2007.02.054",
+        "article-title": "Intermediate-term potency, continence, and survival outcomes of radical prostatectomy for clinically high-risk or locally advanced prostate cancer",
+        "volume": "69",
+        "author": "Loeb",
+        "year": "2007",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0380",
+        "doi-asserted-by": "crossref",
+        "first-page": "333",
+        "DOI": "10.1016/j.eururo.2012.04.057",
+        "article-title": "Neurovascular structure-adjacent frozen-section examination (NeuroSAFE) increases nerve-sparing frequency and reduces positive surgical margins in open and robot-assisted laparoscopic radical prostatectomy: experience after 11,069 consecutive patients",
+        "volume": "62",
+        "author": "Schlomm",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0385",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.eururo.2010.03.001",
+        "article-title": "Outcome predictors of radical prostatectomy in patients with prostate-specific antigen greater than 20 ng/ml: a European multi-institutional study of 712 patients",
+        "volume": "58",
+        "author": "Spahn",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0390",
+        "doi-asserted-by": "crossref",
+        "first-page": "1093",
+        "DOI": "10.1111/j.1464-410X.2011.10076.x",
+        "article-title": "Is there a prostate-specific antigen upper limit for radical prostatectomy?",
+        "volume": "108",
+        "author": "Gontero",
+        "year": "2011",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0395",
+        "doi-asserted-by": "crossref",
+        "first-page": "1223",
+        "DOI": "10.1016/S0022-5347(01)61640-9",
+        "article-title": "Radical retropubic prostatectomy plus orchiectomy versus orchiectomy alone for pTxN+ prostate cancer: a matched comparison",
+        "volume": "161",
+        "author": "Ghavamian",
+        "year": "1999",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0400",
+        "doi-asserted-by": "crossref",
+        "first-page": "754",
+        "DOI": "10.1016/j.eururo.2009.12.034",
+        "article-title": "Survival benefit of radical prostatectomy in lymph node-positive patients with prostate cancer",
+        "volume": "57",
+        "author": "Engel",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0405",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1016/j.eururo.2008.09.043",
+        "volume": "55",
+        "author": "Briganti",
+        "year": "2009",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0410",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1016/S1470-2045(06)70700-8",
+        "article-title": "Immediate versus deferred androgen deprivation treatment in patients with node-positive prostate cancer after radical prostatectomy and pelvic lymphadenectomy",
+        "volume": "7",
+        "author": "Messing",
+        "year": "2006",
+        "journal-title": "Lancet Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0415",
+        "doi-asserted-by": "crossref",
+        "first-page": "247",
+        "DOI": "10.1111/j.1464-410X.2005.06051.x",
+        "article-title": "Bicalutamide 150mg plus standard care vs standard care alone for early prostate cancer",
+        "volume": "97",
+        "author": "McLeod",
+        "year": "2006",
+        "journal-title": "BJU Int"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0420",
+        "doi-asserted-by": "crossref",
+        "first-page": "100",
+        "DOI": "10.1200/JCO.2007.14.2042",
+        "article-title": "Role of androgen deprivation therapy for node-positive prostate cancer",
+        "volume": "27",
+        "author": "Wong",
+        "year": "2009",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0425",
+        "doi-asserted-by": "crossref",
+        "first-page": "832",
+        "DOI": "10.1016/j.eururo.2011.02.024",
+        "article-title": "Combination of adjuvant hormonal and radiation therapy significantly prolongs survival of patients with pT2–4 pN+ prostate cancer: results of a matched analysis",
+        "volume": "59",
+        "author": "Briganti",
+        "year": "2011",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0430",
+        "doi-asserted-by": "crossref",
+        "first-page": "572",
+        "DOI": "10.1016/S0140-6736(05)67101-2",
+        "article-title": "Postoperative radiotherapy after radical prostatectomy: a randomized controlled trial (EORTC trial 22911)",
+        "volume": "366",
+        "author": "Bolla",
+        "year": "2005",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0435",
+        "doi-asserted-by": "crossref",
+        "first-page": "2924",
+        "DOI": "10.1200/JCO.2008.18.9563",
+        "article-title": "Phase III postoperative adjuvant radiotherapy after radical prostatectomy compared with radical prostatectomy alone in pT3 prostate cancer with postoperative undetectable prostate-specific antigen: ARO 96–02/AUO AP 09/95",
+        "volume": "27",
+        "author": "Wiegel",
+        "year": "2009",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0440",
+        "doi-asserted-by": "crossref",
+        "first-page": "956",
+        "DOI": "10.1016/j.juro.2008.11.032",
+        "article-title": "Adjuvant radiotherapy for pathological T3N0M0 prostate cancer significantly reduces risk of metastases and improves survival: long-term followup of a randomized clinical trial",
+        "volume": "181",
+        "author": "Thompson",
+        "year": "2009",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0445",
+        "doi-asserted-by": "crossref",
+        "first-page": "74",
+        "DOI": "10.1016/j.cct.2012.09.008",
+        "article-title": "Competing event risk stratification may improve the design and efficiency of clinical trials: secondary analysis of SWOG 8794",
+        "volume": "34",
+        "author": "Zakeri",
+        "year": "2013",
+        "journal-title": "Contemp Clin Trials"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0450",
+        "doi-asserted-by": "crossref",
+        "first-page": "2018",
+        "DOI": "10.1016/S0140-6736(12)61253-7",
+        "article-title": "Postoperative radiotherapy after radical prostatectomy for high-risk prostate cancer: long-term results of a randomised controlled trial (EORTC trial 22911)",
+        "volume": "380",
+        "author": "Bolla",
+        "year": "2012",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0455",
+        "doi-asserted-by": "crossref",
+        "first-page": "2035",
+        "DOI": "10.1200/JCO.2006.08.9607",
+        "article-title": "Predicting the outcome of salvage radiation therapy for recurrent prostate cancer after radical prostatectomy",
+        "volume": "25",
+        "author": "Stephenson",
+        "year": "2007",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0460",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1016/j.radonc.2011.10.024",
+        "article-title": "Salvage radiotherapy after prostatectomy: What is the best time to treat?",
+        "volume": "103",
+        "author": "Siegmann",
+        "year": "2012",
+        "journal-title": "Radiother Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0465",
+        "doi-asserted-by": "crossref",
+        "first-page": "472",
+        "DOI": "10.1016/j.eururo.2012.04.056",
+        "article-title": "Early salvage radiation therapy does not compromise cancer control in patients with pT3N0 prostate cancer after radical prostatectomy: results of a match-controlled multi-institutional analysis",
+        "volume": "62",
+        "author": "Briganti",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0470",
+        "doi-asserted-by": "crossref",
+        "first-page": "1064",
+        "DOI": "10.1016/j.ijrobp.2010.04.004",
+        "article-title": "A lack of benefit for the addition of androgen deprivation therapy to dose-escalated radiotherapy in the treatment of intermediate- and high-risk prostate cancer",
+        "volume": "80",
+        "author": "Krauss",
+        "year": "2011",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0475",
+        "doi-asserted-by": "crossref",
+        "first-page": "16",
+        "DOI": "10.1016/j.ijrobp.2007.09.020",
+        "article-title": "Effect of increasing radiation doses on local and distant failures in patients with localized prostate cancer",
+        "volume": "71",
+        "author": "Kupelian",
+        "year": "2008",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0480",
+        "doi-asserted-by": "crossref",
+        "first-page": "289",
+        "DOI": "10.1001/jama.299.3.289",
+        "article-title": "Androgen suppression and radiation vs radiation alone for prostate cancer: a randomized trial",
+        "volume": "299",
+        "author": "D’Amico",
+        "year": "2008",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0485",
+        "doi-asserted-by": "crossref",
+        "first-page": "107",
+        "DOI": "10.1056/NEJMoa1012348",
+        "article-title": "Radiotherapy and short-term androgen deprivation for localized prostate cancer",
+        "volume": "365",
+        "author": "Jones",
+        "year": "2011",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0490",
+        "unstructured": "Nabid A, Carrier N, Martin AG, et al. High risk prostate cancer treated with pelvic radiotherapy and 36 versus 18 months of androgen blockade: results of a phase III randomized study [abstract 3]. Presented at: ASCO Genitourinary Cancers Symposium; February 14–16, 2013; Orlando, FL, USA."
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0495",
+        "doi-asserted-by": "crossref",
+        "first-page": "2516",
+        "DOI": "10.1056/NEJMoa0810095",
+        "article-title": "Duration of androgen suppression in the treatment of prostate cancer",
+        "volume": "360",
+        "author": "Bolla",
+        "year": "2009",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0500",
+        "doi-asserted-by": "crossref",
+        "first-page": "3972",
+        "DOI": "10.1200/JCO.2003.11.023",
+        "article-title": "Phase III trial of long-term adjuvant androgen deprivation after neoadjuvant hormonal cytoreduction and radiotherapy in locally advanced carcinoma of the prostate: the Radiation Therapy Oncology Group Protocol 92–02",
+        "volume": "21",
+        "author": "Hanks",
+        "year": "2003",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0505",
+        "doi-asserted-by": "crossref",
+        "first-page": "301",
+        "DOI": "10.1016/S0140-6736(08)61815-2",
+        "article-title": "Endocrine treatment, with or without radiotherapy, in locally advanced prostate cancer (SPCG-7/SFUO-3): an open randomised phase III trial",
+        "volume": "373",
+        "author": "Widmark",
+        "year": "2009",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0510",
+        "doi-asserted-by": "crossref",
+        "first-page": "2104",
+        "DOI": "10.1016/S0140-6736(11)61095-7",
+        "article-title": "Combined androgen deprivation therapy and radiation therapy for locally advanced prostate cancer: a randomised, phase 3 trial",
+        "volume": "378",
+        "author": "Warde",
+        "year": "2012",
+        "journal-title": "Lancet"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0515",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1016/j.eururo.2012.03.053",
+        "article-title": "Addition of radiotherapy to long-term androgen deprivation in locally advanced prostate cancer: an open randomised phase 3 trial",
+        "volume": "62",
+        "author": "Mottet",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0520",
+        "doi-asserted-by": "crossref",
+        "first-page": "5366",
+        "DOI": "10.1200/JCO.2006.10.5171",
+        "article-title": "Is there a role for pelvic irradiation in localized prostate adenocarcinoma? preliminary results of GETUG-01",
+        "volume": "25",
+        "author": "Pommier",
+        "year": "2007",
+        "journal-title": "J Clin Oncol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0525",
+        "doi-asserted-by": "crossref",
+        "first-page": "646",
+        "DOI": "10.1016/j.ijrobp.2007.04.003",
+        "article-title": "An update of the phase III trial comparing whole pelvic to prostate only radiotherapy and neoadjuvant to adjuvant total androgen suppression: updated analysis of RTOG 94–13, with emphasis on unexpected hormone/radiation interactions",
+        "volume": "69",
+        "author": "Lawton",
+        "year": "2007",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0530",
+        "doi-asserted-by": "crossref",
+        "first-page": "7",
+        "DOI": "10.1016/0360-3016(94)90135-X",
+        "article-title": "The effects of local and regional treatments on the metastatic outcome in prostatic carcinoma with pelvic lymph node involvement",
+        "volume": "28",
+        "author": "Leibel",
+        "year": "1994",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0535",
+        "doi-asserted-by": "crossref",
+        "first-page": "1307",
+        "DOI": "10.1016/0360-3016(88)90225-8",
+        "article-title": "Elective irradiation in stage A2, B carcinoma of the prostate: analysis of RTOG 77 06",
+        "volume": "15",
+        "author": "Asbell",
+        "year": "1988",
+        "journal-title": "Int J Radiat Oncol Biol Phys"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0540",
+        "doi-asserted-by": "crossref",
+        "first-page": "1225",
+        "DOI": "10.1038/bjc.2013.100",
+        "article-title": "Proton beam therapy and localised prostate cancer: current status and controversies",
+        "volume": "108",
+        "author": "Efstathiou",
+        "year": "2013",
+        "journal-title": "Br J Cancer"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0545",
+        "doi-asserted-by": "crossref",
+        "first-page": "1046",
+        "DOI": "10.1001/jama.2010.287",
+        "article-title": "Patient-reported long-term outcomes after conventional and high-dose combined proton and photon radiation for early prostate cancer",
+        "volume": "303",
+        "author": "Talcott",
+        "year": "2010",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0550",
+        "doi-asserted-by": "crossref",
+        "first-page": "1993",
+        "DOI": "10.1016/j.juro.2008.07.108",
+        "article-title": "Best practice statement on cryosurgery for the treatment of localized prostate cancer",
+        "volume": "180",
+        "author": "Babaian",
+        "year": "2008",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0555",
+        "doi-asserted-by": "crossref",
+        "first-page": "559",
+        "DOI": "10.1016/j.eururo.2010.06.037",
+        "article-title": "Multicentric oncologic outcomes of high-intensity focused ultrasound for localized prostate cancer in 803 patients",
+        "volume": "58",
+        "author": "Crouzet",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0560",
+        "doi-asserted-by": "crossref",
+        "first-page": "803",
+        "DOI": "10.1016/j.eururo.2010.09.009",
+        "article-title": "Systematic review of the efficacy and safety of high-intensity focussed ultrasound for the primary and salvage treatment of prostate cancer",
+        "volume": "58",
+        "author": "Warmuth",
+        "year": "2010",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.eururo.2013.09.046_bib0565",
+        "doi-asserted-by": "crossref",
+        "first-page": "323",
+        "DOI": "10.1002/cncr.24779",
+        "article-title": "A randomized trial of external beam radiotherapy versus cryoablation in patients with localized prostate cancer",
+        "volume": "116",
+        "author": "Donnelly",
+        "year": "2010",
+        "journal-title": "Cancer"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283813010403?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283813010403?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2019-07-29T04:59:16Z",
+      "timestamp": 1564376356000
+    },
+    "score": 84.126274,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283813010403"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          1
+        ]
+      ]
+    },
+    "references-count": 113,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2014,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283813010403"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2013.09.046",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "value": "0302-2838",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          1
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "EAU Guidelines on Prostate Cancer. Part 1: Screening, Diagnosis, and Local Treatment with Curative Intent—Update 2013",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2013.09.046",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2013 Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          12
+        ]
+      ],
+      "date-time": "2025-11-12T20:48:20Z",
+      "timestamp": 1762980500934,
+      "version": "3.40.5"
+    },
+    "reference-count": 5,
+    "publisher": "Elsevier BV",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              5,
+              1
+            ]
+          ],
+          "date-time": "2018-05-01T00:00:00Z",
+          "timestamp": 1525132800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "clinicalkey.jp",
+        "clinicalkey.com",
+        "clinicalkey.es",
+        "clinicalkey.fr",
+        "clinicalkey.com.au",
+        "europeanurology.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "European Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.eururo.2018.01.039",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2018-02-13T12:40:26Z",
+      "timestamp": 1518525626000
+    },
+    "page": "e134-e135",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 14,
+    "title": [
+      "Re: Nicolas Mottet, Joaquim Bellmunt, Erik Briers, et al. EAU-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer. European Association of Urology; 2017. http://uroweb.org/guideline/prostate-cancer"
+    ],
+    "prefix": "10.1016",
+    "volume": "73",
+    "author": [
+      {
+        "given": "Juan",
+        "family": "Morote",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Imma",
+        "family": "Comas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jacques",
+        "family": "Planas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "year": "2017",
+        "series-title": "EAU-ESTRO-ESUR-SIOG guidelines on prostate cancer",
+        "author": "Mottet",
+        "key": "10.1016/j.eururo.2018.01.039_bib0030"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.01.039_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "477",
+        "DOI": "10.1016/j.acuro.2016.01.006",
+        "article-title": "Measurement of serum testosterone during androgenic suppression in patients with prostate cancer: a systematic review",
+        "volume": "40",
+        "author": "Morote",
+        "year": "2016",
+        "journal-title": "Acta Urol Esp"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.01.039_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "405",
+        "DOI": "10.1210/jc.2006-1864",
+        "article-title": "Utility, limitations, and pitfalls in measuring testosterone: an Endocrine Society position statement",
+        "volume": "92",
+        "author": "Rosner",
+        "year": "2007",
+        "journal-title": "J Clin Endocrinol Metab"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.01.039_bib0045",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Morote J, Comas I, Planas J, et al. Serum testosterone levels in prostate cancer patients undergoing luteinizing hormone–releasing hormone agonist treatment. Clin Genitourin Cancer. In press. doi:10.1016/j.clgc.2017.10.025.",
+        "DOI": "10.1016/j.clgc.2017.10.025"
+      },
+      {
+        "key": "10.1016/j.eururo.2018.01.039_bib0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1186/s12929-017-0386-0",
+        "article-title": "Accuracy of serum luteinizing hormone and serum testosterone measurements to assess the efficacy of medical castration in prostate cancer patients",
+        "volume": "24",
+        "author": "Morote",
+        "year": "2017",
+        "journal-title": "J Biomed Sci"
+      }
+    ],
+    "container-title": [
+      "European Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283818300939?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0302283818300939?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          23
+        ]
+      ],
+      "date-time": "2018-08-23T23:32:22Z",
+      "timestamp": 1535067142000
+    },
+    "score": 81.64668,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0302283818300939"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    },
+    "references-count": 5,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0302283818300939"
+    ],
+    "URL": "https://doi.org/10.1016/j.eururo.2018.01.039",
+    "ISSN": [
+      "0302-2838"
+    ],
+    "issn-type": [
+      {
+        "type": "print",
+        "value": "0302-2838"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Re: Nicolas Mottet, Joaquim Bellmunt, Erik Briers, et al. EAU-ESTRO-ESUR-SIOG Guidelines on Prostate Cancer. European Association of Urology; 2017. http://uroweb.org/guideline/prostate-cancer",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "European Urology",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.eururo.2018.01.039",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "simple-article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2018 European Association of Urology. Published by Elsevier B.V. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+]

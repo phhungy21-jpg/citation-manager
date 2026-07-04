@@ -1,0 +1,1146 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2026-03-12T18:00:50Z",
+      "timestamp": 1773338450118,
+      "version": "3.50.1"
+    },
+    "reference-count": 14,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "5",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2013-11-01T00:00:00Z",
+          "timestamp": 1383264000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2013.05.055",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2013-05-30T06:33:03Z",
+      "timestamp": 1369895583000
+    },
+    "page": "1787-1790",
+    "source": "Crossref",
+    "is-referenced-by-count": 44,
+    "title": [
+      "Pad Count is a Poor Measure of the Severity of Urinary Incontinence"
+    ],
+    "prefix": "10.1097",
+    "volume": "190",
+    "author": [
+      {
+        "given": "Johnson F.",
+        "family": "Tsui",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "State University of New York Downstate Medical Center, Brooklyn, New York"
+          },
+          {
+            "name": "Institute for Bladder and Prostate Research, New York, New York"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Milan B.",
+        "family": "Shah",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State University of New York Downstate Medical Center, Brooklyn, New York"
+          },
+          {
+            "name": "Institute for Bladder and Prostate Research, New York, New York"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "James M.",
+        "family": "Weinberger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Bladder and Prostate Research, New York, New York"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mazyar",
+        "family": "Ghanaat",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State University of New York Downstate Medical Center, Brooklyn, New York"
+          },
+          {
+            "name": "Institute for Bladder and Prostate Research, New York, New York"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jeffrey P.",
+        "family": "Weiss",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "State University of New York Downstate Medical Center, Brooklyn, New York"
+          },
+          {
+            "name": "Institute for Bladder and Prostate Research, New York, New York"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rajveer S.",
+        "family": "Purohit",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Weill Cornell College of Medicine, New York, New York"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jerry G.",
+        "family": "Blaivas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Weill Cornell College of Medicine, New York, New York"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "reference": [
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib1",
+        "first-page": "304205",
+        "article-title": "The retrourethral transobturator sling suspension in the treatment of male urinary stress incontinence: results of a single institution experience",
+        "volume": "2012",
+        "author": "Mueller",
+        "year": "2012",
+        "journal-title": "ISRN Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1265",
+        "DOI": "10.1007/s00192-012-1740-0",
+        "article-title": "Ajust single incision transobturator sling procedure for stress urinary incontinence: results after 1-year follow-up",
+        "volume": "23",
+        "author": "Cornu",
+        "year": "2012",
+        "journal-title": "Int Urogynecol J"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib3",
+        "doi-asserted-by": "crossref",
+        "first-page": "753",
+        "DOI": "10.1016/j.eururo.2012.03.008",
+        "article-title": "Long-term results of artificial urinary sphincter for women with type III stress urinary incontinence",
+        "volume": "63",
+        "author": "Costa",
+        "year": "2013",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib4",
+        "doi-asserted-by": "crossref",
+        "first-page": "140",
+        "DOI": "10.1016/j.eururo.2012.02.038",
+        "article-title": "Treatment of postprostatectomy male urinary incontinence with the transobturator retroluminal repositioning sling suspension: 3-year follow-up",
+        "volume": "62",
+        "author": "Rehder",
+        "year": "2012",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1451",
+        "DOI": "10.1089/end.2011.0013",
+        "article-title": "Simple method to predict return of continence after robot-assisted radical prostatectomy",
+        "volume": "25",
+        "author": "Skarecky",
+        "year": "2011",
+        "journal-title": "J Endourol"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib6",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1002/nau.21169",
+        "article-title": "Does patient activity level affect 24-hr pad test results in stress-incontinent women?",
+        "volume": "31",
+        "author": "Painter",
+        "year": "2012",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "1091",
+        "DOI": "10.1111/j.1442-2042.2012.03106.x",
+        "article-title": "Urinary continence after radical prostatectomy: predictive factors of recovery after 1 year of surgery",
+        "volume": "19",
+        "author": "Jeong",
+        "year": "2012",
+        "journal-title": "Int J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1363",
+        "DOI": "10.1007/s11255-012-0247-4",
+        "article-title": "Treating stress urinary incontinence in female patients with neuropathic bladder: the value of the autologous fascia rectus sling",
+        "volume": "44",
+        "author": "Athanasopoulos",
+        "year": "2012",
+        "journal-title": "Int Urol Nephrol"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib9",
+        "doi-asserted-by": "crossref",
+        "first-page": "698",
+        "DOI": "10.1016/S0022-5347(05)67284-9",
+        "article-title": "Noninvasive outcome measures of urinary incontinence and lower urinary tract symptoms: a multicenter study of micturition diary and pad tests",
+        "volume": "164",
+        "author": "Groutz",
+        "year": "2000",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1002/nau.20352",
+        "article-title": "A statistical comparison of pad numbers versus pad weights in the quantification of urinary incontinence",
+        "volume": "26",
+        "author": "Dylewski",
+        "year": "2007",
+        "journal-title": "Neurourol Urodyn"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib11",
+        "doi-asserted-by": "crossref",
+        "first-page": "765",
+        "DOI": "10.1590/S1677-55382008000600012",
+        "article-title": "Mixed incontinence: does preoperative urodynamic detrusor overactivity affect postoperative quality of life after pubovaginal sling?",
+        "volume": "34",
+        "author": "Stoffel",
+        "year": "2008",
+        "journal-title": "Int Braz J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib12",
+        "doi-asserted-by": "crossref",
+        "first-page": "549",
+        "DOI": "10.1093/ageing/afq082",
+        "article-title": "Pad per day usage, urinary incontinence and urinary tract infections in nursing home residents",
+        "volume": "39",
+        "author": "Omli",
+        "year": "2010",
+        "journal-title": "Age Ageing"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib13",
+        "doi-asserted-by": "crossref",
+        "first-page": "1810",
+        "DOI": "10.1016/j.juro.2007.01.032",
+        "article-title": "The relationships among measures of incontinence severity in women undergoing surgery for stress urinary incontinence",
+        "volume": "177",
+        "author": "Albo",
+        "year": "2007",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1016/j.juro.2013.05.055_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "596",
+        "DOI": "10.1046/j.1464-410x.1999.00993.x",
+        "article-title": "Calculating the direct costs of urinary incontinence: a new test instrument",
+        "volume": "83",
+        "author": "Dowell",
+        "year": "1999",
+        "journal-title": "BJU Int"
+      }
+    ],
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534713044200?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534713044200?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2013.05.055",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T03:36:04Z",
+      "timestamp": 1651203364000
+    },
+    "score": 83.76927,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2013.05.055"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          11
+        ]
+      ]
+    },
+    "references-count": 14,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2013,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2013.05.055"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2013.05.055",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          11
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          14
+        ]
+      ],
+      "date-time": "2023-09-14T21:19:24Z",
+      "timestamp": 1694726364642
+    },
+    "reference-count": 0,
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "issue": "4S",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2011-04-01T00:00:00Z",
+          "timestamp": 1301616000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.juro.2011.02.766",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          5,
+          19
+        ]
+      ],
+      "date-time": "2011-05-19T20:05:24Z",
+      "timestamp": 1305835524000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "1156 DOES PAD USAGE REFLECT THE SEVERITY OF URINARY INCONTINENCE?"
+    ],
+    "prefix": "10.1097",
+    "volume": "185",
+    "author": [
+      {
+        "given": "Mazyar",
+        "family": "Ghanaat",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Brooklyn, NY"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Johnson",
+        "family": "Tsui",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Brooklyn, NY"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jerry",
+        "family": "Blaivas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "New York, NY"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Milan",
+        "family": "Shah",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Brooklyn, NY"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jeffrey",
+        "family": "Weiss",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Brooklyn, NY"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rajveer",
+        "family": "Purohit",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "New York, NY"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Matthew",
+        "family": "Rutman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "New York, NY"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "276",
+    "container-title": [
+      "Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534711010147?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022534711010147?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.jurology.com/doi/pdf/10.1016/j.juro.2011.02.766",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          29
+        ]
+      ],
+      "date-time": "2022-04-29T02:37:16Z",
+      "timestamp": 1651199836000
+    },
+    "score": 44.698444,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jurology.com/doi/10.1016/j.juro.2011.02.766"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          4
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "4S",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1016/j.juro.2011.02.766"
+    ],
+    "URL": "https://doi.org/10.1016/j.juro.2011.02.766",
+    "ISSN": [
+      "0022-5347",
+      "1527-3792"
+    ],
+    "issn-type": [
+      {
+        "value": "0022-5347",
+        "type": "print"
+      },
+      {
+        "value": "1527-3792",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          2
+        ]
+      ],
+      "date-time": "2026-06-02T03:21:41Z",
+      "timestamp": 1780370501374,
+      "version": "3.54.1"
+    },
+    "reference-count": 25,
+    "publisher": "Wiley",
+    "issue": "5A",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              10,
+              19
+            ]
+          ],
+          "date-time": "2018-10-19T00:00:00Z",
+          "timestamp": 1539907200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Fater S.p.A., Italy"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "bjui-journals.onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "BJU International"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          5
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>Objective</jats:title>\n                    <jats:p>\n                      To determine in a large population of community‐dwelling incontinent patients the accuracy and determinants of pad count as a measure of urinary incontinence (\n                      <jats:styled-content style=\"fixed-case\">UI</jats:styled-content>\n                      ), using data from a multicentre 48‐h pad test study.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Materials and Methods</jats:title>\n                    <jats:p>\n                      Incontinent patients, who were provided with absorbent products for the period January 2012 to March 2016, volunteered to perform a 48‐h home‐based pad test and to fill in a diary with information on pad usage. Correlations between\n                      <jats:styled-content style=\"fixed-case\">UI</jats:styled-content>\n                      measures (48‐h pad count and pad weight gain, mean pad weight gain per pad) were calculated. Logistic regression analyses were conducted to investigate patient‐related and pad usage‐related factors influencing pad count.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>\n                      A total of 14 493 patients (median age 81 years) were included, with a total of 98 362 continence products used overall during the study period. The 48‐h pad count showed a weak correlation with 48‐h pad weight gain (\n                      <jats:italic>R</jats:italic>\n                      <jats:sup>2</jats:sup>\n                      = 0.12; 0.19 for men and 0.11 for women) and mean pad weight gain per pad (\n                      <jats:italic>R</jats:italic>\n                      <jats:sup>2</jats:sup>\n                      = −0.03). The weakest correlation was observed among patients using &gt;6 pads/48 h (\n                      <jats:italic>R</jats:italic>\n                      <jats:sup>2</jats:sup>\n                      = 0.02). A statistically significant negative association between pad absorption capacity and pad count was observed. Patients using products with a shaped and rectangular design had 34% and 40% higher propensity to use more pads than those using briefs (\n                      <jats:italic>P</jats:italic>\n                      &lt; 0.001), respectively.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusions</jats:title>\n                    <jats:p>\n                      The results of this very large observational study confirmed that pad count is a poor measure of\n                      <jats:styled-content style=\"fixed-case\">UI</jats:styled-content>\n                      severity. Pad count only measured 12% of the variability of\n                      <jats:styled-content style=\"fixed-case\">UI</jats:styled-content>\n                      volume and was affected by several patient‐related and pad usage‐related factors. Consequently, pad count should not be used instead of the pad test as an objective measure of\n                      <jats:styled-content style=\"fixed-case\">UI</jats:styled-content>\n                      when an accurate evaluation is required for research or clinical purposes.\n                    </jats:p>\n                  </jats:sec>",
+    "DOI": "10.1111/bju.14566",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          25
+        ]
+      ],
+      "date-time": "2018-09-25T12:11:36Z",
+      "timestamp": 1537877496000
+    },
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 26,
+    "title": [
+      "Patient pad count is a poor measure of urinary incontinence compared with 48‐h pad test: results of a large‐scale multicentre study"
+    ],
+    "prefix": "10.1111",
+    "volume": "123",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4640-8354",
+        "authenticated-orcid": false,
+        "given": "Emilio",
+        "family": "Sacco",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "“Agostino Gemelli” Academic Hospital Foundation‐IRCCS Catholic University School of Medicine Rome Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Riccardo",
+        "family": "Bientinesi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "“Agostino Gemelli” Academic Hospital Foundation‐IRCCS Catholic University School of Medicine Rome Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carlo",
+        "family": "Gandi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "“Agostino Gemelli” Academic Hospital Foundation‐IRCCS Catholic University School of Medicine Rome Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Luca",
+        "family": "Di Gianfrancesco",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "“Agostino Gemelli” Academic Hospital Foundation‐IRCCS Catholic University School of Medicine Rome Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Francesco",
+        "family": "Pierconti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "“Agostino Gemelli” Academic Hospital Foundation‐IRCCS Catholic University School of Medicine Rome Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marco",
+        "family": "Racioppi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "“Agostino Gemelli” Academic Hospital Foundation‐IRCCS Catholic University School of Medicine Rome Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pierfrancesco",
+        "family": "Bassi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "“Agostino Gemelli” Academic Hospital Foundation‐IRCCS Catholic University School of Medicine Rome Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          19
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_9_2_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.eururo.2006.09.019"
+      },
+      {
+        "key": "e_1_2_9_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2147/OAJU.S4166"
+      },
+      {
+        "key": "e_1_2_9_4_1",
+        "first-page": "499",
+        "volume-title": "Incontinence. 6th International Consultation on Incontinence",
+        "author": "Castro‐Diaz D",
+        "year": "2016"
+      },
+      {
+        "key": "e_1_2_9_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.23335"
+      },
+      {
+        "key": "e_1_2_9_6_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(05)67284-9"
+      },
+      {
+        "key": "e_1_2_9_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1471-6712.1991.tb00077.x"
+      },
+      {
+        "key": "e_1_2_9_8_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1520-6777(1997)16:3<145::AID-NAU2>3.0.CO;2-E"
+      },
+      {
+        "key": "e_1_2_9_9_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s001920050028"
+      },
+      {
+        "key": "e_1_2_9_10_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1471-0528.2001.00069.x"
+      },
+      {
+        "key": "e_1_2_9_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1471-0528.1996.tb09669.x"
+      },
+      {
+        "key": "e_1_2_9_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.ju.0000101844.65511.75"
+      },
+      {
+        "key": "e_1_2_9_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/1520-6777(1994)13:3<261::AID-NAU1930130308>3.0.CO;2-T"
+      },
+      {
+        "key": "e_1_2_9_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2006.06185.x"
+      },
+      {
+        "key": "e_1_2_9_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.22873"
+      },
+      {
+        "key": "e_1_2_9_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.urology.2018.02.022"
+      },
+      {
+        "key": "e_1_2_9_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1464-410X.2012.10948.x"
+      },
+      {
+        "key": "e_1_2_9_18_1",
+        "first-page": "1653",
+        "volume-title": "Incontinence. 5th International Consultation on Incontinence",
+        "author": "Cottenden A",
+        "year": "2013"
+      },
+      {
+        "key": "e_1_2_9_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.20352"
+      },
+      {
+        "key": "e_1_2_9_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2013.05.055"
+      },
+      {
+        "key": "e_1_2_9_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/ageing/afq082"
+      },
+      {
+        "key": "e_1_2_9_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1532-5415.1997.tb04504.x"
+      },
+      {
+        "key": "e_1_2_9_23_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00000446-200411000-00028"
+      },
+      {
+        "key": "e_1_2_9_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1046/j.1464-410x.1999.00993.x"
+      },
+      {
+        "key": "e_1_2_9_25_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.juro.2014.03.031"
+      },
+      {
+        "key": "e_1_2_9_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0167-4943(88)90011-8"
+      }
+    ],
+    "container-title": [
+      "BJU International"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fbju.14566",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/bju.14566",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T17:53:01Z",
+      "timestamp": 1761760381000
+    },
+    "score": 42.16776,
+    "resource": {
+      "primary": {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/bju.14566"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          19
+        ]
+      ]
+    },
+    "references-count": 25,
+    "journal-issue": {
+      "issue": "5A",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/bju.14566"
+    ],
+    "URL": "https://doi.org/10.1111/bju.14566",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "1464-4096",
+      "1464-410X"
+    ],
+    "issn-type": [
+      {
+        "value": "1464-4096",
+        "type": "print"
+      },
+      {
+        "value": "1464-410X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          19
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2018-10-19",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+]

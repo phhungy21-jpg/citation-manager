@@ -1,0 +1,1515 @@
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2026-03-11T22:38:17Z",
+      "timestamp": 1773268697300,
+      "version": "3.50.1"
+    },
+    "reference-count": 23,
+    "publisher": "Wiley",
+    "issue": "8",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2008,
+              5,
+              15
+            ]
+          ],
+          "date-time": "2008-05-15T00:00:00Z",
+          "timestamp": 1210809600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "bjui-journals.onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "BJU International"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          10
+        ]
+      ]
+    },
+    "abstract": "<jats:sec>\n                    <jats:title>OBJECTIVE</jats:title>\n                    <jats:p>To evaluate, in a prospective, single‐blind, randomized trial, the safety and efficacy of a suspension technique for improving early recovery of continence after radical retropubic prostatectomy (RRP).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>PATIENTS AND METHODS</jats:title>\n                    <jats:p>We randomly assigned 60 men with clinically localized prostate cancer to RRP; 30 were treated with the suspension technique and the remaining 30 were not. All patients had RRP by the same surgeon followed by early catheter removal on the third day after RRP. The primary outcome measures were the interval to recovery of continence, and the positive margin rates. The continence status was evaluated by a third party using validated questionnaires at baseline before RRP and at 4 and 7 days, and 2 weeks, 1, 3, 6 and 12 months after RRP.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>RESULTS</jats:title>\n                    <jats:p>\n                      The suspension technique resulted in significantly greater continence rates at 1, 3 and 6 months after RRP of 53% vs 20%, 73% vs 47% and 100% vs 83%. Kaplan‐Meier curves also showed that patients in the suspension group had a significantly earlier recovery of continence than in the no‐suspension group; the median (95% confidence interval) interval for recovery was 31 (12–74) days in the suspension group and 90 (65–150) days in the no‐suspension group (log rank test,\n                      <jats:italic>P </jats:italic>\n                      = 0.002). The groups had no significant differences in their histological status.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>CONCLUSIONS</jats:title>\n                    <jats:p>The suspension technique had a significant effect on the earlier recovery of urinary continence within 6 months after RRP, without compromising the oncological outcome of RRP.</jats:p>\n                  </jats:sec>",
+    "DOI": "10.1111/j.1464-410x.2008.07759.x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          5,
+          15
+        ]
+      ],
+      "date-time": "2008-05-15T06:39:32Z",
+      "timestamp": 1210833572000
+    },
+    "page": "958-963",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 40,
+    "title": [
+      "A randomized clinical trial of suspension technique for improving early recovery of urinary continence after radical retropubic prostatectomy"
+    ],
+    "prefix": "10.1111",
+    "volume": "102",
+    "author": [
+      {
+        "given": "Masanori",
+        "family": "Noguchi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tatsuyuki",
+        "family": "Kakuma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shigetaka",
+        "family": "Suekane",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Osamu",
+        "family": "Nakashima",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Elnisr Rashed",
+        "family": "Mohamed",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kei",
+        "family": "Matsuoka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          20
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_7_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0302-2838(03)00296-3"
+      },
+      {
+        "key": "e_1_2_7_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMsa011788"
+      },
+      {
+        "key": "e_1_2_7_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(03)00515-6"
+      },
+      {
+        "key": "e_1_2_7_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1081/CNV-200029074"
+      },
+      {
+        "key": "e_1_2_7_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(17)38382-9"
+      },
+      {
+        "key": "e_1_2_7_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(01)65334-5"
+      },
+      {
+        "key": "e_1_2_7_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(17)35645-8"
+      },
+      {
+        "key": "e_1_2_7_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(99)80121-6"
+      },
+      {
+        "key": "e_1_2_7_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(94)80052-9"
+      },
+      {
+        "key": "e_1_2_7_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(01)68180-1"
+      },
+      {
+        "key": "e_1_2_7_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(02)01956-8"
+      },
+      {
+        "key": "e_1_2_7_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1159/000048429"
+      },
+      {
+        "key": "e_1_2_7_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1442-2042.2004.00935.x"
+      },
+      {
+        "key": "e_1_2_7_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1442-2042.2006.01313.x"
+      },
+      {
+        "key": "e_1_2_7_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/01.ju.0000065822.15012.b7"
+      },
+      {
+        "key": "e_1_2_7_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/1097-0142(20000901)89:5<1056::AID-CNCR15>3.0.CO;2-U"
+      },
+      {
+        "key": "e_1_2_7_18_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5980/jpnjurol1989.93.659"
+      },
+      {
+        "key": "e_1_2_7_19_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(01)63222-1"
+      },
+      {
+        "key": "e_1_2_7_20_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00365590310017280"
+      },
+      {
+        "key": "e_1_2_7_21_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(02)01596-0"
+      },
+      {
+        "key": "e_1_2_7_22_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(05)68003-2"
+      },
+      {
+        "key": "e_1_2_7_23_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(05)66534-2"
+      },
+      {
+        "key": "e_1_2_7_24_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(01)65488-0"
+      }
+    ],
+    "container-title": [
+      "BJU International"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1464-410X.2008.07759.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1464-410X.2008.07759.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          29
+        ]
+      ],
+      "date-time": "2025-10-29T14:14:22Z",
+      "timestamp": 1761747262000
+    },
+    "score": 118.13039,
+    "resource": {
+      "primary": {
+        "URL": "https://bjui-journals.onlinelibrary.wiley.com/doi/10.1111/j.1464-410X.2008.07759.x"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          20
+        ]
+      ]
+    },
+    "references-count": 23,
+    "journal-issue": {
+      "issue": "8",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            10
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/j.1464-410X.2008.07759.x"
+    ],
+    "URL": "https://doi.org/10.1111/j.1464-410x.2008.07759.x",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "1464-4096",
+      "1464-410X"
+    ],
+    "issn-type": [
+      {
+        "value": "1464-4096",
+        "type": "print"
+      },
+      {
+        "value": "1464-410X",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          9,
+          20
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2008-09-20",
+        "order": 3,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          5
+        ]
+      ],
+      "date-time": "2022-04-05T08:12:29Z",
+      "timestamp": 1649146349419
+    },
+    "reference-count": 0,
+    "publisher": "Elsevier BV",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2007,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2007-03-01T00:00:00Z",
+          "timestamp": 1172707200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "European Urology Supplements"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2007,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/s1569-9056(07)60514-4",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2007,
+          3,
+          24
+        ]
+      ],
+      "date-time": "2007-03-24T07:06:26Z",
+      "timestamp": 1174719986000
+    },
+    "page": "151",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "516 SUSPENSION TECHNIQUE IMPROVES RECOVERY OF URINARY CONTINENCE FOLLOWING RADICAL RETROPUBIC PROSTATECTOMY: RESULTS OF A PROSPECTIVE, SINGLE BLIND, RANDOMIZED TRIAL"
+    ],
+    "prefix": "10.1016",
+    "volume": "6",
+    "author": [
+      {
+        "given": "M.",
+        "family": "Noguchi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.",
+        "family": "Suekane",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "O.",
+        "family": "Nakashima",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "T.",
+        "family": "Kakuma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "K.",
+        "family": "Matsuoka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "container-title": [
+      "European Urology Supplements"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905607605144?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569905607605144?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          8
+        ]
+      ],
+      "date-time": "2019-01-08T12:23:30Z",
+      "timestamp": 1546950210000
+    },
+    "score": 73.982796,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569905607605144"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2007,
+          3
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            3
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S1569905607605144"
+    ],
+    "URL": "https://doi.org/10.1016/s1569-9056(07)60514-4",
+    "ISSN": [
+      "1569-9056"
+    ],
+    "issn-type": [
+      {
+        "value": "1569-9056",
+        "type": "print"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2007,
+          3
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          29
+        ]
+      ],
+      "date-time": "2026-01-29T23:23:19Z",
+      "timestamp": 1769728999037,
+      "version": "3.49.0"
+    },
+    "reference-count": 16,
+    "publisher": "Wiley",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2006,
+              5,
+              25
+            ]
+          ],
+          "date-time": "2006-05-25T00:00:00Z",
+          "timestamp": 1148515200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 54,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Int J of Urology"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          4
+        ]
+      ]
+    },
+    "abstract": "<jats:p><jats:bold>Background: </jats:bold> We investigated urodynamic findings involved in the rapid recovery of urinary continence after radical retropubic prostatectomy with a suspension technique.</jats:p><jats:p><jats:bold>Methods: </jats:bold> A total of 45 consecutive patients (mean age 67.6 years) who had undergone radical retropubic prostatectomy for localized prostate cancer were evaluated with multichannel urodynamics including the maximal urethral pressure (MUP), functional urethral length (FUL), maximal cystometric capacity (MCC) and abdominal leak point pressure (ALPP) at base line, 1 week, 1 month, and 3 months postoperatively. The suspension of vesicourethral anastomosis preserving anterior attachments of puboprostatic ligaments to pubic bone was performed in 33 patients. Twelve patients did not undergo the suspension technique.</jats:p><jats:p><jats:bold>Results: </jats:bold> The continence rates at 1 week, 1 month, and 3 months after radical prostatectomy in the suspension group were significantly higher than those in the non‐suspension group: 67% versus 0% at 1 week (<jats:italic>P</jats:italic> &lt; 0.001), 82% versus 25% at 1 month (<jats:italic>P</jats:italic> &lt; 0.001), and 91% versus 50% at 3 months (<jats:italic>P</jats:italic> &lt; 0.01), respectively. Postoperative ALPP at all points of measurement was significantly higher in the suspension group than in the non‐suspension group (<jats:italic>P</jats:italic> &lt; 0.0002). There was no difference in MUP, FUL or MCC at each point following radical prostatectomy between the two groups.</jats:p><jats:p><jats:bold>Conclusions: </jats:bold> These observations suggest that preserving anterior attachments of puboprostatic ligaments to pubic bone and fixation of urethral hyper‐mobility by the suspension of vesicourethral anastomosis promotes rapid recovery of urinary continence after radical retropubic prostatectomy.</jats:p>",
+    "DOI": "10.1111/j.1442-2042.2006.01313.x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          5,
+          25
+        ]
+      ],
+      "date-time": "2006-05-25T08:51:28Z",
+      "timestamp": 1148547088000
+    },
+    "page": "373-378",
+    "source": "Crossref",
+    "is-referenced-by-count": 34,
+    "title": [
+      "Urodynamic evaluation of a suspension technique for rapid recovery of continence after radical retropubic prostatectomy"
+    ],
+    "prefix": "10.1111",
+    "volume": "13",
+    "author": [
+      {
+        "given": "MASANORI",
+        "family": "NOGUCHI",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "AKIHIKO",
+        "family": "SHIMADA",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "OSAMU",
+        "family": "NAKASHIMA",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "MASAMICHI",
+        "family": "KOJIRO",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "KEI",
+        "family": "MATSUOKA",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2006,
+          5,
+          25
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_5_2_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(17)38382-9"
+      },
+      {
+        "key": "e_1_2_5_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(01)65334-5"
+      },
+      {
+        "key": "e_1_2_5_4_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(17)35645-8"
+      },
+      {
+        "key": "e_1_2_5_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(99)80121-6"
+      },
+      {
+        "key": "e_1_2_5_6_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0090-4295(94)80052-9"
+      },
+      {
+        "key": "e_1_2_5_7_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(01)68180-1"
+      },
+      {
+        "key": "e_1_2_5_8_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2739/kurumemedj.51.245"
+      },
+      {
+        "key": "e_1_2_5_9_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1111/j.1442-2042.2004.00935.x"
+      },
+      {
+        "key": "e_1_2_5_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(17)40155-8"
+      },
+      {
+        "key": "e_1_2_5_11_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(01)62525-4"
+      },
+      {
+        "key": "e_1_2_5_12_2",
+        "first-page": "2865",
+        "volume-title": "Campbell's Urology",
+        "author": "Walsh PC",
+        "year": "1992"
+      },
+      {
+        "key": "e_1_2_5_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0022-5347(17)39057-2"
+      },
+      {
+        "key": "e_1_2_5_14_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/1097-0142(20000901)89:5<1056::AID-CNCR15>3.0.CO;2-U"
+      },
+      {
+        "key": "e_1_2_5_15_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5980/jpnjurol1989.93.659"
+      },
+      {
+        "key": "e_1_2_5_16_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/nau.10052"
+      },
+      {
+        "key": "e_1_2_5_17_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/(SICI)1520-6777(1997)16:3<153::AID-NAU4>3.0.CO;2-D"
+      }
+    ],
+    "container-title": [
+      "International Journal of Urology"
+    ],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1442-2042.2006.01313.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1442-2042.2006.01313.x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          15
+        ]
+      ],
+      "date-time": "2023-10-15T09:30:06Z",
+      "timestamp": 1697362206000
+    },
+    "score": 54.93273,
+    "resource": {
+      "primary": {
+        "URL": "https://onlinelibrary.wiley.com/doi/10.1111/j.1442-2042.2006.01313.x"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          4
+        ]
+      ]
+    },
+    "references-count": 16,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1111/j.1442-2042.2006.01313.x"
+    ],
+    "URL": "https://doi.org/10.1111/j.1442-2042.2006.01313.x",
+    "archive": [
+      "Portico"
+    ],
+    "ISSN": [
+      "0919-8172",
+      "1442-2042"
+    ],
+    "issn-type": [
+      {
+        "value": "0919-8172",
+        "type": "print"
+      },
+      {
+        "value": "1442-2042",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          4
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          20
+        ]
+      ],
+      "date-time": "2025-11-20T18:21:49Z",
+      "timestamp": 1763662909375
+    },
+    "reference-count": 0,
+    "publisher": "Kurume Medical Journal",
+    "issue": "3/4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Kurume Med. J."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "DOI": "10.2739/kurumemedj.51.245",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          9
+        ]
+      ],
+      "date-time": "2011-06-09T07:58:31Z",
+      "timestamp": 1307606311000
+    },
+    "page": "245-251",
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "title": [
+      "Suspension Technique Improves Rapid Recovery of Urinary Continence Following Radical Retropubic Prostatectomy"
+    ],
+    "prefix": "10.2739",
+    "volume": "51",
+    "author": [
+      {
+        "given": "MASANORI",
+        "family": "NOGUCHI",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "SHINSHI",
+        "family": "NODA",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "OSAMU",
+        "family": "NAKASHIMA",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "KEI",
+        "family": "MATSUOKA",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "MASAMICHI",
+        "family": "KOJIRO",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1445",
+    "container-title": [
+      "The Kurume Medical Journal"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          20
+        ]
+      ],
+      "date-time": "2021-05-20T13:29:54Z",
+      "timestamp": 1621517394000
+    },
+    "score": 54.0,
+    "resource": {
+      "primary": {
+        "URL": "http://www.jstage.jst.go.jp/article/kurumemedj1954/51/3-4/51_3-4_245/_article"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "issue": "3/4",
+      "published-print": {
+        "date-parts": [
+          [
+            2004
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.2739/kurumemedj.51.245",
+    "ISSN": [
+      "0023-5679",
+      "1881-2090"
+    ],
+    "issn-type": [
+      {
+        "value": "0023-5679",
+        "type": "print"
+      },
+      {
+        "value": "1881-2090",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    }
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          7
+        ]
+      ],
+      "date-time": "2026-05-07T10:44:10Z",
+      "timestamp": 1778150650680,
+      "version": "3.51.4"
+    },
+    "reference-count": 20,
+    "publisher": "Medknow",
+    "issue": "5",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    },
+    "DOI": "10.1111/j.1745-7262.2008.00361.x",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2008,
+          8,
+          18
+        ]
+      ],
+      "date-time": "2008-08-18T17:19:39Z",
+      "timestamp": 1219079979000
+    },
+    "page": "777-785",
+    "source": "Crossref",
+    "is-referenced-by-count": 38,
+    "title": [
+      "Randomized clinical trial of an ethanol extract of<i>Ganoderma lucidum</i>in men with lower urinary tract symptoms"
+    ],
+    "prefix": "10.4103",
+    "volume": "10",
+    "author": [
+      {
+        "given": "Masanori",
+        "family": "Noguchi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tatsuyuki",
+        "family": "Kakuma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Katsuro",
+        "family": "Tomiyasu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Akira",
+        "family": "Yamada",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kyogo",
+        "family": "Itoh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Fumiko",
+        "family": "Konishi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Shoichiro",
+        "family": "Kumamoto",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kuniyoshi",
+        "family": "Shimizu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ryuichiro",
+        "family": "Kondo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kei",
+        "family": "Matsuoka",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "2581",
+    "reference": [
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB1",
+        "doi-asserted-by": "crossref",
+        "first-page": "607",
+        "DOI": "10.1001/jama.1995.03520320015008",
+        "article-title": "Growing use of medicinal botanicals forces assessment by drug regulators.",
+        "volume": "273",
+        "author": "Marwik",
+        "year": "1995",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1548",
+        "DOI": "10.1001/jama.279.19.1548",
+        "article-title": "Why patients use alternative medicine: results of a national study.",
+        "volume": "279",
+        "author": "Astin",
+        "year": "1998",
+        "journal-title": "JAMA"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB3",
+        "first-page": "1",
+        "article-title": "Complementary and alternative medicine use among adults: United States, 2002.",
+        "volume": "343",
+        "author": "Barnes",
+        "year": "2004",
+        "journal-title": "Adv Data"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB4",
+        "volume-title": "Proceedings of the 5th International Consultation on Benign Prostatic Hyperpla-sia (BPH)",
+        "author": "Dreikorn",
+        "year": "2001"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1102",
+        "DOI": "10.1016/0888-7543(91)90038-G",
+        "article-title": "Characterization and chromosomal mapping of a human steroid 5 alpha-reductase gene and pseudogene and mapping of the mouse homologue.",
+        "volume": "11",
+        "author": "Jenkins",
+        "year": "1991",
+        "journal-title": "Genomics"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB6",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1016/S0960-0760(99)00030-8",
+        "article-title": "Differences in steroid 5alpha-reductase iso-enzymes expression between normal and pathological human prostate tissue.",
+        "volume": "68",
+        "author": "Iehle",
+        "year": "1999",
+        "journal-title": "J Steroid Biochem Mol Biol"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB7",
+        "doi-asserted-by": "crossref",
+        "first-page": "367",
+        "DOI": "10.1159/000020181",
+        "article-title": "Dihydrotestosterone and the concept of 5alpha-reductase inhibition in human benign prostatic hyperplasia.",
+        "volume": "37",
+        "author": "Bartsch",
+        "year": "2000",
+        "journal-title": "Eur Urol"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB8",
+        "doi-asserted-by": "crossref",
+        "first-page": "5",
+        "DOI": "10.1111/j.1439-0272.1998.tb01375.x",
+        "article-title": "Erectile dysfunction following treatments of benign prostatic hyperplasia: a prospective study.",
+        "volume": "30",
+        "author": "Uygur",
+        "year": "1998",
+        "journal-title": "Andrologia"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB9",
+        "doi-asserted-by": "crossref",
+        "first-page": "189",
+        "DOI": "10.1007/s10086-004-0645-z",
+        "article-title": "The effect of strain, growth stage and cultivating condition of Ganoderma lucidum on 5α-reductase inhibition.",
+        "volume": "51",
+        "author": "Liu",
+        "year": "2005",
+        "journal-title": "J Wood Sci"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB10",
+        "doi-asserted-by": "crossref",
+        "first-page": "571",
+        "DOI": "10.1210/endo-117-2-571",
+        "article-title": "Species differences in prostatic steroid 5 alpha-reduc-tases of rat, dog, and human",
+        "volume": "117",
+        "author": "Liang",
+        "year": "1985",
+        "journal-title": "Endocrinology"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1691",
+        "DOI": "10.1016/j.foodchem.2006.01.003",
+        "article-title": "Anti-androgenic activities of the triterpenoids fraction of Ganoderma lucidum.",
+        "volume": "100",
+        "author": "Liu",
+        "year": "2007",
+        "journal-title": "Food Chem"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB12",
+        "doi-asserted-by": "crossref",
+        "first-page": "157",
+        "DOI": "10.1111/j.1749-6632.1999.tb08734.x",
+        "article-title": "Update from Asia. Asian studies on cancer chemoprevention.",
+        "volume": "889",
+        "author": "Yun",
+        "year": "1999",
+        "journal-title": "Ann NY Acad Sci"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB13",
+        "article-title": "Phase I study of an ethanol extract of Ganoderma lucidum, edible and medicinal mushroom, in men with mild symptoms of bladder outlet obstruction",
+        "author": "Noguchi",
+        "journal-title": "Asian J Androl"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1549",
+        "DOI": "10.1016/S0022-5347(17)36966-5",
+        "article-title": "The American Urological Association symptom index for benign prostatic hyperplasia. The Measurement Committee of the American Urological Association.",
+        "volume": "148",
+        "author": "Barry",
+        "year": "1992",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB15",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.2165/00044011-199509050-00007",
+        "article-title": "Placebo-controlled evaluation of the efficacy and tolerability of Permixon in benign prostatic hyperplasia after exclusion of placebo responders.",
+        "volume": "9",
+        "author": "Descotes",
+        "year": "1995",
+        "journal-title": "Clin Drug Invest"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB16",
+        "first-page": "15",
+        "article-title": "Permixon versus placebo: results d'une etude multicentrique.",
+        "volume": "4",
+        "author": "Cukier",
+        "year": "1985",
+        "journal-title": "C R Ther Pharmacol Clin"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB17",
+        "doi-asserted-by": "crossref",
+        "first-page": "557",
+        "DOI": "10.1056/NEJMoa053085",
+        "article-title": "Saw palmetto for benign prostatic hyperplasia.",
+        "volume": "354",
+        "author": "Bent",
+        "year": "2006",
+        "journal-title": "N Engl J Med"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB18",
+        "doi-asserted-by": "crossref",
+        "first-page": "533",
+        "DOI": "10.1016/S0090-4295(99)00593-2",
+        "article-title": "Meta-analysis of clinical trials of Permixon in the treatment of symptomatic benign prostatic hyperplasia.",
+        "volume": "55",
+        "author": "Boyle",
+        "year": "2000",
+        "journal-title": "Urology"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB19",
+        "first-page": "332",
+        "article-title": "Progression delay in men with mild symptoms of bladder outlet obstruction: a prospective comparative study of phytotherapy, watchful waiting and placebo",
+        "volume": "169",
+        "author": "Hruby",
+        "year": "2003",
+        "journal-title": "J Urol"
+      },
+      {
+        "key": "10.1111/j.1745-7262.2008.00361.x-BIB20",
+        "doi-asserted-by": "crossref",
+        "first-page": "505",
+        "DOI": "10.1007/s00120-005-0798-4",
+        "article-title": "Drug therapy for benign prostatic hyperplasia: a systemtic overview.",
+        "volume": "44",
+        "author": "Berges",
+        "year": "2005",
+        "journal-title": "Urologe A"
+      }
+    ],
+    "container-title": [
+      "Asian Journal of Andrology"
+    ],
+    "language": "en",
+    "deposited": {
+      "date-parts": [
+        [
+          2019,
+          2,
+          13
+        ]
+      ],
+      "date-time": "2019-02-13T17:17:10Z",
+      "timestamp": 1550078230000
+    },
+    "score": 46.584545,
+    "resource": {
+      "primary": {
+        "URL": "http://www.asiaandro.com/Abstract.asp?doi=10.1111/j.1745-7262.2008.00361.x"
+      }
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "5",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            9
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1111/j.1745-7262.2008.00361.x",
+    "ISSN": [
+      "1008-682X",
+      "1745-7262"
+    ],
+    "issn-type": [
+      {
+        "value": "1008-682X",
+        "type": "print"
+      },
+      {
+        "value": "1745-7262",
+        "type": "electronic"
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2008,
+          9
+        ]
+      ]
+    }
+  }
+]

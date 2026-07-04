@@ -1,0 +1,377 @@
+{
+  "paper": "Karabulut 2020.md",
+  "source_file": "..\\TEMP\\Karabulut 2020.md",
+  "generated": "2026-07-01T07:28:32.059124+00:00",
+  "dry_run": true,
+  "provenance": "automated_pipeline",
+  "counts": {
+    "unresolved_reference": 9,
+    "dry_run_skipped": 13
+  },
+  "flagged": [
+    {
+      "sentence": "Radical prostatectomy is the main therapeutic technique for localized prostate cancer (LPCa) in patients who have a life expectancy of over 10 years [1, 2].",
+      "citation_number": 1,
+      "ref_text": "Walsh PC. Anatomic Radical Retropubic Prostatectomy. In: Walsh PC, Retik AB, Vaughan ED Wein AJ (Eds): Campell's Urology 7th Edition 1998; 2565-88.",
+      "status": "unresolved_reference",
+      "reason": "Book chapter citation — not reliably resolvable via journal search",
+      "best_candidate": null
+    },
+    {
+      "sentence": "A recently introduced reconstructive technique in RALP reported significant improvements in continence rates [8].",
+      "citation_number": 8,
+      "ref_text": "Ficcara V, Novara G, Rosen RC, at al. Systematic review and meta-analysis of studies reporting urinary continence recovery after robot- assisted radical prostatectomy. European Urology 2012; 62: 405-17. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.eururo.2012.11.037",
+        "title": "Re: Vincenzo Ficarra, Giacomo Novara, Raymond C. Rosen, et al. Systematic Review and Meta-analysis of Studies Reporting Urinary Continence Recovery After Robot-assisted Radical Prostatectomy. Eur Urol 2012;62:405–17",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false,
+        "rejected_reason": "commentary_article_title"
+      }
+    },
+    {
+      "sentence": "Incontinence following radical prostatectomy may result from direct traumatization to the sphincter during surgery or secondary to injury of the nerve that passes over the prostate and controls sphincter functions [9].",
+      "citation_number": 9,
+      "ref_text": "Carlson KV, Nitti NW. Prevantion and management of incontinence following radical prostatactomy. Urol Clin North Am 2001; 28: 595-612. [CrossRef] 60 • Karabulut et al. Reconstructive Techniques on Continence in Robot-Assisted Laparoscopy Eurasian J Med 2020; 52(1): 57-60",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.21037/tau.2020.03.36",
+        "title": "Surgical techniques to improve continence recovery after robot-assisted radical prostatectomy",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.5,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "[10], the continence rates after ORP, LRP, and RALP were reported as 79%, 84.8%, and 92%, respec- **Figure 1.** Long urethral stump. **Figure 2.** Anterior suspension suture. **Table 1.** Demographic data and comparison of preoperative and postoperative variables |||Reconstructive group|Control group|| |---|---|---|---|---| |||(n:20)|(n:20)|p| ||Age (years)|60.15±5.72|61.5±5.29|0.297α| ||BMI (kg/cm2)|25.75±3.24|26.15±3.78|0.462α| ||ASA (I/II/III)|9/10/1|6/13/1|0.609b| ||Risk Group (Low/Middle)|11/9|9/11|0.752b| ||Concomitant Disease|9/4/3/4/0|11/3/3/2/1|0.734b| ||(none/HT/COPD/DM/DM+HT)|||| ||Preoperative PSA|8.49± 3.43|10.65±3.84|0.093α| ||Weight of Prostate|76.20±16.8|69.00± 6.69|0.223α| ||Duration of Surgery (min)|196.20±12.64|200.30±10.82|0.136α| ||Duration of Hospitalization (d)|6.40±0.82|6.25±0.91|0.626α| ||Surgery Border (0/1)|15/5|15/5|1.000b| ||Total Amounts of Bleeding|108.±23.24|113.25±28.52|0.183α| ||Values are expressed as mean±standard deviation or number.",
+      "citation_number": 10,
+      "ref_text": "CoehloRF, Rocco B, Patel MB, at al. Retropubic, laparoscopic and robot asisted radical prostatectomy: a critical review of outcomes reported by high volume centres. J Endourol 2010; 24: 200315. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1089/end.2010.0295",
+        "title": "Retropubic, Laparoscopic, and Robot-Assisted Radical Prostatectomy: A Critical Review of Outcomes Reported by High-Volume Centers",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.85,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Other studies reported continence rates between 90% and 95% after RALP [11, 12].",
+      "citation_number": 12,
+      "ref_text": "Patel VR, Palmer KJ, Coughlin G, Samavedi S. Robotic-Asisted Laparoscopic Radical Prostatectomy: periopetaive outcomes of 1500 cases. J Endourol 2008; 22: 2299-306. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/s1569-9056(08)61054-4",
+        "title": "MANAGEMENT OF DIFFICULT ANATOMY DURING ROBOTIC ASSISTED LAPAROSCOPIC RADICAL PROSTATECTOMY",
+        "year_match": true,
+        "author_match": true,
+        "title_word_overlap": 0.44,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Currently, there is no consensus on the relationship between prostate volume and continence [17, 18].",
+      "citation_number": 18,
+      "ref_text": "Zom KC, Orvietto MA. Mikhail AA, et al. Effect prostat weight on operative and postoperative outcımes robot-asissted laparoscopic prostatectomy. Urology 2007; 69: 300-5. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.urology.2006.10.021",
+        "title": "Effect of Prostate Weight on Operative and Postoperative Outcomes of Robotic-Assisted Laparoscopic Prostatectomy",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.7,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "[19] suggested that prostate volumes >50cc were associated with low continence rates.",
+      "citation_number": 19,
+      "ref_text": "Kontey BR, Sadetsky N, Caroll PR; CaPSURE Investigators. Recovery of urinary continence following radical prostatectomy: the impact of prostate volume analysis of data capsure database. J Urol 2007; 177: 1423. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1038/sj.pcan.4501015",
+        "title": "Prostate cancer outcomes among older men: insurance status comparisons results from CaPSURE database",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.25,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "[15] reported that preservation of the maximum urethral length combined with anterior or posterior reconstructive techniques increased the continence rates.",
+      "citation_number": 15,
+      "ref_text": "Hamada A, Razdan S, Etafy MH, Fagin R. Early Return of Continance in Patients Undergoing Robot-Asisted Laparoscopic Prostatectomy Usuing Modified Maximal Urethral Length Preservation Technique. J Endourol 2014; 28; 930-8. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1007/s11701-023-01548-4",
+        "title": "Robot assisted laparoscopic radical prostatectomy with maximal urethral length preservation technique preserves penile length",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.64,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Several studies have reported advanced age and increased BMI as risk factors for postoperative incontinence [20, 21].",
+      "citation_number": 20,
+      "ref_text": "Wolin KY, Luy J, Sutcliffe S, Androile GL, Kibel AS. Risk of Urinary Incontinance Following Prostatectomy: the role physical activity and obesity. J Urol 2010; 183: 629-33. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1249/01.mss.0000353624.63070.30",
+        "title": "Physical Activity And Obesity And Risk Of Urinary Incontinence Following Prostatectomy",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.88,
+        "confident": false
+      }
+    }
+  ],
+  "all_checks": [
+    {
+      "sentence": "Radical prostatectomy is the main therapeutic technique for localized prostate cancer (LPCa) in patients who have a life expectancy of over 10 years [1, 2].",
+      "citation_number": 1,
+      "ref_text": "Walsh PC. Anatomic Radical Retropubic Prostatectomy. In: Walsh PC, Retik AB, Vaughan ED Wein AJ (Eds): Campell's Urology 7th Edition 1998; 2565-88.",
+      "status": "unresolved_reference",
+      "reason": "Book chapter citation — not reliably resolvable via journal search",
+      "best_candidate": null
+    },
+    {
+      "sentence": "Radical prostatectomy is the main therapeutic technique for localized prostate cancer (LPCa) in patients who have a life expectancy of over 10 years [1, 2].",
+      "citation_number": 2,
+      "ref_text": "Bianco FJ Jr, Scardino PT, Eastham JA. Radical prostatectomy: long term cancer contro and recovery of sexual and urinary function('trifecta'). Urology 2005; 66: 83-94. [CrossRef]",
+      "doi": "10.1016/j.urology.2005.06.116",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[3] as the trifecta.",
+      "citation_number": 3,
+      "ref_text": "Salomon L, Saint F, Anastasiadis AG, Sebe P, Chopin D, Abbou CC. Combined reporting of cancer control and functional results of radical prostatectomy. Eur Urol 2003; 44: 656-60. [CrossRef]",
+      "doi": "10.1016/j.eururo.2003.09.009",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Despite advancements in surgical techniques, continence was conserved for only 60%-95% of patients undergoing either open radical prostatectomy (ORP) or laparoscopic radical prostatectomy (LRP) procedures [4-6].",
+      "citation_number": 4,
+      "ref_text": "Ficarra V, Novara G, Rosen RC, at al. Systematic review and meta-analysis of studies reporting urinary cantinence recovery after robot-asisted radical prostatectomy. Europan Urology 2012; 62: 405-17. [CrossRef]",
+      "doi": "10.1016/j.eururo.2012.05.045",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Despite advancements in surgical techniques, continence was conserved for only 60%-95% of patients undergoing either open radical prostatectomy (ORP) or laparoscopic radical prostatectomy (LRP) procedures [4-6].",
+      "citation_number": 5,
+      "ref_text": "Ficarra V, Novara G, Artibani W, at al. Retropubic, laparoskopic and robot asisted radical prostatectomy: a systematic review and cumulative analysis of comparative studies. Europan Urology 2009; 55: 1037-63. [CrossRef]",
+      "doi": "10.1016/j.eururo.2009.01.036",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Despite advancements in surgical techniques, continence was conserved for only 60%-95% of patients undergoing either open radical prostatectomy (ORP) or laparoscopic radical prostatectomy (LRP) procedures [4-6].",
+      "citation_number": 6,
+      "ref_text": "Guillonneau B, Cathelineau X, Barret E, Rozet F, Vallencien G. Laparoscopic radical prostatectomy: technical and early oncological assessment of 40 operations. Eur Urol 1999; 36: 14-20. [CrossRef]",
+      "doi": "10.1159/000019921",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[7].",
+      "citation_number": 7,
+      "ref_text": "Menon M, Tewari A, Peabody JO, et al. Vakutiti Institue prostatectomy, a technique of robotic radikal prostatectomy for management of lacalized carcinoma of the prostate; experience of over 1100 cases. Urol Clin North Am 2004; 31: 701-17. [CrossRef]",
+      "doi": "10.1016/j.ucl.2004.06.011",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "A recently introduced reconstructive technique in RALP reported significant improvements in continence rates [8].",
+      "citation_number": 8,
+      "ref_text": "Ficcara V, Novara G, Rosen RC, at al. Systematic review and meta-analysis of studies reporting urinary continence recovery after robot- assisted radical prostatectomy. European Urology 2012; 62: 405-17. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.eururo.2012.11.037",
+        "title": "Re: Vincenzo Ficarra, Giacomo Novara, Raymond C. Rosen, et al. Systematic Review and Meta-analysis of Studies Reporting Urinary Continence Recovery After Robot-assisted Radical Prostatectomy. Eur Urol 2012;62:405–17",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.0,
+        "confident": false,
+        "rejected_reason": "commentary_article_title"
+      }
+    },
+    {
+      "sentence": "Body mass index (BMI) (kg/m[2] ); age; preoperative prostate-specific antigen (PSA) level; prostate volume; Gleason score; D’Amico risk class; clinical stage; operation type and the application of either perioperative or postoperative reconstructive techniques; duration of the catheterization; and continence rate in the 3[rd] , 6[th] , and 12[th] month after the removal of catheter were the parameters investigated.",
+      "citation_number": 2,
+      "ref_text": "Bianco FJ Jr, Scardino PT, Eastham JA. Radical prostatectomy: long term cancer contro and recovery of sexual and urinary function('trifecta'). Urology 2005; 66: 83-94. [CrossRef]",
+      "doi": "10.1016/j.urology.2005.06.116",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Incontinence following radical prostatectomy may result from direct traumatization to the sphincter during surgery or secondary to injury of the nerve that passes over the prostate and controls sphincter functions [9].",
+      "citation_number": 9,
+      "ref_text": "Carlson KV, Nitti NW. Prevantion and management of incontinence following radical prostatactomy. Urol Clin North Am 2001; 28: 595-612. [CrossRef] 60 • Karabulut et al. Reconstructive Techniques on Continence in Robot-Assisted Laparoscopy Eurasian J Med 2020; 52(1): 57-60",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.21037/tau.2020.03.36",
+        "title": "Surgical techniques to improve continence recovery after robot-assisted radical prostatectomy",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.5,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "[10], the continence rates after ORP, LRP, and RALP were reported as 79%, 84.8%, and 92%, respec- **Figure 1.** Long urethral stump. **Figure 2.** Anterior suspension suture. **Table 1.** Demographic data and comparison of preoperative and postoperative variables |||Reconstructive group|Control group|| |---|---|---|---|---| |||(n:20)|(n:20)|p| ||Age (years)|60.15±5.72|61.5±5.29|0.297α| ||BMI (kg/cm2)|25.75±3.24|26.15±3.78|0.462α| ||ASA (I/II/III)|9/10/1|6/13/1|0.609b| ||Risk Group (Low/Middle)|11/9|9/11|0.752b| ||Concomitant Disease|9/4/3/4/0|11/3/3/2/1|0.734b| ||(none/HT/COPD/DM/DM+HT)|||| ||Preoperative PSA|8.49± 3.43|10.65±3.84|0.093α| ||Weight of Prostate|76.20±16.8|69.00± 6.69|0.223α| ||Duration of Surgery (min)|196.20±12.64|200.30±10.82|0.136α| ||Duration of Hospitalization (d)|6.40±0.82|6.25±0.91|0.626α| ||Surgery Border (0/1)|15/5|15/5|1.000b| ||Total Amounts of Bleeding|108.±23.24|113.25±28.52|0.183α| ||Values are expressed as mean±standard deviation or number.",
+      "citation_number": 10,
+      "ref_text": "CoehloRF, Rocco B, Patel MB, at al. Retropubic, laparoscopic and robot asisted radical prostatectomy: a critical review of outcomes reported by high volume centres. J Endourol 2010; 24: 200315. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1089/end.2010.0295",
+        "title": "Retropubic, Laparoscopic, and Robot-Assisted Radical Prostatectomy: A Critical Review of Outcomes Reported by High-Volume Centers",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.85,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Other studies reported continence rates between 90% and 95% after RALP [11, 12].",
+      "citation_number": 11,
+      "ref_text": "Kural AR, Altuğ F. The applications of robotic surgery in Urology. Turk J Urol 2010; 36: 248-57. [CrossRef]",
+      "doi": "10.5152/tud.2010.025",
+      "status": "dry_run_skipped",
+      "abstract_source": "openalex"
+    },
+    {
+      "sentence": "Other studies reported continence rates between 90% and 95% after RALP [11, 12].",
+      "citation_number": 12,
+      "ref_text": "Patel VR, Palmer KJ, Coughlin G, Samavedi S. Robotic-Asisted Laparoscopic Radical Prostatectomy: periopetaive outcomes of 1500 cases. J Endourol 2008; 22: 2299-306. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/s1569-9056(08)61054-4",
+        "title": "MANAGEMENT OF DIFFICULT ANATOMY DURING ROBOTIC ASSISTED LAPAROSCOPIC RADICAL PROSTATECTOMY",
+        "year_match": true,
+        "author_match": true,
+        "title_word_overlap": 0.44,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Currently, there is no consensus on the relationship between prostate volume and continence [17, 18].",
+      "citation_number": 17,
+      "ref_text": "Link BA, Soga H, Jsephon DY, et al. The impact of prostat gland weight in robot asisted laparoscopic radical prostatectomy. J Urol 2008; 180: 928-32. [CrossRef]",
+      "doi": "10.1016/j.juro.2008.05.029",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "Currently, there is no consensus on the relationship between prostate volume and continence [17, 18].",
+      "citation_number": 18,
+      "ref_text": "Zom KC, Orvietto MA. Mikhail AA, et al. Effect prostat weight on operative and postoperative outcımes robot-asissted laparoscopic prostatectomy. Urology 2007; 69: 300-5. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1016/j.urology.2006.10.021",
+        "title": "Effect of Prostate Weight on Operative and Postoperative Outcomes of Robotic-Assisted Laparoscopic Prostatectomy",
+        "year_match": true,
+        "author_match": false,
+        "title_word_overlap": 0.7,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "[19] suggested that prostate volumes >50cc were associated with low continence rates.",
+      "citation_number": 19,
+      "ref_text": "Kontey BR, Sadetsky N, Caroll PR; CaPSURE Investigators. Recovery of urinary continence following radical prostatectomy: the impact of prostate volume analysis of data capsure database. J Urol 2007; 177: 1423. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1038/sj.pcan.4501015",
+        "title": "Prostate cancer outcomes among older men: insurance status comparisons results from CaPSURE database",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.25,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "[13] conducted a study focused on the suturing techniques of periurethral retropubic suspension comparing sutured (n=237) and nonsutured (n=97) groups and found that the continence rates 3 months after surgery were significantly higher for patients with a suspension suture.",
+      "citation_number": 13,
+      "ref_text": "Steiner MS. The pubuprostatic ligament and male urethral suspensory mechanism: an anatomic study. Urology 1994; 44: 530-4. [CrossRef]",
+      "doi": "10.1016/s0090-4295(94)80052-9",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[14] investigated urethral suspension to determine continence rate.",
+      "citation_number": 14,
+      "ref_text": "Noguchi M, Kakuma T, Suekena S, Nakashima O, Mohammed R, Matsuoka K. A randomized clinical trial of suspension technique for improving - early recovery of urinary continance after radical retropubicprostateectomy. BJU Int 2008; 102: 958-63. [CrossRef]",
+      "doi": "10.1111/j.1464-410x.2008.07759.x",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[15] reported that preservation of the maximum urethral length combined with anterior or posterior reconstructive techniques increased the continence rates.",
+      "citation_number": 15,
+      "ref_text": "Hamada A, Razdan S, Etafy MH, Fagin R. Early Return of Continance in Patients Undergoing Robot-Asisted Laparoscopic Prostatectomy Usuing Modified Maximal Urethral Length Preservation Technique. J Endourol 2014; 28; 930-8. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1007/s11701-023-01548-4",
+        "title": "Robot assisted laparoscopic radical prostatectomy with maximal urethral length preservation technique preserves penile length",
+        "year_match": false,
+        "author_match": false,
+        "title_word_overlap": 0.64,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Several studies have reported advanced age and increased BMI as risk factors for postoperative incontinence [20, 21].",
+      "citation_number": 20,
+      "ref_text": "Wolin KY, Luy J, Sutcliffe S, Androile GL, Kibel AS. Risk of Urinary Incontinance Following Prostatectomy: the role physical activity and obesity. J Urol 2010; 183: 629-33. [CrossRef]",
+      "status": "unresolved_reference",
+      "reason": "No candidate cleared the confidence bar",
+      "best_candidate": {
+        "doi": "10.1249/01.mss.0000353624.63070.30",
+        "title": "Physical Activity And Obesity And Risk Of Urinary Incontinence Following Prostatectomy",
+        "year_match": false,
+        "author_match": true,
+        "title_word_overlap": 0.88,
+        "confident": false
+      }
+    },
+    {
+      "sentence": "Several studies have reported advanced age and increased BMI as risk factors for postoperative incontinence [20, 21].",
+      "citation_number": 21,
+      "ref_text": "Sugaya K, Oda M, Nishijima S, et al. Risk factors for duration of urinary ıncontinance after radical prostatcetomy. Nihon Hinyokika Gakkai Zasshi 2002; 93: 444. [CrossRef]",
+      "doi": "10.5980/jpnjurol1989.93.444",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    },
+    {
+      "sentence": "[16] randomized and compared continence rate in patients who underwent RALP or LRP and developed normograms.",
+      "citation_number": 16,
+      "ref_text": "Jeong SJ, Yeon JS, Lee JK, at al. Development and validation of nomograms to predict the recovery of urinary continence after radical prostatectomy: comparisons between immediate, early, and late continence. World J Urol 2014; 32: 437-44. [CrossRef]",
+      "doi": "10.1007/s00345-013-1127-y",
+      "status": "dry_run_skipped",
+      "abstract_source": "pubmed"
+    }
+  ]
+}
