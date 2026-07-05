@@ -1,4 +1,4 @@
-# Citation Pipeline
+# Citation Validator
 
 Tools for maintaining a verified, citation-checked reference library for manuscripts. The core rule: **no citekey, DOI, author, journal, year, or title is ever invented** — every reference comes from CrossRef, PubMed, or OpenAlex via `add_reference.py`.
 
