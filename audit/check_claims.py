@@ -62,6 +62,7 @@ import llm_client           # noqa: E402
 import pdf_to_md            # noqa: E402
 import fulltext_fetch       # noqa: E402 — gate 2: OA full-text re-check
 import jats_parser          # noqa: E402 — alternate input path: PMC structured XML
+import format_router        # noqa: E402 — multi-format ingestion (.pdf/.docx/.tex/.html/.xml)
 
 LOGS_DIR = AUDIT_DIR / "logs"
 LLM_CALL_DIR = LOGS_DIR / "llm_calls"
@@ -141,14 +142,24 @@ FULLTEXT_CHAR_LIMIT = 40000  # keep within a reasonable context budget
 
 
 # ── Manuscript loading ────────────────────────────────────────────────────────
+# .md is the one format handled directly in this file (see format_router.py's
+# module docstring for why: years of hand-tuned fixes here operate on raw
+# markdown text and shouldn't be routed through a generic XML round-trip).
+# Every other format (.pdf/.docx/.tex/.html/.htm/.xml) goes through
+# format_router.route(), which already returns {body, refs, ...} in the
+# shape this script needs — see load_from_router() below.
 def load_manuscript(path: Path) -> str:
-    if path.suffix.lower() == ".pdf":
-        md_path = path.with_suffix(".md")
-        if not md_path.exists():
-            print(f"Converting {path.name} to Markdown ...")
-            pdf_to_md.convert(path, md_path)
-        return md_path.read_text(encoding="utf-8")
     return path.read_text(encoding="utf-8")
+
+
+def load_from_router(path: Path) -> tuple:
+    """Non-.md local files: dispatch through format_router.py. Returns
+    (body, refs, known_dois) — same shape load_from_pmcid() returns, so the
+    main loop doesn't need to know which path was used."""
+    data = format_router.route(path)
+    refs = {n: info["ref_text"] for n, info in data["refs"].items()}
+    known_dois = {n: info["doi"] for n, info in data["refs"].items() if info.get("doi")}
+    return data["body"], refs, known_dois
 
 
 def split_body_and_refs(md_text: str) -> tuple:
@@ -379,7 +390,7 @@ def load_from_pmcid(pmcid: str) -> tuple:
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("manuscript", nargs="?", default=None, help="Path to .md or .pdf of the published paper")
+    parser.add_argument("manuscript", nargs="?", default=None, help="Path to the published paper (.md/.pdf/.docx/.tex/.html/.xml)")
     parser.add_argument("--pmcid", default=None, help="PMC ID (numeric, no 'PMC' prefix) — fetches structured JATS XML instead of a local file")
     parser.add_argument("--limit", type=int, default=None, help="Only process the first N claims (testing)")
     parser.add_argument("--dry-run", action="store_true", help="Parse/resolve/fetch abstracts, skip LLM calls")
@@ -399,9 +410,12 @@ def main():
             print(f"ERROR: not found: {path}", file=sys.stderr)
             sys.exit(1)
         paper_label = path.name
-        md_text = load_manuscript(path)
-        body, ref_section = split_body_and_refs(md_text)
-        refs = rr.parse_reference_list(md_text)
+        if path.suffix.lower() == ".md":
+            md_text = load_manuscript(path)
+            body, ref_section = split_body_and_refs(md_text)
+            refs = rr.parse_reference_list(md_text)
+        else:
+            body, refs, known_dois = load_from_router(path)
 
     claims = extract_claims(body)
     if args.limit:
@@ -433,16 +447,25 @@ def main():
                 continue
 
             if n in known_dois:
-                doi_cache.setdefault(n, {"resolved": True, "doi": known_dois[n], "score": {"source": "jats_xml_direct"}})
+                doi_cache.setdefault(n, {
+                    "resolved": True, "doi": known_dois[n],
+                    "score": {"source": "jats_xml_direct"}, "resolution_method": "jats_xml_direct",
+                })
             if n not in doi_cache:
                 doi_cache[n] = rr.resolve_reference(ref_text)
             resolution = doi_cache[n]
 
             if not resolution["resolved"]:
+                # doi_invalid (a broken DOI actually printed in the source) is
+                # a distinct finding from unresolved_reference (no DOI could
+                # be found at all) — surfaced as its own status rather than
+                # collapsed into one bucket.
+                status = "doi_invalid" if resolution.get("status") == "doi_invalid" else "unresolved_reference"
                 entry = {
                     "sentence": claim["sentence"], "citation_number": n, "ref_text": ref_text,
-                    "status": "unresolved_reference", "reason": resolution["reason"],
+                    "status": status, "reason": resolution["reason"],
                     "best_candidate": resolution.get("best_candidate"),
+                    "resolution_method": resolution.get("resolution_method"),
                 }
                 all_checks.append(entry); flagged.append(entry)
                 continue
@@ -464,6 +487,7 @@ def main():
                 entry = {
                     "sentence": claim["sentence"], "citation_number": n, "ref_text": ref_text, "doi": doi,
                     "status": "dry_run_skipped", "abstract_source": abs_info["abstract_source"],
+                    "resolution_method": resolution.get("resolution_method"),
                 }
                 all_checks.append(entry)
                 continue
@@ -474,6 +498,7 @@ def main():
 
             entry = {
                 "sentence": claim["sentence"], "citation_number": n, "ref_text": ref_text, "doi": doi,
+                "resolution_method": resolution.get("resolution_method"),
                 "abstract_source": abs_info["abstract_source"],
                 "abstract_verdict": verdict["verdict"], "abstract_flag_type": verdict["flag_type"],
                 "quote": verdict["quote"], "gap": verdict["gap"],

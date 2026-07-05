@@ -5,6 +5,98 @@ MANIFEST.md tracks "what exists," this tracks "why we chose it."
 
 ---
 
+## 2026-07-06 — Phase 4: multi-format ingestion + hardened reference resolution
+
+User handed over a detailed spec asking for two things: (1) normalize *any*
+manuscript format (PDF/docx/LaTeX/md/HTML/JATS) to one standard shape before
+claim-checking, using GROBID for PDFs and pandoc for everything else; (2) a
+much stricter reference-resolution pipeline — dedup, an escalating fallback
+cascade beyond Crossref, exact/fuzzy title tiers with an ambiguity-gap rule,
+and explicit `doi_invalid`/`unresolved` outcomes with a persistent ledger.
+
+Given the size of this change, four scoping questions were asked and
+confirmed before writing any code (all went with the recommended option):
+1. **GROBID isn't running locally** (no response on `:8070`) — built the
+   client + TEI→JATS normalization anyway, with automatic fallback to the
+   existing pymupdf4llm path (`pdf_to_md.py`) when GROBID is unreachable.
+   Means this is untested against a live GROBID instance — only against a
+   hand-built TEI fixture (see tei_to_jats.py bug below) — but the fallback
+   branch is real-tested and the client activates the moment GROBID is
+   running (`docker run -p 8070:8070 lfoppiano/grobid:0.8.0`).
+2. **Table/figure handling** — tagged into `low_confidence_spans` only, no
+   reading agent built (none existed in this codebase, confirmed out of
+   scope for this pass).
+3. **Fallback cascade** — Semantic Scholar + DataCite + arXiv/bioRxiv/medRxiv
+   implemented now (all free, no key required); CORE gated behind
+   `CORE_API_KEY`, same fail-closed pattern `llm_client.py` already uses for
+   `ANTHROPIC_API_KEY`.
+4. **Registry location** — new audit-only `data/citation_registry.json`,
+   deliberately not `library.csl.json` (which stays exclusively the
+   manuscript bibliography per CLAUDE.md's "only add_reference.py touches
+   it" rule).
+
+### New files
+`citation_registry.py` (dedup/ledger), `fallback_sources.py` (escalating
+resolution beyond Crossref), `grobid_client.py` + `tei_to_jats.py` (PDF via
+GROBID), `pandoc_convert.py` (docx/tex/html/md via pandoc's JATS writer),
+`format_router.py` (single dispatch point, wired into `check_claims.py`).
+`.md` deliberately stays outside the router — it has years of hand-tuned
+fixes (reference-list contamination, IQR-range false positives, running-
+header splicing) that operate on raw text directly; routing it through a
+generic XML round-trip would regress all of that for no benefit.
+
+### `ref_resolver.py` rewrite
+`resolve_reference()`'s cascade, in order: literal DOI in the ref text →
+validate at Crossref (404 → `doi_invalid`, not `unresolved` — a broken DOI
+in the source is itself a finding) → dedup lookup → book-chapter filter
+(unchanged) → exact contiguous-title match (new, stricter than fuzzy
+overlap) → fuzzy match (threshold raised 0.70→0.85) with a new ambiguity-gap
+rule (best candidate must lead the runner-up by >0.10 overlap, else
+unresolved rather than guessed) → fallback cascade → unresolved stub. Every
+outcome, success or not, is written to `citation_registry.py`.
+
+### Two real bugs caught while writing the tests for this
+1. **`tei_to_jats.py`: `xml:id` read from the wrong namespace.** `xml:id`
+   lives in the XML namespace (`http://www.w3.org/XML/1998/namespace`), not
+   TEI's own namespace — the first version's lookup silently matched
+   nothing, so every `<ref target="#bN">` citation marker in the body text
+   failed to link to its `<biblStruct xml:id="bN">` reference entry (the
+   `[n]` marker just vanished from the rendered body instead of erroring).
+   Caught by a hand-built TEI fixture test, not by GROBID itself (unreachable
+   in this environment). Fixed with an explicit `_xml_id()` helper using the
+   correct namespace.
+2. **`jats_parser.parse_jats()` couldn't parse pandoc's own JATS output.**
+   PMC efetch responses wrap articles in `<pmc-articleset><article>...`, so
+   the existing `root.find(".//article")` (descendants only) works — but
+   pandoc's `-t jats` writer emits `<article>` as the document root itself,
+   which `.//article` never matches (ElementTree's `.//` excludes the node
+   it's called on). `parse_jats()` silently returned `None` for a perfectly
+   valid document. Fixed with an explicit root-tag check. This is a shared
+   file (also used by the PMC `--pmcid` path) — the fix is additive and
+   doesn't change PMC's existing behavior at all.
+
+### Verified end-to-end (dry-run, no LLM calls, real network calls)
+- `.md` path: reran Karabulut 2020 before/after — identical counts, confirms
+  zero regression to the existing calibrated pipeline.
+- New `.html` path (via pandoc): a synthetic 3-reference test manuscript
+  correctly left all 3 fake references unresolved/no-match (the confidence
+  bar and fallback cascade did not fabricate matches for made-up citations,
+  except one coincidental real-DOI match that's an artifact of using overly
+  generic synthetic text like "Third paper" — not a pipeline bug, just a
+  reminder these thresholds are tuned against *real* reference text).
+- Dedup ledger confirmed: a second `check_claims.py` run against the same
+  paper made zero ref-resolution network calls (~10s runtime, all spent on
+  abstract fetches, not Crossref/fallback searches).
+- `fallback_sources.core_search()` confirmed to skip cleanly with no
+  `CORE_API_KEY` set, without blocking the rest of the cascade.
+
+### Not yet tested
+GROBID's actual PDF path (`grobid_client.convert()` → `tei_to_jats`) — no
+live GROBID instance in this environment. Only the fallback branch
+(pymupdf4llm) and the TEI-parsing logic (via a hand-built fixture) are
+verified. First live run should also sanity-check GROBID's table/figure
+tagging against a real PDF with real tables.
+
 ## 2026-07-01 — First 10/100 manual adjudication pass complete (standing in for the LLM API)
 
 User asked me to personally do the adjudication (abstract-only Gate 1

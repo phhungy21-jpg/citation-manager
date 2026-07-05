@@ -135,9 +135,17 @@ def _parse_refs(article: ET.Element) -> Dict[int, dict]:
 
 
 def parse_jats(xml_text: str) -> Optional[dict]:
-    """Parse one article's JATS XML. Returns None if no <article> found."""
+    """Parse one article's JATS XML. Returns None if no <article> found.
+
+    Handles both root shapes: PMC efetch wraps articles in
+    <pmc-articleset><article>...</article></pmc-articleset> (root.find(".//
+    article") finds the nested element), while pandoc's `-t jats` writer
+    emits <article> as the document root itself — ElementTree's ".//" only
+    matches descendants, never the root, so that case needs an explicit
+    self-check or it silently returns None for a perfectly valid document.
+    """
     root = ET.fromstring(xml_text)
-    article = root.find(".//article")
+    article = root if root.tag == "article" else root.find(".//article")
     if article is None:
         return None
 

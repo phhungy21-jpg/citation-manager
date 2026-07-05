@@ -30,11 +30,21 @@ with high confidence," not "verified."
 import hashlib
 import json
 import re
+import sys
 import time
 from pathlib import Path
 from typing import Optional, List, Dict
 
 import requests
+
+AUDIT_DIR = Path(__file__).parent
+PIPELINE_DIR = AUDIT_DIR.parent
+sys.path.insert(0, str(PIPELINE_DIR))
+sys.path.insert(0, str(AUDIT_DIR))
+
+import add_reference as ar     # noqa: E402 — direct-DOI validation via Crossref
+import citation_registry as cr  # noqa: E402 — dedup + resolution ledger
+import fallback_sources         # noqa: E402 — Semantic Scholar / DataCite / preprint / CORE
 
 MAILTO = "phhung.y21@gmail.com"
 CROSSREF_SEARCH_URL = "https://api.crossref.org/works"
@@ -42,7 +52,14 @@ HEADERS = {"User-Agent": f"citation-pipeline-audit/1.0 (mailto:{MAILTO})"}
 
 CACHE_DIR = Path(__file__).parent / "cache" / "ref_resolution"
 
-WORD_OVERLAP_THRESHOLD = 0.70
+# Raised from 0.70 per the hardened-resolution spec: a higher bar plus the
+# new ambiguity-gap rule (see resolve_reference) means fewer false accepts,
+# at the cost of a few more "correctly unresolved" outcomes — consistent
+# with this project's "flag, don't guess" posture.
+WORD_OVERLAP_THRESHOLD = 0.85
+AMBIGUITY_GAP = 0.10  # top candidate must lead the runner-up by more than this
+
+_DOI_IN_TEXT_RE = re.compile(r"\b(10\.\d{4,9}/[^\s\"'<>]+)")
 
 
 # ── Reference-list parsing ──────────────────────────────────────────────────
@@ -231,35 +248,196 @@ def score_candidate(ref_text: str, msg: dict) -> dict:
 _BOOK_CHAPTER_MARKER = re.compile(r"(?i)\bin:\s*[A-Z][a-zA-Z]+.{0,80}\(eds?\.?\)")
 
 
+def _extract_doi_from_text(text: str) -> Optional[str]:
+    m = _DOI_IN_TEXT_RE.search(text)
+    if not m:
+        return None
+    return m.group(1).rstrip(".,;)")
+
+
+def validate_doi(doi: str) -> bool:
+    """True if Crossref confirms this DOI exists. Distinguishes a genuinely
+    broken/malformed DOI (doi_invalid — a finding worth surfacing in its own
+    right) from a reference that simply has no DOI in its text (unresolved,
+    handled by the search-based steps below)."""
+    try:
+        ar.fetch_crossref(doi)
+        return True
+    except requests.HTTPError as e:
+        if e.response is not None and e.response.status_code == 404:
+            return False
+        raise
+
+
+def _to_resolver_result(cached: dict) -> dict:
+    """Replay a citation_registry record without re-hitting any API —
+    the dedup path."""
+    if cached["status"] == "resolved":
+        return {
+            "resolved": True, "doi": cached["doi"],
+            "score": {"source": cached["resolution_method"], "cached": True},
+            "resolution_method": cached["resolution_method"],
+        }
+    if cached["status"] == "doi_invalid":
+        return {
+            "resolved": False, "status": "doi_invalid",
+            "reason": f"DOI {cached['doi']} previously found invalid at Crossref (cached)",
+            "best_candidate": None, "resolution_method": cached["resolution_method"],
+        }
+    return {
+        "resolved": False, "reason": "Previously unresolved (cached)",
+        "best_candidate": None, "resolution_method": "unresolved",
+    }
+
+
+def _first_exact_title_match(ref_text: str, scored: List[dict]) -> Optional[dict]:
+    """Stricter than the fuzzy word-overlap check below: accepts a candidate
+    only when its full normalized title appears as a contiguous substring of
+    the normalized reference text (not just each word present somewhere)."""
+    ref_norm = re.sub(r"[^a-z0-9]+", " ", ref_text.lower()).strip()
+    for c in scored:
+        if c.get("rejected_reason"):
+            continue
+        title_norm = re.sub(r"[^a-z0-9]+", " ", c["title"].lower()).strip()
+        if title_norm and len(title_norm.split()) >= 3 and title_norm in ref_norm:
+            return c
+    return None
+
+
 # ── Public entry point ────────────────────────────────────────────────────────
 def resolve_reference(ref_text: str) -> dict:
-    """Resolve one raw reference-list entry to a DOI, or report unresolved.
+    """Resolve one raw reference-list entry to a DOI, or report unresolved/
+    doi_invalid. Never guesses — a low-confidence or ambiguous top hit is
+    reported as unresolved with the candidate attached for manual review, not
+    silently accepted.
 
-    Returns either:
-        {"resolved": True, "doi": ..., "score": {...}}
-        {"resolved": False, "reason": ..., "best_candidate": {...} | None}
-    Never guesses — a low-confidence top hit is reported as unresolved with
-    the candidate attached for manual review, not silently accepted.
+    Cascade (stops at first hit, every outcome is written to
+    citation_registry so reruns and cross-paper dedup never re-fetch):
+        1. DOI already embedded in ref_text -> validate directly at Crossref.
+           404 -> "doi_invalid" (a broken DOI is itself a finding, not just
+           an obstacle to route around).
+        2. citation_registry dedup lookup (by ref_text/year) -> replay cached
+           outcome with zero network calls.
+        3. Book-chapter filter (unchanged from before).
+        4. Crossref bibliographic search -> exact contiguous-title match.
+        5. Crossref fuzzy word-overlap match (>=0.85), accepted only if it
+           leads the runner-up candidate by more than the ambiguity gap —
+           two comparably-scored candidates are reported unresolved rather
+           than guessed between.
+        6. Escalating fallback cascade: Semantic Scholar -> DataCite ->
+           arXiv/bioRxiv/medRxiv -> CORE (skipped without CORE_API_KEY).
+        7. Unresolved — registered as a stub with the raw text preserved.
+
+    Returns:
+        {"resolved": True, "doi": ..., "score": {...}, "resolution_method": ...}
+        {"resolved": False, "reason": ..., "best_candidate": {...} | None,
+         "resolution_method": ..., "status": "doi_invalid" (only when applicable)}
     """
+    ref_year = _extract_year(ref_text)
+
+    # Step 1 — a DOI already printed in the reference text.
+    literal_doi = _extract_doi_from_text(ref_text)
+    if literal_doi:
+        cached = cr.lookup(doi=literal_doi)
+        if cached:
+            return _to_resolver_result(cached)
+        try:
+            valid = validate_doi(literal_doi)
+        except Exception as e:
+            return {"resolved": False, "reason": f"DOI validation failed: {e}",
+                    "best_candidate": None, "resolution_method": "unresolved"}
+        if valid:
+            cr.register(doi=literal_doi, status="resolved", resolution_method="doi_direct",
+                        raw_ref_text=ref_text, source="crossref", year=ref_year)
+            return {"resolved": True, "doi": literal_doi,
+                    "score": {"source": "doi_direct"}, "resolution_method": "doi_direct"}
+        cr.register(doi=literal_doi, status="doi_invalid", resolution_method="doi_direct",
+                    raw_ref_text=ref_text, source="crossref", year=ref_year)
+        return {"resolved": False, "status": "doi_invalid",
+                "reason": f"DOI {literal_doi} does not resolve at Crossref (404)",
+                "best_candidate": None, "resolution_method": "doi_direct"}
+
+    # Step 2 — dedup: has this exact reference text been resolved (or given
+    # up on) in a prior run, for this or another paper?
+    cached = cr.lookup(title=ref_text, year=ref_year)
+    if cached:
+        return _to_resolver_result(cached)
+
+    # Step 3 — book chapters aren't reliably resolvable via journal search.
     if _BOOK_CHAPTER_MARKER.search(ref_text):
-        return {"resolved": False, "reason": "Book chapter citation — not reliably resolvable via journal search", "best_candidate": None}
+        cr.register(doi=None, status="unresolved", resolution_method="unresolved",
+                    raw_ref_text=ref_text, source="ref_resolver.book_chapter_filter",
+                    title=ref_text, year=ref_year)
+        return {"resolved": False,
+                "reason": "Book chapter citation — not reliably resolvable via journal search",
+                "best_candidate": None, "resolution_method": "unresolved"}
 
     try:
         candidates = crossref_search(ref_text)
     except requests.HTTPError as e:
-        return {"resolved": False, "reason": f"Crossref search failed: {e}", "best_candidate": None}
-
-    if not candidates:
-        return {"resolved": False, "reason": "No Crossref candidates found", "best_candidate": None}
+        candidates = []
+        crossref_error = str(e)
+    else:
+        crossref_error = None
 
     scored = [score_candidate(ref_text, c) for c in candidates]
+    ambiguous_candidate = None
 
-    # Crossref ranks by relevance, but the top hit is sometimes a "Re: <same
-    # title>" commentary/response article (different DOI, different authors,
-    # sometimes different year) rather than the original paper — check every
-    # returned candidate for the confidence bar, not just the top one.
-    for candidate in scored:
-        if candidate["confident"]:
-            return {"resolved": True, "doi": candidate["doi"], "score": candidate}
+    if scored:
+        # Step 4 — exact contiguous-title match.
+        exact = _first_exact_title_match(ref_text, scored)
+        if exact:
+            cr.register(doi=exact["doi"], status="resolved", resolution_method="title_exact",
+                        raw_ref_text=ref_text, source="crossref", title=exact["title"], year=ref_year)
+            return {"resolved": True, "doi": exact["doi"], "score": exact, "resolution_method": "title_exact"}
 
-    return {"resolved": False, "reason": "No candidate cleared the confidence bar", "best_candidate": scored[0]}
+        # Step 5 — fuzzy match + ambiguity-gap rule. Crossref ranks by
+        # relevance, but the top hit is sometimes a "Re: <same title>"
+        # commentary article (see _COMMENTARY_PREFIX above), so every
+        # candidate is checked, not just the top one.
+        confident_sorted = sorted(
+            (c for c in scored if c["confident"]),
+            key=lambda c: c["title_word_overlap"], reverse=True,
+        )
+        if confident_sorted:
+            clear_leader = (
+                len(confident_sorted) == 1
+                or (confident_sorted[0]["title_word_overlap"] - confident_sorted[1]["title_word_overlap"]) > AMBIGUITY_GAP
+            )
+            if clear_leader:
+                best = confident_sorted[0]
+                cr.register(doi=best["doi"], status="resolved", resolution_method="title_fuzzy",
+                            raw_ref_text=ref_text, source="crossref", title=best["title"], year=ref_year)
+                return {"resolved": True, "doi": best["doi"], "score": best, "resolution_method": "title_fuzzy"}
+            ambiguous_candidate = confident_sorted[0]
+
+    # Step 6 — escalating fallback cascade, stop at first hit.
+    for method, fn in (
+        ("fallback_semantic_scholar", fallback_sources.semantic_scholar_search),
+        ("fallback_datacite", fallback_sources.datacite_search),
+        ("fallback_preprint", fallback_sources.preprint_search),
+        ("fallback_core", fallback_sources.core_search),
+    ):
+        try:
+            hit = fn(ref_text, ref_year)
+        except Exception:
+            hit = None
+        if hit:
+            cr.register(doi=hit["doi"], status="resolved", resolution_method=method,
+                        raw_ref_text=ref_text, source=method, title=hit.get("title"), year=ref_year)
+            return {"resolved": True, "doi": hit["doi"], "score": hit, "resolution_method": method}
+
+    # Step 7 — nothing resolved. Register the stub verbatim, never invent.
+    if ambiguous_candidate is not None:
+        reason = "Multiple candidates cleared the confidence bar without a clear leader (ambiguity gap rule)"
+        best_candidate = ambiguous_candidate
+    elif scored:
+        reason = "No candidate cleared the confidence bar"
+        best_candidate = scored[0]
+    else:
+        reason = f"Crossref search failed: {crossref_error}" if crossref_error else "No Crossref candidates found"
+        best_candidate = None
+
+    cr.register(doi=None, status="unresolved", resolution_method="unresolved",
+                raw_ref_text=ref_text, source="ref_resolver", title=ref_text, year=ref_year)
+    return {"resolved": False, "reason": reason, "best_candidate": best_candidate, "resolution_method": "unresolved"}
