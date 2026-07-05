@@ -9,6 +9,7 @@ See [CLAUDE.md](CLAUDE.md) for the authoritative rules Claude Code follows in th
 - Python 3
 - `requests`
 - (optional, for `audit/`) `pymupdf4llm`, `ANTHROPIC_API_KEY` env var for LLM-backed claim checking
+- (optional, for `audit/`'s multi-format ingestion) `pandoc` on PATH (docx/LaTeX/HTML manuscripts); a locally-run [GROBID](https://github.com/kermitt2/grobid) service for higher-fidelity PDF conversion (`GROBID_URL`, default `http://localhost:8070` — falls back automatically to the `pymupdf4llm` path if unreachable); `CORE_API_KEY` to enable the CORE fallback in reference resolution
 
 ## Core workflow (CSL-JSON / `@citekey` manuscripts)
 
@@ -78,13 +79,27 @@ raw_openalex/            cached OpenAlex API responses
 reference.docx           pandoc reference doc for Word output
 audit/                   separate sub-project: LLM-assisted citation-accuracy
                          auditing of published papers (see audit/STATUS.md
-                         and audit/MANIFEST.md)
+                         and audit/MANIFEST.md); format_router.py normalizes
+                         PDF/docx/LaTeX/HTML/JATS input, ref_resolver.py +
+                         citation_registry.py + fallback_sources.py do
+                         hardened, deduped, never-guess reference resolution
 docs/                    supporting docs (e.g. adjudication criteria)
 ```
 
 ## `audit/` subsystem
 
-A separate, in-progress sub-project that checks whether a paper's in-text claims are actually supported by the papers it cites (fetches full text/abstracts, resolves numbered references to DOIs, and uses an LLM to flag TOPIC_MISMATCH / NUMBER_CONTRADICTION / NOT_MENTIONED claims). Current status, phase, and known issues are tracked in `audit/STATUS.md`; the file/script inventory is in `audit/MANIFEST.md`; decision history is in `audit/NOTES.md`. Requires `ANTHROPIC_API_KEY` for the LLM-backed steps.
+A separate, in-progress sub-project that checks whether a paper's in-text claims are actually supported by the papers it cites. Current status, phase, and known issues are tracked in `audit/STATUS.md`; the file/script inventory is in `audit/MANIFEST.md`; decision history is in `audit/NOTES.md`. Requires `ANTHROPIC_API_KEY` for the LLM-backed steps.
+
+```bash
+python audit/check_claims.py "paper.md"                 # .md handled directly
+python audit/check_claims.py "paper.pdf"                # GROBID, or pymupdf4llm fallback
+python audit/check_claims.py "paper.docx"                # any of docx/tex/html/xml, via pandoc/format_router
+python audit/check_claims.py --pmcid 11707628            # PMC structured JATS XML
+```
+
+**Ingestion — `format_router.py`:** normalizes any manuscript format to one standard shape before claim-checking. Dispatches by file suffix: `.xml` (JATS) passthrough; `.pdf` via `grobid_client.py` (falls back automatically to the existing `pdf_to_md.py`/pymupdf4llm path, tagged lower-confidence, if GROBID isn't reachable); `.docx`/`.tex`/`.html` via `pandoc_convert.py` (pandoc's JATS writer, with a structural fallback for manuscripts whose reference list was never citation-linked). `.md` is handled directly by `check_claims.py`, not routed through here — it has its own long-tuned parsing logic. GROBID's table/figure detection is tagged as low-confidence (`low_confidence_spans`) but not read for content; there's no dedicated table/figure agent yet.
+
+**Reference resolution — `ref_resolver.py`:** resolves a numbered reference-list entry to a DOI through an escalating, never-guess cascade: a DOI already in the text is validated directly (a dead DOI is flagged `doi_invalid`, distinct from `unresolved`); a `citation_registry.py` ledger (`audit/data/citation_registry.json`) dedupes against every prior resolution attempt, in this or any prior run, before any network call; exact-title, then fuzzy-title (with an ambiguity-gap rule — two comparably-scored candidates are left unresolved rather than guessed between) Crossref search; then an escalating fallback (`fallback_sources.py`): Semantic Scholar → DataCite → arXiv/bioRxiv/medRxiv → CORE (needs `CORE_API_KEY`, skipped cleanly without one). Every attempt's outcome, resolved or not, is recorded to the ledger with a `resolution_method` for traceability. `citation_registry.json` is separate from `library.csl.json` — the audit subsystem never writes to the manuscript bibliography.
 
 ## File rules
 
